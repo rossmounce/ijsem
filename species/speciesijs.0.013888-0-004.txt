@@ -1,0 +1,34 @@
+./AF290540.xml:  <GBSeq_organism>Cryothecomonas longipes</GBSeq_organism>
+./AB252756.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY821946.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY620321.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY620357.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./FJ824130.xml:  <GBSeq_organism>Cercozoa sp. CC-2009f</GBSeq_organism>
+./DQ243995.xml:  <GBSeq_organism>uncultured freshwater cercozoan</GBSeq_organism>
+./AY620350.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AB252746.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AB275058.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY885055.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AB191410.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./EF100205.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY620276.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY620277.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AF372764.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AB252745.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY628366.xml:  <GBSeq_organism>uncultured Cryothecomonas</GBSeq_organism>
+./AY620279.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AB191409.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY620351.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY885050.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AF372765.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AB252743.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY620353.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY620352.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY620281.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY180035.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY180018.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AF290539.xml:  <GBSeq_organism>Cryothecomonas aestivalis</GBSeq_organism>
+./AY620295.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AY180012.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>
+./AB252744.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY620340.xml:  <GBSeq_organism>uncultured cercozoan</GBSeq_organism>

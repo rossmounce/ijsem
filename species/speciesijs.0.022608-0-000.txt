@@ -1,0 +1,17 @@
+./X83803.xml:  <GBSeq_organism>Cellulomonas fimi ATCC 484</GBSeq_organism>
+./AB268586.xml:  <GBSeq_organism>Cellulomonas chitinilytica JCM 16927</GBSeq_organism>
+./AM902253.xml:  <GBSeq_organism>Cellulomonas phragmiteti</GBSeq_organism>
+./X79461.xml:  <GBSeq_organism>Cellulomonas gelida</GBSeq_organism>
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./AY884570.xml:  <GBSeq_organism>Cellulomonas terrae</GBSeq_organism>
+./AF064702.xml:  <GBSeq_organism>Cellulomonas iranensis</GBSeq_organism>
+./AY501362.xml:  <GBSeq_organism>Cellulomonas denverensis</GBSeq_organism>
+./AJ272024.xml:  <GBSeq_organism>Promicromonospora sukumoe</GBSeq_organism>
+./X83801.xml:  <GBSeq_organism>Cellulomonas uda</GBSeq_organism>
+./X82449.xml:  <GBSeq_organism>Cellulomonas humilata</GBSeq_organism>
+./X83802.xml:  <GBSeq_organism>Cellulomonas biazotea</GBSeq_organism>
+./EU560979.xml:  <GBSeq_organism>Cellulomonas aerilata</GBSeq_organism>
+./AY303668.xml:  <GBSeq_organism>Cellulomonas xylanilytica</GBSeq_organism>
+./AB166887.xml:  <GBSeq_organism>Cellulomonas composti</GBSeq_organism>
+./X79463.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>

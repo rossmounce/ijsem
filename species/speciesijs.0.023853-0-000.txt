@@ -1,0 +1,12 @@
+./X92889.xml:  <GBSeq_organism>Tolumonas auensis DSM 9187</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./GU370947.xml:  <GBSeq_organism>Tolumonas osonensis</GBSeq_organism>
+./DQ195675.xml:  <GBSeq_organism>Zobellella denitrificans</GBSeq_organism>
+./DQ195676.xml:  <GBSeq_organism>Zobellella taiwanensis</GBSeq_organism>
+./X74682.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./AY532690.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./X60404.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AJ224308.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AJ536821.xml:  <GBSeq_organism>Aeromonas simiae</GBSeq_organism>
+./X60406.xml:  <GBSeq_organism>Aeromonas bestiarum</GBSeq_organism>

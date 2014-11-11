@@ -1,0 +1,24 @@
+./EU200680.xml:  <GBSeq_organism>Pseudonocardia callicarpae</GBSeq_organism>
+./AJ252826.xml:  <GBSeq_organism>Pseudonocardia hydrocarbonoxydans</GBSeq_organism>
+./EU200678.xml:  <GBSeq_organism>Pseudonocardia fici</GBSeq_organism>
+./AF454510.xml:  <GBSeq_organism>Pseudonocardia chloroethenivorans</GBSeq_organism>
+./AY340622.xml:  <GBSeq_organism>Pseudonocardia dioxanivorans CB1190</GBSeq_organism>
+./AJ249206.xml:  <GBSeq_organism>Pseudonocardia spinosispora</GBSeq_organism>
+./EF114314.xml:  <GBSeq_organism>Pseudonocardia carboxydivorans</GBSeq_organism>
+./AJ252822.xml:  <GBSeq_organism>Pseudonocardia yunnanensis</GBSeq_organism>
+./AF430045.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AJ252824.xml:  <GBSeq_organism>Pseudonocardia autotrophica</GBSeq_organism>
+./AF325725.xml:  <GBSeq_organism>Pseudonocardia zijingensis</GBSeq_organism>
+./AJ252823.xml:  <GBSeq_organism>Pseudonocardia alni</GBSeq_organism>
+./AJ252827.xml:  <GBSeq_organism>Pseudonocardia halophobica</GBSeq_organism>
+./AF325726.xml:  <GBSeq_organism>Pseudonocardia alaniniphila</GBSeq_organism>
+./AF325727.xml:  <GBSeq_organism>Pseudonocardia aurantiaca</GBSeq_organism>
+./AJ252828.xml:  <GBSeq_organism>Pseudonocardia petroleophila</GBSeq_organism>
+./AJ556156.xml:  <GBSeq_organism>Pseudonocardia benzenivorans</GBSeq_organism>
+./Y08536.xml:  <GBSeq_organism>Pseudonocardia asaccharolytica</GBSeq_organism>
+./AJ576010.xml:  <GBSeq_organism>Pseudonocardia antarctica</GBSeq_organism>
+./AJ252833.xml:  <GBSeq_organism>Pseudonocardia kongjuensis</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AJ252825.xml:  <GBSeq_organism>Pseudonocardia compacta</GBSeq_organism>
+./Y08537.xml:  <GBSeq_organism>Pseudonocardia sulfidoxydans</GBSeq_organism>
+./AJ252829.xml:  <GBSeq_organism>Pseudonocardia saturnea</GBSeq_organism>

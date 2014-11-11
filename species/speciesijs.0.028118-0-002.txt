@@ -1,0 +1,22 @@
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./AM283543.xml:  <GBSeq_organism>Methylocystis heyeri</GBSeq_organism>
+./FM252035.xml:  <GBSeq_organism>Methylovirgula ligni</GBSeq_organism>
+./AJ563927.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./FR686345.xml:  <GBSeq_organism>Methyloferula stellata</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ563934.xml:  <GBSeq_organism>Beijerinckia derxii subsp. venezuelae</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./FR686343.xml:  <GBSeq_organism>Methyloferula stellata AR4</GBSeq_organism>
+./AJ563933.xml:  <GBSeq_organism>Beijerinckia derxii subsp. derxii</GBSeq_organism>
+./FM252034.xml:  <GBSeq_organism>Methylovirgula ligni</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ555244.xml:  <GBSeq_organism>Methylocella tundrae</GBSeq_organism>
+./AJ491847.xml:  <GBSeq_organism>Methylocella silvestris BL2</GBSeq_organism>
+./FN433469.xml:  <GBSeq_organism>Methylocapsa aurea</GBSeq_organism>
+./AJ563931.xml:  <GBSeq_organism>Beijerinckia indica subsp. lacticogenes</GBSeq_organism>
+./AJ563928.xml:  <GBSeq_organism>Methylocella tundrae</GBSeq_organism>
+./AJ563930.xml:  <GBSeq_organism>Beijerinckia indica subsp. indica ATCC 9039</GBSeq_organism>
+./FR686344.xml:  <GBSeq_organism>Methyloferula stellata</GBSeq_organism>
+./AJ563929.xml:  <GBSeq_organism>Methylocella tundrae</GBSeq_organism>
+./AJ563925.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>

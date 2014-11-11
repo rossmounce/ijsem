@@ -1,0 +1,17 @@
+./AF016046.xml:  <GBSeq_organism>Thiomicrospira thyasirae</GBSeq_organism>
+./AF013978.xml:  <GBSeq_organism>Thiomicrospira kuenenii DSM 12350</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AB009829.xml:  <GBSeq_organism>Hydrogenophilus thermoluteolus</GBSeq_organism>
+./AF013974.xml:  <GBSeq_organism>Thiomicrospira frisia</GBSeq_organism>
+./X72771.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./AF126549.xml:  <GBSeq_organism>Thioalkalimicrobium sibiricum</GBSeq_organism>
+./L40810.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./AF013975.xml:  <GBSeq_organism>Thiomicrospira chilensis</GBSeq_organism>
+./L01576.xml:  <GBSeq_organism>Thiomicrospira sp.</GBSeq_organism>
+./M34113.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./D86374.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./M99445.xml:  <GBSeq_organism>Bathymodiolus thermophilus thioautotrophic gill symbiont</GBSeq_organism>
+./M99446.xml:  <GBSeq_organism>Calyptogena magnifica symbiont</GBSeq_organism>
+./AF329082.xml:  <GBSeq_organism>Thioalkalimicrobium cyclicum ALM1</GBSeq_organism>

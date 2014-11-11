@@ -1,0 +1,9 @@
+./AF064704.xml:  <GBSeq_organism>[Bacillus] selenitireducens MLS10</GBSeq_organism>
+./AB292819.xml:  <GBSeq_organism>Bacillus polygoni</GBSeq_organism>
+./AJ493660.xml:  <GBSeq_organism>Bacillus saliphilus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D87035.xml:  <GBSeq_organism>Bacillus horti</GBSeq_organism>
+./X76444.xml:  <GBSeq_organism>[Bacillus] clarkii</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>

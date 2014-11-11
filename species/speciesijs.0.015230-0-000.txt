@@ -1,0 +1,22 @@
+./DQ438196.xml:  <GBSeq_organism>Sugiyamaella novakii</GBSeq_organism>
+./U70243.xml:  <GBSeq_organism>Nakazawaea wickerhamii</GBSeq_organism>
+./U45835.xml:  <GBSeq_organism>Sugiyamaella valdiviana</GBSeq_organism>
+./U45818.xml:  <GBSeq_organism>Candida natalensis</GBSeq_organism>
+./FJ613526.xml:  <GBSeq_organism>Candida sp. AS2.4030</GBSeq_organism>
+./U75720.xml:  <GBSeq_organism>Peterozyma toletana</GBSeq_organism>
+./U71066.xml:  <GBSeq_organism>Nakazawaea peltata</GBSeq_organism>
+./AF153673.xml:  <GBSeq_organism>Nakazawaea wyomingensis</GBSeq_organism>
+./DQ438219.xml:  <GBSeq_organism>Sugiyamaella marilandica</GBSeq_organism>
+./U76346.xml:  <GBSeq_organism>Pachysolen tannophilus</GBSeq_organism>
+./AF245400.xml:  <GBSeq_organism>Nakazawaea pomicola</GBSeq_organism>
+./AY048171.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./U70244.xml:  <GBSeq_organism>Nakazawaea anatomiae</GBSeq_organism>
+./U75718.xml:  <GBSeq_organism>Peterozyma xylosa</GBSeq_organism>
+./DQ438195.xml:  <GBSeq_organism>Sugiyamaella castrensis</GBSeq_organism>
+./DQ438194.xml:  <GBSeq_organism>Sugiyamaella paludigena</GBSeq_organism>
+./U94921.xml:  <GBSeq_organism>Candida karawaiewii</GBSeq_organism>
+./AF017236.xml:  <GBSeq_organism>Candida bertae var. chiloensis</GBSeq_organism>
+./U71067.xml:  <GBSeq_organism>Nakazawaea ishiwadae</GBSeq_organism>
+./U75722.xml:  <GBSeq_organism>Nakazawaea holstii</GBSeq_organism>
+./FJ613527.xml:  <GBSeq_organism>Candida sp. AS2.4031</GBSeq_organism>
+./U70249.xml:  <GBSeq_organism>Nakazawaea populi</GBSeq_organism>

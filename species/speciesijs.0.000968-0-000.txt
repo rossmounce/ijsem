@@ -1,0 +1,10 @@
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./DQ181549.xml:  <GBSeq_organism>Luteibacter yeojuensis</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AY987368.xml:  <GBSeq_organism>Dokdonella koreensis</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AB110498.xml:  <GBSeq_organism>Dyella japonica</GBSeq_organism>
+./AY557615.xml:  <GBSeq_organism>Silanimonas lenta</GBSeq_organism>
+./AM939778.xml:  <GBSeq_organism>Dyella marensis</GBSeq_organism>
+./AY884571.xml:  <GBSeq_organism>Dyella koreensis</GBSeq_organism>

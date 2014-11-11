@@ -1,0 +1,22 @@
+./EF204446.xml:  <GBSeq_organism>Chryseobacterium bovis DSM 19482</GBSeq_organism>
+./EF591802.xml:  <GBSeq_organism>uncultured marine RNA virus</GBSeq_organism>
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./AM232806.xml:  <GBSeq_organism>Chryseobacterium ureilyticum</GBSeq_organism>
+./AM159183.xml:  <GBSeq_organism>Chryseobacterium hispanicum</GBSeq_organism>
+./AM232813.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ704540.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./AM232809.xml:  <GBSeq_organism>Chryseobacterium pallidum</GBSeq_organism>
+./AM261868.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./AM177497.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./DQ318789.xml:  <GBSeq_organism>Chryseobacterium taiwanense</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./AY553293.xml:  <GBSeq_organism>Chryseobacterium antarcticum</GBSeq_organism>
+./AJ871397.xml:  <GBSeq_organism>Chryseobacterium vrystaatense</GBSeq_organism>
+./AM232812.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./AM773820.xml:  <GBSeq_organism>Chryseobacterium gregarium DSM 19109</GBSeq_organism>
+./EF204450.xml:  <GBSeq_organism>Chryseobacterium haifense</GBSeq_organism>
+./AF493696.xml:  <GBSeq_organism>Epilithonimonas tenax</GBSeq_organism>
+./AY468448.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./AY468447.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>

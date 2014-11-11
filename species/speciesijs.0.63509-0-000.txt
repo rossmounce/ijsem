@@ -1,0 +1,8 @@
+./M58833.xml:  <GBSeq_organism>Pediococcus acidilactici</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./AY683322.xml:  <GBSeq_organism>Lactobacillus concavus</GBSeq_organism>
+./AJ271383.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ315640.xml:  <GBSeq_organism>Lactobacillus vaccinostercus</GBSeq_organism>
+./AB033209.xml:  <GBSeq_organism>Lactobacillus algidus</GBSeq_organism>
+./D87679.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>

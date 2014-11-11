@@ -1,0 +1,12 @@
+./DQ205432.xml:  <GBSeq_organism>Proteus vulgaris</GBSeq_organism>
+./AM040490.xml:  <GBSeq_organism>Providencia heimbachae</GBSeq_organism>
+./DQ358134.xml:  <GBSeq_organism>Morganella psychrotolerans</GBSeq_organism>
+./DQ358145.xml:  <GBSeq_organism>Morganella morganii</GBSeq_organism>
+./AJ634474.xml:  <GBSeq_organism>Proteus penneri</GBSeq_organism>
+./DQ358146.xml:  <GBSeq_organism>Morganella morganii subsp. sibonii</GBSeq_organism>
+./AY994312.xml:  <GBSeq_organism>Providencia alcalifaciens</GBSeq_organism>
+./DQ358131.xml:  <GBSeq_organism>Morganella morganii</GBSeq_organism>
+./DQ358126.xml:  <GBSeq_organism>Morganella morganii</GBSeq_organism>
+./DQ358129.xml:  <GBSeq_organism>Morganella morganii</GBSeq_organism>
+./AM040492.xml:  <GBSeq_organism>Providencia rettgeri</GBSeq_organism>
+./DQ358128.xml:  <GBSeq_organism>Morganella psychrotolerans</GBSeq_organism>

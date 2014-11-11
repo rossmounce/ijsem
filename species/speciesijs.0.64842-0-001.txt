@@ -1,0 +1,14 @@
+./AY686713.xml:  <GBSeq_organism>Sulfurihydrogenibium yellowstonense SS-5</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./Z30242.xml:  <GBSeq_organism>Hydrogenobacter hydrogenophilus</GBSeq_organism>
+./AJ005640.xml:  <GBSeq_organism>Thermocrinis ruber</GBSeq_organism>
+./Z30214.xml:  <GBSeq_organism>Hydrogenobacter thermophilus TK-6</GBSeq_organism>
+./AF402979.xml:  <GBSeq_organism>uncultured Aquificales bacterium</GBSeq_organism>
+./AF528192.xml:  <GBSeq_organism>Sulfurihydrogenibium azorense Az-Fu1</GBSeq_organism>
+./AJ001049.xml:  <GBSeq_organism>Desulfurobacterium thermolithotrophum DSM 11699</GBSeq_organism>
+./AB120294.xml:  <GBSeq_organism>Hydrogenivirga caldilitoris</GBSeq_organism>
+./AF188332.xml:  <GBSeq_organism>Persephonella marina EX-H1</GBSeq_organism>
+./D16296.xml:  <GBSeq_organism>Hydrogenobaculum acidophilum</GBSeq_organism>
+./AF385630.xml:  <GBSeq_organism>Persephonella guaymasensis</GBSeq_organism>
+./AJ292525.xml:  <GBSeq_organism>Hydrogenothermus marinus</GBSeq_organism>
+./AJ278895.xml:  <GBSeq_organism>Thermocrinis albus DSM 14484</GBSeq_organism>

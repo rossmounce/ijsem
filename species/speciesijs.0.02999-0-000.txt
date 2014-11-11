@@ -1,0 +1,10 @@
+./AF547858.xml:  <GBSeq_organism>Mycobacterium mucogenicum</GBSeq_organism>
+./AF547860.xml:  <GBSeq_organism>Mycobacterium neoaurum ATCC 25795</GBSeq_organism>
+./AF547833.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./AF547834.xml:  <GBSeq_organism>Mycobacterium frederiksbergense</GBSeq_organism>
+./AF547872.xml:  <GBSeq_organism>Mycobacterium senegalense</GBSeq_organism>
+./AF547818.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./AF547825.xml:  <GBSeq_organism>Mycobacterium diernhoferi</GBSeq_organism>
+./AF547885.xml:  <GBSeq_organism>Mycobacterium tuberculosis subsp. tuberculosis</GBSeq_organism>
+./AY255477.xml:  <GBSeq_organism>Mycobacterium canariasense</GBSeq_organism>
+./AF547802.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>

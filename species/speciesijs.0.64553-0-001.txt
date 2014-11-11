@@ -1,0 +1,42 @@
+./AF399970.xml:  <GBSeq_organism>Xanthobacter viscosus</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./X99469.xml:  <GBSeq_organism>Xanthobacter tagetidis</GBSeq_organism>
+./AJ011759.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./X94199.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./X97693.xml:  <GBSeq_organism>Pedomicrobium australicum</GBSeq_organism>
+./X87272.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AJ389904.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ002139.xml:  <GBSeq_organism>Bartonella alsatica</GBSeq_organism>
+./AF399969.xml:  <GBSeq_organism>Xanthobacter aminoxidans</GBSeq_organism>
+./Y17144.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./Y14303.xml:  <GBSeq_organism>Hyphomicrobium hollandicum</GBSeq_organism>
+./AJ535707.xml:  <GBSeq_organism>Labrys monachus</GBSeq_organism>
+./X94198.xml:  <GBSeq_organism>Xanthobacter agilis</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./X67226.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./D11342.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./AF069956.xml:  <GBSeq_organism>Nitrobacter alkalicus</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AF534573.xml:  <GBSeq_organism>Nitratireductor aquibiodomus NL21 = JCM 21793</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./AY056830.xml:  <GBSeq_organism>Ancylobacter rudongensis</GBSeq_organism>
+./X73042.xml:  <GBSeq_organism>Blastobacter capsulatus</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./Y14313.xml:  <GBSeq_organism>Filomicrobium fusiforme</GBSeq_organism>
+./AY766152.xml:  <GBSeq_organism>Labrys methylaminiphilus JLW10</GBSeq_organism>
+./D32247.xml:  <GBSeq_organism>Starkeya novella DSM 506</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./DQ417335.xml:  <GBSeq_organism>Labrys neptuniae</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./U88442.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>

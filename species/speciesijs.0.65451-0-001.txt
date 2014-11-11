@@ -1,0 +1,10 @@
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./U86373.xml:  <GBSeq_organism>Burkholderia xenovorans LB400</GBSeq_organism>
+./DQ514537.xml:  <GBSeq_organism>Burkholderia ferrariae</GBSeq_organism>
+./EF635856.xml:  <GBSeq_organism>Burkholderia sartisoli</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./AF061872.xml:  <GBSeq_organism>Burkholderia sartisoli</GBSeq_organism>
+./AM745942.xml:  <GBSeq_organism>Burkholderia sartisoli</GBSeq_organism>
+./DQ108388.xml:  <GBSeq_organism>Burkholderia oklahomensis C6786</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>

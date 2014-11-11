@@ -1,0 +1,10 @@
+./X52931.xml:  <GBSeq_organism>Mycobacterium simiae</GBSeq_organism>
+./AF133902.xml:  <GBSeq_organism>Mycobacterium kubicae</GBSeq_organism>
+./AF466821.xml:  <GBSeq_organism>Mycobacterium parmense</GBSeq_organism>
+./X80770.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X70960.xml:  <GBSeq_organism>Mycobacterium heidelbergense</GBSeq_organism>
+./X67847.xml:  <GBSeq_organism>Mycobacterium intermedium</GBSeq_organism>
+./AF330038.xml:  <GBSeq_organism>Mycobacterium montefiorense</GBSeq_organism>
+./X52917.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./X60070.xml:  <GBSeq_organism>Mycobacterium genavense</GBSeq_organism>
+./U57632.xml:  <GBSeq_organism>Mycobacterium triplex</GBSeq_organism>

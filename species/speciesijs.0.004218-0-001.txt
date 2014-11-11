@@ -1,0 +1,21 @@
+./AF050099.xml:  <GBSeq_organism>Fusibacter paucivorans</GBSeq_organism>
+./AY158079.xml:  <GBSeq_organism>Tepidibacter thalassicus</GBSeq_organism>
+./AF113543.xml:  <GBSeq_organism>Thermohalobacter berrensis</GBSeq_organism>
+./Y16716.xml:  <GBSeq_organism>Natronincola histidinovorans</GBSeq_organism>
+./Y15626.xml:  <GBSeq_organism>Tindallia magadiensis</GBSeq_organism>
+./AF522323.xml:  <GBSeq_organism>Anoxynatronum sibiricum</GBSeq_organism>
+./AF373919.xml:  <GBSeq_organism>Tindallia californiensis</GBSeq_organism>
+./AJ272422.xml:  <GBSeq_organism>Caloranaerobacter azorensis DSM 13643</GBSeq_organism>
+./M59118.xml:  <GBSeq_organism>[Eubacterium] tenue</GBSeq_organism>
+./AF467248.xml:  <GBSeq_organism>Alkaliphilus crotonatoxidans</GBSeq_organism>
+./X77845.xml:  <GBSeq_organism>[Clostridium] litorale</GBSeq_organism>
+./AF071416.xml:  <GBSeq_organism>Eubacterium acidaminophilum DSM 3953</GBSeq_organism>
+./Y18183.xml:  <GBSeq_organism>Clostridium aceticum</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./AB037677.xml:  <GBSeq_organism>Alkaliphilus transvaalensis</GBSeq_organism>
+./EU443727.xml:  <GBSeq_organism>Thermotalea metallivorans</GBSeq_organism>
+./AF016691.xml:  <GBSeq_organism>Acidaminobacter hydrogenoformans</GBSeq_organism>
+./AF458779.xml:  <GBSeq_organism>Clostridium caminithermale</GBSeq_organism>
+./X77851.xml:  <GBSeq_organism>Clostridium felsineum</GBSeq_organism>
+./AJ320233.xml:  <GBSeq_organism>Caminicella sporogenes</GBSeq_organism>
+./AY682207.xml:  <GBSeq_organism>Sporacetigenium mesophilum</GBSeq_organism>

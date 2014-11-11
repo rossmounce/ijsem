@@ -1,0 +1,7 @@
+./D89892.xml:  <GBSeq_organism>Naumovozyma castellii</GBSeq_organism>
+./AY582128.xml:  <GBSeq_organism>Kazachstania sp. CBS 6904</GBSeq_organism>
+./D89895.xml:  <GBSeq_organism>Kazachstania servazzii</GBSeq_organism>
+./D89886.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./D89893.xml:  <GBSeq_organism>Naumovozyma dairenensis</GBSeq_organism>
+./AY582126.xml:  <GBSeq_organism>Kazachstania aerobia</GBSeq_organism>
+./D89896.xml:  <GBSeq_organism>Kazachstania unispora</GBSeq_organism>

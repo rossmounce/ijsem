@@ -1,0 +1,13 @@
+./AM503093.xml:  <GBSeq_organism>Marinobacter guineae</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./AJ609271.xml:  <GBSeq_organism>Marinobacter bryozoorum</GBSeq_organism>
+./EF486354.xml:  <GBSeq_organism>Marinobacter salicampi</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY241552.xml:  <GBSeq_organism>Marinobacter adhaerens HP15</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./EU164778.xml:  <GBSeq_organism>Marinobacter szutsaonensis</GBSeq_organism>
+./EU293413.xml:  <GBSeq_organism>Marinobacter zhejiangensis</GBSeq_organism>
+./EU293412.xml:  <GBSeq_organism>Marinobacter mobilis</GBSeq_organism>
+./EU496088.xml:  <GBSeq_organism>Marinobacter santoriniensis NKSG1</GBSeq_organism>
+./EF660754.xml:  <GBSeq_organism>Marinobacter goseongensis</GBSeq_organism>

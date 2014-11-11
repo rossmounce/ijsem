@@ -1,0 +1,12 @@
+./AM176541.xml:  <GBSeq_organism>Arthrobacter phenanthrenivorans Sphe3</GBSeq_organism>
+./X80737.xml:  <GBSeq_organism>Arthrobacter citreus</GBSeq_organism>
+./X80744.xml:  <GBSeq_organism>Arthrobacter ureafaciens</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./X83406.xml:  <GBSeq_organism>Arthrobacter histidinolovorans</GBSeq_organism>
+./AF102267.xml:  <GBSeq_organism>Arthrobacter chlorophenolicus</GBSeq_organism>
+./X80743.xml:  <GBSeq_organism>Arthrobacter nicotinovorans</GBSeq_organism>
+./X80740.xml:  <GBSeq_organism>Arthrobacter pascens</GBSeq_organism>
+./AY457078.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./X80741.xml:  <GBSeq_organism>Arthrobacter polychromogenes</GBSeq_organism>
+./X83405.xml:  <GBSeq_organism>Arthrobacter aurescens</GBSeq_organism>
+./M23411.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>

@@ -1,0 +1,16 @@
+./X75272.xml:  <GBSeq_organism>Clostridium grantii</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./Y18181.xml:  <GBSeq_organism>[Clostridium] methylpentosum DSM 5476</GBSeq_organism>
+./Y18180.xml:  <GBSeq_organism>[Clostridium] thermosuccinogenes</GBSeq_organism>
+./L37594.xml:  <GBSeq_organism>Clostridium novyi</GBSeq_organism>
+./DQ126679.xml:  <GBSeq_organism>Clostridium aestuarii</GBSeq_organism>
+./AY903294.xml:  <GBSeq_organism>Clostridium ganghwense</GBSeq_organism>
+./Y18185.xml:  <GBSeq_organism>[Clostridium] saccharolyticum WM1</GBSeq_organism>
+./X76744.xml:  <GBSeq_organism>Clostridium homopropionicum</GBSeq_organism>
+./Y18183.xml:  <GBSeq_organism>Clostridium aceticum</GBSeq_organism>
+./Y18184.xml:  <GBSeq_organism>[Clostridium] indolis</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./Y18187.xml:  <GBSeq_organism>Flavonifractor plautii DSM 6740</GBSeq_organism>
+./X77851.xml:  <GBSeq_organism>Clostridium felsineum</GBSeq_organism>
+./Y18173.xml:  <GBSeq_organism>Clostridium haemolyticum</GBSeq_organism>
+./Y18186.xml:  <GBSeq_organism>[Clostridium] scindens</GBSeq_organism>

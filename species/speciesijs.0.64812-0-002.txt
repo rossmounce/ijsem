@@ -1,0 +1,14 @@
+./AM419466.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./AM419463.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./AY339131.xml:  <GBSeq_organism>Aeriscardovia aeriphila</GBSeq_organism>
+./AF240565.xml:  <GBSeq_organism>Parascardovia denticolens DSM 10105 = JCM 12538</GBSeq_organism>
+./AM419464.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./AY004281.xml:  <GBSeq_organism>Scardovia inopinata JCM 12537</GBSeq_organism>
+./AM419462.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./AY004273.xml:  <GBSeq_organism>Bifidobacterium animalis</GBSeq_organism>
+./AJ586869.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002</GBSeq_organism>
+./AM419465.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./AF240579.xml:  <GBSeq_organism>Gardnerella vaginalis ATCC 14018 = JCM 11026</GBSeq_organism>
+./AM419467.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./AF210319.xml:  <GBSeq_organism>Bifidobacterium adolescentis</GBSeq_organism>
+./AY004280.xml:  <GBSeq_organism>Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456</GBSeq_organism>

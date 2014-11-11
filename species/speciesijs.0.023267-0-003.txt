@@ -1,0 +1,27 @@
+./AY211482.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./AY211473.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./AY932823.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./GU191908.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./AY211476.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./GU191910.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN662486.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./EU138495.xml:  <GBSeq_organism>Bacillus subtilis subsp. inaquosorum</GBSeq_organism>
+./EF188847.xml:  <GBSeq_organism>Bacillus atrophaeus subsp. globigii</GBSeq_organism>
+./AY211475.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN652003.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN597644.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./AM900514.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN652002.xml:  <GBSeq_organism>Bacillus amyloliquefaciens subsp. plantarum</GBSeq_organism>
+./EU138487.xml:  <GBSeq_organism>Bacillus tequilensis</GBSeq_organism>
+./AY055219.xml:  <GBSeq_organism>Bacillus amyloliquefaciens subsp. plantarum</GBSeq_organism>
+./AY211474.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./AM900515.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./EU188496.xml:  <GBSeq_organism>Erium sp. NH67 NBH-2007</GBSeq_organism>
+./AY055226.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN652005.xml:  <GBSeq_organism>Bacillus amyloliquefaciens subsp. plantarum</GBSeq_organism>
+./GU191913.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./GU191912.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN662485.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./FN652000.xml:  <GBSeq_organism>Bacillus amyloliquefaciens subsp. plantarum</GBSeq_organism>
+./FN652004.xml:  <GBSeq_organism>Bacillus amyloliquefaciens subsp. plantarum</GBSeq_organism>
+./CP000560.xml:  <GBSeq_organism>Bacillus amyloliquefaciens subsp. plantarum str. FZB42</GBSeq_organism>

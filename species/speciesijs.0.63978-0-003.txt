@@ -1,0 +1,5 @@
+./DQ007324.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./DQ007323.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./DQ007330.xml:  <GBSeq_organism>Tetrasphaera jenkinsii</GBSeq_organism>
+./DQ007326.xml:  <GBSeq_organism>Tetrasphaera australiensis</GBSeq_organism>
+./DQ007328.xml:  <GBSeq_organism>Tetrasphaera veronensis</GBSeq_organism>

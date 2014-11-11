@@ -1,0 +1,11 @@
+./X93995.xml:  <GBSeq_organism>Mycobacterium</GBSeq_organism>
+./X88914.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X88913.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./AF014937.xml:  <GBSeq_organism>Mycobacterium interjectum</GBSeq_organism>
+./X80770.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./AJ272088.xml:  <GBSeq_organism>Mycobacterium interjectum</GBSeq_organism>
+./X93034.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./AF152559.xml:  <GBSeq_organism>Mycobacterium parascrofulaceum</GBSeq_organism>
+./X88909.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X88915.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X88910.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>

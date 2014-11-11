@@ -1,0 +1,28 @@
+./AY631945.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./AF225546.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578101.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF262037.xml:  <GBSeq_organism>Helicobacter canadensis</GBSeq_organism>
+./AF246984.xml:  <GBSeq_organism>Helicobacter winghamensis</GBSeq_organism>
+./AF225547.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./M88137.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./EF569185.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./AY686609.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./AY631950.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY631951.xml:  <GBSeq_organism>Helicobacter ganmani</GBSeq_organism>
+./U51873.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578099.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF297868.xml:  <GBSeq_organism>Helicobacter aurati</GBSeq_organism>
+./AY578097.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./M88154.xml:  <GBSeq_organism>Helicobacter fennelliae</GBSeq_organism>
+./M88150.xml:  <GBSeq_organism>Helicobacter cinaedi CCUG 18818</GBSeq_organism>
+./AF207739.xml:  <GBSeq_organism>Helicobacter cinaedi</GBSeq_organism>
+./AF225548.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./AY578100.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./M80205.xml:  <GBSeq_organism>Helicobacter muridarum</GBSeq_organism>
+./AY578094.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./U18766.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./GO148740.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./M88138.xml:  <GBSeq_organism>Helicobacter bilis ATCC 43879</GBSeq_organism>
+./GO148739.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./AF107494.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira taxon 10&apos;</GBSeq_organism>
+./AY631956.xml:  <GBSeq_organism>Helicobacter pullorum NCTC 12824</GBSeq_organism>

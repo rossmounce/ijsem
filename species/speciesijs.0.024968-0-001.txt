@@ -1,0 +1,9 @@
+./AL646052.xml:  <GBSeq_organism>Ralstonia solanacearum GMI1000</GBSeq_organism>
+./EF618610.xml:  <GBSeq_organism>Thiovirga sulfuroxydans</GBSeq_organism>
+./EF618604.xml:  <GBSeq_organism>Thiobacillus plumbophilus</GBSeq_organism>
+./CP000852.xml:  <GBSeq_organism>Caldivirga maquilingensis IC-167</GBSeq_organism>
+./CP000316.xml:  <GBSeq_organism>Polaromonas sp. JS666</GBSeq_organism>
+./CU633749.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./AE000657.xml:  <GBSeq_organism>Aquifex aeolicus VF5</GBSeq_organism>
+./EF618607.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./EF618597.xml:  <GBSeq_organism>Thiobacillus aquaesulis</GBSeq_organism>

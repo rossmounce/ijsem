@@ -1,0 +1,20 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./D45061.xml:  <GBSeq_organism>Agromyces hippuratus</GBSeq_organism>
+./GO241325.xml:  <GBSeq_organism>Cicer microphyllum</GBSeq_organism>
+./U09761.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./AF159364.xml:  <GBSeq_organism>Rathayibacter caricis</GBSeq_organism>
+./AY158025.xml:  <GBSeq_organism>Agromyces fucosus</GBSeq_organism>
+./AF389342.xml:  <GBSeq_organism>Agromyces aurantiacus</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X77449.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./X77448.xml:  <GBSeq_organism>Agromyces cerinus subsp. cerinus</GBSeq_organism>
+./FJ607310.xml:  <GBSeq_organism>Agromyces atrinae</GBSeq_organism>
+./AB515329.xml:  <GBSeq_organism>Agromyces tropicus</GBSeq_organism>
+./AY507128.xml:  <GBSeq_organism>Agromyces neolithicus</GBSeq_organism>
+./AY618215.xml:  <GBSeq_organism>Agromyces italicus</GBSeq_organism>
+./AY277619.xml:  <GBSeq_organism>Agromyces cerinus subsp. nitratus</GBSeq_organism>
+./AB454378.xml:  <GBSeq_organism>Agromyces tropicus</GBSeq_organism>
+./U30254.xml:  <GBSeq_organism>Clavibacter michiganensis subsp. tessellarius</GBSeq_organism>
+./X77434.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./AY507129.xml:  <GBSeq_organism>Agromyces salentinus</GBSeq_organism>

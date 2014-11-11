@@ -1,0 +1,12 @@
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./AM229669.xml:  <GBSeq_organism>Sphingomonas mucosissima</GBSeq_organism>
+./AJ429239.xml:  <GBSeq_organism>Sphingomonas faeni</GBSeq_organism>
+./AB166883.xml:  <GBSeq_organism>Sphingomonas soli</GBSeq_organism>
+./Y09637.xml:  <GBSeq_organism>Sphingomonas pruni</GBSeq_organism>
+./EF660755.xml:  <GBSeq_organism>Sphingomonas aestuarii</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./DQ178975.xml:  <GBSeq_organism>Sphingomonas dokdonensis</GBSeq_organism>
+./AJ429236.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./AJ429240.xml:  <GBSeq_organism>Sphingomonas aerolata</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>

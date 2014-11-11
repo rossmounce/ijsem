@@ -1,0 +1,15 @@
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./U85845.xml:  <GBSeq_organism>Colwellia demingiae</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./U85846.xml:  <GBSeq_organism>Colwellia psychrotropica</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./U14581.xml:  <GBSeq_organism>Colwellia rossensis</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AB369380.xml:  <GBSeq_organism>Thalassomonas actiniarum</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./HM237288.xml:  <GBSeq_organism>Thalassotalea agariperforans</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AY643537.xml:  <GBSeq_organism>Thalassotalea loyana</GBSeq_organism>
+./AY194066.xml:  <GBSeq_organism>Thalassotalea ganghwensis</GBSeq_organism>
+./U85847.xml:  <GBSeq_organism>Colwellia hornerae</GBSeq_organism>

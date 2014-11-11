@@ -1,0 +1,16 @@
+./AM259120.xml:  <GBSeq_organism>Lactobacillus namurensis</GBSeq_organism>
+./AF264701.xml:  <GBSeq_organism>Lactobacillus diolivorans</GBSeq_organism>
+./AJ534844.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./AJ575743.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./M58821.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AJ786664.xml:  <GBSeq_organism>Lactobacillus paracollinoides</GBSeq_organism>
+./AJ970317.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AM158249.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./AJ632219.xml:  <GBSeq_organism>Lactobacillus hammesii</GBSeq_organism>
+./AJ632158.xml:  <GBSeq_organism>Lactobacillus acidifarinae</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./AM259119.xml:  <GBSeq_organism>Lactobacillus namurensis</GBSeq_organism>
+./AY579584.xml:  <GBSeq_organism>Lactobacillus kefiri DSM 20587 = JCM 5818</GBSeq_organism>
+./AJ632157.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>
+./AY026750.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>

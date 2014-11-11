@@ -1,0 +1,21 @@
+./AF529063.xml:  <GBSeq_organism>Nocardioides aquiterrae</GBSeq_organism>
+./AF005017.xml:  <GBSeq_organism>Nocardioides fulvus</GBSeq_organism>
+./AF005007.xml:  <GBSeq_organism>Nocardioides luteus</GBSeq_organism>
+./AF237815.xml:  <GBSeq_organism>Actinopolymorpha singaporensis</GBSeq_organism>
+./AF004988.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./AY423719.xml:  <GBSeq_organism>Nocardioides aestuarii</GBSeq_organism>
+./AY835924.xml:  <GBSeq_organism>Nocardioides kribbensis</GBSeq_organism>
+./DQ121389.xml:  <GBSeq_organism>Nocardioides lentus</GBSeq_organism>
+./U61298.xml:  <GBSeq_organism>Nocardioides pyridinolyticus JCM 10369</GBSeq_organism>
+./AY633969.xml:  <GBSeq_organism>Nocardioides alkalitolerans</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AY423718.xml:  <GBSeq_organism>Nocardioides ganghwensis</GBSeq_organism>
+./AF005024.xml:  <GBSeq_organism>Nocardioides nitrophenolicus</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./Y18629.xml:  <GBSeq_organism>Marmoricola aurantiacus</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AF005008.xml:  <GBSeq_organism>Nocardioides plantarum</GBSeq_organism>
+./X94145.xml:  <GBSeq_organism>Nocardioides aquaticus</GBSeq_organism>
+./AJ698724.xml:  <GBSeq_organism>Nocardioides oleivorans</GBSeq_organism>
+./AF005006.xml:  <GBSeq_organism>Nocardioides jensenii</GBSeq_organism>
+./AF005009.xml:  <GBSeq_organism>Pimelobacter simplex</GBSeq_organism>

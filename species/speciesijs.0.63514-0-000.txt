@@ -1,0 +1,13 @@
+./AB039830.xml:  <GBSeq_organism>Chryseobacterium proteolyticum</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./M58776.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./M59052.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M58774.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./U10877.xml:  <GBSeq_organism>Riemerella anatipestifer ATCC 11845 = DSM 15868</GBSeq_organism>
+./AB071953.xml:  <GBSeq_organism>Elizabethkingia miricola</GBSeq_organism>
+./AJ843132.xml:  <GBSeq_organism>Chryseobacterium taichungense</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AF114809.xml:  <GBSeq_organism>Saccharothrix longispora</GBSeq_organism>
+./X76965.xml:  <GBSeq_organism>Saccharothrix mutabilis subsp. capreolus</GBSeq_organism>
+./AF114807.xml:  <GBSeq_organism>Saccharothrix espanaensis</GBSeq_organism>
+./AY054972.xml:  <GBSeq_organism>Saccharothrix algeriensis</GBSeq_organism>
+./AF114814.xml:  <GBSeq_organism>Saccharothrix texasensis</GBSeq_organism>
+./AF114805.xml:  <GBSeq_organism>Saccharothrix coeruleofusca</GBSeq_organism>
+./AB020031.xml:  <GBSeq_organism>Umezawaea tangerina</GBSeq_organism>
+./X76966.xml:  <GBSeq_organism>Saccharothrix mutabilis</GBSeq_organism>
+./AY135693.xml:  <GBSeq_organism>Saccharothrix xinjiangensis</GBSeq_organism>
+./DQ093349.xml:  <GBSeq_organism>Goodfellowiella coeruleoviolacea</GBSeq_organism>
+./AF114806.xml:  <GBSeq_organism>Crossiella cryophila</GBSeq_organism>
+./AF114812.xml:  <GBSeq_organism>Saccharothrix syringae</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AF114803.xml:  <GBSeq_organism>Saccharothrix australiensis</GBSeq_organism>

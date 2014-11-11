@@ -1,0 +1,9 @@
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF468448.xml:  <GBSeq_organism>Pseudomonas jinjuensis</GBSeq_organism>
+./EF424401.xml:  <GBSeq_organism>Pseudomonas panipatensis</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AF039489.xml:  <GBSeq_organism>Pseudomonas knackmussii B13</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./U01916.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./M59154.xml:  <GBSeq_organism>Pseudomonas mendocina</GBSeq_organism>
+./X96787.xml:  <GBSeq_organism>Pseudomonas multiresinivorans</GBSeq_organism>

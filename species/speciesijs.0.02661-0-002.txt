@@ -1,0 +1,7 @@
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./AF074970.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./X64465.xml:  <GBSeq_organism>Bacillus methanolicus</GBSeq_organism>
+./U49078.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ250318.xml:  <GBSeq_organism>Bacillus shackletonii</GBSeq_organism>
+./Y14693.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>

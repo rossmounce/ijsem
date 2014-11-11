@@ -1,0 +1,16 @@
+./AJ867322.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./AJ867295.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./EF059911.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AJ867330.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AJ242581.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AE014292.xml:  <GBSeq_organism>Brucella suis 1330</GBSeq_organism>
+./AJ867302.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AJ867326.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AE009481.xml:  <GBSeq_organism>Brucella melitensis 16M</GBSeq_organism>
+./AJ242580.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./EF059909.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./EF059910.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./AE017224.xml:  <GBSeq_organism>Brucella abortus bv. 1 str. 9-941</GBSeq_organism>
+./AJ867340.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./AJ867297.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AJ867332.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>

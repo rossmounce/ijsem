@@ -1,0 +1,10 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ237607.xml:  <GBSeq_organism>Desulfobacterium indolicum</GBSeq_organism>
+./AY493562.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./AJ277887.xml:  <GBSeq_organism>Desulfococcus biacutus</GBSeq_organism>
+./AJ237603.xml:  <GBSeq_organism>Desulfosarcina cetonica</GBSeq_organism>
+./M34407.xml:  <GBSeq_organism>Desulfosarcina variabilis</GBSeq_organism>
+./DQ146482.xml:  <GBSeq_organism>Desulfatirhabdium butyrativorans</GBSeq_organism>
+./AF418173.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AY184360.xml:  <GBSeq_organism>Desulfatibacillum aliphaticivorans</GBSeq_organism>
+./AJ237602.xml:  <GBSeq_organism>[Desulfobacterium] catecholicum</GBSeq_organism>

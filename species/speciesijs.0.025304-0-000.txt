@@ -1,0 +1,14 @@
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./EU150134.xml:  <GBSeq_organism>Achromobacter marplatensis</GBSeq_organism>
+./AY131213.xml:  <GBSeq_organism>Kerstersia gyiorum</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./FM999732.xml:  <GBSeq_organism>Achromobacter spanius</GBSeq_organism>
+./FM999734.xml:  <GBSeq_organism>Achromobacter denitrificans</GBSeq_organism>
+./U04820.xml:  <GBSeq_organism>Bordetella holmesii ATCC 51541</GBSeq_organism>
+./AF282916.xml:  <GBSeq_organism>Pigmentiphaga kullae</GBSeq_organism>
+./FM999735.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./FM999731.xml:  <GBSeq_organism>Achromobacter piechaudii</GBSeq_organism>
+./FM999733.xml:  <GBSeq_organism>Achromobacter insolitus</GBSeq_organism>
+./U04949.xml:  <GBSeq_organism>Bordetella parapertussis</GBSeq_organism>

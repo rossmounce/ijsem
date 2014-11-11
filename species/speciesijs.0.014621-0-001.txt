@@ -1,0 +1,20 @@
+./AY169326.xml:  <GBSeq_organism>Aeromonas bestiarum</GBSeq_organism>
+./AY169325.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./EF465512.xml:  <GBSeq_organism>Aeromonas bivalvium</GBSeq_organism>
+./FJ807277.xml:  <GBSeq_organism>Aeromonas sanarellii</GBSeq_organism>
+./AY169339.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./AY169347.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AY169346.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AY169344.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./FJ603453.xml:  <GBSeq_organism>Aeromonas fluvialis</GBSeq_organism>
+./AY169337.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./AY169327.xml:  <GBSeq_organism>Aeromonas salmonicida subsp. salmonicida</GBSeq_organism>
+./EU268457.xml:  <GBSeq_organism>Aeromonas dhakensis</GBSeq_organism>
+./AY169348.xml:  <GBSeq_organism>Aeromonas allosaccharophila</GBSeq_organism>
+./AY169336.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./FM999725.xml:  <GBSeq_organism>Aeromonas tecta</GBSeq_organism>
+./AY127862.xml:  <GBSeq_organism>Aeromonas veronii bv. veronii</GBSeq_organism>
+./AY169340.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./AY169338.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./DQ411509.xml:  <GBSeq_organism>Aeromonas simiae</GBSeq_organism>
+./AY169341.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>

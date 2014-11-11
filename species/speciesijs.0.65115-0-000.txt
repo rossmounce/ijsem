@@ -1,0 +1,22 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./AM159183.xml:  <GBSeq_organism>Chryseobacterium hispanicum</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./AY883416.xml:  <GBSeq_organism>Chryseobacterium taeanense</GBSeq_organism>
+./AF207075.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./AM040439.xml:  <GBSeq_organism>Chryseobacterium piscium</GBSeq_organism>
+./M58774.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./AB193101.xml:  <GBSeq_organism>Chryseobacterium shigense</GBSeq_organism>
+./DQ318789.xml:  <GBSeq_organism>Chryseobacterium taiwanense</GBSeq_organism>
+./U10877.xml:  <GBSeq_organism>Riemerella anatipestifer ATCC 11845 = DSM 15868</GBSeq_organism>
+./AJ871397.xml:  <GBSeq_organism>Chryseobacterium vrystaatense</GBSeq_organism>
+./EF204450.xml:  <GBSeq_organism>Chryseobacterium haifense</GBSeq_organism>
+./DQ336714.xml:  <GBSeq_organism>Chryseobacterium caeni</GBSeq_organism>
+./AJ843132.xml:  <GBSeq_organism>Chryseobacterium taichungense</GBSeq_organism>
+./AJ457206.xml:  <GBSeq_organism>Chryseobacterium daecheongense</GBSeq_organism>
+./AJ309324.xml:  <GBSeq_organism>Chryseobacterium defluvii</GBSeq_organism>
+./AY315443.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>

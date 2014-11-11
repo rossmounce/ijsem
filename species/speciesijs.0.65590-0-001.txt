@@ -1,0 +1,23 @@
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./X53854.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./AY906862.xml:  <GBSeq_organism>Jannaschia seosinensis</GBSeq_organism>
+./AY189743.xml:  <GBSeq_organism>Paracoccus haeundaensis</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AJ864469.xml:  <GBSeq_organism>Paracoccus bengalensis</GBSeq_organism>
+./AJ844281.xml:  <GBSeq_organism>Rubellimicrobium thermophilum</GBSeq_organism>
+./AB246747.xml:  <GBSeq_organism>Loktanella atrilutea</GBSeq_organism>
+./AF250332.xml:  <GBSeq_organism>Paracoccus kondratievae</GBSeq_organism>
+./Y16933.xml:  <GBSeq_organism>Paracoccus pantotrophus</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./AM408117.xml:  <GBSeq_organism>Rhodobacter vinaykumarii</GBSeq_organism>
+./AY639887.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./DQ667965.xml:  <GBSeq_organism>Donghicola eburneus</GBSeq_organism>
+./AJ582225.xml:  <GBSeq_organism>Loktanella fryxellensis</GBSeq_organism>
+./DQ178660.xml:  <GBSeq_organism>Pelagibaca bermudensis HTCC2601</GBSeq_organism>
+./AF136850.xml:  <GBSeq_organism>Ketogulonicigenium robustum</GBSeq_organism>
+./DQ981486.xml:  <GBSeq_organism>Leisingera daeponensis</GBSeq_organism>
+./EF547368.xml:  <GBSeq_organism>Rubellimicrobium mesophilum DSM 19309</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./DQ344498.xml:  <GBSeq_organism>Loktanella koreensis</GBSeq_organism>

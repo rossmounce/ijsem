@@ -1,0 +1,17 @@
+./AJ557886.xml:  <GBSeq_organism>Flavobacterium degerlachei</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./EF126993.xml:  <GBSeq_organism>Flavobacterium cucumis</GBSeq_organism>
+./EF407880.xml:  <GBSeq_organism>Flavobacterium cheniae</GBSeq_organism>
+./AM230489.xml:  <GBSeq_organism>Flavobacterium johnsoniae UW101</GBSeq_organism>
+./AB180738.xml:  <GBSeq_organism>Flavobacterium granuli</GBSeq_organism>
+./AJ557888.xml:  <GBSeq_organism>Flavobacterium micromati</GBSeq_organism>
+./AM230491.xml:  <GBSeq_organism>Flavobacterium saccharophilum</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./DQ178976.xml:  <GBSeq_organism>Flavobacterium soli</GBSeq_organism>
+./EU046269.xml:  <GBSeq_organism>Flavobacterium anhuiense</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./DQ222427.xml:  <GBSeq_organism>Flavobacterium daejeonense</GBSeq_organism>
+./AM230492.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>

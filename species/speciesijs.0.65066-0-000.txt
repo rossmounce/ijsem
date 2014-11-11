@@ -1,0 +1,15 @@
+./AJ242581.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AY776289.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./U70978.xml:  <GBSeq_organism>Ochrobactrum intermedium LMG 3301</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AY594215.xml:  <GBSeq_organism>Brucella melitensis biovar Melitensis</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AL591782.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AM180484.xml:  <GBSeq_organism>Pseudochrobactrum saccharolyticum</GBSeq_organism>
+./D12794.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AM422372.xml:  <GBSeq_organism>Colchicum vernum</GBSeq_organism>
+./AM041247.xml:  <GBSeq_organism>Ochrobactrum oryzae</GBSeq_organism>
+./AJ242584.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AM422371.xml:  <GBSeq_organism>Ochrobactrum pseudogrignonense</GBSeq_organism>
+./AM180485.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

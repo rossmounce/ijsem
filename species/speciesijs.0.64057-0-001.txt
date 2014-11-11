@@ -1,0 +1,14 @@
+./U95951.xml:  <GBSeq_organism>Desulfotomaculum reducens MI-1</GBSeq_organism>
+./Y18049.xml:  <GBSeq_organism>Desulfovibrio zosterae</GBSeq_organism>
+./M34409.xml:  <GBSeq_organism>Desulfobacterium autotrophicum</GBSeq_organism>
+./X95231.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF418174.xml:  <GBSeq_organism>Desulfarculus baarsii DSM 2075</GBSeq_organism>
+./AF192153.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./M34399.xml:  <GBSeq_organism>Desulfovibrio vulgaris str. Hildenborough</GBSeq_organism>
+./DQ148943.xml:  <GBSeq_organism>Desulfovibrio frigidus</GBSeq_organism>
+./M34401.xml:  <GBSeq_organism>Desulfovibrio salexigens</GBSeq_organism>
+./AF458778.xml:  <GBSeq_organism>Desulfovibrio hydrothermalis AM13 = DSM 14728</GBSeq_organism>
+./M34410.xml:  <GBSeq_organism>Desulfobulbus propionicus</GBSeq_organism>
+./DQ148944.xml:  <GBSeq_organism>Desulfovibrio ferrireducens</GBSeq_organism>
+./AY359868.xml:  <GBSeq_organism>Desulfovibrio bastinii</GBSeq_organism>
+./DQ148945.xml:  <GBSeq_organism>Desulfovibrio frigidus</GBSeq_organism>

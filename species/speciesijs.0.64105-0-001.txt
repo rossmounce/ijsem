@@ -1,0 +1,22 @@
+./Z26939.xml:  <GBSeq_organism>[Bacillus] thermocloacae</GBSeq_organism>
+./AB021186.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./Z26930.xml:  <GBSeq_organism>Aeribacillus pallidus</GBSeq_organism>
+./AJ010478.xml:  <GBSeq_organism>Bacillus sp.</GBSeq_organism>
+./Z26935.xml:  <GBSeq_organism>Bacillus smithii</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AF326278.xml:  <GBSeq_organism>Geobacillus toebii</GBSeq_organism>
+./L27478.xml:  <GBSeq_organism>Bacillus thermoamylovorans</GBSeq_organism>
+./AJ302709.xml:  <GBSeq_organism>Bacillus halodurans</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./X62180.xml:  <GBSeq_organism>[Bacillus] caldotenax</GBSeq_organism>
+./D87035.xml:  <GBSeq_organism>Bacillus horti</GBSeq_organism>
+./AJ294817.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AJ277983.xml:  <GBSeq_organism>Psychrobacillus psychrotolerans</GBSeq_organism>
+./AY753654.xml:  <GBSeq_organism>Caldalkalibacillus thermarum</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./Z26931.xml:  <GBSeq_organism>Bacillus thermoalkalophilus</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>
+./AJ005795.xml:  <GBSeq_organism>Thermobacillus xylanilyticus</GBSeq_organism>

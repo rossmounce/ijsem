@@ -1,0 +1,7 @@
+./X92357.xml:  <GBSeq_organism>Geodermatophilus obscurus subsp. utahensis</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./AY831385.xml:  <GBSeq_organism>Quadrisphaera granulorum</GBSeq_organism>
+./AB377116.xml:  <GBSeq_organism>Kineosporia babensis</GBSeq_organism>
+./L41048.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./AB377118.xml:  <GBSeq_organism>Kineosporia babensis</GBSeq_organism>
+./X77958.xml:  <GBSeq_organism>Kineococcus aurantiacus</GBSeq_organism>

@@ -1,0 +1,110 @@
+./Y11552.xml:  <GBSeq_organism>Antarctobacter heliothermus</GBSeq_organism>
+./Z31349.xml:  <GBSeq_organism>Bartonella grahamii</GBSeq_organism>
+./U88043.xml:  <GBSeq_organism>Amaricoccus veronensis</GBSeq_organism>
+./U63733.xml:  <GBSeq_organism>Zymomonas mobilis</GBSeq_organism>
+./AF544015.xml:  <GBSeq_organism>Parvularcula bermudensis HTCC2503</GBSeq_organism>
+./D58524.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AF082795.xml:  <GBSeq_organism>Hyphomonas rosenbergii</GBSeq_organism>
+./AJ227756.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./D32242.xml:  <GBSeq_organism>Paracoccus thiocyanatus</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AJ227813.xml:  <GBSeq_organism>Hyphomonas polymorpha</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ011759.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./D32241.xml:  <GBSeq_organism>Paracoccus kocurii</GBSeq_organism>
+./L26168.xml:  <GBSeq_organism>Brucella ovis</GBSeq_organism>
+./D58522.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./AJ227812.xml:  <GBSeq_organism>Sphingomonas leidyi</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./D16419.xml:  <GBSeq_organism>Rhodovulum strictum</GBSeq_organism>
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./U88042.xml:  <GBSeq_organism>Amaricoccus macauensis</GBSeq_organism>
+./D32239.xml:  <GBSeq_organism>Paracoccus aminophilus</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AJ007803.xml:  <GBSeq_organism>Caulobacter fusiformis</GBSeq_organism>
+./X52909.xml:  <GBSeq_organism>Hirschia baltica ATCC 49814</GBSeq_organism>
+./AF041442.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./D13727.xml:  <GBSeq_organism>Sphingopyxis terrae</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./U88041.xml:  <GBSeq_organism>Amaricoccus kaplicensis</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AJ227785.xml:  <GBSeq_organism>Brevundimonas alba</GBSeq_organism>
+./Y13827.xml:  <GBSeq_organism>Paracoccus alkenifer</GBSeq_organism>
+./D11343.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./Y15011.xml:  <GBSeq_organism>Rhodovulum iodosum</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./M83796.xml:  <GBSeq_organism>Brevundimonas bacteroides</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./Z31351.xml:  <GBSeq_organism>Bartonella doshiae</GBSeq_organism>
+./U20773.xml:  <GBSeq_organism>Novosphingobium subterraneum</GBSeq_organism>
+./AJ007799.xml:  <GBSeq_organism>Asticcacaulis biprosthecium</GBSeq_organism>
+./Y15012.xml:  <GBSeq_organism>Rhodovulum robiginosum</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./AF072542.xml:  <GBSeq_organism>Pseudaminobacter salicylatoxidans</GBSeq_organism>
+./AF248638.xml:  <GBSeq_organism>Rhodobaca bogoriensis DSM 18756</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./AF030437.xml:  <GBSeq_organism>Methylarcula terricola</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./U14583.xml:  <GBSeq_organism>Octadecabacter antarcticus 307</GBSeq_organism>
+./D16145.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./D14513.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./D70846.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./D13737.xml:  <GBSeq_organism>Sphingobium suberifaciens</GBSeq_organism>
+./D16418.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./AJ007805.xml:  <GBSeq_organism>Caulobacter henricii</GBSeq_organism>
+./AB006899.xml:  <GBSeq_organism>Paracoccus carotinifaciens</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AJ227786.xml:  <GBSeq_organism>Brevundimonas intermedia</GBSeq_organism>
+./U20756.xml:  <GBSeq_organism>Novosphingobium aromaticivorans</GBSeq_organism>
+./X94470.xml:  <GBSeq_organism>Brevundimonas subvibrioides ATCC 15264</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AF534573.xml:  <GBSeq_organism>Nitratireductor aquibiodomus NL21 = JCM 21793</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY178866.xml:  <GBSeq_organism>Philoria loveridgei</GBSeq_organism>
+./AF082789.xml:  <GBSeq_organism>Hyphomonas jannaschiana</GBSeq_organism>
+./AB016610.xml:  <GBSeq_organism>Asticcacaulis excentricus CB 48</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AJ309862.xml:  <GBSeq_organism>Oceanicaulis alexandrii</GBSeq_organism>
+./D16421.xml:  <GBSeq_organism>Rhodobacter veldkampii DSM 11550</GBSeq_organism>
+./D32238.xml:  <GBSeq_organism>Paracoccus alcaliphilus</GBSeq_organism>
+./D16426.xml:  <GBSeq_organism>Rhodovulum euryhalinum</GBSeq_organism>
+./AF465833.xml:  <GBSeq_organism>Albidovulum inexpectatum</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./AF041447.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AJ007508.xml:  <GBSeq_organism>Gnetum gnemon</GBSeq_organism>
+./X73042.xml:  <GBSeq_organism>Blastobacter capsulatus</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./Y07705.xml:  <GBSeq_organism>Paracoccus solventivorans</GBSeq_organism>
+./AJ227787.xml:  <GBSeq_organism>Brevundimonas aurantiaca</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./Y16931.xml:  <GBSeq_organism>Paracoccus versutus</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./AF076237.xml:  <GBSeq_organism>Bartonella koehlerae C-29</GBSeq_organism>
+./AF082798.xml:  <GBSeq_organism>Hyphomonas neptunium</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AJ227783.xml:  <GBSeq_organism>Brevundimonas variabilis</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./AF136849.xml:  <GBSeq_organism>Ketogulonicigenium vulgare</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./U71078.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./U88442.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AJ227802.xml:  <GBSeq_organism>Maricaulis maris</GBSeq_organism>

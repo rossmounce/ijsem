@@ -1,0 +1,20 @@
+./D88005.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AY131213.xml:  <GBSeq_organism>Kerstersia gyiorum</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./U04948.xml:  <GBSeq_organism>Bordetella bronchiseptica</GBSeq_organism>
+./Y11890.xml:  <GBSeq_organism>Pelistega europaea</GBSeq_organism>
+./U04820.xml:  <GBSeq_organism>Bordetella holmesii ATCC 51541</GBSeq_organism>
+./AF282916.xml:  <GBSeq_organism>Pigmentiphaga kullae</GBSeq_organism>
+./U04947.xml:  <GBSeq_organism>Bordetella avium</GBSeq_organism>
+./AJ277798.xml:  <GBSeq_organism>Bordetella trematum</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AY131212.xml:  <GBSeq_organism>Kerstersia similis</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./U04949.xml:  <GBSeq_organism>Bordetella parapertussis</GBSeq_organism>
+./AF177667.xml:  <GBSeq_organism>Bordetella hinzii LMG 13501</GBSeq_organism>
+./M22509.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./D14257.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>

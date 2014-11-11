@@ -1,0 +1,8 @@
+./AM114527.xml:  <GBSeq_organism>Pseudomonas borbori</GBSeq_organism>
+./AM491810.xml:  <GBSeq_organism>Pseudomonas guineae</GBSeq_organism>
+./DQ339144.xml:  <GBSeq_organism>Pseudomonas pohangensis</GBSeq_organism>
+./AB021379.xml:  <GBSeq_organism>Pseudomonas pseudoalcaligenes</GBSeq_organism>
+./AM491811.xml:  <GBSeq_organism>Pseudomonas guineae</GBSeq_organism>
+./AY770691.xml:  <GBSeq_organism>Pseudomonas segetis</GBSeq_organism>
+./X99540.xml:  <GBSeq_organism>Pseudomonas anguilliseptica</GBSeq_organism>
+./AM114534.xml:  <GBSeq_organism>Pseudomonas peli</GBSeq_organism>

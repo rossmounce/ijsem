@@ -1,0 +1,7 @@
+./Z26930.xml:  <GBSeq_organism>Aeribacillus pallidus</GBSeq_organism>
+./AY606801.xml:  <GBSeq_organism>Bacillus alveayuensis</GBSeq_organism>
+./X60643.xml:  <GBSeq_organism>Bacillus smithii</GBSeq_organism>
+./AY605232.xml:  <GBSeq_organism>Bacillus alveayuensis</GBSeq_organism>
+./X60640.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AJ496806.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./AJ504797.xml:  <GBSeq_organism>Bacillus aeolius</GBSeq_organism>

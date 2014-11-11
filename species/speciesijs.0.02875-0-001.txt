@@ -1,0 +1,19 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AJ131121.xml:  <GBSeq_organism>Rothia nasimurium</GBSeq_organism>
+./X80748.xml:  <GBSeq_organism>Arthrobacter agilis</GBSeq_organism>
+./AJ344143.xml:  <GBSeq_organism>Citricoccus muralis</GBSeq_organism>
+./X51601.xml:  <GBSeq_organism>Renibacterium salmoninarum</GBSeq_organism>
+./AY228479.xml:  <GBSeq_organism>Yaniella halotolerans</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./AJ290397.xml:  <GBSeq_organism>Nesterenkonia lacusekhoensis</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./X87758.xml:  <GBSeq_organism>Rothia mucilaginosa</GBSeq_organism>
+./AJ278868.xml:  <GBSeq_organism>Kocuria polaris</GBSeq_organism>
+./AJ278870.xml:  <GBSeq_organism>Arthrobacter roseus</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>
+./X93354.xml:  <GBSeq_organism>Arthrobacter cumminsii</GBSeq_organism>
+./Y11330.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>

@@ -1,0 +1,12 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./AM998822.xml:  <GBSeq_organism>Rhodoplanes sp. JA333</GBSeq_organism>
+./AF084495.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./AM502287.xml:  <GBSeq_organism>Blastochloris gulmargensis</GBSeq_organism>
+./D86514.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./AJ510235.xml:  <GBSeq_organism>Afifella pfennigii</GBSeq_organism>
+./AM180706.xml:  <GBSeq_organism>Rhodobium gokarnense</GBSeq_organism>
+./D25313.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./AM712913.xml:  <GBSeq_organism>Rhodoplanes piscinae</GBSeq_organism>
+./FM202448.xml:  <GBSeq_organism>Rhodoplanes pokkaliisoli</GBSeq_organism>

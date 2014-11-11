@@ -1,0 +1,11 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./AB105049.xml:  <GBSeq_organism>Balnearium lithotrophicum</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./AY314755.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./AY035822.xml:  <GBSeq_organism>Candidatus Arcobacter sulfidicus</GBSeq_organism>
+./L14626.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./L04314.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./AF513455.xml:  <GBSeq_organism>Arcobacter halophilus</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AY962684.xml:  <GBSeq_organism>Sphingomonas rhizogenes</GBSeq_organism>
+./AB363004.xml:  <GBSeq_organism>Altererythrobacter ishigakiensis</GBSeq_organism>
+./EF623998.xml:  <GBSeq_organism>Croceicoccus marinus</GBSeq_organism>
+./D13725.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AY739662.xml:  <GBSeq_organism>Altererythrobacter luteolus</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./AF465835.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AF465837.xml:  <GBSeq_organism>Erythromicrobium ramosum</GBSeq_organism>
+./AF465836.xml:  <GBSeq_organism>Erythrobacter litoralis</GBSeq_organism>
+./FJ935793.xml:  <GBSeq_organism>Altererythrobacter namhicola</GBSeq_organism>
+./FJ997597.xml:  <GBSeq_organism>Altererythrobacter aestuarii</GBSeq_organism>
+./GU552682.xml:  <GBSeq_organism>Altererythrobacter sp. KYW2</GBSeq_organism>
+./AY706935.xml:  <GBSeq_organism>Erythrobacter vulgaris</GBSeq_organism>
+./AJ009957.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./AY461441.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>
+./AM412238.xml:  <GBSeq_organism>Sphingomonas pseudosanguinis</GBSeq_organism>

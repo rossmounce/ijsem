@@ -1,0 +1,20 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./L27426.xml:  <GBSeq_organism>Desulfacinum infernum</GBSeq_organism>
+./X83274.xml:  <GBSeq_organism>Desulforhabdus amnigena</GBSeq_organism>
+./M34409.xml:  <GBSeq_organism>Desulfobacterium autotrophicum</GBSeq_organism>
+./M34403.xml:  <GBSeq_organism>Desulfarculus baarsii DSM 2075</GBSeq_organism>
+./L42613.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./AJ237605.xml:  <GBSeq_organism>Syntrophobacter sp.</GBSeq_organism>
+./X94911.xml:  <GBSeq_organism>Syntrophobacter sp.</GBSeq_organism>
+./X85131.xml:  <GBSeq_organism>Syntrophus buswellii</GBSeq_organism>
+./AY651787.xml:  <GBSeq_organism>Syntrophobacter sulfatireducens</GBSeq_organism>
+./X82875.xml:  <GBSeq_organism>Syntrophobacter pfennigii</GBSeq_organism>
+./AF170417.xml:  <GBSeq_organism>Desulfacinum hydrothermale</GBSeq_organism>
+./X70905.xml:  <GBSeq_organism>Syntrophobacter wolinii</GBSeq_organism>
+./M26635.xml:  <GBSeq_organism>Desulfomonile tiedjei</GBSeq_organism>
+./X82874.xml:  <GBSeq_organism>Syntrophobacter fumaroxidans MPOB</GBSeq_organism>
+./AF418180.xml:  <GBSeq_organism>Desulfobacter postgatei 2ac9</GBSeq_organism>
+./AF126282.xml:  <GBSeq_organism>Smithella propionica</GBSeq_organism>
+./U25627.xml:  <GBSeq_organism>Thermodesulforhabdus norvegica</GBSeq_organism>
+./M34410.xml:  <GBSeq_organism>Desulfobulbus propionicus</GBSeq_organism>
+./X85132.xml:  <GBSeq_organism>Syntrophus gentianae</GBSeq_organism>

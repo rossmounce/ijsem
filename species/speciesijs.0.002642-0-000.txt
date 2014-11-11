@@ -1,0 +1,21 @@
+./DQ916141.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>
+./M96746.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./AY180103.xml:  <GBSeq_organism>Sulfitobacter delicatus</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./DQ675021.xml:  <GBSeq_organism>Pseudoruegeria aquimaris</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AY442178.xml:  <GBSeq_organism>Thalassobius aestuarii</GBSeq_organism>
+./AY177712.xml:  <GBSeq_organism>Phaeobacter inhibens DSM 16374</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AM943630.xml:  <GBSeq_organism>Leisingera caerulea</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./Y17388.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./AY180102.xml:  <GBSeq_organism>Sulfitobacter dubius</GBSeq_organism>
+./AM943631.xml:  <GBSeq_organism>Leisingera caerulea</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AM900415.xml:  <GBSeq_organism>Leisingera aquimarina</GBSeq_organism>

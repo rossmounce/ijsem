@@ -1,0 +1,14 @@
+./AJ628748.xml:  <GBSeq_organism>Bacillus muralis</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./AJ583158.xml:  <GBSeq_organism>Bacillus indicus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./AJ276809.xml:  <GBSeq_organism>Bacillus sp. LMG 19415</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AY550276.xml:  <GBSeq_organism>Bacillus cibi</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AJ316317.xml:  <GBSeq_organism>Bacillus sp. LMG 20243</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./X60615.xml:  <GBSeq_organism>Bacillus fastidiosus</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

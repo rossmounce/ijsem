@@ -1,0 +1,13 @@
+./U45719.xml:  <GBSeq_organism>Wickerhamia fluorescens</GBSeq_organism>
+./U45717.xml:  <GBSeq_organism>Candida fluviatilis</GBSeq_organism>
+./EF460550.xml:  <GBSeq_organism>Scheffersomyces spartinae</GBSeq_organism>
+./U45741.xml:  <GBSeq_organism>Scheffersomyces stipitis</GBSeq_organism>
+./U45762.xml:  <GBSeq_organism>Candida saitoana</GBSeq_organism>
+./U45758.xml:  <GBSeq_organism>Candida palmioleophila</GBSeq_organism>
+./U45764.xml:  <GBSeq_organism>Scheffersomyces spartinae</GBSeq_organism>
+./U45747.xml:  <GBSeq_organism>Candida coipomensis</GBSeq_organism>
+./U45757.xml:  <GBSeq_organism>Candida glaebosa</GBSeq_organism>
+./U45773.xml:  <GBSeq_organism>Scheffersomyces insectosa</GBSeq_organism>
+./U45746.xml:  <GBSeq_organism>Candida ergatensis</GBSeq_organism>
+./U45761.xml:  <GBSeq_organism>Scheffersomyces shehatae</GBSeq_organism>
+./U45742.xml:  <GBSeq_organism>Scheffersomyces segobiensis</GBSeq_organism>

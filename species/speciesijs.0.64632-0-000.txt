@@ -1,0 +1,48 @@
+./AF129442.xml:  <GBSeq_organism>Raoultella terrigena</GBSeq_organism>
+./AF310218.xml:  <GBSeq_organism>Kluyvera cryocrescens</GBSeq_organism>
+./DQ453130.xml:  <GBSeq_organism>Trabulsiella odontotermitis</GBSeq_organism>
+./AY650027.xml:  <GBSeq_organism>Pseudoxanthomonas kaohsiungensis</GBSeq_organism>
+./AF025369.xml:  <GBSeq_organism>Citrobacter murliniae</GBSeq_organism>
+./AY373830.xml:  <GBSeq_organism>Trabulsiella guamensis ATCC 49490</GBSeq_organism>
+./DQ683179.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Paratyphi A</GBSeq_organism>
+./AF025368.xml:  <GBSeq_organism>Citrobacter braakii</GBSeq_organism>
+./AF366375.xml:  <GBSeq_organism>Yersinia pseudotuberculosis</GBSeq_organism>
+./AF227867.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Montevideo</GBSeq_organism>
+./AF493976.xml:  <GBSeq_organism>Cedecea davisae DSM 4568</GBSeq_organism>
+./AF129444.xml:  <GBSeq_organism>Raoultella planticola</GBSeq_organism>
+./AF025373.xml:  <GBSeq_organism>Citrobacter werkmanii</GBSeq_organism>
+./AF286872.xml:  <GBSeq_organism>Serratia plymuthica</GBSeq_organism>
+./AF025372.xml:  <GBSeq_organism>Citrobacter koseri</GBSeq_organism>
+./AJ233432.xml:  <GBSeq_organism>Serratia odorifera DSM 4582</GBSeq_organism>
+./AF310217.xml:  <GBSeq_organism>Kluyvera intermedia</GBSeq_organism>
+./AF029227.xml:  <GBSeq_organism>Salmonella bongori</GBSeq_organism>
+./AJ783916.xml:  <GBSeq_organism>Klebsiella variicola</GBSeq_organism>
+./AF227868.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Dublin</GBSeq_organism>
+./AF025367.xml:  <GBSeq_organism>Citrobacter gillenii</GBSeq_organism>
+./U92192.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Chingola</GBSeq_organism>
+./AB004754.xml:  <GBSeq_organism>Klebsiella oxytoca</GBSeq_organism>
+./AF129441.xml:  <GBSeq_organism>Raoultella ornithinolytica</GBSeq_organism>
+./AJ564736.xml:  <GBSeq_organism>Citrobacter youngae</GBSeq_organism>
+./Y17656.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AJ233402.xml:  <GBSeq_organism>Buttiauxella ferragutiae</GBSeq_organism>
+./DQ453129.xml:  <GBSeq_organism>Trabulsiella odontotermitis</GBSeq_organism>
+./AB004750.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./X80681.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Typhimurium</GBSeq_organism>
+./AF025364.xml:  <GBSeq_organism>Citrobacter sedlakii</GBSeq_organism>
+./X96966.xml:  <GBSeq_organism>Shigella dysenteriae</GBSeq_organism>
+./X96963.xml:  <GBSeq_organism>Shigella flexneri</GBSeq_organism>
+./CP000026.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Paratyphi A str. ATCC 9150</GBSeq_organism>
+./AJ233434.xml:  <GBSeq_organism>Serratia proteamaculans</GBSeq_organism>
+./M59160.xml:  <GBSeq_organism>Serratia marcescens</GBSeq_organism>
+./AJ233429.xml:  <GBSeq_organism>Serratia fonticola</GBSeq_organism>
+./AF009171.xml:  <GBSeq_organism>Klebsiella granulomatis</GBSeq_organism>
+./AJ251469.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./DQ344539.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Paratyphi B</GBSeq_organism>
+./AJ233427.xml:  <GBSeq_organism>Serratia entomophila</GBSeq_organism>
+./U90317.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Weltevreden</GBSeq_organism>
+./AF025371.xml:  <GBSeq_organism>Citrobacter farmeri</GBSeq_organism>
+./AY373829.xml:  <GBSeq_organism>Salmonella subterranea</GBSeq_organism>
+./AF025363.xml:  <GBSeq_organism>Citrobacter rodentium</GBSeq_organism>
+./AJ508775.xml:  <GBSeq_organism>Escherichia albertii NBRC 107761</GBSeq_organism>
+./AF025370.xml:  <GBSeq_organism>Citrobacter amalonaticus</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>

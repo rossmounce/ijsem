@@ -1,0 +1,47 @@
+./AF242284.xml:  <GBSeq_organism>Staphylococcus lutrae</GBSeq_organism>
+./D83367.xml:  <GBSeq_organism>Staphylococcus haemolyticus</GBSeq_organism>
+./D83360.xml:  <GBSeq_organism>Staphylococcus chromogenes</GBSeq_organism>
+./AF325872.xml:  <GBSeq_organism>Staphylococcus epidermidis</GBSeq_organism>
+./S83566.xml:  <GBSeq_organism>Staphylococcus muscae</GBSeq_organism>
+./AF325878.xml:  <GBSeq_organism>Staphylococcus felis</GBSeq_organism>
+./D83357.xml:  <GBSeq_organism>Staphylococcus aureus subsp. aureus</GBSeq_organism>
+./AB327162.xml:  <GBSeq_organism>Staphylococcus pseudintermedius</GBSeq_organism>
+./D83372.xml:  <GBSeq_organism>Staphylococcus schleiferi</GBSeq_organism>
+./AF053571.xml:  <GBSeq_organism>Staphylococcus delphini</GBSeq_organism>
+./AF325881.xml:  <GBSeq_organism>Staphylococcus sciuri subsp. sciuri</GBSeq_organism>
+./AF325892.xml:  <GBSeq_organism>Staphylococcus chromogenes</GBSeq_organism>
+./AP008934.xml:  <GBSeq_organism>Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305</GBSeq_organism>
+./EU888120.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./AB233333.xml:  <GBSeq_organism>Staphylococcus lutrae</GBSeq_organism>
+./AF325869.xml:  <GBSeq_organism>Staphylococcus intermedius NCTC 11048</GBSeq_organism>
+./AF325886.xml:  <GBSeq_organism>Staphylococcus schleiferi</GBSeq_organism>
+./EU888126.xml:  <GBSeq_organism>Staphylococcus pseudintermedius</GBSeq_organism>
+./AJ780976.xml:  <GBSeq_organism>Staphylococcus pseudintermedius</GBSeq_organism>
+./EU888121.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./AF322002.xml:  <GBSeq_organism>Staphylococcus pettenkoferi</GBSeq_organism>
+./EU888125.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./AF036324.xml:  <GBSeq_organism>Staphylococcus aureus subsp. aureus</GBSeq_organism>
+./DQ120744.xml:  <GBSeq_organism>Staphylococcus pettenkoferi</GBSeq_organism>
+./EU888128.xml:  <GBSeq_organism>Staphylococcus muscae</GBSeq_organism>
+./AF325880.xml:  <GBSeq_organism>Staphylococcus carnosus subsp. carnosus</GBSeq_organism>
+./D83369.xml:  <GBSeq_organism>Staphylococcus intermedius NCTC 11048</GBSeq_organism>
+./AF033622.xml:  <GBSeq_organism>Staphylococcus schleiferi</GBSeq_organism>
+./D83368.xml:  <GBSeq_organism>Staphylococcus hyicus</GBSeq_organism>
+./CP000253.xml:  <GBSeq_organism>Staphylococcus aureus subsp. aureus NCTC 8325</GBSeq_organism>
+./AF325888.xml:  <GBSeq_organism>Staphylococcus haemolyticus</GBSeq_organism>
+./D83363.xml:  <GBSeq_organism>Staphylococcus epidermidis</GBSeq_organism>
+./AF325873.xml:  <GBSeq_organism>Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305</GBSeq_organism>
+./EU888122.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./U92809.xml:  <GBSeq_organism>Staphylococcus haemolyticus</GBSeq_organism>
+./AF242279.xml:  <GBSeq_organism>Staphylococcus carnosus</GBSeq_organism>
+./AF053583.xml:  <GBSeq_organism>Staphylococcus sciuri</GBSeq_organism>
+./AF053585.xml:  <GBSeq_organism>Staphylococcus schleiferi subsp. coagulans</GBSeq_organism>
+./AF325876.xml:  <GBSeq_organism>Staphylococcus hyicus</GBSeq_organism>
+./EU888130.xml:  <GBSeq_organism>Staphylococcus pettenkoferi</GBSeq_organism>
+./AF325884.xml:  <GBSeq_organism>Staphylococcus muscae</GBSeq_organism>
+./EU888124.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./AF019778.xml:  <GBSeq_organism>Staphylococcus hyicus</GBSeq_organism>
+./EU888123.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./AF053578.xml:  <GBSeq_organism>Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305</GBSeq_organism>
+./AF242282.xml:  <GBSeq_organism>Staphylococcus felis</GBSeq_organism>
+./AF242280.xml:  <GBSeq_organism>Staphylococcus chromogenes</GBSeq_organism>

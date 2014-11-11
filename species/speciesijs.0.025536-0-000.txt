@@ -1,0 +1,12 @@
+./EU342372.xml:  <GBSeq_organism>Thalassobacter arenae</GBSeq_organism>
+./AJ878875.xml:  <GBSeq_organism>Labrenzia alba</GBSeq_organism>
+./AJ631302.xml:  <GBSeq_organism>Thalassobacter stenotrophicus</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./AF098495.xml:  <GBSeq_organism>Roseovarius nubinhibens ISM</GBSeq_organism>
+./AJ582225.xml:  <GBSeq_organism>Loktanella fryxellensis</GBSeq_organism>
+./FJ436725.xml:  <GBSeq_organism>Celeribacter halophilus</GBSeq_organism>
+./FJ535354.xml:  <GBSeq_organism>Celeribacter neptunius</GBSeq_organism>
+./EU156066.xml:  <GBSeq_organism>Roseovarius aestuarii</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>

@@ -1,0 +1,11 @@
+./U05661.xml:  <GBSeq_organism>bacterium EM-17</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AM260555.xml:  <GBSeq_organism>Thermocrinis minervae</GBSeq_organism>
+./AF301907.xml:  <GBSeq_organism>uncultured Aquificales pIce1</GBSeq_organism>
+./AJ320219.xml:  <GBSeq_organism>Thermocrinis sp. P2L2B</GBSeq_organism>
+./AF018190.xml:  <GBSeq_organism>uncultured eubacterium env.OPS 5</GBSeq_organism>
+./AM937264.xml:  <GBSeq_organism>uncultured Thermocrinis sp.</GBSeq_organism>
+./AF255599.xml:  <GBSeq_organism>Aquificales str. SRI-48</GBSeq_organism>
+./AJ320220.xml:  <GBSeq_organism>Thermocrinis sp. UZ23L3A</GBSeq_organism>
+./AJ309733.xml:  <GBSeq_organism>Aquifex aeolicus</GBSeq_organism>
+./AJ278895.xml:  <GBSeq_organism>Thermocrinis albus DSM 14484</GBSeq_organism>

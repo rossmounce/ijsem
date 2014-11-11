@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ237607.xml:  <GBSeq_organism>Desulfobacterium indolicum</GBSeq_organism>
+./AY493562.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./U45989.xml:  <GBSeq_organism>Desulfonema magnum str. Montpellier</GBSeq_organism>
+./AB110540.xml:  <GBSeq_organism>Desulfoluna butyratoxydans DSM 19427</GBSeq_organism>
+./AJ237603.xml:  <GBSeq_organism>Desulfosarcina cetonica</GBSeq_organism>
+./AY771930.xml:  <GBSeq_organism>delta proteobacterium LacK5</GBSeq_organism>
+./AY268891.xml:  <GBSeq_organism>Desulfofaba fastidiosa</GBSeq_organism>
+./AF418173.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AF321820.xml:  <GBSeq_organism>Desulfofaba hansenii</GBSeq_organism>
+./AF243334.xml:  <GBSeq_organism>Desulforegula conservatrix</GBSeq_organism>
+./AF099063.xml:  <GBSeq_organism>Desulfofaba gelida</GBSeq_organism>
+./AY184360.xml:  <GBSeq_organism>Desulfatibacillum aliphaticivorans</GBSeq_organism>
+./AF099065.xml:  <GBSeq_organism>Desulfofrigus fragile</GBSeq_organism>
+./AF099064.xml:  <GBSeq_organism>Desulfofrigus oceanense</GBSeq_organism>

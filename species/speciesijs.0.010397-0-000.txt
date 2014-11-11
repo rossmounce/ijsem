@@ -1,0 +1,16 @@
+./Y11316.xml:  <GBSeq_organism>Thiorhodococcus minor</GBSeq_organism>
+./Y12365.xml:  <GBSeq_organism>Allochromatium warmingii</GBSeq_organism>
+./AJ224438.xml:  <GBSeq_organism>Thiocystis violascens</GBSeq_organism>
+./AJ971090.xml:  <GBSeq_organism>Thiorhodococcus mannitoliphagus</GBSeq_organism>
+./M26629.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./AJ223234.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./AJ242772.xml:  <GBSeq_organism>Thiocapsa litoralis</GBSeq_organism>
+./AM086640.xml:  <GBSeq_organism>Thiocystis cadagnonensis</GBSeq_organism>
+./AJ006062.xml:  <GBSeq_organism>Thiocapsa rosea</GBSeq_organism>
+./Y11317.xml:  <GBSeq_organism>Thiocystis gelatinosa</GBSeq_organism>
+./Y12302.xml:  <GBSeq_organism>Thiocapsa marina</GBSeq_organism>
+./Y12372.xml:  <GBSeq_organism>Thiocystis minor</GBSeq_organism>
+./M59152.xml:  <GBSeq_organism>Halorhodospira halochloris</GBSeq_organism>
+./Y12369.xml:  <GBSeq_organism>Allochromatium minutissimum</GBSeq_organism>
+./AM086641.xml:  <GBSeq_organism>Thiocystis chemoclinalis</GBSeq_organism>
+./AF525306.xml:  <GBSeq_organism>Thiorhodococcus drewsii AZ1</GBSeq_organism>

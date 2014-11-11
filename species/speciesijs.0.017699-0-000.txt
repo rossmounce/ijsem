@@ -1,0 +1,15 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./X77445.xml:  <GBSeq_organism>Microbacterium testaceum</GBSeq_organism>
+./AY376165.xml:  <GBSeq_organism>Microbacterium halotolerans</GBSeq_organism>
+./EU873539.xml:  <GBSeq_organism>Microbacterium lindanitolerans</GBSeq_organism>
+./AF159364.xml:  <GBSeq_organism>Rathayibacter caricis</GBSeq_organism>
+./AJ835908.xml:  <GBSeq_organism>Arabidopsis thaliana</GBSeq_organism>
+./Y14699.xml:  <GBSeq_organism>Microbacterium resistens</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./AJ491806.xml:  <GBSeq_organism>Microbacterium paraoxydans</GBSeq_organism>
+./AJ249780.xml:  <GBSeq_organism>Microbacterium foliorum</GBSeq_organism>
+./X77438.xml:  <GBSeq_organism>Rathayibacter tritici</GBSeq_organism>
+./AJ312209.xml:  <GBSeq_organism>Curtobacterium flaccumfaciens pv. flaccumfaciens</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AB112727.xml:  <GBSeq_organism>Bacillus methanolicus PB1</GBSeq_organism>
+./AY988598.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./AJ315075.xml:  <GBSeq_organism>Bacillus decolorationis</GBSeq_organism>
+./AY605232.xml:  <GBSeq_organism>Bacillus alveayuensis</GBSeq_organism>
+./U49079.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>
+./AJ627210.xml:  <GBSeq_organism>Bacillus humi</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AY667495.xml:  <GBSeq_organism>Bacillus seohaeanensis</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./AJ504797.xml:  <GBSeq_organism>Bacillus aeolius</GBSeq_organism>
+./AM503357.xml:  <GBSeq_organism>Bacillus isabeliae</GBSeq_organism>
+./AB271744.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis</GBSeq_organism>
+./AJ250318.xml:  <GBSeq_organism>Bacillus shackletonii</GBSeq_organism>
+./AB112723.xml:  <GBSeq_organism>Aneurinibacillus migulanus</GBSeq_organism>

@@ -1,0 +1,20 @@
+./M58786.xml:  <GBSeq_organism>Flexibacter polymorphus</GBSeq_organism>
+./AJ575265.xml:  <GBSeq_organism>Algoriphagus chordae</GBSeq_organism>
+./AB058919.xml:  <GBSeq_organism>Reichenbachiella agariperforans</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./M58784.xml:  <GBSeq_organism>Flexibacter litoralis</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AJ577142.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AY264840.xml:  <GBSeq_organism>Algoriphagus ornithinivorans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AJ577141.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AY264839.xml:  <GBSeq_organism>Algoriphagus halophilus</GBSeq_organism>
+./AJ575266.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>

@@ -1,0 +1,14 @@
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./M58775.xml:  <GBSeq_organism>Polaribacter glomeratus</GBSeq_organism>
+./D12665.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./D14023.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AF001365.xml:  <GBSeq_organism>Psychroflexus torquis</GBSeq_organism>
+./M11656.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./L14635.xml:  <GBSeq_organism>Capnocytophaga ochracea</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AJ005973.xml:  <GBSeq_organism>Cellulophaga fucicola</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./L19156.xml:  <GBSeq_organism>Ornithobacterium rhinotracheale</GBSeq_organism>

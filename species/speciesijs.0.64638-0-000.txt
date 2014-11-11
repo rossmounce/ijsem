@@ -1,0 +1,19 @@
+./AJ001631.xml:  <GBSeq_organism>Komagataeibacter oboediens</GBSeq_organism>
+./X82290.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./AY180961.xml:  <GBSeq_organism>Komagataeibacter rhaeticus</GBSeq_organism>
+./AF192761.xml:  <GBSeq_organism>Gluconacetobacter azotocaptans</GBSeq_organism>
+./AB166743.xml:  <GBSeq_organism>Komagataeibacter nataicola</GBSeq_organism>
+./X75620.xml:  <GBSeq_organism>Komagataeibacter hansenii</GBSeq_organism>
+./AF459454.xml:  <GBSeq_organism>Swaminathania salitolerans</GBSeq_organism>
+./Y14694.xml:  <GBSeq_organism>Komagataeibacter intermedius</GBSeq_organism>
+./X77468.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AY688433.xml:  <GBSeq_organism>Komagataeibacter hansenii</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./Y15289.xml:  <GBSeq_organism>Komagataeibacter europaeus</GBSeq_organism>
+./AY180960.xml:  <GBSeq_organism>Komagataeibacter swingsii</GBSeq_organism>
+./AB166740.xml:  <GBSeq_organism>Komagataeibacter saccharivorans</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AB205218.xml:  <GBSeq_organism>Gluconacetobacter xylinus NBRC 13693</GBSeq_organism>
+./AF127412.xml:  <GBSeq_organism>Gluconacetobacter sacchari</GBSeq_organism>
+./L40329.xml:  <GBSeq_organism>Azotobacter vinelandii</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>

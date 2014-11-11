@@ -1,0 +1,19 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AY218686.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ580499.xml:  <GBSeq_organism>Luteibacter rhizovicinus</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AF494542.xml:  <GBSeq_organism>Rhodanobacter sp. BPC1</GBSeq_organism>
+./AJ252143.xml:  <GBSeq_organism>Ignatzschineria larvae DSM 13226</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AY162032.xml:  <GBSeq_organism>gamma proteobacterium PI_GH1.1.A2</GBSeq_organism>
+./AJ580497.xml:  <GBSeq_organism>Luteibacter rhizovicinus</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AY081991.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ580498.xml:  <GBSeq_organism>Luteibacter rhizovicinus</GBSeq_organism>
+./AJ010481.xml:  <GBSeq_organism>Frateuria aurantia DSM 6220</GBSeq_organism>
+./AJ001010.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./AJ318146.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

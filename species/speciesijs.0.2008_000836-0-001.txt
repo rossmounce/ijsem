@@ -1,0 +1,23 @@
+./AY038833.xml:  <GBSeq_organism>Mrakia sp. CBS 8914</GBSeq_organism>
+./AY038826.xml:  <GBSeq_organism>Mrakia blollopis</GBSeq_organism>
+./AF144483.xml:  <GBSeq_organism>Mrakia frigida</GBSeq_organism>
+./AY038829.xml:  <GBSeq_organism>Mrakia robertii</GBSeq_organism>
+./AY038831.xml:  <GBSeq_organism>Mrakia sp. CBS 8922</GBSeq_organism>
+./AF144484.xml:  <GBSeq_organism>Mrakia nivalis</GBSeq_organism>
+./AY038835.xml:  <GBSeq_organism>Mrakia robertii</GBSeq_organism>
+./AF144482.xml:  <GBSeq_organism>Mrakia frigida</GBSeq_organism>
+./AF294941.xml:  <GBSeq_organism>uncultured basidiomycota sp. 96-G1</GBSeq_organism>
+./AJ866976.xml:  <GBSeq_organism>Mrakia frigida</GBSeq_organism>
+./AY038834.xml:  <GBSeq_organism>Mrakia robertii</GBSeq_organism>
+./EU224267.xml:  <GBSeq_organism>Mrakia psychrophila</GBSeq_organism>
+./AF444417.xml:  <GBSeq_organism>Guehomyces pullulans</GBSeq_organism>
+./AF294940.xml:  <GBSeq_organism>uncultured basidiomycota sp. 94-G11</GBSeq_organism>
+./AF144485.xml:  <GBSeq_organism>Mrakia gelida</GBSeq_organism>
+./AF144486.xml:  <GBSeq_organism>Mrakia stokesii</GBSeq_organism>
+./AY052488.xml:  <GBSeq_organism>Mrakiella aquatica</GBSeq_organism>
+./AY038828.xml:  <GBSeq_organism>Mrakia blollopis</GBSeq_organism>
+./AY029346.xml:  <GBSeq_organism>Mrakiella niccombsii</GBSeq_organism>
+./AY038836.xml:  <GBSeq_organism>Mrakia frigida</GBSeq_organism>
+./AF410469.xml:  <GBSeq_organism>Mrakiella aquatica</GBSeq_organism>
+./AF294943.xml:  <GBSeq_organism>uncultured basidiomycota sp. 96-G6</GBSeq_organism>
+./AF294942.xml:  <GBSeq_organism>uncultured basidiomycota sp. 96-G3</GBSeq_organism>

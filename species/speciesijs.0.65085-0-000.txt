@@ -1,0 +1,10 @@
+./AY282603.xml:  <GBSeq_organism>Nocardia neocaledoniensis</GBSeq_organism>
+./AM422449.xml:  <GBSeq_organism>Nocardia speluncae</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AF219974.xml:  <GBSeq_organism>Nocardia pigrifrangens</GBSeq_organism>
+./AF430027.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./AB121770.xml:  <GBSeq_organism>Nocardia sienata</GBSeq_organism>
+./AB126874.xml:  <GBSeq_organism>Nocardia thailandica</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AJ556157.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./AB121769.xml:  <GBSeq_organism>Nocardia testacea</GBSeq_organism>

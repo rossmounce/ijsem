@@ -1,0 +1,12 @@
+./L10086.xml:  <GBSeq_organism>Eubacterium thermomarinus</GBSeq_organism>
+./AY656718.xml:  <GBSeq_organism>Tepidimicrobium ferriphilum</GBSeq_organism>
+./X75909.xml:  <GBSeq_organism>Clostridium sp.</GBSeq_organism>
+./M59084.xml:  <GBSeq_organism>Gottschalkia acidurici</GBSeq_organism>
+./L34612.xml:  <GBSeq_organism>[Eubacterium] angustum</GBSeq_organism>
+./X80227.xml:  <GBSeq_organism>Tissierella sp.</GBSeq_organism>
+./AJ272422.xml:  <GBSeq_organism>Caloranaerobacter azorensis DSM 13643</GBSeq_organism>
+./X77847.xml:  <GBSeq_organism>Clostridium filamentosum</GBSeq_organism>
+./M60491.xml:  <GBSeq_organism>[Clostridium] purinilyticum</GBSeq_organism>
+./X80833.xml:  <GBSeq_organism>Tissierella praeacuta</GBSeq_organism>
+./AY353956.xml:  <GBSeq_organism>Soehngenia saccharolytica</GBSeq_organism>
+./X80841.xml:  <GBSeq_organism>Tissierella praeacuta</GBSeq_organism>

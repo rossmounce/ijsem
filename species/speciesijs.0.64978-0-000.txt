@@ -1,0 +1,13 @@
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./AY906862.xml:  <GBSeq_organism>Jannaschia seosinensis</GBSeq_organism>
+./AY682199.xml:  <GBSeq_organism>Loktanella rosea</GBSeq_organism>
+./AJ748747.xml:  <GBSeq_organism>Jannaschia rubra</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./U14583.xml:  <GBSeq_organism>Octadecabacter antarcticus 307</GBSeq_organism>
+./AY682198.xml:  <GBSeq_organism>Loktanella agnita</GBSeq_organism>
+./AJ582225.xml:  <GBSeq_organism>Loktanella fryxellensis</GBSeq_organism>
+./AF136850.xml:  <GBSeq_organism>Ketogulonicigenium robustum</GBSeq_organism>
+./DQ344498.xml:  <GBSeq_organism>Loktanella koreensis</GBSeq_organism>
+./AF136849.xml:  <GBSeq_organism>Ketogulonicigenium vulgare</GBSeq_organism>

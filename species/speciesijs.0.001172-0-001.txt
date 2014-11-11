@@ -1,0 +1,16 @@
+./AM922294.xml:  <GBSeq_organism>Lactobacillus fabifermentans</GBSeq_organism>
+./AM087769.xml:  <GBSeq_organism>Lactobacillus satsumensis</GBSeq_organism>
+./AM087714.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AM087679.xml:  <GBSeq_organism>Lactobacillus animalis KCTC 3501 = DSM 20602</GBSeq_organism>
+./AM087713.xml:  <GBSeq_organism>Lactobacillus pentosus</GBSeq_organism>
+./AM263504.xml:  <GBSeq_organism>Lactobacillus algidus</GBSeq_organism>
+./AM087721.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AM087756.xml:  <GBSeq_organism>Lactobacillus ruminis</GBSeq_organism>
+./AM087762.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM087740.xml:  <GBSeq_organism>Lactobacillus equi</GBSeq_organism>
+./AM087689.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. delbrueckii</GBSeq_organism>
+./AM922295.xml:  <GBSeq_organism>Lactobacillus cacaonum</GBSeq_organism>
+./AM087746.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AM087727.xml:  <GBSeq_organism>Lactobacillus paraplantarum</GBSeq_organism>
+./AM087717.xml:  <GBSeq_organism>Lactobacillus saerimneri</GBSeq_organism>
+./AM087734.xml:  <GBSeq_organism>Lactobacillus agilis</GBSeq_organism>

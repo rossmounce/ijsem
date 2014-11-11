@@ -1,0 +1,19 @@
+./AB249921.xml:  <GBSeq_organism>Streptomyces spiroverticillatus</GBSeq_organism>
+./EF657884.xml:  <GBSeq_organism>Streptomyces scopuliridis RB72</GBSeq_organism>
+./AB184792.xml:  <GBSeq_organism>Streptomyces netropsis</GBSeq_organism>
+./AJ781358.xml:  <GBSeq_organism>Streptomyces mauvecolor</GBSeq_organism>
+./DQ445795.xml:  <GBSeq_organism>Streptomyces microflavus</GBSeq_organism>
+./AB249945.xml:  <GBSeq_organism>Streptomyces sanglieri</GBSeq_organism>
+./AB184497.xml:  <GBSeq_organism>Streptomyces nodosus subsp. asukaensis</GBSeq_organism>
+./AB184153.xml:  <GBSeq_organism>Streptomyces michiganensis</GBSeq_organism>
+./AB184211.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AB184476.xml:  <GBSeq_organism>Streptomyces celluloflavus</GBSeq_organism>
+./EF178694.xml:  <GBSeq_organism>Streptomyces hachijoensis</GBSeq_organism>
+./AB184579.xml:  <GBSeq_organism>Streptomyces sannanensis</GBSeq_organism>
+./AJ781377.xml:  <GBSeq_organism>Streptomyces pulveraceus</GBSeq_organism>
+./AB184124.xml:  <GBSeq_organism>Streptomyces cremeus</GBSeq_organism>
+./AB184264.xml:  <GBSeq_organism>Streptomyces cavourensis subsp. cavourensis</GBSeq_organism>
+./AB249912.xml:  <GBSeq_organism>Streptomyces griseobrunneus</GBSeq_organism>
+./AB184439.xml:  <GBSeq_organism>Streptomyces bacillaris</GBSeq_organism>
+./AB184425.xml:  <GBSeq_organism>Streptomyces albolongus</GBSeq_organism>
+./AB184720.xml:  <GBSeq_organism>Streptomyces stramineus</GBSeq_organism>

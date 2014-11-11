@@ -1,0 +1,21 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./Y16712.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AY163576.xml:  <GBSeq_organism>Croceibacter atlanticus HTCC2559</GBSeq_organism>
+./EF660761.xml:  <GBSeq_organism>Joostella marina DSM 19592</GBSeq_organism>
+./DQ423479.xml:  <GBSeq_organism>Zhouia amylolytica</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./AB032505.xml:  <GBSeq_organism>Tenacibaculum amylolyticum</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AB206957.xml:  <GBSeq_organism>Sediminicola luteus</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./U41347.xml:  <GBSeq_organism>Capnocytophaga granulosa ATCC 51502</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AY167319.xml:  <GBSeq_organism>Polaribacter franzmannii</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./AB198086.xml:  <GBSeq_organism>Dokdonia genika</GBSeq_organism>
+./AY468447.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>
+./DQ294291.xml:  <GBSeq_organism>Leeuwenhoekiella blandensis MED217</GBSeq_organism>

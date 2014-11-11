@@ -1,0 +1,10 @@
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./AB003623.xml:  <GBSeq_organism>Roseateles depolymerans</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./AF236008.xml:  <GBSeq_organism>beta proteobacterium A1040</GBSeq_organism>
+./AY612302.xml:  <GBSeq_organism>beta proteobacterium ASRB1</GBSeq_organism>
+./AB021407.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./AJ440994.xml:  <GBSeq_organism>Antarctic bacterium R-8875</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./X97070.xml:  <GBSeq_organism>Leptothrix cholodnii</GBSeq_organism>
+./AF479324.xml:  <GBSeq_organism>glacial ice bacterium CanDirty12</GBSeq_organism>

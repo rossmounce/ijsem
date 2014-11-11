@@ -1,0 +1,9 @@
+./AB167245.xml:  <GBSeq_organism>Pseudomonas syringae</GBSeq_organism>
+./Y17660.xml:  <GBSeq_organism>Klebsiella oxytoca</GBSeq_organism>
+./AJ233417.xml:  <GBSeq_organism>Erwinia rhapontici</GBSeq_organism>
+./AF130918.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./U33121.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AF141894.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AJ586620.xml:  <GBSeq_organism>Candidatus Erwinia dacicola</GBSeq_organism>
+./AY804014.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AY620431.xml:  <GBSeq_organism>Buchnera aphidicola (Cinara cedri)</GBSeq_organism>

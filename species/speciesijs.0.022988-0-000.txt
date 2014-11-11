@@ -1,0 +1,21 @@
+./AB262731.xml:  <GBSeq_organism>Lactobacillus farraginis</GBSeq_organism>
+./AY681127.xml:  <GBSeq_organism>Lactobacillus oeni</GBSeq_organism>
+./AB429370.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AB366385.xml:  <GBSeq_organism>Lactobacillus sunkii</GBSeq_organism>
+./AB268118.xml:  <GBSeq_organism>Lactobacillus composti</GBSeq_organism>
+./AB429369.xml:  <GBSeq_organism>Lactobacillus diolivorans</GBSeq_organism>
+./AY204893.xml:  <GBSeq_organism>Lactobacillus sakei subsp. sakei</GBSeq_organism>
+./AF469172.xml:  <GBSeq_organism>Lactobacillus casei subsp. casei ATCC 393</GBSeq_organism>
+./AB262734.xml:  <GBSeq_organism>Lactobacillus parafarraginis</GBSeq_organism>
+./D16552.xml:  <GBSeq_organism>Lactobacillus rhamnosus</GBSeq_organism>
+./AF089108.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AM113777.xml:  <GBSeq_organism>Lactobacillus curvatus</GBSeq_organism>
+./AB429368.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AB366386.xml:  <GBSeq_organism>Lactobacillus otakiensis</GBSeq_organism>
+./AM113778.xml:  <GBSeq_organism>Lactobacillus graminis</GBSeq_organism>
+./D79212.xml:  <GBSeq_organism>Lactobacillus paracasei subsp. paracasei</GBSeq_organism>
+./AB366389.xml:  <GBSeq_organism>Lactobacillus rapi</GBSeq_organism>
+./AB154519.xml:  <GBSeq_organism>Lactobacillus satsumensis</GBSeq_organism>
+./AB429372.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AB523782.xml:  <GBSeq_organism>Lactobacillus floricola</GBSeq_organism>
+./AM905389.xml:  <GBSeq_organism>Lactobacillus cacaonum</GBSeq_organism>

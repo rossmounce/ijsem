@@ -1,0 +1,28 @@
+./AJ459801.xml:  <GBSeq_organism>Thermithiobacillus tepidarius</GBSeq_organism>
+./DQ354745.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF170419.xml:  <GBSeq_organism>Halothiobacillus kellyi</GBSeq_organism>
+./AJ223234.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./M59151.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./Y09280.xml:  <GBSeq_organism>Thiobacillus baregensis</GBSeq_organism>
+./AB118236.xml:  <GBSeq_organism>Thiovirga sulfuroxydans</GBSeq_organism>
+./Y12297.xml:  <GBSeq_organism>Thiolamprovum pedioforme</GBSeq_organism>
+./AF126545.xml:  <GBSeq_organism>Thioalkalivibrio denitrificans</GBSeq_organism>
+./AF154088.xml:  <GBSeq_organism>uncultured hydrocarbon seep bacterium BPC028</GBSeq_organism>
+./U58020.xml:  <GBSeq_organism>Halothiobacillus halophilus</GBSeq_organism>
+./AJ459803.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans ATCC 19377</GBSeq_organism>
+./AB304258.xml:  <GBSeq_organism>Thiofaba tepidiphila DSM 19618</GBSeq_organism>
+./M90662.xml:  <GBSeq_organism>Halothiobacillus hydrothermalis</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./L40993.xml:  <GBSeq_organism>Thiothrix nivea DSM 5205</GBSeq_organism>
+./EU037210.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF467495.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF173169.xml:  <GBSeq_organism>Halothiobacillus neapolitanus</GBSeq_organism>
+./AF481118.xml:  <GBSeq_organism>Thioalkalispira microaerophila</GBSeq_organism>
+./L40994.xml:  <GBSeq_organism>Beggiatoa alba</GBSeq_organism>
+./AF126548.xml:  <GBSeq_organism>Thioalkalimicrobium aerophilum AL3</GBSeq_organism>
+./L40998.xml:  <GBSeq_organism>Thioploca ingrica</GBSeq_organism>
+./X72770.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./DQ415810.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ002798.xml:  <GBSeq_organism>Thiocapsa rosea</GBSeq_organism>
+./AJ006530.xml:  <GBSeq_organism>Thiorhodospira sibirica ATCC 700588</GBSeq_organism>

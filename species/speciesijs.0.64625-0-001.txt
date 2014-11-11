@@ -1,0 +1,10 @@
+./AY468366.xml:  <GBSeq_organism>Methylobacterium podarium</GBSeq_organism>
+./M17339.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./U70527.xml:  <GBSeq_organism>Methylobacterium rhodinum</GBSeq_organism>
+./EF031553.xml:  <GBSeq_organism>Methylobacterium zatmanii</GBSeq_organism>
+./U41040.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./AF220764.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./M22629.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AJ878068.xml:  <GBSeq_organism>Methylobacterium extorquens DM4</GBSeq_organism>
+./EF031552.xml:  <GBSeq_organism>Methylobacterium jeotgali</GBSeq_organism>
+./M31108.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>

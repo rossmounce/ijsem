@@ -1,0 +1,12 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./AJ715377.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./AB193101.xml:  <GBSeq_organism>Chryseobacterium shigense</GBSeq_organism>
+./AJ871397.xml:  <GBSeq_organism>Chryseobacterium vrystaatense</GBSeq_organism>
+./AJ843132.xml:  <GBSeq_organism>Chryseobacterium taichungense</GBSeq_organism>
+./AJ457206.xml:  <GBSeq_organism>Chryseobacterium daecheongense</GBSeq_organism>
+./AY468448.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./AJ309324.xml:  <GBSeq_organism>Chryseobacterium defluvii</GBSeq_organism>

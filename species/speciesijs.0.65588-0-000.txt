@@ -1,0 +1,11 @@
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./AJ549285.xml:  <GBSeq_organism>Hymenobacter norwichensis</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./AJ549284.xml:  <GBSeq_organism>Hymenobacter sp. NS/2</GBSeq_organism>
+./Y18836.xml:  <GBSeq_organism>Hymenobacter gelipurpurascens</GBSeq_organism>
+./Y18837.xml:  <GBSeq_organism>Hymenobacter chitinivorans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./Y18835.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>
+./AJ275901.xml:  <GBSeq_organism>Rotavirus A</GBSeq_organism>
+./DQ177475.xml:  <GBSeq_organism>Hymenobacter psychrotolerans DSM 18569</GBSeq_organism>

@@ -1,0 +1,21 @@
+./AB249973.xml:  <GBSeq_organism>Streptomyces beijiangensis</GBSeq_organism>
+./AB184850.xml:  <GBSeq_organism>Streptomyces cinnamoneus</GBSeq_organism>
+./EF408733.xml:  <GBSeq_organism>Streptomyces rapamycinicus</GBSeq_organism>
+./AY999901.xml:  <GBSeq_organism>Streptomyces albiaxialis</GBSeq_organism>
+./AB184819.xml:  <GBSeq_organism>Streptomyces lilacinus</GBSeq_organism>
+./AB184641.xml:  <GBSeq_organism>Streptomyces carpaticus</GBSeq_organism>
+./AB184866.xml:  <GBSeq_organism>Streptomyces orinoci</GBSeq_organism>
+./AJ781349.xml:  <GBSeq_organism>Streptomyces morookaense</GBSeq_organism>
+./AB445007.xml:  <GBSeq_organism>Paraoerskovia marina</GBSeq_organism>
+./AB184194.xml:  <GBSeq_organism>Streptomyces chromofuscus</GBSeq_organism>
+./AB249933.xml:  <GBSeq_organism>Streptomyces sporocinereus</GBSeq_organism>
+./AB522686.xml:  <GBSeq_organism>Streptomyces aomiensis</GBSeq_organism>
+./AB184870.xml:  <GBSeq_organism>Streptomyces mobaraensis NBRC 13819 = DSM 40847</GBSeq_organism>
+./AB184420.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AB184185.xml:  <GBSeq_organism>Streptomyces antimycoticus</GBSeq_organism>
+./AB184301.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./AY999779.xml:  <GBSeq_organism>Streptomyces aburaviensis</GBSeq_organism>
+./AB184225.xml:  <GBSeq_organism>Streptomyces nigrescens</GBSeq_organism>
+./AB249936.xml:  <GBSeq_organism>Streptomyces monomycini</GBSeq_organism>
+./D63871.xml:  <GBSeq_organism>Streptomyces sampsonii</GBSeq_organism>

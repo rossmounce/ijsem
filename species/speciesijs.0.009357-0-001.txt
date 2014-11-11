@@ -1,0 +1,13 @@
+./AY999911.xml:  <GBSeq_organism>Streptomyces endus</GBSeq_organism>
+./AM934703.xml:  <GBSeq_organism>Streptomyces specialis</GBSeq_organism>
+./AB184641.xml:  <GBSeq_organism>Streptomyces carpaticus</GBSeq_organism>
+./AB184258.xml:  <GBSeq_organism>Streptomyces almquistii</GBSeq_organism>
+./AY822606.xml:  <GBSeq_organism>Streptomyces cheonanensis</GBSeq_organism>
+./AB184420.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AB184115.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./EU399234.xml:  <GBSeq_organism>Streptomyces avicenniae</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./DQ026665.xml:  <GBSeq_organism>Streptomyces phaeopurpureus</GBSeq_organism>
+./AB184272.xml:  <GBSeq_organism>Streptomyces flocculus</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>
+./AM398645.xml:  <GBSeq_organism>Streptomyces hainanensis</GBSeq_organism>

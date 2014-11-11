@@ -1,0 +1,9 @@
+./AF288157.xml:  <GBSeq_organism>Marinobacter lutaoensis</GBSeq_organism>
+./AJ492829.xml:  <GBSeq_organism>Pseudomonas poae</GBSeq_organism>
+./AF348507.xml:  <GBSeq_organism>Pseudomonas tolaasii</GBSeq_organism>
+./AF064461.xml:  <GBSeq_organism>Pseudomonas cedrina</GBSeq_organism>
+./AJ492830.xml:  <GBSeq_organism>Pseudomonas cedrina subsp. fulgida</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./AF348508.xml:  <GBSeq_organism>Pseudomonas corrugata</GBSeq_organism>
+./AJ492831.xml:  <GBSeq_organism>Pseudomonas trivialis</GBSeq_organism>

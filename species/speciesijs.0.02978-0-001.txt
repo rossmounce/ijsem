@@ -1,0 +1,38 @@
+./AY294207.xml:  <GBSeq_organism>Bdellovibrio sp. CHI</GBSeq_organism>
+./AJ278145.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY094106.xml:  <GBSeq_organism>Bdellovibrio sp. 6-5-S</GBSeq_organism>
+./AF263833.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY094116.xml:  <GBSeq_organism>Bdellovibrio sp. Lanham</GBSeq_organism>
+./AY094126.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY294225.xml:  <GBSeq_organism>Bdellovibrio sp. ETA</GBSeq_organism>
+./AY294215.xml:  <GBSeq_organism>Bdellovibrio sp. MPA</GBSeq_organism>
+./AY094114.xml:  <GBSeq_organism>Bdellovibrio sp. Hefner</GBSeq_organism>
+./AF148938.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AF445695.xml:  <GBSeq_organism>uncultured delta proteobacterium</GBSeq_organism>
+./AY094107.xml:  <GBSeq_organism>Bdellovibrio sp. albina1</GBSeq_organism>
+./AF148941.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY294209.xml:  <GBSeq_organism>Bdellovibrio sp. SJE</GBSeq_organism>
+./AY294208.xml:  <GBSeq_organism>Bdellovibrio sp. SRE14</GBSeq_organism>
+./AJ292518.xml:  <GBSeq_organism>Bdellovibrio sp. W</GBSeq_organism>
+./AY094109.xml:  <GBSeq_organism>Bdellovibrio sp. ARL-12</GBSeq_organism>
+./AF445705.xml:  <GBSeq_organism>uncultured delta proteobacterium</GBSeq_organism>
+./AY294216.xml:  <GBSeq_organism>Bdellovibrio sp. HEA</GBSeq_organism>
+./AF332269.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY168736.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY294211.xml:  <GBSeq_organism>Bdellovibrio sp. Ec13</GBSeq_organism>
+./AY094123.xml:  <GBSeq_organism>Bdellovibrio sp. Vietnam</GBSeq_organism>
+./AY294212.xml:  <GBSeq_organism>Bdellovibrio sp. R4</GBSeq_organism>
+./AF084851.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY094124.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AJ401465.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AF148939.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AF385539.xml:  <GBSeq_organism>Bdellovibrio sp. oral clone CA006</GBSeq_organism>
+./AY094122.xml:  <GBSeq_organism>Bdellovibrio sp. Tu-113</GBSeq_organism>
+./AF263832.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY294210.xml:  <GBSeq_organism>Bdellovibrio sp. MTA</GBSeq_organism>
+./AF314450.xml:  <GBSeq_organism>uncultured bacterium PHOS-HC31</GBSeq_organism>
+./AY294214.xml:  <GBSeq_organism>Bdellovibrio sp. L</GBSeq_organism>
+./AY294213.xml:  <GBSeq_organism>Bdellovibrio sp. R0</GBSeq_organism>
+./AF084850.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AY094129.xml:  <GBSeq_organism>Bdellovibrio bacteriovorus</GBSeq_organism>
+./AF314449.xml:  <GBSeq_organism>uncultured bacterium PHOS-HE81</GBSeq_organism>

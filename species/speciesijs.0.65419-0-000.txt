@@ -1,0 +1,15 @@
+./AY966000.xml:  <GBSeq_organism>Massilia plicata</GBSeq_organism>
+./AY679161.xml:  <GBSeq_organism>Massilia alkalitolerans DSM 17462</GBSeq_organism>
+./X65590.xml:  <GBSeq_organism>Telluria chitinolytica</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AY376163.xml:  <GBSeq_organism>Pseudoduganella violaceinigra</GBSeq_organism>
+./AM231588.xml:  <GBSeq_organism>Massilia aurea</GBSeq_organism>
+./EF688526.xml:  <GBSeq_organism>Massilia aerilata</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./AY965999.xml:  <GBSeq_organism>Massilia albidiflava</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AY966001.xml:  <GBSeq_organism>Massilia lutea</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AY965998.xml:  <GBSeq_organism>Massilia dura</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AJ486874.xml:  <GBSeq_organism>Halobacillus karajensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AY190534.xml:  <GBSeq_organism>Halobacillus locisalis</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF500003.xml:  <GBSeq_organism>Halobacillus salinus</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AM040717.xml:  <GBSeq_organism>Gracilibacillus orientalis</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AM040718.xml:  <GBSeq_organism>Gracilibacillus orientalis</GBSeq_organism>
+./AM040716.xml:  <GBSeq_organism>Gracilibacillus orientalis</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>

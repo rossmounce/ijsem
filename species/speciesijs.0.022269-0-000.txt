@@ -1,0 +1,12 @@
+./AB495094.xml:  <GBSeq_organism>Paenibacillus xylanisolvens</GBSeq_organism>
+./EU391156.xml:  <GBSeq_organism>Paenibacillus pueri</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./EF452662.xml:  <GBSeq_organism>Paenibacillus ginsengihumi DSM 21568</GBSeq_organism>
+./AF006076.xml:  <GBSeq_organism>Paenibacillus edaphicus</GBSeq_organism>
+./AB271057.xml:  <GBSeq_organism>Paenibacillus ginsengarvi</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./AF006077.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./AY116665.xml:  <GBSeq_organism>Paenibacillus ehimensis</GBSeq_organism>
+./AB179866.xml:  <GBSeq_organism>Paenibacillus hodogayensis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./GO423055.xml:  <GBSeq_organism>Lernaeocera branchialis</GBSeq_organism>

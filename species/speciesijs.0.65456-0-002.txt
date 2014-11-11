@@ -1,0 +1,12 @@
+./AF373023.xml:  <GBSeq_organism>Selenomonas sputigena ATCC 35185</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ010959.xml:  <GBSeq_organism>Anaerovibrio lipolyticus DSM 3074</GBSeq_organism>
+./DQ824482.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X81878.xml:  <GBSeq_organism>Mitsuokella multacida DSM 20544</GBSeq_organism>
+./Y09434.xml:  <GBSeq_organism>Schwartzia succinivorans</GBSeq_organism>
+./AB300988.xml:  <GBSeq_organism>Megamonas funiformis YIT 11815</GBSeq_organism>
+./AJ010963.xml:  <GBSeq_organism>Centipeda periodontii DSM 2778</GBSeq_organism>
+./EF403718.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X65935.xml:  <GBSeq_organism>Acidaminococcus fermentans DSM 20731</GBSeq_organism>
+./AF373025.xml:  <GBSeq_organism>Zymophilus paucivorans</GBSeq_organism>
+./AJ420107.xml:  <GBSeq_organism>Megamonas hypermegale</GBSeq_organism>

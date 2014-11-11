@@ -1,0 +1,11 @@
+./AJ746358.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./X56582.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./AF057016.xml:  <GBSeq_organism>Salinivibrio costicola subsp. vallismortis</GBSeq_organism>
+./X56583.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./AY551089.xml:  <GBSeq_organism>Photobacterium halotolerans</GBSeq_organism>
+./AJ640132.xml:  <GBSeq_organism>Salinivibrio costicola subsp. alcaliphilus</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AB000391.xml:  <GBSeq_organism>Vibrio halioticoli</GBSeq_organism>
+./X74715.xml:  <GBSeq_organism>Vibrio navarrensis</GBSeq_organism>
+./X95527.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>
+./AJ295147.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>

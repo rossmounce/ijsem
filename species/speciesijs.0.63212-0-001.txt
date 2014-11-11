@@ -1,0 +1,25 @@
+./L09187.xml:  <GBSeq_organism>Caloramator fervidus</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./AY487928.xml:  <GBSeq_organism>Acetanaerobacterium elongatum</GBSeq_organism>
+./X98011.xml:  <GBSeq_organism>Anaerofilum agile</GBSeq_organism>
+./Y16716.xml:  <GBSeq_organism>Natronincola histidinovorans</GBSeq_organism>
+./Y15626.xml:  <GBSeq_organism>Tindallia magadiensis</GBSeq_organism>
+./Y18181.xml:  <GBSeq_organism>[Clostridium] methylpentosum DSM 5476</GBSeq_organism>
+./AJ315980.xml:  <GBSeq_organism>Anaerotruncus colihominis DSM 17241</GBSeq_organism>
+./AY518589.xml:  <GBSeq_organism>Acetanaerobacterium elongatum</GBSeq_organism>
+./X99238.xml:  <GBSeq_organism>Thermobrachium celere DSM 8682</GBSeq_organism>
+./L76598.xml:  <GBSeq_organism>Ruminococcus albus 7 = DSM 20455</GBSeq_organism>
+./L09177.xml:  <GBSeq_organism>[Clostridium] cellulosi</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./M59095.xml:  <GBSeq_organism>[Clostridium] leptum</GBSeq_organism>
+./L76603.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./Y18189.xml:  <GBSeq_organism>Anaerobacter polyendosporus</GBSeq_organism>
+./M59116.xml:  <GBSeq_organism>[Clostridium] sporosphaeroides</GBSeq_organism>
+./L35516.xml:  <GBSeq_organism>Acetivibrio cellulolyticus</GBSeq_organism>
+./X71856.xml:  <GBSeq_organism>[Clostridium] cellobioparum DSM 1351 = ATCC 15832</GBSeq_organism>
+./L34625.xml:  <GBSeq_organism>[Eubacterium] siraeum</GBSeq_organism>
+./X97852.xml:  <GBSeq_organism>Anaerofilum pentosovorans</GBSeq_organism>
+./X76649.xml:  <GBSeq_organism>Sarcina ventriculi</GBSeq_organism>
+./L76596.xml:  <GBSeq_organism>Ruminococcus callidus</GBSeq_organism>
+./AJ413954.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>

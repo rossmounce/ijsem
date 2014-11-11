@@ -1,0 +1,12 @@
+./AJ307983.xml:  <GBSeq_organism>Propionivibrio limicola</GBSeq_organism>
+./AY007722.xml:  <GBSeq_organism>Quatrionicoccus australiensis</GBSeq_organism>
+./EF158391.xml:  <GBSeq_organism>Azonexus hydrophilus</GBSeq_organism>
+./AY277621.xml:  <GBSeq_organism>Dechloromonas hortensis</GBSeq_organism>
+./AB166882.xml:  <GBSeq_organism>Azonexus caeni</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./AJ011506.xml:  <GBSeq_organism>Zoogloea resiniphila</GBSeq_organism>
+./AJ318917.xml:  <GBSeq_organism>Dechloromonas denitrificans</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./EF158390.xml:  <GBSeq_organism>Azonexus hydrophilus DSM 23864</GBSeq_organism>
+./AF170348.xml:  <GBSeq_organism>Dechlorosoma suillum PS</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>

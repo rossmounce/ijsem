@@ -1,0 +1,14 @@
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./AJ781029.xml:  <GBSeq_organism>Bacillus herbersteinensis</GBSeq_organism>
+./FM162181.xml:  <GBSeq_organism>Bacillus galliciensis</GBSeq_organism>
+./AJ627210.xml:  <GBSeq_organism>Bacillus humi</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AY608605.xml:  <GBSeq_organism>Bacillus litoralis</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./AY603656.xml:  <GBSeq_organism>Bacillus malacitensis</GBSeq_organism>
+./X60615.xml:  <GBSeq_organism>Bacillus fastidiosus</GBSeq_organism>
+./AY829448.xml:  <GBSeq_organism>Bacillus alkalitelluris</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./AM503357.xml:  <GBSeq_organism>Bacillus isabeliae</GBSeq_organism>
+./AJ250318.xml:  <GBSeq_organism>Bacillus shackletonii</GBSeq_organism>

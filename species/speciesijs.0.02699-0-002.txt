@@ -1,0 +1,22 @@
+./U20797.xml:  <GBSeq_organism>unidentified eubacterium clone SAR202</GBSeq_organism>
+./AF507700.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AF229790.xml:  <GBSeq_organism>uncultured bacterium TA17</GBSeq_organism>
+./AJ387901.xml:  <GBSeq_organism>uncultured bacterium C1-28</GBSeq_organism>
+./AF093427.xml:  <GBSeq_organism>Oscillochloris trichoides DG-6</GBSeq_organism>
+./AF355054.xml:  <GBSeq_organism>uncultured Chloroflexales bacterium</GBSeq_organism>
+./AJ009487.xml:  <GBSeq_organism>uncultured bacterium SJA-116</GBSeq_organism>
+./AJ009500.xml:  <GBSeq_organism>uncultured bacterium SJA-170</GBSeq_organism>
+./AF004928.xml:  <GBSeq_organism>Dehalococcoides mccartyi</GBSeq_organism>
+./AF005750.xml:  <GBSeq_organism>uncultured eubacterium H3.93</GBSeq_organism>
+./AF419664.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M34117.xml:  <GBSeq_organism>Herpetosiphon aurantiacus</GBSeq_organism>
+./AB041226.xml:  <GBSeq_organism>Roseiflexus castenholzii DSM 13941</GBSeq_organism>
+./AJ249112.xml:  <GBSeq_organism>uncultured bacterium SHA-300</GBSeq_organism>
+./AF005748.xml:  <GBSeq_organism>uncultured eubacterium H1.4.f</GBSeq_organism>
+./AJ249103.xml:  <GBSeq_organism>uncultured bacterium SHA-21</GBSeq_organism>
+./AF507690.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AF355053.xml:  <GBSeq_organism>uncultured Chloroflexales bacterium</GBSeq_organism>
+./AF507692.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AF050563.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-80</GBSeq_organism>
+./AF230641.xml:  <GBSeq_organism>Dehalococcoides mccartyi CBDB1</GBSeq_organism>
+./AJ296573.xml:  <GBSeq_organism>uncultured bacterium GR/GS-296.II.271</GBSeq_organism>

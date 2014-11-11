@@ -1,0 +1,12 @@
+./L16472.xml:  <GBSeq_organism>Prevotella oulorum</GBSeq_organism>
+./L16473.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>
+./AJ006457.xml:  <GBSeq_organism>Prevotella bryantii B14</GBSeq_organism>
+./X81876.xml:  <GBSeq_organism>Prevotella dentalis DSM 3688</GBSeq_organism>
+./L16474.xml:  <GBSeq_organism>Prevotella oris</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./L16475.xml:  <GBSeq_organism>Prevotella bivia</GBSeq_organism>
+./AY840553.xml:  <GBSeq_organism>Prevotella baroniae</GBSeq_organism>
+./AJ011683.xml:  <GBSeq_organism>Prevotella albensis</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./L16465.xml:  <GBSeq_organism>Prevotella corporis</GBSeq_organism>
+./L16477.xml:  <GBSeq_organism>Prevotella buccae ATCC 33574</GBSeq_organism>

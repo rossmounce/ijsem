@@ -1,0 +1,10 @@
+./D14146.xml:  <GBSeq_organism>Anaerococcus vaginalis ATCC 51170</GBSeq_organism>
+./AF537211.xml:  <GBSeq_organism>Filifactor villosus</GBSeq_organism>
+./AJ006962.xml:  <GBSeq_organism>Filifactor alocis</GBSeq_organism>
+./D14139.xml:  <GBSeq_organism>Anaerococcus prevotii DSM 20548</GBSeq_organism>
+./AF287763.xml:  <GBSeq_organism>Peptostreptococcus sp. oral clone CK035</GBSeq_organism>
+./AF044947.xml:  <GBSeq_organism>Peptostreptococcus sp. D1</GBSeq_organism>
+./AF542228.xml:  <GBSeq_organism>Peptoniphilus asaccharolyticus DSM 20463</GBSeq_organism>
+./Y07839.xml:  <GBSeq_organism>Peptoniphilus harei</GBSeq_organism>
+./DQ160208.xml:  <GBSeq_organism>Peptostreptococcus stomatis</GBSeq_organism>
+./AY326462.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>

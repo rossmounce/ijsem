@@ -1,0 +1,10 @@
+./AY323809.xml:  <GBSeq_organism>Bombyx mori bidensovirus 2</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AY884046.xml:  <GBSeq_organism>Paenibacillus assamensis</GBSeq_organism>
+./AY323610.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AY208751.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AY751754.xml:  <GBSeq_organism>Paenibacillus rhizosphaerae</GBSeq_organism>
+./AJ250317.xml:  <GBSeq_organism>Paenibacillus cookii</GBSeq_organism>
+./X57308.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>

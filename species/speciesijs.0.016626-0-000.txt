@@ -1,0 +1,18 @@
+./AJ550856.xml:  <GBSeq_organism>Enhydrobacter aerosaccus</GBSeq_organism>
+./AJ417490.xml:  <GBSeq_organism>Moraxella lincolnii</GBSeq_organism>
+./AF005187.xml:  <GBSeq_organism>Moraxella caviae</GBSeq_organism>
+./HM101851.xml:  <GBSeq_organism>Hydroptila delineata</GBSeq_organism>
+./AF005188.xml:  <GBSeq_organism>Moraxella cuniculi</GBSeq_organism>
+./AF005160.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./AF005182.xml:  <GBSeq_organism>Moraxella bovis</GBSeq_organism>
+./AF005185.xml:  <GBSeq_organism>Moraxella catarrhalis</GBSeq_organism>
+./AF005184.xml:  <GBSeq_organism>Moraxella equi</GBSeq_organism>
+./U46144.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./DQ153089.xml:  <GBSeq_organism>Moraxella bovoculi 237</GBSeq_organism>
+./AF005172.xml:  <GBSeq_organism>Moraxella nonliquefaciens</GBSeq_organism>
+./AJ309942.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AF005192.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AM884564.xml:  <GBSeq_organism>Moraxella pluranimalium</GBSeq_organism>
+./AF005190.xml:  <GBSeq_organism>Moraxella osloensis</GBSeq_organism>
+./AJ633632.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AF005186.xml:  <GBSeq_organism>Moraxella ovis</GBSeq_organism>

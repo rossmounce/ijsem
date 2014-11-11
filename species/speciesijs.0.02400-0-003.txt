@@ -1,0 +1,20 @@
+./X92694.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./X92695.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AJ458464.xml:  <GBSeq_organism>Thermoleophilum minutum</GBSeq_organism>
+./AJ458462.xml:  <GBSeq_organism>Thermoleophilum album</GBSeq_organism>
+./U65647.xml:  <GBSeq_organism>Rubrobacter radiotolerans</GBSeq_organism>
+./X79048.xml:  <GBSeq_organism>Coriobacterium glomerans PW2</GBSeq_organism>
+./M58730.xml:  <GBSeq_organism>Bifidobacterium asteroides</GBSeq_organism>
+./M59059.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./X89941.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./X89774.xml:  <GBSeq_organism>Candidatus Microthrix parvicella</GBSeq_organism>
+./Y11555.xml:  <GBSeq_organism>uncultured bacterium DA079</GBSeq_organism>
+./X92700.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./U75647.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans DSM 10331</GBSeq_organism>
+./AF101240.xml:  <GBSeq_organism>Slackia exigua ATCC 700122</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./X87135.xml:  <GBSeq_organism>Rubrobacter xylanophilus</GBSeq_organism>
+./X92699.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./X92707.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AJ420142.xml:  <GBSeq_organism>Sphaerobacter thermophilus DSM 20745</GBSeq_organism>
+./AJ440237.xml:  <GBSeq_organism>Conexibacter woesei DSM 14684</GBSeq_organism>

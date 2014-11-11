@@ -1,0 +1,23 @@
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./X98011.xml:  <GBSeq_organism>Anaerofilum agile</GBSeq_organism>
+./X66002.xml:  <GBSeq_organism>[Clostridium] sporosphaeroides</GBSeq_organism>
+./Y18181.xml:  <GBSeq_organism>[Clostridium] methylpentosum DSM 5476</GBSeq_organism>
+./AY295777.xml:  <GBSeq_organism>Ethanoligenens harbinense YUAN-3</GBSeq_organism>
+./L76598.xml:  <GBSeq_organism>Ruminococcus albus 7 = DSM 20455</GBSeq_organism>
+./L34618.xml:  <GBSeq_organism>Eubacterium desmolans</GBSeq_organism>
+./L09177.xml:  <GBSeq_organism>[Clostridium] cellulosi</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./M59095.xml:  <GBSeq_organism>[Clostridium] leptum</GBSeq_organism>
+./L76603.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./Z49863.xml:  <GBSeq_organism>Sporobacter termitidis</GBSeq_organism>
+./X71852.xml:  <GBSeq_organism>[Clostridium] papyrosolvens DSM 2782</GBSeq_organism>
+./M59116.xml:  <GBSeq_organism>[Clostridium] sporosphaeroides</GBSeq_organism>
+./L34625.xml:  <GBSeq_organism>[Eubacterium] siraeum</GBSeq_organism>
+./X97852.xml:  <GBSeq_organism>Anaerofilum pentosovorans</GBSeq_organism>
+./Y18187.xml:  <GBSeq_organism>Flavonifractor plautii DSM 6740</GBSeq_organism>
+./L76600.xml:  <GBSeq_organism>Ruminococcus bromii</GBSeq_organism>
+./AY833421.xml:  <GBSeq_organism>Ethanoligenens harbinense</GBSeq_organism>
+./AF016691.xml:  <GBSeq_organism>Acidaminobacter hydrogenoformans</GBSeq_organism>
+./L76596.xml:  <GBSeq_organism>Ruminococcus callidus</GBSeq_organism>
+./AJ413954.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>
+./AF167711.xml:  <GBSeq_organism>Papillibacter cinnamivorans</GBSeq_organism>

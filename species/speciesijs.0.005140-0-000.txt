@@ -1,0 +1,11 @@
+./AJ400627.xml:  <GBSeq_organism>Salana multivorans</GBSeq_organism>
+./AB436534.xml:  <GBSeq_organism>Georgenia thermotolerans</GBSeq_organism>
+./AJ298873.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./AY354285.xml:  <GBSeq_organism>Myceligenerans xiligouense</GBSeq_organism>
+./Y18378.xml:  <GBSeq_organism>Beutenbergia cavernae DSM 12333</GBSeq_organism>
+./X83806.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./AF403541.xml:  <GBSeq_organism>Xylanimonas cellulosilytica DSM 15894</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X79455.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X79458.xml:  <GBSeq_organism>Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>

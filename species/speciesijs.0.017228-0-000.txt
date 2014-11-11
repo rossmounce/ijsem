@@ -1,0 +1,20 @@
+./AB189298.xml:  <GBSeq_organism>Halobacillus profundi</GBSeq_organism>
+./EU135704.xml:  <GBSeq_organism>Gracilibacillus halophilus YIM-C55.5</GBSeq_organism>
+./AB243847.xml:  <GBSeq_organism>Terribacillus saccharophilus</GBSeq_organism>
+./AJ315060.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./EF486356.xml:  <GBSeq_organism>Halobacillus campisalis</GBSeq_organism>
+./AY553296.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./AB195680.xml:  <GBSeq_organism>Halobacillus kuroshimensis</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./AY603977.xml:  <GBSeq_organism>Pontibacillus marinus</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AY321433.xml:  <GBSeq_organism>Lentibacillus halodurans</GBSeq_organism>
+./AJ316302.xml:  <GBSeq_organism>Virgibacillus carmonensis</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AB191345.xml:  <GBSeq_organism>Lentibacillus halophilus</GBSeq_organism>
+./AY190535.xml:  <GBSeq_organism>Jeotgalibacillus campisalis</GBSeq_organism>
+./AB243849.xml:  <GBSeq_organism>Terribacillus halophilus</GBSeq_organism>
+./EF601571.xml:  <GBSeq_organism>Lentibacillus salinarum</GBSeq_organism>
+./AB243865.xml:  <GBSeq_organism>Halobacillus faecis</GBSeq_organism>
+./FJ386524.xml:  <GBSeq_organism>Terribacillus aidingensis</GBSeq_organism>

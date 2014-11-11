@@ -1,0 +1,14 @@
+./AY305308.xml:  <GBSeq_organism>butyrate-producing bacterium M50/1</GBSeq_organism>
+./AJ312386.xml:  <GBSeq_organism>Roseburia intestinalis</GBSeq_organism>
+./AY804150.xml:  <GBSeq_organism>Roseburia faecis</GBSeq_organism>
+./AJ270478.xml:  <GBSeq_organism>butyrate-producing bacterium L1-93</GBSeq_organism>
+./L34623.xml:  <GBSeq_organism>Eubacterium ramulus ATCC 29099</GBSeq_organism>
+./AY804149.xml:  <GBSeq_organism>Roseburia faecis</GBSeq_organism>
+./L34627.xml:  <GBSeq_organism>Eubacterium rectale</GBSeq_organism>
+./AJ270479.xml:  <GBSeq_organism>butyrate-producing bacterium L1-952</GBSeq_organism>
+./AY804148.xml:  <GBSeq_organism>Roseburia hominis</GBSeq_organism>
+./L14676.xml:  <GBSeq_organism>Roseburia cecicola</GBSeq_organism>
+./AJ312385.xml:  <GBSeq_organism>Roseburia intestinalis L1-82</GBSeq_organism>
+./AY305310.xml:  <GBSeq_organism>Roseburia faecis M72/1</GBSeq_organism>
+./AJ270474.xml:  <GBSeq_organism>Roseburia inulinivorans</GBSeq_organism>
+./AJ270482.xml:  <GBSeq_organism>Roseburia hominis A2-183</GBSeq_organism>

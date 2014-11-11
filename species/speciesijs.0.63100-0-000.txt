@@ -1,0 +1,9 @@
+./AY461442.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./AY461443.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./L01786.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AF118020.xml:  <GBSeq_organism>Erythrobacter citreus</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./AY461441.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>
+./AF500004.xml:  <GBSeq_organism>Erythrobacter flavus</GBSeq_organism>

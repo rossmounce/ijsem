@@ -1,0 +1,12 @@
+./AJ303009.xml:  <GBSeq_organism>Novosphingobium lentum NBRC 107847</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./EU336977.xml:  <GBSeq_organism>Novosphingobium acidiphilum</GBSeq_organism>
+./EF549586.xml:  <GBSeq_organism>Novosphingobium indicum</GBSeq_organism>
+./EF424403.xml:  <GBSeq_organism>Novosphingobium mathurense</GBSeq_organism>
+./AM237364.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./FJ177534.xml:  <GBSeq_organism>Novosphingobium sediminicola</GBSeq_organism>
+./AY500142.xml:  <GBSeq_organism>Novosphingobium taihuense</GBSeq_organism>
+./DQ448852.xml:  <GBSeq_organism>Novosphingobium nitrogenifigens DSM 19370</GBSeq_organism>
+./AJ001052.xml:  <GBSeq_organism>Sphingomonas sp. B28161</GBSeq_organism>
+./D13945.xml:  <GBSeq_organism>Novosphingobium rosa</GBSeq_organism>
+./EF424402.xml:  <GBSeq_organism>Novosphingobium panipatense</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AY538749.xml:  <GBSeq_organism>Photobacterium frigidiphilum</GBSeq_organism>
+./AB428873.xml:  <GBSeq_organism>Photobacterium aquimaris</GBSeq_organism>
+./AY960847.xml:  <GBSeq_organism>Photobacterium ganghwense</GBSeq_organism>
+./X74686.xml:  <GBSeq_organism>Photobacterium leiognathi subsp. leiognathi</GBSeq_organism>
+./AY341439.xml:  <GBSeq_organism>Photobacterium kishitanii</GBSeq_organism>
+./AY643710.xml:  <GBSeq_organism>Photobacterium iliopiscarium</GBSeq_organism>
+./AY341436.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>
+./AY554009.xml:  <GBSeq_organism>Photobacterium lipolyticum</GBSeq_organism>
+./AY341441.xml:  <GBSeq_organism>Photobacterium leiognathi subsp. mandapamensis</GBSeq_organism>
+./X78105.xml:  <GBSeq_organism>Photobacterium damselae</GBSeq_organism>
+./AJ842344.xml:  <GBSeq_organism>Photobacterium rosenbergii</GBSeq_organism>
+./X74700.xml:  <GBSeq_organism>Photobacterium damselae subsp. damselae</GBSeq_organism>
+./AB428874.xml:  <GBSeq_organism>Photobacterium aquimaris</GBSeq_organism>
+./AB159513.xml:  <GBSeq_organism>Photobacterium indicum</GBSeq_organism>
+./X74685.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>

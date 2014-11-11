@@ -1,0 +1,7 @@
+./Z26930.xml:  <GBSeq_organism>Aeribacillus pallidus</GBSeq_organism>
+./AJ010478.xml:  <GBSeq_organism>Bacillus sp.</GBSeq_organism>
+./Z26932.xml:  <GBSeq_organism>Anoxybacillus flavithermus subsp. flavithermus</GBSeq_organism>
+./Al248711.xml:  <GBSeq_organism>Tetraodon nigroviridis</GBSeq_organism>
+./AY122325.xml:  <GBSeq_organism>Anoxybacillus gonensis</GBSeq_organism>
+./AF510985.xml:  <GBSeq_organism>Anoxybacillus kamchatkensis</GBSeq_organism>
+./AF001963.xml:  <GBSeq_organism>Anoxybacillus ayderensis</GBSeq_organism>

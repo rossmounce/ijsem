@@ -1,0 +1,8 @@
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./M58792.xml:  <GBSeq_organism>Marinoscillum furvescens</GBSeq_organism>
+./M58794.xml:  <GBSeq_organism>Marivirga sericea</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./M58789.xml:  <GBSeq_organism>Marivirga tractuosa</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>

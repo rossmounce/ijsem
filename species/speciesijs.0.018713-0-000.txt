@@ -1,0 +1,8 @@
+./EU672804.xml:  <GBSeq_organism>Mucilaginibacter gossypii</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./EU672805.xml:  <GBSeq_organism>Mucilaginibacter gossypiicola</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./AB330392.xml:  <GBSeq_organism>Mucilaginibacter kameinonensis</GBSeq_organism>
+./EU109722.xml:  <GBSeq_organism>Mucilaginibacter oryzae</GBSeq_organism>
+./EU747841.xml:  <GBSeq_organism>Mucilaginibacter rigui</GBSeq_organism>
+./EU729366.xml:  <GBSeq_organism>Mucilaginibacter ximonensis</GBSeq_organism>

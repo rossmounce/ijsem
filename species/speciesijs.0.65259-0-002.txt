@@ -1,0 +1,12 @@
+./AE010465.xml:  <GBSeq_organism>Fusobacterium nucleatum subsp. nucleatum ATCC 25586</GBSeq_organism>
+./EF529609.xml:  <GBSeq_organism>[Clostridium] aerotolerans</GBSeq_organism>
+./EF529616.xml:  <GBSeq_organism>[Clostridium] symbiosum</GBSeq_organism>
+./EF529612.xml:  <GBSeq_organism>[Clostridium] bolteae</GBSeq_organism>
+./EF529611.xml:  <GBSeq_organism>Tyzzerella nexilis DSM 1787</GBSeq_organism>
+./EF529613.xml:  <GBSeq_organism>[Clostridium] clostridioforme</GBSeq_organism>
+./EF529619.xml:  <GBSeq_organism>Ruminococcus obeum ATCC 29174</GBSeq_organism>
+./EF529617.xml:  <GBSeq_organism>Blautia producta ATCC 27340 = DSM 2950</GBSeq_organism>
+./EF529615.xml:  <GBSeq_organism>Ruminococcus gauvreauii</GBSeq_organism>
+./EF529610.xml:  <GBSeq_organism>[Clostridium] indolis</GBSeq_organism>
+./EF529614.xml:  <GBSeq_organism>[Clostridium] hathewayi</GBSeq_organism>
+./EF529618.xml:  <GBSeq_organism>[Ruminococcus] gnavus</GBSeq_organism>

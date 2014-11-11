@@ -1,0 +1,28 @@
+./AB184183.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./AM934703.xml:  <GBSeq_organism>Streptomyces specialis</GBSeq_organism>
+./AB249959.xml:  <GBSeq_organism>Streptomyces endus</GBSeq_organism>
+./AJ391831.xml:  <GBSeq_organism>Streptomyces cangkringensis</GBSeq_organism>
+./AB184709.xml:  <GBSeq_organism>Streptomyces castelarensis</GBSeq_organism>
+./AJ391833.xml:  <GBSeq_organism>Streptomyces javensis</GBSeq_organism>
+./AJ271887.xml:  <GBSeq_organism>Streptomyces melanosporofaciens</GBSeq_organism>
+./AF117304.xml:  <GBSeq_organism>Streptomyces malaysiensis</GBSeq_organism>
+./AJ391830.xml:  <GBSeq_organism>Streptomyces asiaticus</GBSeq_organism>
+./AB184476.xml:  <GBSeq_organism>Streptomyces celluloflavus</GBSeq_organism>
+./AB249952.xml:  <GBSeq_organism>Streptomyces albiaxialis</GBSeq_organism>
+./AB184423.xml:  <GBSeq_organism>Streptomyces paraguayensis</GBSeq_organism>
+./AF101415.xml:  <GBSeq_organism>Streptomyces yeochonensis</GBSeq_organism>
+./AB249941.xml:  <GBSeq_organism>Streptomyces rhizosphaericus</GBSeq_organism>
+./AB184501.xml:  <GBSeq_organism>Streptomyces albus subsp. pathocidicus</GBSeq_organism>
+./AY262826.xml:  <GBSeq_organism>Streptomyces ferralitis</GBSeq_organism>
+./AY822606.xml:  <GBSeq_organism>Streptomyces cheonanensis</GBSeq_organism>
+./DQ442494.xml:  <GBSeq_organism>Streptomyces carpaticus</GBSeq_organism>
+./AB184185.xml:  <GBSeq_organism>Streptomyces antimycoticus</GBSeq_organism>
+./AY277529.xml:  <GBSeq_organism>Streptomyces hebeiensis</GBSeq_organism>
+./AB184115.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./AJ391822.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./AB045870.xml:  <GBSeq_organism>Streptomyces cattleya NRRL 8057 = DSM 46488</GBSeq_organism>
+./AB184878.xml:  <GBSeq_organism>Streptomyces morookaense</GBSeq_organism>
+./AF336800.xml:  <GBSeq_organism>Streptomyces yatensis</GBSeq_organism>
+./AJ391819.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./AM398645.xml:  <GBSeq_organism>Streptomyces hainanensis</GBSeq_organism>

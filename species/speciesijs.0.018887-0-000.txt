@@ -1,0 +1,12 @@
+./D88005.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AY695828.xml:  <GBSeq_organism>Pusillimonas noertemannii</GBSeq_organism>
+./AB166879.xml:  <GBSeq_organism>Castellaniella caeni</GBSeq_organism>
+./EU873313.xml:  <GBSeq_organism>Castellaniella ginsengisoli</GBSeq_organism>
+./L37785.xml:  <GBSeq_organism>Sutterella wadsworthensis</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./U82826.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./AY296718.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. phenolicus</GBSeq_organism>
+./AJ242986.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. parafaecalis</GBSeq_organism>

@@ -1,0 +1,10 @@
+./DQ338443.xml:  <GBSeq_organism>Paenibacillus forsythiae</GBSeq_organism>
+./AJ633647.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./D78318.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./AJ223987.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./DQ338444.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./DQ471303.xml:  <GBSeq_organism>Paenibacillus zanthoxyli</GBSeq_organism>
+./AJ316013.xml:  <GBSeq_organism>Paenibacillus stellifer</GBSeq_organism>
+./AJ011322.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AJ223990.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./X60648.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

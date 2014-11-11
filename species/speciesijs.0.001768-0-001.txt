@@ -1,0 +1,22 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF297959.xml:  <GBSeq_organism>Pseudoalteromonas piscicida</GBSeq_organism>
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./AF057016.xml:  <GBSeq_organism>Salinivibrio costicola subsp. vallismortis</GBSeq_organism>
+./DQ504429.xml:  <GBSeq_organism>Aeromonas bivalvium</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./AJ316171.xml:  <GBSeq_organism>Vibrio neptunius</GBSeq_organism>
+./AJ640132.xml:  <GBSeq_organism>Salinivibrio costicola subsp. alcaliphilus</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./AJ316172.xml:  <GBSeq_organism>Vibrio brasiliensis LMG 20546</GBSeq_organism>
+./AF144036.xml:  <GBSeq_organism>Pseudoalteromonas maricaloris</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./AJ440005.xml:  <GBSeq_organism>Vibrio coralliilyticus ATCC BAA-450</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AJ842343.xml:  <GBSeq_organism>Enterovibrio coralii</GBSeq_organism>
+./AJ514910.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./X95527.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>
+./AY207503.xml:  <GBSeq_organism>Aestuariibacter halophilus</GBSeq_organism>
+./X74723.xml:  <GBSeq_organism>Vibrio proteolyticus</GBSeq_organism>

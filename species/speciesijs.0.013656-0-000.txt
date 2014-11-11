@@ -1,0 +1,65 @@
+./FJ754446.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./EU477132.xml:  <GBSeq_organism>Acinetobacter genomosp. 13BJ</GBSeq_organism>
+./EU477155.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./EU477110.xml:  <GBSeq_organism>Acinetobacter junii</GBSeq_organism>
+./FJ754452.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./EU477147.xml:  <GBSeq_organism>Acinetobacter genomosp. 14BJ</GBSeq_organism>
+./FJ754458.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754435.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754445.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./FJ754439.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477150.xml:  <GBSeq_organism>Acinetobacter bouvetii</GBSeq_organism>
+./FJ754461.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477113.xml:  <GBSeq_organism>Acinetobacter johnsonii</GBSeq_organism>
+./EU477151.xml:  <GBSeq_organism>Acinetobacter gerneri</GBSeq_organism>
+./FJ754444.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./EU477148.xml:  <GBSeq_organism>Acinetobacter gyllenbergii</GBSeq_organism>
+./EU477134.xml:  <GBSeq_organism>Acinetobacter genomosp. 17BJ</GBSeq_organism>
+./FJ754447.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./EU477108.xml:  <GBSeq_organism>Acinetobacter baumannii</GBSeq_organism>
+./EU477124.xml:  <GBSeq_organism>Acinetobacter beijerinckii</GBSeq_organism>
+./EU477126.xml:  <GBSeq_organism>Acinetobacter sp. NIPH 973</GBSeq_organism>
+./FJ754436.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754453.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477122.xml:  <GBSeq_organism>Acinetobacter sp. NIPH 817</GBSeq_organism>
+./FJ754449.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477118.xml:  <GBSeq_organism>Acinetobacter nosocomialis</GBSeq_organism>
+./EU477105.xml:  <GBSeq_organism>Acinetobacter ursingii DSM 16037 = CIP 107286</GBSeq_organism>
+./FJ754443.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754429.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477117.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754450.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./EU477133.xml:  <GBSeq_organism>Acinetobacter genomosp. 15BJ</GBSeq_organism>
+./EU477135.xml:  <GBSeq_organism>Acinetobacter genomosp. 16BJ</GBSeq_organism>
+./EU477128.xml:  <GBSeq_organism>Acinetobacter schindleri CIP 107287</GBSeq_organism>
+./FJ754441.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754431.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477107.xml:  <GBSeq_organism>Acinetobacter parvus</GBSeq_organism>
+./FJ754432.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754448.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./EU477109.xml:  <GBSeq_organism>Acinetobacter haemolyticus</GBSeq_organism>
+./FJ754442.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754455.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./EU477136.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./EU477114.xml:  <GBSeq_organism>Acinetobacter pittii</GBSeq_organism>
+./FJ754437.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754457.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477152.xml:  <GBSeq_organism>Acinetobacter tandoii</GBSeq_organism>
+./FJ754430.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754459.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754460.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754433.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754438.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./EU477158.xml:  <GBSeq_organism>Acinetobacter gyllenbergii</GBSeq_organism>
+./FJ754456.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754440.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754451.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477112.xml:  <GBSeq_organism>Acinetobacter radioresistens</GBSeq_organism>
+./FJ754463.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./FJ754434.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./EU477154.xml:  <GBSeq_organism>Acinetobacter towneri</GBSeq_organism>
+./EU477111.xml:  <GBSeq_organism>Acinetobacter lwoffii</GBSeq_organism>
+./EU477149.xml:  <GBSeq_organism>Acinetobacter calcoaceticus</GBSeq_organism>
+./FJ754454.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>
+./FJ754462.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./EU477116.xml:  <GBSeq_organism>Acinetobacter bereziniae</GBSeq_organism>

@@ -1,0 +1,25 @@
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./U32595.xml:  <GBSeq_organism>Halobacteroides halobius DSM 5150</GBSeq_organism>
+./L37422.xml:  <GBSeq_organism>Acetohalobium arabaticum DSM 5501</GBSeq_organism>
+./X95817.xml:  <GBSeq_organism>Natroniella acetigena</GBSeq_organism>
+./M59120.xml:  <GBSeq_organism>Eubacterium limosum</GBSeq_organism>
+./AF022248.xml:  <GBSeq_organism>Syntrophomonas wolfei</GBSeq_organism>
+./L37421.xml:  <GBSeq_organism>Halanaerobacter lacunarum</GBSeq_organism>
+./Y14212.xml:  <GBSeq_organism>Halanaerobacter salinarius</GBSeq_organism>
+./AJ238119.xml:  <GBSeq_organism>Halobacteroides elegans</GBSeq_organism>
+./X55797.xml:  <GBSeq_organism>Peptococcus niger</GBSeq_organism>
+./AF152595.xml:  <GBSeq_organism>Orenia sivashensis</GBSeq_organism>
+./M11212.xml:  <GBSeq_organism>Heliobacterium chlorum</GBSeq_organism>
+./X89072.xml:  <GBSeq_organism>Halocella cellulosilytica</GBSeq_organism>
+./Y18485.xml:  <GBSeq_organism>Orenia salinaria</GBSeq_organism>
+./L22016.xml:  <GBSeq_organism>Halothermothrix orenii</GBSeq_organism>
+./X78017.xml:  <GBSeq_organism>Acidaminococcus fermentans DSM 20731</GBSeq_organism>
+./EU338489.xml:  <GBSeq_organism>Natronovirga wadinatrunensis</GBSeq_organism>
+./AF310247.xml:  <GBSeq_organism>Selenihalanaerobacter shriftii</GBSeq_organism>
+./L14720.xml:  <GBSeq_organism>Lachnospira multipara ATCC 19207</GBSeq_organism>
+./X89073.xml:  <GBSeq_organism>Orenia marismortui</GBSeq_organism>
+./DQ417202.xml:  <GBSeq_organism>Natranaerobius thermophilus JW/NM-WN-LF</GBSeq_organism>
+./M59122.xml:  <GBSeq_organism>Sporohalobacter lortetii</GBSeq_organism>
+./L04168.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>
+./EU338490.xml:  <GBSeq_organism>Natranaerobius trueperi</GBSeq_organism>

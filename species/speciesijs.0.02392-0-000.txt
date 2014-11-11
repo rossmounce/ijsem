@@ -1,0 +1,28 @@
+./AF003548.xml:  <GBSeq_organism>Shewanella woodyi</GBSeq_organism>
+./AJ300834.xml:  <GBSeq_organism>Shewanella livingstonensis</GBSeq_organism>
+./AF170794.xml:  <GBSeq_organism>Shewanella colwelliana</GBSeq_organism>
+./AF005669.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./U91550.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AF007283.xml:  <GBSeq_organism>Pseudoalteromonas tetraodonis</GBSeq_organism>
+./AF145921.xml:  <GBSeq_organism>Shewanella japonica</GBSeq_organism>
+./AB006769.xml:  <GBSeq_organism>Marinospirillum minutulum</GBSeq_organism>
+./AF214730.xml:  <GBSeq_organism>Pseudoalteromonas tetraodonis</GBSeq_organism>
+./U85906.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>
+./AF005249.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AF014946.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./AF005257.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./AF005251.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AF005248.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./AF039061.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>
+./X82131.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>
+./AF007272.xml:  <GBSeq_organism>Alteromonas macleodii ATCC 27126</GBSeq_organism>
+./U85907.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./AF005686.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AJ000214.xml:  <GBSeq_organism>Shewanella baltica</GBSeq_organism>
+./AF014944.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./AF005693.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./AF011335.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>
+./U91590.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./AF005694.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AF014947.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>
+./AF014945.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./AF068796.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac19</GBSeq_organism>
+./M65012.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./AF068788.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac7</GBSeq_organism>
+./M88157.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AJ535664.xml:  <GBSeq_organism>Caminibacter profundus</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./AF299127.xml:  <GBSeq_organism>uncultured bacterium S17sBac3</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AF068789.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac8</GBSeq_organism>
+./AF068804.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac30</GBSeq_organism>
+./X72768.xml:  <GBSeq_organism>Desulfurella acetivorans A63</GBSeq_organism>
+./Y18292.xml:  <GBSeq_organism>Hippea maritima DSM 10411</GBSeq_organism>
+./AF299124.xml:  <GBSeq_organism>uncultured bacterium S17sBac14</GBSeq_organism>

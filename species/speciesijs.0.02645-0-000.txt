@@ -1,0 +1,6 @@
+./X84439.xml:  <GBSeq_organism>Corynebacterium urealyticum DSM 7109</GBSeq_organism>
+./X84444.xml:  <GBSeq_organism>Corynebacterium bovis DSM 20582= CIP 54.80</GBSeq_organism>
+./X84250.xml:  <GBSeq_organism>Corynebacterium jeikeium</GBSeq_organism>
+./AJ243820.xml:  <GBSeq_organism>Corynebacterium auriscanis</GBSeq_organism>
+./Y13024.xml:  <GBSeq_organism>Corynebacterium falsenii</GBSeq_organism>
+./X53185.xml:  <GBSeq_organism>Corynebacterium variabile</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AY447020.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AY447031.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AY447034.xml:  <GBSeq_organism>Zygoascus hellenicus var. hellenicus</GBSeq_organism>
+./AY447032.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AY447027.xml:  <GBSeq_organism>Zygoascus steatolyticus var. inositophilus</GBSeq_organism>
+./AY447033.xml:  <GBSeq_organism>Zygoascus steatolyticus var. acidophilus</GBSeq_organism>
+./AY447030.xml:  <GBSeq_organism>Zygoascus hellenicus var. hellenicus</GBSeq_organism>
+./AY447025.xml:  <GBSeq_organism>Zygoascus hellenicus var. hellenicus</GBSeq_organism>
+./AY447024.xml:  <GBSeq_organism>Zygoascus hellenicus var. acidophilus</GBSeq_organism>
+./AY447023.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AY447029.xml:  <GBSeq_organism>Zygoascus hellenicus var. acidophilus</GBSeq_organism>
+./AY518583.xml:  <GBSeq_organism>Candida bituminiphila</GBSeq_organism>
+./AY447022.xml:  <GBSeq_organism>Zygoascus hellenicus var. hellenicus</GBSeq_organism>
+./AY447026.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AY447028.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AY447021.xml:  <GBSeq_organism>Zygoascus hellenicus var. hellenicus</GBSeq_organism>

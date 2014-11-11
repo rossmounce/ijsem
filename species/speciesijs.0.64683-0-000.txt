@@ -1,0 +1,12 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./AM040493.xml:  <GBSeq_organism>Leucobacter iarius</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AJ746337.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./AJ781046.xml:  <GBSeq_organism>Leucobacter chromiireducens subsp. chromiireducens</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./AJ781047.xml:  <GBSeq_organism>Leucobacter aridicollis</GBSeq_organism>

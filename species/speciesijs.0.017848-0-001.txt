@@ -1,0 +1,31 @@
+./EF550248.xml:  <GBSeq_organism>Pichia nakasei</GBSeq_organism>
+./EF550245.xml:  <GBSeq_organism>Issatchenkia sp. NRRL Y-12827</GBSeq_organism>
+./EF550239.xml:  <GBSeq_organism>Pichia norvegensis</GBSeq_organism>
+./EF550252.xml:  <GBSeq_organism>Pichia heedii</GBSeq_organism>
+./EF550246.xml:  <GBSeq_organism>Issatchenkia sp. NRRL Y-12824</GBSeq_organism>
+./EF550240.xml:  <GBSeq_organism>Candida inconspicua</GBSeq_organism>
+./EF550226.xml:  <GBSeq_organism>Pichia deserticola</GBSeq_organism>
+./EF550222.xml:  <GBSeq_organism>Pichia kudriavzevii</GBSeq_organism>
+./FJ755462.xml:  <GBSeq_organism>Pichia sp. ABF-2009a</GBSeq_organism>
+./EF550228.xml:  <GBSeq_organism>Pichia sp. NRRL Y-27259</GBSeq_organism>
+./EF550235.xml:  <GBSeq_organism>Candida pseudolambica</GBSeq_organism>
+./EF550247.xml:  <GBSeq_organism>Pichia barkeri</GBSeq_organism>
+./EF550251.xml:  <GBSeq_organism>Pichia kluyveri var. kluyveri</GBSeq_organism>
+./EF550232.xml:  <GBSeq_organism>Pichia sporocuriosa</GBSeq_organism>
+./EF550244.xml:  <GBSeq_organism>Issatchenkia sp. NRRL Y-12830</GBSeq_organism>
+./EF550237.xml:  <GBSeq_organism>Issatchenkia scutulata var. exigua</GBSeq_organism>
+./EF550231.xml:  <GBSeq_organism>Candida thaimueangensis</GBSeq_organism>
+./EF550250.xml:  <GBSeq_organism>Pichia kluyveri var. cephalocereana</GBSeq_organism>
+./EF550224.xml:  <GBSeq_organism>Pichia sp. NRRL YB-4149</GBSeq_organism>
+./EF550241.xml:  <GBSeq_organism>Pichia cactophila</GBSeq_organism>
+./EF550229.xml:  <GBSeq_organism>Pichia sp. NRRL Y-27261</GBSeq_organism>
+./EF550227.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./EF550233.xml:  <GBSeq_organism>Issatchenkia terricola</GBSeq_organism>
+./EF550225.xml:  <GBSeq_organism>Candida ethanolica</GBSeq_organism>
+./EF550242.xml:  <GBSeq_organism>Pichia pseudocactophila</GBSeq_organism>
+./EF550238.xml:  <GBSeq_organism>Candida rugopelliculosa</GBSeq_organism>
+./EF550243.xml:  <GBSeq_organism>Issatchenkia scutulata var. scutulata</GBSeq_organism>
+./EF550234.xml:  <GBSeq_organism>Pichia fermentans</GBSeq_organism>
+./EF550236.xml:  <GBSeq_organism>Pichia occidentalis</GBSeq_organism>
+./EF550249.xml:  <GBSeq_organism>Pichia kluyveri var. eremophila</GBSeq_organism>
+./EF550230.xml:  <GBSeq_organism>Candida californica</GBSeq_organism>

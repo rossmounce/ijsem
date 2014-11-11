@@ -1,0 +1,17 @@
+./AY036000.xml:  <GBSeq_organism>Nocardiopsis exhalans</GBSeq_organism>
+./X97883.xml:  <GBSeq_organism>Nocardiopsis alba DSM 43377</GBSeq_organism>
+./AF360734.xml:  <GBSeq_organism>Nocardiopsis composta</GBSeq_organism>
+./AY036001.xml:  <GBSeq_organism>Nocardiopsis umidischolae</GBSeq_organism>
+./AY230848.xml:  <GBSeq_organism>Nocardiopsis alkaliphila</GBSeq_organism>
+./AJ420769.xml:  <GBSeq_organism>Nocardiopsis metallicus</GBSeq_organism>
+./X97886.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111</GBSeq_organism>
+./AF251709.xml:  <GBSeq_organism>Nocardiopsis xinjiangensis</GBSeq_organism>
+./AJ421018.xml:  <GBSeq_organism>Nocardiopsis halophila DSM 44494</GBSeq_organism>
+./AF195412.xml:  <GBSeq_organism>Nocardiopsis kunsanensis</GBSeq_organism>
+./AF105971.xml:  <GBSeq_organism>Nocardiopsis tropica</GBSeq_organism>
+./X97888.xml:  <GBSeq_organism>Nocardiopsis lucentensis DSM 44048</GBSeq_organism>
+./AF105972.xml:  <GBSeq_organism>Nocardiopsis trehalosi</GBSeq_organism>
+./X97884.xml:  <GBSeq_organism>Nocardiopsis prasina</GBSeq_organism>
+./Y13593.xml:  <GBSeq_organism>Nocardiopsis synnemataformans DSM 44143</GBSeq_organism>
+./AJ290448.xml:  <GBSeq_organism>Nocardiopsis halotolerans</GBSeq_organism>
+./X97887.xml:  <GBSeq_organism>Nocardiopsis listeri</GBSeq_organism>

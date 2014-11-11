@@ -1,0 +1,6 @@
+./AB327250.xml:  <GBSeq_organism>Catenulispora yoronensis</GBSeq_organism>
+./AB180773.xml:  <GBSeq_organism>Catenulispora rubra</GBSeq_organism>
+./AB327248.xml:  <GBSeq_organism>Catenulispora subtropica</GBSeq_organism>
+./AJ865861.xml:  <GBSeq_organism>Actinospica acidiphila</GBSeq_organism>
+./AJ865863.xml:  <GBSeq_organism>Actinospica robiniae DSM 44927</GBSeq_organism>
+./AJ865857.xml:  <GBSeq_organism>Catenulispora acidiphila DSM 44928</GBSeq_organism>

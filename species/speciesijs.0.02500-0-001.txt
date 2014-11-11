@@ -1,0 +1,14 @@
+./X53854.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./M59067.xml:  <GBSeq_organism>Phaeospirillum molischianum</GBSeq_organism>
+./X79742.xml:  <GBSeq_organism>Nitrospirillum amazonense Y2</GBSeq_organism>
+./D12701.xml:  <GBSeq_organism>Rhodospirillum centenum</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./D14432.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./D70846.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./M59066.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./D16418.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./M59072.xml:  <GBSeq_organism>Rhodovibrio sodomensis</GBSeq_organism>
+./X79737.xml:  <GBSeq_organism>Niveispirillum irakense</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>

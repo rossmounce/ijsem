@@ -1,0 +1,15 @@
+./AJ459801.xml:  <GBSeq_organism>Thermithiobacillus tepidarius</GBSeq_organism>
+./AF047619.xml:  <GBSeq_organism>uncultured eubacterium SRang1.33</GBSeq_organism>
+./AF170419.xml:  <GBSeq_organism>Halothiobacillus kellyi</GBSeq_organism>
+./Y09280.xml:  <GBSeq_organism>Thiobacillus baregensis</GBSeq_organism>
+./AB118236.xml:  <GBSeq_organism>Thiovirga sulfuroxydans</GBSeq_organism>
+./AF402983.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY193207.xml:  <GBSeq_organism>uncultured proteobacterium</GBSeq_organism>
+./AF154088.xml:  <GBSeq_organism>uncultured hydrocarbon seep bacterium BPC028</GBSeq_organism>
+./AF047624.xml:  <GBSeq_organism>uncultured eubacterium SRang2.5</GBSeq_organism>
+./U58020.xml:  <GBSeq_organism>Halothiobacillus halophilus</GBSeq_organism>
+./AY096035.xml:  <GBSeq_organism>Halothiobacillus sp. WJ18</GBSeq_organism>
+./M90662.xml:  <GBSeq_organism>Halothiobacillus hydrothermalis</GBSeq_organism>
+./AY099401.xml:  <GBSeq_organism>Halothiobacillus sp. RA13</GBSeq_organism>
+./AF173169.xml:  <GBSeq_organism>Halothiobacillus neapolitanus</GBSeq_organism>
+./AY082481.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>

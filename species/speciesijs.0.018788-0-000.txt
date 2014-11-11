@@ -1,0 +1,9 @@
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./U09761.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./D45058.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./U30254.xml:  <GBSeq_organism>Clavibacter michiganensis subsp. tessellarius</GBSeq_organism>
+./FJ527819.xml:  <GBSeq_organism>Amnibacterium kyonggiense</GBSeq_organism>
+./X77434.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./AY372075.xml:  <GBSeq_organism>Klugiella xanthotipulae</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>

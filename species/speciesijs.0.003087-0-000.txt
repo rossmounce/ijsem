@@ -1,0 +1,12 @@
+./AM747811.xml:  <GBSeq_organism>Enterorhabdus mucosicola</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./M59120.xml:  <GBSeq_organism>Eubacterium limosum</GBSeq_organism>
+./AF292373.xml:  <GBSeq_organism>Olsenella uli DSM 7084</GBSeq_organism>
+./X79048.xml:  <GBSeq_organism>Coriobacterium glomerans PW2</GBSeq_organism>
+./AY310748.xml:  <GBSeq_organism>human intestinal bacterium SNU-Julong732</GBSeq_organism>
+./AY321958.xml:  <GBSeq_organism>Eggerthella sinensis JCM 14551</GBSeq_organism>
+./EF100091.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF096493.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF101240.xml:  <GBSeq_organism>Slackia exigua ATCC 700122</GBSeq_organism>
+./AY937880.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./EF098044.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

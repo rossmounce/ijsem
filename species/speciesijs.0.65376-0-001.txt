@@ -1,0 +1,37 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./Y12365.xml:  <GBSeq_organism>Allochromatium warmingii</GBSeq_organism>
+./AJ224438.xml:  <GBSeq_organism>Thiocystis violascens</GBSeq_organism>
+./M59150.xml:  <GBSeq_organism>Thermochromatium tepidum ATCC 43061</GBSeq_organism>
+./AJ971090.xml:  <GBSeq_organism>Thiorhodococcus mannitoliphagus</GBSeq_organism>
+./M26629.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./Y12376.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./AJ002797.xml:  <GBSeq_organism>Thiocapsa pendens</GBSeq_organism>
+./X93472.xml:  <GBSeq_organism>Halochromatium glycolicum</GBSeq_organism>
+./M59151.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./AM283535.xml:  <GBSeq_organism>Halochromatium roseum</GBSeq_organism>
+./AM282561.xml:  <GBSeq_organism>Thiorhodococcus kakinadensis</GBSeq_organism>
+./AM180952.xml:  <GBSeq_organism>Marichromatium bheemlicum</GBSeq_organism>
+./Y12364.xml:  <GBSeq_organism>Thiocapsa roseopersicina</GBSeq_organism>
+./AJ242772.xml:  <GBSeq_organism>Thiocapsa litoralis</GBSeq_organism>
+./X98597.xml:  <GBSeq_organism>Halochromatium salexigens</GBSeq_organism>
+./Y12297.xml:  <GBSeq_organism>Thiolamprovum pedioforme</GBSeq_organism>
+./Y11315.xml:  <GBSeq_organism>Thiocystis violacea</GBSeq_organism>
+./AJ006062.xml:  <GBSeq_organism>Thiocapsa rosea</GBSeq_organism>
+./Y11317.xml:  <GBSeq_organism>Thiocystis gelatinosa</GBSeq_organism>
+./Y12372.xml:  <GBSeq_organism>Thiocystis minor</GBSeq_organism>
+./AJ404006.xml:  <GBSeq_organism>Thiobaca trueperi</GBSeq_organism>
+./AJ002796.xml:  <GBSeq_organism>Thiohalocapsa halophila</GBSeq_organism>
+./AM282559.xml:  <GBSeq_organism>Thiorhodococcus bheemlicus</GBSeq_organism>
+./AJ010125.xml:  <GBSeq_organism>Thioflavicoccus mobilis</GBSeq_organism>
+./AJ224439.xml:  <GBSeq_organism>Marichromatium purpuratum 984</GBSeq_organism>
+./Y12369.xml:  <GBSeq_organism>Allochromatium minutissimum</GBSeq_organism>
+./M26630.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./Y12373.xml:  <GBSeq_organism>Thiococcus pfennigii</GBSeq_organism>
+./AM399029.xml:  <GBSeq_organism>Allochromatium renukae</GBSeq_organism>
+./AJ006214.xml:  <GBSeq_organism>Thiorhodovibrio winogradskyi</GBSeq_organism>
+./AJ277023.xml:  <GBSeq_organism>Thioalkalicoccus limnaeus</GBSeq_organism>
+./X93473.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./Y12301.xml:  <GBSeq_organism>Thiocapsa marina 5811</GBSeq_organism>
+./AJ543328.xml:  <GBSeq_organism>Marichromatium indicum</GBSeq_organism>
+./X84316.xml:  <GBSeq_organism>Rhabdochromatium marinum</GBSeq_organism>
+./AF525306.xml:  <GBSeq_organism>Thiorhodococcus drewsii AZ1</GBSeq_organism>

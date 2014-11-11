@@ -1,0 +1,11 @@
+./AM114527.xml:  <GBSeq_organism>Pseudomonas borbori</GBSeq_organism>
+./AM088473.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AY691188.xml:  <GBSeq_organism>Pseudomonas argentinensis</GBSeq_organism>
+./AY017341.xml:  <GBSeq_organism>Pseudomonas chloritidismutans</GBSeq_organism>
+./AB301071.xml:  <GBSeq_organism>Pseudomonas marincola</GBSeq_organism>
+./AF326382.xml:  <GBSeq_organism>Pseudomonas marincola</GBSeq_organism>
+./V00348.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./U01916.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>
+./AM114534.xml:  <GBSeq_organism>Pseudomonas peli</GBSeq_organism>

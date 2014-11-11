@@ -1,0 +1,18 @@
+./EF373540.xml:  <GBSeq_organism>Aureimonas frigidaquae</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./AF506513.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./DQ303125.xml:  <GBSeq_organism>Devosia soli</GBSeq_organism>
+./AF041442.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AY649762.xml:  <GBSeq_organism>Martelella mediterranea</GBSeq_organism>
+./X67226.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./DQ372921.xml:  <GBSeq_organism>Aureimonas altamirensis</GBSeq_organism>
+./M32020.xml:  <GBSeq_organism>Rhodospirillum rubrum</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./D14503.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./D32248.xml:  <GBSeq_organism>Pseudaminobacter defluvii</GBSeq_organism>
+./AM041247.xml:  <GBSeq_organism>Ochrobactrum oryzae</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./Z31350.xml:  <GBSeq_organism>Bartonella taylorii</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AM180485.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

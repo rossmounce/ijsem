@@ -1,0 +1,72 @@
+./AM230670.xml:  <GBSeq_organism>Calothrix sp. XP9A</GBSeq_organism>
+./AM230665.xml:  <GBSeq_organism>Rivularia sp. XSP25A</GBSeq_organism>
+./AM230669.xml:  <GBSeq_organism>Tolypothrix sp. PCC 7504</GBSeq_organism>
+./DQ486055.xml:  <GBSeq_organism>Brasilonema bromeliae</GBSeq_organism>
+./AM230687.xml:  <GBSeq_organism>Calothrix sp. BIR LS4</GBSeq_organism>
+./HM751842.xml:  <GBSeq_organism>Calothrix sp. UAM 342</GBSeq_organism>
+./HM751855.xml:  <GBSeq_organism>Calothrix sp. UAM 373</GBSeq_organism>
+./AF334693.xml:  <GBSeq_organism>Tolypothrix distorta</GBSeq_organism>
+./AM230691.xml:  <GBSeq_organism>Calothrix sp. BECID6</GBSeq_organism>
+./AF334697.xml:  <GBSeq_organism>Calothrix parietina</GBSeq_organism>
+./HM751856.xml:  <GBSeq_organism>Calothrix sp. UAM 374</GBSeq_organism>
+./HM751852.xml:  <GBSeq_organism>Tolypothrix sp. UAM 371</GBSeq_organism>
+./EU009143.xml:  <GBSeq_organism>Rivularia sp. UAM 347</GBSeq_organism>
+./AF506237.xml:  <GBSeq_organism>cf. Calothrix sp. &apos;muscicolous cyanobiont 5&apos;</GBSeq_organism>
+./AM230679.xml:  <GBSeq_organism>Calothrix sp. XSP10A</GBSeq_organism>
+./AF334692.xml:  <GBSeq_organism>Spirirestis rafaelensis SRS6</GBSeq_organism>
+./AM280701.xml:  <GBSeq_organism>Hepatitis C virus subtype 1b</GBSeq_organism>
+./AF334703.xml:  <GBSeq_organism>Coleodesmium wrangelii</GBSeq_organism>
+./EU009149.xml:  <GBSeq_organism>Rivularia sp. UAM 305</GBSeq_organism>
+./EU009142.xml:  <GBSeq_organism>uncultured Rivularia sp.</GBSeq_organism>
+./AM230677.xml:  <GBSeq_organism>Rivularia sp. PCC 7116</GBSeq_organism>
+./AM230672.xml:  <GBSeq_organism>Rivularia sp. XP3A</GBSeq_organism>
+./AM230667.xml:  <GBSeq_organism>Rivularia sp. XP27A</GBSeq_organism>
+./HM751843.xml:  <GBSeq_organism>Calothrix sp. UAM 345</GBSeq_organism>
+./HM751844.xml:  <GBSeq_organism>Calothrix sp. UAM 336</GBSeq_organism>
+./AM230706.xml:  <GBSeq_organism>Tolypothrix sp. TOL328</GBSeq_organism>
+./AM230668.xml:  <GBSeq_organism>Tolypothrix sp. PCC 7415</GBSeq_organism>
+./HM751846.xml:  <GBSeq_organism>Tolypothrix sp. UAM 357</GBSeq_organism>
+./HM751854.xml:  <GBSeq_organism>uncultured Tolypothrix sp.</GBSeq_organism>
+./EU009152.xml:  <GBSeq_organism>Calothrix sp. UAM 315</GBSeq_organism>
+./HM751847.xml:  <GBSeq_organism>Tolypothrix sp. UAM 332</GBSeq_organism>
+./AM230666.xml:  <GBSeq_organism>Rivularia sp. BECID12</GBSeq_organism>
+./HM751849.xml:  <GBSeq_organism>Tolypothrix sp. UAM 334</GBSeq_organism>
+./AM230704.xml:  <GBSeq_organism>Gloeotrichia echinulata PYH14</GBSeq_organism>
+./AM230674.xml:  <GBSeq_organism>Rivularia atra BIR KRIV1</GBSeq_organism>
+./AM230682.xml:  <GBSeq_organism>Calothrix sp. BECID16</GBSeq_organism>
+./AM230694.xml:  <GBSeq_organism>Calothrix sp. AHLA9</GBSeq_organism>
+./HM751850.xml:  <GBSeq_organism>Tolypothrix sp. UAM 335</GBSeq_organism>
+./AF334695.xml:  <GBSeq_organism>Calothrix parietina</GBSeq_organism>
+./EU009154.xml:  <GBSeq_organism>Calothrix sp. UAM 372</GBSeq_organism>
+./AM230683.xml:  <GBSeq_organism>Calothrix sp. BECID33</GBSeq_organism>
+./AY147029.xml:  <GBSeq_organism>Calothrix sp. CCMEE 5093</GBSeq_organism>
+./AM230676.xml:  <GBSeq_organism>Rivularia sp. XP16B</GBSeq_organism>
+./AM230697.xml:  <GBSeq_organism>Calothrix sp. CAL3361</GBSeq_organism>
+./AF334701.xml:  <GBSeq_organism>Coleodesmium wrangelii</GBSeq_organism>
+./AM230692.xml:  <GBSeq_organism>Calothrix sp. XP4B</GBSeq_organism>
+./X99213.xml:  <GBSeq_organism>Calothrix sp. DCC D253</GBSeq_organism>
+./AM230698.xml:  <GBSeq_organism>Calothrix sp. XP11C</GBSeq_organism>
+./AM230693.xml:  <GBSeq_organism>Calothrix sp. PCC 8909</GBSeq_organism>
+./AF132779.xml:  <GBSeq_organism>Calothrix desertica PCC 7102</GBSeq_organism>
+./AF334696.xml:  <GBSeq_organism>Calothrix parietina</GBSeq_organism>
+./AF334702.xml:  <GBSeq_organism>Coleodesmium wrangelii</GBSeq_organism>
+./AM230703.xml:  <GBSeq_organism>Gloeotrichia echinulata PYH6</GBSeq_organism>
+./AM230673.xml:  <GBSeq_organism>Rivularia sp. BECID10</GBSeq_organism>
+./AY493596.xml:  <GBSeq_organism>Coleodesmium sp. ANT.L52B.5</GBSeq_organism>
+./EU009150.xml:  <GBSeq_organism>Rivularia sp. UAM 313</GBSeq_organism>
+./AM230700.xml:  <GBSeq_organism>Calothrix sp. PCC 7103</GBSeq_organism>
+./AM230705.xml:  <GBSeq_organism>Gloeotrichia echinulata URA3</GBSeq_organism>
+./AM230678.xml:  <GBSeq_organism>Calothrix sp. PCC 7507</GBSeq_organism>
+./AF334694.xml:  <GBSeq_organism>Tolypothrix distorta</GBSeq_organism>
+./HM751853.xml:  <GBSeq_organism>Tolypothrix sp. UAM 340</GBSeq_organism>
+./AM230675.xml:  <GBSeq_organism>Rivularia atra BIR MGR1</GBSeq_organism>
+./AM230681.xml:  <GBSeq_organism>Calothrix sp. UKK3412</GBSeq_organism>
+./HM751851.xml:  <GBSeq_organism>Tolypothrix sp. UAM 337</GBSeq_organism>
+./AM905327.xml:  <GBSeq_organism>Hassallia byssoidea</GBSeq_organism>
+./AF334690.xml:  <GBSeq_organism>Spirirestis rafaelensis SRS6</GBSeq_organism>
+./AF334691.xml:  <GBSeq_organism>Spirirestis rafaelensis SRS6</GBSeq_organism>
+./AY069954.xml:  <GBSeq_organism>Scytonema sp. U-3-3</GBSeq_organism>
+./HM751848.xml:  <GBSeq_organism>Tolypothrix sp. UAM 333</GBSeq_organism>
+./HM751845.xml:  <GBSeq_organism>Calothrix sp. UAM 352</GBSeq_organism>
+./AY452533.xml:  <GBSeq_organism>Rexia erecta CAT 1M</GBSeq_organism>
+./EU009147.xml:  <GBSeq_organism>Rivularia sp. UAM 302</GBSeq_organism>

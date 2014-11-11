@@ -1,0 +1,17 @@
+./AB112727.xml:  <GBSeq_organism>Bacillus methanolicus PB1</GBSeq_organism>
+./AJ628748.xml:  <GBSeq_organism>Bacillus muralis</GBSeq_organism>
+./AJ781029.xml:  <GBSeq_organism>Bacillus herbersteinensis</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AJ717382.xml:  <GBSeq_organism>Bacillus foraminis</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./AY608605.xml:  <GBSeq_organism>Bacillus litoralis</GBSeq_organism>
+./AJ439078.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./AB271747.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AB271750.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./EF206294.xml:  <GBSeq_organism>Bacillus butanolivorans</GBSeq_organism>
+./AJ250056.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>

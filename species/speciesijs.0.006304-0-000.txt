@@ -1,0 +1,9 @@
+./AY323610.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AJ633647.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./AB119649.xml:  <GBSeq_organism>Paenibacillus abekawaensis</GBSeq_organism>
+./AF071859.xml:  <GBSeq_organism>Paenibacillus popilliae ATCC 14706</GBSeq_organism>
+./X60624.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AJ320490.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./AF480935.xml:  <GBSeq_organism>Paenibacillus nematophilus</GBSeq_organism>
+./AY359885.xml:  <GBSeq_organism>Paenibacillus dendritiformis</GBSeq_organism>

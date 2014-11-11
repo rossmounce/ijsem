@@ -1,0 +1,13 @@
+./DQ451875.xml:  <GBSeq_organism>Aciduliprofundum boonei T469</GBSeq_organism>
+./DQ303249.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF523936.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF544224.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF523937.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF544223.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./X84901.xml:  <GBSeq_organism>Picrophilus oshimae</GBSeq_organism>
+./AJ224936.xml:  <GBSeq_organism>Ferroplasma acidiphilum</GBSeq_organism>
+./AF523941.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF544219.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF544221.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF513710.xml:  <GBSeq_organism>Ferroplasma acidiphilum</GBSeq_organism>
+./AY907888.xml:  <GBSeq_organism>Acidiplasma cupricumulans</GBSeq_organism>

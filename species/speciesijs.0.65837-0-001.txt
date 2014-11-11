@@ -1,0 +1,12 @@
+./DQ022958.xml:  <GBSeq_organism>Azospirillum melinis</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./Z29583.xml:  <GBSeq_organism>Niveispirillum irakense</GBSeq_organism>
+./AY043374.xml:  <GBSeq_organism>Inquilinus limosus</GBSeq_organism>
+./Y10110.xml:  <GBSeq_organism>Magnetospirillum magnetotacticum</GBSeq_organism>
+./AM419042.xml:  <GBSeq_organism>Azospirillum rugosum</GBSeq_organism>
+./AM922283.xml:  <GBSeq_organism>Azospirillum picis</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AJ238567.xml:  <GBSeq_organism>Azospirillum doebereinerae</GBSeq_organism>
+./X79731.xml:  <GBSeq_organism>Azospirillum halopraeferens</GBSeq_organism>
+./X90759.xml:  <GBSeq_organism>Azospirillum largimobile</GBSeq_organism>
+./DQ682470.xml:  <GBSeq_organism>Azospirillum zeae</GBSeq_organism>

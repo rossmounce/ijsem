@@ -1,0 +1,19 @@
+./X65590.xml:  <GBSeq_organism>Telluria chitinolytica</GBSeq_organism>
+./AY728038.xml:  <GBSeq_organism>Herminiimonas arsenicoxydans</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AY376163.xml:  <GBSeq_organism>Pseudoduganella violaceinigra</GBSeq_organism>
+./AJ238358.xml:  <GBSeq_organism>Herbaspirillum frisingense GSF30</GBSeq_organism>
+./AY676462.xml:  <GBSeq_organism>Herminiimonas fonticola</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./AM085762.xml:  <GBSeq_organism>Herminiimonas aquatilis</GBSeq_organism>
+./AY281150.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./Y10146.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./Y10824.xml:  <GBSeq_organism>Cupriavidus metallidurans CH34</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AF543312.xml:  <GBSeq_organism>Herbaspirillum lusitanum P6-12</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AJ310394.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>

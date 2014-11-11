@@ -1,0 +1,5 @@
+./AF418001.xml:  <GBSeq_organism>Meiothermus taiwanensis</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./EU247891.xml:  <GBSeq_organism>Meiothermus cateniformans</GBSeq_organism>
+./EU247890.xml:  <GBSeq_organism>Meiothermus cateniformans</GBSeq_organism>
+./AF312766.xml:  <GBSeq_organism>Meiothermus rosaceus</GBSeq_organism>

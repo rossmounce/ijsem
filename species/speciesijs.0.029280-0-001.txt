@@ -1,0 +1,18 @@
+./GU356598.xml:  <GBSeq_organism>Streptomyces fenghuangensis</GBSeq_organism>
+./AB184850.xml:  <GBSeq_organism>Streptomyces cinnamoneus</GBSeq_organism>
+./Z68097.xml:  <GBSeq_organism>Streptomyces thermolineatus</GBSeq_organism>
+./AB184803.xml:  <GBSeq_organism>Streptomyces luteoverticillatus</GBSeq_organism>
+./AB184819.xml:  <GBSeq_organism>Streptomyces lilacinus</GBSeq_organism>
+./AB184845.xml:  <GBSeq_organism>Streptomyces lanatus</GBSeq_organism>
+./AJ293704.xml:  <GBSeq_organism>Actinocorallia glomerata</GBSeq_organism>
+./AY999834.xml:  <GBSeq_organism>Streptomyces ehimensis</GBSeq_organism>
+./AB184295.xml:  <GBSeq_organism>Streptomyces rangoonensis</GBSeq_organism>
+./AY876942.xml:  <GBSeq_organism>Streptomyces guanduensis</GBSeq_organism>
+./AB184617.xml:  <GBSeq_organism>Streptomyces megasporus</GBSeq_organism>
+./AB184420.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AJ621609.xml:  <GBSeq_organism>Streptomyces chrestomyceticus JCM 4735</GBSeq_organism>
+./AY999844.xml:  <GBSeq_organism>Streptomyces fimbriatus</GBSeq_organism>
+./Z68099.xml:  <GBSeq_organism>Streptomyces macrosporus</GBSeq_organism>
+./AB184753.xml:  <GBSeq_organism>Streptomyces thioluteus</GBSeq_organism>
+./AY207604.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AJ621608.xml:  <GBSeq_organism>Streptomyces sclerotialus</GBSeq_organism>

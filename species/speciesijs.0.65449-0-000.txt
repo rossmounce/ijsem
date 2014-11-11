@@ -1,0 +1,5 @@
+./DQ367416.xml:  <GBSeq_organism>Saccharomonospora saliphila YIM 90502</GBSeq_organism>
+./AF466190.xml:  <GBSeq_organism>Prauserella halophila</GBSeq_organism>
+./AJ278497.xml:  <GBSeq_organism>Saccharomonospora halophila 8</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./AJ306300.xml:  <GBSeq_organism>Saccharomonospora xinjiangensis XJ-54</GBSeq_organism>

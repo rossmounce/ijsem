@@ -1,0 +1,15 @@
+./AJ242581.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./L26168.xml:  <GBSeq_organism>Brucella ovis</GBSeq_organism>
+./AF091354.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AY776289.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./U70978.xml:  <GBSeq_organism>Ochrobactrum intermedium LMG 3301</GBSeq_organism>
+./AY594216.xml:  <GBSeq_organism>Brucella neotomae 5K33</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./L37584.xml:  <GBSeq_organism>Brucella canis</GBSeq_organism>
+./D13944.xml:  <GBSeq_organism>Mycoplana ramosa</GBSeq_organism>
+./AM041247.xml:  <GBSeq_organism>Ochrobactrum oryzae</GBSeq_organism>
+./U69638.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 6</GBSeq_organism>
+./AJ242584.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AM114398.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>

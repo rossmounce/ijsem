@@ -1,0 +1,7 @@
+./AF137381.xml:  <GBSeq_organism>Runella zeae</GBSeq_organism>
+./AJ619978.xml:  <GBSeq_organism>Dyadobacter hamtensis</GBSeq_organism>
+./EU360597.xml:  <GBSeq_organism>Dyadobacter alkalitolerans</GBSeq_organism>
+./EF017660.xml:  <GBSeq_organism>Dyadobacter koreensis</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./AM000023.xml:  <GBSeq_organism>Spirosoma linguale DSM 74</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

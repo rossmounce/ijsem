@@ -1,0 +1,9 @@
+./AM087914.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AM113737.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AM118082.xml:  <GBSeq_organism>Pseudochrobactrum saccharolyticum</GBSeq_organism>
+./AM263421.xml:  <GBSeq_organism>Ochrobactrum oryzae</GBSeq_organism>
+./AM087899.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./AM263419.xml:  <GBSeq_organism>Pseudochrobactrum kiredjianiae</GBSeq_organism>
+./AM087912.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./AM087913.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./AM118081.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

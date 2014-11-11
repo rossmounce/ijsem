@@ -1,0 +1,8 @@
+./EU030686.xml:  <GBSeq_organism>Pedobacter nyackensis</GBSeq_organism>
+./EU030688.xml:  <GBSeq_organism>Pedobacter alluvionis</GBSeq_organism>
+./EU030687.xml:  <GBSeq_organism>Pedobacter borealis</GBSeq_organism>
+./AJ786798.xml:  <GBSeq_organism>Pedobacter caeni</GBSeq_organism>
+./AM491372.xml:  <GBSeq_organism>Pedobacter steynii</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>
+./AB245371.xml:  <GBSeq_organism>Pedobacter ginsengisoli</GBSeq_organism>

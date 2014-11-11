@@ -1,0 +1,13 @@
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./AJ415377.xml:  <GBSeq_organism>Brachybacterium paraconglomeratum</GBSeq_organism>
+./AJ415376.xml:  <GBSeq_organism>Brachybacterium rhamnosum</GBSeq_organism>
+./X83810.xml:  <GBSeq_organism>Brachybacterium faecium DSM 4810</GBSeq_organism>
+./X91031.xml:  <GBSeq_organism>Brachybacterium alimentarium</GBSeq_organism>
+./EF125186.xml:  <GBSeq_organism>Brachybacterium zhongshanense</GBSeq_organism>
+./AF434185.xml:  <GBSeq_organism>Brachybacterium arcticum</GBSeq_organism>
+./AJ537574.xml:  <GBSeq_organism>Brachybacterium muris</GBSeq_organism>
+./X91657.xml:  <GBSeq_organism>Brachybacterium tyrofermentans</GBSeq_organism>
+./AJ415384.xml:  <GBSeq_organism>Brachybacterium sacelli</GBSeq_organism>
+./X91030.xml:  <GBSeq_organism>Brachybacterium conglomeratum</GBSeq_organism>
+./AJ415378.xml:  <GBSeq_organism>Brachybacterium fresconis</GBSeq_organism>
+./X91033.xml:  <GBSeq_organism>Brachybacterium nesterenkovii</GBSeq_organism>

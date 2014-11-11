@@ -1,0 +1,20 @@
+./AF169531.xml:  <GBSeq_organism>Rummeliibacillus pycnus</GBSeq_organism>
+./AJ627209.xml:  <GBSeq_organism>Bacillus humi</GBSeq_organism>
+./X70314.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./X70320.xml:  <GBSeq_organism>Kurthia gibsonii</GBSeq_organism>
+./AF169520.xml:  <GBSeq_organism>Viridibacillus neidei</GBSeq_organism>
+./AJ310083.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./X70315.xml:  <GBSeq_organism>Caryophanon tenue</GBSeq_organism>
+./AJ627210.xml:  <GBSeq_organism>Bacillus humi</GBSeq_organism>
+./AJ605774.xml:  <GBSeq_organism>Kurthia sibirica</GBSeq_organism>
+./X64465.xml:  <GBSeq_organism>Bacillus methanolicus</GBSeq_organism>
+./AJ277983.xml:  <GBSeq_organism>Psychrobacillus psychrotolerans</GBSeq_organism>
+./AJ627212.xml:  <GBSeq_organism>Viridibacillus arenosi</GBSeq_organism>
+./M58800.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AJ310084.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./X60615.xml:  <GBSeq_organism>Bacillus fastidiosus</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./U49078.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>

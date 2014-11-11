@@ -1,0 +1,8 @@
+./AY603658.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./GO281299.xml:  <GBSeq_organism>Teleopsis dalmanni</GBSeq_organism>
+./AE016877.xml:  <GBSeq_organism>Bacillus cereus ATCC 14579</GBSeq_organism>
+./D16281.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./AJ496806.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./D78312.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AB255669.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

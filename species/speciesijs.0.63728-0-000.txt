@@ -1,0 +1,10 @@
+./AJ414655.xml:  <GBSeq_organism>Methylobacter tundripaludum SV96</GBSeq_organism>
+./AF304197.xml:  <GBSeq_organism>Methylobacter marinus</GBSeq_organism>
+./X72773.xml:  <GBSeq_organism>Methylobacter whittenburyi</GBSeq_organism>
+./AY007296.xml:  <GBSeq_organism>Methylosarcina lacus</GBSeq_organism>
+./X72767.xml:  <GBSeq_organism>Methylomicrobium agile</GBSeq_organism>
+./X72777.xml:  <GBSeq_organism>Methylomicrobium album BG8</GBSeq_organism>
+./AF016981.xml:  <GBSeq_organism>Methylobacter sp. BB5.1</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./AY007295.xml:  <GBSeq_organism>Methylobacter sp. LW12</GBSeq_organism>
+./AF304195.xml:  <GBSeq_organism>Methylobacter luteus</GBSeq_organism>

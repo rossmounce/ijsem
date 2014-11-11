@@ -1,0 +1,16 @@
+./AJ400710.xml:  <GBSeq_organism>Actinokineospora fastidiosa</GBSeq_organism>
+./AY262825.xml:  <GBSeq_organism>Amycolatopsis plumensis</GBSeq_organism>
+./AJ000285.xml:  <GBSeq_organism>Amycolatopsis sp.</GBSeq_organism>
+./AJ293754.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./AF051343.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./AB327255.xml:  <GBSeq_organism>Amycolatopsis taiwanensis</GBSeq_organism>
+./AB327252.xml:  <GBSeq_organism>Amycolatopsis sacchari</GBSeq_organism>
+./DQ792500.xml:  <GBSeq_organism>Amycolatopsis saalfeldensis</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AJ508239.xml:  <GBSeq_organism>Amycolatopsis balhimycina</GBSeq_organism>
+./DQ486888.xml:  <GBSeq_organism>Amycolatopsis nigrescens CSC17Ta-90</GBSeq_organism>
+./AB327254.xml:  <GBSeq_organism>Amycolatopsis pigmentata</GBSeq_organism>
+./AY083603.xml:  <GBSeq_organism>Amycolatopsis rifamycinica</GBSeq_organism>
+./AF051340.xml:  <GBSeq_organism>Amycolatopsis alba DSM 44262</GBSeq_organism>
+./DQ160215.xml:  <GBSeq_organism>Amycolatopsis taiwanensis</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>

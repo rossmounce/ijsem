@@ -1,0 +1,25 @@
+./Y11573.xml:  <GBSeq_organism>Desulfotomaculum thermoacetoxidans</GBSeq_organism>
+./AY961415.xml:  <GBSeq_organism>Desulfotomaculum carboxydivorans CO-1-SRB</GBSeq_organism>
+./AF168365.xml:  <GBSeq_organism>Desulfotomaculum sapomandens</GBSeq_organism>
+./EF081294.xml:  <GBSeq_organism>Thermodesulfovibrio hydrogeniphilus</GBSeq_organism>
+./U88891.xml:  <GBSeq_organism>Desulfotomaculum halophilum</GBSeq_organism>
+./Y11567.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./X98407.xml:  <GBSeq_organism>Desulfotomaculum aeronauticum</GBSeq_organism>
+./EF081293.xml:  <GBSeq_organism>Desulfotomaculum hydrothermale Lam5 = DSM 18033</GBSeq_organism>
+./X96726.xml:  <GBSeq_organism>Thermodesulfovibrio islandicus</GBSeq_organism>
+./Y11569.xml:  <GBSeq_organism>Desulfotomaculum kuznetsovii DSM 6115</GBSeq_organism>
+./DQ208688.xml:  <GBSeq_organism>Desulfotomaculum thermosubterraneum</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./Y11566.xml:  <GBSeq_organism>Desulfotomaculum acetoxidans DSM 771</GBSeq_organism>
+./Y11572.xml:  <GBSeq_organism>Desulfotomaculum ruminis DSM 2154</GBSeq_organism>
+./AB231858.xml:  <GBSeq_organism>Thermodesulfovibrio yellowstonii</GBSeq_organism>
+./U33455.xml:  <GBSeq_organism>Desulfotomaculum thermocisternum</GBSeq_organism>
+./AF097024.xml:  <GBSeq_organism>Desulfotomaculum alkaliphilum</GBSeq_organism>
+./EF494253.xml:  <GBSeq_organism>Desulfotomaculum sp. Hbr7</GBSeq_organism>
+./AF053929.xml:  <GBSeq_organism>Desulfotomaculum putei</GBSeq_organism>
+./DQ148942.xml:  <GBSeq_organism>Desulfotomaculum arcticum</GBSeq_organism>
+./AY084078.xml:  <GBSeq_organism>Desulfotomaculum solfataricum</GBSeq_organism>
+./AY007190.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum subsp. thermosyntrophicum</GBSeq_organism>
+./Y11574.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>
+./Y11575.xml:  <GBSeq_organism>Desulfotomaculum thermosapovorans</GBSeq_organism>

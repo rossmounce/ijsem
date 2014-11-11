@@ -1,0 +1,17 @@
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AB049630.xml:  <GBSeq_organism>Dietzia psychralcaliphila</GBSeq_organism>
+./AB243007.xml:  <GBSeq_organism>Smaragdicoccus niigatensis</GBSeq_organism>
+./AY643401.xml:  <GBSeq_organism>Dietzia papillomatosis</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AJ920289.xml:  <GBSeq_organism>Dietzia cinnamea</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./X58890.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./EU375846.xml:  <GBSeq_organism>Dietzia cercidiphylli</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./AY972480.xml:  <GBSeq_organism>Dietzia kunjamensis</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./EU375845.xml:  <GBSeq_organism>Dietzia schimae</GBSeq_organism>
+./AY534742.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>

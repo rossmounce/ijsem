@@ -1,0 +1,36 @@
+./X73436.xml:  <GBSeq_organism>[Clostridium] aminovalericum</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./AY494606.xml:  <GBSeq_organism>[Clostridium] jejuense DSM 15929</GBSeq_organism>
+./AF028349.xml:  <GBSeq_organism>Clostridium fusiformis</GBSeq_organism>
+./AJ133496.xml:  <GBSeq_organism>Fusobacterium nucleatum subsp. nucleatum ATCC 25586</GBSeq_organism>
+./X71848.xml:  <GBSeq_organism>[Clostridium] celerecrescens 18A</GBSeq_organism>
+./AB233029.xml:  <GBSeq_organism>[Clostridium] glycyrrhizinilyticum</GBSeq_organism>
+./X54275.xml:  <GBSeq_organism>Propionigenium modestum</GBSeq_organism>
+./AF067965.xml:  <GBSeq_organism>[Clostridium] methoxybenzovorans SR3</GBSeq_organism>
+./DQ279736.xml:  <GBSeq_organism>[Clostridium] aldenense</GBSeq_organism>
+./X76163.xml:  <GBSeq_organism>[Clostridium] aerotolerans</GBSeq_organism>
+./U37378.xml:  <GBSeq_organism>Butyrivibrio proteoclasticus</GBSeq_organism>
+./AJ311620.xml:  <GBSeq_organism>[Clostridium] hathewayi</GBSeq_organism>
+./EF564277.xml:  <GBSeq_organism>[Clostridium] lavalense</GBSeq_organism>
+./AY943861.xml:  <GBSeq_organism>Clostridium sulfidigenes</GBSeq_organism>
+./X71853.xml:  <GBSeq_organism>[Clostridium] populeti</GBSeq_organism>
+./X73443.xml:  <GBSeq_organism>Tyzzerella nexilis DSM 1787</GBSeq_organism>
+./AY353957.xml:  <GBSeq_organism>[Clostridium] amygdalinum</GBSeq_organism>
+./AY943862.xml:  <GBSeq_organism>Clostridium boliviensis</GBSeq_organism>
+./EF564278.xml:  <GBSeq_organism>[Clostridium] lavalense</GBSeq_organism>
+./AF116920.xml:  <GBSeq_organism>[Clostridium] xylanovorans</GBSeq_organism>
+./X76739.xml:  <GBSeq_organism>[Clostridium] xylanolyticum</GBSeq_organism>
+./AF126687.xml:  <GBSeq_organism>[Clostridium] fimetarium</GBSeq_organism>
+./M59112.xml:  <GBSeq_organism>[Clostridium] symbiosum</GBSeq_organism>
+./Y18185.xml:  <GBSeq_organism>[Clostridium] saccharolyticum WM1</GBSeq_organism>
+./AF020431.xml:  <GBSeq_organism>Lachnoclostridium phytofermentans ISDg</GBSeq_organism>
+./M59089.xml:  <GBSeq_organism>[Clostridium] clostridioforme</GBSeq_organism>
+./M59109.xml:  <GBSeq_organism>[Clostridium] oroticum</GBSeq_organism>
+./Y18184.xml:  <GBSeq_organism>[Clostridium] indolis</GBSeq_organism>
+./AJ508452.xml:  <GBSeq_organism>[Clostridium] bolteae</GBSeq_organism>
+./AJ582080.xml:  <GBSeq_organism>[Clostridium asparagiforme] DSM 15981</GBSeq_organism>
+./L04165.xml:  <GBSeq_organism>[Clostridium] aminophilum</GBSeq_organism>
+./X77839.xml:  <GBSeq_organism>[Clostridium] polysaccharolyticum</GBSeq_organism>
+./AF092549.xml:  <GBSeq_organism>[Clostridium] algidixylanolyticum</GBSeq_organism>
+./L34418.xml:  <GBSeq_organism>[Clostridium] herbivorans</GBSeq_organism>
+./Y18186.xml:  <GBSeq_organism>[Clostridium] scindens</GBSeq_organism>

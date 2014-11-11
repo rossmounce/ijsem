@@ -1,0 +1,7 @@
+./X71412.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AY562189.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AJ388559.xml:  <GBSeq_organism>Lactobacillus helveticus DSM 20075 = CGMCC 1.1877</GBSeq_organism>
+./AY562190.xml:  <GBSeq_organism>Lactobacillus gallinarum</GBSeq_organism>
+./AY644397.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AY641395.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AF253004.xml:  <GBSeq_organism>Prionailurus bengalensis</GBSeq_organism>

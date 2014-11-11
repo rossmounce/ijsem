@@ -1,0 +1,30 @@
+./BX571658.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./DQ174240.xml:  <GBSeq_organism>Campylobacter insulaenigrae NCTC 12927</GBSeq_organism>
+./DQ174234.xml:  <GBSeq_organism>Campylobacter hyointestinalis subsp. hyointestinalis</GBSeq_organism>
+./EF621885.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EF621887.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EF621889.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./DQ174230.xml:  <GBSeq_organism>Campylobacter mucosalis</GBSeq_organism>
+./EF621886.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./DQ174184.xml:  <GBSeq_organism>Campylobacter fetus subsp. fetus</GBSeq_organism>
+./DQ174223.xml:  <GBSeq_organism>Campylobacter concisus</GBSeq_organism>
+./DQ174226.xml:  <GBSeq_organism>Campylobacter rectus</GBSeq_organism>
+./EF621888.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AF372097.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./DQ174214.xml:  <GBSeq_organism>Campylobacter upsaliensis</GBSeq_organism>
+./EF621891.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EF621890.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./DQ174225.xml:  <GBSeq_organism>Campylobacter gracilis</GBSeq_organism>
+./DQ195238.xml:  <GBSeq_organism>Campylobacter hyointestinalis subsp. lawsonii</GBSeq_organism>
+./EF621892.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./DQ174202.xml:  <GBSeq_organism>Campylobacter lari subsp. lari</GBSeq_organism>
+./DQ174239.xml:  <GBSeq_organism>Campylobacter hominis</GBSeq_organism>
+./EF621893.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./DQ174201.xml:  <GBSeq_organism>Campylobacter jejuni subsp. doylei</GBSeq_organism>
+./AF372098.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./DQ174222.xml:  <GBSeq_organism>Campylobacter curvus</GBSeq_organism>
+./DQ174149.xml:  <GBSeq_organism>Campylobacter sputorum</GBSeq_organism>
+./DQ174238.xml:  <GBSeq_organism>Campylobacter lanienae NCTC 13004</GBSeq_organism>
+./DQ174218.xml:  <GBSeq_organism>Campylobacter helveticus</GBSeq_organism>
+./DQ174188.xml:  <GBSeq_organism>Campylobacter fetus subsp. venerealis NCTC 10354</GBSeq_organism>
+./DQ174212.xml:  <GBSeq_organism>Campylobacter showae</GBSeq_organism>

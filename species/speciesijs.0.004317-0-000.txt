@@ -1,0 +1,12 @@
+./DQ185611.xml:  <GBSeq_organism>Echinicola pacifica</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AY699794.xml:  <GBSeq_organism>Algoriphagus yeomjeoni</GBSeq_organism>
+./AY533663.xml:  <GBSeq_organism>Algoriphagus marincola</GBSeq_organism>
+./DQ080996.xml:  <GBSeq_organism>Roseivirga spongicola</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./AY753206.xml:  <GBSeq_organism>Roseivirga echinicomitans</GBSeq_organism>
+./AJ577141.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./DQ836305.xml:  <GBSeq_organism>Fulvivirga kasyanovii</GBSeq_organism>

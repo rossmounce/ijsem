@@ -1,0 +1,24 @@
+./AY187307.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./AJ279802.xml:  <GBSeq_organism>Propionispora vibrioides</GBSeq_organism>
+./AY187305.xml:  <GBSeq_organism>Desulfuromonas acetoxidans</GBSeq_organism>
+./AF297871.xml:  <GBSeq_organism>Desulfitobacterium metallireducens DSM 15288</GBSeq_organism>
+./DQ145534.xml:  <GBSeq_organism>Geobacter argillaceus</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./U41563.xml:  <GBSeq_organism>Geothrix fermentans</GBSeq_organism>
+./U41561.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./U96917.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./X79413.xml:  <GBSeq_organism>Pelobacter carbinolicus DSM 2380</GBSeq_organism>
+./M34399.xml:  <GBSeq_organism>Desulfovibrio vulgaris str. Hildenborough</GBSeq_organism>
+./AJ010964.xml:  <GBSeq_organism>Acetonema longum DSM 6540</GBSeq_organism>
+./AJ010961.xml:  <GBSeq_organism>Anaeroarcus burkinensis</GBSeq_organism>
+./AY187306.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./U28173.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./DQ145536.xml:  <GBSeq_organism>Pelosinus fermentans DSM 17108</GBSeq_organism>
+./AF076525.xml:  <GBSeq_organism>Desulfosporosinus meridiei</GBSeq_organism>
+./DQ069215.xml:  <GBSeq_organism>uncultured Clostridia bacterium</GBSeq_organism>
+./AF418180.xml:  <GBSeq_organism>Desulfobacter postgatei 2ac9</GBSeq_organism>
+./Y18190.xml:  <GBSeq_organism>Propionispira arboris</GBSeq_organism>
+./L07834.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./X65935.xml:  <GBSeq_organism>Acidaminococcus fermentans DSM 20731</GBSeq_organism>
+./AE000657.xml:  <GBSeq_organism>Aquifex aeolicus VF5</GBSeq_organism>
+./AY372051.xml:  <GBSeq_organism>Anaerospora hongkongensis</GBSeq_organism>

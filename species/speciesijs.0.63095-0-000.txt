@@ -1,0 +1,15 @@
+./X60611.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AY443038.xml:  <GBSeq_organism>Bacillus fortis</GBSeq_organism>
+./AY443036.xml:  <GBSeq_organism>Bacillus farraginis</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY443035.xml:  <GBSeq_organism>Bacillus farraginis</GBSeq_organism>
+./AY443034.xml:  <GBSeq_organism>Bacillus farraginis</GBSeq_organism>
+./AY443037.xml:  <GBSeq_organism>Bacillus farraginis</GBSeq_organism>
+./U49078.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>
+./AJ535638.xml:  <GBSeq_organism>Bacillus galactosidilyticus</GBSeq_organism>
+./AB116130.xml:  <GBSeq_organism>low G+C Gram-positive bacterium M52</GBSeq_organism>
+./AF071857.xml:  <GBSeq_organism>Bacillus sp. &apos;112442 JS2&apos;</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ250056.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>
+./AY443039.xml:  <GBSeq_organism>Bacillus fordii</GBSeq_organism>

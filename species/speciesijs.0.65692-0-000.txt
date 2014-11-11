@@ -1,0 +1,21 @@
+./U75520.xml:  <GBSeq_organism>Ogataea glucozyma</GBSeq_organism>
+./U75525.xml:  <GBSeq_organism>Pichia kodamae</GBSeq_organism>
+./U70252.xml:  <GBSeq_organism>Candida pini</GBSeq_organism>
+./AY561260.xml:  <GBSeq_organism>Ogataea falcaomoraisii</GBSeq_organism>
+./AF403147.xml:  <GBSeq_organism>Ogataea zsoltii</GBSeq_organism>
+./U75517.xml:  <GBSeq_organism>Ogataea wickerhamii</GBSeq_organism>
+./EU117201.xml:  <GBSeq_organism>Pichia sp. CBS 10646</GBSeq_organism>
+./AB120217.xml:  <GBSeq_organism>Ogataea siamensis</GBSeq_organism>
+./AF403146.xml:  <GBSeq_organism>Pichia dorogensis</GBSeq_organism>
+./U75524.xml:  <GBSeq_organism>Ogataea angusta</GBSeq_organism>
+./AF403145.xml:  <GBSeq_organism>Pichia trehaloabstinens</GBSeq_organism>
+./U75515.xml:  <GBSeq_organism>Ogataea minuta var. minuta</GBSeq_organism>
+./U70242.xml:  <GBSeq_organism>Candida boidinii</GBSeq_organism>
+./U75519.xml:  <GBSeq_organism>Ogataea henricii</GBSeq_organism>
+./U70246.xml:  <GBSeq_organism>Candida nemodendra</GBSeq_organism>
+./U75522.xml:  <GBSeq_organism>Ogataea philodendri</GBSeq_organism>
+./AF313350.xml:  <GBSeq_organism>Candida ortonii</GBSeq_organism>
+./AF283568.xml:  <GBSeq_organism>Candida sp. SKB2</GBSeq_organism>
+./AB307721.xml:  <GBSeq_organism>Ogataea chonburiensis</GBSeq_organism>
+./U70181.xml:  <GBSeq_organism>Candida maris</GBSeq_organism>
+./U75527.xml:  <GBSeq_organism>Ogataea pini</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AM283455.xml:  <GBSeq_organism>Human papillomavirus type 53</GBSeq_organism>
+./DQ191179.xml:  <GBSeq_organism>Lysobacter yangpyeongensis</GBSeq_organism>
+./EU376963.xml:  <GBSeq_organism>Lysobacter oryzae</GBSeq_organism>
+./EF623862.xml:  <GBSeq_organism>Lysobacter soli</GBSeq_organism>
+./EF488749.xml:  <GBSeq_organism>Lysobacter capsici</GBSeq_organism>
+./AB161359.xml:  <GBSeq_organism>Lysobacter concretionis</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./AB166878.xml:  <GBSeq_organism>Lysobacter koreensis</GBSeq_organism>
+./GU086401.xml:  <GBSeq_organism>Lysobacter ruishenii</GBSeq_organism>
+./AB161360.xml:  <GBSeq_organism>Lysobacter brunescens</GBSeq_organism>
+./EU237492.xml:  <GBSeq_organism>Lysobacter ximonensis</GBSeq_organism>

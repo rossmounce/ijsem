@@ -1,0 +1,13 @@
+./AJ542509.xml:  <GBSeq_organism>Bacillus vireti LMG 21834</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./HM460885.xml:  <GBSeq_organism>Bacillus hemicentroti</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./AF064705.xml:  <GBSeq_organism>Anaerobacillus arseniciselenatis</GBSeq_organism>
+./AY032601.xml:  <GBSeq_organism>Anaerobacillus macyae</GBSeq_organism>
+./AY228462.xml:  <GBSeq_organism>Bacillus algicola</GBSeq_organism>
+./AF541966.xml:  <GBSeq_organism>Bacillus hwajinpoensis</GBSeq_organism>
+./EU143680.xml:  <GBSeq_organism>Anaerobacillus alkalidiazotrophicus</GBSeq_organism>
+./AJ250318.xml:  <GBSeq_organism>Bacillus shackletonii</GBSeq_organism>

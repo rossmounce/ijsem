@@ -1,0 +1,9 @@
+./M35966.xml:  <GBSeq_organism>Thermoproteus tenax</GBSeq_organism>
+./X05567.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./M21529.xml:  <GBSeq_organism>Thermococcus celer</GBSeq_organism>
+./AF418181.xml:  <GBSeq_organism>Archaeoglobus veneficus</GBSeq_organism>
+./FJ216404.xml:  <GBSeq_organism>Geoglobus acetivorans</GBSeq_organism>
+./AF220166.xml:  <GBSeq_organism>Ferroglobus placidus</GBSeq_organism>
+./AF220165.xml:  <GBSeq_organism>Geoglobus ahangari</GBSeq_organism>
+./AJ299218.xml:  <GBSeq_organism>Archaeoglobus lithotrophicus</GBSeq_organism>
+./AF322892.xml:  <GBSeq_organism>Pan troglodytes</GBSeq_organism>

@@ -1,0 +1,28 @@
+./EF117329.xml:  <GBSeq_organism>Flavobacterium terrae</GBSeq_organism>
+./EU521691.xml:  <GBSeq_organism>Flavobacterium cauense R2A-7</GBSeq_organism>
+./EU109724.xml:  <GBSeq_organism>Flavobacterium fluvii</GBSeq_organism>
+./EU313814.xml:  <GBSeq_organism>Flavobacterium caeni</GBSeq_organism>
+./EU036219.xml:  <GBSeq_organism>Flavobacterium tiangeerense</GBSeq_organism>
+./AM177616.xml:  <GBSeq_organism>Flavobacterium reichenbachii</GBSeq_organism>
+./AM934651.xml:  <GBSeq_organism>Flavobacterium swingsii</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./EF575563.xml:  <GBSeq_organism>Flavobacterium resistens</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./AJ811961.xml:  <GBSeq_organism>Flavobacterium fryxellicola</GBSeq_organism>
+./FM163401.xml:  <GBSeq_organism>Flavobacterium antarcticum DSM 19726</GBSeq_organism>
+./AM934666.xml:  <GBSeq_organism>Flavobacterium subsaxonicum</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./AB455265.xml:  <GBSeq_organism>Flavobacterium algicola</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./AY581115.xml:  <GBSeq_organism>Flavobacterium segetis</GBSeq_organism>
+./AM934661.xml:  <GBSeq_organism>Flavobacterium rivuli</GBSeq_organism>
+./AF162266.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./FJ654474.xml:  <GBSeq_organism>Flavobacterium sinopsychrotolerans</GBSeq_organism>
+./FJ593904.xml:  <GBSeq_organism>Flavobacterium macrobrachii</GBSeq_organism>
+./CP000685.xml:  <GBSeq_organism>Flavobacterium johnsoniae UW101</GBSeq_organism>
+./EU924275.xml:  <GBSeq_organism>Flavobacterium chungangense</GBSeq_organism>
+./GO245972.xml:  <GBSeq_organism>Olea europaea</GBSeq_organism>
+./EF424395.xml:  <GBSeq_organism>Flavobacterium lindanitolerans CIP 109890</GBSeq_organism>
+./AY581114.xml:  <GBSeq_organism>Flavobacterium weaverense</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>

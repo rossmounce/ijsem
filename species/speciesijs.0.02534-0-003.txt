@@ -1,0 +1,8 @@
+./Y09976.xml:  <GBSeq_organism>Sporomusa silvacetica</GBSeq_organism>
+./AJ279799.xml:  <GBSeq_organism>Sporomusa malonica</GBSeq_organism>
+./AJ506191.xml:  <GBSeq_organism>Sporomusa aerivorans</GBSeq_organism>
+./M59117.xml:  <GBSeq_organism>Sporomusa paucivorans</GBSeq_organism>
+./M61920.xml:  <GBSeq_organism>Sporomusa termitida</GBSeq_organism>
+./AJ279798.xml:  <GBSeq_organism>Sporomusa acidovorans</GBSeq_organism>
+./AJ279800.xml:  <GBSeq_organism>Sporomusa ovata</GBSeq_organism>
+./AJ279801.xml:  <GBSeq_organism>Sporomusa sphaeroides DSM 2875</GBSeq_organism>

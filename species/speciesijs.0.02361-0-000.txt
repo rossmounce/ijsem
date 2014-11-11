@@ -1,0 +1,39 @@
+./AF009497.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF009505.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./X94337.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus</GBSeq_organism>
+./AF061008.xml:  <GBSeq_organism>Enterococcus avium</GBSeq_organism>
+./AF003930.xml:  <GBSeq_organism>Streptococcus pneumoniae</GBSeq_organism>
+./AJ301607.xml:  <GBSeq_organism>Streptococcus equinus ATCC 9812</GBSeq_organism>
+./AF009496.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF061003.xml:  <GBSeq_organism>Enterococcus raffinosus</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AB008926.xml:  <GBSeq_organism>Streptococcus dysgalactiae</GBSeq_organism>
+./AF014816.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF009485.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AB002518.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./AF003933.xml:  <GBSeq_organism>Streptococcus parasanguinis ATCC 15912</GBSeq_organism>
+./AF104671.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>
+./AF003929.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./AF009502.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF429765.xml:  <GBSeq_organism>Streptococcus equinus ATCC 9812</GBSeq_organism>
+./AF061004.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./AF104109.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF202263.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF429766.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF003932.xml:  <GBSeq_organism>Streptococcus oralis ATCC 35037</GBSeq_organism>
+./AF201899.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./AB002521.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AF009486.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF009506.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF003928.xml:  <GBSeq_organism>Streptococcus sanguinis SK1</GBSeq_organism>
+./AF429763.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./AF009498.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF009476.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF002481.xml:  <GBSeq_organism>Anablepsoides aff. atratus</GBSeq_organism>
+./AF061001.xml:  <GBSeq_organism>Enterococcus sulfureus ATCC 49903</GBSeq_organism>
+./AF039903.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./AF104676.xml:  <GBSeq_organism>Streptococcus constellatus</GBSeq_organism>
+./AB002484.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae ATCC 27957</GBSeq_organism>
+./AB002514.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF009495.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF009475.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>

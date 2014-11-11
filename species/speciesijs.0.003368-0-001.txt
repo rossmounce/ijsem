@@ -1,0 +1,14 @@
+./AB188121.xml:  <GBSeq_organism>Azohydromonas australica</GBSeq_organism>
+./DQ787333.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AJ512205.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./AJ505321.xml:  <GBSeq_organism>Cupriavidus taiwanensis</GBSeq_organism>
+./EU542577.xml:  <GBSeq_organism>Ideonella azotifigens</GBSeq_organism>
+./EF158809.xml:  <GBSeq_organism>Burkholderia vietnamiensis</GBSeq_organism>
+./EF158808.xml:  <GBSeq_organism>Burkholderia silvatlantica</GBSeq_organism>
+./AB188120.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./U89346.xml:  <GBSeq_organism>Anabaena variabilis ATCC 29413</GBSeq_organism>
+./AB188123.xml:  <GBSeq_organism>Derxia gummosa</GBSeq_organism>
+./M64344.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./EF158806.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./EU542578.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./AB188122.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>

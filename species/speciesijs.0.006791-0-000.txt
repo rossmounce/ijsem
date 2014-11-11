@@ -1,0 +1,20 @@
+./AF144383.xml:  <GBSeq_organism>Ramlibacter tataouinensis TTB310</GBSeq_organism>
+./AY609198.xml:  <GBSeq_organism>Rhodoferax antarcticus</GBSeq_organism>
+./AF078756.xml:  <GBSeq_organism>Curvibacter delicatus</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./AJ420329.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AM039830.xml:  <GBSeq_organism>Polaromonas aquatica</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./AM084006.xml:  <GBSeq_organism>Acidovorax caeni</GBSeq_organism>
+./EU825700.xml:  <GBSeq_organism>Pseudorhodoferax soli</GBSeq_organism>
+./AJ420323.xml:  <GBSeq_organism>Acidovorax delafieldii</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>
+./AJ420325.xml:  <GBSeq_organism>Acidovorax konjaci</GBSeq_organism>
+./DQ432053.xml:  <GBSeq_organism>Variovorax soli NBRC 106424</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./AY880023.xml:  <GBSeq_organism>Advenella mimigardefordensis DPN7</GBSeq_organism>
+./EF469609.xml:  <GBSeq_organism>Pseudacidovorax intermedius</GBSeq_organism>
+./AF439400.xml:  <GBSeq_organism>Ramlibacter henchirensis</GBSeq_organism>

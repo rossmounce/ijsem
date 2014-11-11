@@ -1,0 +1,35 @@
+./AF466190.xml:  <GBSeq_organism>Prauserella halophila</GBSeq_organism>
+./AJ249206.xml:  <GBSeq_organism>Pseudonocardia spinosispora</GBSeq_organism>
+./AJ400711.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./X79183.xml:  <GBSeq_organism>Thermocrispum agreste DSM 44070</GBSeq_organism>
+./AJ278497.xml:  <GBSeq_organism>Saccharomonospora halophila 8</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./AY183356.xml:  <GBSeq_organism>Amycolatopsis pretoriensis</GBSeq_organism>
+./AF051343.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./AM420293.xml:  <GBSeq_organism>Saccharopolyspora erythraea NRRL 2338</GBSeq_organism>
+./AF435077.xml:  <GBSeq_organism>Prauserella alba</GBSeq_organism>
+./EU503139.xml:  <GBSeq_organism>Sciscionella marina</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./AJ512463.xml:  <GBSeq_organism>Kibdelosporangium aridum subsp. largum</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AF223354.xml:  <GBSeq_organism>Amycolatopsis sacchari</GBSeq_organism>
+./X53194.xml:  <GBSeq_organism>Saccharopolyspora rectivirgula</GBSeq_organism>
+./AF002819.xml:  <GBSeq_organism>Saccharopolyspora taberi</GBSeq_organism>
+./Z38018.xml:  <GBSeq_organism>Saccharomonospora cyanea</GBSeq_organism>
+./AF002818.xml:  <GBSeq_organism>Saccharopolyspora spinosa NRRL 18395</GBSeq_organism>
+./AJ306300.xml:  <GBSeq_organism>Saccharomonospora xinjiangensis XJ-54</GBSeq_organism>
+./DQ093349.xml:  <GBSeq_organism>Goodfellowiella coeruleoviolacea</GBSeq_organism>
+./Y08536.xml:  <GBSeq_organism>Pseudonocardia asaccharolytica</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./AF114806.xml:  <GBSeq_organism>Crossiella cryophila</GBSeq_organism>
+./X53191.xml:  <GBSeq_organism>Kibdelosporangium aridum</GBSeq_organism>
+./AB006178.xml:  <GBSeq_organism>Actinoalloteichus cyanogriseus</GBSeq_organism>
+./AJ252825.xml:  <GBSeq_organism>Pseudonocardia compacta</GBSeq_organism>
+./DQ160215.xml:  <GBSeq_organism>Amycolatopsis taiwanensis</GBSeq_organism>
+./AF114801.xml:  <GBSeq_organism>Kutzneria kofuensis</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>
+./X79184.xml:  <GBSeq_organism>Thermocrispum municipale DSM 44069</GBSeq_organism>
+./AF139879.xml:  <GBSeq_organism>Saccharomonospora glauca</GBSeq_organism>
+./DQ792501.xml:  <GBSeq_organism>Amycolatopsis saalfeldensis</GBSeq_organism>

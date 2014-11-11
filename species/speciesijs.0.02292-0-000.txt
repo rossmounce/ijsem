@@ -1,0 +1,5 @@
+./AF254387.xml:  <GBSeq_organism>Candidatus Pasteuria usgae</GBSeq_organism>
+./AF134868.xml:  <GBSeq_organism>Pasteuria nishizawae</GBSeq_organism>
+./U34688.xml:  <GBSeq_organism>Daphnia endosymbiotic bacterium</GBSeq_organism>
+./AF375881.xml:  <GBSeq_organism>Pasteuria penetrans</GBSeq_organism>
+./AF077672.xml:  <GBSeq_organism>Pasteuria penetrans</GBSeq_organism>

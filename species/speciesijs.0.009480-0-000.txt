@@ -1,0 +1,13 @@
+./EF592603.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./AB267476.xml:  <GBSeq_organism>Flavisolibacter ginsengiterrae</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./AB267477.xml:  <GBSeq_organism>Flavisolibacter ginsengisoli</GBSeq_organism>
+./AM230484.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./FJ177532.xml:  <GBSeq_organism>Ferruginibacter lapsinanis</GBSeq_organism>
+./FJ177530.xml:  <GBSeq_organism>Ferruginibacter alkalilentus</GBSeq_organism>
+./FJ177531.xml:  <GBSeq_organism>Sphingobacteriales bacterium HU1-IH3</GBSeq_organism>
+./AB267478.xml:  <GBSeq_organism>Segetibacter koreensis</GBSeq_organism>
+./AB245374.xml:  <GBSeq_organism>Chitinophaga ginsengisoli</GBSeq_organism>
+./FJ263932.xml:  <GBSeq_organism>Chitinophagaceae bacterium HU1-JE21</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./FJ263933.xml:  <GBSeq_organism>Chitinophagaceae bacterium HU1-ID41</GBSeq_organism>

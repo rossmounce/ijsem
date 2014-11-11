@@ -1,0 +1,18 @@
+./X81946.xml:  <GBSeq_organism>Pirellula staleyi DSM 6068</GBSeq_organism>
+./AF244751.xml:  <GBSeq_organism>Nostocoida limicola III</GBSeq_organism>
+./AM162406.xml:  <GBSeq_organism>Zavarzinella formosa</GBSeq_organism>
+./AY254882.xml:  <GBSeq_organism>Candidatus Scalindua wagneri</GBSeq_organism>
+./AF375995.xml:  <GBSeq_organism>Candidatus Kuenenia stuttgartiensis</GBSeq_organism>
+./AF239692.xml:  <GBSeq_organism>Isosphaera-like str. C2-3</GBSeq_organism>
+./DQ986200.xml:  <GBSeq_organism>Aquisphaera giovannonii</GBSeq_organism>
+./AM162407.xml:  <GBSeq_organism>Schlesneria paludicola</GBSeq_organism>
+./X81958.xml:  <GBSeq_organism>Isosphaera sp.</GBSeq_organism>
+./AF375994.xml:  <GBSeq_organism>Candidatus Brocadia anammoxidans</GBSeq_organism>
+./BX294149.xml:  <GBSeq_organism>Rhodopirellula baltica SH 1</GBSeq_organism>
+./GU123163.xml:  <GBSeq_organism>Aquisphaera giovannonii</GBSeq_organism>
+./AY254883.xml:  <GBSeq_organism>Candidatus Scalindua brodae</GBSeq_organism>
+./X81959.xml:  <GBSeq_organism>Isosphaera sp.</GBSeq_organism>
+./EF516786.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB262730.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AM850678.xml:  <GBSeq_organism>Singulisphaera acidiphila DSM 18658</GBSeq_organism>
+./AF239699.xml:  <GBSeq_organism>Isosphaera-like str. CJuql1</GBSeq_organism>

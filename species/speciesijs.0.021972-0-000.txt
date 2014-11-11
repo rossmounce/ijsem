@@ -1,0 +1,14 @@
+./EU022308.xml:  <GBSeq_organism>Mycoplana ramosa</GBSeq_organism>
+./AF506513.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./AY486428.xml:  <GBSeq_organism>Macaca mulatta</GBSeq_organism>
+./AY776289.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./AM158981.xml:  <GBSeq_organism>Brucella pinnipedialis</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./AJ786600.xml:  <GBSeq_organism>Hoeflea alexandrii</GBSeq_organism>
+./X94201.xml:  <GBSeq_organism>Xanthobacter autotrophicus</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./AF513441.xml:  <GBSeq_organism>Nesiotobacter exalbescens</GBSeq_organism>
+./DQ386307.xml:  <GBSeq_organism>Cohaesibacter gelatinilyticus</GBSeq_organism>
+./GO200200.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>

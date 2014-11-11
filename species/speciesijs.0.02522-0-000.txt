@@ -1,0 +1,8 @@
+./X83809.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./X83806.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./AJ487302.xml:  <GBSeq_organism>Promicromonospora vindobonensis</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./AJ487303.xml:  <GBSeq_organism>Promicromonospora aerolata</GBSeq_organism>
+./X83807.xml:  <GBSeq_organism>Oerskovia enterophila</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>

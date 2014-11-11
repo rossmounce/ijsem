@@ -1,0 +1,7 @@
+./AJ430344.xml:  <GBSeq_organism>Comamonas aquatica</GBSeq_organism>
+./AJ430342.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./DQ453128.xml:  <GBSeq_organism>Comamonas odontotermitis</GBSeq_organism>
+./AJ430347.xml:  <GBSeq_organism>Comamonas kerstersii</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./Y16932.xml:  <GBSeq_organism>Paracoccus versutus</GBSeq_organism>

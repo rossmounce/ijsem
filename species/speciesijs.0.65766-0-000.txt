@@ -1,0 +1,6 @@
+./AY344058.xml:  <GBSeq_organism>Sorghum bicolor</GBSeq_organism>
+./AM295491.xml:  <GBSeq_organism>Gulbenkiania mobilis</GBSeq_organism>
+./AF487709.xml:  <GBSeq_organism>Neisseria dentiae</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>
+./DQ006842.xml:  <GBSeq_organism>Neisseria animaloris</GBSeq_organism>
+./EF626691.xml:  <GBSeq_organism>Vogesella perlucida</GBSeq_organism>

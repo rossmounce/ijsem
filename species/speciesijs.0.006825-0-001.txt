@@ -1,0 +1,7 @@
+./EU375807.xml:  <GBSeq_organism>Marinospirillum celere DSM 18438</GBSeq_organism>
+./AF275713.xml:  <GBSeq_organism>Marinospirillum alkaliphilum</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./EU517500.xml:  <GBSeq_organism>Marinospirillum sp. Spir-10</GBSeq_organism>
+./X87219.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>

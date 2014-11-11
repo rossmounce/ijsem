@@ -1,0 +1,8 @@
+./AY631071.xml:  <GBSeq_organism>Jiangella gansuensis DSM 44835</GBSeq_organism>
+./D85475.xml:  <GBSeq_organism>Actinosynnema mirum</GBSeq_organism>
+./AB184722.xml:  <GBSeq_organism>Streptoalloteichus tenebrarius</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AB327259.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AF114806.xml:  <GBSeq_organism>Crossiella cryophila</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>

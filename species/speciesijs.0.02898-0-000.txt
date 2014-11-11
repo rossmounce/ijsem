@@ -1,0 +1,6 @@
+./M23730.xml:  <GBSeq_organism>[Streptococcus] pleomorphus</GBSeq_organism>
+./Y11466.xml:  <GBSeq_organism>Holdemania filiformis</GBSeq_organism>
+./M59230.xml:  <GBSeq_organism>[Eubacterium] biforme DSM 3989</GBSeq_organism>
+./AF220064.xml:  <GBSeq_organism>Bulleidia extructa</GBSeq_organism>
+./AJ550617.xml:  <GBSeq_organism>Erysipelothrix inopinata</GBSeq_organism>
+./M23732.xml:  <GBSeq_organism>[Clostridium] innocuum</GBSeq_organism>

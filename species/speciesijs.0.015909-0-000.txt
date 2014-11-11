@@ -1,0 +1,14 @@
+./AF542227.xml:  <GBSeq_organism>Finegoldia magna</GBSeq_organism>
+./X75909.xml:  <GBSeq_organism>Clostridium sp.</GBSeq_organism>
+./D14153.xml:  <GBSeq_organism>Anaerococcus prevotii</GBSeq_organism>
+./M59084.xml:  <GBSeq_organism>Gottschalkia acidurici</GBSeq_organism>
+./EU483153.xml:  <GBSeq_organism>Murdochiella asaccharolytica</GBSeq_organism>
+./AF542230.xml:  <GBSeq_organism>Peptoniphilus lacrimalis</GBSeq_organism>
+./Y16279.xml:  <GBSeq_organism>Helcococcus ovis</GBSeq_organism>
+./AF542231.xml:  <GBSeq_organism>Parvimonas micra ATCC 33270</GBSeq_organism>
+./AY153431.xml:  <GBSeq_organism>Peptoniphilus indolicus ATCC 29427</GBSeq_organism>
+./M60491.xml:  <GBSeq_organism>[Clostridium] purinilyticum</GBSeq_organism>
+./AF542228.xml:  <GBSeq_organism>Peptoniphilus asaccharolyticus DSM 20463</GBSeq_organism>
+./AJ579914.xml:  <GBSeq_organism>Helcococcus sueciensis</GBSeq_organism>
+./AY880043.xml:  <GBSeq_organism>bacterium N14-24</GBSeq_organism>
+./X80841.xml:  <GBSeq_organism>Tissierella praeacuta</GBSeq_organism>

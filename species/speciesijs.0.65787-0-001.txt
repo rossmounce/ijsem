@@ -1,0 +1,5 @@
+./U60014.xml:  <GBSeq_organism>Prosthecobacter debontii</GBSeq_organism>
+./U60012.xml:  <GBSeq_organism>Prosthecobacter dejongeii</GBSeq_organism>
+./AB305640.xml:  <GBSeq_organism>Prosthecobacter fluviatilis</GBSeq_organism>
+./U60013.xml:  <GBSeq_organism>Prosthecobacter vanneervenii</GBSeq_organism>
+./U60015.xml:  <GBSeq_organism>Prosthecobacter fusiformis</GBSeq_organism>

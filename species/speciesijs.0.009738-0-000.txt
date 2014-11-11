@@ -1,0 +1,12 @@
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./AY533665.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./AB078057.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./DQ112352.xml:  <GBSeq_organism>Flectobacillus lacus</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./EU420062.xml:  <GBSeq_organism>Flectobacillus roseus</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./EU921645.xml:  <GBSeq_organism>Flectobacillus sp. RG-4</GBSeq_organism>
+./AM000023.xml:  <GBSeq_organism>Spirosoma linguale DSM 74</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

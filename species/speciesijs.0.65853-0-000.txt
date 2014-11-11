@@ -1,0 +1,7 @@
+./X52570.xml:  <GBSeq_organism>Weissella kandleri</GBSeq_organism>
+./AJ318414.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./AM882997.xml:  <GBSeq_organism>Weissella ghanensis</GBSeq_organism>
+./AM882998.xml:  <GBSeq_organism>Weissella ghanensis</GBSeq_organism>
+./AY028260.xml:  <GBSeq_organism>Weissella soli</GBSeq_organism>
+./AY035891.xml:  <GBSeq_organism>Weissella koreensis</GBSeq_organism>
+./AB022920.xml:  <GBSeq_organism>Weissella minor</GBSeq_organism>

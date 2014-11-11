@@ -1,0 +1,8 @@
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./D12657.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./EF407879.xml:  <GBSeq_organism>Sediminibacterium salmoneum</GBSeq_organism>
+./DQ457019.xml:  <GBSeq_organism>Niabella aurantiaca</GBSeq_organism>
+./DQ244076.xml:  <GBSeq_organism>Niastella yeongjuensis</GBSeq_organism>
+./M62795.xml:  <GBSeq_organism>Chitinophaga sancti</GBSeq_organism>

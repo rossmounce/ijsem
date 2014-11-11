@@ -1,0 +1,30 @@
+./X80994.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./M60455.xml:  <GBSeq_organism>Flammeovirga arenaria</GBSeq_organism>
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./D12655.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./M58786.xml:  <GBSeq_organism>Flexibacter polymorphus</GBSeq_organism>
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./M58792.xml:  <GBSeq_organism>Marinoscillum furvescens</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./M58794.xml:  <GBSeq_organism>Marivirga sericea</GBSeq_organism>
+./D12658.xml:  <GBSeq_organism>Cytophaga aurantiaca</GBSeq_organism>
+./M58784.xml:  <GBSeq_organism>Flexibacter litoralis</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./M58791.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./AF203475.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./M58789.xml:  <GBSeq_organism>Marivirga tractuosa</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./U85891.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./M64628.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./M64629.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>

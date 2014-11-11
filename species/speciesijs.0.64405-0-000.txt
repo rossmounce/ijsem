@@ -1,0 +1,6 @@
+./D88514.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>
+./X60630.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./D85396.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY257868.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>

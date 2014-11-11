@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./M59157.xml:  <GBSeq_organism>Legionella pneumophila</GBSeq_organism>
+./AF273082.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./X99299.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AY124375.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./AF427039.xml:  <GBSeq_organism>Pseudoxanthomonas taiwanensis</GBSeq_organism>
+./Y10766.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AF408333.xml:  <GBSeq_organism>uncultured beta proteobacterium</GBSeq_organism>
+./AF408332.xml:  <GBSeq_organism>uncultured beta proteobacterium</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./AJ306770.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

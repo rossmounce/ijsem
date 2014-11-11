@@ -1,0 +1,5 @@
+./EU168789.xml:  <GBSeq_organism>Ipomoea phytoplasma</GBSeq_organism>
+./EU168792.xml:  <GBSeq_organism>Cordyline phytoplasma</GBSeq_organism>
+./EU168790.xml:  <GBSeq_organism>Green valley X phytoplasma</GBSeq_organism>
+./EU168791.xml:  <GBSeq_organism>&apos;Euscelidius variegatus&apos; phytoplasma</GBSeq_organism>
+./EU168788.xml:  <GBSeq_organism>Black currant reversion disease phytoplasma</GBSeq_organism>

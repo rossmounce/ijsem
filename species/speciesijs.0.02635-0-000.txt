@@ -1,0 +1,8 @@
+./AJ227808.xml:  <GBSeq_organism>Maricaulis parjimensis</GBSeq_organism>
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./AJ227804.xml:  <GBSeq_organism>Maricaulis washingtonensis</GBSeq_organism>
+./X52909.xml:  <GBSeq_organism>Hirschia baltica ATCC 49814</GBSeq_organism>
+./AJ227814.xml:  <GBSeq_organism>Hyphomonas jannaschiana</GBSeq_organism>
+./AJ227818.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AJ227811.xml:  <GBSeq_organism>Glycocaulis abyssi</GBSeq_organism>
+./AJ227802.xml:  <GBSeq_organism>Maricaulis maris</GBSeq_organism>

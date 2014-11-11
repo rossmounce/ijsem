@@ -1,0 +1,27 @@
+./AY928389.xml:  <GBSeq_organism>Francisella sp. AF-01-6</GBSeq_organism>
+./AY968239.xml:  <GBSeq_organism>Francisella philomiragia</GBSeq_organism>
+./AY928396.xml:  <GBSeq_organism>Francisella tularensis subsp. novicida</GBSeq_organism>
+./AY928394.xml:  <GBSeq_organism>Francisella philomiragia subsp. philomiragia ATCC 25015</GBSeq_organism>
+./AJ698862.xml:  <GBSeq_organism>Francisella philomiragia subsp. philomiragia ATCC 25015</GBSeq_organism>
+./AY805306.xml:  <GBSeq_organism>Francisella endosymbiont of Dermacentor variabilis</GBSeq_organism>
+./AM403242.xml:  <GBSeq_organism>Francisella noatunensis subsp. noatunensis</GBSeq_organism>
+./AF385857.xml:  <GBSeq_organism>cf. Francisella sp. CYH-2002</GBSeq_organism>
+./AY968237.xml:  <GBSeq_organism>Francisella tularensis subsp. novicida</GBSeq_organism>
+./AY928393.xml:  <GBSeq_organism>Francisella sp. AF-03-27</GBSeq_organism>
+./AB194068.xml:  <GBSeq_organism>Francisella noatunensis subsp. orientalis</GBSeq_organism>
+./DQ007456.xml:  <GBSeq_organism>Francisella sp. AF-01-22</GBSeq_organism>
+./DQ314206.xml:  <GBSeq_organism>Francisella philomiragia</GBSeq_organism>
+./AY968236.xml:  <GBSeq_organism>Francisella tularensis subsp. mediasiatica</GBSeq_organism>
+./AY928395.xml:  <GBSeq_organism>Francisella philomiragia subsp. philomiragia ATCC 25017</GBSeq_organism>
+./DQ007454.xml:  <GBSeq_organism>Francisella sp. AF-04-15</GBSeq_organism>
+./AY243027.xml:  <GBSeq_organism>Francisella philomiragia</GBSeq_organism>
+./AY496933.xml:  <GBSeq_organism>Francisella philomiragia</GBSeq_organism>
+./AY968235.xml:  <GBSeq_organism>Francisella tularensis subsp. mediasiatica</GBSeq_organism>
+./AY968238.xml:  <GBSeq_organism>Francisella cf. novicida Fx1</GBSeq_organism>
+./AY968228.xml:  <GBSeq_organism>Francisella tularensis subsp. holarctica FSC022</GBSeq_organism>
+./DQ007453.xml:  <GBSeq_organism>Francisella sp. AF-03-28</GBSeq_organism>
+./AY968229.xml:  <GBSeq_organism>Francisella tularensis subsp. holarctica</GBSeq_organism>
+./AY968225.xml:  <GBSeq_organism>Francisella tularensis subsp. tularensis</GBSeq_organism>
+./AY928390.xml:  <GBSeq_organism>Francisella sp. AF-01-23</GBSeq_organism>
+./AY928388.xml:  <GBSeq_organism>Francisella sp. AF-01-2</GBSeq_organism>
+./AY805305.xml:  <GBSeq_organism>Francisella endosymbiont of Dermacentor variabilis</GBSeq_organism>

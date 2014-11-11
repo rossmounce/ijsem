@@ -1,0 +1,8 @@
+./AF169537.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./AF169531.xml:  <GBSeq_organism>Rummeliibacillus pycnus</GBSeq_organism>
+./AY677116.xml:  <GBSeq_organism>Lysinibacillus massiliensis 4400831 = CIP 108448 = CCUG 49529</GBSeq_organism>
+./AF169520.xml:  <GBSeq_organism>Viridibacillus neidei</GBSeq_organism>
+./AE017355.xml:  <GBSeq_organism>Bacillus thuringiensis serovar konkukian str. 97-27</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AJ310084.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./AF526913.xml:  <GBSeq_organism>Lysinibacillus odysseyi</GBSeq_organism>

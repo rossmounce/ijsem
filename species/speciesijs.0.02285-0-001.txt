@@ -1,0 +1,10 @@
+./AJ252577.xml:  <GBSeq_organism>agricultural soil bacterium SI-10</GBSeq_organism>
+./AF078772.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AF078774.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AB020186.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AY052781.xml:  <GBSeq_organism>Delftia sp. AN3</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./AF410435.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AF149849.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AJ002810.xml:  <GBSeq_organism>Comamonas sp.</GBSeq_organism>

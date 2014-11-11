@@ -1,0 +1,35 @@
+./AY197662.xml:  <GBSeq_organism>Alder yellows phytoplasma</GBSeq_organism>
+./AY197663.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./AY197675.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY197684.xml:  <GBSeq_organism>Alder yellows phytoplasma</GBSeq_organism>
+./AL009126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AY197678.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY197681.xml:  <GBSeq_organism>Jujube witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY197691.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY197672.xml:  <GBSeq_organism>Candidatus Phytoplasma spartii</GBSeq_organism>
+./AY197671.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AY197693.xml:  <GBSeq_organism>Cherry lethal yellows phytoplasma</GBSeq_organism>
+./AY197687.xml:  <GBSeq_organism>Hemp dogbane yellows phytoplasma</GBSeq_organism>
+./AY197690.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY197670.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AY197689.xml:  <GBSeq_organism>Candidatus Phytoplasma spartii</GBSeq_organism>
+./AY197696.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AY197666.xml:  <GBSeq_organism>Alder yellows phytoplasma</GBSeq_organism>
+./AY197679.xml:  <GBSeq_organism>Cherry lethal yellows phytoplasma</GBSeq_organism>
+./AY197674.xml:  <GBSeq_organism>Hemp dogbane yellows phytoplasma</GBSeq_organism>
+./AY197667.xml:  <GBSeq_organism>Alder yellows phytoplasma</GBSeq_organism>
+./AY197683.xml:  <GBSeq_organism>Potato witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY197686.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./AY197664.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./AY197665.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./AY197668.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AY197695.xml:  <GBSeq_organism>Jujube witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY197680.xml:  <GBSeq_organism>Peach yellows phytoplasma</GBSeq_organism>
+./AY197692.xml:  <GBSeq_organism>Alder yellows phytoplasma</GBSeq_organism>
+./AY197669.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AY197673.xml:  <GBSeq_organism>Candidatus Phytoplasma spartii</GBSeq_organism>
+./AY197677.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY197676.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY197685.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./AY197694.xml:  <GBSeq_organism>Peach yellows phytoplasma</GBSeq_organism>
+./AY197688.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>

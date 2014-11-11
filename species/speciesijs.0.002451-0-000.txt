@@ -1,0 +1,22 @@
+./DQ471329.xml:  <GBSeq_organism>Salinicoccus jeotgali</GBSeq_organism>
+./AB258358.xml:  <GBSeq_organism>Salinicoccus siamensis</GBSeq_organism>
+./EU240886.xml:  <GBSeq_organism>Nosocomiicoccus ampullae</GBSeq_organism>
+./Y15754.xml:  <GBSeq_organism>Staphylococcus piscifermentans</GBSeq_organism>
+./AF061013.xml:  <GBSeq_organism>Enterococcus mundtii</GBSeq_organism>
+./AJ251530.xml:  <GBSeq_organism>Jeotgalicoccus pinnipedialis</GBSeq_organism>
+./AF450136.xml:  <GBSeq_organism>Carnobacterium pleistocenium FTR1</GBSeq_organism>
+./AJ517414.xml:  <GBSeq_organism>Staphylococcus nepalensis</GBSeq_organism>
+./DQ837380.xml:  <GBSeq_organism>Salinicoccus kunmingensis</GBSeq_organism>
+./EF177692.xml:  <GBSeq_organism>Salinicoccus albus DSM 19776</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./Y15713.xml:  <GBSeq_organism>Macrococcus carouselicus</GBSeq_organism>
+./AY028926.xml:  <GBSeq_organism>Jeotgalicoccus psychrophilus</GBSeq_organism>
+./Y15714.xml:  <GBSeq_organism>Macrococcus bovicus</GBSeq_organism>
+./EF590121.xml:  <GBSeq_organism>Salinicoccus salitudinis</GBSeq_organism>
+./DQ767692.xml:  <GBSeq_organism>Salinicoccus iranensis</GBSeq_organism>
+./X94559.xml:  <GBSeq_organism>Salinicoccus roseus</GBSeq_organism>
+./AY028925.xml:  <GBSeq_organism>Jeotgalicoccus halotolerans</GBSeq_organism>
+./AY028927.xml:  <GBSeq_organism>Salinicoccus hispanicus</GBSeq_organism>
+./AF275710.xml:  <GBSeq_organism>Salinicoccus alkaliphilus DSM 16010</GBSeq_organism>
+./EU583727.xml:  <GBSeq_organism>Jeotgalicoccus marinus</GBSeq_organism>
+./DQ411813.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>

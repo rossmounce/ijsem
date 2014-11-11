@@ -1,0 +1,9 @@
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./EF465534.xml:  <GBSeq_organism>Sphingobium rhizovicinum</GBSeq_organism>
+./D84526.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AM489507.xml:  <GBSeq_organism>Sphingobium olei</GBSeq_organism>
+./EU009209.xml:  <GBSeq_organism>Sphingobium scionense</GBSeq_organism>
+./D16145.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./AY519130.xml:  <GBSeq_organism>Sphingobium francense</GBSeq_organism>
+./AF039168.xml:  <GBSeq_organism>Sphingobium japonicum</GBSeq_organism>

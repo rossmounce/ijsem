@@ -1,0 +1,12 @@
+./DQ191180.xml:  <GBSeq_organism>Flagellimonas eckloniae</GBSeq_organism>
+./EF670651.xml:  <GBSeq_organism>Actibacter sediminis</GBSeq_organism>
+./DQ167246.xml:  <GBSeq_organism>Costertonia aggregata</GBSeq_organism>
+./AY445073.xml:  <GBSeq_organism>Muricauda flavescens</GBSeq_organism>
+./EU156065.xml:  <GBSeq_organism>Muricauda lutimaris</GBSeq_organism>
+./AY960749.xml:  <GBSeq_organism>Maribacter dokdonensis</GBSeq_organism>
+./AM497875.xml:  <GBSeq_organism>Maribacter polysiphoniae</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./AY445075.xml:  <GBSeq_organism>Muricauda aquimarina</GBSeq_organism>
+./EU564844.xml:  <GBSeq_organism>Muricauda lutaonensis</GBSeq_organism>
+./AB264057.xml:  <GBSeq_organism>Zeaxanthinibacter enoshimensis</GBSeq_organism>
+./AY424899.xml:  <GBSeq_organism>Robiginitalea biformata HTCC2501</GBSeq_organism>

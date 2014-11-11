@@ -1,0 +1,5 @@
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./AF445248.xml:  <GBSeq_organism>Atopostipes suicloacalis</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./AB555562.xml:  <GBSeq_organism>Alkalibacterium subtropicum</GBSeq_organism>

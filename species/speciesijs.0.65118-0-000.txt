@@ -1,0 +1,28 @@
+./L16468.xml:  <GBSeq_organism>Prevotella intermedia</GBSeq_organism>
+./AB182483.xml:  <GBSeq_organism>Prevotella multiformis DSM 16608</GBSeq_organism>
+./L16471.xml:  <GBSeq_organism>Prevotella nigrescens</GBSeq_organism>
+./AY350613.xml:  <GBSeq_organism>Prevotella bergensis</GBSeq_organism>
+./L16480.xml:  <GBSeq_organism>Prevotella oralis</GBSeq_organism>
+./L16472.xml:  <GBSeq_organism>Prevotella oulorum</GBSeq_organism>
+./AJ011682.xml:  <GBSeq_organism>Prevotella brevis</GBSeq_organism>
+./L16473.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>
+./L16469.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./AJ006457.xml:  <GBSeq_organism>Prevotella bryantii B14</GBSeq_organism>
+./AJ005635.xml:  <GBSeq_organism>Prevotella enoeca</GBSeq_organism>
+./L16466.xml:  <GBSeq_organism>Prevotella denticola</GBSeq_organism>
+./M11656.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./L16474.xml:  <GBSeq_organism>Prevotella oris</GBSeq_organism>
+./L16476.xml:  <GBSeq_organism>Prevotella buccalis ATCC 35310</GBSeq_organism>
+./Y13105.xml:  <GBSeq_organism>Prevotella pallens ATCC 700821</GBSeq_organism>
+./L16483.xml:  <GBSeq_organism>Prevotella disiens</GBSeq_organism>
+./AF481227.xml:  <GBSeq_organism>Prevotella marshii DSM 16973 = JCM 13450</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./L16475.xml:  <GBSeq_organism>Prevotella bivia</GBSeq_organism>
+./AY840553.xml:  <GBSeq_organism>Prevotella baroniae</GBSeq_organism>
+./L16482.xml:  <GBSeq_organism>Prevotella ruminicola</GBSeq_organism>
+./L16481.xml:  <GBSeq_organism>Prevotella loescheii</GBSeq_organism>
+./L16478.xml:  <GBSeq_organism>Prevotella buccae</GBSeq_organism>
+./AB108825.xml:  <GBSeq_organism>Prevotella shahii</GBSeq_organism>
+./L16465.xml:  <GBSeq_organism>Prevotella corporis</GBSeq_organism>
+./AM422125.xml:  <GBSeq_organism>Prevotella amnii</GBSeq_organism>
+./AB200414.xml:  <GBSeq_organism>Prevotella multisaccharivorax DSM 17128</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AY788950.xml:  <GBSeq_organism>Granulibacter bethesdensis CGDNIH1</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./D30773.xml:  <GBSeq_organism>Acidiphilium cryptum</GBSeq_organism>
+./AF459454.xml:  <GBSeq_organism>Swaminathania salitolerans</GBSeq_organism>
+./D30770.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./AB025928.xml:  <GBSeq_organism>Asaia bogorensis NBRC 16594</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AJ535710.xml:  <GBSeq_organism>Stella humosa</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

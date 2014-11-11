@@ -1,0 +1,15 @@
+./L37596.xml:  <GBSeq_organism>Staphylococcus saprophyticus</GBSeq_organism>
+./AB009942.xml:  <GBSeq_organism>Staphylococcus vitulinus</GBSeq_organism>
+./AB063171.xml:  <GBSeq_organism>Staphylococcus hominis</GBSeq_organism>
+./Y15713.xml:  <GBSeq_organism>Macrococcus carouselicus</GBSeq_organism>
+./AY119685.xml:  <GBSeq_organism>Macrococcus hajekii</GBSeq_organism>
+./AB009945.xml:  <GBSeq_organism>Staphylococcus schleiferi subsp. coagulans</GBSeq_organism>
+./Y15711.xml:  <GBSeq_organism>Macrococcus caseolyticus</GBSeq_organism>
+./Y15714.xml:  <GBSeq_organism>Macrococcus bovicus</GBSeq_organism>
+./AY119687.xml:  <GBSeq_organism>Macrococcus lamae</GBSeq_organism>
+./D83369.xml:  <GBSeq_organism>Staphylococcus intermedius NCTC 11048</GBSeq_organism>
+./X94559.xml:  <GBSeq_organism>Salinicoccus roseus</GBSeq_organism>
+./Y15712.xml:  <GBSeq_organism>Macrococcus equipercicus</GBSeq_organism>
+./AJ421446.xml:  <GBSeq_organism>Staphylococcus sciuri subsp. sciuri</GBSeq_organism>
+./L37605.xml:  <GBSeq_organism>Staphylococcus epidermidis</GBSeq_organism>
+./X68417.xml:  <GBSeq_organism>Staphylococcus aureus</GBSeq_organism>

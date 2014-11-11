@@ -1,0 +1,12 @@
+./AB269873.xml:  <GBSeq_organism>Thermogymnomonas acidicola</GBSeq_organism>
+./AF145441.xml:  <GBSeq_organism>Ferroplasma acidarmanus fer1</GBSeq_organism>
+./AY222042.xml:  <GBSeq_organism>Ferroplasma acidiphilum</GBSeq_organism>
+./X84901.xml:  <GBSeq_organism>Picrophilus oshimae</GBSeq_organism>
+./AJ224936.xml:  <GBSeq_organism>Ferroplasma acidiphilum</GBSeq_organism>
+./AY830840.xml:  <GBSeq_organism>Ferroplasma sp. JTC3</GBSeq_organism>
+./EF062309.xml:  <GBSeq_organism>Ferroplasma thermophilum</GBSeq_organism>
+./AF513710.xml:  <GBSeq_organism>Ferroplasma acidiphilum</GBSeq_organism>
+./AM943980.xml:  <GBSeq_organism>Acidiplasma aeolicum</GBSeq_organism>
+./M38637.xml:  <GBSeq_organism>Thermoplasma acidophilum</GBSeq_organism>
+./AY907888.xml:  <GBSeq_organism>Acidiplasma cupricumulans</GBSeq_organism>
+./AJ299215.xml:  <GBSeq_organism>Thermoplasma volcanium</GBSeq_organism>

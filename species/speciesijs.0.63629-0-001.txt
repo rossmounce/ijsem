@@ -1,0 +1,24 @@
+./L33974.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./M96399.xml:  <GBSeq_organism>Nitrosomonas europaea</GBSeq_organism>
+./AB003623.xml:  <GBSeq_organism>Roseateles depolymerans</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./M29021.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./AJ420328.xml:  <GBSeq_organism>Hydrogenophaga flava</GBSeq_organism>
+./AF035052.xml:  <GBSeq_organism>Aquabacterium parvum</GBSeq_organism>
+./AJ420330.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./D14320.xml:  <GBSeq_organism>Brachymonas denitrificans</GBSeq_organism>
+./U27839.xml:  <GBSeq_organism>Thiomonas thermosulfata</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AF532868.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AF005628.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./X87275.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>
+./M34131.xml:  <GBSeq_organism>Spirillum volutans</GBSeq_organism>
+./D14254.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./Z18534.xml:  <GBSeq_organism>Sphaerotilus natans</GBSeq_organism>
+./AY856841.xml:  <GBSeq_organism>Mitsuaria chitosanitabida</GBSeq_organism>
+./AF035050.xml:  <GBSeq_organism>Aquabacterium citratiphilum</GBSeq_organism>

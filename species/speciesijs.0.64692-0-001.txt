@@ -1,0 +1,5 @@
+./AB264031.xml:  <GBSeq_organism>Alicyclobacillus kakegawensis</GBSeq_organism>
+./AB222248.xml:  <GBSeq_organism>Alicyclobacillus sendaiensis</GBSeq_organism>
+./AB089853.xml:  <GBSeq_organism>Alicyclobacillus herbarius</GBSeq_organism>
+./AB089854.xml:  <GBSeq_organism>Alicyclobacillus cycloheptanicus</GBSeq_organism>
+./AB222268.xml:  <GBSeq_organism>Alicyclobacillus vulcanalis</GBSeq_organism>

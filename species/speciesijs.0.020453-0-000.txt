@@ -1,0 +1,4 @@
+./EU370956.xml:  <GBSeq_organism>Spirosoma panaciterrae</GBSeq_organism>
+./EF635010.xml:  <GBSeq_organism>Rudanella lutea</GBSeq_organism>
+./EF507900.xml:  <GBSeq_organism>Spirosoma rigui</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

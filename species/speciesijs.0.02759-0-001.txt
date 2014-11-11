@@ -1,0 +1,22 @@
+./AF445680.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./X97692.xml:  <GBSeq_organism>Pedomicrobium americanum</GBSeq_organism>
+./X58198.xml:  <GBSeq_organism>Holospora obtusa</GBSeq_organism>
+./D32224.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AJ318111.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./X87272.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./D14509.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./M65248.xml:  <GBSeq_organism>Afipia felis ATCC 53690</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./D49423.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./X87274.xml:  <GBSeq_organism>Brevundimonas diminuta</GBSeq_organism>
+./M69186.xml:  <GBSeq_organism>Afipia clevelandensis ATCC 49720</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AJ549086.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./U29388.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. phaseoli</GBSeq_organism>
+./X71837.xml:  <GBSeq_organism>Caedibacter caryophilus</GBSeq_organism>
+./M83799.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./D12785.xml:  <GBSeq_organism>Brevundimonas bullata</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./Y14302.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>
+./D12790.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

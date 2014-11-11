@@ -1,0 +1,11 @@
+./AJ400711.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./AF466095.xml:  <GBSeq_organism>Amycolatopsis viridis</GBSeq_organism>
+./AJ000285.xml:  <GBSeq_organism>Amycolatopsis sp.</GBSeq_organism>
+./AJ293754.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./AF051343.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./AY129774.xml:  <GBSeq_organism>Amycolatopsis thermophila</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./FJ606836.xml:  <GBSeq_organism>Amycolatopsis halophila YIM 93223</GBSeq_organism>
+./AF052390.xml:  <GBSeq_organism>Amycolatopsis thermoflava N1165</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>
+./EU329845.xml:  <GBSeq_organism>Amycolatopsis marina</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AF509829.xml:  <GBSeq_organism>Acinetobacter gerneri</GBSeq_organism>
+./AF509823.xml:  <GBSeq_organism>Acinetobacter towneri</GBSeq_organism>
+./U10871.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AJ275038.xml:  <GBSeq_organism>Acinetobacter ursingii DSM 16037 = CIP 107286</GBSeq_organism>
+./AF005160.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./EU258608.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./X81661.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AF509825.xml:  <GBSeq_organism>Acinetobacter tjernbergiae</GBSeq_organism>
+./X81659.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./AF509827.xml:  <GBSeq_organism>Acinetobacter bouvetii</GBSeq_organism>
+./AJ293691.xml:  <GBSeq_organism>Acinetobacter parvus</GBSeq_organism>
+./EU258610.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./EU258609.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./AF513979.xml:  <GBSeq_organism>Alkanindiges illinoisensis</GBSeq_organism>
+./AJ278311.xml:  <GBSeq_organism>Acinetobacter schindleri</GBSeq_organism>
+./AM410709.xml:  <GBSeq_organism>Acinetobacter baylyi DSM 14961 = CIP 107474</GBSeq_organism>
+./AF509830.xml:  <GBSeq_organism>Acinetobacter tandoii</GBSeq_organism>

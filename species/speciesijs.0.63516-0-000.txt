@@ -1,0 +1,18 @@
+./AY645904.xml:  <GBSeq_organism>Streptomyces sp. MS-165</GBSeq_organism>
+./AF503491.xml:  <GBSeq_organism>Streptomyces humiferus</GBSeq_organism>
+./AF503496.xml:  <GBSeq_organism>Streptomyces coelescens</GBSeq_organism>
+./AY177662.xml:  <GBSeq_organism>Streptomyces albogriseolus</GBSeq_organism>
+./Y00411.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./AF503498.xml:  <GBSeq_organism>Streptomyces lividans</GBSeq_organism>
+./AY295791.xml:  <GBSeq_organism>Streptomyces chattanoogensis</GBSeq_organism>
+./AJ399478.xml:  <GBSeq_organism>Streptomyces janthinus</GBSeq_organism>
+./AF429397.xml:  <GBSeq_organism>Streptomyces sp. VTT E-99-1333 (B306)</GBSeq_organism>
+./AF503500.xml:  <GBSeq_organism>Streptomyces cyanogenus</GBSeq_organism>
+./AJ399475.xml:  <GBSeq_organism>Streptomyces longisporus</GBSeq_organism>
+./AY295793.xml:  <GBSeq_organism>Streptomyces sp. 40005</GBSeq_organism>
+./AY750056.xml:  <GBSeq_organism>Streptomyces bangladeshensis</GBSeq_organism>
+./AF503494.xml:  <GBSeq_organism>Streptomyces violaceoruber</GBSeq_organism>
+./AF503495.xml:  <GBSeq_organism>Streptomyces caesius</GBSeq_organism>
+./D63873.xml:  <GBSeq_organism>Streptomyces tendae</GBSeq_organism>
+./AJ399480.xml:  <GBSeq_organism>Streptomyces violaceus</GBSeq_organism>
+./AJ399484.xml:  <GBSeq_organism>Streptomyces roseoviolaceus</GBSeq_organism>

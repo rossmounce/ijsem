@@ -1,0 +1,12 @@
+./AY615204.xml:  <GBSeq_organism>Methanobrevibacter sp. 62</GBSeq_organism>
+./AY196669.xml:  <GBSeq_organism>Methanobrevibacter smithii ATCC 35061</GBSeq_organism>
+./AY615205.xml:  <GBSeq_organism>Methanobrevibacter sp. 30Y</GBSeq_organism>
+./U55238.xml:  <GBSeq_organism>Methanobrevibacter gottschalkii</GBSeq_organism>
+./AY196679.xml:  <GBSeq_organism>Methanomicrobium mobile</GBSeq_organism>
+./U55236.xml:  <GBSeq_organism>Methanobrevibacter thaueri</GBSeq_organism>
+./AY615201.xml:  <GBSeq_organism>Methanobrevibacter olleyae</GBSeq_organism>
+./AY615203.xml:  <GBSeq_organism>Methanobrevibacter sp. OCP</GBSeq_organism>
+./AY196666.xml:  <GBSeq_organism>Methanobrevibacter ruminantium M1</GBSeq_organism>
+./AY196673.xml:  <GBSeq_organism>Methanobrevibacter millerae</GBSeq_organism>
+./AY615202.xml:  <GBSeq_organism>Methanobrevibacter sp. AK-87</GBSeq_organism>
+./AJ009958.xml:  <GBSeq_organism>Methanobrevibacter sp.</GBSeq_organism>

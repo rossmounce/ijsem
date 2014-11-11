@@ -1,0 +1,25 @@
+./AF418187.xml:  <GBSeq_organism>Desulfovibrio fructosivorans JJ</GBSeq_organism>
+./U58120.xml:  <GBSeq_organism>Desulfobotulus sapovorans</GBSeq_organism>
+./AF273032.xml:  <GBSeq_organism>Desulfotomaculum putei</GBSeq_organism>
+./U58122.xml:  <GBSeq_organism>Thermodesulfovibrio yellowstonii</GBSeq_organism>
+./AF418197.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>
+./AF418189.xml:  <GBSeq_organism>Desulfonatronum lacustre DSM 10312</GBSeq_organism>
+./AF334593.xml:  <GBSeq_organism>Desulfofaba gelida</GBSeq_organism>
+./AF271768.xml:  <GBSeq_organism>Desulfotomaculum acetoxidans</GBSeq_organism>
+./AJ249777.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./U58126.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AB061537.xml:  <GBSeq_organism>Desulfovibrio cuneatus</GBSeq_organism>
+./AF191907.xml:  <GBSeq_organism>Desulfosarcina variabilis str. Montpellier</GBSeq_organism>
+./AF334594.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./AF334595.xml:  <GBSeq_organism>Desulfomonile tiedjei DSM 6799</GBSeq_organism>
+./AF418190.xml:  <GBSeq_organism>Desulfohalobium retbaense DSM 5692</GBSeq_organism>
+./AF271772.xml:  <GBSeq_organism>Desulfovibrio africanus</GBSeq_organism>
+./AF218452.xml:  <GBSeq_organism>Desulfobulbus propionicus</GBSeq_organism>
+./U58124.xml:  <GBSeq_organism>Desulfobacter latus</GBSeq_organism>
+./AF334600.xml:  <GBSeq_organism>Desulfarculus baarsii DSM 2075</GBSeq_organism>
+./AF271767.xml:  <GBSeq_organism>Desulfosporosinus orientis</GBSeq_organism>
+./AF334591.xml:  <GBSeq_organism>Desulfovirga adipica</GBSeq_organism>
+./AF334598.xml:  <GBSeq_organism>Thermodesulfobacterium thermophilum</GBSeq_organism>
+./AF334597.xml:  <GBSeq_organism>Thermodesulforhabdus norvegica</GBSeq_organism>
+./M95624.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./AF271773.xml:  <GBSeq_organism>unidentified sulfate-reducing bacterium</GBSeq_organism>

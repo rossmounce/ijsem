@@ -1,0 +1,12 @@
+./AJ227808.xml:  <GBSeq_organism>Maricaulis parjimensis</GBSeq_organism>
+./AF082795.xml:  <GBSeq_organism>Hyphomonas rosenbergii</GBSeq_organism>
+./AJ309863.xml:  <GBSeq_organism>Oceanicaulis alexandrii</GBSeq_organism>
+./AJ227813.xml:  <GBSeq_organism>Hyphomonas polymorpha</GBSeq_organism>
+./AJ227804.xml:  <GBSeq_organism>Maricaulis washingtonensis</GBSeq_organism>
+./AF082797.xml:  <GBSeq_organism>Hyphomonas oceanitis</GBSeq_organism>
+./AF082794.xml:  <GBSeq_organism>Hyphomonas hirschiana</GBSeq_organism>
+./AJ227806.xml:  <GBSeq_organism>Maricaulis salignorans</GBSeq_organism>
+./AF082790.xml:  <GBSeq_organism>Hyphomonas adhaerens</GBSeq_organism>
+./AF082791.xml:  <GBSeq_organism>Hyphomonas johnsonii</GBSeq_organism>
+./FM202386.xml:  <GBSeq_organism>Hirschia maritima DSM 19733</GBSeq_organism>
+./EF495229.xml:  <GBSeq_organism>Robiginitomaculum antarcticum</GBSeq_organism>

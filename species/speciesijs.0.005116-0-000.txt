@@ -1,0 +1,5 @@
+./AY271626.xml:  <GBSeq_organism>Maribacter ulvicola</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./AF493688.xml:  <GBSeq_organism>Nonlabens xylanidelens</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./DQ064789.xml:  <GBSeq_organism>Nonlabens spongiae</GBSeq_organism>

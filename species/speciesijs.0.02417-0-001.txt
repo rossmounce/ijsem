@@ -1,0 +1,14 @@
+./X95972.xml:  <GBSeq_organism>Desulfitobacterium sp.</GBSeq_organism>
+./X82931.xml:  <GBSeq_organism>Sulfurospirillum multivorans DSM 12446</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./U85964.xml:  <GBSeq_organism>Sulfurospirillum arsenophilum</GBSeq_organism>
+./Y11561.xml:  <GBSeq_organism>Sulfurospirillum arcachonense</GBSeq_organism>
+./AF004928.xml:  <GBSeq_organism>Dehalococcoides mccartyi</GBSeq_organism>
+./AF038843.xml:  <GBSeq_organism>Sulfurospirillum barnesii SES-3</GBSeq_organism>
+./U84497.xml:  <GBSeq_organism>Dehalobacter restrictus DSM 9455</GBSeq_organism>
+./M26636.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./U49748.xml:  <GBSeq_organism>Desulfuromonas chloroethenica</GBSeq_organism>
+./M26635.xml:  <GBSeq_organism>Desulfomonile tiedjei</GBSeq_organism>
+./D83536.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./X81032.xml:  <GBSeq_organism>Desulfitobacterium sp.</GBSeq_organism>
+./AF218076.xml:  <GBSeq_organism>Sulfurospirillum halorespirans DSM 13726</GBSeq_organism>

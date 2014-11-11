@@ -1,0 +1,18 @@
+./AB249921.xml:  <GBSeq_organism>Streptomyces spiroverticillatus</GBSeq_organism>
+./X89947.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./AB249953.xml:  <GBSeq_organism>Streptomyces albidochromogenes</GBSeq_organism>
+./AB184876.xml:  <GBSeq_organism>Streptomyces chryseus</GBSeq_organism>
+./AB184308.xml:  <GBSeq_organism>Streptomyces venezuelae</GBSeq_organism>
+./AB184346.xml:  <GBSeq_organism>Streptomyces zaomyceticus</GBSeq_organism>
+./AB184271.xml:  <GBSeq_organism>Streptomyces flavogriseus</GBSeq_organism>
+./AB184270.xml:  <GBSeq_organism>Streptomyces flavidovirens</GBSeq_organism>
+./EU196762.xml:  <GBSeq_organism>Streptomyces hypolithicus</GBSeq_organism>
+./AB184603.xml:  <GBSeq_organism>Streptomyces parvus</GBSeq_organism>
+./AB184284.xml:  <GBSeq_organism>Streptomyces microflavus</GBSeq_organism>
+./M55220.xml:  <GBSeq_organism>Kitasatospora setae</GBSeq_organism>
+./AB184642.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AB184699.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AB184367.xml:  <GBSeq_organism>Streptomyces helvaticus</GBSeq_organism>
+./AB184293.xml:  <GBSeq_organism>Streptomyces praecox</GBSeq_organism>
+./AB184324.xml:  <GBSeq_organism>Streptomyces exfoliatus</GBSeq_organism>
+./AB184269.xml:  <GBSeq_organism>Streptomyces fimicarius</GBSeq_organism>

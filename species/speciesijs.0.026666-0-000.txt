@@ -1,0 +1,21 @@
+./AJ514916.xml:  <GBSeq_organism>Vibrio fortis</GBSeq_organism>
+./AY426980.xml:  <GBSeq_organism>Vibrio ezurae</GBSeq_organism>
+./X74701.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./X76335.xml:  <GBSeq_organism>Vibrio fluvialis</GBSeq_organism>
+./AJ316181.xml:  <GBSeq_organism>Vibrio xuii</GBSeq_organism>
+./X74704.xml:  <GBSeq_organism>Vibrio furnissii</GBSeq_organism>
+./EF488079.xml:  <GBSeq_organism>Vibrio porteresiae DSM 19223</GBSeq_organism>
+./AJ491290.xml:  <GBSeq_organism>Vibrio pomeroyi</GBSeq_organism>
+./AF388386.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./U46579.xml:  <GBSeq_organism>Vibrio scophthalmi LMG 19158</GBSeq_organism>
+./AJ316172.xml:  <GBSeq_organism>Vibrio brasiliensis LMG 20546</GBSeq_organism>
+./AJ316208.xml:  <GBSeq_organism>Enterovibrio norvegicus</GBSeq_organism>
+./X74692.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./AJ316187.xml:  <GBSeq_organism>Vibrio rotiferianus CAIM 577 = LMG 21460</GBSeq_organism>
+./AJ412444.xml:  <GBSeq_organism>Helianthus annuus</GBSeq_organism>
+./AY257972.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./X76333.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./X74713.xml:  <GBSeq_organism>Vibrio mimicus</GBSeq_organism>
+./X74723.xml:  <GBSeq_organism>Vibrio proteolyticus</GBSeq_organism>

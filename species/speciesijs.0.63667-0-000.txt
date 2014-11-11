@@ -1,0 +1,23 @@
+./Z78203.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>
+./AY341343.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./L39882.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>
+./AJ420774.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./AF364067.xml:  <GBSeq_organism>Sinorhizobium kummerowiae</GBSeq_organism>
+./D11343.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AY034027.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./X67231.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AF364069.xml:  <GBSeq_organism>Rhizobium loessense</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./D12790.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./U71078.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>

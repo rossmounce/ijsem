@@ -1,0 +1,20 @@
+./X65689.xml:  <GBSeq_organism>Chlorella sorokiniana</GBSeq_organism>
+./AF538865.xml:  <GBSeq_organism>Helicosporidium sp. ex Cyrtobagous salviniae</GBSeq_organism>
+./X65688.xml:  <GBSeq_organism>Auxenochlorella protothecoides</GBSeq_organism>
+./AF394204.xml:  <GBSeq_organism>Chlamydomonas applanata</GBSeq_organism>
+./J01395.xml:  <GBSeq_organism>Chlamydomonas reinhardtii</GBSeq_organism>
+./AF394208.xml:  <GBSeq_organism>Polytoma uvella</GBSeq_organism>
+./AF374187.xml:  <GBSeq_organism>Polytoma obtusum</GBSeq_organism>
+./X16579.xml:  <GBSeq_organism>Chlorella vulgaris</GBSeq_organism>
+./AF394203.xml:  <GBSeq_organism>Polytoma mirum</GBSeq_organism>
+./X76084.xml:  <GBSeq_organism>Picochlorum eukaryotum</GBSeq_organism>
+./X74754.xml:  <GBSeq_organism>Nephroselmis olivacea</GBSeq_organism>
+./X74006.xml:  <GBSeq_organism>Prototheca zopfii</GBSeq_organism>
+./AF538864.xml:  <GBSeq_organism>Helicosporidium sp. ex Simulium jonesi</GBSeq_organism>
+./X65099.xml:  <GBSeq_organism>Parachlorella kessleri</GBSeq_organism>
+./AF394206.xml:  <GBSeq_organism>Acutodesmus obliquus</GBSeq_organism>
+./X15850.xml:  <GBSeq_organism>Chlamydomonas moewusii</GBSeq_organism>
+./X65100.xml:  <GBSeq_organism>&apos;Chlorella&apos; mirabilis</GBSeq_organism>
+./X12742.xml:  <GBSeq_organism>Pseudochlorella pringsheimii</GBSeq_organism>
+./AF394207.xml:  <GBSeq_organism>Polytoma oviforme</GBSeq_organism>
+./X74309.xml:  <GBSeq_organism>Prototheca wickerhamii</GBSeq_organism>

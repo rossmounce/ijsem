@@ -1,0 +1,11 @@
+./AY268937.xml:  <GBSeq_organism>Thermovibrio guaymasensis</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AY263403.xml:  <GBSeq_organism>Thermovibrio ammonificans HB-1</GBSeq_organism>
+./AF528192.xml:  <GBSeq_organism>Sulfurihydrogenibium azorense Az-Fu1</GBSeq_organism>
+./AJ316619.xml:  <GBSeq_organism>Thermovibrio ruber</GBSeq_organism>
+./AJ001049.xml:  <GBSeq_organism>Desulfurobacterium thermolithotrophum DSM 11699</GBSeq_organism>
+./AY268936.xml:  <GBSeq_organism>Desulfurobacterium pacificum</GBSeq_organism>
+./AF188332.xml:  <GBSeq_organism>Persephonella marina EX-H1</GBSeq_organism>
+./AJ507320.xml:  <GBSeq_organism>Desulfurobacterium crinifex</GBSeq_organism>
+./AJ292525.xml:  <GBSeq_organism>Hydrogenothermus marinus</GBSeq_organism>
+./AY268939.xml:  <GBSeq_organism>Desulfurobacterium atlanticum</GBSeq_organism>

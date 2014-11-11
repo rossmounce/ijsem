@@ -1,0 +1,12 @@
+./AB111901.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AB163828.xml:  <GBSeq_organism>Gluconobacter albidus</GBSeq_organism>
+./AB208550.xml:  <GBSeq_organism>Neoasaia chiangmaiensis</GBSeq_organism>
+./AJ007834.xml:  <GBSeq_organism>Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471</GBSeq_organism>
+./X85405.xml:  <GBSeq_organism>Komagataeibacter xylinus</GBSeq_organism>
+./X85406.xml:  <GBSeq_organism>Gluconacetobacter europaeus LMG 18890</GBSeq_organism>
+./AB111902.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AB111899.xml:  <GBSeq_organism>Gluconobacter cerinus</GBSeq_organism>
+./AB163849.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./AB208551.xml:  <GBSeq_organism>Asaia bogorensis</GBSeq_organism>
+./AJ007833.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./DQ340304.xml:  <GBSeq_organism>Granulibacter bethesdensis CGDNIH1</GBSeq_organism>

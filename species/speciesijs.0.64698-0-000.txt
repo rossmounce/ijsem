@@ -1,0 +1,17 @@
+./U76348.xml:  <GBSeq_organism>Pichia occidentalis</GBSeq_organism>
+./AY163900.xml:  <GBSeq_organism>Issatchenkia hanoiensis</GBSeq_organism>
+./U75734.xml:  <GBSeq_organism>Pichia deserticola</GBSeq_organism>
+./U75738.xml:  <GBSeq_organism>Pichia galeiformis</GBSeq_organism>
+./U71069.xml:  <GBSeq_organism>Candida rugopelliculosa</GBSeq_organism>
+./AB264009.xml:  <GBSeq_organism>Candida thaimueangensis</GBSeq_organism>
+./U76347.xml:  <GBSeq_organism>Pichia kudriavzevii</GBSeq_organism>
+./U71073.xml:  <GBSeq_organism>Candida ethanolica</GBSeq_organism>
+./U76345.xml:  <GBSeq_organism>Issatchenkia terricola</GBSeq_organism>
+./DQ104714.xml:  <GBSeq_organism>Pichia sp. CBS 209</GBSeq_organism>
+./U71063.xml:  <GBSeq_organism>Candida pseudolambica</GBSeq_organism>
+./U75725.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./U75726.xml:  <GBSeq_organism>Pichia fermentans</GBSeq_organism>
+./U76349.xml:  <GBSeq_organism>Issatchenkia scutulata var. exigua</GBSeq_organism>
+./DQ104729.xml:  <GBSeq_organism>Candida sp. CBS 989</GBSeq_organism>
+./AJ508586.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./U44806.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>

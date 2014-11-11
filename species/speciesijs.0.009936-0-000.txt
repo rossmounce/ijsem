@@ -1,0 +1,9 @@
+./AJ297722.xml:  <GBSeq_organism>Kytococcus schroeteri</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./AY894329.xml:  <GBSeq_organism>Dermacoccus profundi</GBSeq_organism>
+./AB468971.xml:  <GBSeq_organism>Luteipulveratus mongoliensis</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ243918.xml:  <GBSeq_organism>Dermatophilus congolensis DSM 44180 = NBRC 105199</GBSeq_organism>
+./AY894323.xml:  <GBSeq_organism>Dermacoccus abyssi</GBSeq_organism>
+./AY894328.xml:  <GBSeq_organism>Dermacoccus barathri</GBSeq_organism>

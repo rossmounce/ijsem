@@ -1,0 +1,29 @@
+./X80611.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AM422449.xml:  <GBSeq_organism>Nocardia speluncae</GBSeq_organism>
+./DQ235272.xml:  <GBSeq_organism>Nocardia gamkensis</GBSeq_organism>
+./AF430050.xml:  <GBSeq_organism>Nocardia salmonicida</GBSeq_organism>
+./AF430030.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AF430052.xml:  <GBSeq_organism>Nocardia cummidelens</GBSeq_organism>
+./AM402972.xml:  <GBSeq_organism>Nocardia acidivorans</GBSeq_organism>
+./DQ659898.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AF430027.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./AB108776.xml:  <GBSeq_organism>Nocardia shimofusensis</GBSeq_organism>
+./AF430038.xml:  <GBSeq_organism>Nocardia brasiliensis</GBSeq_organism>
+./AF430042.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AY779043.xml:  <GBSeq_organism>Nocardia lijiangensis</GBSeq_organism>
+./AB108781.xml:  <GBSeq_organism>Nocardia arthritidis</GBSeq_organism>
+./AB126874.xml:  <GBSeq_organism>Nocardia thailandica</GBSeq_organism>
+./AY222321.xml:  <GBSeq_organism>Nocardia alba</GBSeq_organism>
+./AF430051.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AF430047.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AF430041.xml:  <GBSeq_organism>Nocardia paucivorans</GBSeq_organism>
+./AB108778.xml:  <GBSeq_organism>Nocardia higoensis NBRC 100133</GBSeq_organism>
+./AJ556157.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./AY333115.xml:  <GBSeq_organism>Nocardia xishanensis</GBSeq_organism>
+./AF430053.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./AF430035.xml:  <GBSeq_organism>Nocardia carnea NBRC 14403</GBSeq_organism>
+./AB108779.xml:  <GBSeq_organism>Nocardia araoensis NBRC 100135</GBSeq_organism>
+./AB162629.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AY626158.xml:  <GBSeq_organism>Nocardia polyresistens</GBSeq_organism>
+./AB158277.xml:  <GBSeq_organism>Nocardia takedensis</GBSeq_organism>

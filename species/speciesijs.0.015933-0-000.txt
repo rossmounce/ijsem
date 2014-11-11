@@ -1,0 +1,8 @@
+./AB477980.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./AB477986.xml:  <GBSeq_organism>Haladaptatus paucihalophilus DX253</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./EU887285.xml:  <GBSeq_organism>Haladaptatus litoreus</GBSeq_organism>
+./AB477975.xml:  <GBSeq_organism>Haloplanus natans</GBSeq_organism>
+./FJ773394.xml:  <GBSeq_organism>Haladaptatus litoreus</GBSeq_organism>

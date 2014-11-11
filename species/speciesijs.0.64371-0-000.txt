@@ -1,0 +1,12 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./AJ549285.xml:  <GBSeq_organism>Hymenobacter norwichensis</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./AJ276901.xml:  <GBSeq_organism>Hymenobacter aerophilus</GBSeq_organism>
+./AJ549284.xml:  <GBSeq_organism>Hymenobacter sp. NS/2</GBSeq_organism>
+./Y18836.xml:  <GBSeq_organism>Hymenobacter gelipurpurascens</GBSeq_organism>
+./Y18837.xml:  <GBSeq_organism>Hymenobacter chitinivorans</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./Y18835.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./Y17356.xml:  <GBSeq_organism>Hymenobacter actinosclerus</GBSeq_organism>

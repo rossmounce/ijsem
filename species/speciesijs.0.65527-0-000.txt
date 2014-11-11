@@ -1,0 +1,22 @@
+./AB002482.xml:  <GBSeq_organism>Streptococcus equinus ATCC 33317</GBSeq_organism>
+./EF694029.xml:  <GBSeq_organism>Lactococcus plantarum</GBSeq_organism>
+./EF694031.xml:  <GBSeq_organism>Lactococcus lactis subsp. hordniae</GBSeq_organism>
+./AJ420198.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AF104671.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>
+./AF003929.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./X53905.xml:  <GBSeq_organism>Lactococcus piscium</GBSeq_organism>
+./AB002515.xml:  <GBSeq_organism>Streptococcus equi</GBSeq_organism>
+./AB100802.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>
+./X54258.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./AB100803.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>
+./AF201899.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./EF694028.xml:  <GBSeq_organism>Lactococcus chungangensis</GBSeq_organism>
+./AB002521.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AF104678.xml:  <GBSeq_organism>Streptococcus anginosus SK52 = DSM 20563</GBSeq_organism>
+./EF694030.xml:  <GBSeq_organism>Lactococcus raffinolactis</GBSeq_organism>
+./AY188348.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./AF003928.xml:  <GBSeq_organism>Streptococcus sanguinis SK1</GBSeq_organism>
+./DQ411814.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AB026843.xml:  <GBSeq_organism>Lactococcus garvieae ATCC 49156</GBSeq_organism>
+./AF104114.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus ATCC 43143</GBSeq_organism>

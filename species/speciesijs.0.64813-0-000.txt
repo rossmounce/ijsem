@@ -1,0 +1,6 @@
+./AY639902.xml:  <GBSeq_organism>Nocardia jiangxiensis</GBSeq_organism>
+./AB126880.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>
+./AM402972.xml:  <GBSeq_organism>Nocardia acidivorans</GBSeq_organism>
+./M59056.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./X81922.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./AY639901.xml:  <GBSeq_organism>Nocardia miyunensis</GBSeq_organism>

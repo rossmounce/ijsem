@@ -1,0 +1,26 @@
+./HQ259464.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6374</GBSeq_organism>
+./HO259462.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259458.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6164</GBSeq_organism>
+./HQ259461.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6440</GBSeq_organism>
+./HQ259468.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6152</GBSeq_organism>
+./HQ259477.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AJ430709.xml:  <GBSeq_organism>Bradyrhizobium sp. USDA 3505</GBSeq_organism>
+./HQ259475.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6146</GBSeq_organism>
+./HO259455.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259460.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6163</GBSeq_organism>
+./HQ259457.xml:  <GBSeq_organism>Bradyrhizobium yuanmingense</GBSeq_organism>
+./HQ259467.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 695</GBSeq_organism>
+./HQ259488.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259471.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AM236084.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae 3841</GBSeq_organism>
+./HQ259484.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./AJ430710.xml:  <GBSeq_organism>Bradyrhizobium sp. USDA 3475</GBSeq_organism>
+./AM117561.xml:  <GBSeq_organism>Bradyrhizobium sp. CH2355</GBSeq_organism>
+./AJ300253.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AM117556.xml:  <GBSeq_organism>Bradyrhizobium sp. CH2509</GBSeq_organism>
+./AM117551.xml:  <GBSeq_organism>Bradyrhizobium sp. ICED</GBSeq_organism>
+./HQ259486.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6160</GBSeq_organism>
+./HQ259474.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6077</GBSeq_organism>
+./HQ259485.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6093</GBSeq_organism>
+./HQ259473.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6028</GBSeq_organism>
+./AM117529.xml:  <GBSeq_organism>Bradyrhizobium sp. CH2443</GBSeq_organism>

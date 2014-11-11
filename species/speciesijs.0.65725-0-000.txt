@@ -1,0 +1,11 @@
+./AJ300834.xml:  <GBSeq_organism>Shewanella livingstonensis</GBSeq_organism>
+./EU143361.xml:  <GBSeq_organism>Shewanella basaltis</GBSeq_organism>
+./AF214730.xml:  <GBSeq_organism>Pseudoalteromonas tetraodonis</GBSeq_organism>
+./U85906.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AF005251.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AY190533.xml:  <GBSeq_organism>Shewanella gaetbuli</GBSeq_organism>
+./AJ311964.xml:  <GBSeq_organism>Shewanella denitrificans OS217</GBSeq_organism>
+./AJ609571.xml:  <GBSeq_organism>Shewanella decolorationis S12</GBSeq_organism>
+./AJ000214.xml:  <GBSeq_organism>Shewanella baltica</GBSeq_organism>
+./AY445591.xml:  <GBSeq_organism>Shewanella profunda</GBSeq_organism>

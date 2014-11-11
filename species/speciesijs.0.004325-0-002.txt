@@ -1,0 +1,10 @@
+./AJ506311.xml:  <GBSeq_organism>Arabidopsis thaliana</GBSeq_organism>
+./AM992961.xml:  <GBSeq_organism>Debaryomyces hansenii var. hansenii</GBSeq_organism>
+./FM165416.xml:  <GBSeq_organism>Debaryomyces nepalensis</GBSeq_organism>
+./AJ867051.xml:  <GBSeq_organism>Debaryomyces coudertii</GBSeq_organism>
+./AJ604533.xml:  <GBSeq_organism>Schwanniomyces pseudopolymorphus</GBSeq_organism>
+./AJ508464.xml:  <GBSeq_organism>Debaryomyces fabryi</GBSeq_organism>
+./AJ604534.xml:  <GBSeq_organism>Schwanniomyces vanrijiae var. vanrijiae</GBSeq_organism>
+./AJ867054.xml:  <GBSeq_organism>Debaryomyces nepalensis</GBSeq_organism>
+./AJ508504.xml:  <GBSeq_organism>Debaryomyces fabryi</GBSeq_organism>
+./FM165417.xml:  <GBSeq_organism>Debaryomyces sp. CBS 5572</GBSeq_organism>

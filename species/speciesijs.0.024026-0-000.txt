@@ -1,0 +1,4 @@
+./AB510712.xml:  <GBSeq_organism>Bacteroides vulgatus</GBSeq_organism>
+./AB531490.xml:  <GBSeq_organism>Bacteroides chinchillae</GBSeq_organism>
+./AB510700.xml:  <GBSeq_organism>Bacteroides eggerthii</GBSeq_organism>
+./AB531489.xml:  <GBSeq_organism>Bacteroides rodentium</GBSeq_organism>

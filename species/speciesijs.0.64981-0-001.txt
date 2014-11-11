@@ -1,0 +1,15 @@
+./DQ288691.xml:  <GBSeq_organism>Syntrophomonas cellicola</GBSeq_organism>
+./AY536889.xml:  <GBSeq_organism>Syntrophomonas erecta</GBSeq_organism>
+./M26492.xml:  <GBSeq_organism>Syntrophomonas wolfei</GBSeq_organism>
+./DQ086234.xml:  <GBSeq_organism>Syntrophomonas erecta subsp. sporosyntropha</GBSeq_organism>
+./X99980.xml:  <GBSeq_organism>Thermosyntropha lipolytica</GBSeq_organism>
+./DQ666175.xml:  <GBSeq_organism>Syntrophomonas wolfei subsp. saponavida</GBSeq_organism>
+./M26491.xml:  <GBSeq_organism>Syntrophomonas bryantii</GBSeq_organism>
+./M59092.xml:  <GBSeq_organism>Clostridium kluyveri</GBSeq_organism>
+./AY290767.xml:  <GBSeq_organism>Syntrophomonas curvata</GBSeq_organism>
+./AF022249.xml:  <GBSeq_organism>Syntrophomonas sapovorans</GBSeq_organism>
+./X81021.xml:  <GBSeq_organism>Clostridium beijerinckii NCIMB 8052</GBSeq_organism>
+./AJ251214.xml:  <GBSeq_organism>Pelospora glutarica</GBSeq_organism>
+./AB021305.xml:  <GBSeq_organism>Syntrophothermus lipocalidus DSM 12680</GBSeq_organism>
+./DQ449033.xml:  <GBSeq_organism>Syntrophomonas wolfei subsp. methylbutyratica</GBSeq_organism>
+./DQ898277.xml:  <GBSeq_organism>Syntrophomonas zehnderi OL-4</GBSeq_organism>

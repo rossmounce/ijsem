@@ -1,0 +1,11 @@
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./AB260930.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AB265192.xml:  <GBSeq_organism>Rapidithrix thailandica</GBSeq_organism>
+./AB260929.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AB247553.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./AB572583.xml:  <GBSeq_organism>Aureibacter tunicatorum</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AB260933.xml:  <GBSeq_organism>Persicobacter psychrovividus</GBSeq_organism>
+./AB359907.xml:  <GBSeq_organism>Limibacter armeniacum</GBSeq_organism>
+./AB572584.xml:  <GBSeq_organism>Aureibacter tunicatorum</GBSeq_organism>

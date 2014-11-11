@@ -1,0 +1,9 @@
+./Y14644.xml:  <GBSeq_organism>Nitrospira sp.</GBSeq_organism>
+./AF033558.xml:  <GBSeq_organism>uncultured bacterium A-11</GBSeq_organism>
+./AB015550.xml:  <GBSeq_organism>uncultured Cytophaga sp.</GBSeq_organism>
+./EU084880.xml:  <GBSeq_organism>uncultured Nitrospira sp.</GBSeq_organism>
+./EU084879.xml:  <GBSeq_organism>Candidatus Nitrospira bockiana</GBSeq_organism>
+./AJ224039.xml:  <GBSeq_organism>Nitrospira sp.</GBSeq_organism>
+./X82559.xml:  <GBSeq_organism>Nitrospira marina Nb-295</GBSeq_organism>
+./X82558.xml:  <GBSeq_organism>Nitrospira moscoviensis</GBSeq_organism>
+./AJ224042.xml:  <GBSeq_organism>Nitrospira sp.</GBSeq_organism>

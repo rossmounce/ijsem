@@ -1,0 +1,9 @@
+./AY596217.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./EF204595.xml:  <GBSeq_organism>Helicobacter suis HS1</GBSeq_organism>
+./AE001553.xml:  <GBSeq_organism>Helicobacter pylori J99</GBSeq_organism>
+./AY596216.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AE000641.xml:  <GBSeq_organism>Helicobacter pylori 26695</GBSeq_organism>
+./AY596215.xml:  <GBSeq_organism>Helicobacter bizzozeronii CCUG 35545</GBSeq_organism>
+./EF204596.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./AY596219.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AY596218.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>

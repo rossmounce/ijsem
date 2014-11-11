@@ -1,0 +1,15 @@
+./AJ575265.xml:  <GBSeq_organism>Algoriphagus chordae</GBSeq_organism>
+./AY835922.xml:  <GBSeq_organism>Algoriphagus locisalis</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AY533665.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./AY699794.xml:  <GBSeq_organism>Algoriphagus yeomjeoni</GBSeq_organism>
+./AY533663.xml:  <GBSeq_organism>Algoriphagus marincola</GBSeq_organism>
+./AJ575264.xml:  <GBSeq_organism>Algoriphagus aquimarinus</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AY264840.xml:  <GBSeq_organism>Algoriphagus ornithinivorans</GBSeq_organism>
+./AJ575263.xml:  <GBSeq_organism>Algoriphagus winogradskyi</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AJ577141.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AY264839.xml:  <GBSeq_organism>Algoriphagus halophilus</GBSeq_organism>
+./AY835923.xml:  <GBSeq_organism>Algoriphagus locisalis</GBSeq_organism>

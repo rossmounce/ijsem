@@ -1,0 +1,12 @@
+./AJ871428.xml:  <GBSeq_organism>Belnapia moabensis</GBSeq_organism>
+./AJ488505.xml:  <GBSeq_organism>Roseomonas rosea</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./AF465832.xml:  <GBSeq_organism>Rubritepida flocculans</GBSeq_organism>
+./D30773.xml:  <GBSeq_organism>Acidiphilium cryptum</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AF538712.xml:  <GBSeq_organism>Roseomonas mucosa</GBSeq_organism>
+./AJ488504.xml:  <GBSeq_organism>Roseomonas ludipueritiae</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

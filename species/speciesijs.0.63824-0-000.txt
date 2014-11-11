@@ -1,0 +1,10 @@
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./U85889.xml:  <GBSeq_organism>Flavobacterium gillisiae</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./AY753911.xml:  <GBSeq_organism>Gramella marina</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AF513434.xml:  <GBSeq_organism>Psychroflexus tropicus</GBSeq_organism>

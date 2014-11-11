@@ -1,0 +1,12 @@
+./GU799678.xml:  <GBSeq_organism>Lactococcus piscium</GBSeq_organism>
+./HM991211.xml:  <GBSeq_organism>Lactococcus lactis subsp. hordniae</GBSeq_organism>
+./GU799683.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./GU799676.xml:  <GBSeq_organism>Lactococcus lactis subsp. hordniae</GBSeq_organism>
+./GU799680.xml:  <GBSeq_organism>Lactococcus raffinolactis</GBSeq_organism>
+./GU799679.xml:  <GBSeq_organism>Lactococcus plantarum</GBSeq_organism>
+./GU799681.xml:  <GBSeq_organism>Lactococcus lactis subsp. tructae</GBSeq_organism>
+./GU799674.xml:  <GBSeq_organism>Lactococcus garvieae</GBSeq_organism>
+./GU799677.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>
+./HM991213.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>
+./GU799675.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>
+./GU799682.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>

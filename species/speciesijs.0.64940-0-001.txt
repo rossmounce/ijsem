@@ -1,0 +1,41 @@
+./AY999730.xml:  <GBSeq_organism>Streptomyces mirabilis</GBSeq_organism>
+./AB184183.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./AJ781371.xml:  <GBSeq_organism>Streptomyces variegatus</GBSeq_organism>
+./AJ621602.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./AF503501.xml:  <GBSeq_organism>Streptomyces rubrogriseus</GBSeq_organism>
+./AY079156.xml:  <GBSeq_organism>Streptomyces koyangensis</GBSeq_organism>
+./Z68096.xml:  <GBSeq_organism>Streptomyces thermoviolaceus</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./AF441168.xml:  <GBSeq_organism>Streptomyces mexicanus</GBSeq_organism>
+./Z68101.xml:  <GBSeq_organism>Streptomyces thermodiastaticus</GBSeq_organism>
+./Z76678.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./Z76688.xml:  <GBSeq_organism>Streptomyces rutgersensis</GBSeq_organism>
+./AY314782.xml:  <GBSeq_organism>Streptomyces glauciniger</GBSeq_organism>
+./D63865.xml:  <GBSeq_organism>Streptomyces acidiscabies</GBSeq_organism>
+./AB184643.xml:  <GBSeq_organism>Streptomyces champavatii</GBSeq_organism>
+./AF452714.xml:  <GBSeq_organism>Streptomyces speibonae</GBSeq_organism>
+./AB249933.xml:  <GBSeq_organism>Streptomyces sporocinereus</GBSeq_organism>
+./X79852.xml:  <GBSeq_organism>Streptomyces galbus</GBSeq_organism>
+./AB184487.xml:  <GBSeq_organism>Streptomyces ribosidificus</GBSeq_organism>
+./AJ399463.xml:  <GBSeq_organism>Streptomyces fumanus</GBSeq_organism>
+./DQ442502.xml:  <GBSeq_organism>Streptomyces glaucescens</GBSeq_organism>
+./X80824.xml:  <GBSeq_organism>Streptomyces caelestis</GBSeq_organism>
+./AY822606.xml:  <GBSeq_organism>Streptomyces cheonanensis</GBSeq_organism>
+./DQ442494.xml:  <GBSeq_organism>Streptomyces carpaticus</GBSeq_organism>
+./AB184380.xml:  <GBSeq_organism>Streptomyces coriofaciens</GBSeq_organism>
+./AB184699.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>
+./AJ399475.xml:  <GBSeq_organism>Streptomyces longisporus</GBSeq_organism>
+./Z68099.xml:  <GBSeq_organism>Streptomyces macrosporus</GBSeq_organism>
+./AJ399473.xml:  <GBSeq_organism>Streptomyces coeruleofuscus</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./DQ460471.xml:  <GBSeq_organism>Streptomyces sp. D44</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AB045870.xml:  <GBSeq_organism>Streptomyces cattleya NRRL 8057 = DSM 46488</GBSeq_organism>
+./AB184878.xml:  <GBSeq_organism>Streptomyces morookaense</GBSeq_organism>
+./U94489.xml:  <GBSeq_organism>Streptomyces thermocarboxydovorans</GBSeq_organism>
+./DQ334783.xml:  <GBSeq_organism>Streptomyces indonesiensis</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>
+./Z76679.xml:  <GBSeq_organism>Streptomyces limosus</GBSeq_organism>
+./AJ007403.xml:  <GBSeq_organism>Streptomyces somaliensis DSM 40738</GBSeq_organism>
+./AM398645.xml:  <GBSeq_organism>Streptomyces hainanensis</GBSeq_organism>

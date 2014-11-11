@@ -1,0 +1,6 @@
+./EF591302.xml:  <GBSeq_organism>Chryseobacterium soli</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./EU999735.xml:  <GBSeq_organism>Chryseobacterium piperi</GBSeq_organism>
+./AY468448.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>

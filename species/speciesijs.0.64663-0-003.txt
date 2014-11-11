@@ -1,0 +1,13 @@
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./AF244133.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./AF035054.xml:  <GBSeq_organism>Aquabacterium commune</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AF176594.xml:  <GBSeq_organism>Methylibium petroleiphilum PM1</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./X97070.xml:  <GBSeq_organism>Leptothrix cholodnii</GBSeq_organism>
+./AF078769.xml:  <GBSeq_organism>Hydrogenophaga palleronii</GBSeq_organism>
+./AF035050.xml:  <GBSeq_organism>Aquabacterium citratiphilum</GBSeq_organism>

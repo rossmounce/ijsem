@@ -1,0 +1,9 @@
+./D32224.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AM283543.xml:  <GBSeq_organism>Methylocystis heyeri</GBSeq_organism>
+./FM252035.xml:  <GBSeq_organism>Methylovirgula ligni</GBSeq_organism>
+./Y14303.xml:  <GBSeq_organism>Hyphomicrobium hollandicum</GBSeq_organism>
+./AF220763.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./U59506.xml:  <GBSeq_organism>Hyphomicrobium zavarzinii</GBSeq_organism>
+./AJ563933.xml:  <GBSeq_organism>Beijerinckia derxii subsp. derxii</GBSeq_organism>
+./FM252034.xml:  <GBSeq_organism>Methylovirgula ligni</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AY170119.xml:  <GBSeq_organism>Meganema perideroedes</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ247194.xml:  <GBSeq_organism>Asticcacaulis excentricus CB 48</GBSeq_organism>
+./L41530.xml:  <GBSeq_organism>Bradyrhizobium sp.</GBSeq_organism>
+./AF180468.xml:  <GBSeq_organism>Meganema perideroedes</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./Y16929.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./Y14313.xml:  <GBSeq_organism>Filomicrobium fusiforme</GBSeq_organism>
+./AJ227780.xml:  <GBSeq_organism>Brevundimonas vesicularis</GBSeq_organism>
+./AY324110.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AJ009957.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AJ243447.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./L42615.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./L04942.xml:  <GBSeq_organism>Halomonas halodenitrificans</GBSeq_organism>
+./X93493.xml:  <GBSeq_organism>Halomonas pantelleriensis</GBSeq_organism>
+./AY489405.xml:  <GBSeq_organism>Halomonas anticariensis FP35 = DSM 16096</GBSeq_organism>
+./AJ616910.xml:  <GBSeq_organism>Halomonas organivorans</GBSeq_organism>
+./AJ306889.xml:  <GBSeq_organism>Halomonas halmophila</GBSeq_organism>
+./AY268080.xml:  <GBSeq_organism>Halomonas ventosae</GBSeq_organism>
+./AJ320530.xml:  <GBSeq_organism>Halomonas muralis</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./X92417.xml:  <GBSeq_organism>Halomonas desiderata</GBSeq_organism>
+./M93353.xml:  <GBSeq_organism>Halomonas halophila</GBSeq_organism>
+./AY858696.xml:  <GBSeq_organism>Halomonas almeriensis</GBSeq_organism>
+./AJ271864.xml:  <GBSeq_organism>Halomonas maura</GBSeq_organism>
+./L42616.xml:  <GBSeq_organism>Halomonas pacifica</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AF054286.xml:  <GBSeq_organism>Halomonas campisalis</GBSeq_organism>
+./AF211860.xml:  <GBSeq_organism>Halomonas alimentaria</GBSeq_organism>

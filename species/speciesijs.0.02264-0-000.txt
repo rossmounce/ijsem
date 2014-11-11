@@ -1,0 +1,16 @@
+./AJ315351.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./L39882.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>
+./AJ420774.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ420775.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./D12796.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./AF191739.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ420773.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ420776.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AJ298869.xml:  <GBSeq_organism>Sinorhizobium sp. M3A</GBSeq_organism>
+./X67231.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AY024335.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./Z78204.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>

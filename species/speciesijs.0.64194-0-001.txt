@@ -1,0 +1,14 @@
+./X52932.xml:  <GBSeq_organism>Mycobacterium flavescens</GBSeq_organism>
+./DQ058407.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./X52924.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./AJ536037.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./X52923.xml:  <GBSeq_organism>Mycobacterium gordonae</GBSeq_organism>
+./AY005147.xml:  <GBSeq_organism>Mycobacterium shottsii</GBSeq_organism>
+./AJ536033.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./DQ058406.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>
+./X52919.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./AY457071.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./DQ157760.xml:  <GBSeq_organism>Mycobacterium arupense</GBSeq_organism>
+./AY457083.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./X93032.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>

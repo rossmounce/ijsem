@@ -1,0 +1,12 @@
+./U40100.xml:  <GBSeq_organism>Dipodascus australiensis</GBSeq_organism>
+./U84233.xml:  <GBSeq_organism>Galactomyces citri-aurantii</GBSeq_organism>
+./U40085.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./U40129.xml:  <GBSeq_organism>Endomyces decipiens</GBSeq_organism>
+./AY158042.xml:  <GBSeq_organism>Geotrichum silvicola</GBSeq_organism>
+./EU186073.xml:  <GBSeq_organism>Geotrichum bryndzae</GBSeq_organism>
+./U40093.xml:  <GBSeq_organism>Dipodascus armillariae</GBSeq_organism>
+./AF017396.xml:  <GBSeq_organism>Galactomyces sp. NRRL Y-6418</GBSeq_organism>
+./U40120.xml:  <GBSeq_organism>Dipodascus aggregatus</GBSeq_organism>
+./U40121.xml:  <GBSeq_organism>Dipodascus macrosporus</GBSeq_organism>
+./U40081.xml:  <GBSeq_organism>Dipodascus albidus</GBSeq_organism>
+./AY464900.xml:  <GBSeq_organism>uncultured fungus</GBSeq_organism>

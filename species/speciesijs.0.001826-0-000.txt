@@ -1,0 +1,14 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AY207502.xml:  <GBSeq_organism>Aestuariibacter salexigens</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AY553295.xml:  <GBSeq_organism>Salinimonas chungwhensis</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./DQ343294.xml:  <GBSeq_organism>Bowmanella denitrificans</GBSeq_organism>
+./AJ293820.xml:  <GBSeq_organism>Glaciecola polaris</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./EU440951.xml:  <GBSeq_organism>Bowmanella pacifica</GBSeq_organism>
+./AY682202.xml:  <GBSeq_organism>Alteromonas addita</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AY207503.xml:  <GBSeq_organism>Aestuariibacter halophilus</GBSeq_organism>

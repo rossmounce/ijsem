@@ -1,0 +1,64 @@
+./AF169578.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AY907378.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./M15942.xml:  <GBSeq_organism>Rhizobium phaseoli</GBSeq_organism>
+./AE009189.xml:  <GBSeq_organism>Agrobacterium tumefaciens str. C58</GBSeq_organism>
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./AF508514.xml:  <GBSeq_organism>Asparagus falcatus</GBSeq_organism>
+./AF169591.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AF169587.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AF217266.xml:  <GBSeq_organism>Rhizobium gallicum bv. gallicum</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AY493460.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AF169579.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AF217268.xml:  <GBSeq_organism>Rhizobium etli bv. phaseoli</GBSeq_organism>
+./AJ457917.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./DQ345073.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./AY934876.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>
+./AF169586.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AY688618.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./AY494794.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AF169590.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AF217261.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AF529014.xml:  <GBSeq_organism>Rhizobium etli bv. phaseoli</GBSeq_organism>
+./DQ311088.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./DQ345072.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./DQ311093.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./AF169593.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AJ294391.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AF169588.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./M55232.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AF217263.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. phaseoli</GBSeq_organism>
+./AJ294393.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AY494791.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AF218126.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./AF217267.xml:  <GBSeq_organism>Rhizobium giardinii bv. giardinii</GBSeq_organism>
+./AF169592.xml:  <GBSeq_organism>Sinorhizobium medicae</GBSeq_organism>
+./AJ294392.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AF529015.xml:  <GBSeq_organism>Rhizobium gallicum bv. gallicum</GBSeq_organism>
+./D13431.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AF169584.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AJ457928.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AJ294394.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AF169580.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AF217262.xml:  <GBSeq_organism>Rhizobium etli bv. phaseoli</GBSeq_organism>
+./AJ457929.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AY494807.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AY318755.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./AY688600.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AF169583.xml:  <GBSeq_organism>Rhizobium leucaenae USDA 9039</GBSeq_organism>
+./DQ311090.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./AF169581.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./DQ311092.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./DQ100066.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./AJ457912.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./DQ345070.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./AJ294395.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AF169585.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AF217265.xml:  <GBSeq_organism>Rhizobium gallicum bv. phaseoli</GBSeq_organism>
+./AF169589.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>

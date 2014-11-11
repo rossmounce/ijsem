@@ -1,0 +1,16 @@
+./D86189.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./U58523.xml:  <GBSeq_organism>Thermobispora bispora DSM 43833</GBSeq_organism>
+./GO480939.xml:  <GBSeq_organism>Aphelenchus avenae</GBSeq_organism>
+./AF466190.xml:  <GBSeq_organism>Prauserella halophila</GBSeq_organism>
+./DQ883811.xml:  <GBSeq_organism>Actinopolyspora erythraea</GBSeq_organism>
+./X79183.xml:  <GBSeq_organism>Thermocrispum agreste DSM 44070</GBSeq_organism>
+./AJ278497.xml:  <GBSeq_organism>Saccharomonospora halophila 8</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./X54287.xml:  <GBSeq_organism>Actinopolyspora halophila</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./GO480940.xml:  <GBSeq_organism>Aphelenchus avenae</GBSeq_organism>
+./X53194.xml:  <GBSeq_organism>Saccharopolyspora rectivirgula</GBSeq_organism>
+./EF372522.xml:  <GBSeq_organism>Actinopolyspora iraqiensis IQ-H1</GBSeq_organism>
+./Y08536.xml:  <GBSeq_organism>Pseudonocardia asaccharolytica</GBSeq_organism>
+./AF114801.xml:  <GBSeq_organism>Kutzneria kofuensis</GBSeq_organism>
+./X79184.xml:  <GBSeq_organism>Thermocrispum municipale DSM 44069</GBSeq_organism>

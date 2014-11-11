@@ -1,0 +1,17 @@
+./AJ313530.xml:  <GBSeq_organism>Lactobacillus mindensis</GBSeq_organism>
+./X76330.xml:  <GBSeq_organism>Lactobacillus fructivorans KCTC 3543 = DSM 20203</GBSeq_organism>
+./AJ534844.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./AJ575743.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./AJ250074.xml:  <GBSeq_organism>Lactobacillus frumenti</GBSeq_organism>
+./AJ564009.xml:  <GBSeq_organism>Lactobacillus rossiae</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./AJ315640.xml:  <GBSeq_organism>Lactobacillus vaccinostercus</GBSeq_organism>
+./AJ417500.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./X94230.xml:  <GBSeq_organism>Lactobacillus panis</GBSeq_organism>
+./AJ422032.xml:  <GBSeq_organism>Lactobacillus pontis</GBSeq_organism>
+./AJ417499.xml:  <GBSeq_organism>Lactobacillus farciminis</GBSeq_organism>
+./M58819.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AJ575744.xml:  <GBSeq_organism>Lactobacillus suebicus</GBSeq_organism>
+./M58830.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

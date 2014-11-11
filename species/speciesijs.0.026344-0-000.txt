@@ -1,0 +1,21 @@
+./AM229316.xml:  <GBSeq_organism>Salinicola salarius</GBSeq_organism>
+./L42615.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./X93493.xml:  <GBSeq_organism>Halomonas pantelleriensis</GBSeq_organism>
+./FJ984868.xml:  <GBSeq_organism>Halomonas daqiaonensis</GBSeq_organism>
+./EU085033.xml:  <GBSeq_organism>Halomonas korlensis</GBSeq_organism>
+./AF212204.xml:  <GBSeq_organism>Halomonas sulfidaeris Esulfide1</GBSeq_organism>
+./FJ984862.xml:  <GBSeq_organism>Halomonas daqiaonensis</GBSeq_organism>
+./AJ295144.xml:  <GBSeq_organism>Chromohalobacter israelensis</GBSeq_organism>
+./AJ427626.xml:  <GBSeq_organism>Salinicola halophilus</GBSeq_organism>
+./EF144149.xml:  <GBSeq_organism>Halomonas saccharevitans</GBSeq_organism>
+./AJ515365.xml:  <GBSeq_organism>Halomonas campaniensis</GBSeq_organism>
+./EF674852.xml:  <GBSeq_organism>Halomonas lutea</GBSeq_organism>
+./DQ421808.xml:  <GBSeq_organism>Halomonas gudaonensis</GBSeq_organism>
+./AY268080.xml:  <GBSeq_organism>Halomonas ventosae</GBSeq_organism>
+./AJ320530.xml:  <GBSeq_organism>Halomonas muralis</GBSeq_organism>
+./X87219.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./EU447162.xml:  <GBSeq_organism>Halomonas nitrilicus</GBSeq_organism>
+./EU135707.xml:  <GBSeq_organism>Halomonas sediminis</GBSeq_organism>
+./EF121853.xml:  <GBSeq_organism>Halomonas shengliensis</GBSeq_organism>
+./EU541349.xml:  <GBSeq_organism>Halomonas fontilapidosi</GBSeq_organism>
+./AY962236.xml:  <GBSeq_organism>Halomonas mongoliensis</GBSeq_organism>

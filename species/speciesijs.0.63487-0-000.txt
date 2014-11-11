@@ -1,0 +1,6 @@
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./X92169.xml:  <GBSeq_organism>bacterium WN16</GBSeq_organism>
+./AY485792.xml:  <GBSeq_organism>Marinilactibacillus piezotolerans</GBSeq_organism>
+./X98395.xml:  <GBSeq_organism>Clostridium sp.</GBSeq_organism>
+./AB083407.xml:  <GBSeq_organism>Marinilactibacillus psychrotolerans</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>

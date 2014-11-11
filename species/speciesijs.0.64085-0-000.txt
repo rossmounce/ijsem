@@ -1,0 +1,37 @@
+./AY167819.xml:  <GBSeq_organism>Sporosarcina aquimarina</GBSeq_organism>
+./AY167883.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AY167818.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AY167882.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AY167823.xml:  <GBSeq_organism>Bacillus sp. SAFN-003</GBSeq_organism>
+./D78311.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./AY167825.xml:  <GBSeq_organism>Paenibacillus sp. SAFN-022b</GBSeq_organism>
+./AY323610.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AY167816.xml:  <GBSeq_organism>Filibacter limicola</GBSeq_organism>
+./AY167801.xml:  <GBSeq_organism>Bacillus sp. SAFN-028</GBSeq_organism>
+./AY167803.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AJ628749.xml:  <GBSeq_organism>Lysinibacillus macroides</GBSeq_organism>
+./AY167809.xml:  <GBSeq_organism>Bacillus niacini</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AY167814.xml:  <GBSeq_organism>Paenibacillus barengoltzii</GBSeq_organism>
+./AY167821.xml:  <GBSeq_organism>Bacillus sp. SAFN-006</GBSeq_organism>
+./AY167824.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AY167881.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AJ292316.xml:  <GBSeq_organism>Filibacter limicola</GBSeq_organism>
+./AY167800.xml:  <GBSeq_organism>Paenibacillus sp. SAFN-035</GBSeq_organism>
+./AY167822.xml:  <GBSeq_organism>Lysinibacillus macroides</GBSeq_organism>
+./D85397.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./AY167807.xml:  <GBSeq_organism>Streptomyces platensis</GBSeq_organism>
+./AF112160.xml:  <GBSeq_organism>Streptomyces caviscabies</GBSeq_organism>
+./AY167802.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./AY167817.xml:  <GBSeq_organism>Bacillus niacini</GBSeq_organism>
+./AY167812.xml:  <GBSeq_organism>Bacillus sp. SAFN-018</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AY167880.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AF290545.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./AY167886.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167811.xml:  <GBSeq_organism>Bacillus niacini</GBSeq_organism>
+./AY876289.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AY167806.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./AY167884.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167820.xml:  <GBSeq_organism>Paenibacillus pasadenensis</GBSeq_organism>
+./AY167808.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>

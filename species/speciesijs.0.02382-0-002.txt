@@ -1,0 +1,12 @@
+./AF085226.xml:  <GBSeq_organism>Cupriavidus pauculus</GBSeq_organism>
+./AF139175.xml:  <GBSeq_organism>Pandoraea pulmonicola</GBSeq_organism>
+./AF076645.xml:  <GBSeq_organism>Cupriavidus gilardii</GBSeq_organism>
+./AJ251633.xml:  <GBSeq_organism>Candidatus Glomeribacter gigasporarum</GBSeq_organism>
+./AF097533.xml:  <GBSeq_organism>Burkholderia stabilis</GBSeq_organism>
+./AJ251634.xml:  <GBSeq_organism>Candidatus Glomeribacter gigasporarum</GBSeq_organism>
+./AF139176.xml:  <GBSeq_organism>Pandoraea sputorum</GBSeq_organism>
+./X89727.xml:  <GBSeq_organism>Candidatus Glomeribacter gigasporarum</GBSeq_organism>
+./AF139171.xml:  <GBSeq_organism>Pandoraea norimbergensis</GBSeq_organism>
+./AJ251636.xml:  <GBSeq_organism>Candidatus Glomeribacter gigasporarum</GBSeq_organism>
+./AF475063.xml:  <GBSeq_organism>Candidatus Burkholderia kirkii</GBSeq_organism>
+./AJ251635.xml:  <GBSeq_organism>Candidatus Glomeribacter gigasporarum</GBSeq_organism>

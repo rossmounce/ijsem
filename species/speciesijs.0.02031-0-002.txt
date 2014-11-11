@@ -1,0 +1,12 @@
+./X67234.xml:  <GBSeq_organism>Rhizobium leucaenae USDA 9039</GBSeq_organism>
+./AF003375.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./Y10170.xml:  <GBSeq_organism>Rhizobium sullae</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AY034027.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./AF364069.xml:  <GBSeq_organism>Rhizobium loessense</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./U71078.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>

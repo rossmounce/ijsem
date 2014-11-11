@@ -1,0 +1,10 @@
+./AJ542509.xml:  <GBSeq_organism>Bacillus vireti LMG 21834</GBSeq_organism>
+./AJ628748.xml:  <GBSeq_organism>Bacillus muralis</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./AJ717382.xml:  <GBSeq_organism>Bacillus foraminis</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./AJ542506.xml:  <GBSeq_organism>Bacillus drentensis</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./AJ250056.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>

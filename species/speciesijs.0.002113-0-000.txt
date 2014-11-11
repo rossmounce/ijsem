@@ -1,0 +1,17 @@
+./AB074193.xml:  <GBSeq_organism>Marinomonas primoryensis</GBSeq_organism>
+./AJ627909.xml:  <GBSeq_organism>Marinomonas ushuaiensis</GBSeq_organism>
+./AB006767.xml:  <GBSeq_organism>Oceanobacter kriegii</GBSeq_organism>
+./AJ843077.xml:  <GBSeq_organism>Marinomonas aquimarina</GBSeq_organism>
+./AY539835.xml:  <GBSeq_organism>Marinomonas pontica</GBSeq_organism>
+./AJ431699.xml:  <GBSeq_organism>Thalassolituus oleivorans MIL-1</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AY520560.xml:  <GBSeq_organism>Kangiella koreensis DSM 16069</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./AJ561121.xml:  <GBSeq_organism>Reinekea marinisedimentorum</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AJ315983.xml:  <GBSeq_organism>Saccharospirillum impatiens</GBSeq_organism>
+./AY136131.xml:  <GBSeq_organism>Bermanella marisrubri</GBSeq_organism>
+./DQ403810.xml:  <GBSeq_organism>Reinekea blandensis MED297</GBSeq_organism>
+./AJ833000.xml:  <GBSeq_organism>Marinomonas polaris</GBSeq_organism>

@@ -1,0 +1,22 @@
+./AY264857.xml:  <GBSeq_organism>Paulownia witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY264859.xml:  <GBSeq_organism>Ipomoea obscura witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY264863.xml:  <GBSeq_organism>Blueberry stunt phytoplasma</GBSeq_organism>
+./AY264866.xml:  <GBSeq_organism>Apricot aster yellows phytoplasma</GBSeq_organism>
+./M74771.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./AY264856.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AY264860.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./AY264855.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AY264865.xml:  <GBSeq_organism>Leafhopper-borne phytoplasma</GBSeq_organism>
+./AY264862.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./AY264868.xml:  <GBSeq_organism>Hydrangea phyllody phytoplasma</GBSeq_organism>
+./AY264858.xml:  <GBSeq_organism>Maize bushy stunt phytoplasma</GBSeq_organism>
+./U96617.xml:  <GBSeq_organism>Phytoplasma sp. STRAWB2</GBSeq_organism>
+./AY183686.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AY183708.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AY264867.xml:  <GBSeq_organism>Plantago virescence phytoplasma</GBSeq_organism>
+./AY264861.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./AY183696.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./M74770.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AY264869.xml:  <GBSeq_organism>Chrysanthemum yellows phytoplasma</GBSeq_organism>
+./AY264864.xml:  <GBSeq_organism>Grey dogwood witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY264854.xml:  <GBSeq_organism>Primrose virescence phytoplasma</GBSeq_organism>

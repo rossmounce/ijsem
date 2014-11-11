@@ -1,0 +1,15 @@
+./AF503497.xml:  <GBSeq_organism>Streptomyces violaceolatus</GBSeq_organism>
+./AJ781353.xml:  <GBSeq_organism>Streptomyces lienomycini</GBSeq_organism>
+./AF503496.xml:  <GBSeq_organism>Streptomyces coelescens</GBSeq_organism>
+./AJ781347.xml:  <GBSeq_organism>Streptomyces malachitofuscus</GBSeq_organism>
+./AF503492.xml:  <GBSeq_organism>Streptomyces violaceoruber</GBSeq_organism>
+./AJ965470.xml:  <GBSeq_organism>Streptomyces marokkonensis</GBSeq_organism>
+./AJ781374.xml:  <GBSeq_organism>Streptomyces violaceorubidus</GBSeq_organism>
+./AY295791.xml:  <GBSeq_organism>Streptomyces chattanoogensis</GBSeq_organism>
+./AF503495.xml:  <GBSeq_organism>Streptomyces caesius</GBSeq_organism>
+./AJ781373.xml:  <GBSeq_organism>Streptomyces rubrogriseus</GBSeq_organism>
+./AY999757.xml:  <GBSeq_organism>Streptomyces albaduncus</GBSeq_organism>
+./AY999773.xml:  <GBSeq_organism>Streptomyces aurantiogriseus</GBSeq_organism>
+./D63873.xml:  <GBSeq_organism>Streptomyces tendae</GBSeq_organism>
+./AY999818.xml:  <GBSeq_organism>Streptomyces humiferus</GBSeq_organism>
+./AJ306623.xml:  <GBSeq_organism>Streptomyces collinus</GBSeq_organism>

@@ -1,0 +1,17 @@
+./AY999771.xml:  <GBSeq_organism>Streptomyces cinereoruber subsp. cinereoruber</GBSeq_organism>
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./AY999741.xml:  <GBSeq_organism>Streptomyces showdoensis</GBSeq_organism>
+./AJ781362.xml:  <GBSeq_organism>Streptomyces tanashiensis</GBSeq_organism>
+./AY999795.xml:  <GBSeq_organism>Streptomyces chrestomyceticus JCM 4735</GBSeq_organism>
+./AY999878.xml:  <GBSeq_organism>Streptomyces filamentosus</GBSeq_organism>
+./DQ311081.xml:  <GBSeq_organism>Streptomyces vietnamensis</GBSeq_organism>
+./AJ781330.xml:  <GBSeq_organism>Streptomyces globosus</GBSeq_organism>
+./AF163115.xml:  <GBSeq_organism>Actinomadura hibisca</GBSeq_organism>
+./AY999899.xml:  <GBSeq_organism>Streptomyces roseolus</GBSeq_organism>
+./AJ781329.xml:  <GBSeq_organism>Streptomyces graminofaciens</GBSeq_organism>
+./AY999798.xml:  <GBSeq_organism>Streptomyces corchorusii</GBSeq_organism>
+./AY999762.xml:  <GBSeq_organism>Streptomyces crystallinus</GBSeq_organism>
+./AY999864.xml:  <GBSeq_organism>Streptomyces rubiginosohelvolus</GBSeq_organism>
+./AJ781372.xml:  <GBSeq_organism>Streptomyces viridobrunneus</GBSeq_organism>
+./AJ781339.xml:  <GBSeq_organism>Streptomyces griseorubiginosus</GBSeq_organism>
+./AJ781326.xml:  <GBSeq_organism>Streptomyces lateritius</GBSeq_organism>

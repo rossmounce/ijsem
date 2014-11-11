@@ -1,0 +1,31 @@
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./AB255367.xml:  <GBSeq_organism>Galbibacter mesophilus</GBSeq_organism>
+./X97248.xml:  <GBSeq_organism>Capnocytophaga granulosa ATCC 51502</GBSeq_organism>
+./X67608.xml:  <GBSeq_organism>Capnocytophaga gingivalis</GBSeq_organism>
+./EU287913.xml:  <GBSeq_organism>Lutaonella thermophila</GBSeq_organism>
+./DQ002871.xml:  <GBSeq_organism>Gramella portivictoriae</GBSeq_organism>
+./DQ423479.xml:  <GBSeq_organism>Zhouia amylolytica</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./DQ312294.xml:  <GBSeq_organism>Mariniflexile gromovii</GBSeq_organism>
+./AJ854059.xml:  <GBSeq_organism>Myroides odoratimimus</GBSeq_organism>
+./EF520007.xml:  <GBSeq_organism>Salinimicrobium xinjiangense</GBSeq_organism>
+./AB198089.xml:  <GBSeq_organism>Dokdonia diaphoros</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./DQ003276.xml:  <GBSeq_organism>Dokdonia donghaensis</GBSeq_organism>
+./AJ344133.xml:  <GBSeq_organism>Gelidibacter mesophilus</GBSeq_organism>
+./AM113977.xml:  <GBSeq_organism>Aquimarina intermedia</GBSeq_organism>
+./AJ278780.xml:  <GBSeq_organism>Leeuwenhoekiella aequorea</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./DQ001321.xml:  <GBSeq_organism>Psychroserpens mesophilus</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AF170749.xml:  <GBSeq_organism>Aequorivita sublithincola DSM 14238</GBSeq_organism>
+./EF108219.xml:  <GBSeq_organism>Gaetbulibacter marinus</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./AJ005973.xml:  <GBSeq_organism>Cellulophaga fucicola</GBSeq_organism>
+./AB198088.xml:  <GBSeq_organism>Dokdonia eikasta</GBSeq_organism>
+./DQ640642.xml:  <GBSeq_organism>Salinimicrobium catena</GBSeq_organism>
+./DQ017065.xml:  <GBSeq_organism>Nonlabens dokdonensis DSW-6</GBSeq_organism>
+./AB198086.xml:  <GBSeq_organism>Dokdonia genika</GBSeq_organism>
+./AB264057.xml:  <GBSeq_organism>Zeaxanthinibacter enoshimensis</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>
+./DQ294291.xml:  <GBSeq_organism>Leeuwenhoekiella blandensis MED217</GBSeq_organism>

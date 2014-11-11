@@ -1,0 +1,12 @@
+./AF095272.xml:  <GBSeq_organism>Methanofollis tationis</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./CR626858.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./M59147.xml:  <GBSeq_organism>Methanocorpusculum parvum</GBSeq_organism>
+./AF033672.xml:  <GBSeq_organism>Methanocalculus halotolerans</GBSeq_organism>
+./M59143.xml:  <GBSeq_organism>Methanoplanus limicola DSM 2279</GBSeq_organism>
+./AB196288.xml:  <GBSeq_organism>Methanocella paludicola SANAE</GBSeq_organism>
+./M59142.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./AB162774.xml:  <GBSeq_organism>Methanolinea tarda NOBI-1</GBSeq_organism>
+./M59130.xml:  <GBSeq_organism>Methanogenium cariaci</GBSeq_organism>
+./X51423.xml:  <GBSeq_organism>Methanosaeta concilii</GBSeq_organism>
+./AF028691.xml:  <GBSeq_organism>Methanosarcina mazei</GBSeq_organism>

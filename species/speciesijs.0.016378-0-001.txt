@@ -1,0 +1,17 @@
+./X92599.xml:  <GBSeq_organism>Micromonospora carbonacea</GBSeq_organism>
+./X92601.xml:  <GBSeq_organism>Micromonospora halophytica</GBSeq_organism>
+./D85481.xml:  <GBSeq_organism>Dactylosporangium thailandense</GBSeq_organism>
+./AF152109.xml:  <GBSeq_organism>Micromonospora matsumotoense</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./D86940.xml:  <GBSeq_organism>Dactylosporangium matsuzakiense</GBSeq_organism>
+./AB495209.xml:  <GBSeq_organism>Dactylosporangium maewongense</GBSeq_organism>
+./AB037012.xml:  <GBSeq_organism>Actinoplanes utahensis</GBSeq_organism>
+./X92604.xml:  <GBSeq_organism>Micromonospora aurantiaca</GBSeq_organism>
+./D86989.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./AJ626950.xml:  <GBSeq_organism>Micromonospora mirobrigensis</GBSeq_organism>
+./D86942.xml:  <GBSeq_organism>Dactylosporangium fulvum</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AB193565.xml:  <GBSeq_organism>Micromonospora siamensis</GBSeq_organism>
+./D86941.xml:  <GBSeq_organism>Dactylosporangium roseum</GBSeq_organism>

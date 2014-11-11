@@ -1,0 +1,38 @@
+./X95071.xml:  <GBSeq_organism>Rhodothermus marinus</GBSeq_organism>
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./M60455.xml:  <GBSeq_organism>Flammeovirga arenaria</GBSeq_organism>
+./AJ441237.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./AF319783.xml:  <GBSeq_organism>Encarsia pergandiella asexual line endosymbiont</GBSeq_organism>
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./AB078053.xml:  <GBSeq_organism>Flexibacter flexilis</GBSeq_organism>
+./AB078079.xml:  <GBSeq_organism>Marinoscillum furvescens</GBSeq_organism>
+./AF215634.xml:  <GBSeq_organism>endosymbiont of Acanthamoeba sp. (Hungarian isolate)</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./AB032504.xml:  <GBSeq_organism>Tenacibaculum mesophilum</GBSeq_organism>
+./D12658.xml:  <GBSeq_organism>Cytophaga aurantiaca</GBSeq_organism>
+./AY193152.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./M58784.xml:  <GBSeq_organism>Flexibacter litoralis</GBSeq_organism>
+./AF350221.xml:  <GBSeq_organism>endosymbiont of Brevipalpus phoenicis</GBSeq_organism>
+./AB013834.xml:  <GBSeq_organism>Cytophaga sp.</GBSeq_organism>
+./X83947.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AB078062.xml:  <GBSeq_organism>Flexibacter roseolus</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M11657.xml:  <GBSeq_organism>Pedobacter heparinus</GBSeq_organism>
+./AF366581.xml:  <GBSeq_organism>Candidatus Amoebophilus asiaticus</GBSeq_organism>
+./AY026335.xml:  <GBSeq_organism>Encarsia pergandiella sexual line endosymbiont</GBSeq_organism>
+./L16493.xml:  <GBSeq_organism>Porphyromonas levii</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./AY331187.xml:  <GBSeq_organism>Candidatus Cardinium hertigii</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AJ009687.xml:  <GBSeq_organism>Flavobacterium sp.</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AY193149.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./AF363707.xml:  <GBSeq_organism>Blattabacterium punctulatus</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>

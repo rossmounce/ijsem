@@ -1,0 +1,11 @@
+./EF408737.xml:  <GBSeq_organism>Streptomyces ruanii</GBSeq_organism>
+./AY999911.xml:  <GBSeq_organism>Streptomyces endus</GBSeq_organism>
+./EF408733.xml:  <GBSeq_organism>Streptomyces rapamycinicus</GBSeq_organism>
+./AJ391812.xml:  <GBSeq_organism>Streptomyces albiflaviniger</GBSeq_organism>
+./FJ472862.xml:  <GBSeq_organism>Streptomyces iranensis</GBSeq_organism>
+./AB184428.xml:  <GBSeq_organism>Streptomyces hygroscopicus subsp. hygroscopicus</GBSeq_organism>
+./AB184870.xml:  <GBSeq_organism>Streptomyces mobaraensis NBRC 13819 = DSM 40847</GBSeq_organism>
+./AB184185.xml:  <GBSeq_organism>Streptomyces antimycoticus</GBSeq_organism>
+./AJ391822.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./DQ334782.xml:  <GBSeq_organism>Streptomyces demainii</GBSeq_organism>
+./AF336800.xml:  <GBSeq_organism>Streptomyces yatensis</GBSeq_organism>

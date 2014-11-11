@@ -1,0 +1,11 @@
+./DQ417339.xml:  <GBSeq_organism>Haloplanus natans</GBSeq_organism>
+./AY498641.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./X82167.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./X61689.xml:  <GBSeq_organism>Haloarcula marismortui</GBSeq_organism>
+./EF127644.xml:  <GBSeq_organism>Natronomonas moolapensis</GBSeq_organism>
+./D50850.xml:  <GBSeq_organism>Halomicrobium mukohataei</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./AY498645.xml:  <GBSeq_organism>Natronomonas moolapensis 8.8.11</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>

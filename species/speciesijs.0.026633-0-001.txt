@@ -1,0 +1,32 @@
+./FM957483.xml:  <GBSeq_organism>Actinomadura sputi DSM 45233</GBSeq_organism>
+./AF154127.xml:  <GBSeq_organism>Actinomadura catellatispora</GBSeq_organism>
+./FJ157185.xml:  <GBSeq_organism>Actinomadura flavalba DSM 45200</GBSeq_organism>
+./AJ420134.xml:  <GBSeq_organism>Actinomadura namibiensis</GBSeq_organism>
+./D85468.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./EF116925.xml:  <GBSeq_organism>Actinomadura miaoliensis</GBSeq_organism>
+./AB557596.xml:  <GBSeq_organism>Actinomadura apis</GBSeq_organism>
+./AY568292.xml:  <GBSeq_organism>Actinomadura napierensis</GBSeq_organism>
+./AJ293713.xml:  <GBSeq_organism>Actinomadura umbrina</GBSeq_organism>
+./AJ420139.xml:  <GBSeq_organism>Actinomadura citrea</GBSeq_organism>
+./D86943.xml:  <GBSeq_organism>Actinomadura viridilutea</GBSeq_organism>
+./AJ420138.xml:  <GBSeq_organism>Actinomadura atramentaria</GBSeq_organism>
+./FM210339.xml:  <GBSeq_organism>Actinomadura scrupuli</GBSeq_organism>
+./D50667.xml:  <GBSeq_organism>Actinomadura verrucosospora</GBSeq_organism>
+./AJ293714.xml:  <GBSeq_organism>Actinomadura yumaensis</GBSeq_organism>
+./AB557595.xml:  <GBSeq_organism>Actinomadura rifamycini</GBSeq_organism>
+./AJ293706.xml:  <GBSeq_organism>Actinomadura livida</GBSeq_organism>
+./U49008.xml:  <GBSeq_organism>Actinomadura luteofluorescens</GBSeq_organism>
+./AY273787.xml:  <GBSeq_organism>Actinomadura meyerae</GBSeq_organism>
+./U49010.xml:  <GBSeq_organism>Actinomadura rugatobispora</GBSeq_organism>
+./AJ420135.xml:  <GBSeq_organism>Actinomadura echinospora</GBSeq_organism>
+./AJ420137.xml:  <GBSeq_organism>Actinomadura fulvescens</GBSeq_organism>
+./AJ293710.xml:  <GBSeq_organism>Actinomadura pelletieri</GBSeq_organism>
+./EU637008.xml:  <GBSeq_organism>Actinomadura rubrobrunea</GBSeq_organism>
+./X97890.xml:  <GBSeq_organism>Actinomadura kijaniata</GBSeq_organism>
+./AF277195.xml:  <GBSeq_organism>Actinomadura mexicana</GBSeq_organism>
+./D85467.xml:  <GBSeq_organism>Actinomadura viridis</GBSeq_organism>
+./AJ293705.xml:  <GBSeq_organism>Actinomadura hibisca</GBSeq_organism>
+./U49002.xml:  <GBSeq_organism>Actinomadura coerulea</GBSeq_organism>
+./X89934.xml:  <GBSeq_organism>Streptosporangium album</GBSeq_organism>
+./AB462291.xml:  <GBSeq_organism>Actinomadura cremea subsp. cremea</GBSeq_organism>
+./AB264086.xml:  <GBSeq_organism>Actinomadura chibensis</GBSeq_organism>

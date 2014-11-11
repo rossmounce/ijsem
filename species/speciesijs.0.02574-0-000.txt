@@ -1,0 +1,10 @@
+./U64865.xml:  <GBSeq_organism>Desulfomicrobium apsheronum</GBSeq_organism>
+./AJ237601.xml:  <GBSeq_organism>Desulfatiglans anilini</GBSeq_organism>
+./AF192153.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./AJ277894.xml:  <GBSeq_organism>Desulfomicrobium baculatum DSM 4028</GBSeq_organism>
+./AJ237606.xml:  <GBSeq_organism>Desulfobacula phenolica</GBSeq_organism>
+./U02469.xml:  <GBSeq_organism>Desulfomicrobium escambiense</GBSeq_organism>
+./AF132738.xml:  <GBSeq_organism>Desulfomicrobium hypogeium</GBSeq_organism>
+./AJ277897.xml:  <GBSeq_organism>Desulfomicrobium norvegicum</GBSeq_organism>
+./AJ251623.xml:  <GBSeq_organism>Desulfomicrobium orale DSM 12838</GBSeq_organism>
+./AJ237604.xml:  <GBSeq_organism>Desulfomicrobium macestii</GBSeq_organism>

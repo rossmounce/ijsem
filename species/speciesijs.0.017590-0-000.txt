@@ -1,0 +1,20 @@
+./AJ575187.xml:  <GBSeq_organism>Fastidiosipila sanguinis</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./AY487928.xml:  <GBSeq_organism>Acetanaerobacterium elongatum</GBSeq_organism>
+./M59096.xml:  <GBSeq_organism>Clostridium limosum</GBSeq_organism>
+./Y18180.xml:  <GBSeq_organism>[Clostridium] thermosuccinogenes</GBSeq_organism>
+./AY949857.xml:  <GBSeq_organism>Saccharofermentans acetigenes</GBSeq_organism>
+./D14138.xml:  <GBSeq_organism>Anaerococcus prevotii</GBSeq_organism>
+./L34618.xml:  <GBSeq_organism>Eubacterium desmolans</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./AF020429.xml:  <GBSeq_organism>[Clostridium] hungatei</GBSeq_organism>
+./M59095.xml:  <GBSeq_organism>[Clostridium] leptum</GBSeq_organism>
+./X71854.xml:  <GBSeq_organism>[Clostridium] termitidis</GBSeq_organism>
+./Z49863.xml:  <GBSeq_organism>Sporobacter termitidis</GBSeq_organism>
+./X71852.xml:  <GBSeq_organism>[Clostridium] papyrosolvens DSM 2782</GBSeq_organism>
+./D14149.xml:  <GBSeq_organism>Finegoldia magna</GBSeq_organism>
+./L35516.xml:  <GBSeq_organism>Acetivibrio cellulolyticus</GBSeq_organism>
+./X71856.xml:  <GBSeq_organism>[Clostridium] cellobioparum DSM 1351 = ATCC 15832</GBSeq_organism>
+./AJ413954.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>
+./X71847.xml:  <GBSeq_organism>Clostridium cellulolyticum H10</GBSeq_organism>
+./M59103.xml:  <GBSeq_organism>Clostridium perfringens</GBSeq_organism>

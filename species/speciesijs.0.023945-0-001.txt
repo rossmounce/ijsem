@@ -1,0 +1,14 @@
+./GU799684.xml:  <GBSeq_organism>Lactococcus chungangensis CAU 28 = DSM 22330</GBSeq_organism>
+./GU799688.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>
+./GU799685.xml:  <GBSeq_organism>Lactococcus garvieae</GBSeq_organism>
+./GU799687.xml:  <GBSeq_organism>Lactococcus lactis subsp. hordniae</GBSeq_organism>
+./GU799692.xml:  <GBSeq_organism>Lactococcus lactis subsp. tructae</GBSeq_organism>
+./GU799694.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./HM991216.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>
+./GU799686.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>
+./GU799689.xml:  <GBSeq_organism>Lactococcus piscium</GBSeq_organism>
+./GU799690.xml:  <GBSeq_organism>Lactococcus plantarum</GBSeq_organism>
+./GU799691.xml:  <GBSeq_organism>Lactococcus raffinolactis</GBSeq_organism>
+./HM991214.xml:  <GBSeq_organism>Lactococcus lactis subsp. hordniae</GBSeq_organism>
+./GU799693.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./HM991215.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>

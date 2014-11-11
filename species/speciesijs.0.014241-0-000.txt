@@ -1,0 +1,23 @@
+./FJ820995.xml:  <GBSeq_organism>Paenibacillus prosopidis</GBSeq_organism>
+./AB295646.xml:  <GBSeq_organism>Paenibacillus montaniterrae</GBSeq_organism>
+./AY598818.xml:  <GBSeq_organism>Paenibacillus phyllosphaerae</GBSeq_organism>
+./AY884046.xml:  <GBSeq_organism>Paenibacillus assamensis</GBSeq_organism>
+./AJ320491.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./AF237682.xml:  <GBSeq_organism>Paenibacillus granivorans</GBSeq_organism>
+./AB295647.xml:  <GBSeq_organism>Paenibacillus septentrionalis</GBSeq_organism>
+./AB265205.xml:  <GBSeq_organism>Paenibacillus thailandensis</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./AY839868.xml:  <GBSeq_organism>Paenibacillus xinjiangensis</GBSeq_organism>
+./EU099594.xml:  <GBSeq_organism>Paenibacillus castaneae</GBSeq_organism>
+./AY839867.xml:  <GBSeq_organism>Paenibacillus harenae</GBSeq_organism>
+./AJ320490.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./M58823.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. lactis</GBSeq_organism>
+./AJ320492.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>
+./AM411528.xml:  <GBSeq_organism>Paenibacillus humicus</GBSeq_organism>
+./AF537343.xml:  <GBSeq_organism>Paenibacillus mendelii</GBSeq_organism>
+./AB265206.xml:  <GBSeq_organism>Paenibacillus nanensis</GBSeq_organism>
+./AB295645.xml:  <GBSeq_organism>Paenibacillus siamensis</GBSeq_organism>
+./AY167820.xml:  <GBSeq_organism>Paenibacillus pasadenensis</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>
+./EF125184.xml:  <GBSeq_organism>Paenibacillus tarimensis</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>

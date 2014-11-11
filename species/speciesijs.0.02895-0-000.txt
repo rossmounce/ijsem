@@ -1,0 +1,15 @@
+./AF156316.xml:  <GBSeq_organism>marine bacillus NRRLB-14850</GBSeq_organism>
+./AL009126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./X60623.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./X60637.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AF074970.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./AB021198.xml:  <GBSeq_organism>Bacillus vallismortis</GBSeq_organism>
+./D78313.xml:  <GBSeq_organism>Bacillus coagulans</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./X60607.xml:  <GBSeq_organism>Bacillus atrophaeus</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./D78314.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./D78312.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>

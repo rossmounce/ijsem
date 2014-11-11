@@ -1,0 +1,29 @@
+./AF050099.xml:  <GBSeq_organism>Fusibacter paucivorans</GBSeq_organism>
+./AJ251215.xml:  <GBSeq_organism>Anaerovorax odorimutans</GBSeq_organism>
+./GU440754.xml:  <GBSeq_organism>Peptoniphilus methioninivorax</GBSeq_organism>
+./AF542232.xml:  <GBSeq_organism>Anaerococcus prevotii DSM 20548</GBSeq_organism>
+./X69837.xml:  <GBSeq_organism>Helcococcus kunzii</GBSeq_organism>
+./AY656718.xml:  <GBSeq_organism>Tepidimicrobium ferriphilum</GBSeq_organism>
+./Y07840.xml:  <GBSeq_organism>Peptoniphilus ivorii</GBSeq_organism>
+./D14140.xml:  <GBSeq_organism>Anaerococcus hydrogenalis DSM 7454</GBSeq_organism>
+./D14153.xml:  <GBSeq_organism>Anaerococcus prevotii</GBSeq_organism>
+./EU776200.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X73452.xml:  <GBSeq_organism>Filifactor villosus</GBSeq_organism>
+./D14138.xml:  <GBSeq_organism>Anaerococcus prevotii</GBSeq_organism>
+./AJ404680.xml:  <GBSeq_organism>Sedimentibacter saalensis</GBSeq_organism>
+./D14152.xml:  <GBSeq_organism>Peptoniphilus asaccharolyticus</GBSeq_organism>
+./AF542234.xml:  <GBSeq_organism>Anaerococcus tetradius</GBSeq_organism>
+./AF542231.xml:  <GBSeq_organism>Parvimonas micra ATCC 33270</GBSeq_organism>
+./D14149.xml:  <GBSeq_organism>Finegoldia magna</GBSeq_organism>
+./Y07839.xml:  <GBSeq_organism>Peptoniphilus harei</GBSeq_organism>
+./X80833.xml:  <GBSeq_organism>Tissierella praeacuta</GBSeq_organism>
+./AJ579914.xml:  <GBSeq_organism>Helcococcus sueciensis</GBSeq_organism>
+./D14147.xml:  <GBSeq_organism>Peptoniphilus indolicus ATCC 29427</GBSeq_organism>
+./D14145.xml:  <GBSeq_organism>Peptoniphilus asaccharolyticus</GBSeq_organism>
+./DQ160208.xml:  <GBSeq_organism>Peptostreptococcus stomatis</GBSeq_organism>
+./AF542229.xml:  <GBSeq_organism>Anaerococcus vaginalis ATCC 51170</GBSeq_organism>
+./AF542233.xml:  <GBSeq_organism>Anaerococcus lactolyticus</GBSeq_organism>
+./AF458779.xml:  <GBSeq_organism>Clostridium caminithermale</GBSeq_organism>
+./AB038360.xml:  <GBSeq_organism>Peptostreptococcus genosp. 4</GBSeq_organism>
+./D14141.xml:  <GBSeq_organism>Peptoniphilus lacrimalis</GBSeq_organism>
+./AY353956.xml:  <GBSeq_organism>Soehngenia saccharolytica</GBSeq_organism>

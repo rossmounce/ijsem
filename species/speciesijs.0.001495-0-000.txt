@@ -1,0 +1,16 @@
+./AY598818.xml:  <GBSeq_organism>Paenibacillus phyllosphaerae</GBSeq_organism>
+./EF626690.xml:  <GBSeq_organism>Paenibacillus contaminans</GBSeq_organism>
+./AF237682.xml:  <GBSeq_organism>Paenibacillus granivorans</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./AY839866.xml:  <GBSeq_organism>Paenibacillus gansuensis</GBSeq_organism>
+./AY839868.xml:  <GBSeq_organism>Paenibacillus xinjiangensis</GBSeq_organism>
+./M58823.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. lactis</GBSeq_organism>
+./DQ291142.xml:  <GBSeq_organism>Paenibacillus sepulcri</GBSeq_organism>
+./AM411528.xml:  <GBSeq_organism>Paenibacillus humicus</GBSeq_organism>
+./AF537343.xml:  <GBSeq_organism>Paenibacillus mendelii</GBSeq_organism>
+./AB073363.xml:  <GBSeq_organism>Paenibacillus kobensis</GBSeq_organism>
+./AF433165.xml:  <GBSeq_organism>Cohnella hongkongensis</GBSeq_organism>
+./AY167820.xml:  <GBSeq_organism>Paenibacillus pasadenensis</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>
+./DQ407282.xml:  <GBSeq_organism>Paenibacillus cellulosilyticus</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AF306658.xml:  <GBSeq_organism>Streptomyces thermosacchari</GBSeq_organism>
+./AY094367.xml:  <GBSeq_organism>Streptomyces niveus</GBSeq_organism>
+./AB122778.xml:  <GBSeq_organism>Streptomyces peucetius</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./Y00411.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./D29744.xml:  <GBSeq_organism>Streptomyces albogriseolus</GBSeq_organism>
+./AF290616.xml:  <GBSeq_organism>Streptomyces fradiae</GBSeq_organism>
+./AY039029.xml:  <GBSeq_organism>Streptomyces lividans TK24</GBSeq_organism>
+./AY822606.xml:  <GBSeq_organism>Streptomyces cheonanensis</GBSeq_organism>
+./AJ399475.xml:  <GBSeq_organism>Streptomyces longisporus</GBSeq_organism>
+./AB045863.xml:  <GBSeq_organism>Streptomyces jumonjinensis</GBSeq_organism>
+./AF336800.xml:  <GBSeq_organism>Streptomyces yatensis</GBSeq_organism>
+./AJ306622.xml:  <GBSeq_organism>Streptomyces coeruleorubidus</GBSeq_organism>
+./AB045882.xml:  <GBSeq_organism>Streptomyces platensis</GBSeq_organism>
+./AJ007403.xml:  <GBSeq_organism>Streptomyces somaliensis DSM 40738</GBSeq_organism>
+./AY094364.xml:  <GBSeq_organism>Streptomyces sanglieri</GBSeq_organism>

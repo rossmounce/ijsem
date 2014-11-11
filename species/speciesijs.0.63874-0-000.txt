@@ -1,0 +1,25 @@
+./AJ854484.xml:  <GBSeq_organism>Catellicoccus marimammalium M35/04/3</GBSeq_organism>
+./AJ301832.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./X54271.xml:  <GBSeq_organism>Carnobacterium mobile</GBSeq_organism>
+./Y18098.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./D88824.xml:  <GBSeq_organism>Tetragenococcus muriaticus</GBSeq_organism>
+./AY033815.xml:  <GBSeq_organism>Enterococcus pallens</GBSeq_organism>
+./AF061007.xml:  <GBSeq_organism>Enterococcus dispar ATCC 51266</GBSeq_organism>
+./AF061004.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./X76177.xml:  <GBSeq_organism>Enterococcus canis</GBSeq_organism>
+./X87150.xml:  <GBSeq_organism>Trichococcus pasteurii</GBSeq_organism>
+./D50540.xml:  <GBSeq_organism>Granulicatella adiacens</GBSeq_organism>
+./Y18274.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./Y17300.xml:  <GBSeq_organism>Desemzia incerta</GBSeq_organism>
+./Y17780.xml:  <GBSeq_organism>Eremococcus coleocola</GBSeq_organism>
+./AB002521.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./Y10772.xml:  <GBSeq_organism>Facklamia hominis</GBSeq_organism>
+./AF286831.xml:  <GBSeq_organism>Enterococcus moraviensis</GBSeq_organism>
+./X75751.xml:  <GBSeq_organism>Melissococcus plutonius ATCC 35311</GBSeq_organism>
+./D88668.xml:  <GBSeq_organism>Tetragenococcus halophilus subsp. halophilus</GBSeq_organism>
+./Y16426.xml:  <GBSeq_organism>Ignavigranum ruoffiae</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./Y18097.xml:  <GBSeq_organism>Vagococcus salmoninarum</GBSeq_organism>
+./D50541.xml:  <GBSeq_organism>Abiotrophia defectiva ATCC 49176</GBSeq_organism>

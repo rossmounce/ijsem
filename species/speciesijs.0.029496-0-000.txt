@@ -1,0 +1,10 @@
+./AB245515.xml:  <GBSeq_organism>Ferrimonas futtsuensis</GBSeq_organism>
+./FN377705.xml:  <GBSeq_organism>Oceanisphaera arctica</GBSeq_organism>
+./X60413.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>
+./HQ340607.xml:  <GBSeq_organism>Oceanisphaera ostreae</GBSeq_organism>
+./X92889.xml:  <GBSeq_organism>Tolumonas auensis DSM 9187</GBSeq_organism>
+./AY538714.xml:  <GBSeq_organism>Oceanimonas smirnovii</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./AF168367.xml:  <GBSeq_organism>Oceanimonas baumannii</GBSeq_organism>

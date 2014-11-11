@@ -1,0 +1,20 @@
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./EF031542.xml:  <GBSeq_organism>Coprococcus comes ATCC 27758</GBSeq_organism>
+./AJ133496.xml:  <GBSeq_organism>Fusobacterium nucleatum subsp. nucleatum ATCC 25586</GBSeq_organism>
+./X95624.xml:  <GBSeq_organism>Blautia hydrogenotrophica</GBSeq_organism>
+./X94965.xml:  <GBSeq_organism>Blautia schinkii</GBSeq_organism>
+./L76604.xml:  <GBSeq_organism>Ruminococcus torques ATCC 27756</GBSeq_organism>
+./X54275.xml:  <GBSeq_organism>Propionigenium modestum</GBSeq_organism>
+./L76598.xml:  <GBSeq_organism>Ruminococcus albus 7 = DSM 20455</GBSeq_organism>
+./X94967.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>
+./D14144.xml:  <GBSeq_organism>Blautia producta ATCC 27340 = DSM 2950</GBSeq_organism>
+./L76603.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./M59114.xml:  <GBSeq_organism>Blautia hansenii DSM 20583</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./EF529620.xml:  <GBSeq_organism>Ruminococcus gauvreauii</GBSeq_organism>
+./AJ133124.xml:  <GBSeq_organism>Blautia luti</GBSeq_organism>
+./L76601.xml:  <GBSeq_organism>Ruminococcus obeum ATCC 29174</GBSeq_organism>
+./L76600.xml:  <GBSeq_organism>Ruminococcus bromii</GBSeq_organism>
+./L76602.xml:  <GBSeq_organism>Ruminococcus lactaris ATCC 29176</GBSeq_organism>
+./L76596.xml:  <GBSeq_organism>Ruminococcus callidus</GBSeq_organism>
+./D14148.xml:  <GBSeq_organism>Coprococcus eutactus</GBSeq_organism>

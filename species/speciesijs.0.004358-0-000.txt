@@ -1,0 +1,27 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY693999.xml:  <GBSeq_organism>Subsaxibacter broadyi</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AB362216.xml:  <GBSeq_organism>Leptobacterium flavescens</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AY163576.xml:  <GBSeq_organism>Croceibacter atlanticus HTCC2559</GBSeq_organism>
+./DQ423479.xml:  <GBSeq_organism>Zhouia amylolytica</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AB362215.xml:  <GBSeq_organism>Leptobacterium flavescens</GBSeq_organism>
+./Y17612.xml:  <GBSeq_organism>Coenonia anatina</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./AB362212.xml:  <GBSeq_organism>Leptobacterium flavescens</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AY883939.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY693997.xml:  <GBSeq_organism>Subsaximicrobium wynnwilliamsii</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AB362217.xml:  <GBSeq_organism>Leptobacterium flavescens</GBSeq_organism>
+./AY586527.xml:  <GBSeq_organism>Olleya marilimosa CAM030</GBSeq_organism>
+./AB362213.xml:  <GBSeq_organism>Leptobacterium flavescens</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AB362214.xml:  <GBSeq_organism>Leptobacterium flavescens</GBSeq_organism>
+./AY608407.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>

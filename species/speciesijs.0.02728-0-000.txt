@@ -1,0 +1,4 @@
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./X83810.xml:  <GBSeq_organism>Brachybacterium faecium DSM 4810</GBSeq_organism>
+./X91657.xml:  <GBSeq_organism>Brachybacterium tyrofermentans</GBSeq_organism>
+./X91030.xml:  <GBSeq_organism>Brachybacterium conglomeratum</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AJ133158.xml:  <GBSeq_organism>Anabaena lemmermannii var. minor NIVA-CYA 83/2</GBSeq_organism>
+./AJ133181.xml:  <GBSeq_organism>Nodularia sphaerocarpa PCC 7804</GBSeq_organism>
+./AJ344552.xml:  <GBSeq_organism>Chroococcidiopsis sp. BB79.2</GBSeq_organism>
+./AJ133152.xml:  <GBSeq_organism>Anabaena flos-aquae 14</GBSeq_organism>
+./AJ132788.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AJ344563.xml:  <GBSeq_organism>Nostoc sp. DM103</GBSeq_organism>
+./AJ344554.xml:  <GBSeq_organism>Chroococcidiopsis sp. SAG 2025</GBSeq_organism>
+./AY034793.xml:  <GBSeq_organism>Hapalosiphon welwitschii</GBSeq_organism>
+./AF132781.xml:  <GBSeq_organism>Scytonema hofmanni PCC 7110</GBSeq_organism>
+./AJ133156.xml:  <GBSeq_organism>Anabaena sp. 90</GBSeq_organism>
+./AJ344560.xml:  <GBSeq_organism>Fischerella sp. BB98.1</GBSeq_organism>
+./AF132777.xml:  <GBSeq_organism>Chlorogloeopsis fritschii PCC 6718</GBSeq_organism>
+./AF027655.xml:  <GBSeq_organism>Nostoc punctiforme PCC 73102</GBSeq_organism>
+./AJ344553.xml:  <GBSeq_organism>Chroococcidiopsis sp. BB82.3</GBSeq_organism>
+./AF062638.xml:  <GBSeq_organism>Nostoc sp. ATCC 53789</GBSeq_organism>
+./AF067818.xml:  <GBSeq_organism>Cylindrospermopsis raciborskii</GBSeq_organism>
+./AF092504.xml:  <GBSeq_organism>Cylindrospermopsis raciborskii AWT205</GBSeq_organism>
+./AY069954.xml:  <GBSeq_organism>Scytonema sp. U-3-3</GBSeq_organism>
+./AJ224447.xml:  <GBSeq_organism>Nodularia sp. BCNOD9427</GBSeq_organism>

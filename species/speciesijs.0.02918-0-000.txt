@@ -1,0 +1,22 @@
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./AF176948.xml:  <GBSeq_organism>Janibacter terrae</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./Y18378.xml:  <GBSeq_organism>Beutenbergia cavernae DSM 12333</GBSeq_organism>
+./X51601.xml:  <GBSeq_organism>Renibacterium salmoninarum</GBSeq_organism>
+./x91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./X67754.xml:  <GBSeq_organism>Vigna unguiculata</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./D85486.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./X79453.xml:  <GBSeq_organism>Cellulosimicrobium cellulans LMG 16121</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./L40615.xml:  <GBSeq_organism>Dermatophilus congolensis</GBSeq_organism>
+./Y17870.xml:  <GBSeq_organism>Rarobacter faecitabidus</GBSeq_organism>
+./M23411.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>

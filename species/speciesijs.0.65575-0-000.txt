@@ -1,0 +1,6 @@
+./AM778683.xml:  <GBSeq_organism>Aeromicrobium ponti</GBSeq_organism>
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./AF005022.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./DQ411541.xml:  <GBSeq_organism>Aeromicrobium tamlense</GBSeq_organism>

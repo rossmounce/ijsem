@@ -1,0 +1,13 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AY187690.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./M64629.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>

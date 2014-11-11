@@ -1,0 +1,43 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF353090.xml:  <GBSeq_organism>Loofah witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY197655.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AF373105.xml:  <GBSeq_organism>Cirsium white leaf phytoplasma</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AY725234.xml:  <GBSeq_organism>Candidatus Phytoplasma caricae</GBSeq_organism>
+./L33733.xml:  <GBSeq_organism>Canadian peach X phytoplasma</GBSeq_organism>
+./L76865.xml:  <GBSeq_organism>Candidatus Phytoplasma australiense</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AJ632155.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./AJ964960.xml:  <GBSeq_organism>Candidatus Phytoplasma solani</GBSeq_organism>
+./EF668051.xml:  <GBSeq_organism>uncultured Geobacteraceae bacterium</GBSeq_organism>
+./AJ539180.xml:  <GBSeq_organism>Sugarcane phytoplasma (uncharacterized)</GBSeq_organism>
+./AF498307.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./EU169138.xml:  <GBSeq_organism>Poinsettia exuberant flower-inducing phytoplasma</GBSeq_organism>
+./AF302841.xml:  <GBSeq_organism>Black raspberry witches&apos;-broom phytoplasma</GBSeq_organism>
+./L33734.xml:  <GBSeq_organism>Acholeplasma palmae J233</GBSeq_organism>
+./AF248960.xml:  <GBSeq_organism>Mexican periwinkle virescence phytoplasma</GBSeq_organism>
+./AF147706.xml:  <GBSeq_organism>Chayote witches&apos;-broom phytoplasma</GBSeq_organism>
+./FJ226074.xml:  <GBSeq_organism>Montana potato purple top phytoplasma</GBSeq_organism>
+./AF515636.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./AF509322.xml:  <GBSeq_organism>Sorghum bunchy shoot phytoplasma</GBSeq_organism>
+./AF190226.xml:  <GBSeq_organism>Walnut witches&apos;-broom phytoplasma</GBSeq_organism>
+./L04682.xml:  <GBSeq_organism>Western X phytoplasma</GBSeq_organism>
+./AB052876.xml:  <GBSeq_organism>Phytoplasma sp. JWB-G1</GBSeq_organism>
+./AY744945.xml:  <GBSeq_organism>Derbid phytoplasma</GBSeq_organism>
+./FJ376627.xml:  <GBSeq_organism>Goldenrod yellows phytoplasma</GBSeq_organism>
+./U15442.xml:  <GBSeq_organism>Candidatus Phytoplasma aurantifolia</GBSeq_organism>
+./Y14175.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./FJ376629.xml:  <GBSeq_organism>Alaska potato purple top phytoplasma</GBSeq_organism>
+./AF370119.xml:  <GBSeq_organism>Dandelion virescence phytoplasma</GBSeq_organism>
+./AF173558.xml:  <GBSeq_organism>Clover yellow edge phytoplasma</GBSeq_organism>
+./AY390261.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./AJ542544.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./AJ539179.xml:  <GBSeq_organism>Sugarcane phytoplasma (uncharacterized)</GBSeq_organism>
+./AY725228.xml:  <GBSeq_organism>Candidatus Phytoplasma graminis</GBSeq_organism>
+./AF510724.xml:  <GBSeq_organism>Milkweed yellows phytoplasma</GBSeq_organism>
+./AF521672.xml:  <GBSeq_organism>Weeping tea tree witches&apos;-broom phytoplasma</GBSeq_organism>
+./AF147708.xml:  <GBSeq_organism>Candidatus Phytoplasma brasiliense</GBSeq_organism>
+./AF274876.xml:  <GBSeq_organism>Strawberry leafy fruit phytoplasma</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>

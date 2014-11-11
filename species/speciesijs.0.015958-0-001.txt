@@ -1,0 +1,14 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./FJ440064.xml:  <GBSeq_organism>uncultured Succinivibrionaceae bacterium</GBSeq_organism>
+./AJ420985.xml:  <GBSeq_organism>Anaerobiospirillum thomasii</GBSeq_organism>
+./X92889.xml:  <GBSeq_organism>Tolumonas auensis DSM 9187</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./DQ195675.xml:  <GBSeq_organism>Zobellella denitrificans</GBSeq_organism>
+./DQ456106.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./Y15992.xml:  <GBSeq_organism>Ruminobacter amylophilus</GBSeq_organism>
+./Y17600.xml:  <GBSeq_organism>Succinivibrio dextrinosolvens</GBSeq_organism>
+./FJ440079.xml:  <GBSeq_organism>uncultured Succinivibrionaceae bacterium</GBSeq_organism>
+./X74677.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./U96412.xml:  <GBSeq_organism>Anaerobiospirillum succiniciproducens</GBSeq_organism>
+./AB490810.xml:  <GBSeq_organism>Succinatimonas hippei YIT 12066</GBSeq_organism>
+./FJ440035.xml:  <GBSeq_organism>uncultured Succinivibrionaceae bacterium</GBSeq_organism>

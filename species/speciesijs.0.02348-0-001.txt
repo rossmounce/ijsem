@@ -1,0 +1,7 @@
+./AF004845.xml:  <GBSeq_organism>Methylorhabdus multivorans</GBSeq_organism>
+./M29026.xml:  <GBSeq_organism>Methylocystis parvus</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./M29024.xml:  <GBSeq_organism>Methylosinus trichosporium</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./AY078053.xml:  <GBSeq_organism>Microvirga subterranea</GBSeq_organism>

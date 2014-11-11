@@ -1,0 +1,14 @@
+./X95071.xml:  <GBSeq_organism>Rhodothermus marinus</GBSeq_organism>
+./AB301494.xml:  <GBSeq_organism>Lewinella lutea</GBSeq_organism>
+./AF039296.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AB245933.xml:  <GBSeq_organism>Aureispira marina</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./EF554367.xml:  <GBSeq_organism>Lewinella antarctica</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AM286229.xml:  <GBSeq_organism>Lewinella agarilytica</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AF124055.xml:  <GBSeq_organism>Vibrio aerogenes CECT 7868</GBSeq_organism>
+./X74724.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./X74701.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./X74712.xml:  <GBSeq_organism>Vibrio metschnikovii</GBSeq_organism>
+./X74705.xml:  <GBSeq_organism>Vibrio gazogenes</GBSeq_organism>
+./Y13830.xml:  <GBSeq_organism>Vibrio pectenicida</GBSeq_organism>
+./U46579.xml:  <GBSeq_organism>Vibrio scophthalmi LMG 19158</GBSeq_organism>
+./AF462458.xml:  <GBSeq_organism>Vibrio ruber</GBSeq_organism>
+./X74718.xml:  <GBSeq_organism>Vibrio ordalii ATCC 33509</GBSeq_organism>
+./X74698.xml:  <GBSeq_organism>Vibrio cincinnatiensis</GBSeq_organism>
+./X74689.xml:  <GBSeq_organism>Vibrio aestuarianus</GBSeq_organism>
+./X76333.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./Y08430.xml:  <GBSeq_organism>Vibrio tapetis</GBSeq_organism>
+./X74715.xml:  <GBSeq_organism>Vibrio navarrensis</GBSeq_organism>
+./X74713.xml:  <GBSeq_organism>Vibrio mimicus</GBSeq_organism>

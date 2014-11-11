@@ -1,0 +1,9 @@
+./AJ270471.xml:  <GBSeq_organism>butyrate-producing bacterium A2-207</GBSeq_organism>
+./AY724678.xml:  <GBSeq_organism>Flavonifractor plautii</GBSeq_organism>
+./L34618.xml:  <GBSeq_organism>Eubacterium desmolans</GBSeq_organism>
+./M59095.xml:  <GBSeq_organism>[Clostridium] leptum</GBSeq_organism>
+./EU410376.xml:  <GBSeq_organism>Butyricicoccus pullicaecorum</GBSeq_organism>
+./Y18187.xml:  <GBSeq_organism>Flavonifractor plautii DSM 6740</GBSeq_organism>
+./X81125.xml:  <GBSeq_organism>[Clostridium] viride</GBSeq_organism>
+./AJ413954.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>
+./M59103.xml:  <GBSeq_organism>Clostridium perfringens</GBSeq_organism>

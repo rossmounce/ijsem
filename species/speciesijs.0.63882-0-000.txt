@@ -1,0 +1,13 @@
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./X79454.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./AY523787.xml:  <GBSeq_organism>Cellulosimicrobium funkei</GBSeq_organism>
+./AY523788.xml:  <GBSeq_organism>Cellulosimicrobium funkei</GBSeq_organism>
+./AJ298873.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./AY501363.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X83807.xml:  <GBSeq_organism>Oerskovia enterophila</GBSeq_organism>
+./AY523789.xml:  <GBSeq_organism>Cellulosimicrobium funkei</GBSeq_organism>
+./X83802.xml:  <GBSeq_organism>Cellulomonas biazotea</GBSeq_organism>
+./AJ314848.xml:  <GBSeq_organism>Oerskovia jenensis</GBSeq_organism>
+./AY501364.xml:  <GBSeq_organism>Cellulosimicrobium funkei</GBSeq_organism>
+./AJ314851.xml:  <GBSeq_organism>Oerskovia paurometabola</GBSeq_organism>
+./X79460.xml:  <GBSeq_organism>Cellulomonas fimi ATCC 484</GBSeq_organism>

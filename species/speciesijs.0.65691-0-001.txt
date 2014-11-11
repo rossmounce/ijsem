@@ -1,0 +1,22 @@
+./AM885870.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AM887685.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AM885868.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AJ295715.xml:  <GBSeq_organism>Alteromonas stellipolaris</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./U85846.xml:  <GBSeq_organism>Colwellia psychrotropica</GBSeq_organism>
+./DQ836765.xml:  <GBSeq_organism>Alteromonas tagae</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./AM885866.xml:  <GBSeq_organism>Alteromonas genovensis</GBSeq_organism>
+./U14581.xml:  <GBSeq_organism>Colwellia rossensis</GBSeq_organism>
+./AY428573.xml:  <GBSeq_organism>Alteromonas litorea</GBSeq_organism>
+./AY926460.xml:  <GBSeq_organism>Alteromonas hispanica</GBSeq_organism>
+./AM885867.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AY682202.xml:  <GBSeq_organism>Alteromonas addita</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AM887686.xml:  <GBSeq_organism>Alteromonas genovensis</GBSeq_organism>
+./DQ784575.xml:  <GBSeq_organism>Glaciecola agarilytica</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>
+./DQ836766.xml:  <GBSeq_organism>Alteromonas simiduii</GBSeq_organism>
+./X74683.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>

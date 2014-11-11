@@ -1,0 +1,8 @@
+./FM995533.xml:  <GBSeq_organism>Dietzia aerolata</GBSeq_organism>
+./AY643401.xml:  <GBSeq_organism>Dietzia papillomatosis</GBSeq_organism>
+./AJ920289.xml:  <GBSeq_organism>Dietzia cinnamea</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./EU375846.xml:  <GBSeq_organism>Dietzia cercidiphylli</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./AY972480.xml:  <GBSeq_organism>Dietzia kunjamensis</GBSeq_organism>
+./EU375845.xml:  <GBSeq_organism>Dietzia schimae</GBSeq_organism>

@@ -1,0 +1,23 @@
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./AF154129.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AF277204.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AF278572.xml:  <GBSeq_organism>Nocardia veterana</GBSeq_organism>
+./AF060790.xml:  <GBSeq_organism>Nocardia cerradoensis</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./M59056.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./X84857.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AF277198.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./AF282889.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AF459443.xml:  <GBSeq_organism>Nocardia caishijiensis</GBSeq_organism>
+./AJ303008.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./AF277199.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./X52917.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AF179865.xml:  <GBSeq_organism>Nocardia paucivorans</GBSeq_organism>
+./AF277223.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X80609.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AB024312.xml:  <GBSeq_organism>Nocardia vinacea</GBSeq_organism>

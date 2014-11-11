@@ -1,0 +1,13 @@
+./L16468.xml:  <GBSeq_organism>Prevotella intermedia</GBSeq_organism>
+./EF534315.xml:  <GBSeq_organism>Prevotella maculosa</GBSeq_organism>
+./L16471.xml:  <GBSeq_organism>Prevotella nigrescens</GBSeq_organism>
+./EF534314.xml:  <GBSeq_organism>Prevotella maculosa</GBSeq_organism>
+./L16472.xml:  <GBSeq_organism>Prevotella oulorum</GBSeq_organism>
+./L16474.xml:  <GBSeq_organism>Prevotella oris</GBSeq_organism>
+./Y13105.xml:  <GBSeq_organism>Prevotella pallens ATCC 700821</GBSeq_organism>
+./L16483.xml:  <GBSeq_organism>Prevotella disiens</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./AJ011683.xml:  <GBSeq_organism>Prevotella albensis</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./L16465.xml:  <GBSeq_organism>Prevotella corporis</GBSeq_organism>
+./AY836507.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>

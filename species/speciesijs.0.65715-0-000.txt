@@ -1,0 +1,13 @@
+./DQ473536.xml:  <GBSeq_organism>Herbiconiux ginsengi</GBSeq_organism>
+./U96183.xml:  <GBSeq_organism>Leifsonia xyli subsp. xyli</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./AJ438585.xml:  <GBSeq_organism>Leifsonia rubra</GBSeq_organism>
+./AM900767.xml:  <GBSeq_organism>Leifsonia pindariensis</GBSeq_organism>
+./AB016985.xml:  <GBSeq_organism>Leifsonia xyli subsp. cynodontis</GBSeq_organism>
+./AJ438586.xml:  <GBSeq_organism>Rhodoglobus aureus</GBSeq_organism>
+./AJ310417.xml:  <GBSeq_organism>Plantibacter flavus</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./AF116342.xml:  <GBSeq_organism>Leifsonia poae</GBSeq_organism>
+./AB028940.xml:  <GBSeq_organism>Microbacteriaceae str. DB102</GBSeq_organism>

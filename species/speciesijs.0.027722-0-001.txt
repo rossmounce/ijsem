@@ -1,0 +1,13 @@
+./AB535095.xml:  <GBSeq_organism>Actinophytocola burenkhanensis</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./AJ293754.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./EU274339.xml:  <GBSeq_organism>Actinophytocola xinjiangensis</GBSeq_organism>
+./EU722520.xml:  <GBSeq_organism>Pseudonocardia xinjiangensis</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AJ252827.xml:  <GBSeq_organism>Pseudonocardia halophobica</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./EU420070.xml:  <GBSeq_organism>Actinophytocola oryzae</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AY083603.xml:  <GBSeq_organism>Amycolatopsis rifamycinica</GBSeq_organism>
+./AF114801.xml:  <GBSeq_organism>Kutzneria kofuensis</GBSeq_organism>
+./EF543522.xml:  <GBSeq_organism>Kutzneria albida</GBSeq_organism>

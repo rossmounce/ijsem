@@ -1,0 +1,15 @@
+./AY520330.xml:  <GBSeq_organism>Candida endomychidarum</GBSeq_organism>
+./AY520329.xml:  <GBSeq_organism>Candida michaelii</GBSeq_organism>
+./EF550348.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./AY520327.xml:  <GBSeq_organism>Candida amphicis</GBSeq_organism>
+./AJ716105.xml:  <GBSeq_organism>Candida friedrichii</GBSeq_organism>
+./AY640213.xml:  <GBSeq_organism>Candida blattariae</GBSeq_organism>
+./U45792.xml:  <GBSeq_organism>Candida membranifaciens</GBSeq_organism>
+./AY520299.xml:  <GBSeq_organism>Candida cerambycidarum</GBSeq_organism>
+./AY450918.xml:  <GBSeq_organism>Candida diospyri</GBSeq_organism>
+./EU200785.xml:  <GBSeq_organism>Candida vrieseae</GBSeq_organism>
+./U45797.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./AY048154.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./AY520300.xml:  <GBSeq_organism>Candida gorgasii</GBSeq_organism>
+./AF017243.xml:  <GBSeq_organism>Candida tammaniensis</GBSeq_organism>
+./AY640214.xml:  <GBSeq_organism>Candida lessepsii</GBSeq_organism>

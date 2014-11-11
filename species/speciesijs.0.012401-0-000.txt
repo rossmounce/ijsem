@@ -1,0 +1,15 @@
+./U14586.xml:  <GBSeq_organism>Polaribacter franzmannii ATCC 700399</GBSeq_organism>
+./AM746476.xml:  <GBSeq_organism>Tenacibaculum soleae</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./M58775.xml:  <GBSeq_organism>Polaribacter glomeratus</GBSeq_organism>
+./AY962293.xml:  <GBSeq_organism>Lutibacter litoralis</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AY189722.xml:  <GBSeq_organism>Polaribacter butkevichii</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AM746477.xml:  <GBSeq_organism>Tenacibaculum gallaicum</GBSeq_organism>
+./AY962294.xml:  <GBSeq_organism>Tenacibaculum litoreum</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./EU239499.xml:  <GBSeq_organism>Aestuariicola saemankumensis</GBSeq_organism>
+./FJ598048.xml:  <GBSeq_organism>Lutibacter maritimus</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>

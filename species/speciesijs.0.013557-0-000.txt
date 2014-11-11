@@ -1,0 +1,18 @@
+./AB008513.xml:  <GBSeq_organism>Brevundimonas bacteroides</GBSeq_organism>
+./AJ227785.xml:  <GBSeq_organism>Brevundimonas alba</GBSeq_organism>
+./AJ007800.xml:  <GBSeq_organism>Asticcacaulis excentricus CB 48</GBSeq_organism>
+./DQ372984.xml:  <GBSeq_organism>Brevundimonas aveniformis</GBSeq_organism>
+./AJ227778.xml:  <GBSeq_organism>Brevundimonas diminuta ATCC 11568</GBSeq_organism>
+./AJ227786.xml:  <GBSeq_organism>Brevundimonas intermedia</GBSeq_organism>
+./AY971368.xml:  <GBSeq_organism>Brevundimonas kwangchunensis</GBSeq_organism>
+./X94470.xml:  <GBSeq_organism>Brevundimonas subvibrioides ATCC 15264</GBSeq_organism>
+./DQ335215.xml:  <GBSeq_organism>Brevundimonas terrae</GBSeq_organism>
+./EU143355.xml:  <GBSeq_organism>Brevundimonas basaltis</GBSeq_organism>
+./Y18216.xml:  <GBSeq_organism>Phenylobacterium immobile</GBSeq_organism>
+./D12785.xml:  <GBSeq_organism>Brevundimonas bullata</GBSeq_organism>
+./AJ227787.xml:  <GBSeq_organism>Brevundimonas aurantiaca</GBSeq_organism>
+./AJ227783.xml:  <GBSeq_organism>Brevundimonas variabilis</GBSeq_organism>
+./AJ009957.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./EF363713.xml:  <GBSeq_organism>Brevundimonas lenta</GBSeq_organism>
+./AB071954.xml:  <GBSeq_organism>Brevundimonas nasdae</GBSeq_organism>
+./AJ227802.xml:  <GBSeq_organism>Maricaulis maris</GBSeq_organism>

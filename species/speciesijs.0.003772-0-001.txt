@@ -1,0 +1,33 @@
+./U22252.xml:  <GBSeq_organism>Methanosalsum zhilinae</GBSeq_organism>
+./AY672821.xml:  <GBSeq_organism>Methanomethylovorans thermophila</GBSeq_organism>
+./U22245.xml:  <GBSeq_organism>Methanolobus vulcani</GBSeq_organism>
+./AF005049.xml:  <GBSeq_organism>Methanococcus maripaludis</GBSeq_organism>
+./M59137.xml:  <GBSeq_organism>Methanosarcina acetivorans</GBSeq_organism>
+./U22235.xml:  <GBSeq_organism>Methanococcoides methylutens</GBSeq_organism>
+./AY260442.xml:  <GBSeq_organism>Methanomethylovorans hollandica</GBSeq_organism>
+./AY260440.xml:  <GBSeq_organism>Methanosarcina mazei</GBSeq_organism>
+./U22257.xml:  <GBSeq_organism>Methanolobus bombayensis</GBSeq_organism>
+./U22244.xml:  <GBSeq_organism>Methanolobus tindarius</GBSeq_organism>
+./EU715818.xml:  <GBSeq_organism>Methanolobus zinderi</GBSeq_organism>
+./U22239.xml:  <GBSeq_organism>Methanohalophilus portucalensis FDF-1</GBSeq_organism>
+./AY941802.xml:  <GBSeq_organism>Methanococcoides alaskense</GBSeq_organism>
+./U20154.xml:  <GBSeq_organism>Methanolobus taylorii</GBSeq_organism>
+./EU711413.xml:  <GBSeq_organism>Methanolobus zinderi</GBSeq_organism>
+./Y00158.xml:  <GBSeq_organism>Methanosarcina barkeri</GBSeq_organism>
+./U20155.xml:  <GBSeq_organism>Methanolobus vulcani</GBSeq_organism>
+./AJ012094.xml:  <GBSeq_organism>Methanosarcina barkeri</GBSeq_organism>
+./U22259.xml:  <GBSeq_organism>Methanohalophilus halophilus</GBSeq_organism>
+./M59133.xml:  <GBSeq_organism>Methanohalophilus mahii DSM 5219</GBSeq_organism>
+./U22250.xml:  <GBSeq_organism>Methanosarcina thermophila TM-1</GBSeq_organism>
+./M59135.xml:  <GBSeq_organism>Methanolobus tindarius</GBSeq_organism>
+./X98192.xml:  <GBSeq_organism>Methanohalophilus euhalobius</GBSeq_organism>
+./AF120163.xml:  <GBSeq_organism>Methanomethylovorans hollandica DSM 15978</GBSeq_organism>
+./U20148.xml:  <GBSeq_organism>Methanolobus bombayensis</GBSeq_organism>
+./M59140.xml:  <GBSeq_organism>Methanosarcina thermophila TM-1</GBSeq_organism>
+./U22247.xml:  <GBSeq_organism>Methanosarcina acetivorans</GBSeq_organism>
+./U22243.xml:  <GBSeq_organism>Methanolobus taylorii</GBSeq_organism>
+./AY672820.xml:  <GBSeq_organism>Methanomethylovorans thermophila</GBSeq_organism>
+./X65537.xml:  <GBSeq_organism>Methanococcoides burtonii</GBSeq_organism>
+./M59127.xml:  <GBSeq_organism>Methanococcoides methylutens</GBSeq_organism>
+./U22242.xml:  <GBSeq_organism>Methanolobus oregonensis</GBSeq_organism>
+./U20152.xml:  <GBSeq_organism>Methanolobus oregonensis</GBSeq_organism>

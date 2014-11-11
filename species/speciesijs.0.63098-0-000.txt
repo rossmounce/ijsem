@@ -1,0 +1,14 @@
+./X72913.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AB010840.xml:  <GBSeq_organism>Achromobacter ruhlandii</GBSeq_organism>
+./D88007.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./L37785.xml:  <GBSeq_organism>Sutterella wadsworthensis</GBSeq_organism>
+./AF078772.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./U04948.xml:  <GBSeq_organism>Bordetella bronchiseptica</GBSeq_organism>
+./Y11890.xml:  <GBSeq_organism>Pelistega europaea</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./Z18533.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./X87275.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AJ277742.xml:  <GBSeq_organism>Brackiella oedipodis</GBSeq_organism>

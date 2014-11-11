@@ -1,0 +1,14 @@
+./EU566871.xml:  <GBSeq_organism>Nesterenkonia alba</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AY226508.xml:  <GBSeq_organism>Nesterenkonia halotolerans</GBSeq_organism>
+./AJ290397.xml:  <GBSeq_organism>Nesterenkonia lacusekhoensis</GBSeq_organism>
+./X93353.xml:  <GBSeq_organism>Arthrobacter woluwensis</GBSeq_organism>
+./AY928901.xml:  <GBSeq_organism>Nesterenkonia jeotgali</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./X93354.xml:  <GBSeq_organism>Arthrobacter cumminsii</GBSeq_organism>
+./AY574575.xml:  <GBSeq_organism>Nesterenkonia aethiopica</GBSeq_organism>
+./AY588278.xml:  <GBSeq_organism>Nesterenkonia lutea</GBSeq_organism>
+./AY820953.xml:  <GBSeq_organism>Nesterenkonia halophila</GBSeq_organism>
+./AY226510.xml:  <GBSeq_organism>Nesterenkonia xinjiangensis</GBSeq_organism>
+./EF680886.xml:  <GBSeq_organism>Nesterenkonia flava</GBSeq_organism>
+./AY588277.xml:  <GBSeq_organism>Nesterenkonia sandarakina</GBSeq_organism>

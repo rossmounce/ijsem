@@ -1,0 +1,17 @@
+./AF445264.xml:  <GBSeq_organism>Hespellia stercorisuis</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./AF371640.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L34621.xml:  <GBSeq_organism>[Eubacterium] hallii</GBSeq_organism>
+./AF445239.xml:  <GBSeq_organism>Hespellia porcina</GBSeq_organism>
+./X89970.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X87151.xml:  <GBSeq_organism>Catonella morbi ATCC 51271</GBSeq_organism>
+./L34619.xml:  <GBSeq_organism>Dorea formicigenerans</GBSeq_organism>
+./D14137.xml:  <GBSeq_organism>Ruminococcus torques ATCC 27756</GBSeq_organism>
+./M59089.xml:  <GBSeq_organism>[Clostridium] clostridioforme</GBSeq_organism>
+./M59109.xml:  <GBSeq_organism>[Clostridium] oroticum</GBSeq_organism>
+./L14675.xml:  <GBSeq_organism>Lachnospira pectinoschiza</GBSeq_organism>
+./M59083.xml:  <GBSeq_organism>Acetitomaculum ruminis</GBSeq_organism>
+./X77839.xml:  <GBSeq_organism>[Clostridium] polysaccharolyticum</GBSeq_organism>
+./D14148.xml:  <GBSeq_organism>Coprococcus eutactus</GBSeq_organism>
+./L34615.xml:  <GBSeq_organism>[Eubacterium] contortum</GBSeq_organism>
+./L34418.xml:  <GBSeq_organism>[Clostridium] herbivorans</GBSeq_organism>

@@ -1,0 +1,13 @@
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./AY228463.xml:  <GBSeq_organism>Brevibacterium celere</GBSeq_organism>
+./AM158906.xml:  <GBSeq_organism>Brevibacterium oceani</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./AJ251418.xml:  <GBSeq_organism>Brevibacterium casei</GBSeq_organism>
+./X76566.xml:  <GBSeq_organism>Brevibacterium aurantiacum</GBSeq_organism>
+./AJ564859.xml:  <GBSeq_organism>Brevibacterium sanguinis</GBSeq_organism>
+./X83813.xml:  <GBSeq_organism>Brevibacterium iodinum</GBSeq_organism>
+./X76565.xml:  <GBSeq_organism>Brevibacterium epidermidis</GBSeq_organism>
+./AY243344.xml:  <GBSeq_organism>Brevibacterium antiquum</GBSeq_organism>
+./AY243343.xml:  <GBSeq_organism>Brevibacterium permense</GBSeq_organism>
+./AM158905.xml:  <GBSeq_organism>Brevibacterium oceani</GBSeq_organism>
+./AJ620364.xml:  <GBSeq_organism>Brevibacterium picturae</GBSeq_organism>

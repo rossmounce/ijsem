@@ -1,0 +1,7 @@
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AY208972.xml:  <GBSeq_organism>Natrinema altunense</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./AB023426.xml:  <GBSeq_organism>Natrinema versiforme</GBSeq_organism>
+./AM117571.xml:  <GBSeq_organism>Halostagnicola larsenii XH-48</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

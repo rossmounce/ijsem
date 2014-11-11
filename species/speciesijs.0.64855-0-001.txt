@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF118453.xml:  <GBSeq_organism>Desulforhopalus singaporensis</GBSeq_organism>
+./U85473.xml:  <GBSeq_organism>Desulfobulbus sp. BG25</GBSeq_organism>
+./AB110549.xml:  <GBSeq_organism>Desulfobulbus japonicus</GBSeq_organism>
+./X95180.xml:  <GBSeq_organism>Desulfobulbus elongatus</GBSeq_organism>
+./L42613.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./AY548789.xml:  <GBSeq_organism>Desulfobulbus propionicus DSM 2032</GBSeq_organism>
+./X95181.xml:  <GBSeq_organism>Desulfocapsa thiozymogenes DSM 7269</GBSeq_organism>
+./X99707.xml:  <GBSeq_organism>Desulfofustis glycolicus</GBSeq_organism>
+./AF354663.xml:  <GBSeq_organism>Desulfobulbus mediterraneus</GBSeq_organism>
+./AF099061.xml:  <GBSeq_organism>Desulfotalea arctica</GBSeq_organism>
+./U12253.xml:  <GBSeq_organism>Desulfobulbus rhabdoformis</GBSeq_organism>
+./Y13672.xml:  <GBSeq_organism>Desulfocapsa sulfexigens DSM 10523</GBSeq_organism>
+./AF099062.xml:  <GBSeq_organism>Desulfotalea psychrophila LSv54</GBSeq_organism>
+./M34411.xml:  <GBSeq_organism>Desulfobulbus marinus</GBSeq_organism>

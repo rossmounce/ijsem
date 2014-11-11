@@ -1,0 +1,22 @@
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X16895.xml:  <GBSeq_organism>Vibrio anguillarum</GBSeq_organism>
+./X70643.xml:  <GBSeq_organism>Aliivibrio salmonicida</GBSeq_organism>
+./AJ550856.xml:  <GBSeq_organism>Enhydrobacter aerosaccus</GBSeq_organism>
+./X56583.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./X74707.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./D25309.xml:  <GBSeq_organism>Photobacterium leiognathi</GBSeq_organism>
+./AJ514911.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./AJ316208.xml:  <GBSeq_organism>Enterovibrio norvegicus</GBSeq_organism>
+./X74708.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./AJ550855.xml:  <GBSeq_organism>Allomonas enterica</GBSeq_organism>
+./AJ514910.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./AY043376.xml:  <GBSeq_organism>Moraxella osloensis</GBSeq_organism>
+./X74703.xml:  <GBSeq_organism>Vibrio fluvialis</GBSeq_organism>
+./X74722.xml:  <GBSeq_organism>Vibrio pelagius</GBSeq_organism>
+./X95527.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>
+./AF005190.xml:  <GBSeq_organism>Moraxella osloensis</GBSeq_organism>
+./AJ316207.xml:  <GBSeq_organism>Vibrio sp. LMG 19840</GBSeq_organism>
+./X74713.xml:  <GBSeq_organism>Vibrio mimicus</GBSeq_organism>
+./AF118021.xml:  <GBSeq_organism>Enterovibrio calviensis</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

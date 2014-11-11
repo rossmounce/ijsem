@@ -1,0 +1,14 @@
+./EF138819.xml:  <GBSeq_organism>Mycobacterium setense</GBSeq_organism>
+./AY262738.xml:  <GBSeq_organism>Mycobacterium senegalense</GBSeq_organism>
+./AY262735.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./AY262743.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./AY147166.xml:  <GBSeq_organism>Mycobacterium peregrinum</GBSeq_organism>
+./AY859697.xml:  <GBSeq_organism>Mycobacterium alvei</GBSeq_organism>
+./AY262736.xml:  <GBSeq_organism>Mycobacterium goodii</GBSeq_organism>
+./AY147165.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./AY147173.xml:  <GBSeq_organism>Mycobacterium fortuitum</GBSeq_organism>
+./AY147169.xml:  <GBSeq_organism>Mycobacterium mageritense DSM 44476</GBSeq_organism>
+./AY147172.xml:  <GBSeq_organism>Mycobacterium fortuitum</GBSeq_organism>
+./AY147167.xml:  <GBSeq_organism>Mycobacterium septicum DSM 44393</GBSeq_organism>
+./AY262737.xml:  <GBSeq_organism>Mycobacterium porcinum</GBSeq_organism>
+./AY859695.xml:  <GBSeq_organism>Mycobacterium conceptionense</GBSeq_organism>

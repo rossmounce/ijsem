@@ -1,0 +1,29 @@
+./AM262153.xml:  <GBSeq_organism>Aeromonas sp. F544A</GBSeq_organism>
+./X60415.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./AJ458411.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./AM262157.xml:  <GBSeq_organism>Aeromonas dhakensis</GBSeq_organism>
+./X60413.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>
+./X74675.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./X60416.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./X74680.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./AM262149.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./X60414.xml:  <GBSeq_organism>Aeromonas veronii bv. veronii</GBSeq_organism>
+./U88663.xml:  <GBSeq_organism>Aeromonas diversa 2478-85</GBSeq_organism>
+./X74674.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./AM262150.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./AM262151.xml:  <GBSeq_organism>Aeromonas hydrophila subsp. ranae</GBSeq_organism>
+./AM262154.xml:  <GBSeq_organism>Aeromonas sp. V168</GBSeq_organism>
+./X60417.xml:  <GBSeq_organism>Aeromonas sp.</GBSeq_organism>
+./X60412.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./AY928474.xml:  <GBSeq_organism>Aeromonas veronii bv. sobria</GBSeq_organism>
+./AM262152.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./X74679.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./AF170914.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AM262156.xml:  <GBSeq_organism>Aeromonas sp. V97</GBSeq_organism>
+./AY532689.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./X74677.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AJ224309.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AJ224308.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AM262155.xml:  <GBSeq_organism>Aeromonas sp. V30</GBSeq_organism>
+./AJ458404.xml:  <GBSeq_organism>Aeromonas sp. F666D</GBSeq_organism>
+./AJ536821.xml:  <GBSeq_organism>Aeromonas simiae</GBSeq_organism>

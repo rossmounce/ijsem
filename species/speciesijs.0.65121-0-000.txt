@@ -1,0 +1,9 @@
+./X72588.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./DQ367242.xml:  <GBSeq_organism>Haloterrigena longa</GBSeq_organism>
+./AB004877.xml:  <GBSeq_organism>Halococcus salifodinae</GBSeq_organism>
+./DQ367241.xml:  <GBSeq_organism>Haloterrigena limicola JCM 13563</GBSeq_organism>
+./AB004878.xml:  <GBSeq_organism>Haloterrigena turkmenica DSM 5511</GBSeq_organism>
+./AY820137.xml:  <GBSeq_organism>Haloterrigena saccharevitans</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./EF077632.xml:  <GBSeq_organism>Halalkalicoccus jeotgali B3</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AY847463.xml:  <GBSeq_organism>Paenibacillus woosongensis</GBSeq_organism>
+./AM162312.xml:  <GBSeq_organism>Paenibacillus sp. JA-08</GBSeq_organism>
+./AY323608.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AJ320491.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./X60645.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus</GBSeq_organism>
+./AF378694.xml:  <GBSeq_organism>Paenibacillus turicensis</GBSeq_organism>
+./AY208751.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./D78473.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AM162324.xml:  <GBSeq_organism>Paenibacillus sp. HO2-R17</GBSeq_organism>
+./AY751754.xml:  <GBSeq_organism>Paenibacillus rhizosphaerae</GBSeq_organism>
+./AJ971483.xml:  <GBSeq_organism>Cohnella thermotolerans</GBSeq_organism>
+./AM162315.xml:  <GBSeq_organism>Paenibacillus sp. H10-05</GBSeq_organism>
+./AF433165.xml:  <GBSeq_organism>Cohnella hongkongensis</GBSeq_organism>
+./X57306.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AY359885.xml:  <GBSeq_organism>Paenibacillus dendritiformis</GBSeq_organism>
+./D78471.xml:  <GBSeq_organism>Paenibacillus kobensis</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AJ251215.xml:  <GBSeq_organism>Anaerovorax odorimutans</GBSeq_organism>
+./U13039.xml:  <GBSeq_organism>[Eubacterium] infirmum</GBSeq_organism>
+./AJ310135.xml:  <GBSeq_organism>Eubacterium pyruvativorans</GBSeq_organism>
+./L04167.xml:  <GBSeq_organism>[Clostridium] sticklandii</GBSeq_organism>
+./AF287761.xml:  <GBSeq_organism>Eubacterium sp. oral strain A35MT</GBSeq_organism>
+./U13041.xml:  <GBSeq_organism>Eubacterium nodatum ATCC 33099</GBSeq_organism>
+./X76161.xml:  <GBSeq_organism>Clostridium aminobutyricum</GBSeq_organism>
+./M55343.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./U13037.xml:  <GBSeq_organism>[Eubacterium] minutum</GBSeq_organism>
+./AJ006963.xml:  <GBSeq_organism>Eubacterium sulci ATCC 35585</GBSeq_organism>
+./AB034148.xml:  <GBSeq_organism>uncultured rumen bacterium 3C28d-4</GBSeq_organism>
+./L04168.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>
+./U65987.xml:  <GBSeq_organism>Eubacterium saphenum ATCC 49989</GBSeq_organism>

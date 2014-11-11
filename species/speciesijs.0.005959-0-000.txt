@@ -1,0 +1,6 @@
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./EU521689.xml:  <GBSeq_organism>Tsukamurella carboxydivorans</GBSeq_organism>
+./X92981.xml:  <GBSeq_organism>Tsukamurella pulmonis</GBSeq_organism>
+./AY238514.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./AY238513.xml:  <GBSeq_organism>Tsukamurella pseudospumae</GBSeq_organism>
+./AY714239.xml:  <GBSeq_organism>Tsukamurella spongiae</GBSeq_organism>

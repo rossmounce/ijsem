@@ -1,0 +1,12 @@
+./AB208718.xml:  <GBSeq_organism>Sphaerisporangium rubeum</GBSeq_organism>
+./U58527.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./X89953.xml:  <GBSeq_organism>Sphaerisporangium viridialbum</GBSeq_organism>
+./X97891.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./AB208714.xml:  <GBSeq_organism>Sphaerisporangium melleum</GBSeq_organism>
+./X89941.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./D85496.xml:  <GBSeq_organism>Planotetraspora mira</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./EU499344.xml:  <GBSeq_organism>Sphaerisporangium album</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./X89939.xml:  <GBSeq_organism>Sphaerisporangium cinnabarinum</GBSeq_organism>

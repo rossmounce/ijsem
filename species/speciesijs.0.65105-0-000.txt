@@ -1,0 +1,15 @@
+./AJ401208.xml:  <GBSeq_organism>Roseospira thiosulfatophila</GBSeq_organism>
+./X99671.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./M59067.xml:  <GBSeq_organism>Phaeospirillum molischianum</GBSeq_organism>
+./AM283537.xml:  <GBSeq_organism>Roseospira goensis</GBSeq_organism>
+./D12701.xml:  <GBSeq_organism>Rhodospirillum centenum</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AM282560.xml:  <GBSeq_organism>Roseospira visakhapatnamensis</GBSeq_organism>
+./D30777.xml:  <GBSeq_organism>Rhodospirillum photometricum</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./D14431.xml:  <GBSeq_organism>Rhodothalassium salexigens DSM 2132</GBSeq_organism>
+./AJ298880.xml:  <GBSeq_organism>Roseospira navarrensis</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./M59072.xml:  <GBSeq_organism>Rhodovibrio sodomensis</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>

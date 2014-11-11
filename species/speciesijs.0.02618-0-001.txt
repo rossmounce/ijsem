@@ -1,0 +1,12 @@
+./AJ512429.xml:  <GBSeq_organism>Hanseniaspora occidentalis</GBSeq_organism>
+./AJ512436.xml:  <GBSeq_organism>Hanseniaspora meyeri</GBSeq_organism>
+./AJ512445.xml:  <GBSeq_organism>Pelophylax epeiroticus</GBSeq_organism>
+./AJ512432.xml:  <GBSeq_organism>Hanseniaspora uvarum</GBSeq_organism>
+./AJ512427.xml:  <GBSeq_organism>Hanseniaspora guilliermondii</GBSeq_organism>
+./AJ512431.xml:  <GBSeq_organism>Hanseniaspora osmophila</GBSeq_organism>
+./AJ512437.xml:  <GBSeq_organism>Hanseniaspora sp. CBS 8772</GBSeq_organism>
+./AJ512428.xml:  <GBSeq_organism>Hanseniaspora uvarum</GBSeq_organism>
+./AJ512440.xml:  <GBSeq_organism>Hanseniaspora opuntiae</GBSeq_organism>
+./AJ512439.xml:  <GBSeq_organism>Hanseniaspora lachancei</GBSeq_organism>
+./AJ512430.xml:  <GBSeq_organism>Kloeckera lindneri</GBSeq_organism>
+./AJ512438.xml:  <GBSeq_organism>Hanseniaspora meyeri</GBSeq_organism>

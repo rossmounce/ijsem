@@ -1,0 +1,30 @@
+./AB081762.xml:  <GBSeq_organism>Shewanella sairae</GBSeq_organism>
+./AJ300834.xml:  <GBSeq_organism>Shewanella livingstonensis</GBSeq_organism>
+./AF295592.xml:  <GBSeq_organism>Shewanella olleyana</GBSeq_organism>
+./AY170366.xml:  <GBSeq_organism>Shewanella waksmanii</GBSeq_organism>
+./AF420312.xml:  <GBSeq_organism>Shewanella fidelis</GBSeq_organism>
+./AB204519.xml:  <GBSeq_organism>Shewanella pneumatophori</GBSeq_organism>
+./DQ180743.xml:  <GBSeq_organism>Shewanella irciniae</GBSeq_organism>
+./AF005249.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AY653177.xml:  <GBSeq_organism>Shewanella colwelliana</GBSeq_organism>
+./EU290154.xml:  <GBSeq_organism>Shewanella marina JCM 15074</GBSeq_organism>
+./AY485224.xml:  <GBSeq_organism>Shewanella marisflavi</GBSeq_organism>
+./AY190533.xml:  <GBSeq_organism>Shewanella gaetbuli</GBSeq_organism>
+./AF005248.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./AY326275.xml:  <GBSeq_organism>Shewanella donghaensis</GBSeq_organism>
+./AJ311964.xml:  <GBSeq_organism>Shewanella denitrificans OS217</GBSeq_organism>
+./AJ551089.xml:  <GBSeq_organism>Shewanella psychrophila</GBSeq_organism>
+./AJ551090.xml:  <GBSeq_organism>Shewanella piezotolerans WP3</GBSeq_organism>
+./AY485225.xml:  <GBSeq_organism>Shewanella aquimarina</GBSeq_organism>
+./X82131.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>
+./AB094598.xml:  <GBSeq_organism>Shewanella kaireitica</GBSeq_organism>
+./AJ609571.xml:  <GBSeq_organism>Shewanella decolorationis S12</GBSeq_organism>
+./DQ167234.xml:  <GBSeq_organism>Shewanella spongiae</GBSeq_organism>
+./AJ000214.xml:  <GBSeq_organism>Shewanella baltica</GBSeq_organism>
+./AF003549.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./EF178282.xml:  <GBSeq_organism>Shewanella haliotis</GBSeq_organism>
+./AF011335.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>
+./AF500075.xml:  <GBSeq_organism>Shewanella pacifica</GBSeq_organism>
+./X82132.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./U85903.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>

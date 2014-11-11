@@ -1,0 +1,23 @@
+./AF508093.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AF107722.xml:  <GBSeq_organism>Aminobacter lissarensis</GBSeq_organism>
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./EF457242.xml:  <GBSeq_organism>Chelativorans oligotrophicus</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./AF506513.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./AF034798.xml:  <GBSeq_organism>Aminobacter ciceronei</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./EF457243.xml:  <GBSeq_organism>Chelativorans multitrophicus</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./D13431.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./AY509899.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./D32248.xml:  <GBSeq_organism>Pseudaminobacter defluvii</GBSeq_organism>

@@ -1,0 +1,17 @@
+./AF169531.xml:  <GBSeq_organism>Rummeliibacillus pycnus</GBSeq_organism>
+./X70314.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./X60634.xml:  <GBSeq_organism>Sporosarcina psychrophila</GBSeq_organism>
+./X70320.xml:  <GBSeq_organism>Kurthia gibsonii</GBSeq_organism>
+./AF324659.xml:  <GBSeq_organism>Planococcus psychrotoleratus</GBSeq_organism>
+./AJ310083.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./AF169508.xml:  <GBSeq_organism>Viridibacillus neidei</GBSeq_organism>
+./AJ292316.xml:  <GBSeq_organism>Filibacter limicola</GBSeq_organism>
+./X60644.xml:  <GBSeq_organism>Sporosarcina globispora</GBSeq_organism>
+./X70315.xml:  <GBSeq_organism>Caryophanon tenue</GBSeq_organism>
+./AF202056.xml:  <GBSeq_organism>Sporosarcina aquimarina</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AJ310084.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./X70321.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AF526913.xml:  <GBSeq_organism>Lysinibacillus odysseyi</GBSeq_organism>
+./X60631.xml:  <GBSeq_organism>Sporosarcina pasteurii</GBSeq_organism>

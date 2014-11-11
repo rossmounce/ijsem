@@ -1,0 +1,11 @@
+./AJ459801.xml:  <GBSeq_organism>Thermithiobacillus tepidarius</GBSeq_organism>
+./EU491065.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ469584.xml:  <GBSeq_organism>Thiohalophilus thiocyanatoxydans</GBSeq_organism>
+./EU735667.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB266389.xml:  <GBSeq_organism>Thioprofundum hispidum</GBSeq_organism>
+./EU491253.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ459803.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans ATCC 19377</GBSeq_organism>
+./EU617753.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EU652539.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB468957.xml:  <GBSeq_organism>Thioprofundum lithotrophicum</GBSeq_organism>
+./EU735702.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

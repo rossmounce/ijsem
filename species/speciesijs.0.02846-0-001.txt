@@ -1,0 +1,15 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AJ295154.xml:  <GBSeq_organism>Oleiphilus messinensis</GBSeq_organism>
+./M22385.xml:  <GBSeq_organism>Oryctolagus cuniculus</GBSeq_organism>
+./AJ561121.xml:  <GBSeq_organism>Reinekea marinisedimentorum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AY130994.xml:  <GBSeq_organism>Zooshikella ganghwensis</GBSeq_organism>
+./AF005248.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./Y17112.xml:  <GBSeq_organism>Balneatrix alpica</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AY172302.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M21292.xml:  <GBSeq_organism>Wolbachia persica</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

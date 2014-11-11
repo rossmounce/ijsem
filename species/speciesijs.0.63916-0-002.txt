@@ -1,0 +1,14 @@
+./U17364.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./AF435112.xml:  <GBSeq_organism>Halalkalicoccus tibetensis</GBSeq_organism>
+./AF320480.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./AB004877.xml:  <GBSeq_organism>Halococcus salifodinae</GBSeq_organism>
+./AB004878.xml:  <GBSeq_organism>Haloterrigena turkmenica DSM 5511</GBSeq_organism>
+./AB004876.xml:  <GBSeq_organism>Halococcus saccharolyticus</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./AB125108.xml:  <GBSeq_organism>Natronolimnobius innermongolicus</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>
+./AF333760.xml:  <GBSeq_organism>Halobiforma haloterrestris</GBSeq_organism>

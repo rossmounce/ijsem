@@ -1,0 +1,13 @@
+./AY323608.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AJ320494.xml:  <GBSeq_organism>Paenibacillus peoriae KCTC 3763</GBSeq_organism>
+./AF391124.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./AJ716019.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./X60630.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./AF515611.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./D78473.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./D85396.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./AJ271157.xml:  <GBSeq_organism>Paenibacillus jamilae</GBSeq_organism>
+./AY257868.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./EF212893.xml:  <GBSeq_organism>Paenibacillus provencensis</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./EF212892.xml:  <GBSeq_organism>Paenibacillus urinalis 5402403</GBSeq_organism>

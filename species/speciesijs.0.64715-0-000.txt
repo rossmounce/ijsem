@@ -1,0 +1,5 @@
+./X98372.xml:  <GBSeq_organism>Rubrobacter radiotolerans DSM 5868</GBSeq_organism>
+./AJ458462.xml:  <GBSeq_organism>Thermoleophilum album</GBSeq_organism>
+./AY039806.xml:  <GBSeq_organism>Solirubrobacter pauli</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./AJ440237.xml:  <GBSeq_organism>Conexibacter woesei DSM 14684</GBSeq_organism>

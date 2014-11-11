@@ -1,0 +1,7 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./FJ595484.xml:  <GBSeq_organism>Winogradskyella exilis</GBSeq_organism>
+./EF554364.xml:  <GBSeq_organism>Ulvibacter antarcticus</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>

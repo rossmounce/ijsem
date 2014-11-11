@@ -1,0 +1,34 @@
+./DQ916141.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./M96746.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./AM904562.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>
+./AY906862.xml:  <GBSeq_organism>Jannaschia seosinensis</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AJ748747.xml:  <GBSeq_organism>Jannaschia rubra</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AM944522.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>
+./AJ631302.xml:  <GBSeq_organism>Thalassobacter stenotrophicus</GBSeq_organism>
+./AY962292.xml:  <GBSeq_organism>Shimia marina</GBSeq_organism>
+./DQ675021.xml:  <GBSeq_organism>Pseudoruegeria aquimaris</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./AF114484.xml:  <GBSeq_organism>Roseovarius crassostreae</GBSeq_organism>
+./AY442178.xml:  <GBSeq_organism>Thalassobius aestuarii</GBSeq_organism>
+./EF202612.xml:  <GBSeq_organism>Jannaschia donghaensis</GBSeq_organism>
+./AM944520.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AY177712.xml:  <GBSeq_organism>Phaeobacter inhibens DSM 16374</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./X74677.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./DQ981486.xml:  <GBSeq_organism>Leisingera daeponensis</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>
+./AJ605747.xml:  <GBSeq_organism>Roseisalinus antarcticus</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AM944521.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AM904563.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>

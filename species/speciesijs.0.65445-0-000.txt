@@ -1,0 +1,19 @@
+./AF391124.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./D85396.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY741810.xml:  <GBSeq_organism>Paenibacillus motobuensis</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY839868.xml:  <GBSeq_organism>Paenibacillus xinjiangensis</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./AJ320492.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>
+./DQ453131.xml:  <GBSeq_organism>Paenibacillus fonticola</GBSeq_organism>
+./AF537343.xml:  <GBSeq_organism>Paenibacillus mendelii</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./AF290916.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./AY530295.xml:  <GBSeq_organism>Paenibacillus larvae subsp. pulvifaciens</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>
+./EF125184.xml:  <GBSeq_organism>Paenibacillus tarimensis</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>
+./DQ407282.xml:  <GBSeq_organism>Paenibacillus cellulosilyticus</GBSeq_organism>

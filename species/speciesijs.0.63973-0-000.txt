@@ -1,0 +1,4 @@
+./AM040754.xml:  <GBSeq_organism>Moellerella wisconsensis</GBSeq_organism>
+./AM040489.xml:  <GBSeq_organism>Providencia rustigianii</GBSeq_organism>
+./AJ301684.xml:  <GBSeq_organism>Providencia alcalifaciens DSM 30120</GBSeq_organism>
+./AM040495.xml:  <GBSeq_organism>Providencia vermicola</GBSeq_organism>

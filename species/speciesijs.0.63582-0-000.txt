@@ -1,0 +1,11 @@
+./AF005017.xml:  <GBSeq_organism>Nocardioides fulvus</GBSeq_organism>
+./AF237815.xml:  <GBSeq_organism>Actinopolymorpha singaporensis</GBSeq_organism>
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./AF005022.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AF005020.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AF004988.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./Y18629.xml:  <GBSeq_organism>Marmoricola aurantiacus</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./AF005009.xml:  <GBSeq_organism>Pimelobacter simplex</GBSeq_organism>

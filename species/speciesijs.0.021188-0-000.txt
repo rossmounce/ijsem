@@ -1,0 +1,21 @@
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./AF177666.xml:  <GBSeq_organism>Bordetella avium</GBSeq_organism>
+./AY695828.xml:  <GBSeq_organism>Pusillimonas noertemannii</GBSeq_organism>
+./AB166879.xml:  <GBSeq_organism>Castellaniella caeni</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./AY170848.xml:  <GBSeq_organism>Achromobacter spanius</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./U04948.xml:  <GBSeq_organism>Bordetella bronchiseptica</GBSeq_organism>
+./U82826.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./DQ466075.xml:  <GBSeq_organism>Parapusillimonas granuli</GBSeq_organism>
+./FN556192.xml:  <GBSeq_organism>Candidimonas humi</GBSeq_organism>
+./U04820.xml:  <GBSeq_organism>Bordetella holmesii ATCC 51541</GBSeq_organism>
+./EF672088.xml:  <GBSeq_organism>Pusillimonas ginsengisoli</GBSeq_organism>
+./EU878813.xml:  <GBSeq_organism>Methylobacterium sp. nah_44</GBSeq_organism>
+./AJ277798.xml:  <GBSeq_organism>Bordetella trematum</GBSeq_organism>
+./EF100696.xml:  <GBSeq_organism>Pigmentiphaga daeguensis</GBSeq_organism>
+./EU583723.xml:  <GBSeq_organism>Pigmentiphaga litoralis</GBSeq_organism>
+./Y14908.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./U04949.xml:  <GBSeq_organism>Bordetella parapertussis</GBSeq_organism>
+./D14257.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./FN556191.xml:  <GBSeq_organism>Candidimonas nitroreducens</GBSeq_organism>

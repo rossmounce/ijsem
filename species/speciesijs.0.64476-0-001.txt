@@ -1,0 +1,8 @@
+./AY756526.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./AY756525.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./AY903627.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./EF375994.xml:  <GBSeq_organism>Nocardia alba</GBSeq_organism>
+./AY756534.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AY756532.xml:  <GBSeq_organism>Nocardia salmonicida</GBSeq_organism>
+./AY756521.xml:  <GBSeq_organism>Nocardia cummidelens</GBSeq_organism>
+./AY756516.xml:  <GBSeq_organism>Nocardia brasiliensis NBRC 14402</GBSeq_organism>

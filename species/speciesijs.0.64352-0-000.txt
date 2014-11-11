@@ -1,0 +1,16 @@
+./AJ491303.xml:  <GBSeq_organism>Caryophanon tenue</GBSeq_organism>
+./AJ277984.xml:  <GBSeq_organism>Psychrobacillus psychrodurans</GBSeq_organism>
+./DQ073394.xml:  <GBSeq_organism>Sporosarcina soli</GBSeq_organism>
+./X68415.xml:  <GBSeq_organism>Sporosarcina globispora</GBSeq_organism>
+./D16277.xml:  <GBSeq_organism>Sporosarcina psychrophila</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ514408.xml:  <GBSeq_organism>Paenisporosarcina macmurdoensis</GBSeq_organism>
+./AJ310083.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./AJ277983.xml:  <GBSeq_organism>Psychrobacillus psychrotolerans</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AF202056.xml:  <GBSeq_organism>Sporosarcina aquimarina</GBSeq_organism>
+./X70321.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./X60639.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./X60631.xml:  <GBSeq_organism>Sporosarcina pasteurii</GBSeq_organism>
+./X62173.xml:  <GBSeq_organism>Planococcus kocurii</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AJ430586.xml:  <GBSeq_organism>Oceanithermus profundus DSM 14977</GBSeq_organism>
+./AB586708.xml:  <GBSeq_organism>Meiothermus taiwanensis</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./EU247891.xml:  <GBSeq_organism>Meiothermus cateniformans</GBSeq_organism>
+./AB586709.xml:  <GBSeq_organism>Meiothermus taiwanensis</GBSeq_organism>
+./Z15059.xml:  <GBSeq_organism>Meiothermus ruber DSM 1279</GBSeq_organism>
+./Y13594.xml:  <GBSeq_organism>Meiothermus cerbereus</GBSeq_organism>

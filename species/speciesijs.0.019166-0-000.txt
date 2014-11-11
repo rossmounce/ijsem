@@ -1,0 +1,5 @@
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./EF520007.xml:  <GBSeq_organism>Salinimicrobium xinjiangense</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./EU135614.xml:  <GBSeq_organism>Salinimicrobium terrae</GBSeq_organism>

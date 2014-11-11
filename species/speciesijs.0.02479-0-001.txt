@@ -1,0 +1,18 @@
+./Y11333.xml:  <GBSeq_organism>Deinococcus radiophilus</GBSeq_organism>
+./X72852.xml:  <GBSeq_organism>Leptospirillum ferrooxidans</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AF068788.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac7</GBSeq_organism>
+./U52817.xml:  <GBSeq_organism>Dethiosulfovibrio peptidovorans DSM 11002</GBSeq_organism>
+./X96726.xml:  <GBSeq_organism>Thermodesulfovibrio islandicus</GBSeq_organism>
+./M59231.xml:  <GBSeq_organism>Flexistipes sinusarabici DSM 4947</GBSeq_organism>
+./U50711.xml:  <GBSeq_organism>Anaerobaculum thermoterrenum</GBSeq_organism>
+./X81319.xml:  <GBSeq_organism>Chrysiogenes arsenatis DSM 11915</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./AF068900.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./X95744.xml:  <GBSeq_organism>Geovibrio ferrireducens</GBSeq_organism>
+./X71838.xml:  <GBSeq_organism>Candidatus Magnetobacterium bavaricum</GBSeq_organism>
+./X69335.xml:  <GBSeq_organism>Coprothermobacter proteolyticus</GBSeq_organism>
+./U75602.xml:  <GBSeq_organism>Deferribacter thermophilus</GBSeq_organism>
+./X82558.xml:  <GBSeq_organism>Nitrospira moscoviensis</GBSeq_organism>
+./AF072581.xml:  <GBSeq_organism>Aminomonas paucivorans DSM 12260</GBSeq_organism>
+./X07998.xml:  <GBSeq_organism>Thermus thermophilus HB8</GBSeq_organism>

@@ -1,0 +1,12 @@
+./EF660747.xml:  <GBSeq_organism>Haladaptatus cibarius D43</GBSeq_organism>
+./Z28378.xml:  <GBSeq_organism>Natronococcus occultus SP4</GBSeq_organism>
+./AY292394.xml:  <GBSeq_organism>haloarchaeon W1</GBSeq_organism>
+./AY292392.xml:  <GBSeq_organism>haloarchaeon 30AH</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AJ012742.xml:  <GBSeq_organism>Methanosarcina semesiae</GBSeq_organism>
+./EU887285.xml:  <GBSeq_organism>Haladaptatus litoreus</GBSeq_organism>
+./AB291225.xml:  <GBSeq_organism>haloarchaeon Nie 14-2</GBSeq_organism>
+./DQ344973.xml:  <GBSeq_organism>Haladaptatus paucihalophilus DX253</GBSeq_organism>
+./AY292393.xml:  <GBSeq_organism>haloarchaeon 30AH</GBSeq_organism>
+./FJ773394.xml:  <GBSeq_organism>Haladaptatus litoreus</GBSeq_organism>

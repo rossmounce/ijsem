@@ -1,0 +1,10 @@
+./AF016982.xml:  <GBSeq_organism>Methylobacter sp. BB5.1</GBSeq_organism>
+./U89304.xml:  <GBSeq_organism>Methylocaldum tepidum</GBSeq_organism>
+./U31653.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./AJ414658.xml:  <GBSeq_organism>Methylobacter tundripaludum SV96</GBSeq_organism>
+./U31650.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./L40804.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./U89303.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./U31652.xml:  <GBSeq_organism>Methylomicrobium pelagicum</GBSeq_organism>
+./AF150785.xml:  <GBSeq_organism>Methylobacter sp. LW1</GBSeq_organism>
+./U31654.xml:  <GBSeq_organism>Methylomicrobium album BG8</GBSeq_organism>

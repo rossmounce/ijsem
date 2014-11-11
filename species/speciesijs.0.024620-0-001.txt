@@ -1,0 +1,10 @@
+./FJ904268.xml:  <GBSeq_organism>Methylophilus quaylei</GBSeq_organism>
+./AF220764.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./M22629.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./EU589387.xml:  <GBSeq_organism>Ancylobacter dichloromethanicus</GBSeq_organism>
+./FJ904267.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./AJ878073.xml:  <GBSeq_organism>Methylobacillus glycogenes</GBSeq_organism>
+./EU194904.xml:  <GBSeq_organism>Methylophilus rhizosphaerae</GBSeq_organism>
+./AJ878068.xml:  <GBSeq_organism>Methylobacterium extorquens DM4</GBSeq_organism>
+./FJ872111.xml:  <GBSeq_organism>Methylophilus luteus</GBSeq_organism>
+./HM001270.xml:  <GBSeq_organism>Methylophilus glucosoxydans</GBSeq_organism>

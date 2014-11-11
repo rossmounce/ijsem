@@ -1,0 +1,12 @@
+./AY046272.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./AB126682.xml:  <GBSeq_organism>Wickerhamomyces anomalus</GBSeq_organism>
+./Y12109.xml:  <GBSeq_organism>Wickerhamomyces mucosus</GBSeq_organism>
+./X90758.xml:  <GBSeq_organism>Zygosaccharomyces rouxii</GBSeq_organism>
+./AB126683.xml:  <GBSeq_organism>Pichia myanmarensis</GBSeq_organism>
+./AB126680.xml:  <GBSeq_organism>Wickerhamomyces anomalus</GBSeq_organism>
+./AB126679.xml:  <GBSeq_organism>Wickerhamomyces anomalus</GBSeq_organism>
+./AB018181.xml:  <GBSeq_organism>Ogataea methanolica</GBSeq_organism>
+./AB013513.xml:  <GBSeq_organism>Millerozyma farinosa</GBSeq_organism>
+./M55527.xml:  <GBSeq_organism>Candida tropicalis</GBSeq_organism>
+./AB126681.xml:  <GBSeq_organism>Wickerhamomyces anomalus</GBSeq_organism>
+./AB019215.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>

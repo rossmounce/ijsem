@@ -1,0 +1,8 @@
+./AY207502.xml:  <GBSeq_organism>Aestuariibacter salexigens</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AB247624.xml:  <GBSeq_organism>Glaciecola chathamensis</GBSeq_organism>
+./AY207503.xml:  <GBSeq_organism>Aestuariibacter halophilus</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>

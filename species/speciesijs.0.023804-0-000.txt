@@ -1,0 +1,76 @@
+./DQ438224.xml:  <GBSeq_organism>Candida ghanaensis</GBSeq_organism>
+./DQ438196.xml:  <GBSeq_organism>Sugiyamaella novakii</GBSeq_organism>
+./DQ438193.xml:  <GBSeq_organism>Sugiyamaella americana</GBSeq_organism>
+./DQ438223.xml:  <GBSeq_organism>Candida blankii</GBSeq_organism>
+./DQ438201.xml:  <GBSeq_organism>Sugiyamaella neomexicana</GBSeq_organism>
+./DQ438187.xml:  <GBSeq_organism>Sporopachydermia quercuum</GBSeq_organism>
+./DQ442685.xml:  <GBSeq_organism>Trichomonascus farinosus</GBSeq_organism>
+./DQ438197.xml:  <GBSeq_organism>Sugiyamaella marionensis</GBSeq_organism>
+./DQ438218.xml:  <GBSeq_organism>Sugiyamaella smithiae</GBSeq_organism>
+./DQ438192.xml:  <GBSeq_organism>Zygoascus ofunaensis</GBSeq_organism>
+./EU790643.xml:  <GBSeq_organism>Trichomonascus apis</GBSeq_organism>
+./DQ442688.xml:  <GBSeq_organism>Blastobotrys capitulata</GBSeq_organism>
+./DQ442696.xml:  <GBSeq_organism>Blastobotrys illinoisensis</GBSeq_organism>
+./DQ438240.xml:  <GBSeq_organism>Wickerhamiella domercqiae</GBSeq_organism>
+./DQ438237.xml:  <GBSeq_organism>Candida azyma</GBSeq_organism>
+./DQ438230.xml:  <GBSeq_organism>Candida sp. NRRL Y-17858</GBSeq_organism>
+./DQ438189.xml:  <GBSeq_organism>Zygoascus meyerae</GBSeq_organism>
+./DQ442707.xml:  <GBSeq_organism>Trigonopsis variabilis</GBSeq_organism>
+./FJ527142.xml:  <GBSeq_organism>Candida sp. GA1S04</GBSeq_organism>
+./DQ442710.xml:  <GBSeq_organism>Tortispora caseinolytica</GBSeq_organism>
+./DQ442697.xml:  <GBSeq_organism>Blastobotrys adeninivorans</GBSeq_organism>
+./DQ438229.xml:  <GBSeq_organism>Candida sorbophila</GBSeq_organism>
+./DQ438233.xml:  <GBSeq_organism>Wickerhamiella occidentalis</GBSeq_organism>
+./AY442294.xml:  <GBSeq_organism>Blastobotrys attinorum</GBSeq_organism>
+./GQ340912.xml:  <GBSeq_organism>Candida sp. NCAIM Y.01936</GBSeq_organism>
+./DQ442705.xml:  <GBSeq_organism>Trigonopsis cantarellii</GBSeq_organism>
+./DQ438242.xml:  <GBSeq_organism>Candida versatilis</GBSeq_organism>
+./DQ442683.xml:  <GBSeq_organism>Blastobotrys terrestris</GBSeq_organism>
+./DQ488184.xml:  <GBSeq_organism>Sus scrofa</GBSeq_organism>
+./FJ527143.xml:  <GBSeq_organism>Candida sp. GY44S02</GBSeq_organism>
+./DQ442699.xml:  <GBSeq_organism>Blastobotrys sp. NRRL Y-6844</GBSeq_organism>
+./DQ438228.xml:  <GBSeq_organism>Candida spandovensis</GBSeq_organism>
+./DQ438225.xml:  <GBSeq_organism>Candida auringiensis</GBSeq_organism>
+./DQ438231.xml:  <GBSeq_organism>Wickerhamiella lipophila</GBSeq_organism>
+./DQ438191.xml:  <GBSeq_organism>Zygoascus tannicolus</GBSeq_organism>
+./GU195663.xml:  <GBSeq_organism>Candida sp. NCAIM Y.01957</GBSeq_organism>
+./DQ438183.xml:  <GBSeq_organism>Danielozyma ontarioensis</GBSeq_organism>
+./DQ442682.xml:  <GBSeq_organism>Blastobotrys chiropterorum</GBSeq_organism>
+./DQ442708.xml:  <GBSeq_organism>Trigonopsis vinaria</GBSeq_organism>
+./DQ442711.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./DQ442698.xml:  <GBSeq_organism>Blastobotrys raffinosifermentans</GBSeq_organism>
+./DQ438219.xml:  <GBSeq_organism>Sugiyamaella marilandica</GBSeq_organism>
+./DQ438216.xml:  <GBSeq_organism>Zygoascus hellenicus</GBSeq_organism>
+./DQ442700.xml:  <GBSeq_organism>Blastobotrys sp. NRRL YB-2290</GBSeq_organism>
+./U45702.xml:  <GBSeq_organism>Kodamaea ohmeri</GBSeq_organism>
+./DQ442693.xml:  <GBSeq_organism>Blastobotrys parvus</GBSeq_organism>
+./DQ442692.xml:  <GBSeq_organism>Blastobotrys indianaensis</GBSeq_organism>
+./DQ442690.xml:  <GBSeq_organism>Blastobotrys nivea</GBSeq_organism>
+./DQ438238.xml:  <GBSeq_organism>Candida pararugosa</GBSeq_organism>
+./DQ438188.xml:  <GBSeq_organism>Candida sp. NRRL Y-27161</GBSeq_organism>
+./DQ442695.xml:  <GBSeq_organism>Blastobotrys malaysiensis</GBSeq_organism>
+./DQ442703.xml:  <GBSeq_organism>Middelhovenomyces petrohuensis</GBSeq_organism>
+./DQ438198.xml:  <GBSeq_organism>Sugiyamaella lignohabitans</GBSeq_organism>
+./DQ442686.xml:  <GBSeq_organism>Blastobotrys aristata</GBSeq_organism>
+./DQ442687.xml:  <GBSeq_organism>Blastobotrys elegans</GBSeq_organism>
+./DQ438186.xml:  <GBSeq_organism>Sporopachydermia cereana</GBSeq_organism>
+./DQ442681.xml:  <GBSeq_organism>Trichomonascus ciferrii</GBSeq_organism>
+./DQ442684.xml:  <GBSeq_organism>Blastobotrys proliferans</GBSeq_organism>
+./DQ442689.xml:  <GBSeq_organism>Blastobotrys arbuscula</GBSeq_organism>
+./DQ438194.xml:  <GBSeq_organism>Sugiyamaella paludigena</GBSeq_organism>
+./AM410667.xml:  <GBSeq_organism>Candida sp. YS W113A</GBSeq_organism>
+./U40081.xml:  <GBSeq_organism>Dipodascus albidus</GBSeq_organism>
+./DQ438235.xml:  <GBSeq_organism>Candida drosophilae</GBSeq_organism>
+./DQ442691.xml:  <GBSeq_organism>Trichomonascus petasosporus</GBSeq_organism>
+./DQ438200.xml:  <GBSeq_organism>Sugiyamaella pinicola</GBSeq_organism>
+./DQ438232.xml:  <GBSeq_organism>Wickerhamiella australiensis</GBSeq_organism>
+./DQ442706.xml:  <GBSeq_organism>Trigonopsis sp. NRRL Y-27307</GBSeq_organism>
+./DQ438234.xml:  <GBSeq_organism>Wickerhamiella cacticola</GBSeq_organism>
+./DQ438236.xml:  <GBSeq_organism>Candida vanderwaltii</GBSeq_organism>
+./DQ438220.xml:  <GBSeq_organism>Sugiyamaella valdiviana</GBSeq_organism>
+./DQ442709.xml:  <GBSeq_organism>Botryozyma nematodophila</GBSeq_organism>
+./EF195383.xml:  <GBSeq_organism>Candida sp. NRRL YB-2788</GBSeq_organism>
+./DQ438239.xml:  <GBSeq_organism>Candida galacta</GBSeq_organism>
+./DQ438199.xml:  <GBSeq_organism>Sugiyamaella grinbergsii</GBSeq_organism>
+./U45712.xml:  <GBSeq_organism>Hyphopichia burtonii</GBSeq_organism>
+./EU563853.xml:  <GBSeq_organism>Candida sp. FGSFEP</GBSeq_organism>

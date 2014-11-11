@@ -1,0 +1,18 @@
+./AB266102.xml:  <GBSeq_organism>Asaccharobacter celatus DSM 18785</GBSeq_organism>
+./AJ608686.xml:  <GBSeq_organism>Slackia faecicanis</GBSeq_organism>
+./AY288517.xml:  <GBSeq_organism>Paraeggerthella hongkongensis JCM 14552</GBSeq_organism>
+./AB306661.xml:  <GBSeq_organism>Adlercreutzia equolifaciens</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./X67150.xml:  <GBSeq_organism>Atopobium parvulum</GBSeq_organism>
+./AB306660.xml:  <GBSeq_organism>Adlercreutzia equolifaciens</GBSeq_organism>
+./AF101241.xml:  <GBSeq_organism>Slackia heliotrinireducens DSM 20476</GBSeq_organism>
+./M58739.xml:  <GBSeq_organism>Bifidobacterium longum</GBSeq_organism>
+./AF292373.xml:  <GBSeq_organism>Olsenella uli DSM 7084</GBSeq_organism>
+./X79048.xml:  <GBSeq_organism>Coriobacterium glomerans PW2</GBSeq_organism>
+./AB306662.xml:  <GBSeq_organism>Adlercreutzia equolifaciens</GBSeq_organism>
+./AY310748.xml:  <GBSeq_organism>human intestinal bacterium SNU-Julong732</GBSeq_organism>
+./AY321958.xml:  <GBSeq_organism>Eggerthella sinensis JCM 14551</GBSeq_organism>
+./AF101240.xml:  <GBSeq_organism>Slackia exigua ATCC 700122</GBSeq_organism>
+./X67149.xml:  <GBSeq_organism>Atopobium rimae</GBSeq_organism>
+./AF292374.xml:  <GBSeq_organism>Olsenella profusa DSM 13989</GBSeq_organism>
+./U43492.xml:  <GBSeq_organism>Denitrobacterium detoxificans</GBSeq_organism>

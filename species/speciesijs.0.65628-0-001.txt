@@ -1,0 +1,18 @@
+./AB249921.xml:  <GBSeq_organism>Streptomyces spiroverticillatus</GBSeq_organism>
+./AB184615.xml:  <GBSeq_organism>Streptomyces baarnensis</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./D44109.xml:  <GBSeq_organism>Streptomyces litmocidini</GBSeq_organism>
+./AB184532.xml:  <GBSeq_organism>Streptomyces mauvecolor</GBSeq_organism>
+./AB184256.xml:  <GBSeq_organism>Streptomyces alboviridis</GBSeq_organism>
+./AY999796.xml:  <GBSeq_organism>Streptomyces exfoliatus</GBSeq_organism>
+./AB249945.xml:  <GBSeq_organism>Streptomyces sanglieri</GBSeq_organism>
+./AB184476.xml:  <GBSeq_organism>Streptomyces celluloflavus</GBSeq_organism>
+./AB184284.xml:  <GBSeq_organism>Streptomyces microflavus</GBSeq_organism>
+./AB184691.xml:  <GBSeq_organism>Streptomyces naraensis</GBSeq_organism>
+./AB184654.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./AB184264.xml:  <GBSeq_organism>Streptomyces cavourensis subsp. cavourensis</GBSeq_organism>
+./D44136.xml:  <GBSeq_organism>Streptomyces violascens</GBSeq_organism>
+./AB184330.xml:  <GBSeq_organism>Streptomyces finlayi</GBSeq_organism>
+./EF466100.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AB184425.xml:  <GBSeq_organism>Streptomyces albolongus</GBSeq_organism>
+./AB184204.xml:  <GBSeq_organism>Streptomyces goshikiensis</GBSeq_organism>

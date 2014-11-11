@@ -1,0 +1,23 @@
+./AB267476.xml:  <GBSeq_organism>Flavisolibacter ginsengiterrae</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./EU521690.xml:  <GBSeq_organism>Lacibacter cauensis</GBSeq_organism>
+./AB278570.xml:  <GBSeq_organism>Chitinophaga terrae Kim and Jung 2007</GBSeq_organism>
+./EU877263.xml:  <GBSeq_organism>Parasegetibacter luojiensis</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./FN665660.xml:  <GBSeq_organism>Hydrotalea flava</GBSeq_organism>
+./AB267477.xml:  <GBSeq_organism>Flavisolibacter ginsengisoli</GBSeq_organism>
+./D12657.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./AM230484.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./FN565659.xml:  <GBSeq_organism>Dicentrarchus labrax</GBSeq_organism>
+./M58795.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./EF407879.xml:  <GBSeq_organism>Sediminibacterium salmoneum</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./DQ457019.xml:  <GBSeq_organism>Niabella aurantiaca</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF039294.xml:  <GBSeq_organism>Lewinella nigricans</GBSeq_organism>
+./AB362776.xml:  <GBSeq_organism>Filimonas lacunae</GBSeq_organism>
+./FN665661.xml:  <GBSeq_organism>Hydrotalea flava</GBSeq_organism>
+./EU854577.xml:  <GBSeq_organism>Flavihumibacter petaseus NBRC 106054</GBSeq_organism>
+./DQ244076.xml:  <GBSeq_organism>Niastella yeongjuensis</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>
+./M62795.xml:  <GBSeq_organism>Chitinophaga sancti</GBSeq_organism>

@@ -1,0 +1,28 @@
+./X67234.xml:  <GBSeq_organism>Rhizobium leucaenae USDA 9039</GBSeq_organism>
+./EU256404.xml:  <GBSeq_organism>Rhizobium tibeticum</GBSeq_organism>
+./U31074.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. trifolii</GBSeq_organism>
+./D12788.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./EU618035.xml:  <GBSeq_organism>Rhizobium vallis</GBSeq_organism>
+./X66024.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./X67228.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./D11343.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ389904.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./EF061096.xml:  <GBSeq_organism>Rhizobium miluonense</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./GU211765.xml:  <GBSeq_organism>Rhizobium vallis</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67225.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./FJ839677.xml:  <GBSeq_organism>Rhizobium vallis</GBSeq_organism>
+./AF316615.xml:  <GBSeq_organism>Agrobacterium albertimagni AOL15</GBSeq_organism>
+./GU211766.xml:  <GBSeq_organism>Rhizobium vallis</GBSeq_organism>
+./U29388.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. phaseoli</GBSeq_organism>
+./AY509899.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./AM931436.xml:  <GBSeq_organism>Rhizobium alamii</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AY034027.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./EF035074.xml:  <GBSeq_organism>Rhizobium multihospitium</GBSeq_organism>
+./AF364069.xml:  <GBSeq_organism>Rhizobium loessense</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./EF440185.xml:  <GBSeq_organism>Rhizobium selenitireducens</GBSeq_organism>

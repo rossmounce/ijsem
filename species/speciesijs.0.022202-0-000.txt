@@ -1,0 +1,13 @@
+./AY847463.xml:  <GBSeq_organism>Paenibacillus woosongensis</GBSeq_organism>
+./AJ320494.xml:  <GBSeq_organism>Paenibacillus peoriae KCTC 3763</GBSeq_organism>
+./AY323610.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AY167814.xml:  <GBSeq_organism>Paenibacillus barengoltzii</GBSeq_organism>
+./GU187433.xml:  <GBSeq_organism>Paenibacillus puldeungensis</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF021924.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./AB245384.xml:  <GBSeq_organism>Paenibacillus panacisoli</GBSeq_organism>
+./AY323609.xml:  <GBSeq_organism>Paenibacillus sanguinis</GBSeq_organism>
+./EU081509.xml:  <GBSeq_organism>Paenibacillus konsidensis</GBSeq_organism>
+./EF212892.xml:  <GBSeq_organism>Paenibacillus urinalis 5402403</GBSeq_organism>
+./AJ318909.xml:  <GBSeq_organism>Paenibacillus anaericanus</GBSeq_organism>
+./AY230766.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>

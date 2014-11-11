@@ -1,0 +1,12 @@
+./AY187688.xml:  <GBSeq_organism>Formosa agariphila KMM 3901</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY693999.xml:  <GBSeq_organism>Subsaxibacter broadyi</GBSeq_organism>
+./AJ893518.xml:  <GBSeq_organism>Formosa agariphila</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY693997.xml:  <GBSeq_organism>Subsaximicrobium wynnwilliamsii</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY586527.xml:  <GBSeq_organism>Olleya marilimosa CAM030</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>

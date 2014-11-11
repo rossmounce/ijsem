@@ -1,0 +1,14 @@
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./AB278570.xml:  <GBSeq_organism>Chitinophaga terrae Kim and Jung 2007</GBSeq_organism>
+./D12657.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./AF039292.xml:  <GBSeq_organism>Lewinella cohaerens</GBSeq_organism>
+./DQ062743.xml:  <GBSeq_organism>Chitinophaga skermanii</GBSeq_organism>
+./M58795.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./AB078049.xml:  <GBSeq_organism>Chitinophaga filiformis</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AB362776.xml:  <GBSeq_organism>Filimonas lacunae</GBSeq_organism>
+./AB245374.xml:  <GBSeq_organism>Chitinophaga ginsengisoli</GBSeq_organism>
+./DQ244076.xml:  <GBSeq_organism>Niastella yeongjuensis</GBSeq_organism>

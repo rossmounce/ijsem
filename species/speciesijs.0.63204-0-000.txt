@@ -1,0 +1,13 @@
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./AJ512945.xml:  <GBSeq_organism>Schlegelella thermodepolymerans</GBSeq_organism>
+./AF035052.xml:  <GBSeq_organism>Aquabacterium parvum</GBSeq_organism>
+./D87999.xml:  <GBSeq_organism>Cupriavidus metallidurans</GBSeq_organism>
+./AF078774.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AF035054.xml:  <GBSeq_organism>Aquabacterium commune</GBSeq_organism>
+./AB008801.xml:  <GBSeq_organism>Caldimonas manganoxidans</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./X97070.xml:  <GBSeq_organism>Leptothrix cholodnii</GBSeq_organism>
+./AF125876.xml:  <GBSeq_organism>dehydroabietic acid-degrading bacterium DhA-71</GBSeq_organism>
+./L33975.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./AY152824.xml:  <GBSeq_organism>Schlegelella thermodepolymerans</GBSeq_organism>

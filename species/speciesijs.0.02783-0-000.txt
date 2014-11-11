@@ -1,0 +1,12 @@
+./AF515221.xml:  <GBSeq_organism>Weissella cibaria</GBSeq_organism>
+./M23035.xml:  <GBSeq_organism>Leuconostoc mesenteroides</GBSeq_organism>
+./M23038.xml:  <GBSeq_organism>Weissella kandleri</GBSeq_organism>
+./AF312874.xml:  <GBSeq_organism>Weissella cibaria</GBSeq_organism>
+./M23039.xml:  <GBSeq_organism>Weissella minor</GBSeq_organism>
+./X95981.xml:  <GBSeq_organism>Weissella hellenica</GBSeq_organism>
+./AY028260.xml:  <GBSeq_organism>Weissella soli</GBSeq_organism>
+./AY035891.xml:  <GBSeq_organism>Weissella koreensis</GBSeq_organism>
+./M23037.xml:  <GBSeq_organism>Weissella halotolerans</GBSeq_organism>
+./M23040.xml:  <GBSeq_organism>Weissella viridescens</GBSeq_organism>
+./AJ295989.xml:  <GBSeq_organism>Weissella cibaria</GBSeq_organism>
+./M23036.xml:  <GBSeq_organism>Weissella confusa</GBSeq_organism>

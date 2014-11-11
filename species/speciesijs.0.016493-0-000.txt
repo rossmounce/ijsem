@@ -1,0 +1,21 @@
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X56575.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./AJ514909.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./X74726.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./AJ580582.xml:  <GBSeq_organism>Vibrio pommerensis</GBSeq_organism>
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./FJ968722.xml:  <GBSeq_organism>Vibrio casei</GBSeq_organism>
+./X74690.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./AJ437616.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./D25307.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./X74686.xml:  <GBSeq_organism>Photobacterium leiognathi subsp. leiognathi</GBSeq_organism>
+./Y13830.xml:  <GBSeq_organism>Vibrio pectenicida</GBSeq_organism>
+./FJ968723.xml:  <GBSeq_organism>Vibrio casei</GBSeq_organism>
+./AJ316172.xml:  <GBSeq_organism>Vibrio brasiliensis LMG 20546</GBSeq_organism>
+./X74687.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AY341436.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./AJ316206.xml:  <GBSeq_organism>Vibrio sp. LMG 19970</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./X74699.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>

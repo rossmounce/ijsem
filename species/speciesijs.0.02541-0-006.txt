@@ -1,0 +1,18 @@
+./AF376230.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AF132255.xml:  <GBSeq_organism>uncultured bacterium adhufec269</GBSeq_organism>
+./AF104841.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./AF104839.xml:  <GBSeq_organism>Ruminococcus albus</GBSeq_organism>
+./AF287801.xml:  <GBSeq_organism>Selenomonas dianae</GBSeq_organism>
+./AB034125.xml:  <GBSeq_organism>uncultured rumen bacterium 4C28d-4</GBSeq_organism>
+./AF157051.xml:  <GBSeq_organism>bacterium ASF500</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./Z49863.xml:  <GBSeq_organism>Sporobacter termitidis</GBSeq_organism>
+./M62702.xml:  <GBSeq_organism>Selenomonas ruminantium</GBSeq_organism>
+./L34625.xml:  <GBSeq_organism>[Eubacterium] siraeum</GBSeq_organism>
+./X97852.xml:  <GBSeq_organism>Anaerofilum pentosovorans</GBSeq_organism>
+./AF287803.xml:  <GBSeq_organism>Selenomonas flueggei ATCC 43531</GBSeq_organism>
+./AF001740.xml:  <GBSeq_organism>unidentified rumen bacterium RF7</GBSeq_organism>
+./AF167711.xml:  <GBSeq_organism>Papillibacter cinnamivorans</GBSeq_organism>
+./M62701.xml:  <GBSeq_organism>Quinella ovalis</GBSeq_organism>
+./AJ238611.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

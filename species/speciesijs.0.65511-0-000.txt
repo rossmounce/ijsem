@@ -1,0 +1,7 @@
+./AY988598.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./X82492.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./EF554593.xml:  <GBSeq_organism>Halolactibacillus alkaliphilus</GBSeq_organism>
+./AB197126.xml:  <GBSeq_organism>Gracilibacillus boraciitolerans</GBSeq_organism>
+./AB196784.xml:  <GBSeq_organism>Halolactibacillus miurensis</GBSeq_organism>
+./AB196783.xml:  <GBSeq_organism>Halolactibacillus halophilus</GBSeq_organism>

@@ -1,0 +1,28 @@
+./AY425785.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./U20797.xml:  <GBSeq_organism>unidentified eubacterium clone SAR202</GBSeq_organism>
+./AF507700.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AM749770.xml:  <GBSeq_organism>Chloroflexi bacterium P359</GBSeq_organism>
+./AM749781.xml:  <GBSeq_organism>Chloroflexi bacterium T104</GBSeq_organism>
+./AF093427.xml:  <GBSeq_organism>Oscillochloris trichoides DG-6</GBSeq_organism>
+./AB109437.xml:  <GBSeq_organism>Anaerolinea thermolimosa</GBSeq_organism>
+./AY425780.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ129114.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AM749782.xml:  <GBSeq_organism>Chloroflexi bacterium T81</GBSeq_organism>
+./AM749737.xml:  <GBSeq_organism>uncultured Chloroflexi bacterium</GBSeq_organism>
+./AB067647.xml:  <GBSeq_organism>Caldilinea aerophila DSM 14535 = NBRC 104270</GBSeq_organism>
+./AM180155.xml:  <GBSeq_organism>bacterium SOSP1-9</GBSeq_organism>
+./EF516671.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./U20798.xml:  <GBSeq_organism>unidentified eubacterium clone SAR307</GBSeq_organism>
+./AM180154.xml:  <GBSeq_organism>bacterium SOSP1-1</GBSeq_organism>
+./FJ466038.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AM180153.xml:  <GBSeq_organism>bacterium SOSP1-0</GBSeq_organism>
+./AM180157.xml:  <GBSeq_organism>bacterium SOSP1-30</GBSeq_organism>
+./AM180163.xml:  <GBSeq_organism>bacterium SOSP1-165</GBSeq_organism>
+./AB109439.xml:  <GBSeq_organism>Levilinea saccharolytica</GBSeq_organism>
+./AM180161.xml:  <GBSeq_organism>bacterium SOSP1-85</GBSeq_organism>
+./AB547912.xml:  <GBSeq_organism>Thermogemmatispora onikobensis</GBSeq_organism>
+./AJ308499.xml:  <GBSeq_organism>Chloroflexus aggregans</GBSeq_organism>
+./AM749769.xml:  <GBSeq_organism>Chloroflexi bacterium P352</GBSeq_organism>
+./FJ479260.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY425790.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB510917.xml:  <GBSeq_organism>Ktedonobacter racemifer</GBSeq_organism>

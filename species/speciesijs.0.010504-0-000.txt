@@ -1,0 +1,25 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./EF108218.xml:  <GBSeq_organism>Lutimonas vermicola</GBSeq_organism>
+./AY682382.xml:  <GBSeq_organism>Yeosuana aromativorans</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AY962298.xml:  <GBSeq_organism>Mionectes striaticollis</GBSeq_organism>
+./EF670651.xml:  <GBSeq_organism>Actibacter sediminis</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./Y17612.xml:  <GBSeq_organism>Coenonia anatina</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY248096.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./AY962294.xml:  <GBSeq_organism>Tenacibaculum litoreum</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./EU239499.xml:  <GBSeq_organism>Aestuariicola saemankumensis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AB261012.xml:  <GBSeq_organism>Marixanthomonas ophiurae</GBSeq_organism>

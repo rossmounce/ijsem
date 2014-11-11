@@ -1,0 +1,37 @@
+./AB184216.xml:  <GBSeq_organism>Streptomyces lavendulocolor</GBSeq_organism>
+./AJ781362.xml:  <GBSeq_organism>Streptomyces tanashiensis</GBSeq_organism>
+./AB184547.xml:  <GBSeq_organism>Streptomyces purpureus</GBSeq_organism>
+./AB184652.xml:  <GBSeq_organism>Streptomyces crystallinus</GBSeq_organism>
+./AB184346.xml:  <GBSeq_organism>Streptomyces zaomyceticus</GBSeq_organism>
+./AF361784.xml:  <GBSeq_organism>Streptomyces luridiscabiei</GBSeq_organism>
+./AB184173.xml:  <GBSeq_organism>Streptomyces toxytricini</GBSeq_organism>
+./AB184666.xml:  <GBSeq_organism>Streptomyces gobitricini</GBSeq_organism>
+./AB184866.xml:  <GBSeq_organism>Streptomyces orinoci</GBSeq_organism>
+./AB184476.xml:  <GBSeq_organism>Streptomyces celluloflavus</GBSeq_organism>
+./AB184284.xml:  <GBSeq_organism>Streptomyces microflavus</GBSeq_organism>
+./AB184719.xml:  <GBSeq_organism>Streptomyces olivoreticuli subsp. cellulophilum</GBSeq_organism>
+./AB184314.xml:  <GBSeq_organism>Streptomyces violaceorectus</GBSeq_organism>
+./AB184150.xml:  <GBSeq_organism>Streptomyces luridus</GBSeq_organism>
+./AB184389.xml:  <GBSeq_organism>Streptomyces showdoensis</GBSeq_organism>
+./AB184142.xml:  <GBSeq_organism>Streptomyces halstedii</GBSeq_organism>
+./AB184124.xml:  <GBSeq_organism>Streptomyces cremeus</GBSeq_organism>
+./AB184870.xml:  <GBSeq_organism>Streptomyces mobaraensis NBRC 13819 = DSM 40847</GBSeq_organism>
+./AJ781345.xml:  <GBSeq_organism>Streptomyces olivoreticuli subsp. olivoreticuli</GBSeq_organism>
+./AB184286.xml:  <GBSeq_organism>Streptomyces nashvillensis</GBSeq_organism>
+./AB184168.xml:  <GBSeq_organism>Streptomyces roseolus</GBSeq_organism>
+./AB184287.xml:  <GBSeq_organism>Streptomyces noboritoensis</GBSeq_organism>
+./AB184239.xml:  <GBSeq_organism>Streptomyces roseoviridis</GBSeq_organism>
+./AB184636.xml:  <GBSeq_organism>Streptomyces olivoverticillatus</GBSeq_organism>
+./AY999864.xml:  <GBSeq_organism>Streptomyces rubiginosohelvolus</GBSeq_organism>
+./AB184149.xml:  <GBSeq_organism>Streptomyces litmocidini</GBSeq_organism>
+./AJ781372.xml:  <GBSeq_organism>Streptomyces viridobrunneus</GBSeq_organism>
+./AB184349.xml:  <GBSeq_organism>Streptomyces xantholiticus</GBSeq_organism>
+./AJ781326.xml:  <GBSeq_organism>Streptomyces lateritius</GBSeq_organism>
+./AB184222.xml:  <GBSeq_organism>Streptomyces melanogenes</GBSeq_organism>
+./AB184751.xml:  <GBSeq_organism>Streptomyces nitrosporeus</GBSeq_organism>
+./AB184163.xml:  <GBSeq_organism>Streptomyces puniceus</GBSeq_organism>
+./AB184175.xml:  <GBSeq_organism>Streptomyces virginiae</GBSeq_organism>
+./AB184324.xml:  <GBSeq_organism>Streptomyces exfoliatus</GBSeq_organism>
+./D63867.xml:  <GBSeq_organism>Streptomyces diastatochromogenes</GBSeq_organism>
+./AB184121.xml:  <GBSeq_organism>Streptomyces cinereoruber subsp. cinereoruber</GBSeq_organism>
+./AB184325.xml:  <GBSeq_organism>Streptomyces kurssanovii</GBSeq_organism>

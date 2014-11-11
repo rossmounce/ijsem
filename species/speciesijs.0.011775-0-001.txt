@@ -1,0 +1,23 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./D45060.xml:  <GBSeq_organism>Agromyces cerinus subsp. cerinus</GBSeq_organism>
+./D45061.xml:  <GBSeq_organism>Agromyces hippuratus</GBSeq_organism>
+./X77445.xml:  <GBSeq_organism>Microbacterium testaceum</GBSeq_organism>
+./X77437.xml:  <GBSeq_organism>Curtobacterium luteum</GBSeq_organism>
+./M60935.xml:  <GBSeq_organism>Leifsonia xyli</GBSeq_organism>
+./D45058.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./X77442.xml:  <GBSeq_organism>Microbacterium imperiale</GBSeq_organism>
+./D45057.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X77449.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./D45063.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./D45051.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./X77440.xml:  <GBSeq_organism>Pseudoclavibacter helvolus</GBSeq_organism>
+./X77438.xml:  <GBSeq_organism>Rathayibacter tritici</GBSeq_organism>
+./X77434.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./EF467640.xml:  <GBSeq_organism>Cryobacterium roopkundense</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./DQ515963.xml:  <GBSeq_organism>Cryobacterium psychrotolerans</GBSeq_organism>

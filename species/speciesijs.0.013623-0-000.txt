@@ -1,0 +1,14 @@
+./AF144750.xml:  <GBSeq_organism>Planomicrobium koreense</GBSeq_organism>
+./EU240886.xml:  <GBSeq_organism>Nosocomiicoccus ampullae</GBSeq_organism>
+./AJ251530.xml:  <GBSeq_organism>Jeotgalicoccus pinnipedialis</GBSeq_organism>
+./FJ158840.xml:  <GBSeq_organism>Jeotgalicoccus huakuii</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./Y15713.xml:  <GBSeq_organism>Macrococcus carouselicus</GBSeq_organism>
+./Y15714.xml:  <GBSeq_organism>Macrococcus bovicus</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./X94559.xml:  <GBSeq_organism>Salinicoccus roseus</GBSeq_organism>
+./AY028925.xml:  <GBSeq_organism>Jeotgalicoccus halotolerans</GBSeq_organism>
+./Y15712.xml:  <GBSeq_organism>Macrococcus equipercicus</GBSeq_organism>
+./X62175.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./X62171.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./EU583727.xml:  <GBSeq_organism>Jeotgalicoccus marinus</GBSeq_organism>

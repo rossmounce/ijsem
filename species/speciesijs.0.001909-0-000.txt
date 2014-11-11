@@ -1,0 +1,18 @@
+./AY968205.xml:  <GBSeq_organism>Porphyromonas somerae DSM 23386</GBSeq_organism>
+./AB050106.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./X76261.xml:  <GBSeq_organism>Porphyromonas canoris</GBSeq_organism>
+./AJ518874.xml:  <GBSeq_organism>Alistipes finegoldii DSM 17242</GBSeq_organism>
+./X76260.xml:  <GBSeq_organism>Porphyromonas cansulci</GBSeq_organism>
+./EU136683.xml:  <GBSeq_organism>Bacteroides pyogenes</GBSeq_organism>
+./AF208290.xml:  <GBSeq_organism>Porphyromonas gulae</GBSeq_organism>
+./L16494.xml:  <GBSeq_organism>Porphyromonas macacae</GBSeq_organism>
+./EU136689.xml:  <GBSeq_organism>Bacteroides pyogenes</GBSeq_organism>
+./AY253728.xml:  <GBSeq_organism>Porphyromonas endodontalis</GBSeq_organism>
+./EU414673.xml:  <GBSeq_organism>Porphyromonas bennonis</GBSeq_organism>
+./L16493.xml:  <GBSeq_organism>Porphyromonas levii</GBSeq_organism>
+./X82823.xml:  <GBSeq_organism>Porphyromonas catoniae ATCC 51270</GBSeq_organism>
+./EU136681.xml:  <GBSeq_organism>Parabacteroides distasonis</GBSeq_organism>
+./L26102.xml:  <GBSeq_organism>Porphyromonas circumdentaria</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./X76259.xml:  <GBSeq_organism>Porphyromonas cangingivalis</GBSeq_organism>

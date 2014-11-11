@@ -1,0 +1,23 @@
+./EU698029.xml:  <GBSeq_organism>Marinactinospora thermotolerans</GBSeq_organism>
+./X97883.xml:  <GBSeq_organism>Nocardiopsis alba DSM 43377</GBSeq_organism>
+./AF360734.xml:  <GBSeq_organism>Nocardiopsis composta</GBSeq_organism>
+./X97886.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111</GBSeq_organism>
+./EF423989.xml:  <GBSeq_organism>Streptomonospora halophila</GBSeq_organism>
+./AF462347.xml:  <GBSeq_organism>Streptomonospora alba</GBSeq_organism>
+./X54287.xml:  <GBSeq_organism>Actinopolyspora halophila</GBSeq_organism>
+./EU442551.xml:  <GBSeq_organism>Streptomonospora amylolytica</GBSeq_organism>
+./AJ421018.xml:  <GBSeq_organism>Nocardiopsis halophila DSM 44494</GBSeq_organism>
+./AJ298058.xml:  <GBSeq_organism>Thermobifida cellulosilytica TB100</GBSeq_organism>
+./AF028245.xml:  <GBSeq_organism>Thermobifida fusca</GBSeq_organism>
+./AF028246.xml:  <GBSeq_organism>Thermomonospora chromogena</GBSeq_organism>
+./EU250489.xml:  <GBSeq_organism>Thermobifida halotolerans</GBSeq_organism>
+./GU112453.xml:  <GBSeq_organism>Spinactinospora alkalitolerans</GBSeq_organism>
+./AF002260.xml:  <GBSeq_organism>Thermobifida alba</GBSeq_organism>
+./U49007.xml:  <GBSeq_organism>Actinocorallia libanotica</GBSeq_organism>
+./X97888.xml:  <GBSeq_organism>Nocardiopsis lucentensis DSM 44048</GBSeq_organism>
+./FN393755.xml:  <GBSeq_organism>Murinocardiopsis flavida</GBSeq_organism>
+./Y13593.xml:  <GBSeq_organism>Nocardiopsis synnemataformans DSM 44143</GBSeq_organism>
+./AJ290448.xml:  <GBSeq_organism>Nocardiopsis halotolerans</GBSeq_organism>
+./EU442553.xml:  <GBSeq_organism>Streptomonospora flavalba</GBSeq_organism>
+./AJ539401.xml:  <GBSeq_organism>Nocardiopsis aegyptia</GBSeq_organism>
+./X97887.xml:  <GBSeq_organism>Nocardiopsis listeri</GBSeq_organism>

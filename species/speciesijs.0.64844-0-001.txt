@@ -1,0 +1,12 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./X94194.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus ATCC 12856</GBSeq_organism>
+./DQ459874.xml:  <GBSeq_organism>Cohnella laeviribosi</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AJ011322.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./U49247.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>
+./AJ971483.xml:  <GBSeq_organism>Cohnella thermotolerans</GBSeq_organism>
+./AF433165.xml:  <GBSeq_organism>Cohnella hongkongensis</GBSeq_organism>
+./X57306.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

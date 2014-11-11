@@ -1,0 +1,14 @@
+./AJ313530.xml:  <GBSeq_organism>Lactobacillus mindensis</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AJ270951.xml:  <GBSeq_organism>Lactobacillus curvatus</GBSeq_organism>
+./M58802.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AJ417500.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./AY690834.xml:  <GBSeq_organism>Lactobacillus nantensis</GBSeq_organism>
+./AJ496791.xml:  <GBSeq_organism>Lactobacillus versmoldensis</GBSeq_organism>
+./M58829.xml:  <GBSeq_organism>Lactobacillus sakei</GBSeq_organism>
+./M58805.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>
+./AF183558.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./D86517.xml:  <GBSeq_organism>Lactobacillus casei ATCC 334</GBSeq_organism>
+./AJ419499.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

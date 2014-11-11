@@ -1,0 +1,18 @@
+./AM712331.xml:  <GBSeq_organism>uncultured Caldiserica bacterium</GBSeq_organism>
+./AF419685.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF050593.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-02</GBSeq_organism>
+./AY693837.xml:  <GBSeq_organism>uncultured Caldiserica bacterium</GBSeq_organism>
+./EU156145.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY340822.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF050594.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-03</GBSeq_organism>
+./DQ329842.xml:  <GBSeq_organism>uncultured Caldiserica bacterium</GBSeq_organism>
+./AF255600.xml:  <GBSeq_organism>uncultured bacterium SRI-280</GBSeq_organism>
+./AF507893.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./EF029852.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF515667.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY605161.xml:  <GBSeq_organism>uncultured spirochete</GBSeq_organism>
+./EF515591.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB252429.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY862535.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY297962.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB428365.xml:  <GBSeq_organism>Caldisericum exile AZM16c01</GBSeq_organism>

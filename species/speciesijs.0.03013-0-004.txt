@@ -1,0 +1,22 @@
+./AF296038.xml:  <GBSeq_organism>unidentified bacterium SM-A61</GBSeq_organism>
+./AY371113.xml:  <GBSeq_organism>Isosphaera-like str. CJuql1</GBSeq_organism>
+./AY371118.xml:  <GBSeq_organism>Isosphaera pallida ATCC 43644</GBSeq_organism>
+./U28085.xml:  <GBSeq_organism>unidentified eubacterium clone LGW#46</GBSeq_organism>
+./AY371116.xml:  <GBSeq_organism>Pirellula staleyi</GBSeq_organism>
+./U28114.xml:  <GBSeq_organism>unidentified eubacterium clone LGA#6</GBSeq_organism>
+./AF056384.xml:  <GBSeq_organism>Planctomyces maris</GBSeq_organism>
+./M64709.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./AF296039.xml:  <GBSeq_organism>unidentified bacterium SM-A88</GBSeq_organism>
+./AF296037.xml:  <GBSeq_organism>unidentified bacterium SM-A06</GBSeq_organism>
+./U28087.xml:  <GBSeq_organism>unidentified eubacterium clone LGW#116</GBSeq_organism>
+./AF296043.xml:  <GBSeq_organism>Verrucomicrobium spinosum</GBSeq_organism>
+./AY371112.xml:  <GBSeq_organism>Gemmata-like str. JW3-8s0</GBSeq_organism>
+./AY528422.xml:  <GBSeq_organism>Planctomyces brasiliensis DSM 5305</GBSeq_organism>
+./U28112.xml:  <GBSeq_organism>unidentified eubacterium clone LGA#8</GBSeq_organism>
+./AY371119.xml:  <GBSeq_organism>Planctomyces limnophilus DSM 3776</GBSeq_organism>
+./AY371120.xml:  <GBSeq_organism>Blastopirellula marina DSM 3645</GBSeq_organism>
+./AF295981.xml:  <GBSeq_organism>Thermodesulfobacterium commune</GBSeq_organism>
+./AY371115.xml:  <GBSeq_organism>Pirellula staleyi DSM 6068</GBSeq_organism>
+./U44031.xml:  <GBSeq_organism>Chlamydia trachomatis</GBSeq_organism>
+./AY371111.xml:  <GBSeq_organism>Gemmata-like str. JW10-3f1</GBSeq_organism>
+./AY371114.xml:  <GBSeq_organism>Gemmata-like str. JW9-3f1</GBSeq_organism>

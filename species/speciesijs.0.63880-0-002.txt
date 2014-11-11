@@ -1,0 +1,12 @@
+./D79211.xml:  <GBSeq_organism>Lactobacillus pentosus</GBSeq_organism>
+./AJ575743.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./E16651.xml:  <GBSeq_organism>Lactobacillus sp.</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./AJ417500.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./AJ965482.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./M58817.xml:  <GBSeq_organism>Lactobacillus farciminis</GBSeq_organism>
+./D79210.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AF093757.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AJ496791.xml:  <GBSeq_organism>Lactobacillus versmoldensis</GBSeq_organism>
+./AF183558.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

@@ -1,0 +1,24 @@
+./AJ557886.xml:  <GBSeq_organism>Flavobacterium degerlachei</GBSeq_organism>
+./AF433173.xml:  <GBSeq_organism>Flavobacterium xinjiangense</GBSeq_organism>
+./AM265623.xml:  <GBSeq_organism>Flavobacterium hercynium</GBSeq_organism>
+./AB180738.xml:  <GBSeq_organism>Flavobacterium granuli</GBSeq_organism>
+./HM627539.xml:  <GBSeq_organism>Flavobacterium chungbukense</GBSeq_organism>
+./AJ811981.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AM230487.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./AM230490.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./FM163401.xml:  <GBSeq_organism>Flavobacterium antarcticum DSM 19726</GBSeq_organism>
+./U85889.xml:  <GBSeq_organism>Flavobacterium gillisiae</GBSeq_organism>
+./DQ515962.xml:  <GBSeq_organism>Flavobacterium glaciei</GBSeq_organism>
+./EU046269.xml:  <GBSeq_organism>Flavobacterium anhuiense</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./AF162266.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./CP000685.xml:  <GBSeq_organism>Flavobacterium johnsoniae UW101</GBSeq_organism>
+./EU924275.xml:  <GBSeq_organism>Flavobacterium chungangense</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>
+./AM230492.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./AM177392.xml:  <GBSeq_organism>Flavobacterium aquidurense</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>

@@ -1,0 +1,9 @@
+./EU682684.xml:  <GBSeq_organism>Adhaeribacter terreus</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./FJ004994.xml:  <GBSeq_organism>Pontibacter xinjiangensis</GBSeq_organism>
+./EU155008.xml:  <GBSeq_organism>Hymenobacter aerophilus</GBSeq_organism>
+./AM049256.xml:  <GBSeq_organism>Pontibacter roseus</GBSeq_organism>
+./Y18837.xml:  <GBSeq_organism>Hymenobacter chitinivorans</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./FJ897494.xml:  <GBSeq_organism>Pontibacter niistensis</GBSeq_organism>
+./EU325941.xml:  <GBSeq_organism>Hymenobacter deserti</GBSeq_organism>

@@ -1,0 +1,5 @@
+./AY549004.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./AY549005.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF505721.xml:  <GBSeq_organism>gamma proteobacterium UMB3A</GBSeq_organism>

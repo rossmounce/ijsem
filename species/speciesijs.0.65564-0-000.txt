@@ -1,0 +1,18 @@
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AJ416411.xml:  <GBSeq_organism>Novosphingobium hassiacum</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./AM489507.xml:  <GBSeq_organism>Sphingobium olei</GBSeq_organism>
+./AY519129.xml:  <GBSeq_organism>Sphingobium indicum</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./AF159257.xml:  <GBSeq_organism>Sphingobium chungbukense</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./AY519130.xml:  <GBSeq_organism>Sphingobium francense</GBSeq_organism>
+./AF039168.xml:  <GBSeq_organism>Sphingobium japonicum</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AM181012.xml:  <GBSeq_organism>Sphingobium aromaticiconvertens</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./J01859.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>

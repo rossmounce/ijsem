@@ -1,0 +1,10 @@
+./EU622817.xml:  <GBSeq_organism>Acinetobacter baylyi DSM 14961 = CIP 107474</GBSeq_organism>
+./FN597720.xml:  <GBSeq_organism>Acinetobacter rudis</GBSeq_organism>
+./AB008707.xml:  <GBSeq_organism>Acinetobacter sp.</GBSeq_organism>
+./FN597721.xml:  <GBSeq_organism>Acinetobacter rudis CIP 110305</GBSeq_organism>
+./AB008694.xml:  <GBSeq_organism>Acinetobacter lwoffii</GBSeq_organism>
+./AB008692.xml:  <GBSeq_organism>Acinetobacter johnsonii</GBSeq_organism>
+./AB008691.xml:  <GBSeq_organism>Acinetobacter haemolyticus</GBSeq_organism>
+./EU927370.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./AB008684.xml:  <GBSeq_organism>Acinetobacter baumannii</GBSeq_organism>
+./EU622818.xml:  <GBSeq_organism>Acinetobacter soli</GBSeq_organism>

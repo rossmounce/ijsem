@@ -1,0 +1,10 @@
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./EF575563.xml:  <GBSeq_organism>Flavobacterium resistens</GBSeq_organism>
+./EU423319.xml:  <GBSeq_organism>Flavobacterium sasangense</GBSeq_organism>
+./AM230486.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./DQ372981.xml:  <GBSeq_organism>Flavobacterium filum</GBSeq_organism>
+./DQ222427.xml:  <GBSeq_organism>Flavobacterium daejeonense</GBSeq_organism>
+./CP000685.xml:  <GBSeq_organism>Flavobacterium johnsoniae UW101</GBSeq_organism>
+./AM230492.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./AM177392.xml:  <GBSeq_organism>Flavobacterium aquidurense</GBSeq_organism>

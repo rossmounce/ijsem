@@ -1,0 +1,16 @@
+./M58811.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./M58807.xml:  <GBSeq_organism>Lactobacillus animalis</GBSeq_organism>
+./M58826.xml:  <GBSeq_organism>Lactobacillus murinus</GBSeq_organism>
+./AF469172.xml:  <GBSeq_organism>Lactobacillus casei subsp. casei ATCC 393</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./M58813.xml:  <GBSeq_organism>Lactobacillus coryniformis</GBSeq_organism>
+./E16651.xml:  <GBSeq_organism>Lactobacillus sp.</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./M58806.xml:  <GBSeq_organism>Lactobacillus amylophilus</GBSeq_organism>
+./D79210.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AB005893.xml:  <GBSeq_organism>Lactobacillus collinoides</GBSeq_organism>
+./M58819.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./M58809.xml:  <GBSeq_organism>Lactobacillus bifermentans</GBSeq_organism>
+./M58829.xml:  <GBSeq_organism>Lactobacillus sakei</GBSeq_organism>
+./X61132.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

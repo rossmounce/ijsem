@@ -1,0 +1,8 @@
+./U89333.xml:  <GBSeq_organism>Microvirgula aerodenitrificans</GBSeq_organism>
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./U45995.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./AY344056.xml:  <GBSeq_organism>Chromobacterium subtsugae</GBSeq_organism>
+./AM295491.xml:  <GBSeq_organism>Gulbenkiania mobilis</GBSeq_organism>
+./Y17602.xml:  <GBSeq_organism>Formivibrio citricus</GBSeq_organism>
+./EU594330.xml:  <GBSeq_organism>Aquitalea denitrificans</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>

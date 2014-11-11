@@ -1,0 +1,10 @@
+./AB286020.xml:  <GBSeq_organism>Microbacterium marinilacus</GBSeq_organism>
+./AY062021.xml:  <GBSeq_organism>Microbacterium ulmi</GBSeq_organism>
+./Y17229.xml:  <GBSeq_organism>Microbacterium aurum</GBSeq_organism>
+./X77443.xml:  <GBSeq_organism>Microbacterium arborescens</GBSeq_organism>
+./AF263563.xml:  <GBSeq_organism>Microbacterium gubbeenense</GBSeq_organism>
+./AJ853909.xml:  <GBSeq_organism>Microbacterium paludicola</GBSeq_organism>
+./Y17870.xml:  <GBSeq_organism>Rarobacter faecitabidus</GBSeq_organism>
+./AY962574.xml:  <GBSeq_organism>Microbacterium koreense</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>
+./AB286021.xml:  <GBSeq_organism>Microbacterium sediminicola</GBSeq_organism>

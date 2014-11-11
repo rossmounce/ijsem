@@ -1,0 +1,16 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY974609.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./AF110274.xml:  <GBSeq_organism>Beggiatoa alba B18LD</GBSeq_organism>
+./U89298.xml:  <GBSeq_organism>Methylocaldum gracile</GBSeq_organism>
+./AB294553.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./X93482.xml:  <GBSeq_organism>Ectothiorhodospira mobilis</GBSeq_organism>
+./AE017354.xml:  <GBSeq_organism>Legionella pneumophila subsp. pneumophila str. Philadelphia 1</GBSeq_organism>
+./AJ563935.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./AJ001010.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./X93473.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./AF304195.xml:  <GBSeq_organism>Methylobacter luteus</GBSeq_organism>
+./FJ002854.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./GU206550.xml:  <GBSeq_organism>Plasticicumulans acidivorans</GBSeq_organism>

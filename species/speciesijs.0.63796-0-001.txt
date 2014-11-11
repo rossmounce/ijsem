@@ -1,0 +1,25 @@
+./X89947.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./D85483.xml:  <GBSeq_organism>Glycomyces harbinensis</GBSeq_organism>
+./D85468.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./D85492.xml:  <GBSeq_organism>Nocardiopsis dassonvillei</GBSeq_organism>
+./X53217.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./AB019260.xml:  <GBSeq_organism>Cryptobacterium curtum DSM 15641</GBSeq_organism>
+./X98372.xml:  <GBSeq_organism>Rubrobacter radiotolerans DSM 5868</GBSeq_organism>
+./AJ458462.xml:  <GBSeq_organism>Thermoleophilum album</GBSeq_organism>
+./X53211.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./D85473.xml:  <GBSeq_organism>Actinocorallia herbida</GBSeq_organism>
+./AB012607.xml:  <GBSeq_organism>Micropruina glycogenica</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AY039806.xml:  <GBSeq_organism>Solirubrobacter pauli</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./AF101240.xml:  <GBSeq_organism>Slackia exigua ATCC 700122</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AF227165.xml:  <GBSeq_organism>Propioniferax innocua</GBSeq_organism>
+./D85490.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./AF292375.xml:  <GBSeq_organism>Eggerthella lenta DSM 2243</GBSeq_organism>
+./AJ420142.xml:  <GBSeq_organism>Sphaerobacter thermophilus DSM 20745</GBSeq_organism>
+./AJ440237.xml:  <GBSeq_organism>Conexibacter woesei DSM 14684</GBSeq_organism>
+./U43492.xml:  <GBSeq_organism>Denitrobacterium detoxificans</GBSeq_organism>

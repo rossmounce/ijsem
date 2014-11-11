@@ -1,0 +1,10 @@
+./U89333.xml:  <GBSeq_organism>Microvirgula aerodenitrificans</GBSeq_organism>
+./EU287927.xml:  <GBSeq_organism>Vogesella lacus</GBSeq_organism>
+./AY650027.xml:  <GBSeq_organism>Pseudoxanthomonas kaohsiungensis</GBSeq_organism>
+./AY344056.xml:  <GBSeq_organism>Chromobacterium subtsugae</GBSeq_organism>
+./AM295491.xml:  <GBSeq_organism>Gulbenkiania mobilis</GBSeq_organism>
+./AB021385.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./EU109734.xml:  <GBSeq_organism>Chromobacterium aquaticum</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>
+./EF626692.xml:  <GBSeq_organism>Pseudogulbenkiania subflava DSM 22618</GBSeq_organism>
+./EF626691.xml:  <GBSeq_organism>Vogesella perlucida</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./AY553294.xml:  <GBSeq_organism>Chryseobacterium jeonii</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ704540.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./AY883416.xml:  <GBSeq_organism>Chryseobacterium taeanense</GBSeq_organism>
+./EF554366.xml:  <GBSeq_organism>Chryseobacterium marinum</GBSeq_organism>
+./AF344179.xml:  <GBSeq_organism>Chryseobacterium koreense</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./AY553293.xml:  <GBSeq_organism>Chryseobacterium antarcticum</GBSeq_organism>
+./AJ871397.xml:  <GBSeq_organism>Chryseobacterium vrystaatense</GBSeq_organism>
+./AJ457206.xml:  <GBSeq_organism>Chryseobacterium daecheongense</GBSeq_organism>
+./AF493696.xml:  <GBSeq_organism>Epilithonimonas tenax</GBSeq_organism>
+./AJ309324.xml:  <GBSeq_organism>Chryseobacterium defluvii</GBSeq_organism>
+./AY315443.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>

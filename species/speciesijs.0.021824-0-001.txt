@@ -1,0 +1,26 @@
+./AY234438.xml:  <GBSeq_organism>bacterium Ellin5021</GBSeq_organism>
+./X77215.xml:  <GBSeq_organism>Holophaga foetida DSM 6591</GBSeq_organism>
+./AF498724.xml:  <GBSeq_organism>bacterium Ellin342</GBSeq_organism>
+./AM887759.xml:  <GBSeq_organism>Granulicella rosea</GBSeq_organism>
+./AM887758.xml:  <GBSeq_organism>Granulicella paludicola</GBSeq_organism>
+./AM887757.xml:  <GBSeq_organism>Granulicella pectinivorans</GBSeq_organism>
+./AY587228.xml:  <GBSeq_organism>Terriglobus sp. TAA 43</GBSeq_organism>
+./AM162405.xml:  <GBSeq_organism>Bryobacter aggregatus MPL3</GBSeq_organism>
+./AY587229.xml:  <GBSeq_organism>Terriglobus sp. TAA 48</GBSeq_organism>
+./AM887755.xml:  <GBSeq_organism>Acidobacteria bacterium KMR</GBSeq_organism>
+./U41563.xml:  <GBSeq_organism>Geothrix fermentans</GBSeq_organism>
+./DQ528761.xml:  <GBSeq_organism>Edaphobacter aggregans DSM 19364</GBSeq_organism>
+./AM887762.xml:  <GBSeq_organism>Bryobacter aggregatus</GBSeq_organism>
+./AM887756.xml:  <GBSeq_organism>Granulicella aggregans</GBSeq_organism>
+./AY234473.xml:  <GBSeq_organism>bacterium Ellin5056</GBSeq_organism>
+./AM887761.xml:  <GBSeq_organism>Bryobacter aggregatus</GBSeq_organism>
+./AF498753.xml:  <GBSeq_organism>bacterium Ellin371</GBSeq_organism>
+./AF498719.xml:  <GBSeq_organism>bacterium Ellin337</GBSeq_organism>
+./AY587230.xml:  <GBSeq_organism>Acidobacteriaceae bacterium TAA166</GBSeq_organism>
+./AF498733.xml:  <GBSeq_organism>bacterium Ellin351</GBSeq_organism>
+./AY587227.xml:  <GBSeq_organism>Acidobacteriaceae bacterium KBS89</GBSeq_organism>
+./FR716684.xml:  <GBSeq_organism>Granulicella paludicola</GBSeq_organism>
+./AY234767.xml:  <GBSeq_organism>bacterium Ellin6115</GBSeq_organism>
+./AM887754.xml:  <GBSeq_organism>Acidobacteria bacterium AL</GBSeq_organism>
+./AY284418.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./D26171.xml:  <GBSeq_organism>Acidobacterium capsulatum</GBSeq_organism>

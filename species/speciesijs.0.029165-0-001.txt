@@ -1,0 +1,13 @@
+./AY486133.xml:  <GBSeq_organism>Methylovorus glucosotrophus</GBSeq_organism>
+./AY772089.xml:  <GBSeq_organism>Methylophilus quaylei</GBSeq_organism>
+./AY027801.xml:  <GBSeq_organism>Aminomonas aminovorus</GBSeq_organism>
+./AB193725.xml:  <GBSeq_organism>Methylophilus leisingeri</GBSeq_organism>
+./CP002056.xml:  <GBSeq_organism>Methylotenera versatilis 301</GBSeq_organism>
+./DQ287786.xml:  <GBSeq_organism>Methylotenera mobilis JLW8</GBSeq_organism>
+./X87338.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./CP001674.xml:  <GBSeq_organism>Methylovorus glucosetrophus SIP3-4</GBSeq_organism>
+./AY298905.xml:  <GBSeq_organism>Methylobacillus pratensis</GBSeq_organism>
+./AY486132.xml:  <GBSeq_organism>Methylovorus mays</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./Y14701.xml:  <GBSeq_organism>Azoarcus anaerobius</GBSeq_organism>
+./CP000284.xml:  <GBSeq_organism>Methylobacillus flagellatus KT</GBSeq_organism>

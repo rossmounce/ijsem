@@ -1,0 +1,17 @@
+./AF288370.xml:  <GBSeq_organism>Idiomarina loihiensis</GBSeq_organism>
+./AY526861.xml:  <GBSeq_organism>Idiomarina fontislapidosi</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./U85845.xml:  <GBSeq_organism>Colwellia demingiae</GBSeq_organism>
+./AY635468.xml:  <GBSeq_organism>Idiomarina seosinensis</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./U85846.xml:  <GBSeq_organism>Colwellia psychrotropica</GBSeq_organism>
+./AY526862.xml:  <GBSeq_organism>Idiomarina ramblicola</GBSeq_organism>
+./AB162002.xml:  <GBSeq_organism>Thalassotalea agarivorans</GBSeq_organism>
+./AF052741.xml:  <GBSeq_organism>Idiomarina zobellii</GBSeq_organism>
+./AY167311.xml:  <GBSeq_organism>Colwellia rossensis</GBSeq_organism>
+./AB002630.xml:  <GBSeq_organism>Colwellia maris</GBSeq_organism>
+./AF173964.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AY643537.xml:  <GBSeq_organism>Thalassotalea loyana</GBSeq_organism>
+./AY194066.xml:  <GBSeq_organism>Thalassotalea ganghwensis</GBSeq_organism>
+./U85847.xml:  <GBSeq_organism>Colwellia hornerae</GBSeq_organism>
+./AJ440214.xml:  <GBSeq_organism>Idiomarina baltica OS145</GBSeq_organism>

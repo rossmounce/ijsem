@@ -1,0 +1,11 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./D14016.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./D14018.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./M59052.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M58774.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>

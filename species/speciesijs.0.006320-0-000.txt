@@ -1,0 +1,15 @@
+./AF363288.xml:  <GBSeq_organism>Nitrobacter winogradskyi</GBSeq_organism>
+./U35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./X66024.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AY624135.xml:  <GBSeq_organism>Bradyrhizobium pachyrhizi</GBSeq_organism>
+./AJ558024.xml:  <GBSeq_organism>Bradyrhizobium sp. BGA-1</GBSeq_organism>
+./AJ250818.xml:  <GBSeq_organism>Sugarcane phytoplasma type E</GBSeq_organism>
+./FJ428214.xml:  <GBSeq_organism>Bradyrhizobium genosp. beta</GBSeq_organism>
+./AP005940.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 110</GBSeq_organism>
+./AY577427.xml:  <GBSeq_organism>Bradyrhizobium canariense</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./AY624134.xml:  <GBSeq_organism>Bradyrhizobium jicamae</GBSeq_organism>
+./D78366.xml:  <GBSeq_organism>Bradyrhizobium oligotrophicum S58</GBSeq_organism>
+./AY372184.xml:  <GBSeq_organism>Bradyrhizobium betae</GBSeq_organism>
+./AF288310.xml:  <GBSeq_organism>Afipia felis</GBSeq_organism>
+./AJ558030.xml:  <GBSeq_organism>Bradyrhizobium genosp. alpha bv. genistearum</GBSeq_organism>

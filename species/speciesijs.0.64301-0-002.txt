@@ -1,0 +1,22 @@
+./AF203420.xml:  <GBSeq_organism>Candida sp. UWO(PS)91-127.1</GBSeq_organism>
+./AY165959.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./AF203418.xml:  <GBSeq_organism>Candida sp. UWO(PS)95-697.4</GBSeq_organism>
+./U40082.xml:  <GBSeq_organism>Saccharomycopsis capsularis</GBSeq_organism>
+./U73600.xml:  <GBSeq_organism>Arthroascus fermentans</GBSeq_organism>
+./U40079.xml:  <GBSeq_organism>Saccharomycopsis crataegensis</GBSeq_organism>
+./U40099.xml:  <GBSeq_organism>Saccharomycopsis selenospora</GBSeq_organism>
+./AF203419.xml:  <GBSeq_organism>Candida sp. UWO(PS)91-151</GBSeq_organism>
+./U40107.xml:  <GBSeq_organism>Saccharomycopsis javanensis</GBSeq_organism>
+./U69880.xml:  <GBSeq_organism>Saccharomycopsis amapae</GBSeq_organism>
+./U40123.xml:  <GBSeq_organism>Saccharomycopsis synnaedendra</GBSeq_organism>
+./U40126.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./DQ361063.xml:  <GBSeq_organism>Arthroascus fermentans var. arxii</GBSeq_organism>
+./AY165962.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./AY165964.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./U40088.xml:  <GBSeq_organism>Saccharomycopsis fibuligera</GBSeq_organism>
+./AY165963.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./AY165958.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./AY165960.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>
+./DQ361062.xml:  <GBSeq_organism>Saccharomycopsis babjevae</GBSeq_organism>
+./U40135.xml:  <GBSeq_organism>Saccharomycopsis malanga</GBSeq_organism>
+./AY165961.xml:  <GBSeq_organism>Arthroascus schoenii</GBSeq_organism>

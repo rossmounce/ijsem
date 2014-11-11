@@ -1,0 +1,13 @@
+./AF137508.xml:  <GBSeq_organism>Herbaspirillum rubrisubalbicans</GBSeq_organism>
+./AY679161.xml:  <GBSeq_organism>Massilia alkalitolerans DSM 17462</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AY061962.xml:  <GBSeq_organism>Oxalicibacterium flavum</GBSeq_organism>
+./AY676462.xml:  <GBSeq_organism>Herminiimonas fonticola</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./Y10146.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AM397629.xml:  <GBSeq_organism>Undibacterium parvum</GBSeq_organism>
+./AM397630.xml:  <GBSeq_organism>Undibacterium pigrum</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>

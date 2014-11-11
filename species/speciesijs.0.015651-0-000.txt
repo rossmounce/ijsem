@@ -1,0 +1,11 @@
+./AJ227784.xml:  <GBSeq_organism>Brevundimonas subvibrioides ATCC 15264</GBSeq_organism>
+./AJ227785.xml:  <GBSeq_organism>Brevundimonas alba</GBSeq_organism>
+./AJ227801.xml:  <GBSeq_organism>Brevundimonas mediterranea</GBSeq_organism>
+./AJ227778.xml:  <GBSeq_organism>Brevundimonas diminuta ATCC 11568</GBSeq_organism>
+./AJ227779.xml:  <GBSeq_organism>Brevundimonas vancanneytii</GBSeq_organism>
+./AY971368.xml:  <GBSeq_organism>Brevundimonas kwangchunensis</GBSeq_organism>
+./EU143355.xml:  <GBSeq_organism>Brevundimonas basaltis</GBSeq_organism>
+./AJ227787.xml:  <GBSeq_organism>Brevundimonas aurantiaca</GBSeq_organism>
+./AJ227780.xml:  <GBSeq_organism>Brevundimonas vesicularis</GBSeq_organism>
+./AJ227783.xml:  <GBSeq_organism>Brevundimonas variabilis</GBSeq_organism>
+./EF363713.xml:  <GBSeq_organism>Brevundimonas lenta</GBSeq_organism>

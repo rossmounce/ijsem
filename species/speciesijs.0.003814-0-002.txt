@@ -1,0 +1,27 @@
+./AJ233947.xml:  <GBSeq_organism>Nannocystis exedens</GBSeq_organism>
+./AJ316014.xml:  <GBSeq_organism>Sorangium cellulosum So ce56</GBSeq_organism>
+./AJ233907.xml:  <GBSeq_organism>Melittangium alboraceum</GBSeq_organism>
+./AJ233945.xml:  <GBSeq_organism>Nannocystis aggregans</GBSeq_organism>
+./DQ768120.xml:  <GBSeq_organism>Corallococcus coralloides DSM 2259</GBSeq_organism>
+./AF467675.xml:  <GBSeq_organism>Sorangium cellulosum</GBSeq_organism>
+./AJ233912.xml:  <GBSeq_organism>Archangium gephyra</GBSeq_organism>
+./AF467672.xml:  <GBSeq_organism>Sorangium cellulosum</GBSeq_organism>
+./DQ768129.xml:  <GBSeq_organism>Stigmatella hybrida</GBSeq_organism>
+./AJ233943.xml:  <GBSeq_organism>Polyangium thaxteri</GBSeq_organism>
+./AJ833647.xml:  <GBSeq_organism>Byssovorax cruenta</GBSeq_organism>
+./DQ256394.xml:  <GBSeq_organism>Sorangium cellulosum So0157-2</GBSeq_organism>
+./EU545827.xml:  <GBSeq_organism>Phaselicystis flava</GBSeq_organism>
+./AB097591.xml:  <GBSeq_organism>Enhygromyxa salina</GBSeq_organism>
+./AF387629.xml:  <GBSeq_organism>Sorangium cellulosum</GBSeq_organism>
+./M94275.xml:  <GBSeq_organism>Chondromyces crocatus</GBSeq_organism>
+./AB083432.xml:  <GBSeq_organism>Plesiocystis pacifica SIR-1</GBSeq_organism>
+./AJ233939.xml:  <GBSeq_organism>Chondromyces lanuginosus</GBSeq_organism>
+./AY032880.xml:  <GBSeq_organism>Sorangium cellulosum</GBSeq_organism>
+./AJ233944.xml:  <GBSeq_organism>Kofleria flava</GBSeq_organism>
+./AJ233942.xml:  <GBSeq_organism>Chondromyces robustus</GBSeq_organism>
+./AJ233929.xml:  <GBSeq_organism>Myxococcus xanthus</GBSeq_organism>
+./AJ811598.xml:  <GBSeq_organism>Corallococcus exiguus</GBSeq_organism>
+./DQ768123.xml:  <GBSeq_organism>Pyxidicoccus fallax</GBSeq_organism>
+./DQ491071.xml:  <GBSeq_organism>Stigmatella erecta</GBSeq_organism>
+./AJ233948.xml:  <GBSeq_organism>Phaselicystis flava</GBSeq_organism>
+./DQ768108.xml:  <GBSeq_organism>Cystobacter badius</GBSeq_organism>

@@ -1,0 +1,10 @@
+./D16272.xml:  <GBSeq_organism>Bacillus lentus</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./D78311.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./AJ583158.xml:  <GBSeq_organism>Bacillus indicus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AF519469.xml:  <GBSeq_organism>Bacillus arbutinivorans</GBSeq_organism>
+./AJ422145.xml:  <GBSeq_organism>Fictibacillus barbaricus</GBSeq_organism>
+./AJ606700.xml:  <GBSeq_organism>Fictibacillus arsenicus</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>

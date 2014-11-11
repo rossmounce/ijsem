@@ -1,0 +1,12 @@
+./L26103.xml:  <GBSeq_organism>Porphyromonas macacae</GBSeq_organism>
+./X76261.xml:  <GBSeq_organism>Porphyromonas canoris</GBSeq_organism>
+./M86695.xml:  <GBSeq_organism>Parabacteroides distasonis</GBSeq_organism>
+./AB034799.xml:  <GBSeq_organism>Porphyromonas canis</GBSeq_organism>
+./X76260.xml:  <GBSeq_organism>Porphyromonas cansulci</GBSeq_organism>
+./AF208290.xml:  <GBSeq_organism>Porphyromonas gulae</GBSeq_organism>
+./X82823.xml:  <GBSeq_organism>Porphyromonas catoniae ATCC 51270</GBSeq_organism>
+./L26102.xml:  <GBSeq_organism>Porphyromonas circumdentaria</GBSeq_organism>
+./L16492.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./X76259.xml:  <GBSeq_organism>Porphyromonas cangingivalis</GBSeq_organism>
+./AB035460.xml:  <GBSeq_organism>Tannerella forsythia</GBSeq_organism>

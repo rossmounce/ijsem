@@ -1,0 +1,6 @@
+./AB101593.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./AB112716.xml:  <GBSeq_organism>Brevibacillus agri</GBSeq_organism>
+./AB112715.xml:  <GBSeq_organism>Brevibacillus reuszeri</GBSeq_organism>
+./AB112713.xml:  <GBSeq_organism>Brevibacillus choshinensis</GBSeq_organism>
+./AJ715378.xml:  <GBSeq_organism>Brevibacillus levickii</GBSeq_organism>
+./AB112724.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus ATCC 12856</GBSeq_organism>

@@ -1,0 +1,11 @@
+./U17364.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./X82168.xml:  <GBSeq_organism>Halorubrum trapanicum</GBSeq_organism>
+./D63572.xml:  <GBSeq_organism>Halorubrum distributum</GBSeq_organism>
+./AJ276887.xml:  <GBSeq_organism>Halorubrum tebenquichense</GBSeq_organism>
+./D13379.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./U17365.xml:  <GBSeq_organism>Halorubrum lacusprofundi ATCC 49239</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./K02971.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./L00922.xml:  <GBSeq_organism>Halorubrum coriense</GBSeq_organism>

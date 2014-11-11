@@ -1,0 +1,11 @@
+./AJ865469.xml:  <GBSeq_organism>Anaerobacillus arseniciselenatis</GBSeq_organism>
+./AB101593.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./AF064704.xml:  <GBSeq_organism>[Bacillus] selenitireducens MLS10</GBSeq_organism>
+./Y14578.xml:  <GBSeq_organism>Ammoniphilus oxalaticus</GBSeq_organism>
+./D87035.xml:  <GBSeq_organism>Bacillus horti</GBSeq_organism>
+./AM050346.xml:  <GBSeq_organism>Vulcanibacillus modesticaldus</GBSeq_organism>
+./U20385.xml:  <GBSeq_organism>Bacillus infernus</GBSeq_organism>
+./AJ242495.xml:  <GBSeq_organism>Thermicanus aegyptius</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ005795.xml:  <GBSeq_organism>Thermobacillus xylanilyticus</GBSeq_organism>
+./AB112724.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus ATCC 12856</GBSeq_organism>

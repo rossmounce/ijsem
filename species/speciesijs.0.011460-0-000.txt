@@ -1,0 +1,6 @@
+./EU008565.xml:  <GBSeq_organism>Thalassobaculum salexigens</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./DQ665838.xml:  <GBSeq_organism>Nisaea denitrificans DSM 18348</GBSeq_organism>
+./AM419042.xml:  <GBSeq_organism>Azospirillum rugosum</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>

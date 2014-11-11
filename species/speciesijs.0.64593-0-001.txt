@@ -1,0 +1,15 @@
+./AF168365.xml:  <GBSeq_organism>Desulfotomaculum sapomandens</GBSeq_organism>
+./Y11567.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./Y11569.xml:  <GBSeq_organism>Desulfotomaculum kuznetsovii DSM 6115</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./Y11566.xml:  <GBSeq_organism>Desulfotomaculum acetoxidans DSM 771</GBSeq_organism>
+./X91170.xml:  <GBSeq_organism>Pelotomaculum schinkii</GBSeq_organism>
+./AY327251.xml:  <GBSeq_organism>Cryptanaerobacter phenolicus</GBSeq_organism>
+./U33455.xml:  <GBSeq_organism>Desulfotomaculum thermocisternum</GBSeq_organism>
+./AF097024.xml:  <GBSeq_organism>Desulfotomaculum alkaliphilum</GBSeq_organism>
+./DQ148942.xml:  <GBSeq_organism>Desulfotomaculum arcticum</GBSeq_organism>
+./AF069293.xml:  <GBSeq_organism>Desulfotomaculum luciae</GBSeq_organism>
+./AY548776.xml:  <GBSeq_organism>Desulfurispora thermophila</GBSeq_organism>
+./Y11574.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./Y11575.xml:  <GBSeq_organism>Desulfotomaculum thermosapovorans</GBSeq_organism>
+./Y14845.xml:  <GBSeq_organism>Sporotomaculum hydroxybenzoicum</GBSeq_organism>

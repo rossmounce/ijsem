@@ -1,0 +1,8 @@
+./D85468.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./AB006160.xml:  <GBSeq_organism>Actinocorallia aurea</GBSeq_organism>
+./AJ293707.xml:  <GBSeq_organism>Actinocorallia longicatena</GBSeq_organism>
+./D85473.xml:  <GBSeq_organism>Actinocorallia herbida</GBSeq_organism>
+./AF134066.xml:  <GBSeq_organism>Actinocorallia aurantiaca</GBSeq_organism>
+./U49007.xml:  <GBSeq_organism>Actinocorallia libanotica</GBSeq_organism>
+./AY966427.xml:  <GBSeq_organism>Actinocorallia cavernae</GBSeq_organism>
+./AF134068.xml:  <GBSeq_organism>Actinocorallia glomerata</GBSeq_organism>

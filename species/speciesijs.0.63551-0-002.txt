@@ -1,0 +1,15 @@
+./U11928.xml:  <GBSeq_organism>Rhizobium sp.</GBSeq_organism>
+./M81825.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./X04473.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./U26451.xml:  <GBSeq_organism>Ensifer sp. BR816</GBSeq_organism>
+./AE007231.xml:  <GBSeq_organism>Sinorhizobium meliloti 1021</GBSeq_organism>
+./U80928.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./X54215.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AY458403.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./U04609.xml:  <GBSeq_organism>Bradyrhizobium elkanii USDA 94</GBSeq_organism>
+./X53820.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AP003008.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./U11930.xml:  <GBSeq_organism>Rhizobium sp.</GBSeq_organism>
+./U22899.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./X54214.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AY786081.xml:  <GBSeq_organism>Phyllobacterium trifolii</GBSeq_organism>

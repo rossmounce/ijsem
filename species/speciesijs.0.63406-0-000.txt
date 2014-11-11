@@ -1,0 +1,27 @@
+./X53854.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AB159680.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./L39882.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>
+./D32224.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./X87272.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AB159684.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./AB159683.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AB159685.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./X94203.xml:  <GBSeq_organism>Xanthobacter autotrophicus</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./D11342.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./M29024.xml:  <GBSeq_organism>Methylosinus trichosporium</GBSeq_organism>
+./D16418.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AB159682.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./D14500.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AB017203.xml:  <GBSeq_organism>Prosthecomicrobium pneumaticum</GBSeq_organism>

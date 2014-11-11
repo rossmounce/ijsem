@@ -1,0 +1,27 @@
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF544015.xml:  <GBSeq_organism>Parvularcula bermudensis HTCC2503</GBSeq_organism>
+./AY682384.xml:  <GBSeq_organism>Kordiimonas gwangyangensis</GBSeq_organism>
+./AF544016.xml:  <GBSeq_organism>Parvularcula bermudensis</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./AF062074.xml:  <GBSeq_organism>Orientia tsutsugamushi</GBSeq_organism>
+./AY375134.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AB071665.xml:  <GBSeq_organism>Tistrella mobilis</GBSeq_organism>
+./AM162574.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./M21789.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./D14500.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AB016610.xml:  <GBSeq_organism>Asticcacaulis excentricus CB 48</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./M96744.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AJ227780.xml:  <GBSeq_organism>Brevundimonas vesicularis</GBSeq_organism>
+./U23709.xml:  <GBSeq_organism>Wolbachia pipientis</GBSeq_organism>
+./AJ633959.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

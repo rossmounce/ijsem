@@ -1,0 +1,14 @@
+./AJ391835.xml:  <GBSeq_organism>Streptomyces indonesiensis</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./AF117304.xml:  <GBSeq_organism>Streptomyces malaysiensis</GBSeq_organism>
+./AF441168.xml:  <GBSeq_organism>Streptomyces mexicanus</GBSeq_organism>
+./AJ399476.xml:  <GBSeq_organism>Streptomyces bellus</GBSeq_organism>
+./AF101415.xml:  <GBSeq_organism>Streptomyces yeochonensis</GBSeq_organism>
+./AY314782.xml:  <GBSeq_organism>Streptomyces glauciniger</GBSeq_organism>
+./AF452714.xml:  <GBSeq_organism>Streptomyces speibonae</GBSeq_organism>
+./AJ399473.xml:  <GBSeq_organism>Streptomyces coeruleofuscus</GBSeq_organism>
+./U94490.xml:  <GBSeq_organism>Streptomyces thermocarboxydus</GBSeq_organism>
+./U94489.xml:  <GBSeq_organism>Streptomyces thermocarboxydovorans</GBSeq_organism>
+./AY589505.xml:  <GBSeq_organism>Streptomyces cuspidosporus</GBSeq_organism>
+./AJ310925.xml:  <GBSeq_organism>Streptomyces purpurascens</GBSeq_organism>

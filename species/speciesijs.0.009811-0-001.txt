@@ -1,0 +1,15 @@
+./AY486133.xml:  <GBSeq_organism>Methylovorus glucosotrophus</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF085226.xml:  <GBSeq_organism>Cupriavidus pauculus</GBSeq_organism>
+./AB193724.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./M95652.xml:  <GBSeq_organism>Methylobacillus glycogenes</GBSeq_organism>
+./M95651.xml:  <GBSeq_organism>Methylobacillus flagellatus</GBSeq_organism>
+./AF304196.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./AF250333.xml:  <GBSeq_organism>Methylophilus leisingeri</GBSeq_organism>
+./DQ287786.xml:  <GBSeq_organism>Methylotenera mobilis JLW8</GBSeq_organism>
+./AY298905.xml:  <GBSeq_organism>Methylobacillus pratensis</GBSeq_organism>
+./AY486132.xml:  <GBSeq_organism>Methylovorus mays</GBSeq_organism>
+./AB074518.xml:  <GBSeq_organism>Aquaspirillum serpens</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>
+./AF488779.xml:  <GBSeq_organism>Ralstonia insidiosa</GBSeq_organism>
+./AF072581.xml:  <GBSeq_organism>Aminomonas paucivorans DSM 12260</GBSeq_organism>

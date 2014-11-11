@@ -1,0 +1,16 @@
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./AY988598.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./U49079.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./EF379274.xml:  <GBSeq_organism>Bacillus acidiproducens DSM 23148</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./D78477.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./EF392690.xml:  <GBSeq_organism>Bacillus sp. SL1213</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>

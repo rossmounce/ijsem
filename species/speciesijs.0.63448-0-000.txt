@@ -1,0 +1,16 @@
+./AJ301840.xml:  <GBSeq_organism>Tetragenococcus solitarius</GBSeq_organism>
+./X54272.xml:  <GBSeq_organism>Vagococcus salmoninarum</GBSeq_organism>
+./AY690334.xml:  <GBSeq_organism>Tetragenococcus koreensis</GBSeq_organism>
+./D88824.xml:  <GBSeq_organism>Tetragenococcus muriaticus</GBSeq_organism>
+./AJ276355.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AF061004.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./X76177.xml:  <GBSeq_organism>Enterococcus canis</GBSeq_organism>
+./X54258.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./Y18274.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AF061011.xml:  <GBSeq_organism>Enterococcus hirae</GBSeq_organism>
+./AY179329.xml:  <GBSeq_organism>Vagococcus carniphilus</GBSeq_organism>
+./AJ243326.xml:  <GBSeq_organism>Vagococcus fessus</GBSeq_organism>
+./X75751.xml:  <GBSeq_organism>Melissococcus plutonius ATCC 35311</GBSeq_organism>
+./D88668.xml:  <GBSeq_organism>Tetragenococcus halophilus subsp. halophilus</GBSeq_organism>
+./Y17152.xml:  <GBSeq_organism>Vagococcus lutrae</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>

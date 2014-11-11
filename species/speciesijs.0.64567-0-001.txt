@@ -1,0 +1,26 @@
+./AY007722.xml:  <GBSeq_organism>Quatrionicoccus australiensis</GBSeq_organism>
+./Y17601.xml:  <GBSeq_organism>Propionivibrio dicarboxylicus</GBSeq_organism>
+./AF123077.xml:  <GBSeq_organism>Azoarcus toluclasticus</GBSeq_organism>
+./Y17590.xml:  <GBSeq_organism>Thauera mechernichensis</GBSeq_organism>
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./X77679.xml:  <GBSeq_organism>Azoarcus evansii</GBSeq_organism>
+./AJ306683.xml:  <GBSeq_organism>Sterolibacterium denitrificans</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./L33692.xml:  <GBSeq_organism>Azoarcus toluvorans</GBSeq_organism>
+./AJ011506.xml:  <GBSeq_organism>Zoogloea resiniphila</GBSeq_organism>
+./AF123264.xml:  <GBSeq_organism>Thauera chlorobenzoica</GBSeq_organism>
+./AJ005817.xml:  <GBSeq_organism>Thauera terpenica 58Eu</GBSeq_organism>
+./L33694.xml:  <GBSeq_organism>Azoarcus tolulyticus</GBSeq_organism>
+./Y17591.xml:  <GBSeq_organism>Thauera selenatis AX</GBSeq_organism>
+./X74913.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./Y14701.xml:  <GBSeq_organism>Azoarcus anaerobius</GBSeq_organism>
+./AF011343.xml:  <GBSeq_organism>Azoarcus communis</GBSeq_organism>
+./X77118.xml:  <GBSeq_organism>Thauera aromatica</GBSeq_organism>
+./AJ315677.xml:  <GBSeq_organism>Thauera aminoaromatica S2</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>
+./AJ005816.xml:  <GBSeq_organism>Thauera linaloolentis 47Lol = DSM 12138</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AJ315678.xml:  <GBSeq_organism>Thauera phenylacetica B4P</GBSeq_organism>
+./AJ315676.xml:  <GBSeq_organism>Azoarcus buckelii</GBSeq_organism>
+./AF011347.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>

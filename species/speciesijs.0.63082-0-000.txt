@@ -1,0 +1,16 @@
+./X59029.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AJ606046.xml:  <GBSeq_organism>Streptococcus halichoeri</GBSeq_organism>
+./Y07601.xml:  <GBSeq_organism>Streptococcus hyovaginalis</GBSeq_organism>
+./X58302.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./AF335572.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./X58314.xml:  <GBSeq_organism>Streptococcus equi</GBSeq_organism>
+./X58313.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./AF176103.xml:  <GBSeq_organism>Streptococcus didelphis</GBSeq_organism>
+./X59032.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./U41048.xml:  <GBSeq_organism>Streptococcus uberis</GBSeq_organism>
+./X59030.xml:  <GBSeq_organism>Streptococcus dysgalactiae</GBSeq_organism>
+./X89967.xml:  <GBSeq_organism>Streptococcus parauberis</GBSeq_organism>
+./Y09007.xml:  <GBSeq_organism>Streptococcus thoraltensis</GBSeq_organism>
+./AF235052.xml:  <GBSeq_organism>Streptococcus phocae</GBSeq_organism>
+./AJ131965.xml:  <GBSeq_organism>Streptococcus sp.</GBSeq_organism>
+./X59061.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>

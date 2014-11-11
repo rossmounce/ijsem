@@ -1,0 +1,14 @@
+./AJ550856.xml:  <GBSeq_organism>Enhydrobacter aerosaccus</GBSeq_organism>
+./AB362308.xml:  <GBSeq_organism>gamma proteobacterium JAM-GA1201</GBSeq_organism>
+./AF005188.xml:  <GBSeq_organism>Moraxella cuniculi</GBSeq_organism>
+./GU731671.xml:  <GBSeq_organism>Paraperlucidibaca baekdonensis</GBSeq_organism>
+./AY212607.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./Z76659.xml:  <GBSeq_organism>Pseudomonas citronellolis</GBSeq_organism>
+./AJ293691.xml:  <GBSeq_organism>Acinetobacter parvus</GBSeq_organism>
+./AY212663.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./D64049.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./D84020.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AB476258.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ633632.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AJ309941.xml:  <GBSeq_organism>Psychrobacter marincola</GBSeq_organism>

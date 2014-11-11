@@ -1,0 +1,12 @@
+./AB244762.xml:  <GBSeq_organism>Kaistia granuli</GBSeq_organism>
+./EF592609.xml:  <GBSeq_organism>Kaistia soli DSM 19436</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./Y17144.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./AY039817.xml:  <GBSeq_organism>Kaistia adipata</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./D12794.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AB017203.xml:  <GBSeq_organism>Prosthecomicrobium pneumaticum</GBSeq_organism>

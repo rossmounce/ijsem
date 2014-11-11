@@ -1,0 +1,18 @@
+./AF163116.xml:  <GBSeq_organism>Actinomadura livida</GBSeq_organism>
+./AF154127.xml:  <GBSeq_organism>Actinomadura catellatispora</GBSeq_organism>
+./AJ420140.xml:  <GBSeq_organism>Actinomadura formosensis</GBSeq_organism>
+./AY568292.xml:  <GBSeq_organism>Actinomadura napierensis</GBSeq_organism>
+./AY035998.xml:  <GBSeq_organism>Actinomadura latina</GBSeq_organism>
+./AF163119.xml:  <GBSeq_organism>Actinomadura pelletieri</GBSeq_organism>
+./U49008.xml:  <GBSeq_organism>Actinomadura luteofluorescens</GBSeq_organism>
+./U49001.xml:  <GBSeq_organism>Actinomadura citrea</GBSeq_organism>
+./D85473.xml:  <GBSeq_organism>Actinocorallia herbida</GBSeq_organism>
+./U49011.xml:  <GBSeq_organism>Actinomadura verrucosospora</GBSeq_organism>
+./AY273787.xml:  <GBSeq_organism>Actinomadura meyerae</GBSeq_organism>
+./U49010.xml:  <GBSeq_organism>Actinomadura rugatobispora</GBSeq_organism>
+./U49009.xml:  <GBSeq_organism>Actinomadura macra</GBSeq_organism>
+./AF163122.xml:  <GBSeq_organism>Actinomadura yumaensis</GBSeq_organism>
+./X97889.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./U49002.xml:  <GBSeq_organism>Actinomadura coerulea</GBSeq_organism>
+./AF134070.xml:  <GBSeq_organism>Actinomadura vinacea</GBSeq_organism>
+./AJ420142.xml:  <GBSeq_organism>Sphaerobacter thermophilus DSM 20745</GBSeq_organism>

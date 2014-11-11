@@ -1,0 +1,33 @@
+./D86189.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./AB006658.xml:  <GBSeq_organism>Bifidobacterium breve DSM 20213 = JCM 1192</GBSeq_organism>
+./D86183.xml:  <GBSeq_organism>Bifidobacterium dentium JCM 1195 = DSM 20436</GBSeq_organism>
+./D86184.xml:  <GBSeq_organism>Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088</GBSeq_organism>
+./M58734.xml:  <GBSeq_organism>Bifidobacterium cuniculi</GBSeq_organism>
+./AB016246.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./M58732.xml:  <GBSeq_organism>Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043</GBSeq_organism>
+./AY174103.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>
+./AP006618.xml:  <GBSeq_organism>Nocardia farcinica IFM 10152</GBSeq_organism>
+./D86197.xml:  <GBSeq_organism>Bifidobacterium ruminantium</GBSeq_organism>
+./M58733.xml:  <GBSeq_organism>Bifidobacterium coryneforme</GBSeq_organism>
+./AE014295.xml:  <GBSeq_organism>Bifidobacterium longum NCC2705</GBSeq_organism>
+./AJ307005.xml:  <GBSeq_organism>Bifidobacterium scardovii JCM 12489 = DSM 13734</GBSeq_organism>
+./AY174106.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. pseudolongum</GBSeq_organism>
+./M84777.xml:  <GBSeq_organism>Bifidobacterium bifidum</GBSeq_organism>
+./D86182.xml:  <GBSeq_organism>Bifidobacterium angulatum DSM 20098 = JCM 7096</GBSeq_organism>
+./D89379.xml:  <GBSeq_organism>Bifidobacterium subtile</GBSeq_organism>
+./X89513.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis DSM 10140</GBSeq_organism>
+./M58730.xml:  <GBSeq_organism>Bifidobacterium asteroides</GBSeq_organism>
+./D86188.xml:  <GBSeq_organism>Bifidobacterium indicum</GBSeq_organism>
+./M58729.xml:  <GBSeq_organism>Bifidobacterium adolescentis</GBSeq_organism>
+./M58743.xml:  <GBSeq_organism>Bifidobacterium longum subsp. suis</GBSeq_organism>
+./D86196.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./AY148470.xml:  <GBSeq_organism>Bifidobacterium thermacidophilum subsp. porcinum</GBSeq_organism>
+./AY174108.xml:  <GBSeq_organism>Bifidobacterium psychraerophilum</GBSeq_organism>
+./X70971.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis ATCC 25527</GBSeq_organism>
+./D86190.xml:  <GBSeq_organism>Bifidobacterium boum</GBSeq_organism>
+./D86192.xml:  <GBSeq_organism>Bifidobacterium merycicum</GBSeq_organism>
+./D56186.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./D89330.xml:  <GBSeq_organism>Bifidobacterium saeculare</GBSeq_organism>
+./D86193.xml:  <GBSeq_organism>Bifidobacterium magnum</GBSeq_organism>
+./AY174105.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./AF333390.xml:  <GBSeq_organism>Bifidobacterium pseudocatenulatum</GBSeq_organism>

@@ -1,0 +1,11 @@
+./D55729.xml:  <GBSeq_organism>Planomicrobium okeanokoites</GBSeq_organism>
+./AY437845.xml:  <GBSeq_organism>Planomicrobium stackebrandtii</GBSeq_organism>
+./AF029364.xml:  <GBSeq_organism>Planomicrobium alkanoclasticum</GBSeq_organism>
+./AJ544622.xml:  <GBSeq_organism>Planococcus maitriensis</GBSeq_organism>
+./AF324659.xml:  <GBSeq_organism>Planococcus psychrotoleratus</GBSeq_organism>
+./AJ314745.xml:  <GBSeq_organism>Planococcus antarcticus DSM 14505</GBSeq_organism>
+./AJ314746.xml:  <GBSeq_organism>Planomicrobium psychrophilum</GBSeq_organism>
+./AF500007.xml:  <GBSeq_organism>Planococcus maritimus</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AF041791.xml:  <GBSeq_organism>Planomicrobium mcmeekinii</GBSeq_organism>
+./X62173.xml:  <GBSeq_organism>Planococcus kocurii</GBSeq_organism>

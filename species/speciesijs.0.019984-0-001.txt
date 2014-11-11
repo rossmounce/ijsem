@@ -1,0 +1,17 @@
+./EF179125.xml:  <GBSeq_organism>Yersinia aldovae</GBSeq_organism>
+./BX936398.xml:  <GBSeq_organism>Yersinia pseudotuberculosis IP 32953</GBSeq_organism>
+./AM182404.xml:  <GBSeq_organism>Yersinia similis</GBSeq_organism>
+./CP000305.xml:  <GBSeq_organism>Yersinia pestis Nepal516</GBSeq_organism>
+./FJ717342.xml:  <GBSeq_organism>Yersinia pseudotuberculosis</GBSeq_organism>
+./FJ717344.xml:  <GBSeq_organism>Yersinia enterocolitica subsp. palearctica</GBSeq_organism>
+./AE009952.xml:  <GBSeq_organism>Yersinia pestis KIM10+</GBSeq_organism>
+./AF366385.xml:  <GBSeq_organism>Yersinia ruckeri</GBSeq_organism>
+./EF179122.xml:  <GBSeq_organism>Yersinia frederiksenii</GBSeq_organism>
+./FJ717341.xml:  <GBSeq_organism>Yersinia aleksiciae</GBSeq_organism>
+./AF366381.xml:  <GBSeq_organism>Yersinia kristensenii</GBSeq_organism>
+./AF366380.xml:  <GBSeq_organism>Yersinia intermedia ATCC 29909</GBSeq_organism>
+./EF179119.xml:  <GBSeq_organism>Yersinia massiliensis CCUG 53443</GBSeq_organism>
+./AF366384.xml:  <GBSeq_organism>Yersinia rohdei</GBSeq_organism>
+./CP000826.xml:  <GBSeq_organism>Serratia proteamaculans 568</GBSeq_organism>
+./AF366377.xml:  <GBSeq_organism>Yersinia bercovieri ATCC 43970</GBSeq_organism>
+./AF366382.xml:  <GBSeq_organism>Yersinia mollaretii ATCC 43969</GBSeq_organism>

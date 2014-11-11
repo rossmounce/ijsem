@@ -1,0 +1,11 @@
+./AM087681.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AM087757.xml:  <GBSeq_organism>Lactobacillus acidifarinae</GBSeq_organism>
+./AM087698.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AM087682.xml:  <GBSeq_organism>Lactobacillus casei</GBSeq_organism>
+./AM159099.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./AM087752.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./AM087763.xml:  <GBSeq_organism>Lactobacillus diolivorans</GBSeq_organism>
+./AM087680.xml:  <GBSeq_organism>Lactobacillus brevis</GBSeq_organism>
+./AM159098.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./AM087726.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AM087753.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>

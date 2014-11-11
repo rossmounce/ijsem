@@ -1,0 +1,13 @@
+./AF335521.xml:  <GBSeq_organism>Moniliella oedocephalis</GBSeq_organism>
+./AF313370.xml:  <GBSeq_organism>Moniliella sp. UWO(PS)95-766.4</GBSeq_organism>
+./AM947064.xml:  <GBSeq_organism>Moniliella sp. I-396/2</GBSeq_organism>
+./AF335526.xml:  <GBSeq_organism>Moniliella spathulata</GBSeq_organism>
+./AF411823.xml:  <GBSeq_organism>Phylloporia pectinata</GBSeq_organism>
+./EF137917.xml:  <GBSeq_organism>Moniliella nigrescens</GBSeq_organism>
+./AF335522.xml:  <GBSeq_organism>Moniliella madida</GBSeq_organism>
+./DQ400366.xml:  <GBSeq_organism>Moniliella fonsecae</GBSeq_organism>
+./AF335524.xml:  <GBSeq_organism>Moniliella suaveolens var. nigra</GBSeq_organism>
+./EU252153.xml:  <GBSeq_organism>Moniliella acetoabutans</GBSeq_organism>
+./EU545185.xml:  <GBSeq_organism>Moniliella mellis</GBSeq_organism>
+./AF335525.xml:  <GBSeq_organism>Moniliella pollinis</GBSeq_organism>
+./EF137916.xml:  <GBSeq_organism>Moniliella megachiliensis</GBSeq_organism>

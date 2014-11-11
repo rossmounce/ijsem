@@ -1,0 +1,13 @@
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./AY382898.xml:  <GBSeq_organism>Serinicoccus marinus</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AB193172.xml:  <GBSeq_organism>Oryzihumus leptocrescens</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./AJ277650.xml:  <GBSeq_organism>Ornithinimicrobium humiphilum</GBSeq_organism>
+./AB286025.xml:  <GBSeq_organism>Marihabitans asiaticum</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./M23411.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>
+./DQ345443.xml:  <GBSeq_organism>Phycicoccus jejuensis</GBSeq_organism>
+./DQ372707.xml:  <GBSeq_organism>Kribbia dieselivorans</GBSeq_organism>

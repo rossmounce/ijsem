@@ -1,0 +1,12 @@
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AY787820.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./M58779.xml:  <GBSeq_organism>Sphingobacterium thalpophilum</GBSeq_organism>
+./AJ438170.xml:  <GBSeq_organism>Pedobacter cryoconitis</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AJ786798.xml:  <GBSeq_organism>Pedobacter caeni</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>
+./AB361248.xml:  <GBSeq_organism>Sphingobacterium kitahiroshimense</GBSeq_organism>
+./D14025.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>

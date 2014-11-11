@@ -1,0 +1,11 @@
+./Z76667.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AB125367.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./D84011.xml:  <GBSeq_organism>Pseudomonas chlororaphis</GBSeq_organism>
+./D84004.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./D84024.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>

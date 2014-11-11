@@ -1,0 +1,6 @@
+./X92513.xml:  <GBSeq_organism>Thermoanaerobacter wiegelii Rt8.B1</GBSeq_organism>
+./AF343566.xml:  <GBSeq_organism>Thermaerobacter subterraneus DSM 13965</GBSeq_organism>
+./AY936496.xml:  <GBSeq_organism>Thermaerobacter litoralis</GBSeq_organism>
+./M59121.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./Y18182.xml:  <GBSeq_organism>Clostridium uzonii</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>

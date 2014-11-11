@@ -1,0 +1,16 @@
+./EU419186.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY882846.xml:  <GBSeq_organism>uncultured Acidimicrobium sp.</GBSeq_organism>
+./AY805539.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY765991.xml:  <GBSeq_organism>acid streamer iron-oxidizing bacterium KP1</GBSeq_organism>
+./DQ147285.xml:  <GBSeq_organism>Candidatus Microthrix parvicella</GBSeq_organism>
+./AY495954.xml:  <GBSeq_organism>actinobacterium WJ25</GBSeq_organism>
+./AB517669.xml:  <GBSeq_organism>Aciditerrimonas ferrireducens</GBSeq_organism>
+./AY882848.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF225450.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ450881.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EU419187.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF225451.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY765999.xml:  <GBSeq_organism>acid streamer iron-oxidizing bacterium CS11</GBSeq_organism>
+./U75647.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans DSM 10331</GBSeq_organism>
+./AY673309.xml:  <GBSeq_organism>Acidimicrobidae bacterium Ellin7143</GBSeq_organism>
+./AB360343.xml:  <GBSeq_organism>Ilumatobacter fluminis YM22-133</GBSeq_organism>

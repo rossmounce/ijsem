@@ -1,0 +1,5 @@
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AJ575816.xml:  <GBSeq_organism>Pseudomonas psychrotolerans</GBSeq_organism>
+./D84014.xml:  <GBSeq_organism>Pseudomonas fragi</GBSeq_organism>
+./U01916.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>

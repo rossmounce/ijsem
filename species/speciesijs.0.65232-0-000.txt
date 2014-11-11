@@ -1,0 +1,6 @@
+./DQ348071.xml:  <GBSeq_organism>Ureibacillus composti</GBSeq_organism>
+./DQ348072.xml:  <GBSeq_organism>Ureibacillus thermophilus</GBSeq_organism>
+./AY850379.xml:  <GBSeq_organism>Ureibacillus suwonensis</GBSeq_organism>
+./AJ276403.xml:  <GBSeq_organism>Ureibacillus terrenus</GBSeq_organism>
+./X90640.xml:  <GBSeq_organism>Ureibacillus thermosphaericus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

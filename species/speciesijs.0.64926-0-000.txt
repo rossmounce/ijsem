@@ -1,0 +1,13 @@
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./D82065.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AB243866.xml:  <GBSeq_organism>Amphibacillus sediminis</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AF418602.xml:  <GBSeq_organism>Amphibacillus tropicus</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AB196784.xml:  <GBSeq_organism>Halolactibacillus miurensis</GBSeq_organism>
+./AB196783.xml:  <GBSeq_organism>Halolactibacillus halophilus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF418603.xml:  <GBSeq_organism>Amphibacillus fermentum</GBSeq_organism>

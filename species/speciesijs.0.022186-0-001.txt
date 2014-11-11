@@ -1,0 +1,21 @@
+./D85491.xml:  <GBSeq_organism>Nonomuraea pusilla</GBSeq_organism>
+./D85494.xml:  <GBSeq_organism>Planobispora longispora</GBSeq_organism>
+./AB025318.xml:  <GBSeq_organism>Acrocarpospora macrocephala</GBSeq_organism>
+./X89953.xml:  <GBSeq_organism>Sphaerisporangium viridialbum</GBSeq_organism>
+./U48844.xml:  <GBSeq_organism>Nonomuraea fastidiosa</GBSeq_organism>
+./EU438912.xml:  <GBSeq_organism>Sinosporangium album</GBSeq_organism>
+./X97891.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./X89941.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./U48986.xml:  <GBSeq_organism>Microbispora rosea subsp. aerata</GBSeq_organism>
+./D85496.xml:  <GBSeq_organism>Planotetraspora mira</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./AY039253.xml:  <GBSeq_organism>Thermopolyspora flexuosa</GBSeq_organism>
+./U48973.xml:  <GBSeq_organism>Microtetraspora fusca</GBSeq_organism>
+./U48845.xml:  <GBSeq_organism>Nonomuraea ferruginea</GBSeq_organism>
+./X89934.xml:  <GBSeq_organism>Streptosporangium album</GBSeq_organism>
+./U48997.xml:  <GBSeq_organism>Streptosporangium violaceochromogenes</GBSeq_organism>
+./D85495.xml:  <GBSeq_organism>Planomonospora parontospora</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./X89939.xml:  <GBSeq_organism>Sphaerisporangium cinnabarinum</GBSeq_organism>
+./U48976.xml:  <GBSeq_organism>Microtetraspora niveoalba</GBSeq_organism>

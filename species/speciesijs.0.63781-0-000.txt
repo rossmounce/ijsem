@@ -1,0 +1,14 @@
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./AY739663.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AY533665.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AY960985.xml:  <GBSeq_organism>Cyclobacterium amurskyense</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>

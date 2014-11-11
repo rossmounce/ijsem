@@ -1,0 +1,21 @@
+./AJ542509.xml:  <GBSeq_organism>Bacillus vireti LMG 21834</GBSeq_organism>
+./AY672638.xml:  <GBSeq_organism>Bacillus subterraneus</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./D78311.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./EF371376.xml:  <GBSeq_organism>Bacillus ginsengi</GBSeq_organism>
+./AY443038.xml:  <GBSeq_organism>Bacillus fortis</GBSeq_organism>
+./AJ717382.xml:  <GBSeq_organism>Bacillus foraminis</GBSeq_organism>
+./AJ542506.xml:  <GBSeq_organism>Bacillus drentensis</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AB021194.xml:  <GBSeq_organism>Bacillus niacini</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./EF371374.xml:  <GBSeq_organism>Bacillus beijingensis</GBSeq_organism>
+./EF371375.xml:  <GBSeq_organism>Bacillus ginsengi</GBSeq_organism>
+./AJ535639.xml:  <GBSeq_organism>Bacillus ruris</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./AF234863.xml:  <GBSeq_organism>Bacillus nealsonii</GBSeq_organism>
+./EF371373.xml:  <GBSeq_organism>Bacillus beijingensis</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./AJ250056.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>
+./AY443039.xml:  <GBSeq_organism>Bacillus fordii</GBSeq_organism>

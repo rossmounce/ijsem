@@ -1,0 +1,19 @@
+./AM040494.xml:  <GBSeq_organism>Xenorhabdus indica</GBSeq_organism>
+./DQ211707.xml:  <GBSeq_organism>Xenorhabdus nematophila</GBSeq_organism>
+./DQ211708.xml:  <GBSeq_organism>Xenorhabdus szentirmaii</GBSeq_organism>
+./AJ810292.xml:  <GBSeq_organism>Xenorhabdus innexi</GBSeq_organism>
+./AY521244.xml:  <GBSeq_organism>Xenorhabdus cabanillasii</GBSeq_organism>
+./AY521241.xml:  <GBSeq_organism>Xenorhabdus nematophila F1</GBSeq_organism>
+./DQ202312.xml:  <GBSeq_organism>Xenorhabdus ehlersii</GBSeq_organism>
+./AJ810293.xml:  <GBSeq_organism>Xenorhabdus budapestensis</GBSeq_organism>
+./AY521243.xml:  <GBSeq_organism>Xenorhabdus innexi</GBSeq_organism>
+./AY278675.xml:  <GBSeq_organism>Xenorhabdus beddingii</GBSeq_organism>
+./DQ208306.xml:  <GBSeq_organism>Xenorhabdus bovienii</GBSeq_organism>
+./AY278674.xml:  <GBSeq_organism>Xenorhabdus nematophila</GBSeq_organism>
+./AY521239.xml:  <GBSeq_organism>Xenorhabdus poinarii</GBSeq_organism>
+./AJ810295.xml:  <GBSeq_organism>Xenorhabdus szentirmaii</GBSeq_organism>
+./DQ202307.xml:  <GBSeq_organism>Xenorhabdus kozodoii</GBSeq_organism>
+./X82252.xml:  <GBSeq_organism>Xenorhabdus bovienii</GBSeq_organism>
+./AY521242.xml:  <GBSeq_organism>Xenorhabdus nematophila</GBSeq_organism>
+./DQ202306.xml:  <GBSeq_organism>Xenorhabdus ehlersii</GBSeq_organism>
+./AJ810294.xml:  <GBSeq_organism>Xenorhabdus ehlersii</GBSeq_organism>

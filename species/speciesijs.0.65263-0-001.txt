@@ -1,0 +1,11 @@
+./K00637.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ307974.xml:  <GBSeq_organism>Fusobacterium nucleatum</GBSeq_organism>
+./AJ307976.xml:  <GBSeq_organism>Ilyobacter insuetus</GBSeq_organism>
+./AJ307977.xml:  <GBSeq_organism>Ilyobacter tartaricus</GBSeq_organism>
+./AF363751.xml:  <GBSeq_organism>Fusobacterium necrophorum subsp. necrophorum</GBSeq_organism>
+./AJ307978.xml:  <GBSeq_organism>Propionigenium modestum</GBSeq_organism>
+./AJ307975.xml:  <GBSeq_organism>Ilyobacter polytropus DSM 2926</GBSeq_organism>
+./X68433.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./D11460.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./EF426680.xml:  <GBSeq_organism>Psychrilyobacter atlanticus</GBSeq_organism>
+./AJ307979.xml:  <GBSeq_organism>Propionigenium maris</GBSeq_organism>

@@ -1,0 +1,34 @@
+./AB021186.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./AJ012667.xml:  <GBSeq_organism>Virgibacillus proomii</GBSeq_organism>
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./D82065.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AB020208.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./X68415.xml:  <GBSeq_organism>Sporosarcina globispora</GBSeq_organism>
+./AJ315060.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./AB188089.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi</GBSeq_organism>
+./DQ519571.xml:  <GBSeq_organism>Terribacillus goriensis</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AY553296.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY319933.xml:  <GBSeq_organism>Tenuibacillus multivorans</GBSeq_organism>
+./AB010863.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./AF500003.xml:  <GBSeq_organism>Halobacillus salinus</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./AY822043.xml:  <GBSeq_organism>Virgibacillus dokdonensis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./AF326365.xml:  <GBSeq_organism>Ornithinibacillus californiensis</GBSeq_organism>
+./AY616012.xml:  <GBSeq_organism>Virgibacillus koreensis</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AY321434.xml:  <GBSeq_organism>Salinibacillus kushneri</GBSeq_organism>
+./AB196783.xml:  <GBSeq_organism>Halolactibacillus halophilus</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./Y13066.xml:  <GBSeq_organism>Ornithinibacillus bavariensis</GBSeq_organism>
+./X60631.xml:  <GBSeq_organism>Sporosarcina pasteurii</GBSeq_organism>
+./AB107894.xml:  <GBSeq_organism>Cerasibacillus quisquiliarum</GBSeq_organism>

@@ -1,0 +1,5 @@
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AJ438173.xml:  <GBSeq_organism>Pedobacter saltans DSM 12145</GBSeq_organism>
+./AJ459411.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./AJ438171.xml:  <GBSeq_organism>Pedobacter africanus</GBSeq_organism>

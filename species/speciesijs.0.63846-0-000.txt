@@ -1,0 +1,14 @@
+./AY323608.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AB073198.xml:  <GBSeq_organism>Paenibacillus popilliae ATCC 14706</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AY884046.xml:  <GBSeq_organism>Paenibacillus assamensis</GBSeq_organism>
+./AY323610.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AF378694.xml:  <GBSeq_organism>Paenibacillus turicensis</GBSeq_organism>
+./AY208751.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AB073202.xml:  <GBSeq_organism>Paenibacillus curdlanolyticus YK9</GBSeq_organism>
+./AB073201.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>
+./AB179866.xml:  <GBSeq_organism>Paenibacillus hodogayensis</GBSeq_organism>
+./AB073196.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AB073197.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./AJ250317.xml:  <GBSeq_organism>Paenibacillus cookii</GBSeq_organism>

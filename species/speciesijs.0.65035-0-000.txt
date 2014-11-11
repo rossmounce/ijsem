@@ -1,0 +1,18 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY178863.xml:  <GBSeq_organism>Aurantimonas litoralis</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./U53824.xml:  <GBSeq_organism>Aurantimonas manganoxydans SI85-9A1</GBSeq_organism>
+./AJ011759.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./D12784.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AF072542.xml:  <GBSeq_organism>Pseudaminobacter salicylatoxidans</GBSeq_organism>
+./DQ372921.xml:  <GBSeq_organism>Aureimonas altamirensis</GBSeq_organism>
+./D14513.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./X60042.xml:  <GBSeq_organism>Bartonella bacilliformis</GBSeq_organism>
+./D12794.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./X67231.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

@@ -1,0 +1,9 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./AJ607391.xml:  <GBSeq_organism>Arcobacter cibarius</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./EU512920.xml:  <GBSeq_organism>Arcobacter marinus</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./U01330.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./L14625.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>
+./AF513455.xml:  <GBSeq_organism>Arcobacter halophilus</GBSeq_organism>

@@ -1,0 +1,11 @@
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AB477225.xml:  <GBSeq_organism>Haloterrigena longa</GBSeq_organism>
+./AB477227.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./AB533255.xml:  <GBSeq_organism>Halostagnicola alkaliphila</GBSeq_organism>
+./AB301489.xml:  <GBSeq_organism>Halostagnicola larsenii XH-48</GBSeq_organism>
+./AB489220.xml:  <GBSeq_organism>Halostagnicola kamekurae</GBSeq_organism>
+./AB477228.xml:  <GBSeq_organism>Halovivax ruber XH-70</GBSeq_organism>
+./AB477981.xml:  <GBSeq_organism>Natronococcus occultus SP4</GBSeq_organism>
+./AF262026.xml:  <GBSeq_organism>Natrialba hulunbeirensis</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

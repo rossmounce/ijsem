@@ -1,0 +1,34 @@
+./HM214546.xml:  <GBSeq_organism>Deinococcus reticulitermitis</GBSeq_organism>
+./EU626561.xml:  <GBSeq_organism>Deinococcus xinjiangensis</GBSeq_organism>
+./AY743280.xml:  <GBSeq_organism>Deinococcus papagonensis</GBSeq_organism>
+./Y13038.xml:  <GBSeq_organism>Deinococcus geothermalis DSM 11300</GBSeq_organism>
+./AJ585986.xml:  <GBSeq_organism>Deinococcus marmoris</GBSeq_organism>
+./FJ439568.xml:  <GBSeq_organism>Deinococcus xibeiensis</GBSeq_organism>
+./EF141348.xml:  <GBSeq_organism>Deinococcus peraridilitoris DSM 19664</GBSeq_organism>
+./AY743256.xml:  <GBSeq_organism>Deinococcus hohokamensis</GBSeq_organism>
+./AB265180.xml:  <GBSeq_organism>Deinococcus aquiradiocola</GBSeq_organism>
+./EU025028.xml:  <GBSeq_organism>Deinococcus wulumuqiensis</GBSeq_organism>
+./AY743262.xml:  <GBSeq_organism>Deinococcus hopiensis KR-140</GBSeq_organism>
+./AY743264.xml:  <GBSeq_organism>Deinococcus apachensis</GBSeq_organism>
+./AY743274.xml:  <GBSeq_organism>Deinococcus maricopensis DSM 21211</GBSeq_organism>
+./AB264135.xml:  <GBSeq_organism>Deinococcus misasensis</GBSeq_organism>
+./AY941086.xml:  <GBSeq_organism>Deinococcus ficus</GBSeq_organism>
+./AY743259.xml:  <GBSeq_organism>Deinococcus navajonensis</GBSeq_organism>
+./Y13041.xml:  <GBSeq_organism>Deinococcus murrayi</GBSeq_organism>
+./AY743279.xml:  <GBSeq_organism>Deinococcus yavapaiensis KR-236</GBSeq_organism>
+./EU427464.xml:  <GBSeq_organism>Deinococcus gobiensis I-0</GBSeq_organism>
+./AJ585981.xml:  <GBSeq_organism>Deinococcus frigens</GBSeq_organism>
+./EF635404.xml:  <GBSeq_organism>Deinococcus radiomollis</GBSeq_organism>
+./AY743283.xml:  <GBSeq_organism>Deinococcus sonorensis KR-87</GBSeq_organism>
+./AJ585984.xml:  <GBSeq_organism>Deinococcus saxicola</GBSeq_organism>
+./EF635408.xml:  <GBSeq_organism>Deinococcus alpinitundrae</GBSeq_organism>
+./AY743277.xml:  <GBSeq_organism>Deinococcus pimensis</GBSeq_organism>
+./AY876378.xml:  <GBSeq_organism>Deinococcus deserti VCD115</GBSeq_organism>
+./EU622979.xml:  <GBSeq_organism>Deinococcus aerophilus</GBSeq_organism>
+./EU622978.xml:  <GBSeq_organism>Deinococcus aerolatus</GBSeq_organism>
+./EF635406.xml:  <GBSeq_organism>Deinococcus claudionis</GBSeq_organism>
+./AJ549111.xml:  <GBSeq_organism>Deinococcus indicus</GBSeq_organism>
+./Y11332.xml:  <GBSeq_organism>Deinococcus radiodurans</GBSeq_organism>
+./AM940971.xml:  <GBSeq_organism>Deinococcus aquatilis</GBSeq_organism>
+./EF635407.xml:  <GBSeq_organism>Deinococcus altitudinis</GBSeq_organism>
+./Y11331.xml:  <GBSeq_organism>Deinococcus proteolyticus MRP</GBSeq_organism>

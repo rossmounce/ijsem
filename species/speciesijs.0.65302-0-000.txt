@@ -1,0 +1,14 @@
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./EF507900.xml:  <GBSeq_organism>Spirosoma rigui</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./U85891.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AM000023.xml:  <GBSeq_organism>Spirosoma linguale DSM 74</GBSeq_organism>
+./AJ575266.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

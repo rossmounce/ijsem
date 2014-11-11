@@ -1,0 +1,10 @@
+./AJ420139.xml:  <GBSeq_organism>Actinomadura citrea</GBSeq_organism>
+./AJ420138.xml:  <GBSeq_organism>Actinomadura atramentaria</GBSeq_organism>
+./AY035998.xml:  <GBSeq_organism>Actinomadura latina</GBSeq_organism>
+./AF163119.xml:  <GBSeq_organism>Actinomadura pelletieri</GBSeq_organism>
+./AY035999.xml:  <GBSeq_organism>Actinomadura nitritigenes</GBSeq_organism>
+./AJ420136.xml:  <GBSeq_organism>Actinomadura hibisca</GBSeq_organism>
+./AJ420135.xml:  <GBSeq_organism>Actinomadura echinospora</GBSeq_organism>
+./X97889.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./AJ420137.xml:  <GBSeq_organism>Actinomadura fulvescens</GBSeq_organism>
+./X97890.xml:  <GBSeq_organism>Actinomadura kijaniata</GBSeq_organism>

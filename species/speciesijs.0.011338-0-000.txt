@@ -1,0 +1,16 @@
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./AY962293.xml:  <GBSeq_organism>Lutibacter litoralis</GBSeq_organism>
+./AF001367.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./FM882228.xml:  <GBSeq_organism>Mesonia phycicola</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./AB206957.xml:  <GBSeq_organism>Sediminicola luteus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./AF536384.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./AY187690.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AF170738.xml:  <GBSeq_organism>Cryomorpha ignava</GBSeq_organism>

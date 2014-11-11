@@ -1,0 +1,15 @@
+./AY455809.xml:  <GBSeq_organism>Thiomonas intermedia</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./AF177666.xml:  <GBSeq_organism>Bordetella avium</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./AJ864470.xml:  <GBSeq_organism>Advenella kashmirensis</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./Y11890.xml:  <GBSeq_organism>Pelistega europaea</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./U04820.xml:  <GBSeq_organism>Bordetella holmesii ATCC 51541</GBSeq_organism>
+./AF282916.xml:  <GBSeq_organism>Pigmentiphaga kullae</GBSeq_organism>
+./AJ277798.xml:  <GBSeq_organism>Bordetella trematum</GBSeq_organism>
+./AJ278451.xml:  <GBSeq_organism>Achromobacter denitrificans</GBSeq_organism>
+./AF177667.xml:  <GBSeq_organism>Bordetella hinzii LMG 13501</GBSeq_organism>
+./AF067729.xml:  <GBSeq_organism>Taylorella asinigenitalis</GBSeq_organism>

@@ -1,0 +1,28 @@
+./X92599.xml:  <GBSeq_organism>Micromonospora carbonacea</GBSeq_organism>
+./AJ294716.xml:  <GBSeq_organism>Catenuloplanes atrovinosus JCM 9535</GBSeq_organism>
+./AM232832.xml:  <GBSeq_organism>Planosporangium flavigriseum</GBSeq_organism>
+./FJ715941.xml:  <GBSeq_organism>Catenuloplanes nepalensis JCM 9536</GBSeq_organism>
+./AB107233.xml:  <GBSeq_organism>Actinocatenispora thailandica</GBSeq_organism>
+./X92623.xml:  <GBSeq_organism>Micromonospora viridifaciens</GBSeq_organism>
+./AF152109.xml:  <GBSeq_organism>Micromonospora matsumotoense</GBSeq_organism>
+./AB223089.xml:  <GBSeq_organism>Polymorphospora rubra</GBSeq_organism>
+./AB275607.xml:  <GBSeq_organism>Micromonospora pattaloongensis</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./FJ715940.xml:  <GBSeq_organism>Catenuloplanes niger JCM 9533</GBSeq_organism>
+./D85478.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./FJ214343.xml:  <GBSeq_organism>Plantactinospora mayteni</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./X92631.xml:  <GBSeq_organism>Micromonospora rosaria</GBSeq_organism>
+./AB490769.xml:  <GBSeq_organism>Phytohabitans suffuscus</GBSeq_organism>
+./AB159779.xml:  <GBSeq_organism>Micromonospora auratinigra</GBSeq_organism>
+./AB236956.xml:  <GBSeq_organism>Krasilnikovia cinnamomea</GBSeq_organism>
+./D85477.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./X92613.xml:  <GBSeq_organism>Micromonospora olivasterospora</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AB236957.xml:  <GBSeq_organism>Luedemannella helvata</GBSeq_organism>
+./AB454379.xml:  <GBSeq_organism>Plantactinospora siamensis</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>
+./FM208261.xml:  <GBSeq_organism>Rugosimonospora acidiphila</GBSeq_organism>

@@ -1,0 +1,65 @@
+./X58301.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./AB259061.xml:  <GBSeq_organism>Streptococcus dentirousetti</GBSeq_organism>
+./X58305.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./X58306.xml:  <GBSeq_organism>Streptococcus downei MFe28</GBSeq_organism>
+./AJ606046.xml:  <GBSeq_organism>Streptococcus halichoeri</GBSeq_organism>
+./AF124350.xml:  <GBSeq_organism>Streptococcus orisratti</GBSeq_organism>
+./AY485602.xml:  <GBSeq_organism>Streptococcus oralis ATCC 35037</GBSeq_organism>
+./DQ303209.xml:  <GBSeq_organism>Streptococcus pseudoporcinus LQ 940-04</GBSeq_organism>
+./Y07601.xml:  <GBSeq_organism>Streptococcus hyovaginalis</GBSeq_organism>
+./X94337.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus</GBSeq_organism>
+./AF003930.xml:  <GBSeq_organism>Streptococcus pneumoniae</GBSeq_organism>
+./DQ303185.xml:  <GBSeq_organism>Streptococcus didelphis</GBSeq_organism>
+./AF432856.xml:  <GBSeq_organism>Streptococcus sinensis</GBSeq_organism>
+./AJ605748.xml:  <GBSeq_organism>Streptococcus equi subsp. ruminatorum CECT 5772</GBSeq_organism>
+./AJ420201.xml:  <GBSeq_organism>Streptococcus ratti</GBSeq_organism>
+./X58302.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./Y18026.xml:  <GBSeq_organism>Streptococcus pluranimalium</GBSeq_organism>
+./AJ606047.xml:  <GBSeq_organism>Streptococcus castoreus</GBSeq_organism>
+./AJ307888.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./AJ634751.xml:  <GBSeq_organism>Streptococcus marimammalium</GBSeq_organism>
+./AB002518.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./AF003933.xml:  <GBSeq_organism>Streptococcus parasanguinis ATCC 15912</GBSeq_organism>
+./EF364097.xml:  <GBSeq_organism>Streptococcus henryi</GBSeq_organism>
+./AF184974.xml:  <GBSeq_organism>Streptococcus australis ATCC 700641</GBSeq_organism>
+./AF104671.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>
+./X58321.xml:  <GBSeq_organism>Streptococcus vestibularis ATCC 49124</GBSeq_organism>
+./AF335572.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./AB175037.xml:  <GBSeq_organism>Streptococcus agalactiae ATCC 13813</GBSeq_organism>
+./AM396401.xml:  <GBSeq_organism>Streptococcus merionis</GBSeq_organism>
+./AY769997.xml:  <GBSeq_organism>Streptococcus massiliensis</GBSeq_organism>
+./X58303.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./Z94012.xml:  <GBSeq_organism>Streptococcus macedonicus</GBSeq_organism>
+./AY058218.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./AF201899.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./AB002521.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./D38483.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./AF104678.xml:  <GBSeq_organism>Streptococcus anginosus SK52 = DSM 20563</GBSeq_organism>
+./AY232832.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./X81023.xml:  <GBSeq_organism>Streptococcus milleri</GBSeq_organism>
+./DQ303188.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./AY099095.xml:  <GBSeq_organism>Streptococcus oligofermentans</GBSeq_organism>
+./X64887.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./AF003928.xml:  <GBSeq_organism>Streptococcus sanguinis SK1</GBSeq_organism>
+./X68418.xml:  <GBSeq_organism>Streptococcus thermophilus</GBSeq_organism>
+./AF429763.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./AY584477.xml:  <GBSeq_organism>Streptococcus parauberis</GBSeq_organism>
+./AB182324.xml:  <GBSeq_organism>Streptococcus orisuis</GBSeq_organism>
+./AB002523.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./Y09007.xml:  <GBSeq_organism>Streptococcus thoraltensis</GBSeq_organism>
+./AY612844.xml:  <GBSeq_organism>Streptococcus pseudopneumoniae ATCC BAA-960</GBSeq_organism>
+./M58839.xml:  <GBSeq_organism>Streptococcus salivarius</GBSeq_organism>
+./Y17358.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./AB008314.xml:  <GBSeq_organism>Streptococcus peroris ATCC 700780</GBSeq_organism>
+./EF364098.xml:  <GBSeq_organism>Streptococcus caballi</GBSeq_organism>
+./AJ409287.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>
+./AF235052.xml:  <GBSeq_organism>Streptococcus phocae</GBSeq_organism>
+./AB008313.xml:  <GBSeq_organism>Streptococcus cristatus ATCC 51100</GBSeq_organism>
+./X58307.xml:  <GBSeq_organism>Streptococcus sobrinus</GBSeq_organism>
+./DQ462421.xml:  <GBSeq_organism>Streptococcus ictaluri 707-05</GBSeq_organism>
+./AJ564067.xml:  <GBSeq_organism>Streptococcus devriesei</GBSeq_organism>
+./X58318.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF104676.xml:  <GBSeq_organism>Streptococcus constellatus</GBSeq_organism>
+./AJ131965.xml:  <GBSeq_organism>Streptococcus sp.</GBSeq_organism>
+./AF429764.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF429762.xml:  <GBSeq_organism>Streptococcus infantarius subsp. infantarius</GBSeq_organism>

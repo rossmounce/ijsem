@@ -1,0 +1,15 @@
+./GO421850.xml:  <GBSeq_organism>Lernaeocera branchialis</GBSeq_organism>
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./EU682684.xml:  <GBSeq_organism>Adhaeribacter terreus</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./EU521690.xml:  <GBSeq_organism>Lacibacter cauensis</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./AM230484.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./AM049256.xml:  <GBSeq_organism>Pontibacter roseus</GBSeq_organism>
+./DQ457019.xml:  <GBSeq_organism>Niabella aurantiaca</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EU616816.xml:  <GBSeq_organism>Niabella ginsengisoli</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./AB362776.xml:  <GBSeq_organism>Filimonas lacunae</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>
+./GO421846.xml:  <GBSeq_organism>Lernaeocera branchialis</GBSeq_organism>

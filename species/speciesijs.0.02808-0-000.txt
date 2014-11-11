@@ -1,0 +1,8 @@
+./AJ298873.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./AF403541.xml:  <GBSeq_organism>Xylanimonas cellulosilytica DSM 15894</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X79455.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X79456.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./AY273185.xml:  <GBSeq_organism>Xylanibacterium ulmi</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>
+./X79453.xml:  <GBSeq_organism>Cellulosimicrobium cellulans LMG 16121</GBSeq_organism>

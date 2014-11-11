@@ -1,0 +1,10 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X68451.xml:  <GBSeq_organism>Clostridium subterminale</GBSeq_organism>
+./X77835.xml:  <GBSeq_organism>Clostridium magnum</GBSeq_organism>
+./AF156796.xml:  <GBSeq_organism>Clostridium peptidivorans</GBSeq_organism>
+./Y18813.xml:  <GBSeq_organism>Clostridium drakei</GBSeq_organism>
+./DQ114945.xml:  <GBSeq_organism>Clostridium aciditolerans</GBSeq_organism>
+./X96736.xml:  <GBSeq_organism>Clostridium pascui</GBSeq_organism>
+./AF317650.xml:  <GBSeq_organism>Clostridium thiosulfatireducens</GBSeq_organism>
+./X68184.xml:  <GBSeq_organism>Clostridium tetanomorphum DSM 665</GBSeq_organism>

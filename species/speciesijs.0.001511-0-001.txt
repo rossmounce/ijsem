@@ -1,0 +1,15 @@
+./AF456240.xml:  <GBSeq_organism>Mycobacterium marinum</GBSeq_organism>
+./X52931.xml:  <GBSeq_organism>Mycobacterium simiae</GBSeq_organism>
+./AF480574.xml:  <GBSeq_organism>Mycobacterium branderi</GBSeq_organism>
+./X52925.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./AJ012756.xml:  <GBSeq_organism>Mycobacterium botniense</GBSeq_organism>
+./AJ536037.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./EU239955.xml:  <GBSeq_organism>Mycobacterium noviomagense</GBSeq_organism>
+./AY438070.xml:  <GBSeq_organism>Mycobacterium holsaticum DSM 44478</GBSeq_organism>
+./X58890.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./Z46664.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./AF174290.xml:  <GBSeq_organism>Mycobacterium heckeshornense</GBSeq_organism>
+./AJ536033.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./X52926.xml:  <GBSeq_organism>Mycobacterium szulgai</GBSeq_organism>
+./AY457083.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./X52930.xml:  <GBSeq_organism>Mycobacterium malmoense</GBSeq_organism>

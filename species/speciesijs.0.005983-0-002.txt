@@ -1,0 +1,27 @@
+./DQ335652.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. dextranicum</GBSeq_organism>
+./AM940230.xml:  <GBSeq_organism>Leuconostoc lactis KCTC 3528 = DSM 20202</GBSeq_organism>
+./DQ335657.xml:  <GBSeq_organism>Leuconostoc pseudomesenteroides KCTC 3652</GBSeq_organism>
+./DQ335653.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. cremoris</GBSeq_organism>
+./DQ335661.xml:  <GBSeq_organism>Fructobacillus pseudoficulneus</GBSeq_organism>
+./AB354946.xml:  <GBSeq_organism>Fructobacillus fructosus</GBSeq_organism>
+./AB354944.xml:  <GBSeq_organism>Leuconostoc mesenteroides</GBSeq_organism>
+./DQ335658.xml:  <GBSeq_organism>Leuconostoc fallax KCTC 3537</GBSeq_organism>
+./AM940226.xml:  <GBSeq_organism>Leuconostoc palmae</GBSeq_organism>
+./AJ621689.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./DQ335660.xml:  <GBSeq_organism>Fructobacillus ficulneus</GBSeq_organism>
+./AM940229.xml:  <GBSeq_organism>Leuconostoc holzapfelii</GBSeq_organism>
+./DQ335659.xml:  <GBSeq_organism>Fructobacillus fructosus KCTC 3544</GBSeq_organism>
+./DQ335656.xml:  <GBSeq_organism>Leuconostoc gelidum KCTC 3527</GBSeq_organism>
+./AB354941.xml:  <GBSeq_organism>Leuconostoc gelidum KCTC 3527</GBSeq_organism>
+./AB354951.xml:  <GBSeq_organism>Fructobacillus pseudoficulneus</GBSeq_organism>
+./AB354949.xml:  <GBSeq_organism>Leuconostoc carnosum</GBSeq_organism>
+./AB354939.xml:  <GBSeq_organism>Leuconostoc gasicomitatum</GBSeq_organism>
+./AJ621688.xml:  <GBSeq_organism>Leuconostoc citreum</GBSeq_organism>
+./DQ335654.xml:  <GBSeq_organism>Leuconostoc citreum</GBSeq_organism>
+./X75428.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./AM940227.xml:  <GBSeq_organism>Leuconostoc palmae</GBSeq_organism>
+./AB354940.xml:  <GBSeq_organism>Fructobacillus ficulneus</GBSeq_organism>
+./AB354947.xml:  <GBSeq_organism>Leuconostoc inhae</GBSeq_organism>
+./AM940228.xml:  <GBSeq_organism>Leuconostoc holzapfelii</GBSeq_organism>
+./AB354945.xml:  <GBSeq_organism>Leuconostoc lactis KCTC 3528 = DSM 20202</GBSeq_organism>
+./AB354950.xml:  <GBSeq_organism>Fructobacillus durionis</GBSeq_organism>

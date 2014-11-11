@@ -1,0 +1,27 @@
+./AJ627909.xml:  <GBSeq_organism>Marinomonas ushuaiensis</GBSeq_organism>
+./AF288157.xml:  <GBSeq_organism>Marinobacter lutaoensis</GBSeq_organism>
+./AJ843077.xml:  <GBSeq_organism>Marinomonas aquimarina</GBSeq_organism>
+./AY839869.xml:  <GBSeq_organism>Marinimicrobium koreense</GBSeq_organism>
+./AB006764.xml:  <GBSeq_organism>Oceanospirillum multiglobuliferum</GBSeq_organism>
+./AF275713.xml:  <GBSeq_organism>Marinospirillum alkaliphilum</GBSeq_organism>
+./AY539835.xml:  <GBSeq_organism>Marinomonas pontica</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./AJ431699.xml:  <GBSeq_organism>Thalassolituus oleivorans MIL-1</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AJ609271.xml:  <GBSeq_organism>Marinobacter bryozoorum</GBSeq_organism>
+./AB021367.xml:  <GBSeq_organism>Marinobacterium stanieri</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AJ704395.xml:  <GBSeq_organism>Marinobacter maritimus</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY567473.xml:  <GBSeq_organism>Nitrincola lacisaponensis</GBSeq_organism>
+./AY517633.xml:  <GBSeq_organism>Marinobacter daepoensis</GBSeq_organism>
+./AJ609270.xml:  <GBSeq_organism>Marinobacter sediminum</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./Y17112.xml:  <GBSeq_organism>Balneatrix alpica</GBSeq_organism>
+./AY517632.xml:  <GBSeq_organism>Marinobacter flavimaris</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./AB242868.xml:  <GBSeq_organism>Marinomonas ostreistagni</GBSeq_organism>
+./AJ833000.xml:  <GBSeq_organism>Marinomonas polaris</GBSeq_organism>
+./AY839870.xml:  <GBSeq_organism>Marinimicrobium agarilyticum</GBSeq_organism>

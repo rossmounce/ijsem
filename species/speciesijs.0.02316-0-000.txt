@@ -1,0 +1,10 @@
+./AF448515.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./AF448513.xml:  <GBSeq_organism>Cellvibrio vulgaris</GBSeq_organism>
+./AJ289164.xml:  <GBSeq_organism>Cellvibrio fibrivorans</GBSeq_organism>
+./AJ289160.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./AJ493583.xml:  <GBSeq_organism>Cellvibrio ostraviensis</GBSeq_organism>
+./AJ289162.xml:  <GBSeq_organism>Cellvibrio gandavensis</GBSeq_organism>
+./AJ289163.xml:  <GBSeq_organism>Cellvibrio sp. R-4075</GBSeq_organism>
+./AF448514.xml:  <GBSeq_organism>Cellvibrio fulvus</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AJ289161.xml:  <GBSeq_organism>Cellvibrio sp. R-4001</GBSeq_organism>

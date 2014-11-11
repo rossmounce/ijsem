@@ -1,0 +1,16 @@
+./AY574979.xml:  <GBSeq_organism>Desulfovibrio putealis</GBSeq_organism>
+./AF418179.xml:  <GBSeq_organism>Desulfovibrio vulgaris</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./DQ186200.xml:  <GBSeq_organism>Desulfovibrio carbinoliphilus</GBSeq_organism>
+./Y17764.xml:  <GBSeq_organism>Desulfovibrio sulfodismutans</GBSeq_organism>
+./M26634.xml:  <GBSeq_organism>Desulfuromonas acetoxidans</GBSeq_organism>
+./X87409.xml:  <GBSeq_organism>Desulfovibrio termitidis HI1</GBSeq_organism>
+./AY359867.xml:  <GBSeq_organism>Desulfovibrio longus</GBSeq_organism>
+./AY626035.xml:  <GBSeq_organism>Desulfovibrio carbinolicus</GBSeq_organism>
+./AF053752.xml:  <GBSeq_organism>Desulfovibrio burkinensis</GBSeq_organism>
+./M37312.xml:  <GBSeq_organism>Desulfovibrio desulfuricans</GBSeq_organism>
+./AF192154.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774</GBSeq_organism>
+./AF053751.xml:  <GBSeq_organism>Desulfovibrio alcoholivorans</GBSeq_organism>
+./AF050101.xml:  <GBSeq_organism>Desulfovibrio fructosivorans JJ</GBSeq_organism>
+./M34401.xml:  <GBSeq_organism>Desulfovibrio salexigens</GBSeq_organism>
+./X99237.xml:  <GBSeq_organism>Desulfovibrio halophilus</GBSeq_organism>

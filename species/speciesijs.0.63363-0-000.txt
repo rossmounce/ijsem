@@ -1,0 +1,14 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AB074193.xml:  <GBSeq_organism>Marinomonas primoryensis</GBSeq_organism>
+./AJ627909.xml:  <GBSeq_organism>Marinomonas ushuaiensis</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AF173967.xml:  <GBSeq_organism>Marinomonas communis</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>

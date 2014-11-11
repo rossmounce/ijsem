@@ -1,0 +1,15 @@
+./AY631071.xml:  <GBSeq_organism>Jiangella gansuensis DSM 44835</GBSeq_organism>
+./AY082063.xml:  <GBSeq_organism>Kribbella antibiotica</GBSeq_organism>
+./AF005007.xml:  <GBSeq_organism>Nocardioides luteus</GBSeq_organism>
+./AY253864.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AM422451.xml:  <GBSeq_organism>Jiangella alkaliphila</GBSeq_organism>
+./AF005022.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AF004988.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./EF601829.xml:  <GBSeq_organism>Actinopolymorpha rutila</GBSeq_organism>
+./FJ157186.xml:  <GBSeq_organism>Jiangella alba</GBSeq_organism>
+./AF005024.xml:  <GBSeq_organism>Nocardioides nitrophenolicus</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./AY253862.xml:  <GBSeq_organism>Kribbella solani</GBSeq_organism>
+./AY253866.xml:  <GBSeq_organism>Kribbella jejuensis</GBSeq_organism>
+./X69973.xml:  <GBSeq_organism>Nocardioides plantarum</GBSeq_organism>

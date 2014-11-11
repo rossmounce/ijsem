@@ -1,0 +1,6 @@
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./AB245394.xml:  <GBSeq_organism>Aeromicrobium ginsengisoli</GBSeq_organism>
+./X53211.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./DQ411541.xml:  <GBSeq_organism>Aeromicrobium tamlense</GBSeq_organism>

@@ -1,0 +1,7 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AF332880.xml:  <GBSeq_organism>Pseudoalteromonas phenolica</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AB002630.xml:  <GBSeq_organism>Colwellia maris</GBSeq_organism>
+./AY643537.xml:  <GBSeq_organism>Thalassotalea loyana</GBSeq_organism>
+./AY194066.xml:  <GBSeq_organism>Thalassotalea ganghwensis</GBSeq_organism>
+./U85847.xml:  <GBSeq_organism>Colwellia hornerae</GBSeq_organism>

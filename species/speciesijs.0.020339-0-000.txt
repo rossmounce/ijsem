@@ -1,0 +1,64 @@
+./GU361821.xml:  <GBSeq_organism>Bifidobacterium gallinarum</GBSeq_organism>
+./GU381833.xml:  <GBSeq_organism>Tetraclita rubescens</GBSeq_organism>
+./EU780710.xml:  <GBSeq_organism>Bifidobacterium bifidum</GBSeq_organism>
+./GU361827.xml:  <GBSeq_organism>Bifidobacterium pseudocatenulatum</GBSeq_organism>
+./GU361849.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>
+./GU361813.xml:  <GBSeq_organism>Bifidobacterium bifidum</GBSeq_organism>
+./EU780720.xml:  <GBSeq_organism>Bifidobacterium longum</GBSeq_organism>
+./GU361854.xml:  <GBSeq_organism>Bifidobacterium ruminantium</GBSeq_organism>
+./EU780729.xml:  <GBSeq_organism>Bifidobacterium subtile</GBSeq_organism>
+./EU780709.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis</GBSeq_organism>
+./GU361834.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./GU361845.xml:  <GBSeq_organism>Bifidobacterium indicum</GBSeq_organism>
+./EU780727.xml:  <GBSeq_organism>Bifidobacterium ruminantium</GBSeq_organism>
+./GU361837.xml:  <GBSeq_organism>Bifidobacterium boum</GBSeq_organism>
+./EU780725.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. pseudolongum</GBSeq_organism>
+./GU361826.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>
+./GU361852.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. pseudolongum</GBSeq_organism>
+./GU361843.xml:  <GBSeq_organism>Bifidobacterium gallicum</GBSeq_organism>
+./GU361818.xml:  <GBSeq_organism>Bifidobacterium cuniculi</GBSeq_organism>
+./GU361819.xml:  <GBSeq_organism>Bifidobacterium dentium JCM 1195 = DSM 20436</GBSeq_organism>
+./GU361815.xml:  <GBSeq_organism>Bifidobacterium breve</GBSeq_organism>
+./GU361840.xml:  <GBSeq_organism>Bifidobacterium choerinum</GBSeq_organism>
+./GU361832.xml:  <GBSeq_organism>Bifidobacterium saeculare</GBSeq_organism>
+./EU780723.xml:  <GBSeq_organism>Bifidobacterium pseudocatenulatum</GBSeq_organism>
+./EU780722.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>
+./GU361846.xml:  <GBSeq_organism>Bifidobacterium longum subsp. longum</GBSeq_organism>
+./GU361847.xml:  <GBSeq_organism>Bifidobacterium magnum</GBSeq_organism>
+./GU361814.xml:  <GBSeq_organism>Bifidobacterium boum</GBSeq_organism>
+./GU361848.xml:  <GBSeq_organism>Bifidobacterium merycicum</GBSeq_organism>
+./GU361857.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./EU780717.xml:  <GBSeq_organism>Bifidobacterium gallicum</GBSeq_organism>
+./GU361831.xml:  <GBSeq_organism>Bifidobacterium ruminantium</GBSeq_organism>
+./GU361838.xml:  <GBSeq_organism>Bifidobacterium breve</GBSeq_organism>
+./GU361824.xml:  <GBSeq_organism>Bifidobacterium magnum</GBSeq_organism>
+./GU361853.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./GU861841.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./EU780728.xml:  <GBSeq_organism>Bifidobacterium saeculare</GBSeq_organism>
+./GU361812.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis</GBSeq_organism>
+./EU780719.xml:  <GBSeq_organism>Bifidobacterium indicum</GBSeq_organism>
+./GU361851.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./GU861855.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./EU780721.xml:  <GBSeq_organism>Bifidobacterium magnum</GBSeq_organism>
+./EU780726.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./GU361829.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. pseudolongum</GBSeq_organism>
+./GU361830.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./EU780714.xml:  <GBSeq_organism>Bifidobacterium choerinum</GBSeq_organism>
+./EU780711.xml:  <GBSeq_organism>Bifidobacterium boum</GBSeq_organism>
+./EU780715.xml:  <GBSeq_organism>Bifidobacterium cuniculi</GBSeq_organism>
+./EU780731.xml:  <GBSeq_organism>Bifidobacterium merycicum</GBSeq_organism>
+./EU780724.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./EU780713.xml:  <GBSeq_organism>Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043</GBSeq_organism>
+./EU780712.xml:  <GBSeq_organism>Bifidobacterium breve</GBSeq_organism>
+./GU361823.xml:  <GBSeq_organism>Bifidobacterium longum subsp. longum</GBSeq_organism>
+./GU361835.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis</GBSeq_organism>
+./GU361828.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./GU361839.xml:  <GBSeq_organism>Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043</GBSeq_organism>
+./GU361822.xml:  <GBSeq_organism>Bifidobacterium indicum</GBSeq_organism>
+./GU361856.xml:  <GBSeq_organism>Bifidobacterium subtile</GBSeq_organism>
+./EU780730.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./GU361820.xml:  <GBSeq_organism>Bifidobacterium gallicum</GBSeq_organism>
+./EU780718.xml:  <GBSeq_organism>Bifidobacterium gallinarum</GBSeq_organism>
+./GU361850.xml:  <GBSeq_organism>Bifidobacterium pseudocatenulatum</GBSeq_organism>
+./GU361842.xml:  <GBSeq_organism>Bifidobacterium dentium JCM 1195 = DSM 20436</GBSeq_organism>
+./GU361836.xml:  <GBSeq_organism>Bifidobacterium bifidum</GBSeq_organism>

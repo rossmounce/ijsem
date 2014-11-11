@@ -1,0 +1,19 @@
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./AF004845.xml:  <GBSeq_organism>Methylorhabdus multivorans</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./Z29619.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./X87272.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AJ389904.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ535707.xml:  <GBSeq_organism>Labrys monachus</GBSeq_organism>
+./M73221.xml:  <GBSeq_organism>Ehrlichia canis</GBSeq_organism>
+./M21789.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AJ535711.xml:  <GBSeq_organism>Stella vacuolata</GBSeq_organism>
+./AJ535709.xml:  <GBSeq_organism>Angulomicrobium amanitiforme</GBSeq_organism>
+./AJ542534.xml:  <GBSeq_organism>Rhizobiales bacterium VKM-B1336</GBSeq_organism>
+./AJ535710.xml:  <GBSeq_organism>Stella humosa</GBSeq_organism>
+./Y14302.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>
+./M65249.xml:  <GBSeq_organism>Bartonella bacilliformis</GBSeq_organism>

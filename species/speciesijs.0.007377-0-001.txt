@@ -1,0 +1,5 @@
+./M94319.xml:  <GBSeq_organism>Candidatus Liberibacter asiaticus</GBSeq_organism>
+./EU834131.xml:  <GBSeq_organism>Candidatus Liberibacter solanacearum</GBSeq_organism>
+./AY342001.xml:  <GBSeq_organism>Candidatus Liberibacter asiaticus</GBSeq_organism>
+./AF248498.xml:  <GBSeq_organism>Candidatus Liberibacter africanus subsp. capensis</GBSeq_organism>
+./U09675.xml:  <GBSeq_organism>Candidatus Liberibacter africanus</GBSeq_organism>

@@ -1,0 +1,10 @@
+./U44765.xml:  <GBSeq_organism>Mycoplasma alvi</GBSeq_organism>
+./M29061.xml:  <GBSeq_organism>Mycoplasma pneumoniae</GBSeq_organism>
+./X77334.xml:  <GBSeq_organism>Mycoplasma genitalium</GBSeq_organism>
+./M22441.xml:  <GBSeq_organism>Mycoplasma gallisepticum</GBSeq_organism>
+./L24103.xml:  <GBSeq_organism>Mycoplasma imitans</GBSeq_organism>
+./M23940.xml:  <GBSeq_organism>Mycoplasma pirum</GBSeq_organism>
+./U09788.xml:  <GBSeq_organism>Mycoplasma testudinis</GBSeq_organism>
+./L10839.xml:  <GBSeq_organism>Mycoplasma penetrans</GBSeq_organism>
+./AY531656.xml:  <GBSeq_organism>Mycoplasma amphoriforme</GBSeq_organism>
+./AY531655.xml:  <GBSeq_organism>Mycoplasma amphoriforme A39</GBSeq_organism>

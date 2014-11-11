@@ -1,0 +1,18 @@
+./L20697.xml:  <GBSeq_organism>Rhizobium leucaenae</GBSeq_organism>
+./U62893.xml:  <GBSeq_organism>Methylosulfonomonas methylovora</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AY786080.xml:  <GBSeq_organism>Phyllobacterium trifolii</GBSeq_organism>
+./X53182.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>
+./AF004844.xml:  <GBSeq_organism>Methylopila capsulata</GBSeq_organism>
+./D25314.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AF030437.xml:  <GBSeq_organism>Methylarcula terricola</GBSeq_organism>
+./AJ878069.xml:  <GBSeq_organism>Albibacter methylovorans</GBSeq_organism>
+./X13695.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./X77468.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AF508803.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AF227126.xml:  <GBSeq_organism>Methylopila helvetica</GBSeq_organism>
+./X73042.xml:  <GBSeq_organism>Blastobacter capsulatus</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>

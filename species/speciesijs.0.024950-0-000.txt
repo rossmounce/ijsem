@@ -1,0 +1,17 @@
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./FN400860.xml:  <GBSeq_organism>Mucilaginibacter frigoritolerans</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./AB100738.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AB267716.xml:  <GBSeq_organism>Olivibacter ginsengisoli</GBSeq_organism>
+./FN400859.xml:  <GBSeq_organism>Mucilaginibacter mallensis</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./EU109722.xml:  <GBSeq_organism>Mucilaginibacter oryzae</GBSeq_organism>
+./EU747841.xml:  <GBSeq_organism>Mucilaginibacter rigui</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EU729366.xml:  <GBSeq_organism>Mucilaginibacter ximonensis</GBSeq_organism>
+./AB267722.xml:  <GBSeq_organism>Pedobacter daechungensis</GBSeq_organism>
+./HM061614.xml:  <GBSeq_organism>Mucilaginibacter boryungensis</GBSeq_organism>
+./AJ438171.xml:  <GBSeq_organism>Pedobacter africanus</GBSeq_organism>
+./EF151805.xml:  <GBSeq_organism>Parapedobacter soli</GBSeq_organism>

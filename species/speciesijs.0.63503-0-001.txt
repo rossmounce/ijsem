@@ -1,0 +1,7 @@
+./AF030414.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>
+./X51500.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AF216882.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AJ563959.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./AB185395.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AJ132913.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ563953.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>

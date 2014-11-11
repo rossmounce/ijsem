@@ -1,0 +1,9 @@
+./EU928765.xml:  <GBSeq_organism>Citreicella marina</GBSeq_organism>
+./FJ875966.xml:  <GBSeq_organism>Roseivivax lentus</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./FJ265707.xml:  <GBSeq_organism>Salinihabitans flavidus</GBSeq_organism>
+./AY962295.xml:  <GBSeq_organism>Citreimonas salinaria</GBSeq_organism>
+./AY639887.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./EU221274.xml:  <GBSeq_organism>Seohaeicola saemankumensis</GBSeq_organism>
+./FJ230833.xml:  <GBSeq_organism>Citreicella aestuarii</GBSeq_organism>

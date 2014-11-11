@@ -1,0 +1,30 @@
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./AM229669.xml:  <GBSeq_organism>Sphingomonas mucosissima</GBSeq_organism>
+./D84520.xml:  <GBSeq_organism>Sphingomonas roseiflava</GBSeq_organism>
+./AJ429239.xml:  <GBSeq_organism>Sphingomonas faeni</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./AB166883.xml:  <GBSeq_organism>Sphingomonas soli</GBSeq_organism>
+./Y09637.xml:  <GBSeq_organism>Sphingomonas pruni</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AJ871435.xml:  <GBSeq_organism>Sphingomonas desiccabilis</GBSeq_organism>
+./AB033327.xml:  <GBSeq_organism>Porphyrobacter neustonensis</GBSeq_organism>
+./AJ575818.xml:  <GBSeq_organism>Sphingomonas panni</GBSeq_organism>
+./AB248285.xml:  <GBSeq_organism>Sphingomonas molluscorum</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./EF363714.xml:  <GBSeq_organism>Sphingomonas insulae</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./AB277583.xml:  <GBSeq_organism>Sphingomonas astaxanthinifaciens DSM 22298</GBSeq_organism>
+./AJ429236.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./AJ429240.xml:  <GBSeq_organism>Sphingomonas aerolata</GBSeq_organism>
+./AY894691.xml:  <GBSeq_organism>Sphingomonas yunnanensis</GBSeq_organism>
+./AY769083.xml:  <GBSeq_organism>Sphingomonas kaistensis</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./AJ009706.xml:  <GBSeq_organism>Sphingomonas fennica</GBSeq_organism>
+./AM412238.xml:  <GBSeq_organism>Sphingomonas pseudosanguinis</GBSeq_organism>
+./X94101.xml:  <GBSeq_organism>Sphingomonas haloaromaticamans</GBSeq_organism>
+./AJ575817.xml:  <GBSeq_organism>Sphingomonas abaci</GBSeq_organism>
+./AF131297.xml:  <GBSeq_organism>Sphingopyxis taejonensis</GBSeq_organism>

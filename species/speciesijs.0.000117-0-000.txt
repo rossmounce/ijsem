@@ -1,0 +1,4 @@
+./BX470251.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. laumondii TTO1</GBSeq_organism>
+./AM942759.xml:  <GBSeq_organism>Proteus mirabilis HI4320</GBSeq_organism>
+./AL590842.xml:  <GBSeq_organism>Yersinia pestis CO92</GBSeq_organism>
+./BX950851.xml:  <GBSeq_organism>Pectobacterium atrosepticum SCRI1043</GBSeq_organism>

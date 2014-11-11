@@ -1,0 +1,10 @@
+./AF360844.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8016</GBSeq_organism>
+./AF459679.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17063</GBSeq_organism>
+./AY006480.xml:  <GBSeq_organism>Holtermanniella nyarrowii</GBSeq_organism>
+./AF459678.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17062</GBSeq_organism>
+./AJ311450.xml:  <GBSeq_organism>Cryptococcus sp. CBS 7712</GBSeq_organism>
+./AF189843.xml:  <GBSeq_organism>Holtermannia corniformis</GBSeq_organism>
+./AF459677.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17061</GBSeq_organism>
+./AF189831.xml:  <GBSeq_organism>Mrakia gelida</GBSeq_organism>
+./AF189867.xml:  <GBSeq_organism>Tremella encephala</GBSeq_organism>
+./AY138478.xml:  <GBSeq_organism>Holtermanniella watticus</GBSeq_organism>

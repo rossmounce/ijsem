@@ -1,0 +1,16 @@
+./AJ293703.xml:  <GBSeq_organism>Actinomadura formosensis</GBSeq_organism>
+./AY568292.xml:  <GBSeq_organism>Actinomadura napierensis</GBSeq_organism>
+./AY035998.xml:  <GBSeq_organism>Actinomadura latina</GBSeq_organism>
+./U49008.xml:  <GBSeq_organism>Actinomadura luteofluorescens</GBSeq_organism>
+./U49001.xml:  <GBSeq_organism>Actinomadura citrea</GBSeq_organism>
+./AF153881.xml:  <GBSeq_organism>Actinomadura glauciflava</GBSeq_organism>
+./AB331730.xml:  <GBSeq_organism>Actinomadura chokoriensis</GBSeq_organism>
+./AY273787.xml:  <GBSeq_organism>Actinomadura meyerae</GBSeq_organism>
+./U49009.xml:  <GBSeq_organism>Actinomadura macra</GBSeq_organism>
+./AJ293710.xml:  <GBSeq_organism>Actinomadura pelletieri</GBSeq_organism>
+./AF277195.xml:  <GBSeq_organism>Actinomadura mexicana</GBSeq_organism>
+./AF134067.xml:  <GBSeq_organism>Actinomadura cremea subsp. cremea</GBSeq_organism>
+./U49002.xml:  <GBSeq_organism>Actinomadura coerulea</GBSeq_organism>
+./X89934.xml:  <GBSeq_organism>Streptosporangium album</GBSeq_organism>
+./U49003.xml:  <GBSeq_organism>Actinomadura rifamycini</GBSeq_organism>
+./AB331652.xml:  <GBSeq_organism>Actinomadura bangladeshensis</GBSeq_organism>

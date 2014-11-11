@@ -1,0 +1,45 @@
+./D86189.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./AB282887.xml:  <GBSeq_organism>Intrasporangium oryzae NRRL B-24470</GBSeq_organism>
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./AF125092.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./AJ400627.xml:  <GBSeq_organism>Salana multivorans</GBSeq_organism>
+./X83809.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./X94155.xml:  <GBSeq_organism>Georgenia muralis</GBSeq_organism>
+./X79454.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./X83810.xml:  <GBSeq_organism>Brachybacterium faecium DSM 4810</GBSeq_organism>
+./AJ812213.xml:  <GBSeq_organism>Acaricomes phytoseiuli</GBSeq_organism>
+./AJ298873.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./AY354285.xml:  <GBSeq_organism>Myceligenerans xiligouense</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./Y18378.xml:  <GBSeq_organism>Beutenbergia cavernae DSM 12333</GBSeq_organism>
+./FJ969847.xml:  <GBSeq_organism>Haloactinobacterium album</GBSeq_organism>
+./AY228479.xml:  <GBSeq_organism>Yaniella halotolerans</GBSeq_organism>
+./AF403541.xml:  <GBSeq_organism>Xylanimonas cellulosilytica DSM 15894</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./DQ343153.xml:  <GBSeq_organism>Ruania albidiflava</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./AM398397.xml:  <GBSeq_organism>Lapillicoccus jejuensis</GBSeq_organism>
+./D45063.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./X78420.xml:  <GBSeq_organism>Jonesia denitrificans DSM 20603</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ243918.xml:  <GBSeq_organism>Dermatophilus congolensis DSM 44180 = NBRC 105199</GBSeq_organism>
+./X77440.xml:  <GBSeq_organism>Pseudoclavibacter helvolus</GBSeq_organism>
+./AF180950.xml:  <GBSeq_organism>Renibacterium salmoninarum</GBSeq_organism>
+./AY273185.xml:  <GBSeq_organism>Xylanibacterium ulmi</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./AJ306835.xml:  <GBSeq_organism>Gulosibacter molinativorax</GBSeq_organism>
+./AF109792.xml:  <GBSeq_organism>Kineosphaera limosa NBRC 100340</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./X79463.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./DQ345443.xml:  <GBSeq_organism>Phycicoccus jejuensis</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

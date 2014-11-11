@@ -1,0 +1,6 @@
+./AF414821.xml:  <GBSeq_organism>Prevotella intermedia ATCC 25611 = DSM 20706</GBSeq_organism>
+./AB480534.xml:  <GBSeq_organism>Prevotella aurantiaca JCM 15754</GBSeq_organism>
+./Y13105.xml:  <GBSeq_organism>Prevotella pallens ATCC 700821</GBSeq_organism>
+./L16483.xml:  <GBSeq_organism>Prevotella disiens</GBSeq_organism>
+./AF414833.xml:  <GBSeq_organism>Prevotella nigrescens ATCC 33563</GBSeq_organism>
+./AB429504.xml:  <GBSeq_organism>Prevotella falsenii</GBSeq_organism>

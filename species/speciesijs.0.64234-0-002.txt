@@ -1,0 +1,11 @@
+./AF319783.xml:  <GBSeq_organism>Encarsia pergandiella asexual line endosymbiont</GBSeq_organism>
+./AY327470.xml:  <GBSeq_organism>Cardinium endosymbiont of Marietta sp.</GBSeq_organism>
+./AF215634.xml:  <GBSeq_organism>endosymbiont of Acanthamoeba sp. (Hungarian isolate)</GBSeq_organism>
+./AF350221.xml:  <GBSeq_organism>endosymbiont of Brevipalpus phoenicis</GBSeq_organism>
+./AY549547.xml:  <GBSeq_organism>endosymbiont of Acanthamoeba sp. AC304</GBSeq_organism>
+./AY327472.xml:  <GBSeq_organism>Cardinium endosymbiont of Plagiomerus diaspidis</GBSeq_organism>
+./AY327469.xml:  <GBSeq_organism>Cardinium endosymbiont of Aspediotus paranerii</GBSeq_organism>
+./AF366581.xml:  <GBSeq_organism>Candidatus Amoebophilus asiaticus</GBSeq_organism>
+./AY331187.xml:  <GBSeq_organism>Candidatus Cardinium hertigii</GBSeq_organism>
+./AY635291.xml:  <GBSeq_organism>endosymbiont of Metaseiulus occidentalis</GBSeq_organism>
+./DQ314214.xml:  <GBSeq_organism>Candidatus Paenicardinium endonii</GBSeq_organism>

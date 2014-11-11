@@ -1,0 +1,10 @@
+./AY121439.xml:  <GBSeq_organism>Virgibacillus kekensis</GBSeq_organism>
+./AY762976.xml:  <GBSeq_organism>Lentibacillus salis</GBSeq_organism>
+./AV057394.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AB197851.xml:  <GBSeq_organism>Virgibacillus salarius</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./AY667497.xml:  <GBSeq_organism>Lentibacillus lacisalsi</GBSeq_organism>
+./AB231905.xml:  <GBSeq_organism>Lentibacillus kapialis</GBSeq_organism>
+./AY667493.xml:  <GBSeq_organism>Lentibacillus salarius</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./DQ139839.xml:  <GBSeq_organism>Virgibacillus olivae</GBSeq_organism>

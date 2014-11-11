@@ -1,0 +1,10 @@
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./DQ191176.xml:  <GBSeq_organism>Salegentibacter agarivorans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AB116148.xml:  <GBSeq_organism>Salegentibacter holothuriorum</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ400710.xml:  <GBSeq_organism>Actinokineospora fastidiosa</GBSeq_organism>
+./AJ000285.xml:  <GBSeq_organism>Amycolatopsis sp.</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AJ512463.xml:  <GBSeq_organism>Kibdelosporangium aridum subsp. largum</GBSeq_organism>
+./AB184722.xml:  <GBSeq_organism>Streptoalloteichus tenebrarius</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AF223354.xml:  <GBSeq_organism>Amycolatopsis sacchari</GBSeq_organism>
+./EU420070.xml:  <GBSeq_organism>Actinophytocola oryzae</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AF052390.xml:  <GBSeq_organism>Amycolatopsis thermoflava N1165</GBSeq_organism>

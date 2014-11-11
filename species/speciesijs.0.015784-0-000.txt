@@ -1,0 +1,20 @@
+./AJ698726.xml:  <GBSeq_organism>Microbacterium hydrocarbonoxydans</GBSeq_organism>
+./AM949677.xml:  <GBSeq_organism>Microbacterium invictum</GBSeq_organism>
+./EU873314.xml:  <GBSeq_organism>Microbacterium ginsengiterrae</GBSeq_organism>
+./EF623999.xml:  <GBSeq_organism>Microbacterium profundi</GBSeq_organism>
+./AJ309929.xml:  <GBSeq_organism>Microbacterium aerolatum</GBSeq_organism>
+./AB286029.xml:  <GBSeq_organism>Microbacterium flavum</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./Y17235.xml:  <GBSeq_organism>Microbacterium luteolum</GBSeq_organism>
+./AJ277840.xml:  <GBSeq_organism>Microbacterium phyllosphaerae</GBSeq_organism>
+./AM747814.xml:  <GBSeq_organism>Microbacterium luticocti DSM 19459</GBSeq_organism>
+./AJ491806.xml:  <GBSeq_organism>Microbacterium paraoxydans</GBSeq_organism>
+./AF263563.xml:  <GBSeq_organism>Microbacterium gubbeenense</GBSeq_organism>
+./AM158907.xml:  <GBSeq_organism>Microbacterium indicum</GBSeq_organism>
+./AB234028.xml:  <GBSeq_organism>Microbacterium aoyamense</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AJ249780.xml:  <GBSeq_organism>Microbacterium foliorum</GBSeq_organism>
+./AY566291.xml:  <GBSeq_organism>Microbacterium natoriense</GBSeq_organism>
+./Y17227.xml:  <GBSeq_organism>Microbacterium oxydans</GBSeq_organism>
+./AY962574.xml:  <GBSeq_organism>Microbacterium koreense</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>

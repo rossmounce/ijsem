@@ -1,0 +1,11 @@
+./DQ112660.xml:  <GBSeq_organism>Rhodonellum psychrophilum</GBSeq_organism>
+./AF275712.xml:  <GBSeq_organism>unidentified Hailaer soda lake bacterium Z3</GBSeq_organism>
+./AY349464.xml:  <GBSeq_organism>Cyclobacterium sp. WHOI JT-21</GBSeq_organism>
+./DQ112663.xml:  <GBSeq_organism>Rhodonellum ikkaensis</GBSeq_organism>
+./AJ577142.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./AJ431335.xml:  <GBSeq_organism>CFB group bacterium ikaite c9</GBSeq_organism>
+./DQ112662.xml:  <GBSeq_organism>Bacteroidetes bacterium GCM68</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./DQ112661.xml:  <GBSeq_organism>Bacteroidetes bacterium GCM69</GBSeq_organism>
+./AY960985.xml:  <GBSeq_organism>Cyclobacterium amurskyense</GBSeq_organism>
+./AJ575266.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>

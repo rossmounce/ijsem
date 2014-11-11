@@ -1,0 +1,18 @@
+./AB184624.xml:  <GBSeq_organism>Streptomyces aculeolatus</GBSeq_organism>
+./AY999782.xml:  <GBSeq_organism>Streptomyces almquistii</GBSeq_organism>
+./AB184781.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./AM934703.xml:  <GBSeq_organism>Streptomyces specialis</GBSeq_organism>
+./AJ391833.xml:  <GBSeq_organism>Streptomyces javensis</GBSeq_organism>
+./AJ391827.xml:  <GBSeq_organism>Streptomyces yogyakartensis</GBSeq_organism>
+./EU925562.xml:  <GBSeq_organism>Streptomyces sedi</GBSeq_organism>
+./AB184663.xml:  <GBSeq_organism>Streptomyces gibsonii</GBSeq_organism>
+./EF178690.xml:  <GBSeq_organism>Streptomyces flavofuscus</GBSeq_organism>
+./AB184295.xml:  <GBSeq_organism>Streptomyces rangoonensis</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AY262826.xml:  <GBSeq_organism>Streptomyces ferralitis</GBSeq_organism>
+./AY277529.xml:  <GBSeq_organism>Streptomyces hebeiensis</GBSeq_organism>
+./DQ445796.xml:  <GBSeq_organism>Streptomyces niveoruber</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./AB184272.xml:  <GBSeq_organism>Streptomyces flocculus</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>
+./AM398645.xml:  <GBSeq_organism>Streptomyces hainanensis</GBSeq_organism>

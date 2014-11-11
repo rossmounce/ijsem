@@ -1,0 +1,12 @@
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AF542072.xml:  <GBSeq_organism>Kocuria rhizophila DC2201</GBSeq_organism>
+./X80739.xml:  <GBSeq_organism>Arthrobacter nicotianae</GBSeq_organism>
+./AJ409095.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./AJ409096.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./Y16264.xml:  <GBSeq_organism>Kocuria rhizophila</GBSeq_organism>
+./X80738.xml:  <GBSeq_organism>Arthrobacter crystallopoietes</GBSeq_organism>
+./AF542074.xml:  <GBSeq_organism>Kocuria varians</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./AF542073.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./Y11330.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>

@@ -1,0 +1,31 @@
+./X82842.xml:  <GBSeq_organism>Caldicellulosiruptor lactoaceticus 6A</GBSeq_organism>
+./AF161069.xml:  <GBSeq_organism>Thermanaerovibrio velox</GBSeq_organism>
+./EF436500.xml:  <GBSeq_organism>Jonquetella anthropi DSM 22815</GBSeq_organism>
+./EF436503.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./EF436502.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./AJ430587.xml:  <GBSeq_organism>Caldithrix abyssi DSM 13497</GBSeq_organism>
+./U52817.xml:  <GBSeq_organism>Dethiosulfovibrio peptidovorans DSM 11002</GBSeq_organism>
+./M59231.xml:  <GBSeq_organism>Flexistipes sinusarabici DSM 4947</GBSeq_organism>
+./X99980.xml:  <GBSeq_organism>Thermosyntropha lipolytica</GBSeq_organism>
+./AY061974.xml:  <GBSeq_organism>Carboxydocella thermautotrophica</GBSeq_organism>
+./M26491.xml:  <GBSeq_organism>Syntrophomonas bryantii</GBSeq_organism>
+./AF481216.xml:  <GBSeq_organism>Flexistipes sp. E3_33</GBSeq_organism>
+./AF338413.xml:  <GBSeq_organism>Anaeroglobus geminatus</GBSeq_organism>
+./AY290767.xml:  <GBSeq_organism>Syntrophomonas curvata</GBSeq_organism>
+./EF436501.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./AJ515882.xml:  <GBSeq_organism>Deferribacter abyssi</GBSeq_organism>
+./AJ251214.xml:  <GBSeq_organism>Pelospora glutarica</GBSeq_organism>
+./X95744.xml:  <GBSeq_organism>Geovibrio ferrireducens</GBSeq_organism>
+./AY387670.xml:  <GBSeq_organism>Mucispirillum schaedleri</GBSeq_organism>
+./AF234544.xml:  <GBSeq_organism>Dethiosulfovibrio marinus</GBSeq_organism>
+./EF436499.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./AJ299402.xml:  <GBSeq_organism>Geovibrio thiophilus</GBSeq_organism>
+./AF234542.xml:  <GBSeq_organism>Dethiosulfovibrio russensis</GBSeq_organism>
+./DQ412723.xml:  <GBSeq_organism>Synergistes sp. RMA 10849</GBSeq_organism>
+./AY064218.xml:  <GBSeq_organism>Anaerobranca californiensis</GBSeq_organism>
+./AJ243189.xml:  <GBSeq_organism>Anaerobaculum mobile DSM 13181</GBSeq_organism>
+./AB021305.xml:  <GBSeq_organism>Syntrophothermus lipocalidus DSM 12680</GBSeq_organism>
+./L08066.xml:  <GBSeq_organism>Synergistes jonesii</GBSeq_organism>
+./AF146526.xml:  <GBSeq_organism>Denitrovibrio acetiphilus DSM 12809</GBSeq_organism>
+./AF072581.xml:  <GBSeq_organism>Aminomonas paucivorans DSM 12260</GBSeq_organism>
+./AY005466.xml:  <GBSeq_organism>Dethiosulfovibrio acidaminovorans</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AF003930.xml:  <GBSeq_organism>Streptococcus pneumoniae</GBSeq_organism>
+./AJ420198.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./AJ420199.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./AJ420201.xml:  <GBSeq_organism>Streptococcus ratti</GBSeq_organism>
+./AF003933.xml:  <GBSeq_organism>Streptococcus parasanguinis ATCC 15912</GBSeq_organism>
+./AJ420200.xml:  <GBSeq_organism>Streptococcus downei MFe28</GBSeq_organism>
+./AF003929.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./X58315.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./AY058218.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./AF336367.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./AJ243965.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./X58307.xml:  <GBSeq_organism>Streptococcus sobrinus</GBSeq_organism>
+./AF003931.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./M58836.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>

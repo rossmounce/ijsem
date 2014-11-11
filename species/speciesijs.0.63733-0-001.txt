@@ -1,0 +1,19 @@
+./AB188121.xml:  <GBSeq_organism>Azohydromonas australica</GBSeq_organism>
+./AJ512207.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./AJ505320.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./AJ505317.xml:  <GBSeq_organism>Burkholderia sp. TJ182</GBSeq_organism>
+./AJ512205.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./AF111110.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./X51500.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AF031817.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./AJ512206.xml:  <GBSeq_organism>Burkholderia vietnamiensis</GBSeq_organism>
+./AB188119.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./AL672114.xml:  <GBSeq_organism>Mesorhizobium loti R7A</GBSeq_organism>
+./AB188120.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./J01781.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./E01169.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./J01740.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AJ302315.xml:  <GBSeq_organism>Burkholderia tuberum STM678</GBSeq_organism>
+./X63352.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AJ132913.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AB188122.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>

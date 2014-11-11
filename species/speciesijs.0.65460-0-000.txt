@@ -1,0 +1,14 @@
+./U45800.xml:  <GBSeq_organism>Candida railenensis</GBSeq_organism>
+./AF251552.xml:  <GBSeq_organism>Kurtzmaniella cleridarum</GBSeq_organism>
+./U71071.xml:  <GBSeq_organism>Candida fragi</GBSeq_organism>
+./U45818.xml:  <GBSeq_organism>Candida natalensis</GBSeq_organism>
+./U45832.xml:  <GBSeq_organism>Candida zeylanoides</GBSeq_organism>
+./U45831.xml:  <GBSeq_organism>Candida quercitrusa</GBSeq_organism>
+./U45777.xml:  <GBSeq_organism>Candida boleticola</GBSeq_organism>
+./U45782.xml:  <GBSeq_organism>Candida multigemmis</GBSeq_organism>
+./U45794.xml:  <GBSeq_organism>Candida santamariae var. santamariae</GBSeq_organism>
+./U45795.xml:  <GBSeq_organism>Candida schatavii</GBSeq_organism>
+./AJ716104.xml:  <GBSeq_organism>Candida cf. fragi CBS 9669</GBSeq_organism>
+./AF245403.xml:  <GBSeq_organism>Candida anglica</GBSeq_organism>
+./U45793.xml:  <GBSeq_organism>Candida oleophila</GBSeq_organism>
+./U45808.xml:  <GBSeq_organism>Debaryomyces hansenii</GBSeq_organism>

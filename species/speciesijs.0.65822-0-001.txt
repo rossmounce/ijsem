@@ -1,0 +1,22 @@
+./AB302379.xml:  <GBSeq_organism>Tropicimonas isoalkanivorans</GBSeq_organism>
+./AY906862.xml:  <GBSeq_organism>Jannaschia seosinensis</GBSeq_organism>
+./AF035433.xml:  <GBSeq_organism>Rhodobacter apigmentum</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AY639888.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./AJ315682.xml:  <GBSeq_organism>Roseicyclus mahoneyensis</GBSeq_organism>
+./AJ877265.xml:  <GBSeq_organism>Yangia pacifica</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AJ550939.xml:  <GBSeq_organism>Oceanibulbus indolifex HEL-45</GBSeq_organism>
+./AY682198.xml:  <GBSeq_organism>Loktanella agnita</GBSeq_organism>
+./D16418.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./AJ534216.xml:  <GBSeq_organism>Dinoroseobacter shibae</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>
+./AJ605747.xml:  <GBSeq_organism>Roseisalinus antarcticus</GBSeq_organism>
+./DQ167248.xml:  <GBSeq_organism>Pseudoroseobacter euryhalinus</GBSeq_organism>
+./AY926462.xml:  <GBSeq_organism>Palleronia marisminoris</GBSeq_organism>
+./AJ968648.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AY656719.xml:  <GBSeq_organism>Thioclava pacifica DSM 10166</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./AJ748748.xml:  <GBSeq_organism>Nereida ignava</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

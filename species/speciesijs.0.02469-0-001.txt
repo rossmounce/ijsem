@@ -1,0 +1,8 @@
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>

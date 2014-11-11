@@ -1,0 +1,40 @@
+./FJ185225.xml:  <GBSeq_organism>Corynebacterium pyruviciproducens ATCC BAA-1742</GBSeq_organism>
+./AJ439346.xml:  <GBSeq_organism>Corynebacterium accolens</GBSeq_organism>
+./AF220220.xml:  <GBSeq_organism>Corynebacterium aurimucosum ATCC 700975</GBSeq_organism>
+./AY492241.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./X84252.xml:  <GBSeq_organism>Corynebacterium cystitidis</GBSeq_organism>
+./CP000750.xml:  <GBSeq_organism>Kineococcus radiotolerans SRS30216 = ATCC BAA-149</GBSeq_organism>
+./AY492259.xml:  <GBSeq_organism>Corynebacterium imitans</GBSeq_organism>
+./Y09806.xml:  <GBSeq_organism>Corynebacterium mastitidis</GBSeq_organism>
+./X96497.xml:  <GBSeq_organism>Corynebacterium coyleae</GBSeq_organism>
+./AY492237.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./AY492282.xml:  <GBSeq_organism>Corynebacterium aurimucosum</GBSeq_organism>
+./AY492256.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./AY262739.xml:  <GBSeq_organism>Mycobacterium immunogenum</GBSeq_organism>
+./X82060.xml:  <GBSeq_organism>Corynebacterium flavescens</GBSeq_organism>
+./X84680.xml:  <GBSeq_organism>Corynebacterium vitaeruminis DSM 20294</GBSeq_organism>
+./AY859702.xml:  <GBSeq_organism>Mycobacterium elephantis</GBSeq_organism>
+./Y09569.xml:  <GBSeq_organism>Corynebacterium camporealensis</GBSeq_organism>
+./AJ401282.xml:  <GBSeq_organism>Corynebacterium felinum</GBSeq_organism>
+./FJ899747.xml:  <GBSeq_organism>Corynebacterium pyruviciproducens ATCC BAA-1742</GBSeq_organism>
+./AY147163.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AY492233.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./AM397636.xml:  <GBSeq_organism>Corynebacterium ureicelerivorans</GBSeq_organism>
+./X81908.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./AY492264.xml:  <GBSeq_organism>Corynebacterium simulans</GBSeq_organism>
+./AY492272.xml:  <GBSeq_organism>Corynebacterium variabile</GBSeq_organism>
+./X84437.xml:  <GBSeq_organism>Corynebacterium segmentosum</GBSeq_organism>
+./X81909.xml:  <GBSeq_organism>Corynebacterium renale</GBSeq_organism>
+./AJ439345.xml:  <GBSeq_organism>Corynebacterium macginleyi</GBSeq_organism>
+./Y09655.xml:  <GBSeq_organism>Corynebacterium sundsvallense</GBSeq_organism>
+./AY593981.xml:  <GBSeq_organism>Mycobacterium abscessus subsp. bolletii</GBSeq_organism>
+./AY492247.xml:  <GBSeq_organism>Corynebacterium capitovis</GBSeq_organism>
+./AY677186.xml:  <GBSeq_organism>Corynebacterium tuscaniense</GBSeq_organism>
+./AY492280.xml:  <GBSeq_organism>Corynebacterium singulare</GBSeq_organism>
+./X84241.xml:  <GBSeq_organism>Corynebacterium mycetoides</GBSeq_organism>
+./X86688.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./Y09045.xml:  <GBSeq_organism>Corynebacterium lipophiloflavum</GBSeq_organism>
+./AY492235.xml:  <GBSeq_organism>Corynebacterium minutissimum</GBSeq_organism>
+./AY859700.xml:  <GBSeq_organism>Mycobacterium phlei</GBSeq_organism>
+./AJ429234.xml:  <GBSeq_organism>Corynebacterium spheniscorum</GBSeq_organism>

@@ -1,0 +1,16 @@
+./X95071.xml:  <GBSeq_organism>Rhodothermus marinus</GBSeq_organism>
+./AM295256.xml:  <GBSeq_organism>Lewinella persica</GBSeq_organism>
+./AM295254.xml:  <GBSeq_organism>Lewinella cohaerens</GBSeq_organism>
+./AF039296.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./AM295255.xml:  <GBSeq_organism>Lewinella nigricans</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./M58795.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./AJ784892.xml:  <GBSeq_organism>Haliscomenobacter hydrossis DSM 1100</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AJ299414.xml:  <GBSeq_organism>Chlorobium limicola</GBSeq_organism>
+./AM286229.xml:  <GBSeq_organism>Lewinella agarilytica</GBSeq_organism>

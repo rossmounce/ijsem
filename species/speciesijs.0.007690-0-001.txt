@@ -1,0 +1,9 @@
+./M26923.xml:  <GBSeq_organism>Thermus thermophilus</GBSeq_organism>
+./L09667.xml:  <GBSeq_organism>Thermus filiformis</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./EU247888.xml:  <GBSeq_organism>Thermus arciformis</GBSeq_organism>
+./Y18409.xml:  <GBSeq_organism>Thermus brockianus</GBSeq_organism>
+./Y18416.xml:  <GBSeq_organism>Thermus oshimai</GBSeq_organism>
+./EU247889.xml:  <GBSeq_organism>Thermus arciformis</GBSeq_organism>
+./AF032127.xml:  <GBSeq_organism>Thermus scotoductus</GBSeq_organism>
+./Z15059.xml:  <GBSeq_organism>Meiothermus ruber DSM 1279</GBSeq_organism>

@@ -1,0 +1,6 @@
+./EF660342.xml:  <GBSeq_organism>Xenophilus aerolatus</GBSeq_organism>
+./AJ420330.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>

@@ -1,0 +1,12 @@
+./D16291.xml:  <GBSeq_organism>Sporolactobacillus nakayamae subsp. racemicus</GBSeq_organism>
+./AB021193.xml:  <GBSeq_organism>Pullulanibacillus naganoensis</GBSeq_organism>
+./D16270.xml:  <GBSeq_organism>Sporolactobacillus laevolacticus</GBSeq_organism>
+./AJ634663.xml:  <GBSeq_organism>Sporolactobacillus nakayamae subsp. nakayamae</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./AY817493.xml:  <GBSeq_organism>Marinococcus halotolerans</GBSeq_organism>
+./AJ634661.xml:  <GBSeq_organism>Sporolactobacillus kofuensis</GBSeq_organism>
+./X90834.xml:  <GBSeq_organism>Salimicrobium album</GBSeq_organism>
+./D16283.xml:  <GBSeq_organism>Sporolactobacillus inulinus</GBSeq_organism>
+./EF581818.xml:  <GBSeq_organism>Sporolactobacillus vineae</GBSeq_organism>
+./EF581819.xml:  <GBSeq_organism>Sporolactobacillus vineae DSM 21990 = SL153</GBSeq_organism>
+./AJ634662.xml:  <GBSeq_organism>Sporolactobacillus terrae</GBSeq_organism>

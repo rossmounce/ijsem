@@ -1,0 +1,22 @@
+./AY230217.xml:  <GBSeq_organism>Treponema berlinense</GBSeq_organism>
+./M57738.xml:  <GBSeq_organism>Treponema succinifaciens DSM 2489</GBSeq_organism>
+./EF061268.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>
+./AF426101.xml:  <GBSeq_organism>Treponema refringens</GBSeq_organism>
+./AF302938.xml:  <GBSeq_organism>Treponema parvum</GBSeq_organism>
+./AF426100.xml:  <GBSeq_organism>Treponema calligyrum</GBSeq_organism>
+./M57739.xml:  <GBSeq_organism>Treponema phagedenis</GBSeq_organism>
+./M71238.xml:  <GBSeq_organism>Treponema saccharophilum</GBSeq_organism>
+./AF033310.xml:  <GBSeq_organism>Treponema vincentii</GBSeq_organism>
+./EF061267.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>
+./AJ131282.xml:  <GBSeq_organism>Treponema lecithinolyticum</GBSeq_organism>
+./EF061269.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>
+./AF033306.xml:  <GBSeq_organism>Treponema socranskii subsp. socranskii</GBSeq_organism>
+./AJ543428.xml:  <GBSeq_organism>Treponema putidum</GBSeq_organism>
+./M57737.xml:  <GBSeq_organism>Treponema bryantii</GBSeq_organism>
+./Y16568.xml:  <GBSeq_organism>Treponema brennaborense</GBSeq_organism>
+./AY518274.xml:  <GBSeq_organism>Treponema porcinum</GBSeq_organism>
+./AF302940.xml:  <GBSeq_organism>Treponema pectinovorum</GBSeq_organism>
+./D85437.xml:  <GBSeq_organism>Treponema medium</GBSeq_organism>
+./X87140.xml:  <GBSeq_organism>Treponema maltophilum</GBSeq_organism>
+./Y09959.xml:  <GBSeq_organism>Treponema amylovorum</GBSeq_organism>
+./EF061270.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>

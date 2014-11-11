@@ -1,0 +1,18 @@
+./D11106.xml:  <GBSeq_organism>Halococcus morrhuae DSM 1307</GBSeq_organism>
+./X82168.xml:  <GBSeq_organism>Halorubrum trapanicum</GBSeq_organism>
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./AY510708.xml:  <GBSeq_organism>Halorubrum alkaliphilum</GBSeq_organism>
+./AY149598.xml:  <GBSeq_organism>Halorubrum tibetense</GBSeq_organism>
+./D63572.xml:  <GBSeq_organism>Halorubrum distributum</GBSeq_organism>
+./AJ276887.xml:  <GBSeq_organism>Halorubrum tebenquichense</GBSeq_organism>
+./EF139654.xml:  <GBSeq_organism>Halorubrum californiense</GBSeq_organism>
+./FN691473.xml:  <GBSeq_organism>Halorubrum sp. SH4</GBSeq_organism>
+./AM491830.xml:  <GBSeq_organism>Halorubrum ejinorense</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./M36507.xml:  <GBSeq_organism>Methanococcus vannielii</GBSeq_organism>
+./AM235786.xml:  <GBSeq_organism>Halorubrum orientale</GBSeq_organism>
+./D87972.xml:  <GBSeq_organism>Halorubrum vacuolatum</GBSeq_organism>
+./EF077639.xml:  <GBSeq_organism>Halorubrum cibi</GBSeq_organism>
+./L00922.xml:  <GBSeq_organism>Halorubrum coriense</GBSeq_organism>
+./AM900832.xml:  <GBSeq_organism>Halorubrum kocurii JCM 14978</GBSeq_organism>
+./AY510707.xml:  <GBSeq_organism>Halorubrum xinjiangense</GBSeq_organism>

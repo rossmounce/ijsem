@@ -1,0 +1,8 @@
+./AF288157.xml:  <GBSeq_organism>Marinobacter lutaoensis</GBSeq_organism>
+./Y13299.xml:  <GBSeq_organism>Carnimonas nigrificans</GBSeq_organism>
+./AJ306892.xml:  <GBSeq_organism>Halomonas subglaciescola</GBSeq_organism>
+./AJ315983.xml:  <GBSeq_organism>Saccharospirillum impatiens</GBSeq_organism>
+./X87219.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./GO250189.xml:  <GBSeq_organism>Globodera pallida</GBSeq_organism>
+./DQ403810.xml:  <GBSeq_organism>Reinekea blandensis MED297</GBSeq_organism>
+./AB006768.xml:  <GBSeq_organism>Terasakiella pusilla</GBSeq_organism>

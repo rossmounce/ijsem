@@ -1,0 +1,10 @@
+./AF114809.xml:  <GBSeq_organism>Saccharothrix longispora</GBSeq_organism>
+./X76965.xml:  <GBSeq_organism>Saccharothrix mutabilis subsp. capreolus</GBSeq_organism>
+./AF114808.xml:  <GBSeq_organism>Lechevalieria flava</GBSeq_organism>
+./AY054972.xml:  <GBSeq_organism>Saccharothrix algeriensis</GBSeq_organism>
+./AB284261.xml:  <GBSeq_organism>Saccharothrix violaceirubra</GBSeq_organism>
+./AF114814.xml:  <GBSeq_organism>Saccharothrix texasensis</GBSeq_organism>
+./X76966.xml:  <GBSeq_organism>Saccharothrix mutabilis</GBSeq_organism>
+./AB381939.xml:  <GBSeq_organism>Saccharothrix xinjiangensis</GBSeq_organism>
+./AF114812.xml:  <GBSeq_organism>Saccharothrix syringae</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>

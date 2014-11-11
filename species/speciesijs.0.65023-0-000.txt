@@ -1,0 +1,15 @@
+./AF004845.xml:  <GBSeq_organism>Methylorhabdus multivorans</GBSeq_organism>
+./AB159680.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./X66024.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./Y17144.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./AY039817.xml:  <GBSeq_organism>Kaistia adipata</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./AB127972.xml:  <GBSeq_organism>Pleomorphomonas koreensis</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./Y14302.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>

@@ -1,0 +1,12 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./U80206.xml:  <GBSeq_organism>Erwinia rhapontici</GBSeq_organism>
+./Z96085.xml:  <GBSeq_organism>Erwinia psidii</GBSeq_organism>
+./AJ233423.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./Z96084.xml:  <GBSeq_organism>Erwinia mallotivora</GBSeq_organism>
+./U80205.xml:  <GBSeq_organism>Erwinia persicina</GBSeq_organism>
+./U80195.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./GQ405203.xml:  <GBSeq_organism>Erwinia piriflorinigrans</GBSeq_organism>
+./AF103910.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./Y13250.xml:  <GBSeq_organism>Erwinia tracheiphila</GBSeq_organism>
+./AY131237.xml:  <GBSeq_organism>Erwinia papayae</GBSeq_organism>
+./EF122435.xml:  <GBSeq_organism>Erwinia pyrifoliae DSM 12163</GBSeq_organism>

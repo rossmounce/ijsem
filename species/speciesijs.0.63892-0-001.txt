@@ -1,0 +1,7 @@
+./X63519.xml:  <GBSeq_organism>Prototheca zopfii</GBSeq_organism>
+./X56101.xml:  <GBSeq_organism>Auxenochlorella protothecoides</GBSeq_organism>
+./X56099.xml:  <GBSeq_organism>Prototheca wickerhamii</GBSeq_organism>
+./X63505.xml:  <GBSeq_organism>Chloroidium saccharophilum</GBSeq_organism>
+./X13688.xml:  <GBSeq_organism>Chlorella vulgaris</GBSeq_organism>
+./AF317893.xml:  <GBSeq_organism>Helicosporidium sp. ex Simulium jonesi</GBSeq_organism>
+./X74003.xml:  <GBSeq_organism>Prototheca wickerhamii</GBSeq_organism>

@@ -1,0 +1,12 @@
+./M93354.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./AY373448.xml:  <GBSeq_organism>Chromohalobacter sarecensis</GBSeq_organism>
+./AJ295146.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./X87217.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./AJ295144.xml:  <GBSeq_organism>Chromohalobacter israelensis</GBSeq_organism>
+./X87219.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./M93353.xml:  <GBSeq_organism>Halomonas halophila</GBSeq_organism>
+./M59153.xml:  <GBSeq_organism>Halomonas halmophila</GBSeq_organism>
+./AM048787.xml:  <GBSeq_organism>Chromohalobacter beijerinckii</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AJ295143.xml:  <GBSeq_organism>Chromohalobacter canadensis</GBSeq_organism>

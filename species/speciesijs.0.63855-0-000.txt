@@ -1,0 +1,31 @@
+./X55592.xml:  <GBSeq_organism>Mycobacterium farcinogenes</GBSeq_organism>
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AB010909.xml:  <GBSeq_organism>Williamsia maris</GBSeq_organism>
+./X80633.xml:  <GBSeq_organism>Gordonia aichiensis</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X82059.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X80635.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./M29559.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./X81929.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./X80622.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./AY534743.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>
+./X52917.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./M29556.xml:  <GBSeq_organism>Mycobacterium asiaticum</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./X93485.xml:  <GBSeq_organism>Gordonia hirsuta DSM 44140 = NBRC 16056</GBSeq_organism>
+./Z46753.xml:  <GBSeq_organism>Corynebacterium glutamicum</GBSeq_organism>
+./Y12247.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>
+./Y18310.xml:  <GBSeq_organism>Gordonia polyisoprenivorans</GBSeq_organism>
+./X80608.xml:  <GBSeq_organism>Nocardia brasiliensis</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X85955.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>
+./AY534742.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>
+./X80625.xml:  <GBSeq_organism>Rhodococcus ruber</GBSeq_organism>
+./AF101418.xml:  <GBSeq_organism>Gordonia amicalis</GBSeq_organism>

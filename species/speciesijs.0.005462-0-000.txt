@@ -1,0 +1,45 @@
+./Y11552.xml:  <GBSeq_organism>Antarctobacter heliothermus</GBSeq_organism>
+./EF192392.xml:  <GBSeq_organism>Pelagicola litoralis</GBSeq_organism>
+./EU512919.xml:  <GBSeq_organism>Marivita cryptomonadis</GBSeq_organism>
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./D88522.xml:  <GBSeq_organism>Pseudorhodobacter ferrugineus</GBSeq_organism>
+./M59063.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./AY180103.xml:  <GBSeq_organism>Sulfitobacter delicatus</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AJ748747.xml:  <GBSeq_organism>Jannaschia rubra</GBSeq_organism>
+./D88524.xml:  <GBSeq_organism>Ahrensia kielensis</GBSeq_organism>
+./U88041.xml:  <GBSeq_organism>Amaricoccus kaplicensis</GBSeq_organism>
+./M59070.xml:  <GBSeq_organism>Rhodothalassium salexigens</GBSeq_organism>
+./AY962292.xml:  <GBSeq_organism>Shimia marina</GBSeq_organism>
+./AJ578476.xml:  <GBSeq_organism>Woodsholea maritima</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./AJ315682.xml:  <GBSeq_organism>Roseicyclus mahoneyensis</GBSeq_organism>
+./AY486423.xml:  <GBSeq_organism>Pseudovibrio denitrificans</GBSeq_organism>
+./AJ877265.xml:  <GBSeq_organism>Yangia pacifica</GBSeq_organism>
+./AB061273.xml:  <GBSeq_organism>Roseibacterium elongatum</GBSeq_organism>
+./AJ550939.xml:  <GBSeq_organism>Oceanibulbus indolifex HEL-45</GBSeq_organism>
+./AY906863.xml:  <GBSeq_organism>Maribius salinus</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./AY442178.xml:  <GBSeq_organism>Thalassobius aestuarii</GBSeq_organism>
+./AF030437.xml:  <GBSeq_organism>Methylarcula terricola</GBSeq_organism>
+./EU512918.xml:  <GBSeq_organism>Marivita litorea</GBSeq_organism>
+./Y17387.xml:  <GBSeq_organism>Sulfitobacter mediterraneus</GBSeq_organism>
+./AY177712.xml:  <GBSeq_organism>Phaeobacter inhibens DSM 16374</GBSeq_organism>
+./DQ667965.xml:  <GBSeq_organism>Donghicola eburneus</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./DQ178660.xml:  <GBSeq_organism>Pelagibaca bermudensis HTCC2601</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>
+./AJ605747.xml:  <GBSeq_organism>Roseisalinus antarcticus</GBSeq_organism>
+./AB101543.xml:  <GBSeq_organism>Gemmobacter nectariphilus</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./D85832.xml:  <GBSeq_organism>Roseibium denhamense</GBSeq_organism>
+./AF249749.xml:  <GBSeq_organism>Roseinatronobacter thiooxidans</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./D85834.xml:  <GBSeq_organism>Rubrimonas cliftonensis</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AJ534211.xml:  <GBSeq_organism>Dinoroseobacter shibae DFL 12 = DSM 16493</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AY372052.xml:  <GBSeq_organism>Anaerospora hongkongensis</GBSeq_organism>
+./AF244579.xml:  <GBSeq_organism>Carboxydothermus hydrogenoformans</GBSeq_organism>
+./U76364.xml:  <GBSeq_organism>Carboxydothermus ferrireducens</GBSeq_organism>
+./Y18214.xml:  <GBSeq_organism>Desulfonispora thiosulfatigenes</GBSeq_organism>
+./U84497.xml:  <GBSeq_organism>Dehalobacter restrictus DSM 9455</GBSeq_organism>
+./X55797.xml:  <GBSeq_organism>Peptococcus niger</GBSeq_organism>
+./X99706.xml:  <GBSeq_organism>Syntrophobotulus glycolicus</GBSeq_organism>
+./AY603000.xml:  <GBSeq_organism>Thermincola carboxydiphila</GBSeq_organism>
+./AY519200.xml:  <GBSeq_organism>Thermosinus carboxydivorans Nor1</GBSeq_organism>
+./AJ306750.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

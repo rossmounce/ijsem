@@ -1,0 +1,25 @@
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./U14586.xml:  <GBSeq_organism>Polaribacter franzmannii ATCC 700399</GBSeq_organism>
+./AY258126.xml:  <GBSeq_organism>bacterium DG976</GBSeq_organism>
+./AY298788.xml:  <GBSeq_organism>Flavobacteriaceae bacterium G812M2</GBSeq_organism>
+./D14023.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AY521224.xml:  <GBSeq_organism>Winogradskyella epiphytica</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./U85882.xml:  <GBSeq_organism>marine psychrophile IC076</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./AJ344133.xml:  <GBSeq_organism>Gelidibacter mesophilus</GBSeq_organism>
+./U85889.xml:  <GBSeq_organism>Flavobacterium gillisiae</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AF469612.xml:  <GBSeq_organism>Tenacibaculum skagerrakense</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M61002.xml:  <GBSeq_organism>Polaribacter irgensii</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./AB116148.xml:  <GBSeq_organism>Salegentibacter holothuriorum</GBSeq_organism>
+./AY521225.xml:  <GBSeq_organism>Winogradskyella eximia</GBSeq_organism>
+./AF513434.xml:  <GBSeq_organism>Psychroflexus tropicus</GBSeq_organism>

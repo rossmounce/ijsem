@@ -1,0 +1,16 @@
+./AY098588.xml:  <GBSeq_organism>Burkholderia kururiensis</GBSeq_organism>
+./DQ787334.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AJ299453.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./DQ349124.xml:  <GBSeq_organism>Paenibacillus forsythiae</GBSeq_organism>
+./AF484676.xml:  <GBSeq_organism>Methylobacter vinelandii</GBSeq_organism>
+./AJ223997.xml:  <GBSeq_organism>Paenibacillus polymyxa ATCC 842</GBSeq_organism>
+./AJ867247.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./DQ407295.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ223993.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./U97121.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AJ223992.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./AY242355.xml:  <GBSeq_organism>Klebsiella pneumoniae 342</GBSeq_organism>
+./DQ349125.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AJ223994.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./EU867444.xml:  <GBSeq_organism>Paenibacillus sonchi X19-5</GBSeq_organism>
+./AJ297529.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>

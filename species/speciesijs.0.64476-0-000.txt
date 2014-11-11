@@ -1,0 +1,9 @@
+./AF277204.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./AY555577.xml:  <GBSeq_organism>Nocardia mexicana</GBSeq_organism>
+./AY964666.xml:  <GBSeq_organism>Nocardia jejuensis</GBSeq_organism>
+./AF277202.xml:  <GBSeq_organism>Nocardia cummidelens</GBSeq_organism>
+./AY222321.xml:  <GBSeq_organism>Nocardia alba</GBSeq_organism>
+./AJ303008.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./AY333115.xml:  <GBSeq_organism>Nocardia xishanensis</GBSeq_organism>
+./AF277223.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AY626158.xml:  <GBSeq_organism>Nocardia polyresistens</GBSeq_organism>

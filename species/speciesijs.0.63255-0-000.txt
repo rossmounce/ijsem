@@ -1,0 +1,9 @@
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AB078082.xml:  <GBSeq_organism>Marivirga sericea</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AY264840.xml:  <GBSeq_organism>Algoriphagus ornithinivorans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./AJ577141.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AY264839.xml:  <GBSeq_organism>Algoriphagus halophilus</GBSeq_organism>

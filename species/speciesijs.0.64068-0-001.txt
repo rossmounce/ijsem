@@ -1,0 +1,18 @@
+./AF288370.xml:  <GBSeq_organism>Idiomarina loihiensis</GBSeq_organism>
+./AJ416756.xml:  <GBSeq_organism>Psychromonas profunda</GBSeq_organism>
+./AY167307.xml:  <GBSeq_organism>Colwellia rossensis</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./U85845.xml:  <GBSeq_organism>Colwellia demingiae</GBSeq_organism>
+./U73721.xml:  <GBSeq_organism>Psychromonas ingrahamii 37</GBSeq_organism>
+./AB023378.xml:  <GBSeq_organism>Psychromonas marina</GBSeq_organism>
+./AJ306890.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./AF374385.xml:  <GBSeq_organism>Psychromonas arctica</GBSeq_organism>
+./AB052160.xml:  <GBSeq_organism>Psychromonas kaikoae ATCC BAA-353</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./U85846.xml:  <GBSeq_organism>Colwellia psychrotropica</GBSeq_organism>
+./AF074383.xml:  <GBSeq_organism>Pseudomonas migulae</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AB002630.xml:  <GBSeq_organism>Colwellia maris</GBSeq_organism>
+./U01916.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./U85847.xml:  <GBSeq_organism>Colwellia hornerae</GBSeq_organism>
+./AJ440215.xml:  <GBSeq_organism>Idiomarina baltica</GBSeq_organism>

@@ -1,0 +1,11 @@
+./L09187.xml:  <GBSeq_organism>Caloramator fervidus</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X77838.xml:  <GBSeq_organism>Oxobacter pfennigii</GBSeq_organism>
+./X76650.xml:  <GBSeq_organism>Sarcina maxima</GBSeq_organism>
+./FJ527031.xml:  <GBSeq_organism>Proteiniclasticum ruminis</GBSeq_organism>
+./X76740.xml:  <GBSeq_organism>Clostridium intestinale</GBSeq_organism>
+./X99238.xml:  <GBSeq_organism>Thermobrachium celere DSM 8682</GBSeq_organism>
+./X90488.xml:  <GBSeq_organism>Caloramator proteoclasticus</GBSeq_organism>
+./Y18189.xml:  <GBSeq_organism>Anaerobacter polyendosporus</GBSeq_organism>
+./M59088.xml:  <GBSeq_organism>Clostridium fallax</GBSeq_organism>
+./X76649.xml:  <GBSeq_organism>Sarcina ventriculi</GBSeq_organism>

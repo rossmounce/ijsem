@@ -1,0 +1,56 @@
+./EU917298.xml:  <GBSeq_organism>Streptococcus ratti</GBSeq_organism>
+./EU917309.xml:  <GBSeq_organism>Streptococcus uberis</GBSeq_organism>
+./EU917281.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./EU917295.xml:  <GBSeq_organism>Streptococcus pluranimalium</GBSeq_organism>
+./EU917238.xml:  <GBSeq_organism>Streptococcus pneumoniae</GBSeq_organism>
+./EU917227.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. equisimilis</GBSeq_organism>
+./EU917234.xml:  <GBSeq_organism>Streptococcus oralis</GBSeq_organism>
+./EU917299.xml:  <GBSeq_organism>Streptococcus sanguinis</GBSeq_organism>
+./EU917247.xml:  <GBSeq_organism>Streptococcus agalactiae ATCC 13813</GBSeq_organism>
+./EU917233.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./EU917311.xml:  <GBSeq_organism>Streptococcus massiliensis</GBSeq_organism>
+./EU917282.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>
+./EU917240.xml:  <GBSeq_organism>Streptococcus urinalis 2285-97</GBSeq_organism>
+./EU917290.xml:  <GBSeq_organism>Streptococcus oligofermentans AS 1.3089</GBSeq_organism>
+./EU917305.xml:  <GBSeq_organism>Streptococcus sinensis</GBSeq_organism>
+./EU917308.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./EU917277.xml:  <GBSeq_organism>Streptococcus halichoeri</GBSeq_organism>
+./EU917259.xml:  <GBSeq_organism>Streptococcus didelphis</GBSeq_organism>
+./EU917286.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./EU917252.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./EU917230.xml:  <GBSeq_organism>Streptococcus equi subsp. zooepidemicus</GBSeq_organism>
+./EU917237.xml:  <GBSeq_organism>Streptococcus phocae</GBSeq_organism>
+./EU917289.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./EU917235.xml:  <GBSeq_organism>Streptococcus orisratti</GBSeq_organism>
+./EU917254.xml:  <GBSeq_organism>Streptococcus constellatus subsp. constellatus</GBSeq_organism>
+./EU917258.xml:  <GBSeq_organism>Streptococcus cristatus ATCC 51100</GBSeq_organism>
+./EU917265.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./EU917229.xml:  <GBSeq_organism>Streptococcus equi subsp. equi</GBSeq_organism>
+./EU917231.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./EU917307.xml:  <GBSeq_organism>Streptococcus pasteurianus</GBSeq_organism>
+./EU917241.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./EU917257.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./EU917262.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae</GBSeq_organism>
+./EU917304.xml:  <GBSeq_organism>Streptococcus vestibularis ATCC 49124</GBSeq_organism>
+./EU917312.xml:  <GBSeq_organism>Streptococcus castoreus</GBSeq_organism>
+./EU917260.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./EU917313.xml:  <GBSeq_organism>Streptococcus marimammalium</GBSeq_organism>
+./EU917251.xml:  <GBSeq_organism>Streptococcus anginosus SK52 = DSM 20563</GBSeq_organism>
+./EU917232.xml:  <GBSeq_organism>Streptococcus hyovaginalis</GBSeq_organism>
+./EU917297.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./EU917293.xml:  <GBSeq_organism>Streptococcus parauberis</GBSeq_organism>
+./EU917275.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./EU917239.xml:  <GBSeq_organism>Streptococcus salivarius</GBSeq_organism>
+./EU917314.xml:  <GBSeq_organism>Streptococcus pseudopneumoniae ATCC BAA-960</GBSeq_organism>
+./EU917292.xml:  <GBSeq_organism>Streptococcus parasanguinis</GBSeq_organism>
+./EU917294.xml:  <GBSeq_organism>Streptococcus peroris ATCC 700780</GBSeq_organism>
+./EU917263.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./EU917280.xml:  <GBSeq_organism>Streptococcus infantis ATCC 700779</GBSeq_organism>
+./EU917266.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./EU917228.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>
+./EU917236.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./EU917285.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./EU917226.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./EU917296.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./EU917306.xml:  <GBSeq_organism>Streptococcus devriesei</GBSeq_organism>
+./EU917315.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>

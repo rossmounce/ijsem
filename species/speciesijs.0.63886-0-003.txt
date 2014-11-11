@@ -1,0 +1,13 @@
+./X16932.xml:  <GBSeq_organism>Methanosaeta concilii</GBSeq_organism>
+./AF432127.xml:  <GBSeq_organism>Methanosarcina lacustris</GBSeq_organism>
+./DQ136171.xml:  <GBSeq_organism>Methanococcus aeolicus</GBSeq_organism>
+./U20149.xml:  <GBSeq_organism>Methanohalobium evestigatum Z-7303</GBSeq_organism>
+./DQ058823.xml:  <GBSeq_organism>Methanosarcina lacustris</GBSeq_organism>
+./AY941802.xml:  <GBSeq_organism>Methanococcoides alaskense</GBSeq_organism>
+./U20155.xml:  <GBSeq_organism>Methanolobus vulcani</GBSeq_organism>
+./AJ238648.xml:  <GBSeq_organism>Methanosarcina baltica</GBSeq_organism>
+./M59133.xml:  <GBSeq_organism>Methanohalophilus mahii DSM 5219</GBSeq_organism>
+./AY663809.xml:  <GBSeq_organism>Methanosarcina baltica</GBSeq_organism>
+./AY941801.xml:  <GBSeq_organism>Methanococcoides alaskense</GBSeq_organism>
+./X65537.xml:  <GBSeq_organism>Methanococcoides burtonii</GBSeq_organism>
+./M59127.xml:  <GBSeq_organism>Methanococcoides methylutens</GBSeq_organism>

@@ -1,0 +1,17 @@
+./AM491809.xml:  <GBSeq_organism>Algibacter mikhailovii</GBSeq_organism>
+./AY694008.xml:  <GBSeq_organism>Gillisia illustrilutea</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AY576655.xml:  <GBSeq_organism>Gillisia mitskevichiae</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./EF520007.xml:  <GBSeq_organism>Salinimicrobium xinjiangense</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./DQ367409.xml:  <GBSeq_organism>Mesonia mobilis DSM 19841</GBSeq_organism>
+./DQ640642.xml:  <GBSeq_organism>Salinimicrobium catena</GBSeq_organism>
+./AF513434.xml:  <GBSeq_organism>Psychroflexus tropicus</GBSeq_organism>
+./EU135614.xml:  <GBSeq_organism>Salinimicrobium terrae</GBSeq_organism>

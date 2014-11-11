@@ -1,0 +1,5 @@
+./GO504012.xml:  <GBSeq_organism>Malus domestica</GBSeq_organism>
+./AM940158.xml:  <GBSeq_organism>Leucobacter tardus</GBSeq_organism>
+./GU390657.xml:  <GBSeq_organism>Leucobacter chromiiresistens JG 31</GBSeq_organism>
+./AJ781047.xml:  <GBSeq_organism>Leucobacter aridicollis</GBSeq_organism>
+./FN597581.xml:  <GBSeq_organism>Leucobacter aerolatus</GBSeq_organism>

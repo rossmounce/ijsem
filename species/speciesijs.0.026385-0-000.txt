@@ -1,0 +1,23 @@
+./AB540150.xml:  <GBSeq_organism>Gluconobacter nephelii</GBSeq_organism>
+./AB111901.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AB540146.xml:  <GBSeq_organism>Gluconobacter nephelii</GBSeq_organism>
+./X82290.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./AB178392.xml:  <GBSeq_organism>Gluconobacter albidus</GBSeq_organism>
+./AB111902.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AB459532.xml:  <GBSeq_organism>Gluconobacter kanchanaburiensis</GBSeq_organism>
+./AB163867.xml:  <GBSeq_organism>Gluconobacter sphaericus</GBSeq_organism>
+./AB163865.xml:  <GBSeq_organism>Gluconobacter roseus</GBSeq_organism>
+./AB111899.xml:  <GBSeq_organism>Gluconobacter cerinus</GBSeq_organism>
+./AB111898.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./AB540149.xml:  <GBSeq_organism>Gluconobacter nephelii</GBSeq_organism>
+./AB162710.xml:  <GBSeq_organism>Gluconobacter albidus</GBSeq_organism>
+./AB162712.xml:  <GBSeq_organism>Gluconobacter kondonii</GBSeq_organism>
+./AB459530.xml:  <GBSeq_organism>Gluconobacter kanchanaburiensis</GBSeq_organism>
+./AB162709.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./AB127941.xml:  <GBSeq_organism>Gluconobacter thailandicus F149-1 = NBRC 100600</GBSeq_organism>
+./AB176405.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB253435.xml:  <GBSeq_organism>Gluconobacter japonicus</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AB178429.xml:  <GBSeq_organism>Gluconobacter roseus</GBSeq_organism>
+./AB178431.xml:  <GBSeq_organism>Gluconobacter sphaericus</GBSeq_organism>

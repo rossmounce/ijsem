@@ -1,0 +1,9 @@
+./AJ854484.xml:  <GBSeq_organism>Catellicoccus marimammalium M35/04/3</GBSeq_organism>
+./AF286832.xml:  <GBSeq_organism>Enterococcus haemoperoxidus</GBSeq_organism>
+./Y18098.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./FJ360897.xml:  <GBSeq_organism>Vagococcus penaei</GBSeq_organism>
+./AJ276355.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AJ243326.xml:  <GBSeq_organism>Vagococcus fessus</GBSeq_organism>
+./Y17152.xml:  <GBSeq_organism>Vagococcus lutrae</GBSeq_organism>
+./AF445297.xml:  <GBSeq_organism>Vagococcus elongatus</GBSeq_organism>
+./AB012212.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>

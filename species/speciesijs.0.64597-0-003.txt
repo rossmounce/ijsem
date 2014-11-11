@@ -1,0 +1,25 @@
+./X99570.xml:  <GBSeq_organism>Thermococcus chitonophagus</GBSeq_organism>
+./AF479014.xml:  <GBSeq_organism>Thermococcus gammatolerans EJ3</GBSeq_organism>
+./U76534.xml:  <GBSeq_organism>Thermococcus zilligii AN1</GBSeq_organism>
+./Y08384.xml:  <GBSeq_organism>Thermococcus aggregans</GBSeq_organism>
+./U76535.xml:  <GBSeq_organism>Thermococcus barossii</GBSeq_organism>
+./M21529.xml:  <GBSeq_organism>Thermococcus celer</GBSeq_organism>
+./AY099187.xml:  <GBSeq_organism>Thermococcus waiotapuensis</GBSeq_organism>
+./Z75240.xml:  <GBSeq_organism>Thermococcus stetteri</GBSeq_organism>
+./U20163.xml:  <GBSeq_organism>Pyrococcus furiosus</GBSeq_organism>
+./D38650.xml:  <GBSeq_organism>Thermococcus kodakarensis KOD1</GBSeq_organism>
+./AB055123.xml:  <GBSeq_organism>Thermococcus gorgonarius</GBSeq_organism>
+./AY099182.xml:  <GBSeq_organism>Thermococcus pacificus</GBSeq_organism>
+./AY099180.xml:  <GBSeq_organism>Thermococcus litoralis</GBSeq_organism>
+./AB107768.xml:  <GBSeq_organism>Thermococcus celericrescens</GBSeq_organism>
+./AB055120.xml:  <GBSeq_organism>Thermococcus acidaminovorans</GBSeq_organism>
+./U82237.xml:  <GBSeq_organism>Thermococcus barophilus</GBSeq_organism>
+./AB107767.xml:  <GBSeq_organism>Thermococcus coalescens</GBSeq_organism>
+./Z70244.xml:  <GBSeq_organism>Thermococcus hydrothermalis</GBSeq_organism>
+./AY099171.xml:  <GBSeq_organism>Thermococcus aegaeus</GBSeq_organism>
+./AB055125.xml:  <GBSeq_organism>Thermococcus peptonophilus JCM 9653</GBSeq_organism>
+./AB055121.xml:  <GBSeq_organism>Thermococcus alcaliphilus</GBSeq_organism>
+./Z75233.xml:  <GBSeq_organism>Thermococcus profundus</GBSeq_organism>
+./AY099176.xml:  <GBSeq_organism>Thermococcus fumicolans</GBSeq_organism>
+./AY099185.xml:  <GBSeq_organism>Thermococcus siculi</GBSeq_organism>
+./AY099178.xml:  <GBSeq_organism>Thermococcus guaymasensis</GBSeq_organism>

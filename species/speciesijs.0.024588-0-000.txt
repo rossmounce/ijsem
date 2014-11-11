@@ -1,0 +1,13 @@
+./AJ549285.xml:  <GBSeq_organism>Hymenobacter norwichensis</GBSeq_organism>
+./EU682684.xml:  <GBSeq_organism>Adhaeribacter terreus</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./EU370958.xml:  <GBSeq_organism>Hymenobacter daecheongensis</GBSeq_organism>
+./EU155008.xml:  <GBSeq_organism>Hymenobacter aerophilus</GBSeq_organism>
+./Y18836.xml:  <GBSeq_organism>Hymenobacter gelipurpurascens</GBSeq_organism>
+./AM049256.xml:  <GBSeq_organism>Pontibacter roseus</GBSeq_organism>
+./GO131579.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./Y18835.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>
+./GU808562.xml:  <GBSeq_organism>Hymenobacter yonginensis</GBSeq_organism>
+./EU325941.xml:  <GBSeq_organism>Hymenobacter deserti</GBSeq_organism>

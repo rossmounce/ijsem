@@ -1,0 +1,10 @@
+./AB428892.xml:  <GBSeq_organism>Photobacterium aquimaris</GBSeq_organism>
+./M63594.xml:  <GBSeq_organism>Photobacterium leiognathi</GBSeq_organism>
+./AY341063.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AY341065.xml:  <GBSeq_organism>Photobacterium kishitanii</GBSeq_organism>
+./AY341062.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>
+./AY341067.xml:  <GBSeq_organism>Photobacterium mandapamensis</GBSeq_organism>
+./AY849486.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AY341066.xml:  <GBSeq_organism>Photobacterium mandapamensis</GBSeq_organism>
+./AY341064.xml:  <GBSeq_organism>Photobacterium kishitanii</GBSeq_organism>
+./AB428891.xml:  <GBSeq_organism>Photobacterium aquimaris</GBSeq_organism>

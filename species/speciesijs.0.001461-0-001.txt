@@ -1,0 +1,23 @@
+./AJ306886.xml:  <GBSeq_organism>Halomonas variabilis</GBSeq_organism>
+./AJ306877.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AJ306873.xml:  <GBSeq_organism>Chromohalobacter salexigens DSM 3043</GBSeq_organism>
+./AJ306884.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./AJ306881.xml:  <GBSeq_organism>Halomonas meridiana</GBSeq_organism>
+./AM941753.xml:  <GBSeq_organism>Kushneria marisflavi</GBSeq_organism>
+./AM941754.xml:  <GBSeq_organism>Kushneria indalinina</GBSeq_organism>
+./AJ306871.xml:  <GBSeq_organism>Chromohalobacter israelensis</GBSeq_organism>
+./AJ306875.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./AJ306887.xml:  <GBSeq_organism>Halomonas venusta</GBSeq_organism>
+./AJ306883.xml:  <GBSeq_organism>Halomonas pantelleriensis</GBSeq_organism>
+./AJ306870.xml:  <GBSeq_organism>Chromohalobacter canadensis</GBSeq_organism>
+./AJ306879.xml:  <GBSeq_organism>Halomonas halmophila</GBSeq_organism>
+./AJ306880.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./AM941755.xml:  <GBSeq_organism>Kushneria avicenniae</GBSeq_organism>
+./AJ306872.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./AJ306876.xml:  <GBSeq_organism>Halomonas desiderata</GBSeq_organism>
+./AJ306885.xml:  <GBSeq_organism>Halomonas subglaciescola</GBSeq_organism>
+./AF211871.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./AJ306882.xml:  <GBSeq_organism>Halomonas pacifica</GBSeq_organism>
+./AM941756.xml:  <GBSeq_organism>Kushneria aurantia</GBSeq_organism>
+./AJ306878.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./AJ306874.xml:  <GBSeq_organism>Halomonas aquamarina</GBSeq_organism>

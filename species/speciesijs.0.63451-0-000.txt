@@ -1,0 +1,13 @@
+./AB182483.xml:  <GBSeq_organism>Prevotella multiformis DSM 16608</GBSeq_organism>
+./L16473.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>
+./AB182485.xml:  <GBSeq_organism>Prevotella multiformis</GBSeq_organism>
+./AF414821.xml:  <GBSeq_organism>Prevotella intermedia ATCC 25611 = DSM 20706</GBSeq_organism>
+./L16474.xml:  <GBSeq_organism>Prevotella oris</GBSeq_organism>
+./AJ005634.xml:  <GBSeq_organism>Prevotella tannerae ATCC 51259</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./L16475.xml:  <GBSeq_organism>Prevotella bivia</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./AB182486.xml:  <GBSeq_organism>Prevotella multiformis</GBSeq_organism>
+./AY323524.xml:  <GBSeq_organism>Prevotella denticola</GBSeq_organism>
+./AF414833.xml:  <GBSeq_organism>Prevotella nigrescens ATCC 33563</GBSeq_organism>
+./AB182484.xml:  <GBSeq_organism>Prevotella multiformis</GBSeq_organism>

@@ -1,0 +1,8 @@
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./EU021217.xml:  <GBSeq_organism>Bizionia argentinensis JUB59</GBSeq_organism>
+./AY694004.xml:  <GBSeq_organism>Bizionia gelidisalsuginis</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY694002.xml:  <GBSeq_organism>Bizionia myxarmorum</GBSeq_organism>
+./AY694003.xml:  <GBSeq_organism>Bizionia algoritergicola</GBSeq_organism>
+./AY694005.xml:  <GBSeq_organism>Bizionia saleffrena</GBSeq_organism>
+./FJ716799.xml:  <GBSeq_organism>Bizionia echini</GBSeq_organism>

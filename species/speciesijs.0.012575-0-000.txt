@@ -1,0 +1,29 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./EF204446.xml:  <GBSeq_organism>Chryseobacterium bovis DSM 19482</GBSeq_organism>
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./AY553294.xml:  <GBSeq_organism>Chryseobacterium jeonii</GBSeq_organism>
+./AM159183.xml:  <GBSeq_organism>Chryseobacterium hispanicum</GBSeq_organism>
+./EF204451.xml:  <GBSeq_organism>Chryseobacterium oranimense</GBSeq_organism>
+./EF591302.xml:  <GBSeq_organism>Chryseobacterium soli</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ704540.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./AM232809.xml:  <GBSeq_organism>Chryseobacterium pallidum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./AM261868.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./AJ534853.xml:  <GBSeq_organism>Chryseobacterium molle</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./EF554366.xml:  <GBSeq_organism>Chryseobacterium marinum</GBSeq_organism>
+./AM748690.xml:  <GBSeq_organism>Chryseobacterium aquaticum</GBSeq_organism>
+./AM040439.xml:  <GBSeq_organism>Chryseobacterium piscium</GBSeq_organism>
+./AB193101.xml:  <GBSeq_organism>Chryseobacterium shigense</GBSeq_organism>
+./EF554408.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./U10877.xml:  <GBSeq_organism>Riemerella anatipestifer ATCC 11845 = DSM 15868</GBSeq_organism>
+./AY553293.xml:  <GBSeq_organism>Chryseobacterium antarcticum</GBSeq_organism>
+./AM773820.xml:  <GBSeq_organism>Chryseobacterium gregarium DSM 19109</GBSeq_organism>
+./EF204450.xml:  <GBSeq_organism>Chryseobacterium haifense</GBSeq_organism>
+./AM232810.xml:  <GBSeq_organism>Chryseobacterium gambrini</GBSeq_organism>
+./AF493696.xml:  <GBSeq_organism>Epilithonimonas tenax</GBSeq_organism>
+./EF204460.xml:  <GBSeq_organism>Epilithonimonas lactis</GBSeq_organism>
+./AY315443.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>

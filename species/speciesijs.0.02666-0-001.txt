@@ -1,0 +1,5 @@
+./AB002510.xml:  <GBSeq_organism>Streptococcus dysgalactiae</GBSeq_organism>
+./AB002512.xml:  <GBSeq_organism>Streptococcus dysgalactiae</GBSeq_organism>
+./AB096746.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. equisimilis</GBSeq_organism>
+./AB093741.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AB096740.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae</GBSeq_organism>

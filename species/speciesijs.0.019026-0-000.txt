@@ -1,0 +1,29 @@
+./AJ233412.xml:  <GBSeq_organism>Dickeya chrysanthemi</GBSeq_organism>
+./AM774412.xml:  <GBSeq_organism>Biostraticola tofi</GBSeq_organism>
+./AY508816.xml:  <GBSeq_organism>Nicoletella semolina</GBSeq_organism>
+./AY362927.xml:  <GBSeq_organism>Bibersteinia trehalosi</GBSeq_organism>
+./AF493976.xml:  <GBSeq_organism>Cedecea davisae DSM 4568</GBSeq_organism>
+./M75080.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./AJ233423.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./M75059.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./AJ251489.xml:  <GBSeq_organism>Todaropsis eblanae</GBSeq_organism>
+./X74704.xml:  <GBSeq_organism>Vibrio furnissii</GBSeq_organism>
+./AM040754.xml:  <GBSeq_organism>Moellerella wisconsensis</GBSeq_organism>
+./AY216868.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./Y17189.xml:  <GBSeq_organism>Lonepinella koalarum</GBSeq_organism>
+./AF549387.xml:  <GBSeq_organism>Histophilus somni</GBSeq_organism>
+./AJ233420.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AJ233407.xml:  <GBSeq_organism>Budvicia aquatica DSM 5075 = ATCC 35567</GBSeq_organism>
+./X96966.xml:  <GBSeq_organism>Shigella dysenteriae</GBSeq_organism>
+./AJ233419.xml:  <GBSeq_organism>Brenneria salicis ATCC 15712</GBSeq_organism>
+./AJ233431.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./AJ233421.xml:  <GBSeq_organism>Leminorella grimontii ATCC 33999 = DSM 5078</GBSeq_organism>
+./AJ233411.xml:  <GBSeq_organism>Pectobacterium carotovorum</GBSeq_organism>
+./AF366383.xml:  <GBSeq_organism>Yersinia pestis</GBSeq_organism>
+./M75039.xml:  <GBSeq_organism>Aggregatibacter actinomycetemcomitans</GBSeq_organism>
+./AJ301681.xml:  <GBSeq_organism>Morganella morganii subsp. morganii</GBSeq_organism>
+./X89379.xml:  <GBSeq_organism>Phocoenobacter uteri</GBSeq_organism>
+./M35019.xml:  <GBSeq_organism>Haemophilus influenzae</GBSeq_organism>
+./AJ233425.xml:  <GBSeq_organism>Proteus vulgaris</GBSeq_organism>
+./AY362892.xml:  <GBSeq_organism>Actinobacillus lignieresii</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>

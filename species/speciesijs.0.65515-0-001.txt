@@ -1,0 +1,10 @@
+./AJ277984.xml:  <GBSeq_organism>Psychrobacillus psychrodurans</GBSeq_organism>
+./X91080.xml:  <GBSeq_organism>Sulfobacillus thermosulfidooxidans DSM 9293</GBSeq_organism>
+./AY266991.xml:  <GBSeq_organism>Viridibacillus arvi</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./AJ250059.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>
+./AJ277983.xml:  <GBSeq_organism>Psychrobacillus psychrotolerans</GBSeq_organism>
+./X60635.xml:  <GBSeq_organism>Bacillus psychrosaccharolyticus ATCC 23296</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AM773821.xml:  <GBSeq_organism>Bacillus cecembensis</GBSeq_organism>
+./AY793550.xml:  <GBSeq_organism>Bacillus lehensis</GBSeq_organism>

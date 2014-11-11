@@ -1,0 +1,13 @@
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./AM934651.xml:  <GBSeq_organism>Flavobacterium swingsii</GBSeq_organism>
+./GU564236.xml:  <GBSeq_organism>Flavobacterium phragmitis</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./AM230490.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./EF575563.xml:  <GBSeq_organism>Flavobacterium resistens</GBSeq_organism>
+./DQ178976.xml:  <GBSeq_organism>Flavobacterium soli</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./AB078060.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./EU924275.xml:  <GBSeq_organism>Flavobacterium chungangense</GBSeq_organism>
+./AM230492.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>

@@ -1,0 +1,7 @@
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AF027098.xml:  <GBSeq_organism>uncultured Aquificales bacterium OPB13</GBSeq_organism>
+./AF255597.xml:  <GBSeq_organism>Aquificales str. SRI-240</GBSeq_organism>
+./AF188332.xml:  <GBSeq_organism>Persephonella marina EX-H1</GBSeq_organism>
+./AF255598.xml:  <GBSeq_organism>Aquificales str. SRI-40</GBSeq_organism>
+./AF385630.xml:  <GBSeq_organism>Persephonella guaymasensis</GBSeq_organism>
+./AF068791.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac10</GBSeq_organism>

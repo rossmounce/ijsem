@@ -1,0 +1,15 @@
+./EF028328.xml:  <GBSeq_organism>Marinobacter salsuginis SD-14B</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./DQ414419.xml:  <GBSeq_organism>Marinobacter gudaonensis</GBSeq_organism>
+./DQ060402.xml:  <GBSeq_organism>Marinobacter psychrophilus</GBSeq_organism>
+./AJ704395.xml:  <GBSeq_organism>Marinobacter maritimus</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./DQ325514.xml:  <GBSeq_organism>Marinobacter koreensis</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY517633.xml:  <GBSeq_organism>Marinobacter daepoensis</GBSeq_organism>
+./AJ609270.xml:  <GBSeq_organism>Marinobacter sediminum</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AY517632.xml:  <GBSeq_organism>Marinobacter flavimaris</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./AY258110.xml:  <GBSeq_organism>Marinobacter algicola DG893</GBSeq_organism>
+./DQ235263.xml:  <GBSeq_organism>Marinobacter vinifirmus</GBSeq_organism>

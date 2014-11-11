@@ -1,0 +1,14 @@
+./AY598817.xml:  <GBSeq_organism>Hoeflea marina</GBSeq_organism>
+./AY341343.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AY786080.xml:  <GBSeq_organism>Phyllobacterium trifolii</GBSeq_organism>
+./AY628423.xml:  <GBSeq_organism>Labrenzia marina</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./AJ786600.xml:  <GBSeq_organism>Hoeflea alexandrii</GBSeq_organism>
+./DQ364238.xml:  <GBSeq_organism>Hoeflea anabaenae</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AJ582088.xml:  <GBSeq_organism>Hoeflea phototrophica DFL-43</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>

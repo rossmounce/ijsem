@@ -1,0 +1,15 @@
+./U68556.xml:  <GBSeq_organism>Saccharomyces dairenensis</GBSeq_organism>
+./U69580.xml:  <GBSeq_organism>Kluyveromyces blattae</GBSeq_organism>
+./U72163.xml:  <GBSeq_organism>Zygosaccharomyces rouxii</GBSeq_organism>
+./AF398488.xml:  <GBSeq_organism>Tetrapisispora arboricola</GBSeq_organism>
+./AF398482.xml:  <GBSeq_organism>Kazachstania viticola</GBSeq_organism>
+./U72156.xml:  <GBSeq_organism>Torulaspora delbrueckii</GBSeq_organism>
+./U69581.xml:  <GBSeq_organism>Lachancea thermotolerans</GBSeq_organism>
+./U69576.xml:  <GBSeq_organism>Nakaseomyces delphensis</GBSeq_organism>
+./U72159.xml:  <GBSeq_organism>Zygotorulaspora mrakii</GBSeq_organism>
+./U68548.xml:  <GBSeq_organism>Kluyveromyces polysporus</GBSeq_organism>
+./AF398487.xml:  <GBSeq_organism>Tetrapisispora nanseiensis</GBSeq_organism>
+./AB180480.xml:  <GBSeq_organism>Tetrapisispora namnaoensis</GBSeq_organism>
+./U45776.xml:  <GBSeq_organism>Candida albicans</GBSeq_organism>
+./U44806.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./AF398489.xml:  <GBSeq_organism>Tetrapisispora iriomotensis</GBSeq_organism>

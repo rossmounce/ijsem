@@ -1,0 +1,21 @@
+./AJ558222.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AJ558233.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./EF204597.xml:  <GBSeq_organism>Helicobacter suis HS1</GBSeq_organism>
+./EF070341.xml:  <GBSeq_organism>Helicobacter cynogastricus</GBSeq_organism>
+./AJ558223.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558219.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AJ558226.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558225.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558231.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AJ558230.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AJ558220.xml:  <GBSeq_organism>Helicobacter acinonychis</GBSeq_organism>
+./AJ558232.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AJ558221.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AJ558235.xml:  <GBSeq_organism>Helicobacter bizzozeronii CCUG 35545</GBSeq_organism>
+./AJ558228.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./AJ558229.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AJ558224.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558227.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./EF204598.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AJ558234.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./EF070344.xml:  <GBSeq_organism>Helicobacter baculiformis</GBSeq_organism>

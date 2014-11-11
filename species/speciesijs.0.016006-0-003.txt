@@ -1,0 +1,7 @@
+./U71069.xml:  <GBSeq_organism>Candida rugopelliculosa</GBSeq_organism>
+./EF550235.xml:  <GBSeq_organism>Candida pseudolambica</GBSeq_organism>
+./EU876854.xml:  <GBSeq_organism>Candida sp. G15</GBSeq_organism>
+./EF550237.xml:  <GBSeq_organism>Issatchenkia scutulata var. exigua</GBSeq_organism>
+./EF550227.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./EF550243.xml:  <GBSeq_organism>Issatchenkia scutulata var. scutulata</GBSeq_organism>
+./EF550236.xml:  <GBSeq_organism>Pichia occidentalis</GBSeq_organism>

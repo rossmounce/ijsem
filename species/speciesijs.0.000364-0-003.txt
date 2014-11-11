@@ -1,0 +1,8 @@
+./EU379932.xml:  <GBSeq_organism>Pyramidobacter piscolens W5455</GBSeq_organism>
+./U32697.xml:  <GBSeq_organism>Haemophilus influenzae Rd KW20</GBSeq_organism>
+./EU840723.xml:  <GBSeq_organism>Synergistes jonesii</GBSeq_organism>
+./J01695.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AJ307974.xml:  <GBSeq_organism>Fusobacterium nucleatum</GBSeq_organism>
+./AJ307978.xml:  <GBSeq_organism>Propionigenium modestum</GBSeq_organism>
+./EU840722.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./M94261.xml:  <GBSeq_organism>Clostridium botulinum</GBSeq_organism>

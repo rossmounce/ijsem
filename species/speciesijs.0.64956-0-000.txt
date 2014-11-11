@@ -1,0 +1,26 @@
+./AY743280.xml:  <GBSeq_organism>Deinococcus papagonensis</GBSeq_organism>
+./DQ344634.xml:  <GBSeq_organism>Deinococcus yunweiensis</GBSeq_organism>
+./Y11333.xml:  <GBSeq_organism>Deinococcus radiophilus</GBSeq_organism>
+./Y13038.xml:  <GBSeq_organism>Deinococcus geothermalis DSM 11300</GBSeq_organism>
+./AJ585986.xml:  <GBSeq_organism>Deinococcus marmoris</GBSeq_organism>
+./EF141348.xml:  <GBSeq_organism>Deinococcus peraridilitoris DSM 19664</GBSeq_organism>
+./AY743256.xml:  <GBSeq_organism>Deinococcus hohokamensis</GBSeq_organism>
+./AY743262.xml:  <GBSeq_organism>Deinococcus hopiensis KR-140</GBSeq_organism>
+./AY743264.xml:  <GBSeq_organism>Deinococcus apachensis</GBSeq_organism>
+./AY743274.xml:  <GBSeq_organism>Deinococcus maricopensis DSM 21211</GBSeq_organism>
+./Y11329.xml:  <GBSeq_organism>Deinococcus grandis</GBSeq_organism>
+./AY941086.xml:  <GBSeq_organism>Deinococcus ficus</GBSeq_organism>
+./AY743259.xml:  <GBSeq_organism>Deinococcus navajonensis</GBSeq_organism>
+./Y13041.xml:  <GBSeq_organism>Deinococcus murrayi</GBSeq_organism>
+./DQ022076.xml:  <GBSeq_organism>Truepera radiovictrix DSM 17093</GBSeq_organism>
+./AY743279.xml:  <GBSeq_organism>Deinococcus yavapaiensis KR-236</GBSeq_organism>
+./Y11334.xml:  <GBSeq_organism>Deinococcus radiopugnans ATCC 19172</GBSeq_organism>
+./AJ585981.xml:  <GBSeq_organism>Deinococcus frigens</GBSeq_organism>
+./EF141349.xml:  <GBSeq_organism>Deinococcus peraridilitoris</GBSeq_organism>
+./AY743283.xml:  <GBSeq_organism>Deinococcus sonorensis KR-87</GBSeq_organism>
+./AJ585984.xml:  <GBSeq_organism>Deinococcus saxicola</GBSeq_organism>
+./AY743277.xml:  <GBSeq_organism>Deinococcus pimensis</GBSeq_organism>
+./AY876378.xml:  <GBSeq_organism>Deinococcus deserti VCD115</GBSeq_organism>
+./AJ549111.xml:  <GBSeq_organism>Deinococcus indicus</GBSeq_organism>
+./Y11332.xml:  <GBSeq_organism>Deinococcus radiodurans</GBSeq_organism>
+./Y11331.xml:  <GBSeq_organism>Deinococcus proteolyticus MRP</GBSeq_organism>

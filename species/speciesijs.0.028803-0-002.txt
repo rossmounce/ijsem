@@ -1,0 +1,27 @@
+./HQ259502.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6069</GBSeq_organism>
+./HQ259521.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6099</GBSeq_organism>
+./HQ259520.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6077</GBSeq_organism>
+./HQ259526.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6434</GBSeq_organism>
+./HQ259497.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259507.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6192</GBSeq_organism>
+./HQ259511.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259506.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6156</GBSeq_organism>
+./HQ259525.xml:  <GBSeq_organism>Bradyrhizobium yuanmingense</GBSeq_organism>
+./HQ259517.xml:  <GBSeq_organism>Bradyrhizobium diazoefficiens SEMIA 5080</GBSeq_organism>
+./HO259510.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259493.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259494.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 656</GBSeq_organism>
+./HQ259518.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6028</GBSeq_organism>
+./HQ259509.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6440</GBSeq_organism>
+./HQ259492.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259524.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6160</GBSeq_organism>
+./HQ259504.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6101</GBSeq_organism>
+./HQ259503.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6093</GBSeq_organism>
+./HQ259515.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259513.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HO259514.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259523.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6152</GBSeq_organism>
+./HQ259495.xml:  <GBSeq_organism>Bradyrhizobium canariense</GBSeq_organism>
+./HQ259498.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259516.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./HO259522.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>

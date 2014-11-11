@@ -1,0 +1,10 @@
+./AY134472.xml:  <GBSeq_organism>Palaeococcus helgesonii</GBSeq_organism>
+./M35966.xml:  <GBSeq_organism>Thermoproteus tenax</GBSeq_organism>
+./AF068815.xml:  <GBSeq_organism>uncultured archaeon VC2.1 Arc4</GBSeq_organism>
+./X05567.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./M21529.xml:  <GBSeq_organism>Thermococcus celer</GBSeq_organism>
+./AF418181.xml:  <GBSeq_organism>Archaeoglobus veneficus</GBSeq_organism>
+./AF547621.xml:  <GBSeq_organism>Methanocaldococcus indicus</GBSeq_organism>
+./AF322392.xml:  <GBSeq_organism>Archaeoglobus profundus</GBSeq_organism>
+./FJ216404.xml:  <GBSeq_organism>Geoglobus acetivorans</GBSeq_organism>
+./AJ299218.xml:  <GBSeq_organism>Archaeoglobus lithotrophicus</GBSeq_organism>

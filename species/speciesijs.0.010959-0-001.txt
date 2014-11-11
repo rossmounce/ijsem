@@ -1,0 +1,10 @@
+./DQ143915.xml:  <GBSeq_organism>Psychrobacter proteolyticus</GBSeq_organism>
+./DQ143921.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./DQ143927.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AB490500.xml:  <GBSeq_organism>Psychrobacter aquimaris</GBSeq_organism>
+./DQ143914.xml:  <GBSeq_organism>Psychrobacter pacificensis</GBSeq_organism>
+./DQ143925.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./DQ143922.xml:  <GBSeq_organism>Psychrobacter cryohalolentis K5</GBSeq_organism>
+./DQ143916.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./AB490498.xml:  <GBSeq_organism>Psychrobacter piscatorii</GBSeq_organism>
+./AB490499.xml:  <GBSeq_organism>Psychrobacter nivimaris</GBSeq_organism>

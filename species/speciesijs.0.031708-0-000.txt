@@ -1,0 +1,18 @@
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./HM165235.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./AB477986.xml:  <GBSeq_organism>Haladaptatus paucihalophilus DX253</GBSeq_organism>
+./AB477227.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AB477223.xml:  <GBSeq_organism>Halalkalicoccus jeotgali B3</GBSeq_organism>
+./CP001860.xml:  <GBSeq_organism>Haloterrigena turkmenica DSM 5511</GBSeq_organism>
+./AB477974.xml:  <GBSeq_organism>Halopiger xanaduensis SH-6</GBSeq_organism>
+./AB477982.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./AB477231.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./CR936257.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./AB477975.xml:  <GBSeq_organism>Haloplanus natans</GBSeq_organism>
+./AB477981.xml:  <GBSeq_organism>Natronococcus occultus SP4</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>
+./AF333760.xml:  <GBSeq_organism>Halobiforma haloterrestris</GBSeq_organism>

@@ -1,0 +1,19 @@
+./U75730.xml:  <GBSeq_organism>Pichia norvegensis</GBSeq_organism>
+./U75735.xml:  <GBSeq_organism>Pichia barkeri</GBSeq_organism>
+./U75734.xml:  <GBSeq_organism>Pichia deserticola</GBSeq_organism>
+./EU747342.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./EU747340.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./EU747338.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./EU747347.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./EU747343.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./U71062.xml:  <GBSeq_organism>Candida inconspicua</GBSeq_organism>
+./U75737.xml:  <GBSeq_organism>Pichia kluyveri var. cephalocereana</GBSeq_organism>
+./U75731.xml:  <GBSeq_organism>Pichia cactophila</GBSeq_organism>
+./U75727.xml:  <GBSeq_organism>Pichia kluyveri var. kluyveri</GBSeq_organism>
+./U75732.xml:  <GBSeq_organism>Pichia pseudocactophila</GBSeq_organism>
+./U75733.xml:  <GBSeq_organism>Pichia heedii</GBSeq_organism>
+./EU747339.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./U75728.xml:  <GBSeq_organism>Pichia nakasei</GBSeq_organism>
+./U75736.xml:  <GBSeq_organism>Pichia kluyveri var. eremophila</GBSeq_organism>
+./EU747345.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>
+./EU747346.xml:  <GBSeq_organism>Pichia insulana</GBSeq_organism>

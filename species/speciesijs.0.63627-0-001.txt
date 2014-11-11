@@ -1,0 +1,20 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AY150578.xml:  <GBSeq_organism>symbiont LP3 of Lyrodus pedicellatus</GBSeq_organism>
+./AY532642.xml:  <GBSeq_organism>Candidatus Endobugula glebosa</GBSeq_organism>
+./AJ620879.xml:  <GBSeq_organism>Microbulbifer cystodytense</GBSeq_organism>
+./AF102866.xml:  <GBSeq_organism>unclassified Pseudomonadales</GBSeq_organism>
+./AJ289160.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./AF006608.xml:  <GBSeq_organism>Candidatus Endobugula sertula</GBSeq_organism>
+./AY150184.xml:  <GBSeq_organism>symbiont LP2 of Lyrodus pedicellatus</GBSeq_organism>
+./AJ510266.xml:  <GBSeq_organism>Microbulbifer arenaceous</GBSeq_organism>
+./AF006606.xml:  <GBSeq_organism>Candidatus Endobugula sertula</GBSeq_organism>
+./AB167354.xml:  <GBSeq_organism>Microbulbifer variabilis</GBSeq_organism>
+./AF328762.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AB015541.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AF006607.xml:  <GBSeq_organism>Candidatus Endobugula sertula</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>
+./AY150183.xml:  <GBSeq_organism>symbiont LP1 of Lyrodus pedicellatus</GBSeq_organism>

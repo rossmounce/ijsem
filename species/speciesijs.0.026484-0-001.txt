@@ -1,0 +1,6 @@
+./AF217264.xml:  <GBSeq_organism>Rhizobium giardinii bv. phaseoli</GBSeq_organism>
+./FJ596038.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./X87578.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./X98514.xml:  <GBSeq_organism>Rhizobium leucaenae</GBSeq_organism>
+./Y00548.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae 248</GBSeq_organism>
+./GU211769.xml:  <GBSeq_organism>Rhizobium vallis</GBSeq_organism>

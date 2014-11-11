@@ -1,0 +1,11 @@
+./U91515.xml:  <GBSeq_organism>Candidatus Phlomobacter fragariae</GBSeq_organism>
+./L22533.xml:  <GBSeq_organism>Candidatus Liberibacter africanus</GBSeq_organism>
+./AY513503.xml:  <GBSeq_organism>Afipia felis</GBSeq_organism>
+./AB008366.xml:  <GBSeq_organism>Liberobacter sp. Okinawa-7</GBSeq_organism>
+./AY742824.xml:  <GBSeq_organism>Candidatus Liberibacter americanus</GBSeq_organism>
+./X13695.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./L22532.xml:  <GBSeq_organism>Candidatus Liberibacter asiaticus</GBSeq_organism>
+./AB038369.xml:  <GBSeq_organism>Liberibacter endosymbiont of Diaphorina citri</GBSeq_organism>
+./V00348.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AF137368.xml:  <GBSeq_organism>Candidatus Liberibacter africanus subsp. capensis</GBSeq_organism>
+./AY513504.xml:  <GBSeq_organism>Bartonella henselae</GBSeq_organism>

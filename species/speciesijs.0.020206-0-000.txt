@@ -1,0 +1,13 @@
+./AJ289885.xml:  <GBSeq_organism>Limnobacter thiooxidans</GBSeq_organism>
+./AB366172.xml:  <GBSeq_organism>Limnobacter litoralis</GBSeq_organism>
+./AB366178.xml:  <GBSeq_organism>Limnobacter litoralis</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AB366177.xml:  <GBSeq_organism>Limnobacter litoralis</GBSeq_organism>
+./AF191737.xml:  <GBSeq_organism>Cupriavidus necator</GBSeq_organism>
+./AY741342.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AB366174.xml:  <GBSeq_organism>Limnobacter litoralis</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./U96927.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AB366173.xml:  <GBSeq_organism>Limnobacter litoralis</GBSeq_organism>

@@ -1,0 +1,35 @@
+./AJ305320.xml:  <GBSeq_organism>Pediococcus acidilactici DSM 20284</GBSeq_organism>
+./D87677.xml:  <GBSeq_organism>Aerococcus urinaeequi</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./D88528.xml:  <GBSeq_organism>Pediococcus parvulus</GBSeq_organism>
+./Y18191.xml:  <GBSeq_organism>Syntrophococcus sucromutans</GBSeq_organism>
+./M77819.xml:  <GBSeq_organism>Aerococcus urinae</GBSeq_organism>
+./AJ318414.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./AJ301843.xml:  <GBSeq_organism>Tetragenococcus halophilus subsp. halophilus DSM 20339</GBSeq_organism>
+./Y17005.xml:  <GBSeq_organism>Aerococcus christensenii</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./Y17301.xml:  <GBSeq_organism>Trichococcus flocculiformis</GBSeq_organism>
+./AJ271383.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./X95980.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./AJ301842.xml:  <GBSeq_organism>Melissococcus plutonius</GBSeq_organism>
+./AJ012666.xml:  <GBSeq_organism>Dolosicoccus paucivorans</GBSeq_organism>
+./AF292373.xml:  <GBSeq_organism>Olsenella uli DSM 7084</GBSeq_organism>
+./M58797.xml:  <GBSeq_organism>Aerococcus viridans ATCC 11563</GBSeq_organism>
+./D50540.xml:  <GBSeq_organism>Granulicatella adiacens</GBSeq_organism>
+./AB100803.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>
+./AB122035.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. mesenteroides</GBSeq_organism>
+./Y17300.xml:  <GBSeq_organism>Desemzia incerta</GBSeq_organism>
+./Y17780.xml:  <GBSeq_organism>Eremococcus coleocola</GBSeq_organism>
+./Y10772.xml:  <GBSeq_organism>Facklamia hominis</GBSeq_organism>
+./AJ276512.xml:  <GBSeq_organism>Aerococcus sanguinicola</GBSeq_organism>
+./AJ243326.xml:  <GBSeq_organism>Vagococcus fessus</GBSeq_organism>
+./AJ278341.xml:  <GBSeq_organism>Aerococcus urinaehominis</GBSeq_organism>
+./AJ301831.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AJ305321.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./Y16426.xml:  <GBSeq_organism>Ignavigranum ruoffiae</GBSeq_organism>
+./Y17152.xml:  <GBSeq_organism>Vagococcus lutrae</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./D87679.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./AJ621555.xml:  <GBSeq_organism>Pediococcus claussenii</GBSeq_organism>
+./D50541.xml:  <GBSeq_organism>Abiotrophia defectiva ATCC 49176</GBSeq_organism>

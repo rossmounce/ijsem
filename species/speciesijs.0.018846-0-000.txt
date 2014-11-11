@@ -1,0 +1,17 @@
+./AJ557886.xml:  <GBSeq_organism>Flavobacterium degerlachei</GBSeq_organism>
+./EF117329.xml:  <GBSeq_organism>Flavobacterium terrae</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./EF126993.xml:  <GBSeq_organism>Flavobacterium cucumis</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./AM265623.xml:  <GBSeq_organism>Flavobacterium hercynium</GBSeq_organism>
+./AJ854059.xml:  <GBSeq_organism>Myroides odoratimimus</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./AF344179.xml:  <GBSeq_organism>Chryseobacterium koreense</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./DQ372981.xml:  <GBSeq_organism>Flavobacterium filum</GBSeq_organism>
+./AM292800.xml:  <GBSeq_organism>Flavobacterium ceti</GBSeq_organism>
+./EU204978.xml:  <GBSeq_organism>Myroides profundi</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>

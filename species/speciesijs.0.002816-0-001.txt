@@ -1,0 +1,13 @@
+./AF050099.xml:  <GBSeq_organism>Fusibacter paucivorans</GBSeq_organism>
+./X75906.xml:  <GBSeq_organism>[Clostridium] bifermentans</GBSeq_organism>
+./AJ006962.xml:  <GBSeq_organism>Filifactor alocis</GBSeq_organism>
+./X73447.xml:  <GBSeq_organism>Asaccharospora irregularis</GBSeq_organism>
+./X73451.xml:  <GBSeq_organism>[Clostridium] ghonii</GBSeq_organism>
+./X77845.xml:  <GBSeq_organism>[Clostridium] litorale</GBSeq_organism>
+./AF450134.xml:  <GBSeq_organism>Proteocatella sphenisci</GBSeq_organism>
+./M59098.xml:  <GBSeq_organism>[Clostridium] mangenotii</GBSeq_organism>
+./AY326462.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>
+./AF016691.xml:  <GBSeq_organism>Acidaminobacter hydrogenoformans</GBSeq_organism>
+./X77851.xml:  <GBSeq_organism>Clostridium felsineum</GBSeq_organism>
+./AY438672.xml:  <GBSeq_organism>Intestinibacter bartlettii DSM 16795</GBSeq_organism>
+./AY682207.xml:  <GBSeq_organism>Sporacetigenium mesophilum</GBSeq_organism>

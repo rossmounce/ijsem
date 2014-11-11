@@ -1,0 +1,12 @@
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./AF098495.xml:  <GBSeq_organism>Roseovarius nubinhibens ISM</GBSeq_organism>
+./EU431217.xml:  <GBSeq_organism>Roseovarius halotolerans</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AJ534215.xml:  <GBSeq_organism>Roseovarius mucosus DSM 17069</GBSeq_organism>
+./EU156066.xml:  <GBSeq_organism>Roseovarius aestuarii</GBSeq_organism>
+./U96927.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

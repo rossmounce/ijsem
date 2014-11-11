@@ -1,0 +1,12 @@
+./AY121430.xml:  <GBSeq_organism>Virgibacillus sediminis</GBSeq_organism>
+./X60632.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AY822043.xml:  <GBSeq_organism>Virgibacillus dokdonensis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AB243851.xml:  <GBSeq_organism>Virgibacillus halophilus</GBSeq_organism>
+./AJ316302.xml:  <GBSeq_organism>Virgibacillus carmonensis</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>

@@ -1,0 +1,14 @@
+./X81946.xml:  <GBSeq_organism>Pirellula staleyi DSM 6068</GBSeq_organism>
+./X62912.xml:  <GBSeq_organism>Blastopirellula marina DSM 3645</GBSeq_organism>
+./AM162406.xml:  <GBSeq_organism>Zavarzinella formosa</GBSeq_organism>
+./X54522.xml:  <GBSeq_organism>Gemmata obscuriglobus</GBSeq_organism>
+./AF244752.xml:  <GBSeq_organism>Nostocoida limicola III</GBSeq_organism>
+./AM902527.xml:  <GBSeq_organism>Singulisphaera acidiphila</GBSeq_organism>
+./AF244749.xml:  <GBSeq_organism>Nostocoida limicola III</GBSeq_organism>
+./AF239692.xml:  <GBSeq_organism>Isosphaera-like str. C2-3</GBSeq_organism>
+./AM902525.xml:  <GBSeq_organism>Singulisphaera acidiphila</GBSeq_organism>
+./AJ231195.xml:  <GBSeq_organism>Isosphaera pallida ATCC 43644</GBSeq_organism>
+./GU123163.xml:  <GBSeq_organism>Aquisphaera giovannonii</GBSeq_organism>
+./AM902526.xml:  <GBSeq_organism>Singulisphaera acidiphila</GBSeq_organism>
+./FN391026.xml:  <GBSeq_organism>Singulisphaera rosea</GBSeq_organism>
+./AM850678.xml:  <GBSeq_organism>Singulisphaera acidiphila DSM 18658</GBSeq_organism>

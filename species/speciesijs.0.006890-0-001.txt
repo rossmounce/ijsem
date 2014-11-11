@@ -1,0 +1,16 @@
+./AF095272.xml:  <GBSeq_organism>Methanofollis tationis</GBSeq_organism>
+./CP000254.xml:  <GBSeq_organism>Methanospirillum hungatei JF-1</GBSeq_organism>
+./AY057068.xml:  <GBSeq_organism>Methanocorpusculum parvum</GBSeq_organism>
+./Y16429.xml:  <GBSeq_organism>Methanofollis liminatans</GBSeq_organism>
+./M59131.xml:  <GBSeq_organism>Methanogenium organophilum</GBSeq_organism>
+./M59129.xml:  <GBSeq_organism>Methanoculleus thermophilus</GBSeq_organism>
+./AF033672.xml:  <GBSeq_organism>Methanocalculus halotolerans</GBSeq_organism>
+./Y16382.xml:  <GBSeq_organism>Methanoculleus palmolei</GBSeq_organism>
+./AY260436.xml:  <GBSeq_organism>Methanocorpusculum labreanum</GBSeq_organism>
+./M59142.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./AB162774.xml:  <GBSeq_organism>Methanolinea tarda NOBI-1</GBSeq_organism>
+./M59130.xml:  <GBSeq_organism>Methanogenium cariaci</GBSeq_organism>
+./EU156000.xml:  <GBSeq_organism>Methanosphaerula palustris</GBSeq_organism>
+./AJ133792.xml:  <GBSeq_organism>Methanospirillum sp.</GBSeq_organism>
+./EU296536.xml:  <GBSeq_organism>Methanosphaerula palustris</GBSeq_organism>
+./U76631.xml:  <GBSeq_organism>Methanoplanus petrolearius DSM 11571</GBSeq_organism>

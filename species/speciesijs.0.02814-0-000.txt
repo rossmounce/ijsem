@@ -1,0 +1,6 @@
+./X97883.xml:  <GBSeq_organism>Nocardiopsis alba DSM 43377</GBSeq_organism>
+./AY036001.xml:  <GBSeq_organism>Nocardiopsis umidischolae</GBSeq_organism>
+./AJ420769.xml:  <GBSeq_organism>Nocardiopsis metallicus</GBSeq_organism>
+./AY028325.xml:  <GBSeq_organism>Nocardiopsis exhalans</GBSeq_organism>
+./X97884.xml:  <GBSeq_organism>Nocardiopsis prasina</GBSeq_organism>
+./X97887.xml:  <GBSeq_organism>Nocardiopsis listeri</GBSeq_organism>

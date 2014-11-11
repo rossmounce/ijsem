@@ -1,0 +1,9 @@
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./AF020429.xml:  <GBSeq_organism>[Clostridium] hungatei</GBSeq_organism>
+./X71854.xml:  <GBSeq_organism>[Clostridium] termitidis</GBSeq_organism>
+./X71852.xml:  <GBSeq_organism>[Clostridium] papyrosolvens DSM 2782</GBSeq_organism>
+./L35516.xml:  <GBSeq_organism>Acetivibrio cellulolyticus</GBSeq_organism>
+./X71856.xml:  <GBSeq_organism>[Clostridium] cellobioparum DSM 1351 = ATCC 15832</GBSeq_organism>
+./X71847.xml:  <GBSeq_organism>Clostridium cellulolyticum H10</GBSeq_organism>

@@ -1,0 +1,17 @@
+./U45800.xml:  <GBSeq_organism>Candida railenensis</GBSeq_organism>
+./AF017240.xml:  <GBSeq_organism>Candida trypodendroni</GBSeq_organism>
+./AF514293.xml:  <GBSeq_organism>Candida hawaiiana</GBSeq_organism>
+./AY520328.xml:  <GBSeq_organism>Candida sinolaborantium</GBSeq_organism>
+./U45733.xml:  <GBSeq_organism>Metschnikowia lunata</GBSeq_organism>
+./AY520374.xml:  <GBSeq_organism>Candida temnochilae</GBSeq_organism>
+./U44818.xml:  <GBSeq_organism>Clavispora opuntiae</GBSeq_organism>
+./AY566407.xml:  <GBSeq_organism>Candida picinguabensis</GBSeq_organism>
+./U84243.xml:  <GBSeq_organism>Metschnikowia agaves</GBSeq_organism>
+./AF514294.xml:  <GBSeq_organism>Candida kipukae</GBSeq_organism>
+./AY566406.xml:  <GBSeq_organism>Candida heliconiae</GBSeq_organism>
+./AF245403.xml:  <GBSeq_organism>Candida anglica</GBSeq_organism>
+./U45796.xml:  <GBSeq_organism>Yamadazyma triangularis</GBSeq_organism>
+./U45797.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./AF279303.xml:  <GBSeq_organism>Metschnikowia drosophilae</GBSeq_organism>
+./AY695398.xml:  <GBSeq_organism>Candida saopaulonensis</GBSeq_organism>
+./U45736.xml:  <GBSeq_organism>Metschnikowia pulcherrima</GBSeq_organism>

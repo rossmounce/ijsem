@@ -1,0 +1,14 @@
+./AJ313530.xml:  <GBSeq_organism>Lactobacillus mindensis</GBSeq_organism>
+./AM285450.xml:  <GBSeq_organism>Lactobacillus crustorum</GBSeq_organism>
+./AJ306297.xml:  <GBSeq_organism>Lactobacillus paraplantarum</GBSeq_organism>
+./AY681134.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./AJ417500.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./M58817.xml:  <GBSeq_organism>Lactobacillus farciminis</GBSeq_organism>
+./D79210.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AF093757.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./M35820.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./AY690834.xml:  <GBSeq_organism>Lactobacillus nantensis</GBSeq_organism>
+./AJ496791.xml:  <GBSeq_organism>Lactobacillus versmoldensis</GBSeq_organism>
+./AJ576006.xml:  <GBSeq_organism>Lactobacillus tucceti</GBSeq_organism>
+./AF183558.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

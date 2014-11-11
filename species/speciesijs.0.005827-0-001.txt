@@ -1,0 +1,30 @@
+./AY492260.xml:  <GBSeq_organism>Corynebacterium lipophiloflavum</GBSeq_organism>
+./AY492259.xml:  <GBSeq_organism>Corynebacterium imitans</GBSeq_organism>
+./AY492248.xml:  <GBSeq_organism>Corynebacterium confusum</GBSeq_organism>
+./AY492255.xml:  <GBSeq_organism>Corynebacterium flavescens</GBSeq_organism>
+./EF217057.xml:  <GBSeq_organism>Corynebacterium massiliense DSM 45435</GBSeq_organism>
+./AY492282.xml:  <GBSeq_organism>Corynebacterium aurimucosum</GBSeq_organism>
+./AY492270.xml:  <GBSeq_organism>Corynebacterium thomssenii</GBSeq_organism>
+./FJ416377.xml:  <GBSeq_organism>Corynebacterium tuscaniense</GBSeq_organism>
+./AY492258.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./AY492262.xml:  <GBSeq_organism>Corynebacterium mycetoides</GBSeq_organism>
+./AY492264.xml:  <GBSeq_organism>Corynebacterium simulans</GBSeq_organism>
+./AY492250.xml:  <GBSeq_organism>Corynebacterium coyleae</GBSeq_organism>
+./AY492267.xml:  <GBSeq_organism>Corynebacterium striatum</GBSeq_organism>
+./AY492261.xml:  <GBSeq_organism>Corynebacterium mucifaciens CIP 105129</GBSeq_organism>
+./AY492247.xml:  <GBSeq_organism>Corynebacterium capitovis</GBSeq_organism>
+./AY492268.xml:  <GBSeq_organism>Corynebacterium sundsvallense</GBSeq_organism>
+./AY492280.xml:  <GBSeq_organism>Corynebacterium singulare</GBSeq_organism>
+./AY492266.xml:  <GBSeq_organism>Corynebacterium afermentans subsp. lipophilum</GBSeq_organism>
+./AY492234.xml:  <GBSeq_organism>Corynebacterium auris</GBSeq_organism>
+./AY492278.xml:  <GBSeq_organism>Corynebacterium riegelii</GBSeq_organism>
+./AY492265.xml:  <GBSeq_organism>Corynebacterium afermentans subsp. afermentans</GBSeq_organism>
+./AY492251.xml:  <GBSeq_organism>Corynebacterium cystitidis</GBSeq_organism>
+./EU616817.xml:  <GBSeq_organism>Corynebacterium casei LMG S-19264</GBSeq_organism>
+./AY492277.xml:  <GBSeq_organism>Corynebacterium phocae</GBSeq_organism>
+./AY492276.xml:  <GBSeq_organism>Corynebacterium macginleyi</GBSeq_organism>
+./EF217058.xml:  <GBSeq_organism>Corynebacterium timonense</GBSeq_organism>
+./AY581869.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AY492235.xml:  <GBSeq_organism>Corynebacterium minutissimum</GBSeq_organism>
+./AY492242.xml:  <GBSeq_organism>Corynebacterium accolens</GBSeq_organism>
+./AY492246.xml:  <GBSeq_organism>Corynebacterium camporealensis</GBSeq_organism>

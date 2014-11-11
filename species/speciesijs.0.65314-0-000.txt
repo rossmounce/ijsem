@@ -1,0 +1,23 @@
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./AF177666.xml:  <GBSeq_organism>Bordetella avium</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AY695828.xml:  <GBSeq_organism>Pusillimonas noertemannii</GBSeq_organism>
+./AY131213.xml:  <GBSeq_organism>Kerstersia gyiorum</GBSeq_organism>
+./AB166879.xml:  <GBSeq_organism>Castellaniella caeni</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./L37785.xml:  <GBSeq_organism>Sutterella wadsworthensis</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./U04948.xml:  <GBSeq_organism>Bordetella bronchiseptica</GBSeq_organism>
+./Y11890.xml:  <GBSeq_organism>Pelistega europaea</GBSeq_organism>
+./U82826.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./AY296718.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. phenolicus</GBSeq_organism>
+./AJ278450.xml:  <GBSeq_organism>Bordetella parapertussis</GBSeq_organism>
+./U04820.xml:  <GBSeq_organism>Bordetella holmesii ATCC 51541</GBSeq_organism>
+./AF282916.xml:  <GBSeq_organism>Pigmentiphaga kullae</GBSeq_organism>
+./AF508102.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./AY569458.xml:  <GBSeq_organism>Advenella incenata</GBSeq_organism>
+./AJ242986.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. parafaecalis</GBSeq_organism>
+./AF155147.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AJ277742.xml:  <GBSeq_organism>Brackiella oedipodis</GBSeq_organism>
+./AJ278451.xml:  <GBSeq_organism>Achromobacter denitrificans</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AF218573.xml:  <GBSeq_organism>Klebsiella granulomatis</GBSeq_organism>
+./U77449.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./U77439.xml:  <GBSeq_organism>Kluyvera ascorbata ATCC 33433</GBSeq_organism>
+./AF129450.xml:  <GBSeq_organism>Raoultella planticola</GBSeq_organism>
+./AF129449.xml:  <GBSeq_organism>Raoultella planticola ATCC 33531</GBSeq_organism>
+./AF129446.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. rhinoscleromatis</GBSeq_organism>
+./U77436.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./U77452.xml:  <GBSeq_organism>Salmonella enterica subsp. salamae serovar Sofia</GBSeq_organism>
+./AF129445.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. ozaenae</GBSeq_organism>
+./AF129448.xml:  <GBSeq_organism>Raoultella terrigena</GBSeq_organism>
+./U77444.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AF250286.xml:  <GBSeq_organism>Klebsiella singaporensis</GBSeq_organism>
+./U77435.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./AF129447.xml:  <GBSeq_organism>Raoultella ornithinolytica</GBSeq_organism>

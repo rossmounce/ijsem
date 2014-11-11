@@ -1,0 +1,10 @@
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./Z28378.xml:  <GBSeq_organism>Natronococcus occultus SP4</GBSeq_organism>
+./AM269467.xml:  <GBSeq_organism>Halovivax ruber XH-70</GBSeq_organism>
+./X72495.xml:  <GBSeq_organism>Natrialba magadii ATCC 43099</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./AB489220.xml:  <GBSeq_organism>Halostagnicola kamekurae</GBSeq_organism>
+./AM039978.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AF262026.xml:  <GBSeq_organism>Natrialba hulunbeirensis</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

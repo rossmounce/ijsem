@@ -1,0 +1,26 @@
+./AJ294747.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AJ295715.xml:  <GBSeq_organism>Alteromonas stellipolaris</GBSeq_organism>
+./AJ548478.xml:  <GBSeq_organism>Glaciecola polaris</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./X74709.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./AY207502.xml:  <GBSeq_organism>Aestuariibacter salexigens</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AY553295.xml:  <GBSeq_organism>Salinimonas chungwhensis</GBSeq_organism>
+./DQ118948.xml:  <GBSeq_organism>Idiomarina taiwanensis</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./DQ343294.xml:  <GBSeq_organism>Bowmanella denitrificans</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./AY428573.xml:  <GBSeq_organism>Alteromonas litorea</GBSeq_organism>
+./AY926460.xml:  <GBSeq_organism>Alteromonas hispanica</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AY682202.xml:  <GBSeq_organism>Alteromonas addita</GBSeq_organism>
+./AF173964.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AF288360.xml:  <GBSeq_organism>Alteromonas alvinellae</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AY207503.xml:  <GBSeq_organism>Aestuariibacter halophilus</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>

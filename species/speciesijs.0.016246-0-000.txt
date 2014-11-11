@@ -1,0 +1,10 @@
+./AB006766.xml:  <GBSeq_organism>Pseudospirillum japonicum</GBSeq_organism>
+./EU399548.xml:  <GBSeq_organism>Marinobacterium maritimum</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./EU573965.xml:  <GBSeq_organism>Marinobacterium nitratireducens</GBSeq_organism>
+./AY563030.xml:  <GBSeq_organism>Marinobacterium halophilum</GBSeq_organism>
+./EF192391.xml:  <GBSeq_organism>Marinobacterium rhizophilum</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./EU573966.xml:  <GBSeq_organism>Marinobacterium sediminicola</GBSeq_organism>
+./AB006765.xml:  <GBSeq_organism>Marinobacterium jannaschii</GBSeq_organism>

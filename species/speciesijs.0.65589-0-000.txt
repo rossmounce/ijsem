@@ -1,0 +1,17 @@
+./X77215.xml:  <GBSeq_organism>Holophaga foetida DSM 6591</GBSeq_organism>
+./AY234538.xml:  <GBSeq_organism>bacterium Ellin5121</GBSeq_organism>
+./AJ009495.xml:  <GBSeq_organism>uncultured bacterium SJA-149</GBSeq_organism>
+./AY234576.xml:  <GBSeq_organism>bacterium Ellin5225</GBSeq_organism>
+./AY673303.xml:  <GBSeq_organism>Acidobacteria bacterium Ellin7137</GBSeq_organism>
+./AJ241004.xml:  <GBSeq_organism>uncultured Holophaga/Acidobacterium Sva0515</GBSeq_organism>
+./AM162405.xml:  <GBSeq_organism>Bryobacter aggregatus MPL3</GBSeq_organism>
+./AY234723.xml:  <GBSeq_organism>bacterium Ellin6071</GBSeq_organism>
+./U41563.xml:  <GBSeq_organism>Geothrix fermentans</GBSeq_organism>
+./AJ009461.xml:  <GBSeq_organism>uncultured bacterium SJA-36</GBSeq_organism>
+./AY673350.xml:  <GBSeq_organism>Acidobacteria bacterium Ellin7184</GBSeq_organism>
+./AF498719.xml:  <GBSeq_organism>bacterium Ellin337</GBSeq_organism>
+./AJ240998.xml:  <GBSeq_organism>uncultured Holophaga/Acidobacterium Sva0450</GBSeq_organism>
+./AB303221.xml:  <GBSeq_organism>Acanthopleuribacter pedis</GBSeq_organism>
+./AJ009478.xml:  <GBSeq_organism>uncultured bacterium SJA-87</GBSeq_organism>
+./CP000473.xml:  <GBSeq_organism>Candidatus Solibacter usitatus Ellin6076</GBSeq_organism>
+./X62911.xml:  <GBSeq_organism>Planctomyces limnophilus DSM 3776</GBSeq_organism>

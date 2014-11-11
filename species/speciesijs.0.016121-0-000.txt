@@ -1,0 +1,7 @@
+./M58792.xml:  <GBSeq_organism>Marinoscillum furvescens</GBSeq_organism>
+./AB265192.xml:  <GBSeq_organism>Rapidithrix thailandica</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AY753206.xml:  <GBSeq_organism>Roseivirga echinicomitans</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AB078081.xml:  <GBSeq_organism>Marivirga sericea</GBSeq_organism>

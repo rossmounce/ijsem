@@ -1,0 +1,21 @@
+./X70643.xml:  <GBSeq_organism>Aliivibrio salmonicida</GBSeq_organism>
+./D25310.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./X74726.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./AY538749.xml:  <GBSeq_organism>Photobacterium frigidiphilum</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./D25309.xml:  <GBSeq_organism>Photobacterium leiognathi</GBSeq_organism>
+./AY960847.xml:  <GBSeq_organism>Photobacterium ganghwense</GBSeq_organism>
+./D25307.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./AY554009.xml:  <GBSeq_organism>Photobacterium lipolyticum</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./X74708.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./X78105.xml:  <GBSeq_organism>Photobacterium damselae</GBSeq_organism>
+./AJ132227.xml:  <GBSeq_organism>Aliivibrio wodanis</GBSeq_organism>
+./AJ842344.xml:  <GBSeq_organism>Photobacterium rosenbergii</GBSeq_organism>
+./X74700.xml:  <GBSeq_organism>Photobacterium damselae subsp. damselae</GBSeq_organism>
+./X74718.xml:  <GBSeq_organism>Vibrio ordalii ATCC 33509</GBSeq_organism>
+./AB159513.xml:  <GBSeq_organism>Photobacterium indicum</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./D21226.xml:  <GBSeq_organism>Photobacterium profundum</GBSeq_organism>
+./X74713.xml:  <GBSeq_organism>Vibrio mimicus</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

@@ -1,0 +1,9 @@
+./AM180088.xml:  <GBSeq_organism>Haloquadratum walsbyi DSM 16790</GBSeq_organism>
+./X82169.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./X82167.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./U85964.xml:  <GBSeq_organism>Sulfurospirillum arsenophilum</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./Y11561.xml:  <GBSeq_organism>Sulfurospirillum arcachonense</GBSeq_organism>
+./AF038843.xml:  <GBSeq_organism>Sulfurospirillum barnesii SES-3</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./L14630.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./M34113.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774</GBSeq_organism>
+./U00679.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AY740528.xml:  <GBSeq_organism>Sulfurospirillum carboxydovorans</GBSeq_organism>

@@ -1,0 +1,30 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ401208.xml:  <GBSeq_organism>Roseospira thiosulfatophila</GBSeq_organism>
+./AF358664.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./FJ357427.xml:  <GBSeq_organism>Fodinicurvata fenggangensis</GBSeq_organism>
+./M59067.xml:  <GBSeq_organism>Phaeospirillum molischianum</GBSeq_organism>
+./AJ011919.xml:  <GBSeq_organism>Roseospirillum parvum</GBSeq_organism>
+./DQ393891.xml:  <GBSeq_organism>Azospirillum canadense</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AM283537.xml:  <GBSeq_organism>Roseospira goensis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./EF203900.xml:  <GBSeq_organism>Thalassobaculum litoreum DSM 18839</GBSeq_organism>
+./D14432.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AJ001276.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./AF524863.xml:  <GBSeq_organism>Telmatospirillum siberiense</GBSeq_organism>
+./FJ357426.xml:  <GBSeq_organism>Fodinicurvata sediminis</GBSeq_organism>
+./AY043374.xml:  <GBSeq_organism>Inquilinus limosus</GBSeq_organism>
+./Y10110.xml:  <GBSeq_organism>Magnetospirillum magnetotacticum</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./M59072.xml:  <GBSeq_organism>Rhodovibrio sodomensis</GBSeq_organism>
+./AM419042.xml:  <GBSeq_organism>Azospirillum rugosum</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./X90760.xml:  <GBSeq_organism>Skermanella parooensis</GBSeq_organism>
+./AF179678.xml:  <GBSeq_organism>Defluviicoccus vanus</GBSeq_organism>
+./X79731.xml:  <GBSeq_organism>Azospirillum halopraeferens</GBSeq_organism>
+./X90759.xml:  <GBSeq_organism>Azospirillum largimobile</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>
+./AJ222662.xml:  <GBSeq_organism>Rhodospirillum photometricum DSM 122</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>

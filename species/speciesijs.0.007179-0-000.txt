@@ -1,0 +1,10 @@
+./AB184537.xml:  <GBSeq_organism>Streptomyces abikoensis</GBSeq_organism>
+./AY999848.xml:  <GBSeq_organism>Streptomyces thioluteus</GBSeq_organism>
+./AB249910.xml:  <GBSeq_organism>Streptomyces blastmyceticus</GBSeq_organism>
+./AB184618.xml:  <GBSeq_organism>Streptomyces thermolineatus</GBSeq_organism>
+./AB249906.xml:  <GBSeq_organism>Streptomyces lilacinus</GBSeq_organism>
+./AB184617.xml:  <GBSeq_organism>Streptomyces megasporus</GBSeq_organism>
+./AB441718.xml:  <GBSeq_organism>Streptomyces baliensis</GBSeq_organism>
+./AB249964.xml:  <GBSeq_organism>Streptomyces glauciniger</GBSeq_organism>
+./AY876940.xml:  <GBSeq_organism>Streptomyces yanglinensis</GBSeq_organism>
+./AB184664.xml:  <GBSeq_organism>Streptomyces glaucosporus</GBSeq_organism>

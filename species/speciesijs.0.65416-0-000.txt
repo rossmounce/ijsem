@@ -1,0 +1,18 @@
+./AF144383.xml:  <GBSeq_organism>Ramlibacter tataouinensis TTB310</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./AJ420330.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./Y18618.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./AJ537466.xml:  <GBSeq_organism>Ottowia thiooxydans</GBSeq_organism>
+./AJ585993.xml:  <GBSeq_organism>Hydrogenophaga defluvii</GBSeq_organism>
+./AJ418042.xml:  <GBSeq_organism>Alicycliphilus denitrificans K601</GBSeq_organism>
+./AM039830.xml:  <GBSeq_organism>Polaromonas aquatica</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./DQ178978.xml:  <GBSeq_organism>Variovorax dokdonensis</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./AY166684.xml:  <GBSeq_organism>Polaromonas naphthalenivorans CJ2</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF439400.xml:  <GBSeq_organism>Ramlibacter henchirensis</GBSeq_organism>

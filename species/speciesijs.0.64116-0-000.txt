@@ -1,0 +1,6 @@
+./AF054936.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./X74681.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./X92889.xml:  <GBSeq_organism>Tolumonas auensis DSM 9187</GBSeq_organism>
+./X56576.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74682.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./DQ190441.xml:  <GBSeq_organism>Oceanisphaera donghaensis</GBSeq_organism>

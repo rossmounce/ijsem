@@ -1,0 +1,9 @@
+./DQ185611.xml:  <GBSeq_organism>Echinicola pacifica</GBSeq_organism>
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./DQ186987.xml:  <GBSeq_organism>Echinicola pacifica</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./DQ185811.xml:  <GBSeq_organism>Engraulis japonicus</GBSeq_organism>
+./AM406795.xml:  <GBSeq_organism>Echinicola vietnamensis</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AF114783.xml:  <GBSeq_organism>Alkalispirillum mobile</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./L35502.xml:  <GBSeq_organism>Nitrobacter hamburgensis X14</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./M26631.xml:  <GBSeq_organism>Arhodomonas aquaeolei</GBSeq_organism>
+./DQ336178.xml:  <GBSeq_organism>Sinorhizobium sp. DAO10</GBSeq_organism>
+./AF384168.xml:  <GBSeq_organism>Thermus sp. HR13</GBSeq_organism>
+./DQ217918.xml:  <GBSeq_organism>Alkalispirillum sp. AGDZ</GBSeq_organism>
+./DQ217921.xml:  <GBSeq_organism>Alkalispirillum sp. AHN 1</GBSeq_organism>
+./AF406554.xml:  <GBSeq_organism>Alkalilimnicola ehrlichii MLHE-1</GBSeq_organism>

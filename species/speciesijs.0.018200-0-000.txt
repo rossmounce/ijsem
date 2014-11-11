@@ -1,0 +1,17 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF544015.xml:  <GBSeq_organism>Parvularcula bermudensis HTCC2503</GBSeq_organism>
+./AY682384.xml:  <GBSeq_organism>Kordiimonas gwangyangensis</GBSeq_organism>
+./D12699.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./FJ847942.xml:  <GBSeq_organism>Kordiimonas lacus</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./AJ578476.xml:  <GBSeq_organism>Woodsholea maritima</GBSeq_organism>
+./AF062074.xml:  <GBSeq_organism>Orientia tsutsugamushi</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AM237364.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AM180706.xml:  <GBSeq_organism>Rhodobium gokarnense</GBSeq_organism>
+./AM749667.xml:  <GBSeq_organism>Kiloniella laminariae</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>

@@ -1,0 +1,17 @@
+./X73976.xml:  <GBSeq_organism>Turicella otitidis</GBSeq_organism>
+./X84249.xml:  <GBSeq_organism>Corynebacterium renale</GBSeq_organism>
+./X84255.xml:  <GBSeq_organism>Corynebacterium pseudotuberculosis</GBSeq_organism>
+./X83955.xml:  <GBSeq_organism>Corynebacterium argentoratense</GBSeq_organism>
+./X84680.xml:  <GBSeq_organism>Corynebacterium vitaeruminis DSM 20294</GBSeq_organism>
+./AJ401282.xml:  <GBSeq_organism>Corynebacterium felinum</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X84256.xml:  <GBSeq_organism>Corynebacterium ulcerans</GBSeq_organism>
+./X81918.xml:  <GBSeq_organism>Corynebacterium pseudodiphtheriticum</GBSeq_organism>
+./X81917.xml:  <GBSeq_organism>Corynebacterium propinquum</GBSeq_organism>
+./AJ295841.xml:  <GBSeq_organism>Corynebacterium testudinoris</GBSeq_organism>
+./X84375.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./X82065.xml:  <GBSeq_organism>Corynebacterium matruchotii</GBSeq_organism>
+./X86688.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./Y10077.xml:  <GBSeq_organism>Corynebacterium kroppenstedtii DSM 44385</GBSeq_organism>
+./X81871.xml:  <GBSeq_organism>Corynebacterium kutscheri</GBSeq_organism>
+./AJ555193.xml:  <GBSeq_organism>Corynebacterium ciconiae</GBSeq_organism>

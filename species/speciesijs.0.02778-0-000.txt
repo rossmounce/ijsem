@@ -1,0 +1,16 @@
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./U85845.xml:  <GBSeq_organism>Colwellia demingiae</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./AF100323.xml:  <GBSeq_organism>Pseudomonas thivervalensis</GBSeq_organism>
+./AJ000726.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus VT8</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./X74699.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>

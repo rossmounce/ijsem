@@ -1,0 +1,30 @@
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./X52931.xml:  <GBSeq_organism>Mycobacterium simiae</GBSeq_organism>
+./X81935.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./X52933.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./X82060.xml:  <GBSeq_organism>Corynebacterium flavescens</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X81928.xml:  <GBSeq_organism>Rhodococcus coprophilus</GBSeq_organism>
+./X80634.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>
+./X81933.xml:  <GBSeq_organism>Rhodococcus marinonascens</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./X81922.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./X81929.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./X81921.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./D37802.xml:  <GBSeq_organism>Corynebacterium kutscheri</GBSeq_organism>
+./Z36935.xml:  <GBSeq_organism>Nocardia brasiliensis NBRC 14402</GBSeq_organism>
+./X80619.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./X55588.xml:  <GBSeq_organism>Mycobacterium tuberculosis H37Rv</GBSeq_organism>
+./AJ416152.xml:  <GBSeq_organism>Skermania piniformis</GBSeq_organism>
+./AY608919.xml:  <GBSeq_organism>Segniliparus rotundus</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>
+./AF020330.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./AY608921.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./X87340.xml:  <GBSeq_organism>Gordonia hydrophobica</GBSeq_organism>
+./X81932.xml:  <GBSeq_organism>Rhodococcus fascians</GBSeq_organism>
+./X81934.xml:  <GBSeq_organism>Rhodococcus zopfii</GBSeq_organism>
+./X80609.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./X80592.xml:  <GBSeq_organism>Nocardia seriolae</GBSeq_organism>

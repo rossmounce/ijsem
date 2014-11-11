@@ -1,0 +1,27 @@
+./AF433173.xml:  <GBSeq_organism>Flavobacterium xinjiangense</GBSeq_organism>
+./AY007722.xml:  <GBSeq_organism>Quatrionicoccus australiensis</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./AJ318910.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./D16277.xml:  <GBSeq_organism>Sporosarcina psychrophila</GBSeq_organism>
+./AY032610.xml:  <GBSeq_organism>Dechloromonas aromatica RCB</GBSeq_organism>
+./AJ302709.xml:  <GBSeq_organism>Bacillus halodurans</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./X77846.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./D78476.xml:  <GBSeq_organism>Paenibacillus peoriae KCTC 3763</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./U85889.xml:  <GBSeq_organism>Flavobacterium gillisiae</GBSeq_organism>
+./AF170356.xml:  <GBSeq_organism>Dechloromonas sp. SIUL</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AJ318917.xml:  <GBSeq_organism>Dechloromonas denitrificans</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./AJ318909.xml:  <GBSeq_organism>Paenibacillus anaericanus</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>

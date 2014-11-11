@@ -1,0 +1,28 @@
+./X52931.xml:  <GBSeq_organism>Mycobacterium simiae</GBSeq_organism>
+./X70961.xml:  <GBSeq_organism>Mycobacterium interjectum</GBSeq_organism>
+./AF480595.xml:  <GBSeq_organism>Mycobacterium asiaticum</GBSeq_organism>
+./X52925.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./AJ536032.xml:  <GBSeq_organism>Mycobacterium marinum</GBSeq_organism>
+./AF480601.xml:  <GBSeq_organism>Mycobacterium kansasii ATCC 12478</GBSeq_organism>
+./X88924.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./AJ536037.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./X67847.xml:  <GBSeq_organism>Mycobacterium intermedium</GBSeq_organism>
+./X58890.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./AY337279.xml:  <GBSeq_organism>Mycobacterium parascrofulaceum ATCC BAA-614</GBSeq_organism>
+./Z13990.xml:  <GBSeq_organism>Mycobacterium ulcerans</GBSeq_organism>
+./X82459.xml:  <GBSeq_organism>Mycobacterium shimoidei</GBSeq_organism>
+./X88911.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X52923.xml:  <GBSeq_organism>Mycobacterium gordonae</GBSeq_organism>
+./X88923.xml:  <GBSeq_organism>Mycobacterium haemophilum</GBSeq_organism>
+./X60070.xml:  <GBSeq_organism>Mycobacterium genavense</GBSeq_organism>
+./AF480583.xml:  <GBSeq_organism>Mycobacterium lentiflavum</GBSeq_organism>
+./X52929.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./X52934.xml:  <GBSeq_organism>Mycobacterium avium subsp. paratuberculosis</GBSeq_organism>
+./X53999.xml:  <GBSeq_organism>Mycobacterium leprae</GBSeq_organism>
+./X52926.xml:  <GBSeq_organism>Mycobacterium szulgai</GBSeq_organism>
+./Z36933.xml:  <GBSeq_organism>Tsukamurella paurometabola</GBSeq_organism>
+./AF480602.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./AY368456.xml:  <GBSeq_organism>Mycobacterium nebraskense</GBSeq_organism>
+./AJ536034.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./X52930.xml:  <GBSeq_organism>Mycobacterium malmoense</GBSeq_organism>
+./X52928.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ001150.xml:  <GBSeq_organism>Alcanivorax jadensis T9</GBSeq_organism>
+./L34955.xml:  <GBSeq_organism>Cycloclasticus pugetii PS-1</GBSeq_organism>
+./AJ295154.xml:  <GBSeq_organism>Oleiphilus messinensis</GBSeq_organism>
+./AY683537.xml:  <GBSeq_organism>Alcanivorax dieselolei</GBSeq_organism>
+./AF328761.xml:  <GBSeq_organism>Alcanivorax venustensis</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./AY683531.xml:  <GBSeq_organism>Alcanivorax dieselolei</GBSeq_organism>
+./AF328762.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>
+./AF211860.xml:  <GBSeq_organism>Halomonas alimentaria</GBSeq_organism>

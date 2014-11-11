@@ -1,0 +1,22 @@
+./U60014.xml:  <GBSeq_organism>Prosthecobacter debontii</GBSeq_organism>
+./AJ315481.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY049713.xml:  <GBSeq_organism>Victivallis vadensis ATCC BAA-548</GBSeq_organism>
+./U81755.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF275917.xml:  <GBSeq_organism>uncultured eubacterium AA08</GBSeq_organism>
+./U60012.xml:  <GBSeq_organism>Prosthecobacter dejongeii</GBSeq_organism>
+./U81707.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF001775.xml:  <GBSeq_organism>unidentified rumen bacterium RFP12</GBSeq_organism>
+./U60013.xml:  <GBSeq_organism>Prosthecobacter vanneervenii</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./X99392.xml:  <GBSeq_organism>Opitutus sp. VeSm13</GBSeq_organism>
+./AF027005.xml:  <GBSeq_organism>unidentified Verrucomicrobium group OPB35</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./AF050559.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-25</GBSeq_organism>
+./U60015.xml:  <GBSeq_organism>Prosthecobacter fusiformis</GBSeq_organism>
+./X99390.xml:  <GBSeq_organism>Opitutus sp. VeGlc2</GBSeq_organism>
+./Y07576.xml:  <GBSeq_organism>uncultured bacterium DA101</GBSeq_organism>
+./AJ400275.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ229235.xml:  <GBSeq_organism>Opitutus terrae PB90-1</GBSeq_organism>
+./AJ408970.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF050560.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-41</GBSeq_organism>
+./J01859.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>

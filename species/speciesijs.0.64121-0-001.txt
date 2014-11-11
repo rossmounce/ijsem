@@ -1,0 +1,16 @@
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./AY538714.xml:  <GBSeq_organism>Oceanimonas smirnovii</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./DQ195675.xml:  <GBSeq_organism>Zobellella denitrificans</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./DQ118948.xml:  <GBSeq_organism>Idiomarina taiwanensis</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./DQ195676.xml:  <GBSeq_organism>Zobellella taiwanensis</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AF168367.xml:  <GBSeq_organism>Oceanimonas baumannii</GBSeq_organism>

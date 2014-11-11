@@ -1,0 +1,15 @@
+./AY679161.xml:  <GBSeq_organism>Massilia alkalitolerans DSM 17462</GBSeq_organism>
+./X65590.xml:  <GBSeq_organism>Telluria chitinolytica</GBSeq_organism>
+./AB074524.xml:  <GBSeq_organism>Herbaspirillum autotrophicum</GBSeq_organism>
+./X74914.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AB094401.xml:  <GBSeq_organism>Herbaspirillum chlorophenolicum</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./AB021424.xml:  <GBSeq_organism>Herbaspirillum rubrisubalbicans</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./Y10146.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AB021375.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AJ310394.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>

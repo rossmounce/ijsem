@@ -1,0 +1,9 @@
+./AJ233436.xml:  <GBSeq_organism>Serratia rubidaea</GBSeq_organism>
+./AJ238428.xml:  <GBSeq_organism>Dicrostonyx groenlandicus</GBSeq_organism>
+./AJ233430.xml:  <GBSeq_organism>Serratia grimesii</GBSeq_organism>
+./AJ233435.xml:  <GBSeq_organism>Serratia quinivorans</GBSeq_organism>
+./AJ233431.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./AJ233429.xml:  <GBSeq_organism>Serratia fonticola</GBSeq_organism>
+./GU394001.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./AJ854062.xml:  <GBSeq_organism>Serratia ureilytica</GBSeq_organism>
+./AJ233433.xml:  <GBSeq_organism>Serratia plymuthica</GBSeq_organism>

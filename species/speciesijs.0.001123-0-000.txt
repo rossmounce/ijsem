@@ -1,0 +1,36 @@
+./AF456019.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AM905034.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AF456073.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AJ544489.xml:  <GBSeq_organism>Ponthieva schaffneri</GBSeq_organism>
+./AF143794.xml:  <GBSeq_organism>Burkholderia pyrrocinia</GBSeq_organism>
+./AM922302.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AM905036.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AM905035.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AF456021.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF456087.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AM748095.xml:  <GBSeq_organism>Burkholderia arboris</GBSeq_organism>
+./AF456124.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AY780511.xml:  <GBSeq_organism>Burkholderia ubonensis</GBSeq_organism>
+./AM922301.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AF456008.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AM905032.xml:  <GBSeq_organism>Burkholderia lata</GBSeq_organism>
+./AM905037.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AM905033.xml:  <GBSeq_organism>Burkholderia lata</GBSeq_organism>
+./AF456031.xml:  <GBSeq_organism>Burkholderia stabilis</GBSeq_organism>
+./AF143786.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AF143774.xml:  <GBSeq_organism>Burkholderia multivorans</GBSeq_organism>
+./AF456016.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AM922303.xml:  <GBSeq_organism>Burkholderia contaminans</GBSeq_organism>
+./AF143783.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF323971.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AM748103.xml:  <GBSeq_organism>Burkholderia diffusa</GBSeq_organism>
+./AF456121.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AM748105.xml:  <GBSeq_organism>Burkholderia cenocepacia</GBSeq_organism>
+./AF456059.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF456078.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF456103.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF323985.xml:  <GBSeq_organism>Burkholderia ambifaria</GBSeq_organism>
+./AF456011.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF456069.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AM748102.xml:  <GBSeq_organism>Burkholderia seminalis DSM 23518</GBSeq_organism>
+./AM922300.xml:  <GBSeq_organism>Burkholderia latens</GBSeq_organism>

@@ -1,0 +1,14 @@
+./X93928.xml:  <GBSeq_organism>Spirochaeta africana DSM 8902</GBSeq_organism>
+./M57740.xml:  <GBSeq_organism>Spirochaeta aurantia subsp. aurantia</GBSeq_organism>
+./X93927.xml:  <GBSeq_organism>Spirochaeta alkalica DSM 8900</GBSeq_organism>
+./U80597.xml:  <GBSeq_organism>Spirochaeta smaragdinae DSM 11293</GBSeq_organism>
+./X93926.xml:  <GBSeq_organism>Spirochaeta asiatica</GBSeq_organism>
+./M88724.xml:  <GBSeq_organism>Treponema stenostrepta</GBSeq_organism>
+./M88720.xml:  <GBSeq_organism>Spirochaeta isovalerica</GBSeq_organism>
+./M88723.xml:  <GBSeq_organism>Spirochaeta litoralis</GBSeq_organism>
+./AJ698092.xml:  <GBSeq_organism>Sphaerochaeta coccoides DSM 17374</GBSeq_organism>
+./AY995150.xml:  <GBSeq_organism>Spirochaeta dissipatitropha</GBSeq_organism>
+./M88722.xml:  <GBSeq_organism>Spirochaeta halophila</GBSeq_organism>
+./AJ698859.xml:  <GBSeq_organism>Spirochaeta bajacaliforniensis</GBSeq_organism>
+./AF373921.xml:  <GBSeq_organism>Spirochaeta americana</GBSeq_organism>
+./M88725.xml:  <GBSeq_organism>Treponema zuelzerae</GBSeq_organism>

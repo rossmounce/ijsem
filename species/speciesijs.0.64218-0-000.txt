@@ -1,0 +1,21 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./AJ575430.xml:  <GBSeq_organism>Cloacibacterium normanense</GBSeq_organism>
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./M58775.xml:  <GBSeq_organism>Polaribacter glomeratus</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./U41350.xml:  <GBSeq_organism>Capnocytophaga ochracea DSM 7271</GBSeq_organism>
+./Y17612.xml:  <GBSeq_organism>Coenonia anatina</GBSeq_organism>
+./M59052.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M58774.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./AJ519403.xml:  <GBSeq_organism>uncultured Flavobacterium sp.</GBSeq_organism>
+./X82823.xml:  <GBSeq_organism>Porphyromonas catoniae ATCC 51270</GBSeq_organism>
+./M58781.xml:  <GBSeq_organism>Flavobacterium columnare</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./U10877.xml:  <GBSeq_organism>Riemerella anatipestifer ATCC 11845 = DSM 15868</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./L19156.xml:  <GBSeq_organism>Ornithobacterium rhinotracheale</GBSeq_organism>

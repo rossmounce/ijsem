@@ -1,0 +1,8 @@
+./AY238512.xml:  <GBSeq_organism>Tsukamurella spumae</GBSeq_organism>
+./AY333425.xml:  <GBSeq_organism>Tsukamurella pseudospumae</GBSeq_organism>
+./X92981.xml:  <GBSeq_organism>Tsukamurella pulmonis</GBSeq_organism>
+./AY238514.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./AY238513.xml:  <GBSeq_organism>Tsukamurella pseudospumae</GBSeq_organism>
+./AF283280.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./AF283281.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>
+./AF283283.xml:  <GBSeq_organism>Tsukamurella strandjordii</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AJ292762.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./X81914.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./AF024653.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./AY684044.xml:  <GBSeq_organism>Corynebacterium hansenii</GBSeq_organism>
+./X84446.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./AF145257.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./AJ292763.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>

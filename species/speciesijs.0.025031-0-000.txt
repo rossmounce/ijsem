@@ -1,0 +1,6 @@
+./DQ302104.xml:  <GBSeq_organism>Rubritalea marina</GBSeq_organism>
+./AB543682.xml:  <GBSeq_organism>Rubritalea sp. shu-10-MA45-1</GBSeq_organism>
+./AB353310.xml:  <GBSeq_organism>Rubritalea sabuli</GBSeq_organism>
+./AJ229235.xml:  <GBSeq_organism>Opitutus terrae PB90-1</GBSeq_organism>
+./AB543683.xml:  <GBSeq_organism>Rubritalea halochordaticola</GBSeq_organism>
+./AB277853.xml:  <GBSeq_organism>Rubritalea squalenifaciens</GBSeq_organism>

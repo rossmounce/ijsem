@@ -1,0 +1,13 @@
+./AJ132943.xml:  <GBSeq_organism>Friedmanniella lacustris</GBSeq_organism>
+./AB271051.xml:  <GBSeq_organism>Microlunatus panaciterrae</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./Z78207.xml:  <GBSeq_organism>Microlunatus phosphovorus</GBSeq_organism>
+./EF601828.xml:  <GBSeq_organism>Microlunatus aurantiacus</GBSeq_organism>
+./Y10819.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./Z78208.xml:  <GBSeq_organism>Luteococcus japonicus</GBSeq_organism>
+./AJ003056.xml:  <GBSeq_organism>Propionimicrobium lymphophilum</GBSeq_organism>
+./AF084529.xml:  <GBSeq_organism>Friedmanniella capsulata</GBSeq_organism>
+./AJ315953.xml:  <GBSeq_organism>Propionibacterium propionicum</GBSeq_organism>
+./AF062535.xml:  <GBSeq_organism>Friedmanniella spumicola</GBSeq_organism>
+./AB245389.xml:  <GBSeq_organism>Microlunatus ginsengisoli</GBSeq_organism>
+./AF227165.xml:  <GBSeq_organism>Propioniferax innocua</GBSeq_organism>

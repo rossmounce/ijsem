@@ -1,0 +1,12 @@
+./AY686713.xml:  <GBSeq_organism>Sulfurihydrogenibium yellowstonense SS-5</GBSeq_organism>
+./AM259495.xml:  <GBSeq_organism>Sulfurihydrogenibium rodmanii</GBSeq_organism>
+./AF453508.xml:  <GBSeq_organism>uncultured Aquificales bacterium</GBSeq_organism>
+./AM259493.xml:  <GBSeq_organism>Sulfurihydrogenibium sp. Y04ACS1</GBSeq_organism>
+./AM259502.xml:  <GBSeq_organism>Sulfurihydrogenibium rodmanii</GBSeq_organism>
+./AF255597.xml:  <GBSeq_organism>Aquificales str. SRI-240</GBSeq_organism>
+./AF528192.xml:  <GBSeq_organism>Sulfurihydrogenibium azorense Az-Fu1</GBSeq_organism>
+./AM778960.xml:  <GBSeq_organism>Sulfurihydrogenibium kristjanssonii</GBSeq_organism>
+./AF255598.xml:  <GBSeq_organism>Aquificales str. SRI-40</GBSeq_organism>
+./AF385630.xml:  <GBSeq_organism>Persephonella guaymasensis</GBSeq_organism>
+./AF113542.xml:  <GBSeq_organism>uncultured Aquificales bacterium pBB</GBSeq_organism>
+./DQ989208.xml:  <GBSeq_organism>Venenivibrio stagnispumantis</GBSeq_organism>

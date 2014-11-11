@@ -1,0 +1,12 @@
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./EF465534.xml:  <GBSeq_organism>Sphingobium rhizovicinum</GBSeq_organism>
+./EF207155.xml:  <GBSeq_organism>Sphingobium ummariense RL-3</GBSeq_organism>
+./Y13774.xml:  <GBSeq_organism>Blastomonas natatoria</GBSeq_organism>
+./AM489507.xml:  <GBSeq_organism>Sphingobium olei</GBSeq_organism>
+./D16145.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AF159257.xml:  <GBSeq_organism>Sphingobium chungbukense</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./Y10677.xml:  <GBSeq_organism>Sphingomonas ursincola</GBSeq_organism>
+./FJ373058.xml:  <GBSeq_organism>Sphingobium faniae</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>

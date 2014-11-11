@@ -1,0 +1,4 @@
+./AE000512.xml:  <GBSeq_organism>Thermotoga maritima MSB8</GBSeq_organism>
+./DQ647057.xml:  <GBSeq_organism>Thermosipho africanus Ob7</GBSeq_organism>
+./GO292553.xml:  <GBSeq_organism>Teleopsis dalmanni</GBSeq_organism>
+./AF491334.xml:  <GBSeq_organism>Thermosipho ferriphilus</GBSeq_organism>

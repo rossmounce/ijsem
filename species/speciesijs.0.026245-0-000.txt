@@ -1,0 +1,39 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./AM176541.xml:  <GBSeq_organism>Arthrobacter phenanthrenivorans Sphe3</GBSeq_organism>
+./EU005372.xml:  <GBSeq_organism>Micrococcus endophyticus</GBSeq_organism>
+./AB279889.xml:  <GBSeq_organism>Arthrobacter oryzae</GBSeq_organism>
+./EF602041.xml:  <GBSeq_organism>Kocuria flava</GBSeq_organism>
+./X83410.xml:  <GBSeq_organism>Arthrobacter uratoxydans</GBSeq_organism>
+./EU847536.xml:  <GBSeq_organism>Zhihengliuella alba</GBSeq_organism>
+./AJ344143.xml:  <GBSeq_organism>Citricoccus muralis</GBSeq_organism>
+./Y15885.xml:  <GBSeq_organism>Arthrobacter rhombi</GBSeq_organism>
+./FJ423768.xml:  <GBSeq_organism>Alternaria longipes</GBSeq_organism>
+./X80745.xml:  <GBSeq_organism>Arthrobacter protophormiae</GBSeq_organism>
+./FJ425902.xml:  <GBSeq_organism>Zhihengliuella salsuginis</GBSeq_organism>
+./X80739.xml:  <GBSeq_organism>Arthrobacter nicotianae</GBSeq_organism>
+./AJ606062.xml:  <GBSeq_organism>Arthrobacter kerguelensis</GBSeq_organism>
+./FJ214355.xml:  <GBSeq_organism>Micrococcus yunnanensis</GBSeq_organism>
+./X93353.xml:  <GBSeq_organism>Arthrobacter woluwensis</GBSeq_organism>
+./AJ639831.xml:  <GBSeq_organism>Arthrobacter mysorens</GBSeq_organism>
+./FM992367.xml:  <GBSeq_organism>Citricoccus parietis</GBSeq_organism>
+./EU697388.xml:  <GBSeq_organism>Sinomonas atrocyanea</GBSeq_organism>
+./EU305672.xml:  <GBSeq_organism>Citricoccus zhacaiensis</GBSeq_organism>
+./AY376164.xml:  <GBSeq_organism>Citricoccus alkalitolerans</GBSeq_organism>
+./EU939716.xml:  <GBSeq_organism>Zhihengliuella aestuarii</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./AB279890.xml:  <GBSeq_organism>Arthrobacter humicola</GBSeq_organism>
+./AJ606061.xml:  <GBSeq_organism>Arthrobacter gangotriensis Lz1y</GBSeq_organism>
+./X80738.xml:  <GBSeq_organism>Arthrobacter crystallopoietes</GBSeq_organism>
+./X80740.xml:  <GBSeq_organism>Arthrobacter pascens</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./FJ897464.xml:  <GBSeq_organism>Micrococcus sp. NII-0909</GBSeq_organism>
+./EF660748.xml:  <GBSeq_organism>Arthrobacter soli</GBSeq_organism>
+./EU370704.xml:  <GBSeq_organism>Sinomonas flava</GBSeq_organism>
+./AJ609628.xml:  <GBSeq_organism>Arthrobacter arilaitensis Re117</GBSeq_organism>
+./X83409.xml:  <GBSeq_organism>Arthrobacter sulfureus</GBSeq_organism>
+./DQ372937.xml:  <GBSeq_organism>Zhihengliuella halotolerans</GBSeq_organism>
+./EF680886.xml:  <GBSeq_organism>Nesterenkonia flava</GBSeq_organism>
+./X80742.xml:  <GBSeq_organism>Arthrobacter sp. DSM 20546</GBSeq_organism>

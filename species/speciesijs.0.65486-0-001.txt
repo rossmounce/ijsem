@@ -1,0 +1,5 @@
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./AB222699.xml:  <GBSeq_organism>Bacteroides finegoldii DSM 17565</GBSeq_organism>
+./AF319778.xml:  <GBSeq_organism>Bacteroides coprosuis DSM 18011</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./AE015928.xml:  <GBSeq_organism>Bacteroides thetaiotaomicron VPI-5482</GBSeq_organism>

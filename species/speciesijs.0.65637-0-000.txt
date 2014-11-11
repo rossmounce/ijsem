@@ -1,0 +1,11 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./X77437.xml:  <GBSeq_organism>Curtobacterium luteum</GBSeq_organism>
+./D45058.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./AJ717385.xml:  <GBSeq_organism>Microcella alkaliphila</GBSeq_organism>
+./EF466126.xml:  <GBSeq_organism>Frigoribacterium mesophilum</GBSeq_organism>
+./AB012648.xml:  <GBSeq_organism>Mycetocola lacteus</GBSeq_organism>
+./X77438.xml:  <GBSeq_organism>Rathayibacter tritici</GBSeq_organism>
+./AF503917.xml:  <GBSeq_organism>Agromyces albus</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>
+./AJ717388.xml:  <GBSeq_organism>Microcella putealis</GBSeq_organism>

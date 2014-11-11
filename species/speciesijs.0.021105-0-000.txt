@@ -1,0 +1,9 @@
+./EU399548.xml:  <GBSeq_organism>Marinobacterium maritimum</GBSeq_organism>
+./EF468717.xml:  <GBSeq_organism>Marinobacterium marisflavi</GBSeq_organism>
+./GU183820.xml:  <GBSeq_organism>Marinobacterium coralli</GBSeq_organism>
+./FJ230839.xml:  <GBSeq_organism>Marinobacterium lutimaris</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./EU573965.xml:  <GBSeq_organism>Marinobacterium nitratireducens</GBSeq_organism>
+./AY563030.xml:  <GBSeq_organism>Marinobacterium halophilum</GBSeq_organism>
+./EU573966.xml:  <GBSeq_organism>Marinobacterium sediminicola</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>

@@ -1,0 +1,31 @@
+./AJ421528.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./AJ609555.xml:  <GBSeq_organism>Psychrobacter urativorans</GBSeq_organism>
+./DQ143926.xml:  <GBSeq_organism>Psychrobacter glacincola</GBSeq_organism>
+./DQ143917.xml:  <GBSeq_organism>Psychrobacter frigidicola</GBSeq_organism>
+./AE000447.xml:  <GBSeq_organism>Escherichia coli K12</GBSeq_organism>
+./DQ143915.xml:  <GBSeq_organism>Psychrobacter proteolyticus</GBSeq_organism>
+./AJ430827.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./DQ143921.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./DQ143927.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./DQ143919.xml:  <GBSeq_organism>Psychrobacter marincola</GBSeq_organism>
+./AY444823.xml:  <GBSeq_organism>Psychrobacter arcticus</GBSeq_organism>
+./AE016774.xml:  <GBSeq_organism>Pseudomonas putida KT2440</GBSeq_organism>
+./AJ609556.xml:  <GBSeq_organism>Psychrobacter frigidicola</GBSeq_organism>
+./DQ143924.xml:  <GBSeq_organism>Psychrobacter urativorans</GBSeq_organism>
+./AY660685.xml:  <GBSeq_organism>Psychrobacter cryohalolentis K5</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./DQ143920.xml:  <GBSeq_organism>Psychrobacter okhotskensis</GBSeq_organism>
+./DQ143914.xml:  <GBSeq_organism>Psychrobacter pacificensis</GBSeq_organism>
+./CP000082.xml:  <GBSeq_organism>Psychrobacter arcticus 273-4</GBSeq_organism>
+./AJ272303.xml:  <GBSeq_organism>Psychrobacter proteolyticus</GBSeq_organism>
+./AJ430828.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./DQ143918.xml:  <GBSeq_organism>Psychrobacter jeotgali</GBSeq_organism>
+./AJ309940.xml:  <GBSeq_organism>Psychrobacter submarinus</GBSeq_organism>
+./AF441202.xml:  <GBSeq_organism>Psychrobacter jeotgali</GBSeq_organism>
+./DQ143925.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./DQ143923.xml:  <GBSeq_organism>Psychrobacter submarinus</GBSeq_organism>
+./DQ143922.xml:  <GBSeq_organism>Psychrobacter cryohalolentis K5</GBSeq_organism>
+./DQ143916.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./AJ312213.xml:  <GBSeq_organism>Psychrobacter glacincola</GBSeq_organism>
+./AJ309941.xml:  <GBSeq_organism>Psychrobacter marincola</GBSeq_organism>
+./DQ143928.xml:  <GBSeq_organism>Psychrobacter arcticus</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AF276306.xml:  <GBSeq_organism>Geobacillus subterraneus</GBSeq_organism>
+./AY190534.xml:  <GBSeq_organism>Halobacillus locisalis</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AF500003.xml:  <GBSeq_organism>Halobacillus salinus</GBSeq_organism>
+./EF533969.xml:  <GBSeq_organism>Pontibacillus yanchengensis</GBSeq_organism>
+./X90834.xml:  <GBSeq_organism>Salimicrobium album</GBSeq_organism>
+./AM292417.xml:  <GBSeq_organism>Salirhabdus euzebyi</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./AF004589.xml:  <GBSeq_organism>Anoxybacillus flavithermus subsp. flavithermus</GBSeq_organism>
+./AY558296.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./AB101591.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AY321434.xml:  <GBSeq_organism>Salinibacillus kushneri</GBSeq_organism>
+./EU583728.xml:  <GBSeq_organism>Pontibacillus halophilus</GBSeq_organism>
+./FJ808613.xml:  <GBSeq_organism>Pontibacillus marinus</GBSeq_organism>
+./EU583724.xml:  <GBSeq_organism>Pontibacillus litoralis JSM 072002</GBSeq_organism>

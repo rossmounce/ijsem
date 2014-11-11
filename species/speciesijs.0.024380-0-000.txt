@@ -1,0 +1,22 @@
+./AJ308009.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./AY739662.xml:  <GBSeq_organism>Altererythrobacter luteolus</GBSeq_organism>
+./AY562220.xml:  <GBSeq_organism>Erythrobacter gaetbuli</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./AF465837.xml:  <GBSeq_organism>Erythromicrobium ramosum</GBSeq_organism>
+./EU726272.xml:  <GBSeq_organism>Altererythrobacter marinus</GBSeq_organism>
+./EF549586.xml:  <GBSeq_organism>Novosphingobium indicum</GBSeq_organism>
+./EF424403.xml:  <GBSeq_organism>Novosphingobium mathurense</GBSeq_organism>
+./FJ935793.xml:  <GBSeq_organism>Altererythrobacter namhicola</GBSeq_organism>
+./FJ997597.xml:  <GBSeq_organism>Altererythrobacter aestuarii</GBSeq_organism>
+./AB033328.xml:  <GBSeq_organism>Porphyrobacter tepidarius</GBSeq_organism>
+./AY562219.xml:  <GBSeq_organism>Erythrobacter seohaensis</GBSeq_organism>
+./AY706935.xml:  <GBSeq_organism>Erythrobacter vulgaris</GBSeq_organism>
+./AY559428.xml:  <GBSeq_organism>Porphyrobacter donghaensis</GBSeq_organism>
+./AY500142.xml:  <GBSeq_organism>Novosphingobium taihuense</GBSeq_organism>
+./AY461441.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>
+./AM412238.xml:  <GBSeq_organism>Sphingomonas pseudosanguinis</GBSeq_organism>
+./EF424402.xml:  <GBSeq_organism>Novosphingobium panipatense</GBSeq_organism>
+./AF500004.xml:  <GBSeq_organism>Erythrobacter flavus</GBSeq_organism>
+./EF628998.xml:  <GBSeq_organism>uncultured fungus</GBSeq_organism>
+./GU166344.xml:  <GBSeq_organism>Altererythrobacter dongtanensis</GBSeq_organism>

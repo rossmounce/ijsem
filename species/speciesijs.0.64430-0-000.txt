@@ -1,0 +1,12 @@
+./AF105422.xml:  <GBSeq_organism>Xylanimicrobium pachnodae</GBSeq_organism>
+./X83809.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./AJ298873.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./X83806.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./AF403541.xml:  <GBSeq_organism>Xylanimonas cellulosilytica DSM 15894</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./AB056130.xml:  <GBSeq_organism>Promicromonospora sukumoe</GBSeq_organism>
+./X83811.xml:  <GBSeq_organism>Jonesia denitrificans DSM 20603</GBSeq_organism>
+./AJ854061.xml:  <GBSeq_organism>Isoptericola hypogeus</GBSeq_organism>
+./AY789835.xml:  <GBSeq_organism>Isoptericola halotolerans</GBSeq_organism>
+./AY273185.xml:  <GBSeq_organism>Xylanibacterium ulmi</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>

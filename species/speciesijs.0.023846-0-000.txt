@@ -1,0 +1,20 @@
+./EU707560.xml:  <GBSeq_organism>Sphingomonas oryziterrae</GBSeq_organism>
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./AJ429239.xml:  <GBSeq_organism>Sphingomonas faeni</GBSeq_organism>
+./D13727.xml:  <GBSeq_organism>Sphingopyxis terrae</GBSeq_organism>
+./EF660755.xml:  <GBSeq_organism>Sphingomonas aestuarii</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./D16145.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./AB277583.xml:  <GBSeq_organism>Sphingomonas astaxanthinifaciens DSM 22298</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./EU707561.xml:  <GBSeq_organism>Sphingomonas jinjuensis</GBSeq_organism>
+./AJ429236.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./AJ429240.xml:  <GBSeq_organism>Sphingomonas aerolata</GBSeq_organism>
+./AY894691.xml:  <GBSeq_organism>Sphingomonas yunnanensis</GBSeq_organism>
+./AY769083.xml:  <GBSeq_organism>Sphingomonas kaistensis</GBSeq_organism>
+./AJ012461.xml:  <GBSeq_organism>Sphingomonas echinoides ATCC 14820</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./AJ009706.xml:  <GBSeq_organism>Sphingomonas fennica</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./X94101.xml:  <GBSeq_organism>Sphingomonas haloaromaticamans</GBSeq_organism>

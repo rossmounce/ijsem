@@ -1,0 +1,27 @@
+./AJ307983.xml:  <GBSeq_organism>Propionivibrio limicola</GBSeq_organism>
+./AY007722.xml:  <GBSeq_organism>Quatrionicoccus australiensis</GBSeq_organism>
+./AY879297.xml:  <GBSeq_organism>Denitratisoma oestradiolicum</GBSeq_organism>
+./AF016690.xml:  <GBSeq_organism>Propionivibrio pelophilus</GBSeq_organism>
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./AJ289884.xml:  <GBSeq_organism>Thiobacillus Q</GBSeq_organism>
+./AY235687.xml:  <GBSeq_organism>beta proteobacterium Rufe9</GBSeq_organism>
+./AJ306683.xml:  <GBSeq_organism>Sterolibacterium denitrificans</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./AJ505852.xml:  <GBSeq_organism>Zoogloea resiniphila</GBSeq_organism>
+./AF192153.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./AF170357.xml:  <GBSeq_organism>Dechloromonas sp. MissR</GBSeq_organism>
+./AF170356.xml:  <GBSeq_organism>Dechloromonas sp. SIUL</GBSeq_organism>
+./AY235684.xml:  <GBSeq_organism>beta proteobacterium Rufe28</GBSeq_organism>
+./AY235688.xml:  <GBSeq_organism>beta proteobacterium Rufe9b</GBSeq_organism>
+./X74913.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./AF170354.xml:  <GBSeq_organism>Dechloromonas sp. CL</GBSeq_organism>
+./AY235685.xml:  <GBSeq_organism>beta proteobacterium Rufe22</GBSeq_organism>
+./AF170348.xml:  <GBSeq_organism>Dechlorosoma suillum PS</GBSeq_organism>
+./Y09967.xml:  <GBSeq_organism>denitrifying bacterium 72Chol</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AY171616.xml:  <GBSeq_organism>Dechlorosoma sp. AH</GBSeq_organism>
+./L33693.xml:  <GBSeq_organism>Azoarcus tolulyticus</GBSeq_organism>
+./AJ315680.xml:  <GBSeq_organism>Thauera aromatica</GBSeq_organism>
+./AF011347.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>

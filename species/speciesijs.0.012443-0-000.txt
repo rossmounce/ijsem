@@ -1,0 +1,30 @@
+./D83361.xml:  <GBSeq_organism>Staphylococcus cohnii subsp. cohnii</GBSeq_organism>
+./D83360.xml:  <GBSeq_organism>Staphylococcus chromogenes</GBSeq_organism>
+./D83374.xml:  <GBSeq_organism>Staphylococcus xylosus</GBSeq_organism>
+./AY727530.xml:  <GBSeq_organism>Staphylococcus simiae CCM 7213</GBSeq_organism>
+./D83357.xml:  <GBSeq_organism>Staphylococcus aureus subsp. aureus</GBSeq_organism>
+./L37599.xml:  <GBSeq_organism>Staphylococcus capitis</GBSeq_organism>
+./D83372.xml:  <GBSeq_organism>Staphylococcus schleiferi</GBSeq_organism>
+./L37603.xml:  <GBSeq_organism>Staphylococcus warneri</GBSeq_organism>
+./AB233330.xml:  <GBSeq_organism>Staphylococcus fleurettii</GBSeq_organism>
+./D83355.xml:  <GBSeq_organism>Staphylococcus aureus subsp. anaerobius</GBSeq_organism>
+./D83358.xml:  <GBSeq_organism>Staphylococcus auricularis</GBSeq_organism>
+./Y15750.xml:  <GBSeq_organism>Staphylococcus condimenti</GBSeq_organism>
+./AJ517414.xml:  <GBSeq_organism>Staphylococcus nepalensis</GBSeq_organism>
+./EU888120.xml:  <GBSeq_organism>Staphylococcus microti</GBSeq_organism>
+./D83364.xml:  <GBSeq_organism>Staphylococcus felis</GBSeq_organism>
+./D83373.xml:  <GBSeq_organism>Staphylococcus simulans</GBSeq_organism>
+./AJ780976.xml:  <GBSeq_organism>Staphylococcus pseudintermedius</GBSeq_organism>
+./L37600.xml:  <GBSeq_organism>Staphylococcus haemolyticus</GBSeq_organism>
+./AB009939.xml:  <GBSeq_organism>Staphylococcus equorum</GBSeq_organism>
+./D83369.xml:  <GBSeq_organism>Staphylococcus intermedius NCTC 11048</GBSeq_organism>
+./FM242137.xml:  <GBSeq_organism>Staphylococcus rostri</GBSeq_organism>
+./EF053370.xml:  <GBSeq_organism>Staphylococcus pseudolugdunensis</GBSeq_organism>
+./D83368.xml:  <GBSeq_organism>Staphylococcus hyicus</GBSeq_organism>
+./D83363.xml:  <GBSeq_organism>Staphylococcus epidermidis</GBSeq_organism>
+./D83370.xml:  <GBSeq_organism>Staphylococcus lentus</GBSeq_organism>
+./AJ421446.xml:  <GBSeq_organism>Staphylococcus sciuri subsp. sciuri</GBSeq_organism>
+./D83371.xml:  <GBSeq_organism>Staphylococcus saprophyticus</GBSeq_organism>
+./L37602.xml:  <GBSeq_organism>Staphylococcus saccharolyticus</GBSeq_organism>
+./D83366.xml:  <GBSeq_organism>Staphylococcus gallinarum</GBSeq_organism>
+./L37601.xml:  <GBSeq_organism>Staphylococcus hominis</GBSeq_organism>

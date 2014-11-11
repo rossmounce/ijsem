@@ -1,0 +1,45 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./DQ174116.xml:  <GBSeq_organism>Texas potato purple top phytoplasma PPT3-TX</GBSeq_organism>
+./AF498309.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./DQ174120.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AY725234.xml:  <GBSeq_organism>Candidatus Phytoplasma caricae</GBSeq_organism>
+./L76865.xml:  <GBSeq_organism>Candidatus Phytoplasma australiense</GBSeq_organism>
+./Y10097.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF175304.xml:  <GBSeq_organism>Clover yellow edge phytoplasma</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AJ632155.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./AY180955.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./DQ174117.xml:  <GBSeq_organism>Texas potato purple top phytoplasma PPT4-TX</GBSeq_organism>
+./DQ174115.xml:  <GBSeq_organism>Nebraska potato purple top phytoplasma PPT14-NE2</GBSeq_organism>
+./Y16393.xml:  <GBSeq_organism>&apos;Picris echioides&apos; phyllody phytoplasma</GBSeq_organism>
+./L33734.xml:  <GBSeq_organism>Acholeplasma palmae J233</GBSeq_organism>
+./AF248959.xml:  <GBSeq_organism>Candidatus Phytoplasma solani</GBSeq_organism>
+./AY135523.xml:  <GBSeq_organism>Candidatus Phytoplasma allocasuarinae</GBSeq_organism>
+./DQ174118.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./AF515636.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./DQ174114.xml:  <GBSeq_organism>Potato purple top phytoplasma PPT17</GBSeq_organism>
+./AF105317.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./DQ174121.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./DQ174123.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./L04682.xml:  <GBSeq_organism>Western X phytoplasma</GBSeq_organism>
+./U15442.xml:  <GBSeq_organism>Candidatus Phytoplasma aurantifolia</GBSeq_organism>
+./X76432.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./DQ174122.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./AY197645.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./U18763.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AY390261.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./Y16391.xml:  <GBSeq_organism>Bindweed yellows phytoplasma</GBSeq_organism>
+./AJ542544.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./AF222065.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./X80117.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AY725228.xml:  <GBSeq_organism>Candidatus Phytoplasma graminis</GBSeq_organism>
+./D12581.xml:  <GBSeq_organism>Candidatus Phytoplasma oryzae</GBSeq_organism>
+./AF147708.xml:  <GBSeq_organism>Candidatus Phytoplasma brasiliense</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./L33765.xml:  <GBSeq_organism>Peanut witches&apos;-broom phytoplasma</GBSeq_organism>
+./AJ542543.xml:  <GBSeq_organism>Candidatus Phytoplasma pyri</GBSeq_organism>
+./DQ174119.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./AF122910.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>

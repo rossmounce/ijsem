@@ -1,0 +1,10 @@
+./AY789654.xml:  <GBSeq_organism>Candida hispaniensis</GBSeq_organism>
+./U40087.xml:  <GBSeq_organism>Aciculoconidium aculeatum</GBSeq_organism>
+./U40080.xml:  <GBSeq_organism>Yarrowia lipolytica</GBSeq_organism>
+./AY116080.xml:  <GBSeq_organism>Candida galli</GBSeq_organism>
+./AJ508584.xml:  <GBSeq_organism>Zygoascus hellenicus</GBSeq_organism>
+./U62303.xml:  <GBSeq_organism>Candida incommunis</GBSeq_organism>
+./AY048154.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./AY447019.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./AB304771.xml:  <GBSeq_organism>Candida phangngaensis</GBSeq_organism>
+./AJ549213.xml:  <GBSeq_organism>Candida digboiensis</GBSeq_organism>

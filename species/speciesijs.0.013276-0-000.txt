@@ -1,0 +1,9 @@
+./AB473945.xml:  <GBSeq_organism>Actinokineospora cianjurensis</GBSeq_organism>
+./AB447488.xml:  <GBSeq_organism>Actinokineospora baliensis</GBSeq_organism>
+./AB447489.xml:  <GBSeq_organism>Actinokineospora cibodasensis</GBSeq_organism>
+./X84447.xml:  <GBSeq_organism>Actinosynnema mirum DSM 43827</GBSeq_organism>
+./AB058396.xml:  <GBSeq_organism>Actinokineospora auranticolor</GBSeq_organism>
+./AB058395.xml:  <GBSeq_organism>Actinokineospora enzanensis</GBSeq_organism>
+./X84321.xml:  <GBSeq_organism>Lentzea albidocapillata</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./GO200601.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>

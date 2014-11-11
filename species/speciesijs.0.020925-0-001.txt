@@ -1,0 +1,16 @@
+./EF465533.xml:  <GBSeq_organism>Pseudoxanthobacter soli DSM 19599</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AY776289.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./D11343.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AF004844.xml:  <GBSeq_organism>Methylopila capsulata</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./EF363715.xml:  <GBSeq_organism>Rhizobium soli</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./AY056830.xml:  <GBSeq_organism>Ancylobacter rudongensis</GBSeq_organism>
+./FJ502233.xml:  <GBSeq_organism>Methylopila jiangsuensis</GBSeq_organism>
+./AJ242584.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AF273213.xml:  <GBSeq_organism>Albibacter methylovorans</GBSeq_organism>
+./EU726271.xml:  <GBSeq_organism>Stappia indica</GBSeq_organism>
+./AF364068.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>

@@ -1,0 +1,39 @@
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./AB159680.xml:  <GBSeq_organism>Pleomorphomonas oryzae</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./U87759.xml:  <GBSeq_organism>Afipia broomeae ATCC 49717</GBSeq_organism>
+./DQ394095.xml:  <GBSeq_organism>Cohaesibacter gelatinilyticus</GBSeq_organism>
+./DQ446135.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./DQ446138.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./D14502.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./U00096.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. MG1655</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./AY649762.xml:  <GBSeq_organism>Martelella mediterranea</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./X94203.xml:  <GBSeq_organism>Xanthobacter autotrophicus</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./DQ446134.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./D30790.xml:  <GBSeq_organism>Afifella marina</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./L01260.xml:  <GBSeq_organism>Bartonella elizabethae</GBSeq_organism>
+./U29386.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./D12794.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./DQ446136.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./U69638.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 6</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./Y14313.xml:  <GBSeq_organism>Filomicrobium fusiforme</GBSeq_organism>
+./AJ242584.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./DQ446137.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./DQ386307.xml:  <GBSeq_organism>Cohaesibacter gelatinilyticus</GBSeq_organism>
+./Y14302.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./DQ446139.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>

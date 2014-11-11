@@ -1,0 +1,14 @@
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./DQ781320.xml:  <GBSeq_organism>Sphingopyxis marina DSM 22363</GBSeq_organism>
+./AY554010.xml:  <GBSeq_organism>Sphingopyxis flavimaris</GBSeq_organism>
+./AB245343.xml:  <GBSeq_organism>Sphingopyxis ginsengisoli</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./U20773.xml:  <GBSeq_organism>Novosphingobium subterraneum</GBSeq_organism>
+./AF367204.xml:  <GBSeq_organism>Sphingopyxis chilensis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY563034.xml:  <GBSeq_organism>Sphingopyxis granuli</GBSeq_organism>
+./AY608604.xml:  <GBSeq_organism>Sphingopyxis baekryungensis</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./AY950663.xml:  <GBSeq_organism>Sphingosinicella xenopeptidilytica</GBSeq_organism>

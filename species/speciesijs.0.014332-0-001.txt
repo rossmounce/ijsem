@@ -1,0 +1,7 @@
+./X52570.xml:  <GBSeq_organism>Weissella kandleri</GBSeq_organism>
+./AM882997.xml:  <GBSeq_organism>Weissella ghanensis</GBSeq_organism>
+./AY028260.xml:  <GBSeq_organism>Weissella soli</GBSeq_organism>
+./EU439435.xml:  <GBSeq_organism>Weissella beninensis</GBSeq_organism>
+./AB023238.xml:  <GBSeq_organism>Weissella paramesenteroides</GBSeq_organism>
+./AB362617.xml:  <GBSeq_organism>Weissella cibaria</GBSeq_organism>
+./AB023236.xml:  <GBSeq_organism>Weissella viridescens</GBSeq_organism>

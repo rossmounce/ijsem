@@ -1,0 +1,21 @@
+./AJ486874.xml:  <GBSeq_organism>Halobacillus karajensis</GBSeq_organism>
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AJ315060.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./AB010863.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./AF500003.xml:  <GBSeq_organism>Halobacillus salinus</GBSeq_organism>
+./X90834.xml:  <GBSeq_organism>Salimicrobium album</GBSeq_organism>
+./AJ418603.xml:  <GBSeq_organism>Sparus aurata</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AF418602.xml:  <GBSeq_organism>Amphibacillus tropicus</GBSeq_organism>
+./AJ315056.xml:  <GBSeq_organism>Virgibacillus necropolis</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./D78477.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AJ493661.xml:  <GBSeq_organism>Alkalibacillus filiformis</GBSeq_organism>
+./AJ496807.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./Y11603.xml:  <GBSeq_organism>Virgibacillus salexigens</GBSeq_organism>

@@ -1,0 +1,11 @@
+./U95951.xml:  <GBSeq_organism>Desulfotomaculum reducens MI-1</GBSeq_organism>
+./U88891.xml:  <GBSeq_organism>Desulfotomaculum halophilum</GBSeq_organism>
+./X98407.xml:  <GBSeq_organism>Desulfotomaculum aeronauticum</GBSeq_organism>
+./AB154390.xml:  <GBSeq_organism>Pelotomaculum propionicicum</GBSeq_organism>
+./AY327251.xml:  <GBSeq_organism>Cryptanaerobacter phenolicus</GBSeq_organism>
+./U33455.xml:  <GBSeq_organism>Desulfotomaculum thermocisternum</GBSeq_organism>
+./AF097024.xml:  <GBSeq_organism>Desulfotomaculum alkaliphilum</GBSeq_organism>
+./X80789.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./DQ148942.xml:  <GBSeq_organism>Desulfotomaculum arcticum</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>
+./Y14845.xml:  <GBSeq_organism>Sporotomaculum hydroxybenzoicum</GBSeq_organism>

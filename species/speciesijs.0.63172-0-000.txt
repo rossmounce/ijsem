@@ -1,0 +1,16 @@
+./AF288370.xml:  <GBSeq_organism>Idiomarina loihiensis</GBSeq_organism>
+./AJ294747.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AY526861.xml:  <GBSeq_organism>Idiomarina fontislapidosi</GBSeq_organism>
+./AJ548478.xml:  <GBSeq_organism>Glaciecola polaris</GBSeq_organism>
+./X82135.xml:  <GBSeq_organism>Pseudoalteromonas aurantia</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./U85845.xml:  <GBSeq_organism>Colwellia demingiae</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AY526862.xml:  <GBSeq_organism>Idiomarina ramblicola</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./AF052741.xml:  <GBSeq_organism>Idiomarina zobellii</GBSeq_organism>
+./AJ548479.xml:  <GBSeq_organism>Glaciecola mesophila</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AJ440215.xml:  <GBSeq_organism>Idiomarina baltica</GBSeq_organism>
+./AJ440214.xml:  <GBSeq_organism>Idiomarina baltica OS145</GBSeq_organism>

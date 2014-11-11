@@ -1,0 +1,19 @@
+./AY851489.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851485.xml:  <GBSeq_organism>Megasphaera micronuciformis</GBSeq_organism>
+./AY851502.xml:  <GBSeq_organism>Dialister propionicifaciens</GBSeq_organism>
+./AY851495.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851490.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851499.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851493.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851494.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851488.xml:  <GBSeq_organism>Dialister micraerophilus DSM 19965</GBSeq_organism>
+./AY851497.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851498.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851492.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851500.xml:  <GBSeq_organism>Dialister propionicifaciens</GBSeq_organism>
+./AY851491.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851504.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851487.xml:  <GBSeq_organism>Dialister invisus DSM 15470</GBSeq_organism>
+./AY851496.xml:  <GBSeq_organism>Dialister micraerophilus</GBSeq_organism>
+./AY851503.xml:  <GBSeq_organism>Dialister propionicifaciens</GBSeq_organism>
+./AY851501.xml:  <GBSeq_organism>Dialister propionicifaciens</GBSeq_organism>

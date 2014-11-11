@@ -1,0 +1,8 @@
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./EU365694.xml:  <GBSeq_organism>Microbulbifer donghaiensis</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./EF486352.xml:  <GBSeq_organism>Microbulbifer celer</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>
+./EF674853.xml:  <GBSeq_organism>Microbulbifer halophilus</GBSeq_organism>

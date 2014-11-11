@@ -1,0 +1,16 @@
+./X73976.xml:  <GBSeq_organism>Turicella otitidis</GBSeq_organism>
+./AJ297722.xml:  <GBSeq_organism>Kytococcus schroeteri</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./X87754.xml:  <GBSeq_organism>Kocuria varians</GBSeq_organism>
+./AY894329.xml:  <GBSeq_organism>Dermacoccus profundi</GBSeq_organism>
+./AJ278868.xml:  <GBSeq_organism>Kocuria polaris</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ243918.xml:  <GBSeq_organism>Dermatophilus congolensis DSM 44180 = NBRC 105199</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AY894323.xml:  <GBSeq_organism>Dermacoccus abyssi</GBSeq_organism>
+./AJ243919.xml:  <GBSeq_organism>Austwickia chelonae NBRC 105200</GBSeq_organism>
+./AF109792.xml:  <GBSeq_organism>Kineosphaera limosa NBRC 100340</GBSeq_organism>
+./AY211385.xml:  <GBSeq_organism>Kocuria marina</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>
+./AY894328.xml:  <GBSeq_organism>Dermacoccus barathri</GBSeq_organism>

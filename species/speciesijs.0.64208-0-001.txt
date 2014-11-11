@@ -1,0 +1,16 @@
+./AF149912.xml:  <GBSeq_organism>Entamoeba chattoni</GBSeq_organism>
+./DQ286371.xml:  <GBSeq_organism>Entamoeba equi</GBSeq_organism>
+./AJ566411.xml:  <GBSeq_organism>Entamoeba struthionis</GBSeq_organism>
+./D28490.xml:  <GBSeq_organism>Entamoeba gingivalis</GBSeq_organism>
+./AF149914.xml:  <GBSeq_organism>Entamoeba coli</GBSeq_organism>
+./AF149911.xml:  <GBSeq_organism>Entamoeba sp. NIH:1091:1</GBSeq_organism>
+./AF149906.xml:  <GBSeq_organism>Entamoeba moshkovskii</GBSeq_organism>
+./DQ288372.xml:  <GBSeq_organism>Hippocampus kuda</GBSeq_organism>
+./AF149910.xml:  <GBSeq_organism>Entamoeba terrapinae</GBSeq_organism>
+./AF149913.xml:  <GBSeq_organism>Entamoeba polecki</GBSeq_organism>
+./AF149908.xml:  <GBSeq_organism>Entamoeba ranarum</GBSeq_organism>
+./X56991.xml:  <GBSeq_organism>Entamoeba histolytica</GBSeq_organism>
+./AF149909.xml:  <GBSeq_organism>Entamoeba insolita</GBSeq_organism>
+./AF149905.xml:  <GBSeq_organism>Entamoeba invadens</GBSeq_organism>
+./AF149907.xml:  <GBSeq_organism>Entamoeba hartmanni</GBSeq_organism>
+./AF149915.xml:  <GBSeq_organism>Entamoeba coli</GBSeq_organism>

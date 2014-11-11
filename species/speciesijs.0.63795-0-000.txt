@@ -1,0 +1,19 @@
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AY163576.xml:  <GBSeq_organism>Croceibacter atlanticus HTCC2559</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./Y17612.xml:  <GBSeq_organism>Coenonia anatina</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AJ005972.xml:  <GBSeq_organism>Cellulophaga baltica</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>

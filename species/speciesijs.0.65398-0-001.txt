@@ -1,0 +1,13 @@
+./U17364.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./DQ017835.xml:  <GBSeq_organism>Halococcus hamelinensis 100A6</GBSeq_organism>
+./D13379.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AB291216.xml:  <GBSeq_organism>haloarchaeon Nie 7-1</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./EF055454.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./AY458601.xml:  <GBSeq_organism>Haloferax sulfurifontis ATCC BAA-897</GBSeq_organism>

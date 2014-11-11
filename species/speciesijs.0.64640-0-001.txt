@@ -1,0 +1,12 @@
+./AY125964.xml:  <GBSeq_organism>Petrotoga mexicana</GBSeq_organism>
+./AF326121.xml:  <GBSeq_organism>Marinitoga piezophila KA3</GBSeq_organism>
+./L10659.xml:  <GBSeq_organism>Geotoga subterranea</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./AJ272022.xml:  <GBSeq_organism>Thermosipho geolei</GBSeq_organism>
+./AJ250439.xml:  <GBSeq_organism>Marinitoga camini</GBSeq_organism>
+./AJ786363.xml:  <GBSeq_organism>Marinitoga hydrogenitolerans</GBSeq_organism>
+./M59176.xml:  <GBSeq_organism>Fervidobacterium islandicum</GBSeq_organism>
+./Y15479.xml:  <GBSeq_organism>Petrotoga mobilis SJ95</GBSeq_organism>
+./M59177.xml:  <GBSeq_organism>Fervidobacterium nodosum</GBSeq_organism>
+./L10658.xml:  <GBSeq_organism>Geotoga petraea</GBSeq_organism>
+./U22664.xml:  <GBSeq_organism>Thermotoga subterranea</GBSeq_organism>

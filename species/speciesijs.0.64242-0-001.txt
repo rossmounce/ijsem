@@ -1,0 +1,13 @@
+./AM085477.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./J01695.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./AF039292.xml:  <GBSeq_organism>Lewinella cohaerens</GBSeq_organism>
+./M59052.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./M61006.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./DQ129288.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AB078050.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AY177767.xml:  <GBSeq_organism>uncultured Flavobacterium sp.</GBSeq_organism>

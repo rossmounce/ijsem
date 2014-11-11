@@ -1,0 +1,5 @@
+./EF010917.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./EF010916.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AB014945.xml:  <GBSeq_organism>Rhodovulum strictum</GBSeq_organism>
+./EF010918.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./EF010915.xml:  <GBSeq_organism>Pseudoruegeria aquimaris</GBSeq_organism>

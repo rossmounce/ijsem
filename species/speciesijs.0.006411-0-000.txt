@@ -1,0 +1,12 @@
+./AB126678.xml:  <GBSeq_organism>Pichia myanmarensis</GBSeq_organism>
+./U74587.xml:  <GBSeq_organism>Wickerhamomyces ciferrii</GBSeq_organism>
+./EU580140.xml:  <GBSeq_organism>Wickerhamomyces queroliae</GBSeq_organism>
+./U69879.xml:  <GBSeq_organism>Candida silvicultrix</GBSeq_organism>
+./U74592.xml:  <GBSeq_organism>Wickerhamomyces anomalus</GBSeq_organism>
+./U74598.xml:  <GBSeq_organism>Wickerhamomyces hampshirensis</GBSeq_organism>
+./U74591.xml:  <GBSeq_organism>Pichia strasburgensis</GBSeq_organism>
+./AF027241.xml:  <GBSeq_organism>Cepphus grylle grylle</GBSeq_organism>
+./U74593.xml:  <GBSeq_organism>Wickerhamomyces subpelliculosus</GBSeq_organism>
+./U74595.xml:  <GBSeq_organism>Wickerhamomyces lynferdii</GBSeq_organism>
+./U74594.xml:  <GBSeq_organism>Wickerhamomyces sydowiorum</GBSeq_organism>
+./AF271085.xml:  <GBSeq_organism>Candida ponderosae</GBSeq_organism>

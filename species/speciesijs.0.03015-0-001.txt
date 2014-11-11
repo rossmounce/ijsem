@@ -1,0 +1,22 @@
+./Y11552.xml:  <GBSeq_organism>Antarctobacter heliothermus</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./AY424897.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AJ227813.xml:  <GBSeq_organism>Hyphomonas polymorpha</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./D14502.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AF136846.xml:  <GBSeq_organism>Ketogulonicigenium vulgare</GBSeq_organism>
+./AF248638.xml:  <GBSeq_organism>Rhodobaca bogoriensis DSM 18756</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./AJ421782.xml:  <GBSeq_organism>Hirschia baltica ATCC 49814</GBSeq_organism>
+./AF124521.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AF465833.xml:  <GBSeq_organism>Albidovulum inexpectatum</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./U62894.xml:  <GBSeq_organism>Marinosulfonomonas methylotropha</GBSeq_organism>
+./AJ227802.xml:  <GBSeq_organism>Maricaulis maris</GBSeq_organism>

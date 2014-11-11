@@ -1,0 +1,19 @@
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X74690.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./X76336.xml:  <GBSeq_organism>Vibrio furnissii</GBSeq_organism>
+./X74686.xml:  <GBSeq_organism>Photobacterium leiognathi subsp. leiognathi</GBSeq_organism>
+./X74687.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AJ421444.xml:  <GBSeq_organism>Vibrio penaeicida</GBSeq_organism>
+./AY554009.xml:  <GBSeq_organism>Photobacterium lipolyticum</GBSeq_organism>
+./X60404.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AB159513.xml:  <GBSeq_organism>Photobacterium indicum</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./X76333.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./D21226.xml:  <GBSeq_organism>Photobacterium profundum</GBSeq_organism>
+./Y08430.xml:  <GBSeq_organism>Vibrio tapetis</GBSeq_organism>
+./X74685.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./X74713.xml:  <GBSeq_organism>Vibrio mimicus</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

@@ -1,0 +1,11 @@
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./D16145.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AF159257.xml:  <GBSeq_organism>Sphingobium chungbukense</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./AY519130.xml:  <GBSeq_organism>Sphingobium francense</GBSeq_organism>
+./AB047364.xml:  <GBSeq_organism>Sphingobium amiense</GBSeq_organism>
+./AB042233.xml:  <GBSeq_organism>Sphingobium herbicidovorans</GBSeq_organism>
+./AB084247.xml:  <GBSeq_organism>Sphingosinicella microcystinivorans</GBSeq_organism>
+./AM181012.xml:  <GBSeq_organism>Sphingobium aromaticiconvertens</GBSeq_organism>

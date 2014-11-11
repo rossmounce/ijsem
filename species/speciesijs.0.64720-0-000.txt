@@ -1,0 +1,31 @@
+./AY187688.xml:  <GBSeq_organism>Formosa agariphila KMM 3901</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./AY693999.xml:  <GBSeq_organism>Subsaxibacter broadyi</GBSeq_organism>
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AJ780980.xml:  <GBSeq_organism>Leeuwenhoekiella aequorea</GBSeq_organism>
+./AY682382.xml:  <GBSeq_organism>Yeosuana aromativorans</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./AY521224.xml:  <GBSeq_organism>Winogradskyella epiphytica</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AY693998.xml:  <GBSeq_organism>Subsaximicrobium saxinquilinus</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY694004.xml:  <GBSeq_organism>Bizionia gelidisalsuginis</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AY694009.xml:  <GBSeq_organism>Gelidibacter salicanalis</GBSeq_organism>
+./AJ344133.xml:  <GBSeq_organism>Gelidibacter mesophilus</GBSeq_organism>
+./AY693997.xml:  <GBSeq_organism>Subsaximicrobium wynnwilliamsii</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY694002.xml:  <GBSeq_organism>Bizionia myxarmorum</GBSeq_organism>
+./AY694003.xml:  <GBSeq_organism>Bizionia algoritergicola</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./AF001369.xml:  <GBSeq_organism>Gelidibacter gilvus</GBSeq_organism>
+./AY694005.xml:  <GBSeq_organism>Bizionia saleffrena</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>
+./AY521225.xml:  <GBSeq_organism>Winogradskyella eximia</GBSeq_organism>

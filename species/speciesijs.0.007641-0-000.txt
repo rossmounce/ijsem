@@ -1,0 +1,13 @@
+./AF287802.xml:  <GBSeq_organism>Selenomonas infelix ATCC 43532</GBSeq_organism>
+./AF479674.xml:  <GBSeq_organism>Mitsuokella jalaludinii</GBSeq_organism>
+./AF001901.xml:  <GBSeq_organism>Selenomonas lipolytica</GBSeq_organism>
+./AF287801.xml:  <GBSeq_organism>Selenomonas dianae</GBSeq_organism>
+./X81878.xml:  <GBSeq_organism>Mitsuokella multacida DSM 20544</GBSeq_organism>
+./AF287793.xml:  <GBSeq_organism>Selenomonas sputigena ATCC 35185</GBSeq_organism>
+./M62702.xml:  <GBSeq_organism>Selenomonas ruminantium</GBSeq_organism>
+./M62703.xml:  <GBSeq_organism>Selenomonas ruminantium</GBSeq_organism>
+./AF373024.xml:  <GBSeq_organism>Selenomonas lacticifex</GBSeq_organism>
+./EU821596.xml:  <GBSeq_organism>Selenomonas sp. Ycb08</GBSeq_organism>
+./AF287803.xml:  <GBSeq_organism>Selenomonas flueggei ATCC 43531</GBSeq_organism>
+./EF139191.xml:  <GBSeq_organism>Selenomonas bovis</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

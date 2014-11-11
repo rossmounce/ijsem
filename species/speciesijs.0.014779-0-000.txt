@@ -1,0 +1,14 @@
+./EU103629.xml:  <GBSeq_organism>Pseudomonas taiwanensis</GBSeq_organism>
+./AM293566.xml:  <GBSeq_organism>Pseudomonas moorei</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./AF468452.xml:  <GBSeq_organism>Pseudomonas koreensis</GBSeq_organism>
+./AY364537.xml:  <GBSeq_organism>Pseudomonas lutea</GBSeq_organism>
+./AF064458.xml:  <GBSeq_organism>Pseudomonas monteilii</GBSeq_organism>
+./AY152673.xml:  <GBSeq_organism>Pseudomonas rhizosphaerae</GBSeq_organism>
+./AM293567.xml:  <GBSeq_organism>Pseudomonas mohnii</GBSeq_organism>
+./D84004.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./AB021381.xml:  <GBSeq_organism>Pseudomonas fuscovaginae</GBSeq_organism>
+./AF468450.xml:  <GBSeq_organism>Pseudomonas umsongensis</GBSeq_organism>
+./D84015.xml:  <GBSeq_organism>Pseudomonas fulva</GBSeq_organism>
+./AF072688.xml:  <GBSeq_organism>Pseudomonas mosselii</GBSeq_organism>

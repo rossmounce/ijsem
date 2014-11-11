@@ -1,0 +1,8 @@
+./Y11333.xml:  <GBSeq_organism>Deinococcus radiophilus</GBSeq_organism>
+./Y13038.xml:  <GBSeq_organism>Deinococcus geothermalis DSM 11300</GBSeq_organism>
+./AY876379.xml:  <GBSeq_organism>Deinococcus deserti</GBSeq_organism>
+./Y11329.xml:  <GBSeq_organism>Deinococcus grandis</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./AY876378.xml:  <GBSeq_organism>Deinococcus deserti VCD115</GBSeq_organism>
+./Y11332.xml:  <GBSeq_organism>Deinococcus radiodurans</GBSeq_organism>
+./Y11331.xml:  <GBSeq_organism>Deinococcus proteolyticus MRP</GBSeq_organism>

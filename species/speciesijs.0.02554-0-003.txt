@@ -1,0 +1,18 @@
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X77676.xml:  <GBSeq_organism>Clostridium algidicarnis</GBSeq_organism>
+./AJ506116.xml:  <GBSeq_organism>Clostridium frigoris</GBSeq_organism>
+./X68451.xml:  <GBSeq_organism>Clostridium subterminale</GBSeq_organism>
+./X97432.xml:  <GBSeq_organism>Clostridium vincentii</GBSeq_organism>
+./X68181.xml:  <GBSeq_organism>Clostridium estertheticum subsp. estertheticum</GBSeq_organism>
+./AF156796.xml:  <GBSeq_organism>Clostridium peptidivorans</GBSeq_organism>
+./AF069742.xml:  <GBSeq_organism>Clostridium frigidicarnis</GBSeq_organism>
+./AJ506118.xml:  <GBSeq_organism>Clostridium lacusfryxellense</GBSeq_organism>
+./X96736.xml:  <GBSeq_organism>Clostridium pascui</GBSeq_organism>
+./AJ506115.xml:  <GBSeq_organism>Clostridium estertheticum subsp. laramiense</GBSeq_organism>
+./AF317650.xml:  <GBSeq_organism>Clostridium thiosulfatireducens</GBSeq_organism>
+./AJ297443.xml:  <GBSeq_organism>Clostridium psychrophilum</GBSeq_organism>
+./X68316.xml:  <GBSeq_organism>Clostridium argentinense</GBSeq_organism>
+./AJ506119.xml:  <GBSeq_organism>Clostridium bowmanii</GBSeq_organism>
+./AJ506117.xml:  <GBSeq_organism>Clostridium frigoris</GBSeq_organism>
+./AJ506120.xml:  <GBSeq_organism>Clostridium bowmanii</GBSeq_organism>
+./AF092548.xml:  <GBSeq_organism>Clostridium gasigenes</GBSeq_organism>

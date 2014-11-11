@@ -1,0 +1,20 @@
+./AJ843535.xml:  <GBSeq_organism>Enterococcus canintestini</GBSeq_organism>
+./AJ843504.xml:  <GBSeq_organism>Enterococcus asini</GBSeq_organism>
+./AJ843271.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AJ843493.xml:  <GBSeq_organism>Enterococcus dispar ATCC 51266</GBSeq_organism>
+./AJ843486.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AJ843302.xml:  <GBSeq_organism>Tetragenococcus solitarius</GBSeq_organism>
+./AJ843518.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AJ843306.xml:  <GBSeq_organism>Enterococcus canis</GBSeq_organism>
+./AJ843299.xml:  <GBSeq_organism>Enterococcus asini</GBSeq_organism>
+./AJ843301.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AJ843509.xml:  <GBSeq_organism>Enterococcus canis</GBSeq_organism>
+./AJ843327.xml:  <GBSeq_organism>Enterococcus canintestini</GBSeq_organism>
+./AJ843317.xml:  <GBSeq_organism>Enterococcus dispar ATCC 51266</GBSeq_organism>
+./AJ843521.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./AJ843490.xml:  <GBSeq_organism>Tetragenococcus solitarius</GBSeq_organism>
+./AJ843482.xml:  <GBSeq_organism>Enterococcus gallinarum</GBSeq_organism>
+./AJ843277.xml:  <GBSeq_organism>Enterococcus gallinarum</GBSeq_organism>
+./AJ843484.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AJ843267.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AJ843337.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>

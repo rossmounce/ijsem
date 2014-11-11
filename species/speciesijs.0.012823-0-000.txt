@@ -1,0 +1,16 @@
+./AF247698.xml:  <GBSeq_organism>Pandoraea sp. H652</GBSeq_organism>
+./X67037.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./AF247693.xml:  <GBSeq_organism>Pandoraea sp. G5084</GBSeq_organism>
+./X73223.xml:  <GBSeq_organism>unidentified proteobacterium</GBSeq_organism>
+./Y09879.xml:  <GBSeq_organism>Pandoraea norimbergensis</GBSeq_organism>
+./AF139176.xml:  <GBSeq_organism>Pandoraea sputorum</GBSeq_organism>
+./AF139174.xml:  <GBSeq_organism>Pandoraea pnomenusa</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./EF397578.xml:  <GBSeq_organism>Pandoraea thiooxydans</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./X92188.xml:  <GBSeq_organism>Burkholderia sp. JB1</GBSeq_organism>
+./AF247697.xml:  <GBSeq_organism>Pandoraea sp. G9805</GBSeq_organism>
+./AF263278.xml:  <GBSeq_organism>Burkholderia sacchari</GBSeq_organism>

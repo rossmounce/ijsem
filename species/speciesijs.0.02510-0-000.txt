@@ -1,0 +1,12 @@
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./D13725.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AF500005.xml:  <GBSeq_organism>Erythrobacter flavus</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./L01786.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./D13737.xml:  <GBSeq_organism>Sphingobium suberifaciens</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./AF500004.xml:  <GBSeq_organism>Erythrobacter flavus</GBSeq_organism>

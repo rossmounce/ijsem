@@ -1,0 +1,11 @@
+./X83410.xml:  <GBSeq_organism>Arthrobacter uratoxydans</GBSeq_organism>
+./Y15885.xml:  <GBSeq_organism>Arthrobacter rhombi</GBSeq_organism>
+./AM158906.xml:  <GBSeq_organism>Brevibacterium oceani</GBSeq_organism>
+./X80745.xml:  <GBSeq_organism>Arthrobacter protophormiae</GBSeq_organism>
+./X80739.xml:  <GBSeq_organism>Arthrobacter nicotianae</GBSeq_organism>
+./AJ606062.xml:  <GBSeq_organism>Arthrobacter kerguelensis</GBSeq_organism>
+./AJ606061.xml:  <GBSeq_organism>Arthrobacter gangotriensis Lz1y</GBSeq_organism>
+./AM931709.xml:  <GBSeq_organism>Arthrobacter antarcticus</GBSeq_organism>
+./AJ609628.xml:  <GBSeq_organism>Arthrobacter arilaitensis Re117</GBSeq_organism>
+./X83409.xml:  <GBSeq_organism>Arthrobacter sulfureus</GBSeq_organism>
+./AJ616763.xml:  <GBSeq_organism>Arthrobacter psychrophenolicus</GBSeq_organism>

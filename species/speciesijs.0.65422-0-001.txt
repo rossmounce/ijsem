@@ -1,0 +1,20 @@
+./AF418164.xml:  <GBSeq_organism>Desulfotomaculum ruminis DSM 2154</GBSeq_organism>
+./AB274311.xml:  <GBSeq_organism>Archaeoglobus veneficus</GBSeq_organism>
+./AF418132.xml:  <GBSeq_organism>Archaeoglobus veneficus</GBSeq_organism>
+./M59126.xml:  <GBSeq_organism>Methanocaldococcus jannaschii</GBSeq_organism>
+./X05567.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./M21529.xml:  <GBSeq_organism>Thermococcus celer</GBSeq_organism>
+./AF418181.xml:  <GBSeq_organism>Archaeoglobus veneficus</GBSeq_organism>
+./AB274310.xml:  <GBSeq_organism>Archaeoglobus infectus DSM 18877</GBSeq_organism>
+./AF418114.xml:  <GBSeq_organism>Thermodesulfobacterium commune DSM 2178</GBSeq_organism>
+./AE000782.xml:  <GBSeq_organism>Archaeoglobus fulgidus DSM 4304</GBSeq_organism>
+./AF297529.xml:  <GBSeq_organism>Archaeoglobus profundus</GBSeq_organism>
+./AF071499.xml:  <GBSeq_organism>Archaeoglobus profundus DSM 5631</GBSeq_organism>
+./AE000666.xml:  <GBSeq_organism>Methanothermobacter thermautotrophicus str. Delta H</GBSeq_organism>
+./AF226708.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./X99565.xml:  <GBSeq_organism>Ferroglobus placidus DSM 10642</GBSeq_organism>
+./AF220165.xml:  <GBSeq_organism>Geoglobus ahangari</GBSeq_organism>
+./AJ299218.xml:  <GBSeq_organism>Archaeoglobus lithotrophicus</GBSeq_organism>
+./AF271767.xml:  <GBSeq_organism>Desulfosporosinus orientis</GBSeq_organism>
+./AF418134.xml:  <GBSeq_organism>Archaeoglobus profundus DSM 5631</GBSeq_organism>
+./M95624.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>

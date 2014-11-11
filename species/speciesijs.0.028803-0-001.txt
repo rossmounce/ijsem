@@ -1,0 +1,20 @@
+./HQ259437.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6187</GBSeq_organism>
+./HQ259450.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./HQ259451.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./HQ259421.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6148</GBSeq_organism>
+./HQ259432.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259442.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6156</GBSeq_organism>
+./HQ259453.xml:  <GBSeq_organism>Bradyrhizobium japonicum SEMIA 5079</GBSeq_organism>
+./HO259423.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259444.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259419.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6093</GBSeq_organism>
+./HQ259436.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6164</GBSeq_organism>
+./HQ259441.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6179</GBSeq_organism>
+./HQ259447.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259452.xml:  <GBSeq_organism>Bradyrhizobium canariense</GBSeq_organism>
+./HQ259449.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259443.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 656</GBSeq_organism>
+./HQ259434.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259448.xml:  <GBSeq_organism>Bradyrhizobium diazoefficiens SEMIA 5080</GBSeq_organism>
+./HQ259454.xml:  <GBSeq_organism>Bradyrhizobium diazoefficiens</GBSeq_organism>
+./HQ259445.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>

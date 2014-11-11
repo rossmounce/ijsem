@@ -1,0 +1,13 @@
+./AJ416411.xml:  <GBSeq_organism>Novosphingobium hassiacum</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./U20775.xml:  <GBSeq_organism>Novosphingobium stygium</GBSeq_organism>
+./AJ416410.xml:  <GBSeq_organism>Sphingopyxis witflariensis</GBSeq_organism>
+./U20773.xml:  <GBSeq_organism>Novosphingobium subterraneum</GBSeq_organism>
+./AF367204.xml:  <GBSeq_organism>Sphingopyxis chilensis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./EF424403.xml:  <GBSeq_organism>Novosphingobium mathurense</GBSeq_organism>
+./U20756.xml:  <GBSeq_organism>Novosphingobium aromaticivorans</GBSeq_organism>
+./AY608604.xml:  <GBSeq_organism>Sphingopyxis baekryungensis</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./D13945.xml:  <GBSeq_organism>Novosphingobium rosa</GBSeq_organism>
+./EF424402.xml:  <GBSeq_organism>Novosphingobium panipatense</GBSeq_organism>

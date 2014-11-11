@@ -1,0 +1,9 @@
+./DQ178977.xml:  <GBSeq_organism>Pseudoxanthomonas dokdonensis</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ012229.xml:  <GBSeq_organism>Stenotrophomonas nitritireducens</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AM403587.xml:  <GBSeq_organism>Stenotrophomonas humi</GBSeq_organism>
+./AM403589.xml:  <GBSeq_organism>Stenotrophomonas terrae</GBSeq_organism>
+./AB166885.xml:  <GBSeq_organism>Stenotrophomonas koreensis</GBSeq_organism>
+./DQ109037.xml:  <GBSeq_organism>Stenotrophomonas daejeonensis</GBSeq_organism>
+./U62646.xml:  <GBSeq_organism>Stenotrophomonas maltophilia MGB</GBSeq_organism>

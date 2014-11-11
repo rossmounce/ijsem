@@ -1,0 +1,8 @@
+./FJ765060.xml:  <GBSeq_organism>Nocardia niwae NBRC 108934 = DSM 45340</GBSeq_organism>
+./AB450769.xml:  <GBSeq_organism>Nocardia arthritidis</GBSeq_organism>
+./GO496129.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./AB450770.xml:  <GBSeq_organism>Nocardia asiatica NBRC 100129</GBSeq_organism>
+./GO496098.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496112.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./FJ765061.xml:  <GBSeq_organism>Nocardia amamiensis</GBSeq_organism>
+./GO496127.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>

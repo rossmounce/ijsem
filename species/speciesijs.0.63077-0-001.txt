@@ -1,0 +1,11 @@
+./D14146.xml:  <GBSeq_organism>Anaerococcus vaginalis ATCC 51170</GBSeq_organism>
+./X69837.xml:  <GBSeq_organism>Helcococcus kunzii</GBSeq_organism>
+./Y07841.xml:  <GBSeq_organism>Anaerococcus octavius NCTC 9810</GBSeq_organism>
+./Y07840.xml:  <GBSeq_organism>Peptoniphilus ivorii</GBSeq_organism>
+./D14140.xml:  <GBSeq_organism>Anaerococcus hydrogenalis DSM 7454</GBSeq_organism>
+./Y16279.xml:  <GBSeq_organism>Helcococcus ovis</GBSeq_organism>
+./X55797.xml:  <GBSeq_organism>Peptococcus niger</GBSeq_organism>
+./Y07839.xml:  <GBSeq_organism>Peptoniphilus harei</GBSeq_organism>
+./AJ579914.xml:  <GBSeq_organism>Helcococcus sueciensis</GBSeq_organism>
+./D14147.xml:  <GBSeq_organism>Peptoniphilus indolicus ATCC 29427</GBSeq_organism>
+./L04168.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AY968205.xml:  <GBSeq_organism>Porphyromonas somerae DSM 23386</GBSeq_organism>
+./GQ200196.xml:  <GBSeq_organism>Sunxiuqinia elliptica</GBSeq_organism>
+./FJ394546.xml:  <GBSeq_organism>Marinifilum fragile CECT 7942</GBSeq_organism>
+./Y18530.xml:  <GBSeq_organism>Dysgonomonas gadei ATCC BAA-286</GBSeq_organism>
+./AJ854059.xml:  <GBSeq_organism>Myroides odoratimimus</GBSeq_organism>
+./AB078042.xml:  <GBSeq_organism>Crocinitomix catalasitica</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./L16493.xml:  <GBSeq_organism>Porphyromonas levii</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./AJ784993.xml:  <GBSeq_organism>Alkaliflexus imshenetskii DSM 15055</GBSeq_organism>
+./AM230650.xml:  <GBSeq_organism>Bacteroides xylanisolvens XB1A</GBSeq_organism>
+./AY974070.xml:  <GBSeq_organism>Parabacteroides goldsteinii</GBSeq_organism>
+./EU204978.xml:  <GBSeq_organism>Myroides profundi</GBSeq_organism>

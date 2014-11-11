@@ -1,0 +1,11 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF358664.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./M59067.xml:  <GBSeq_organism>Phaeospirillum molischianum</GBSeq_organism>
+./FJ463255.xml:  <GBSeq_organism>Oceanibaculum pacificum</GBSeq_organism>
+./AB071665.xml:  <GBSeq_organism>Tistrella mobilis</GBSeq_organism>
+./AM283537.xml:  <GBSeq_organism>Roseospira goensis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./EF203900.xml:  <GBSeq_organism>Thalassobaculum litoreum DSM 18839</GBSeq_organism>
+./AF524863.xml:  <GBSeq_organism>Telmatospirillum siberiense</GBSeq_organism>
+./X79739.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>

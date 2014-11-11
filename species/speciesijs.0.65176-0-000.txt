@@ -1,0 +1,11 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AY207502.xml:  <GBSeq_organism>Aestuariibacter salexigens</GBSeq_organism>
+./AY553295.xml:  <GBSeq_organism>Salinimonas chungwhensis</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./AY563030.xml:  <GBSeq_organism>Marinobacterium halophilum</GBSeq_organism>
+./EF192391.xml:  <GBSeq_organism>Marinobacterium rhizophilum</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>

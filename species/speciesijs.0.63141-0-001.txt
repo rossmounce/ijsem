@@ -1,0 +1,10 @@
+./AJ238361.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AY376163.xml:  <GBSeq_organism>Pseudoduganella violaceinigra</GBSeq_organism>
+./U96934.xml:  <GBSeq_organism>Burkholderia gladioli</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./U96933.xml:  <GBSeq_organism>Burkholderia plantarii</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AJ238359.xml:  <GBSeq_organism>Herbaspirillum frisingense</GBSeq_organism>

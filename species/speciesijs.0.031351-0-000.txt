@@ -1,0 +1,10 @@
+./DQ438196.xml:  <GBSeq_organism>Sugiyamaella novakii</GBSeq_organism>
+./U45835.xml:  <GBSeq_organism>Sugiyamaella valdiviana</GBSeq_organism>
+./FJ527142.xml:  <GBSeq_organism>Candida sp. GA1S04</GBSeq_organism>
+./FJ527143.xml:  <GBSeq_organism>Candida sp. GY44S02</GBSeq_organism>
+./GU195663.xml:  <GBSeq_organism>Candida sp. NCAIM Y.01957</GBSeq_organism>
+./U45811.xml:  <GBSeq_organism>Candida santjacobensis</GBSeq_organism>
+./HM151014.xml:  <GBSeq_organism>Candida sp. HNX16-2</GBSeq_organism>
+./DQ438198.xml:  <GBSeq_organism>Sugiyamaella lignohabitans</GBSeq_organism>
+./FN659776.xml:  <GBSeq_organism>Candida sp. KBP 3878</GBSeq_organism>
+./EU563853.xml:  <GBSeq_organism>Candida sp. FGSFEP</GBSeq_organism>

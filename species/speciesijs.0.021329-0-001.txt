@@ -1,0 +1,18 @@
+./EF408737.xml:  <GBSeq_organism>Streptomyces ruanii</GBSeq_organism>
+./AJ391834.xml:  <GBSeq_organism>Streptomyces rhizosphaericus</GBSeq_organism>
+./EF408733.xml:  <GBSeq_organism>Streptomyces rapamycinicus</GBSeq_organism>
+./AJ391831.xml:  <GBSeq_organism>Streptomyces cangkringensis</GBSeq_organism>
+./AJ391827.xml:  <GBSeq_organism>Streptomyces yogyakartensis</GBSeq_organism>
+./AJ391812.xml:  <GBSeq_organism>Streptomyces albiflaviniger</GBSeq_organism>
+./EF408736.xml:  <GBSeq_organism>Streptomyces himastatinicus ATCC 53653</GBSeq_organism>
+./AF117304.xml:  <GBSeq_organism>Streptomyces malaysiensis</GBSeq_organism>
+./AB249933.xml:  <GBSeq_organism>Streptomyces sporocinereus</GBSeq_organism>
+./AB184185.xml:  <GBSeq_organism>Streptomyces antimycoticus</GBSeq_organism>
+./AY508511.xml:  <GBSeq_organism>Streptomyces castelarensis</GBSeq_organism>
+./AJ391820.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./Z68099.xml:  <GBSeq_organism>Streptomyces macrosporus</GBSeq_organism>
+./AJ391822.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./EU077190.xml:  <GBSeq_organism>Streptomyces samsunensis</GBSeq_organism>
+./Z68100.xml:  <GBSeq_organism>Streptomyces megasporus</GBSeq_organism>
+./EF408735.xml:  <GBSeq_organism>Streptomyces mordarskii</GBSeq_organism>
+./AF336800.xml:  <GBSeq_organism>Streptomyces yatensis</GBSeq_organism>

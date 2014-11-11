@@ -1,0 +1,14 @@
+./AB258358.xml:  <GBSeq_organism>Salinicoccus siamensis</GBSeq_organism>
+./EU240886.xml:  <GBSeq_organism>Nosocomiicoccus ampullae</GBSeq_organism>
+./AJ251530.xml:  <GBSeq_organism>Jeotgalicoccus pinnipedialis</GBSeq_organism>
+./GU295938.xml:  <GBSeq_organism>Jeotgalicoccus coquinae</GBSeq_organism>
+./FJ158840.xml:  <GBSeq_organism>Jeotgalicoccus huakuii</GBSeq_organism>
+./EF177692.xml:  <GBSeq_organism>Salinicoccus albus DSM 19776</GBSeq_organism>
+./AJ780976.xml:  <GBSeq_organism>Staphylococcus pseudintermedius</GBSeq_organism>
+./D83359.xml:  <GBSeq_organism>Macrococcus caseolyticus</GBSeq_organism>
+./AY028926.xml:  <GBSeq_organism>Jeotgalicoccus psychrophilus</GBSeq_organism>
+./X94559.xml:  <GBSeq_organism>Salinicoccus roseus</GBSeq_organism>
+./D83370.xml:  <GBSeq_organism>Staphylococcus lentus</GBSeq_organism>
+./GU295939.xml:  <GBSeq_organism>Jeotgalicoccus aerolatus</GBSeq_organism>
+./AF275710.xml:  <GBSeq_organism>Salinicoccus alkaliphilus DSM 16010</GBSeq_organism>
+./EU583727.xml:  <GBSeq_organism>Jeotgalicoccus marinus</GBSeq_organism>

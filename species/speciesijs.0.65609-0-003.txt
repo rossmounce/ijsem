@@ -1,0 +1,13 @@
+./AB354953.xml:  <GBSeq_organism>Weissella paramesenteroides</GBSeq_organism>
+./AB354946.xml:  <GBSeq_organism>Fructobacillus fructosus</GBSeq_organism>
+./AB354954.xml:  <GBSeq_organism>Weissella confusa</GBSeq_organism>
+./AB354941.xml:  <GBSeq_organism>Leuconostoc gelidum KCTC 3527</GBSeq_organism>
+./AB354951.xml:  <GBSeq_organism>Fructobacillus pseudoficulneus</GBSeq_organism>
+./AB354949.xml:  <GBSeq_organism>Leuconostoc carnosum</GBSeq_organism>
+./CP000411.xml:  <GBSeq_organism>Oenococcus oeni PSU-1</GBSeq_organism>
+./AB354940.xml:  <GBSeq_organism>Fructobacillus ficulneus</GBSeq_organism>
+./AB354947.xml:  <GBSeq_organism>Leuconostoc inhae</GBSeq_organism>
+./AB354952.xml:  <GBSeq_organism>Weissella viridescens</GBSeq_organism>
+./AE006272.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis Il1403</GBSeq_organism>
+./AB354945.xml:  <GBSeq_organism>Leuconostoc lactis KCTC 3528 = DSM 20202</GBSeq_organism>
+./AB354943.xml:  <GBSeq_organism>Leuconostoc citreum</GBSeq_organism>

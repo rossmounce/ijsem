@@ -1,0 +1,5 @@
+./D50649.xml:  <GBSeq_organism>Rhodobacter blasticus</GBSeq_organism>
+./AY853584.xml:  <GBSeq_organism>Sphingomonas sp. PB180</GBSeq_organism>
+./AY853583.xml:  <GBSeq_organism>Sphingomonas sp. PB56</GBSeq_organism>
+./AY853585.xml:  <GBSeq_organism>Sphingomonas sp. PB229</GBSeq_organism>
+./D50648.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>

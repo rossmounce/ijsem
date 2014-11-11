@@ -1,0 +1,16 @@
+./D16429.xml:  <GBSeq_organism>Rhodobacter blasticus DSM 2131</GBSeq_organism>
+./AM180953.xml:  <GBSeq_organism>Rhodovulum imhoffii</GBSeq_organism>
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./X53855.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./D16419.xml:  <GBSeq_organism>Rhodovulum strictum</GBSeq_organism>
+./Y15011.xml:  <GBSeq_organism>Rhodovulum iodosum</GBSeq_organism>
+./Y15012.xml:  <GBSeq_organism>Rhodovulum robiginosum</GBSeq_organism>
+./AF248638.xml:  <GBSeq_organism>Rhodobaca bogoriensis DSM 18756</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./D70846.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./D16418.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./D16421.xml:  <GBSeq_organism>Rhodobacter veldkampii DSM 11550</GBSeq_organism>
+./D16426.xml:  <GBSeq_organism>Rhodovulum euryhalinum</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>
+./AJ891122.xml:  <GBSeq_organism>Rhodovulum marinum</GBSeq_organism>

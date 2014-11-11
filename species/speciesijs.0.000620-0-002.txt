@@ -1,0 +1,8 @@
+./U76363.xml:  <GBSeq_organism>Carboxydothermus ferrireducens</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./U84497.xml:  <GBSeq_organism>Dehalobacter restrictus DSM 9455</GBSeq_organism>
+./U40078.xml:  <GBSeq_organism>Desulfitobacterium hafniense</GBSeq_organism>
+./X55797.xml:  <GBSeq_organism>Peptococcus niger</GBSeq_organism>
+./EF542810.xml:  <GBSeq_organism>Carboxydothermus siderophilus</GBSeq_organism>
+./AJ493052.xml:  <GBSeq_organism>Desulfosporosinus orientis</GBSeq_organism>
+./AY603000.xml:  <GBSeq_organism>Thermincola carboxydiphila</GBSeq_organism>

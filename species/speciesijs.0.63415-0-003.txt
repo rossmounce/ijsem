@@ -1,0 +1,16 @@
+./AF307091.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF129925.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF109914.xml:  <GBSeq_organism>Nitrobacter winogradskyi</GBSeq_organism>
+./U55037.xml:  <GBSeq_organism>Hydrogenophaga pseudoflava</GBSeq_organism>
+./L82000.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AB062780.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./AY656721.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./AY656722.xml:  <GBSeq_organism>Rhodovulum euryhalinum</GBSeq_organism>
+./AY656723.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./D90204.xml:  <GBSeq_organism>Allochromatium vinosum DSM 180</GBSeq_organism>
+./AF041820.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./M26396.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./AY656720.xml:  <GBSeq_organism>Thioclava pacifica DSM 10166</GBSeq_organism>
+./X17252.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./D30764.xml:  <GBSeq_organism>Hydrogenophilus thermoluteolus</GBSeq_organism>
+./M64624.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>

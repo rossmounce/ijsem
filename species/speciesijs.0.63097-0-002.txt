@@ -1,0 +1,93 @@
+./AF345258.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AF510921.xml:  <GBSeq_organism>Rhizobium sp. Kus-7</GBSeq_organism>
+./AF345269.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>
+./AF510904.xml:  <GBSeq_organism>Rhizobium sp. Crj-3</GBSeq_organism>
+./AF510357.xml:  <GBSeq_organism>Mesorhizobium sp. Leb-3</GBSeq_organism>
+./AF510883.xml:  <GBSeq_organism>Rhizobium sp. Glm-11</GBSeq_organism>
+./AF510902.xml:  <GBSeq_organism>Rhizobium sp. vgs-5</GBSeq_organism>
+./AF510909.xml:  <GBSeq_organism>Rhizobium sp. Gls-2</GBSeq_organism>
+./AF510352.xml:  <GBSeq_organism>Mesorhizobium sp. Put-2</GBSeq_organism>
+./AF510917.xml:  <GBSeq_organism>Rhizobium sp. Aei-4</GBSeq_organism>
+./AF510918.xml:  <GBSeq_organism>Rhizobium sp. Kusp-1</GBSeq_organism>
+./AF345264.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AF517932.xml:  <GBSeq_organism>Mesorhizobium sp. Leb-2</GBSeq_organism>
+./AF510922.xml:  <GBSeq_organism>Rhizobium sp. Gls-4</GBSeq_organism>
+./AF510914.xml:  <GBSeq_organism>Rhizobium sp. Kus-8</GBSeq_organism>
+./AF345279.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./AF345265.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AF510901.xml:  <GBSeq_organism>Rhizobium sp. Phr-9</GBSeq_organism>
+./AF510351.xml:  <GBSeq_organism>Mesorhizobium sp. Amf-3</GBSeq_organism>
+./AF510893.xml:  <GBSeq_organism>Rhizobium sp. Vif-1</GBSeq_organism>
+./AF510907.xml:  <GBSeq_organism>Rhizobium sp. Trp-2</GBSeq_organism>
+./AF510895.xml:  <GBSeq_organism>Rhizobium sp. Trr-6</GBSeq_organism>
+./AF345271.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AF510905.xml:  <GBSeq_organism>Rhizobium sp. Trr-1</GBSeq_organism>
+./AF510919.xml:  <GBSeq_organism>Rhizobium sp. Aei-5</GBSeq_organism>
+./AF510911.xml:  <GBSeq_organism>Rhizobium sp. Trp-4</GBSeq_organism>
+./AF510364.xml:  <GBSeq_organism>Mesorhizobium sp. Rop-2</GBSeq_organism>
+./AF510894.xml:  <GBSeq_organism>Rhizobium sp. Trr-5</GBSeq_organism>
+./AF510361.xml:  <GBSeq_organism>Mesorhizobium sp. vgn-4</GBSeq_organism>
+./AF510908.xml:  <GBSeq_organism>Rhizobium sp. Trp-3</GBSeq_organism>
+./AF510923.xml:  <GBSeq_organism>Rhizobium sp. Crj-4</GBSeq_organism>
+./AF510355.xml:  <GBSeq_organism>Mesorhizobium sp. Leb-4</GBSeq_organism>
+./AF510882.xml:  <GBSeq_organism>Rhizobium sp. Glm-10</GBSeq_organism>
+./AF510913.xml:  <GBSeq_organism>Rhizobium sp. Trp-6</GBSeq_organism>
+./AF510353.xml:  <GBSeq_organism>Mesorhizobium sp. Put-3</GBSeq_organism>
+./AF345261.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AF541974.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AF510896.xml:  <GBSeq_organism>Rhizobium sp. Trr-8</GBSeq_organism>
+./AF510912.xml:  <GBSeq_organism>Rhizobium sp. Trp-5</GBSeq_organism>
+./AF510363.xml:  <GBSeq_organism>Mesorhizobium sp. Aei-2</GBSeq_organism>
+./AF510910.xml:  <GBSeq_organism>Rhizobium sp. Trr-3</GBSeq_organism>
+./AF345273.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AF510365.xml:  <GBSeq_organism>Mesorhizobium sp. Rop-3</GBSeq_organism>
+./AF345270.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./AF510886.xml:  <GBSeq_organism>Rhizobium sp. Glm-14</GBSeq_organism>
+./AF345267.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./AF510356.xml:  <GBSeq_organism>Mesorhizobium sp. Leb-1</GBSeq_organism>
+./AF510924.xml:  <GBSeq_organism>Rhizobium sp. Gls-5</GBSeq_organism>
+./AF345260.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AF510362.xml:  <GBSeq_organism>Mesorhizobium sp. vgn-5</GBSeq_organism>
+./AF345277.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AF510899.xml:  <GBSeq_organism>Rhizobium sp. vgs-10</GBSeq_organism>
+./AF510881.xml:  <GBSeq_organism>Rhizobium sp. Glm-9</GBSeq_organism>
+./AF345262.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AF510354.xml:  <GBSeq_organism>Mesorhizobium sp. Loc-1</GBSeq_organism>
+./AF510887.xml:  <GBSeq_organism>Rhizobium sp. Glm-15</GBSeq_organism>
+./AF510366.xml:  <GBSeq_organism>Mesorhizobium sp. Rop-1</GBSeq_organism>
+./AF345259.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AF510348.xml:  <GBSeq_organism>Mesorhizobium sp. Amf-4</GBSeq_organism>
+./AF345274.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AF510915.xml:  <GBSeq_organism>Rhizobium sp. Trr-7</GBSeq_organism>
+./AF510903.xml:  <GBSeq_organism>Rhizobium sp. Trr-2</GBSeq_organism>
+./AF510350.xml:  <GBSeq_organism>Mesorhizobium sp. Amf-1</GBSeq_organism>
+./AF510927.xml:  <GBSeq_organism>Rhizobium sp. NK-4</GBSeq_organism>
+./AF510359.xml:  <GBSeq_organism>Mesorhizobium sp. NK-1</GBSeq_organism>
+./AF345276.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AF345268.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./AF510885.xml:  <GBSeq_organism>Rhizobium sp. Glm-13</GBSeq_organism>
+./AF510346.xml:  <GBSeq_organism>Mesorhizobium sp. Amf-2</GBSeq_organism>
+./AF510897.xml:  <GBSeq_organism>Rhizobium sp. Trr-9</GBSeq_organism>
+./AF510892.xml:  <GBSeq_organism>Rhizobium sp. Trr-4</GBSeq_organism>
+./AF541973.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AF510920.xml:  <GBSeq_organism>Rhizobium sp. Gls-3</GBSeq_organism>
+./AF345257.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AF345266.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./AF510916.xml:  <GBSeq_organism>Rhizobium sp. Aei-3</GBSeq_organism>
+./AF510900.xml:  <GBSeq_organism>Rhizobium sp. vgs-11</GBSeq_organism>
+./AF510367.xml:  <GBSeq_organism>Mesorhizobium sp. Wif-1</GBSeq_organism>
+./AF510891.xml:  <GBSeq_organism>Rhizobium sp. Viv-1</GBSeq_organism>
+./AF517933.xml:  <GBSeq_organism>Rhizobium sp. Glm-15</GBSeq_organism>
+./AF510890.xml:  <GBSeq_organism>Rhizobium sp. Pis-1</GBSeq_organism>
+./AF345280.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./AF510898.xml:  <GBSeq_organism>Rhizobium sp. Phr-8</GBSeq_organism>
+./AF510926.xml:  <GBSeq_organism>Rhizobium sp. Leb-15</GBSeq_organism>
+./AF510358.xml:  <GBSeq_organism>Mesorhizobium sp. NK-2</GBSeq_organism>
+./AF510884.xml:  <GBSeq_organism>Rhizobium sp. Glm-12</GBSeq_organism>
+./AF345278.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AF510347.xml:  <GBSeq_organism>Mesorhizobium sp. Leb-2</GBSeq_organism>
+./AF510925.xml:  <GBSeq_organism>Rhizobium sp. Aei-6</GBSeq_organism>
+./AF345263.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AF345275.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./AF510349.xml:  <GBSeq_organism>Mesorhizobium sp. Amf-5</GBSeq_organism>
+./AF510360.xml:  <GBSeq_organism>Mesorhizobium sp. Rop-4</GBSeq_organism>

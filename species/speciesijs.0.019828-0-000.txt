@@ -1,0 +1,19 @@
+./AM905330.xml:  <GBSeq_organism>Ruegeria scottomollicae</GBSeq_organism>
+./EF192392.xml:  <GBSeq_organism>Pelagicola litoralis</GBSeq_organism>
+./AB255401.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>
+./GQ243422.xml:  <GBSeq_organism>Roseovarius marinus</GBSeq_organism>
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AF098495.xml:  <GBSeq_organism>Roseovarius nubinhibens ISM</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AJ534215.xml:  <GBSeq_organism>Roseovarius mucosus DSM 17069</GBSeq_organism>
+./EU156066.xml:  <GBSeq_organism>Roseovarius aestuarii</GBSeq_organism>
+./AF136848.xml:  <GBSeq_organism>Ketogulonicigenium vulgare</GBSeq_organism>
+./AJ605747.xml:  <GBSeq_organism>Roseisalinus antarcticus</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

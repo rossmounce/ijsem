@@ -1,0 +1,8 @@
+./AB370248.xml:  <GBSeq_organism>Methanoplanus endosymbiosus</GBSeq_organism>
+./Y16382.xml:  <GBSeq_organism>Methanoculleus palmolei</GBSeq_organism>
+./AB196288.xml:  <GBSeq_organism>Methanocella paludicola SANAE</GBSeq_organism>
+./CP000562.xml:  <GBSeq_organism>Methanoculleus marisnigri JR1</GBSeq_organism>
+./AY260436.xml:  <GBSeq_organism>Methanocorpusculum labreanum</GBSeq_organism>
+./AB162774.xml:  <GBSeq_organism>Methanolinea tarda NOBI-1</GBSeq_organism>
+./EU156000.xml:  <GBSeq_organism>Methanosphaerula palustris</GBSeq_organism>
+./AB517986.xml:  <GBSeq_organism>Methanospirillum lacunae</GBSeq_organism>

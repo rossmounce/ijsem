@@ -1,0 +1,9 @@
+./AY428574.xml:  <GBSeq_organism>Pectinatus portalensis</GBSeq_organism>
+./X81878.xml:  <GBSeq_organism>Mitsuokella multacida DSM 20544</GBSeq_organism>
+./Y09434.xml:  <GBSeq_organism>Schwartzia succinivorans</GBSeq_organism>
+./AF287793.xml:  <GBSeq_organism>Selenomonas sputigena ATCC 35185</GBSeq_organism>
+./AF373026.xml:  <GBSeq_organism>Pectinatus cerevisiiphilus</GBSeq_organism>
+./DQ223731.xml:  <GBSeq_organism>Pectinatus haikarae</GBSeq_organism>
+./M60491.xml:  <GBSeq_organism>[Clostridium] purinilyticum</GBSeq_organism>
+./AF373027.xml:  <GBSeq_organism>Pectinatus frisingensis</GBSeq_organism>
+./Y18190.xml:  <GBSeq_organism>Propionispira arboris</GBSeq_organism>

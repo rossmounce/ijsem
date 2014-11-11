@@ -1,0 +1,8 @@
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./AF203703.xml:  <GBSeq_organism>Anaerobranca gottschalkii</GBSeq_organism>
+./AY312403.xml:  <GBSeq_organism>Alkalibacter saccharofermentans</GBSeq_organism>
+./U21809.xml:  <GBSeq_organism>Anaerobranca horikoshii</GBSeq_organism>
+./AJ272422.xml:  <GBSeq_organism>Caloranaerobacter azorensis DSM 13643</GBSeq_organism>
+./EF190921.xml:  <GBSeq_organism>Anaerobranca zavarzinii DSM 18970</GBSeq_organism>
+./AY176772.xml:  <GBSeq_organism>Garciella nitratireducens</GBSeq_organism>
+./AY064218.xml:  <GBSeq_organism>Anaerobranca californiensis</GBSeq_organism>

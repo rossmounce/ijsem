@@ -1,0 +1,12 @@
+./AJ011759.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./AF516881.xml:  <GBSeq_organism>Mesorhizobium plurifarium subsp. americum</GBSeq_organism>
+./AJ295080.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./D13431.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AJ294416.xml:  <GBSeq_organism>Pseudaminobacter salicylatoxidans KCT001</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./U71079.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AJ315352.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

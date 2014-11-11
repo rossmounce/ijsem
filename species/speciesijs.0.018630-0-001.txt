@@ -1,0 +1,12 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./U89333.xml:  <GBSeq_organism>Microvirgula aerodenitrificans</GBSeq_organism>
+./EU287927.xml:  <GBSeq_organism>Vogesella lacus</GBSeq_organism>
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./AF328147.xml:  <GBSeq_organism>Simonsiella muelleri ATCC 29453</GBSeq_organism>
+./AY264287.xml:  <GBSeq_organism>Chitinibacter tainanensis</GBSeq_organism>
+./U45995.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./AF328153.xml:  <GBSeq_organism>Conchiformibius steedae</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>
+./L06167.xml:  <GBSeq_organism>Neisseria polysaccharea</GBSeq_organism>
+./EF626691.xml:  <GBSeq_organism>Vogesella perlucida</GBSeq_organism>

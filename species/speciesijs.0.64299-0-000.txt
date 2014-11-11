@@ -1,0 +1,9 @@
+./AY455809.xml:  <GBSeq_organism>Thiomonas intermedia</GBSeq_organism>
+./J01695.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./U27839.xml:  <GBSeq_organism>Thiomonas thermosulfata</GBSeq_organism>
+./AF005628.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./U67162.xml:  <GBSeq_organism>Thiomonas cuprina</GBSeq_organism>
+./Y14908.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./AY950676.xml:  <GBSeq_organism>Thiomonas arsenivorans</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AY455808.xml:  <GBSeq_organism>Thiomonas perometabolis</GBSeq_organism>

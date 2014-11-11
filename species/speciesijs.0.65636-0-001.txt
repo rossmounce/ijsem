@@ -1,0 +1,4 @@
+./DQ132986.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./AM774230.xml:  <GBSeq_organism>Streptococcus plurextorum</GBSeq_organism>
+./Z95920.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./DQ232572.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AY598817.xml:  <GBSeq_organism>Hoeflea marina</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./D88524.xml:  <GBSeq_organism>Ahrensia kielensis</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AF191739.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ582087.xml:  <GBSeq_organism>Ahrensia sp. DFL-44</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AJ582088.xml:  <GBSeq_organism>Hoeflea phototrophica DFL-43</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

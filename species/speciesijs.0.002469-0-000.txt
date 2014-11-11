@@ -1,0 +1,27 @@
+./AB021186.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./AB110008.xml:  <GBSeq_organism>Anoxybacillus voinovskiensis</GBSeq_organism>
+./AF276306.xml:  <GBSeq_organism>Geobacillus subterraneus</GBSeq_organism>
+./AY190534.xml:  <GBSeq_organism>Halobacillus locisalis</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AY553296.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./AJ344151.xml:  <GBSeq_organism>Exiguobacterium undae</GBSeq_organism>
+./AY603977.xml:  <GBSeq_organism>Pontibacillus marinus</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./AY822043.xml:  <GBSeq_organism>Virgibacillus dokdonensis</GBSeq_organism>
+./AM292417.xml:  <GBSeq_organism>Salirhabdus euzebyi</GBSeq_organism>
+./AF500007.xml:  <GBSeq_organism>Planococcus maritimus</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AJ493659.xml:  <GBSeq_organism>Planococcus rifietoensis</GBSeq_organism>
+./AF004589.xml:  <GBSeq_organism>Anoxybacillus flavithermus subsp. flavithermus</GBSeq_organism>
+./AF067651.xml:  <GBSeq_organism>Geobacillus caldoxylosilyticus</GBSeq_organism>
+./AF326365.xml:  <GBSeq_organism>Ornithinibacillus californiensis</GBSeq_organism>
+./AM114102.xml:  <GBSeq_organism>Paucisalibacillus globulus</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AY321434.xml:  <GBSeq_organism>Salinibacillus kushneri</GBSeq_organism>
+./D78477.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./EU583728.xml:  <GBSeq_organism>Pontibacillus halophilus</GBSeq_organism>
+./X70430.xml:  <GBSeq_organism>Saccharococcus thermophilus</GBSeq_organism>
+./AF001963.xml:  <GBSeq_organism>Anoxybacillus ayderensis</GBSeq_organism>

@@ -1,0 +1,13 @@
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AB054986.xml:  <GBSeq_organism>Candidatus Phytoplasma castaneae</GBSeq_organism>
+./U18747.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./AF248956.xml:  <GBSeq_organism>Loofah witches&apos;-broom phytoplasma</GBSeq_organism>
+./AF237615.xml:  <GBSeq_organism>Carludovica palmata leaf yellowing phytoplasma</GBSeq_organism>
+./X76432.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AF361020.xml:  <GBSeq_organism>Florida Pandanus decline phytoplasma</GBSeq_organism>
+./AJ632156.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./Y15866.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF248961.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AY081817.xml:  <GBSeq_organism>Chinaberry yellows phytoplasma</GBSeq_organism>
+./AJ310849.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./AF515637.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>

@@ -1,0 +1,8 @@
+./EF368008.xml:  <GBSeq_organism>Cohnella yongneupensis</GBSeq_organism>
+./AJ971483.xml:  <GBSeq_organism>Cohnella thermotolerans</GBSeq_organism>
+./EU081509.xml:  <GBSeq_organism>Paenibacillus konsidensis</GBSeq_organism>
+./EF368010.xml:  <GBSeq_organism>Cohnella ginsengisoli</GBSeq_organism>
+./FJ001841.xml:  <GBSeq_organism>Cohnella xylanilytica</GBSeq_organism>
+./AJ005795.xml:  <GBSeq_organism>Thermobacillus xylanilyticus</GBSeq_organism>
+./FJ001842.xml:  <GBSeq_organism>Cohnella terrae</GBSeq_organism>
+./AB271744.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis</GBSeq_organism>

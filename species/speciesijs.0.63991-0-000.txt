@@ -1,0 +1,23 @@
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./AF148555.xml:  <GBSeq_organism>Burkholderia multivorans ATCC BAA-247</GBSeq_organism>
+./X67037.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./AF148554.xml:  <GBSeq_organism>Burkholderia stabilis</GBSeq_organism>
+./X67039.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./X67038.xml:  <GBSeq_organism>Burkholderia gladioli</GBSeq_organism>
+./U96930.xml:  <GBSeq_organism>Burkholderia pyrrocinia</GBSeq_organism>
+./AB024310.xml:  <GBSeq_organism>Burkholderia kururiensis</GBSeq_organism>
+./Y17009.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./Y17052.xml:  <GBSeq_organism>Burkholderia glathei</GBSeq_organism>
+./U91838.xml:  <GBSeq_organism>Burkholderia thailandensis E264</GBSeq_organism>
+./X67042.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./AY305747.xml:  <GBSeq_organism>Burkholderia mallei</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./DQ108388.xml:  <GBSeq_organism>Burkholderia oklahomensis C6786</GBSeq_organism>
+./U96931.xml:  <GBSeq_organism>Burkholderia glumae LMG 2196</GBSeq_organism>
+./U96933.xml:  <GBSeq_organism>Burkholderia plantarii</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./DQ108392.xml:  <GBSeq_organism>Burkholderia pseudomallei</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AF097534.xml:  <GBSeq_organism>Burkholderia vietnamiensis</GBSeq_organism>

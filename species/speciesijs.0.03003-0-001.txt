@@ -1,0 +1,8 @@
+./M29566.xml:  <GBSeq_organism>Mycobacterium phlei</GBSeq_organism>
+./X52922.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./AF058299.xml:  <GBSeq_organism>Mycobacterium tusciae</GBSeq_organism>
+./X55595.xml:  <GBSeq_organism>Mycobacterium aurum</GBSeq_organism>
+./AJ431371.xml:  <GBSeq_organism>Mycobacterium pyrenivorans</GBSeq_organism>
+./X93182.xml:  <GBSeq_organism>Mycobacterium austroafricanum</GBSeq_organism>
+./X84977.xml:  <GBSeq_organism>Mycobacterium vanbaalenii PYR-1</GBSeq_organism>
+./X55601.xml:  <GBSeq_organism>Mycobacterium vaccae</GBSeq_organism>

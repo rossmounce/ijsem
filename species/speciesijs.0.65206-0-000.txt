@@ -1,0 +1,26 @@
+./AB244762.xml:  <GBSeq_organism>Kaistia granuli</GBSeq_organism>
+./EF465533.xml:  <GBSeq_organism>Pseudoxanthobacter soli DSM 19599</GBSeq_organism>
+./M95665.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./X94199.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./DQ303125.xml:  <GBSeq_organism>Devosia soli</GBSeq_organism>
+./U70978.xml:  <GBSeq_organism>Ochrobactrum intermedium LMG 3301</GBSeq_organism>
+./AF084495.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./EF012357.xml:  <GBSeq_organism>Devosia insulae DS-56</GBSeq_organism>
+./X94198.xml:  <GBSeq_organism>Xanthobacter agilis</GBSeq_organism>
+./DQ342239.xml:  <GBSeq_organism>Paracoccus homiensis</GBSeq_organism>
+./AY039817.xml:  <GBSeq_organism>Kaistia adipata</GBSeq_organism>
+./D86514.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./AJ549086.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./AJ555244.xml:  <GBSeq_organism>Methylocella tundrae</GBSeq_organism>
+./U71079.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AY056830.xml:  <GBSeq_organism>Ancylobacter rudongensis</GBSeq_organism>
+./AF249749.xml:  <GBSeq_organism>Roseinatronobacter thiooxidans</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./D14501.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./AJ786801.xml:  <GBSeq_organism>Devosia limi</GBSeq_organism>

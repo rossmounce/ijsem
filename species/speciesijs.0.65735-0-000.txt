@@ -1,0 +1,27 @@
+./AB264529.xml:  <GBSeq_organism>Halalkalibacillus halophilus</GBSeq_organism>
+./AB021186.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./EU135728.xml:  <GBSeq_organism>Paraliobacillus quinghaiensis</GBSeq_organism>
+./AB110008.xml:  <GBSeq_organism>Anoxybacillus voinovskiensis</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./D82065.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AB243866.xml:  <GBSeq_organism>Amphibacillus sediminis</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./X82492.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./AY190534.xml:  <GBSeq_organism>Halobacillus locisalis</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AJ344151.xml:  <GBSeq_organism>Exiguobacterium undae</GBSeq_organism>
+./AY822043.xml:  <GBSeq_organism>Virgibacillus dokdonensis</GBSeq_organism>
+./EF554593.xml:  <GBSeq_organism>Halolactibacillus alkaliphilus</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AF067651.xml:  <GBSeq_organism>Geobacillus caldoxylosilyticus</GBSeq_organism>
+./AJ316302.xml:  <GBSeq_organism>Virgibacillus carmonensis</GBSeq_organism>
+./AM040716.xml:  <GBSeq_organism>Gracilibacillus orientalis</GBSeq_organism>
+./AF418602.xml:  <GBSeq_organism>Amphibacillus tropicus</GBSeq_organism>
+./AJ315056.xml:  <GBSeq_organism>Virgibacillus necropolis</GBSeq_organism>
+./AB197126.xml:  <GBSeq_organism>Gracilibacillus boraciitolerans</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AB196784.xml:  <GBSeq_organism>Halolactibacillus miurensis</GBSeq_organism>
+./AB196783.xml:  <GBSeq_organism>Halolactibacillus halophilus</GBSeq_organism>
+./AF418603.xml:  <GBSeq_organism>Amphibacillus fermentum</GBSeq_organism>

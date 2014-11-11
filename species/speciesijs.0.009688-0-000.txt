@@ -1,0 +1,9 @@
+./EF117329.xml:  <GBSeq_organism>Flavobacterium terrae</GBSeq_organism>
+./EF126993.xml:  <GBSeq_organism>Flavobacterium cucumis</GBSeq_organism>
+./EF407880.xml:  <GBSeq_organism>Flavobacterium cheniae</GBSeq_organism>
+./EU521691.xml:  <GBSeq_organism>Flavobacterium cauense R2A-7</GBSeq_organism>
+./DQ889724.xml:  <GBSeq_organism>Flavobacterium terrigena</GBSeq_organism>
+./DQ021903.xml:  <GBSeq_organism>Flavobacterium saliperosum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./DQ372982.xml:  <GBSeq_organism>Flavobacterium croceum</GBSeq_organism>
+./AM230492.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>

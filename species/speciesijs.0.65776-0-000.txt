@@ -1,0 +1,21 @@
+./AY323608.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AJ716019.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./EU179327.xml:  <GBSeq_organism>Paenibacillus taichungensis</GBSeq_organism>
+./AF378694.xml:  <GBSeq_organism>Paenibacillus turicensis</GBSeq_organism>
+./AY208751.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./AJ223987.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./AY741810.xml:  <GBSeq_organism>Paenibacillus motobuensis</GBSeq_organism>
+./AJ633847.xml:  <GBSeq_organism>Agelas sp. QMG317484</GBSeq_organism>
+./X77846.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./AJ316013.xml:  <GBSeq_organism>Paenibacillus stellifer</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AJ011322.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AJ223990.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./AY751754.xml:  <GBSeq_organism>Paenibacillus rhizosphaerae</GBSeq_organism>
+./AJ605292.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>
+./AF480935.xml:  <GBSeq_organism>Paenibacillus nematophilus</GBSeq_organism>
+./AJ250317.xml:  <GBSeq_organism>Paenibacillus cookii</GBSeq_organism>
+./AJ318909.xml:  <GBSeq_organism>Paenibacillus anaericanus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

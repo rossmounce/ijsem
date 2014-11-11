@@ -1,0 +1,32 @@
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D84520.xml:  <GBSeq_organism>Sphingomonas roseiflava</GBSeq_organism>
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AJ429239.xml:  <GBSeq_organism>Sphingomonas faeni</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./AB166883.xml:  <GBSeq_organism>Sphingomonas soli</GBSeq_organism>
+./Y09637.xml:  <GBSeq_organism>Sphingomonas pruni</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AJ575818.xml:  <GBSeq_organism>Sphingomonas panni</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./AB021492.xml:  <GBSeq_organism>Sphingomonas wittichii RW1</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./L01786.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./AB071955.xml:  <GBSeq_organism>Sphingomonas yabuuchiae</GBSeq_organism>
+./DQ178975.xml:  <GBSeq_organism>Sphingomonas dokdonensis</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AJ429236.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AJ429240.xml:  <GBSeq_organism>Sphingomonas aerolata</GBSeq_organism>
+./AY894691.xml:  <GBSeq_organism>Sphingomonas yunnanensis</GBSeq_organism>
+./AJ012461.xml:  <GBSeq_organism>Sphingomonas echinoides ATCC 14820</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./D13724.xml:  <GBSeq_organism>Sphingomonas parapaucimobilis</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./AJ575817.xml:  <GBSeq_organism>Sphingomonas abaci</GBSeq_organism>
+./AF131297.xml:  <GBSeq_organism>Sphingopyxis taejonensis</GBSeq_organism>

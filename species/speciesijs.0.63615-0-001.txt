@@ -1,0 +1,8 @@
+./AY796024.xml:  <GBSeq_organism>Metschnikowia kamakouana</GBSeq_organism>
+./AY796026.xml:  <GBSeq_organism>Metschnikowia hamakuensis</GBSeq_organism>
+./AY796028.xml:  <GBSeq_organism>Metschnikowia sp. UWOPS04-226.1</GBSeq_organism>
+./AF514294.xml:  <GBSeq_organism>Candida kipukae</GBSeq_organism>
+./AY796338.xml:  <GBSeq_organism>Metschnikowia hamakuensis</GBSeq_organism>
+./AF514292.xml:  <GBSeq_organism>Metschnikowia santaceciliae</GBSeq_organism>
+./AY796025.xml:  <GBSeq_organism>Metschnikowia mauinuiana</GBSeq_organism>
+./AY796027.xml:  <GBSeq_organism>Metschnikowia sp. UWOPS04-218.3</GBSeq_organism>

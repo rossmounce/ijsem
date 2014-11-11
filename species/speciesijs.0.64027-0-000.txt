@@ -1,0 +1,22 @@
+./AF078759.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae ATCC 19860</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ430344.xml:  <GBSeq_organism>Comamonas aquatica</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./Y18618.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./AF078754.xml:  <GBSeq_organism>Giesbergeria sinuosa</GBSeq_organism>
+./AY291120.xml:  <GBSeq_organism>Lampropedia hyalina</GBSeq_organism>
+./AY780905.xml:  <GBSeq_organism>Giesbergeria voronezhensis</GBSeq_organism>
+./AF078774.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./D14320.xml:  <GBSeq_organism>Brachymonas denitrificans</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./AY780904.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./AF078755.xml:  <GBSeq_organism>Simplicispira psychrophila</GBSeq_organism>
+./AF439400.xml:  <GBSeq_organism>Ramlibacter henchirensis</GBSeq_organism>
+./AY780906.xml:  <GBSeq_organism>Giesbergeria voronezhensis</GBSeq_organism>
+./AY780907.xml:  <GBSeq_organism>Giesbergeria kuznetsovii</GBSeq_organism>
+./AF078753.xml:  <GBSeq_organism>Hylemonella gracilis ATCC 19624</GBSeq_organism>

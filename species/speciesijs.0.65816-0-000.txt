@@ -1,0 +1,10 @@
+./AY773185.xml:  <GBSeq_organism>Burkholderia sabiae</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./AJ302311.xml:  <GBSeq_organism>Burkholderia tuberum STM678</GBSeq_organism>
+./AY752958.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AJ302312.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./AY773186.xml:  <GBSeq_organism>Burkholderia sabiae</GBSeq_organism>
+./AB201284.xml:  <GBSeq_organism>Burkholderia terrae</GBSeq_organism>
+./Y17009.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./U96927.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AY773189.xml:  <GBSeq_organism>Burkholderia nodosa</GBSeq_organism>

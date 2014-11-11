@@ -1,0 +1,68 @@
+./M28482.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./AB114825.xml:  <GBSeq_organism>Rickettsia tamurae</GBSeq_organism>
+./AY280710.xml:  <GBSeq_organism>Rickettsia heilongjiangensis</GBSeq_organism>
+./L36220.xml:  <GBSeq_organism>Rickettsia sp.</GBSeq_organism>
+./U59730.xml:  <GBSeq_organism>Rickettsia conorii</GBSeq_organism>
+./U59713.xml:  <GBSeq_organism>Rickettsia canadensis</GBSeq_organism>
+./AF541999.xml:  <GBSeq_organism>Rickettsia conorii</GBSeq_organism>
+./AF445383.xml:  <GBSeq_organism>Rickettsia akari str. Hartford</GBSeq_organism>
+./U59714.xml:  <GBSeq_organism>Rickettsia typhi str. Wilmington</GBSeq_organism>
+./U17008.xml:  <GBSeq_organism>Rickettsia parkeri</GBSeq_organism>
+./AY590153.xml:  <GBSeq_organism>Rickettsia peacockii</GBSeq_organism>
+./U83454.xml:  <GBSeq_organism>Rickettsia slovaca 13-B</GBSeq_organism>
+./L36224.xml:  <GBSeq_organism>Rickettsia slovaca 13-B</GBSeq_organism>
+./U74756.xml:  <GBSeq_organism>Rickettsia montanensis</GBSeq_organism>
+./U59732.xml:  <GBSeq_organism>Rickettsia parkeri</GBSeq_organism>
+./U83448.xml:  <GBSeq_organism>Rickettsia conorii</GBSeq_organism>
+./L36218.xml:  <GBSeq_organism>Rickettsia sibirica</GBSeq_organism>
+./U59726.xml:  <GBSeq_organism>Rickettsia honei</GBSeq_organism>
+./U83447.xml:  <GBSeq_organism>Rickettsia montanensis</GBSeq_organism>
+./M74042.xml:  <GBSeq_organism>Rickettsia australis</GBSeq_organism>
+./L36216.xml:  <GBSeq_organism>Rickettsia rhipicephali</GBSeq_organism>
+./U83442.xml:  <GBSeq_organism>Rickettsia japonica</GBSeq_organism>
+./M28479.xml:  <GBSeq_organism>Rickettsia rickettsii</GBSeq_organism>
+./U83445.xml:  <GBSeq_organism>Rickettsia massiliae</GBSeq_organism>
+./U83450.xml:  <GBSeq_organism>Rickettsia rhipicephali</GBSeq_organism>
+./FJ767737.xml:  <GBSeq_organism>Rickettsia hoogstraalii</GBSeq_organism>
+./L36673.xml:  <GBSeq_organism>Rickettsia parkeri</GBSeq_organism>
+./AF394906.xml:  <GBSeq_organism>Rickettsia asiatica</GBSeq_organism>
+./U59718.xml:  <GBSeq_organism>Rickettsia australis str. Phillips</GBSeq_organism>
+./L36098.xml:  <GBSeq_organism>Rickettsia africae</GBSeq_organism>
+./U59717.xml:  <GBSeq_organism>Rickettsia akari</GBSeq_organism>
+./U59723.xml:  <GBSeq_organism>Rickettsia helvetica C9P9</GBSeq_organism>
+./M21789.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./M28480.xml:  <GBSeq_organism>Rickettsia conorii</GBSeq_organism>
+./U11013.xml:  <GBSeq_organism>Candidatus Rickettsia amblyommii</GBSeq_organism>
+./M82879.xml:  <GBSeq_organism>Rickettsia canadensis</GBSeq_organism>
+./U59734.xml:  <GBSeq_organism>Rickettsia sibirica</GBSeq_organism>
+./U11017.xml:  <GBSeq_organism>Rickettsia montanensis</GBSeq_organism>
+./U83455.xml:  <GBSeq_organism>Rickettsia sibirica</GBSeq_organism>
+./U59722.xml:  <GBSeq_organism>Rickettsia sp.</GBSeq_organism>
+./FJ767735.xml:  <GBSeq_organism>Rickettsia hoogstraalii</GBSeq_organism>
+./L36103.xml:  <GBSeq_organism>Rickettsia bellii</GBSeq_organism>
+./AF149108.xml:  <GBSeq_organism>Rickettsia australis</GBSeq_organism>
+./U55820.xml:  <GBSeq_organism>Rickettsia peacockii</GBSeq_organism>
+./U59725.xml:  <GBSeq_organism>Rickettsia slovaca</GBSeq_organism>
+./U59721.xml:  <GBSeq_organism>Rickettsia rhipicephali</GBSeq_organism>
+./U59724.xml:  <GBSeq_organism>Rickettsia japonica</GBSeq_organism>
+./U59719.xml:  <GBSeq_organism>Rickettsia massiliae</GBSeq_organism>
+./U83449.xml:  <GBSeq_organism>Rickettsia parkeri</GBSeq_organism>
+./U83446.xml:  <GBSeq_organism>Rickettsia aeschlimannii</GBSeq_organism>
+./L36215.xml:  <GBSeq_organism>Rickettsia montanensis</GBSeq_organism>
+./L36099.xml:  <GBSeq_organism>Rickettsia akari</GBSeq_organism>
+./D16515.xml:  <GBSeq_organism>Rickettsia japonica YH</GBSeq_organism>
+./AF445384.xml:  <GBSeq_organism>Rickettsia sibirica</GBSeq_organism>
+./U59733.xml:  <GBSeq_organism>Rickettsia africae</GBSeq_organism>
+./L28944.xml:  <GBSeq_organism>Rickettsia sp.</GBSeq_organism>
+./AF394896.xml:  <GBSeq_organism>Rickettsia tamurae</GBSeq_organism>
+./L36214.xml:  <GBSeq_organism>Rickettsia massiliae</GBSeq_organism>
+./AY357764.xml:  <GBSeq_organism>Rickettsia peacockii</GBSeq_organism>
+./M17149.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./L36212.xml:  <GBSeq_organism>Rickettsia helvetica C9P9</GBSeq_organism>
+./AB114798.xml:  <GBSeq_organism>Rickettsia asiatica</GBSeq_organism>
+./U59729.xml:  <GBSeq_organism>Rickettsia rickettsii</GBSeq_organism>
+./AF210692.xml:  <GBSeq_organism>Rickettsia sp. California 2</GBSeq_organism>
+./U59716.xml:  <GBSeq_organism>Rickettsia bellii</GBSeq_organism>
+./L36221.xml:  <GBSeq_organism>Rickettsia typhi str. Wilmington</GBSeq_organism>
+./U83456.xml:  <GBSeq_organism>Rickettsia honei</GBSeq_organism>
+./U83451.xml:  <GBSeq_organism>Rickettsia rickettsii</GBSeq_organism>

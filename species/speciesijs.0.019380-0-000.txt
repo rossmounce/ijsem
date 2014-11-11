@@ -1,0 +1,14 @@
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./AM229324.xml:  <GBSeq_organism>Arenimonas composti TR7-09 = DSM 18010</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AJ555478.xml:  <GBSeq_organism>Solimonas variicoloris DSM 15731</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ519989.xml:  <GBSeq_organism>Thermomonas brevis</GBSeq_organism>
+./AJ459804.xml:  <GBSeq_organism>Acidithiobacillus albertensis</GBSeq_organism>
+./AY987368.xml:  <GBSeq_organism>Dokdonella koreensis</GBSeq_organism>
+./EF605262.xml:  <GBSeq_organism>Steroidobacter denitrificans</GBSeq_organism>
+./AJ313020.xml:  <GBSeq_organism>Alkanibacter difficilis</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./EF178286.xml:  <GBSeq_organism>Nevskia soli DSM 19509</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./EF154515.xml:  <GBSeq_organism>Solimonas flava DSM 18980</GBSeq_organism>

@@ -1,0 +1,44 @@
+./U49004.xml:  <GBSeq_organism>Actinomadura echinospora</GBSeq_organism>
+./AF154127.xml:  <GBSeq_organism>Actinomadura catellatispora</GBSeq_organism>
+./AB364588.xml:  <GBSeq_organism>Actinoallomurus purpureus</GBSeq_organism>
+./AJ293709.xml:  <GBSeq_organism>Actinomadura oligospora</GBSeq_organism>
+./AJ293703.xml:  <GBSeq_organism>Actinomadura formosensis</GBSeq_organism>
+./FJ157185.xml:  <GBSeq_organism>Actinomadura flavalba DSM 45200</GBSeq_organism>
+./AJ420134.xml:  <GBSeq_organism>Actinomadura namibiensis</GBSeq_organism>
+./AJ293713.xml:  <GBSeq_organism>Actinomadura umbrina</GBSeq_organism>
+./AB364589.xml:  <GBSeq_organism>Actinoallomurus caesius</GBSeq_organism>
+./AB364585.xml:  <GBSeq_organism>Actinoallomurus luridus</GBSeq_organism>
+./DQ285420.xml:  <GBSeq_organism>Actinomadura rudentiformis</GBSeq_organism>
+./AJ293702.xml:  <GBSeq_organism>Actinomadura fibrosa</GBSeq_organism>
+./FM210339.xml:  <GBSeq_organism>Actinomadura scrupuli</GBSeq_organism>
+./AY035998.xml:  <GBSeq_organism>Actinomadura latina</GBSeq_organism>
+./AJ293714.xml:  <GBSeq_organism>Actinomadura yumaensis</GBSeq_organism>
+./AJ293707.xml:  <GBSeq_organism>Actinocorallia longicatena</GBSeq_organism>
+./EU637009.xml:  <GBSeq_organism>Actinomadura keratinilytica</GBSeq_organism>
+./AJ293706.xml:  <GBSeq_organism>Actinomadura livida</GBSeq_organism>
+./AB364583.xml:  <GBSeq_organism>Actinoallomurus amamiensis</GBSeq_organism>
+./U49001.xml:  <GBSeq_organism>Actinomadura citrea</GBSeq_organism>
+./AF153881.xml:  <GBSeq_organism>Actinomadura glauciflava</GBSeq_organism>
+./D85473.xml:  <GBSeq_organism>Actinocorallia herbida</GBSeq_organism>
+./AB364579.xml:  <GBSeq_organism>Actinoallomurus coprocola</GBSeq_organism>
+./AY273787.xml:  <GBSeq_organism>Actinomadura meyerae</GBSeq_organism>
+./U49010.xml:  <GBSeq_organism>Actinomadura rugatobispora</GBSeq_organism>
+./AJ293701.xml:  <GBSeq_organism>Actinocorallia aurantiaca</GBSeq_organism>
+./U49009.xml:  <GBSeq_organism>Actinomadura macra</GBSeq_organism>
+./AJ293712.xml:  <GBSeq_organism>Actinoallomurus spadix</GBSeq_organism>
+./X97889.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./AJ293710.xml:  <GBSeq_organism>Actinomadura pelletieri</GBSeq_organism>
+./X97890.xml:  <GBSeq_organism>Actinomadura kijaniata</GBSeq_organism>
+./AF277195.xml:  <GBSeq_organism>Actinomadura mexicana</GBSeq_organism>
+./AF134067.xml:  <GBSeq_organism>Actinomadura cremea subsp. cremea</GBSeq_organism>
+./D85467.xml:  <GBSeq_organism>Actinomadura viridis</GBSeq_organism>
+./AJ293705.xml:  <GBSeq_organism>Actinomadura hibisca</GBSeq_organism>
+./U49005.xml:  <GBSeq_organism>Actinomadura fulvescens</GBSeq_organism>
+./AF163123.xml:  <GBSeq_organism>Spirillospora rubra</GBSeq_organism>
+./U49000.xml:  <GBSeq_organism>Actinomadura atramentaria</GBSeq_organism>
+./AB364582.xml:  <GBSeq_organism>Actinoallomurus fulvus</GBSeq_organism>
+./X97893.xml:  <GBSeq_organism>Thermomonospora curvata DSM 43183</GBSeq_organism>
+./AB264086.xml:  <GBSeq_organism>Actinomadura chibensis</GBSeq_organism>
+./D85498.xml:  <GBSeq_organism>Spirillospora albida</GBSeq_organism>
+./AB364586.xml:  <GBSeq_organism>Actinoallomurus iriomotensis</GBSeq_organism>
+./AF134070.xml:  <GBSeq_organism>Actinomadura vinacea</GBSeq_organism>

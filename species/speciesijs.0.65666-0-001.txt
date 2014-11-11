@@ -1,0 +1,13 @@
+./AF399970.xml:  <GBSeq_organism>Xanthobacter viscosus</GBSeq_organism>
+./X99469.xml:  <GBSeq_organism>Xanthobacter tagetidis</GBSeq_organism>
+./AY211516.xml:  <GBSeq_organism>Ancylobacter polymorphus</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AF399969.xml:  <GBSeq_organism>Xanthobacter aminoxidans</GBSeq_organism>
+./D11342.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./X94201.xml:  <GBSeq_organism>Xanthobacter autotrophicus</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AM778407.xml:  <GBSeq_organism>Ancylobacter oerskovii</GBSeq_organism>
+./AJ535709.xml:  <GBSeq_organism>Angulomicrobium amanitiforme</GBSeq_organism>
+./AY211515.xml:  <GBSeq_organism>Ancylobacter vacuolatus</GBSeq_organism>
+./AY056830.xml:  <GBSeq_organism>Ancylobacter rudongensis</GBSeq_organism>
+./D32247.xml:  <GBSeq_organism>Starkeya novella DSM 506</GBSeq_organism>

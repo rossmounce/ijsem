@@ -1,0 +1,12 @@
+./AJ238361.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AJ238356.xml:  <GBSeq_organism>Herbaspirillum rubrisubalbicans</GBSeq_organism>
+./AJ238358.xml:  <GBSeq_organism>Herbaspirillum frisingense GSF30</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./AB109890.xml:  <GBSeq_organism>Herbaspirillum huttiense subsp. putei</GBSeq_organism>
+./DQ150563.xml:  <GBSeq_organism>Herbaspirillum hiltneri N3</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./DQ188986.xml:  <GBSeq_organism>Herbaspirillum rhizosphaerae</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AF543312.xml:  <GBSeq_organism>Herbaspirillum lusitanum P6-12</GBSeq_organism>
+./AJ310394.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>

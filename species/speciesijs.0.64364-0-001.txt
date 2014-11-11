@@ -1,0 +1,8 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./L16472.xml:  <GBSeq_organism>Prevotella oulorum</GBSeq_organism>
+./L16473.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>
+./L16469.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./L16475.xml:  <GBSeq_organism>Prevotella bivia</GBSeq_organism>
+./L16481.xml:  <GBSeq_organism>Prevotella loescheii</GBSeq_organism>
+./L16465.xml:  <GBSeq_organism>Prevotella corporis</GBSeq_organism>
+./AB078831.xml:  <GBSeq_organism>Bacteroidales str. KB11</GBSeq_organism>

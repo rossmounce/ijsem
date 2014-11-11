@@ -1,0 +1,28 @@
+./AF082562.xml:  <GBSeq_organism>Pseudoalteromonas elyakovii</GBSeq_organism>
+./AF332880.xml:  <GBSeq_organism>Pseudoalteromonas phenolica</GBSeq_organism>
+./X82135.xml:  <GBSeq_organism>Pseudoalteromonas aurantia</GBSeq_organism>
+./X98336.xml:  <GBSeq_organism>Pseudoalteromonas antarctica</GBSeq_organism>
+./X82136.xml:  <GBSeq_organism>Pseudoalteromonas carrageenovora</GBSeq_organism>
+./X82140.xml:  <GBSeq_organism>Pseudoalteromonas undina</GBSeq_organism>
+./AF316144.xml:  <GBSeq_organism>Pseudoalteromonas issachenkonii</GBSeq_organism>
+./AF316891.xml:  <GBSeq_organism>Pseudoalteromonas ruthenica</GBSeq_organism>
+./AY563031.xml:  <GBSeq_organism>Pseudoalteromonas marina</GBSeq_organism>
+./U85855.xml:  <GBSeq_organism>Pseudoalteromonas prydzensis</GBSeq_organism>
+./X82137.xml:  <GBSeq_organism>Pseudoalteromonas citrea</GBSeq_organism>
+./X82147.xml:  <GBSeq_organism>Pseudoalteromonas rubra ATCC 29570</GBSeq_organism>
+./AF144036.xml:  <GBSeq_organism>Pseudoalteromonas maricaloris</GBSeq_organism>
+./AF043742.xml:  <GBSeq_organism>Pseudoalteromonas distincta</GBSeq_organism>
+./AB063324.xml:  <GBSeq_organism>Algicola sagamiensis</GBSeq_organism>
+./X82138.xml:  <GBSeq_organism>Pseudoalteromonas denitrificans</GBSeq_organism>
+./X82134.xml:  <GBSeq_organism>Pseudoalteromonas atlantica</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AJ507251.xml:  <GBSeq_organism>Pseudoalteromonas mariniglutinosa</GBSeq_organism>
+./AY387858.xml:  <GBSeq_organism>Pseudoalteromonas aliena</GBSeq_organism>
+./X82144.xml:  <GBSeq_organism>Pseudoalteromonas luteoviolacea</GBSeq_organism>
+./AF297958.xml:  <GBSeq_organism>Pseudoalteromonas flavipulchra</GBSeq_organism>
+./X82146.xml:  <GBSeq_organism>Pseudoalteromonas nigrifaciens</GBSeq_organism>
+./AY769918.xml:  <GBSeq_organism>Pseudoalteromonas spongiae</GBSeq_organism>
+./FJ404721.xml:  <GBSeq_organism>Pseudoalteromonas lipolytica</GBSeq_organism>
+./AF172987.xml:  <GBSeq_organism>Pseudoalteromonas ulvae</GBSeq_organism>
+./AJ417594.xml:  <GBSeq_organism>Pseudoalteromonas agarivorans DSM 14585</GBSeq_organism>
+./X82215.xml:  <GBSeq_organism>Pseudoalteromonas piscicida</GBSeq_organism>

@@ -1,0 +1,14 @@
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D84520.xml:  <GBSeq_organism>Sphingomonas roseiflava</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./AJ227784.xml:  <GBSeq_organism>Brevundimonas subvibrioides ATCC 15264</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AJ227785.xml:  <GBSeq_organism>Brevundimonas alba</GBSeq_organism>
+./AJ227778.xml:  <GBSeq_organism>Brevundimonas diminuta ATCC 11568</GBSeq_organism>
+./AJ227782.xml:  <GBSeq_organism>Brevundimonas bacteroides</GBSeq_organism>
+./X72721.xml:  <GBSeq_organism>Sphingomonas parapaucimobilis</GBSeq_organism>
+./AJ227786.xml:  <GBSeq_organism>Brevundimonas intermedia</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AJ227787.xml:  <GBSeq_organism>Brevundimonas aurantiaca</GBSeq_organism>
+./AJ227783.xml:  <GBSeq_organism>Brevundimonas variabilis</GBSeq_organism>

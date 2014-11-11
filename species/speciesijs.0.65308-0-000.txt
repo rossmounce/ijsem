@@ -1,0 +1,10 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./AB301494.xml:  <GBSeq_organism>Lewinella lutea</GBSeq_organism>
+./AB301614.xml:  <GBSeq_organism>Lewinella cohaerens</GBSeq_organism>
+./AM230484.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./M58795.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AB078066.xml:  <GBSeq_organism>Chitinophaga sancti</GBSeq_organism>
+./AB301616.xml:  <GBSeq_organism>Lewinella persica</GBSeq_organism>

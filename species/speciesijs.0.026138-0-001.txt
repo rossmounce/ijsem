@@ -1,0 +1,18 @@
+./AB469785.xml:  <GBSeq_organism>Pandoraea oxalativorans</GBSeq_organism>
+./AF439534.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AF439528.xml:  <GBSeq_organism>Pandoraea pnomenusa</GBSeq_organism>
+./AF439531.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AF439526.xml:  <GBSeq_organism>Pandoraea norimbergensis</GBSeq_organism>
+./AF439525.xml:  <GBSeq_organism>Pandoraea pulmonicola</GBSeq_organism>
+./AF439530.xml:  <GBSeq_organism>Pandoraea pnomenusa</GBSeq_organism>
+./AF439532.xml:  <GBSeq_organism>Pandoraea pnomenusa</GBSeq_organism>
+./AB469784.xml:  <GBSeq_organism>Pandoraea oxalativorans</GBSeq_organism>
+./FJ446486.xml:  <GBSeq_organism>Pandoraea oxalativorans</GBSeq_organism>
+./AF439536.xml:  <GBSeq_organism>Pandoraea sp. HI2807</GBSeq_organism>
+./AF439524.xml:  <GBSeq_organism>Pandoraea sputorum</GBSeq_organism>
+./AB510957.xml:  <GBSeq_organism>Pandoraea faecigallinarum</GBSeq_organism>
+./AF439533.xml:  <GBSeq_organism>Pandoraea sp. HI2803</GBSeq_organism>
+./AF439527.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AF439529.xml:  <GBSeq_organism>Pandoraea norimbergensis</GBSeq_organism>
+./AF439535.xml:  <GBSeq_organism>Pandoraea sp. HI2806</GBSeq_organism>
+./AB553288.xml:  <GBSeq_organism>Pandoraea sputorum</GBSeq_organism>

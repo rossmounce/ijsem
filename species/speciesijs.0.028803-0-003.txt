@@ -1,0 +1,40 @@
+./HQ259532.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HO259557.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259539.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6101</GBSeq_organism>
+./HQ259554.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./HO259561.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./EU818927.xml:  <GBSeq_organism>Bradyrhizobium yuanmingense</GBSeq_organism>
+./HQ259565.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6192</GBSeq_organism>
+./HO259529.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259533.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259563.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6164</GBSeq_organism>
+./HQ259567.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6434</GBSeq_organism>
+./HQ259548.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HQ259537.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6069</GBSeq_organism>
+./HO259546.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259556.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6028</GBSeq_organism>
+./HQ259541.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6156</GBSeq_organism>
+./HO259566.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259558.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6077</GBSeq_organism>
+./HO259549.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259555.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259552.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./CP000283.xml:  <GBSeq_organism>Rhodopseudomonas palustris BisB5</GBSeq_organism>
+./HQ259531.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./HQ259551.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AE006469.xml:  <GBSeq_organism>Sinorhizobium meliloti 1021</GBSeq_organism>
+./HQ259547.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6440</GBSeq_organism>
+./HO259528.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259562.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6160</GBSeq_organism>
+./HO259536.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259553.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259550.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259544.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259527.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259540.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259560.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HO259580.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259542.xml:  <GBSeq_organism>Bradyrhizobium sp. SEMIA 6163</GBSeq_organism>
+./HO259545.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>
+./HQ259534.xml:  <GBSeq_organism>Bradyrhizobium japonicum SEMIA 5079</GBSeq_organism>
+./HO259538.xml:  <GBSeq_organism>Panicum virgatum</GBSeq_organism>

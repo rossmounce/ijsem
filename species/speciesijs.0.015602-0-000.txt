@@ -1,0 +1,7 @@
+./FN376860.xml:  <GBSeq_organism>Natronorubrum sediminis</GBSeq_organism>
+./AM285297.xml:  <GBSeq_organism>Haloterrigena hispanica</GBSeq_organism>
+./AJ002949.xml:  <GBSeq_organism>Natrinema pallidum</GBSeq_organism>
+./FN376859.xml:  <GBSeq_organism>Natronorubrum sediminis</GBSeq_organism>
+./AY820137.xml:  <GBSeq_organism>Haloterrigena saccharevitans</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

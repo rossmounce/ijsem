@@ -1,0 +1,19 @@
+./AJ783315.xml:  <GBSeq_organism>Nodularia spumigena NSOR-12</GBSeq_organism>
+./AJ783333.xml:  <GBSeq_organism>Microcystis sp. 269</GBSeq_organism>
+./AJ783322.xml:  <GBSeq_organism>Nodularia spumigena Fae19</GBSeq_organism>
+./AJ783325.xml:  <GBSeq_organism>Nodularia harveyana Bo53</GBSeq_organism>
+./AJ783328.xml:  <GBSeq_organism>cyanobacterium BECID34</GBSeq_organism>
+./AJ783324.xml:  <GBSeq_organism>Nodularia harveyana BECID27</GBSeq_organism>
+./AJ628124.xml:  <GBSeq_organism>Anabaena sp. 90</GBSeq_organism>
+./AJ783323.xml:  <GBSeq_organism>Nodularia sphaerocarpa BECID36</GBSeq_organism>
+./AJ783331.xml:  <GBSeq_organism>Nodularia sphaerocarpa &apos;Huebel 296&apos;</GBSeq_organism>
+./AJ783316.xml:  <GBSeq_organism>Nodularia spumigena NSPI-05</GBSeq_organism>
+./AJ783334.xml:  <GBSeq_organism>Planktothrix agardhii NIVA-CYA 127</GBSeq_organism>
+./AJ783327.xml:  <GBSeq_organism>Nodularia harveyana &apos;Huebel 1983/300&apos;</GBSeq_organism>
+./AJ783332.xml:  <GBSeq_organism>Nodularia sphaerocarpa BECID35</GBSeq_organism>
+./AJ783314.xml:  <GBSeq_organism>Nodularia spumigena &apos;Huebel 1987/310&apos;</GBSeq_organism>
+./AJ783329.xml:  <GBSeq_organism>Nodularia spumigena UTEX &apos;B 2092&apos;</GBSeq_organism>
+./AJ783326.xml:  <GBSeq_organism>Nodularia harveyana BECID29</GBSeq_organism>
+./AJ628127.xml:  <GBSeq_organism>Anabaena sp. 277</GBSeq_organism>
+./AJ783330.xml:  <GBSeq_organism>Nodularia harveyana UTEX &apos;B 2093&apos;</GBSeq_organism>
+./AJ628131.xml:  <GBSeq_organism>Nodularia sphaerocarpa PCC 7804</GBSeq_organism>

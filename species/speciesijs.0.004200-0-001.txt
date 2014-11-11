@@ -1,0 +1,6 @@
+./AB106353.xml:  <GBSeq_organism>Tepidanaerobacter syntrophicus</GBSeq_organism>
+./AY033493.xml:  <GBSeq_organism>Thermovenabulum ferriorganovorum</GBSeq_organism>
+./AF343566.xml:  <GBSeq_organism>Thermaerobacter subterraneus DSM 13965</GBSeq_organism>
+./EU443728.xml:  <GBSeq_organism>Fervidicola ferrireducens</GBSeq_organism>
+./AY703479.xml:  <GBSeq_organism>Thermosediminibacter litoriperuensis</GBSeq_organism>
+./AY703478.xml:  <GBSeq_organism>Thermosediminibacter oceani</GBSeq_organism>

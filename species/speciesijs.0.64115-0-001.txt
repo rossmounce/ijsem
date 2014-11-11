@@ -1,0 +1,6 @@
+./AB034220.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./AB015035.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./AB032581.xml:  <GBSeq_organism>Chitinophaga filiformis</GBSeq_organism>
+./AB032583.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AB048186.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AB032579.xml:  <GBSeq_organism>Chitinophaga japonensis</GBSeq_organism>

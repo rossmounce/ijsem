@@ -1,0 +1,12 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AM283465.xml:  <GBSeq_organism>Lysobacter defluvii IMMIB APB-9 = DSM 18482</GBSeq_organism>
+./EU376963.xml:  <GBSeq_organism>Lysobacter oryzae</GBSeq_organism>
+./EF623862.xml:  <GBSeq_organism>Lysobacter soli</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./EF488749.xml:  <GBSeq_organism>Lysobacter capsici</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./EF660758.xml:  <GBSeq_organism>Luteimonas aestuarii</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./AB166878.xml:  <GBSeq_organism>Lysobacter koreensis</GBSeq_organism>
+./EU237492.xml:  <GBSeq_organism>Lysobacter ximonensis</GBSeq_organism>
+./DQ462461.xml:  <GBSeq_organism>Lysobacter niabensis</GBSeq_organism>

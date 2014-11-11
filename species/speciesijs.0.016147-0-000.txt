@@ -1,0 +1,19 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./EF629832.xml:  <GBSeq_organism>gamma proteobacterium N2yML2</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./AF302081.xml:  <GBSeq_organism>Thioalkalivibrio thiocyanoxidans ARh2</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./AY520560.xml:  <GBSeq_organism>Kangiella koreensis DSM 16069</GBSeq_organism>
+./AB500095.xml:  <GBSeq_organism>Marinicella litoralis</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./AF304197.xml:  <GBSeq_organism>Methylobacter marinus</GBSeq_organism>
+./DQ789390.xml:  <GBSeq_organism>Methylonatrum kenyense</GBSeq_organism>
+./AY520561.xml:  <GBSeq_organism>Kangiella aquimarina</GBSeq_organism>
+./X72767.xml:  <GBSeq_organism>Methylomicrobium agile</GBSeq_organism>
+./EF495228.xml:  <GBSeq_organism>Granulosicoccus antarcticus IMCC3135</GBSeq_organism>
+./CP000282.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AF304195.xml:  <GBSeq_organism>Methylobacter luteus</GBSeq_organism>
+./X72770.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>

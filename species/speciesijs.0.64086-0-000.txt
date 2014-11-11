@@ -1,0 +1,26 @@
+./AF137381.xml:  <GBSeq_organism>Runella zeae</GBSeq_organism>
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./AY739663.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AY533665.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./AJ619979.xml:  <GBSeq_organism>Oesophagostomum dentatum</GBSeq_organism>
+./M62789.xml:  <GBSeq_organism>Spirosoma linguale</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AY854022.xml:  <GBSeq_organism>Leadbetterella byssophila DSM 17132</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AJ821885.xml:  <GBSeq_organism>Dyadobacter crusticola</GBSeq_organism>
+./AF502211.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY904352.xml:  <GBSeq_organism>Emticicia oligotrophica DSM 17448</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

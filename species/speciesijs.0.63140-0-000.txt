@@ -1,0 +1,25 @@
+./AJ421528.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./AJ609555.xml:  <GBSeq_organism>Psychrobacter urativorans</GBSeq_organism>
+./AJ430827.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./AJ609556.xml:  <GBSeq_organism>Psychrobacter frigidicola</GBSeq_organism>
+./AF005188.xml:  <GBSeq_organism>Moraxella cuniculi</GBSeq_organism>
+./AF005160.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AY513646.xml:  <GBSeq_organism>Psychrobacter alimentarius</GBSeq_organism>
+./X81665.xml:  <GBSeq_organism>Acinetobacter lwoffii</GBSeq_organism>
+./AJ609273.xml:  <GBSeq_organism>Psychrobacter arenosus</GBSeq_organism>
+./AF441201.xml:  <GBSeq_organism>Psychrobacter jeotgali</GBSeq_organism>
+./AF005185.xml:  <GBSeq_organism>Moraxella catarrhalis</GBSeq_organism>
+./X81661.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AJ272303.xml:  <GBSeq_organism>Psychrobacter proteolyticus</GBSeq_organism>
+./AB094794.xml:  <GBSeq_organism>Psychrobacter okhotskensis</GBSeq_organism>
+./AJ430828.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./U46144.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AJ609272.xml:  <GBSeq_organism>Psychrobacter maritimus</GBSeq_organism>
+./AJ437696.xml:  <GBSeq_organism>Psychrobacter pulmonis</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AJ309940.xml:  <GBSeq_organism>Psychrobacter submarinus</GBSeq_organism>
+./AY513645.xml:  <GBSeq_organism>Psychrobacter alimentarius</GBSeq_organism>
+./AJ312213.xml:  <GBSeq_organism>Psychrobacter glacincola</GBSeq_organism>
+./AJ309941.xml:  <GBSeq_organism>Psychrobacter marincola</GBSeq_organism>
+./AF005186.xml:  <GBSeq_organism>Moraxella ovis</GBSeq_organism>

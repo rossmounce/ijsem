@@ -1,0 +1,15 @@
+./AY550263.xml:  <GBSeq_organism>Pseudoxanthomonas koreensis</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./X95919.xml:  <GBSeq_organism>Xanthomonas axonopodis</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AF273082.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./AY650027.xml:  <GBSeq_organism>Pseudoxanthomonas kaohsiungensis</GBSeq_organism>
+./AY550264.xml:  <GBSeq_organism>Pseudoxanthomonas daejeonensis</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ012229.xml:  <GBSeq_organism>Stenotrophomonas nitritireducens</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AF427039.xml:  <GBSeq_organism>Pseudoxanthomonas taiwanensis</GBSeq_organism>
+./Y10766.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./AY927994.xml:  <GBSeq_organism>Pseudoxanthomonas suwonensis</GBSeq_organism>

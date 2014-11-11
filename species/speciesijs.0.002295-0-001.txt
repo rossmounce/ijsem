@@ -1,0 +1,7 @@
+./AJ506116.xml:  <GBSeq_organism>Clostridium frigoris</GBSeq_organism>
+./X68181.xml:  <GBSeq_organism>Clostridium estertheticum subsp. estertheticum</GBSeq_organism>
+./AY117755.xml:  <GBSeq_organism>Clostridium algoriphilum</GBSeq_organism>
+./AJ506118.xml:  <GBSeq_organism>Clostridium lacusfryxellense</GBSeq_organism>
+./AJ506115.xml:  <GBSeq_organism>Clostridium estertheticum subsp. laramiense</GBSeq_organism>
+./AJ297443.xml:  <GBSeq_organism>Clostridium psychrophilum</GBSeq_organism>
+./AJ506120.xml:  <GBSeq_organism>Clostridium bowmanii</GBSeq_organism>

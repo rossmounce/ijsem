@@ -1,0 +1,7 @@
+./AB260934.xml:  <GBSeq_organism>Persicobacter psychrovividus</GBSeq_organism>
+./AB255370.xml:  <GBSeq_organism>Sediminitomix flava</GBSeq_organism>
+./AB251933.xml:  <GBSeq_organism>Flammeovirga kamogawensis</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AB260933.xml:  <GBSeq_organism>Persicobacter psychrovividus</GBSeq_organism>
+./AB260932.xml:  <GBSeq_organism>Persicobacter psychrovividus</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ132943.xml:  <GBSeq_organism>Friedmanniella lacustris</GBSeq_organism>
+./AB445453.xml:  <GBSeq_organism>Friedmanniella luteola</GBSeq_organism>
+./AB445454.xml:  <GBSeq_organism>Friedmanniella lucida</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./AB445455.xml:  <GBSeq_organism>Friedmanniella okinawensis</GBSeq_organism>
+./Y15502.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AF084529.xml:  <GBSeq_organism>Friedmanniella capsulata</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./Y18629.xml:  <GBSeq_organism>Marmoricola aurantiacus</GBSeq_organism>
+./AB445456.xml:  <GBSeq_organism>Friedmanniella sagamiharensis</GBSeq_organism>

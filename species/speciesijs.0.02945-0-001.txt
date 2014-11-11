@@ -1,0 +1,11 @@
+./AF378796.xml:  <GBSeq_organism>Sphingopyxis alaskensis</GBSeq_organism>
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./AF088897.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ZM4 = ATCC 31821</GBSeq_organism>
+./D13727.xml:  <GBSeq_organism>Sphingopyxis terrae</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./AF465835.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./X85023.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./X94066.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

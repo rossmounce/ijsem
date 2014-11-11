@@ -1,0 +1,11 @@
+./EF565822.xml:  <GBSeq_organism>Fervidobacterium pennivorans</GBSeq_organism>
+./M83140.xml:  <GBSeq_organism>Thermosipho africanus</GBSeq_organism>
+./X80790.xml:  <GBSeq_organism>Thermotoga elfii</GBSeq_organism>
+./AY787819.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./AJ577471.xml:  <GBSeq_organism>Thermosipho atlanticus</GBSeq_organism>
+./AJ401017.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./M59176.xml:  <GBSeq_organism>Fervidobacterium islandicum</GBSeq_organism>
+./AB024932.xml:  <GBSeq_organism>Thermosipho japonicus</GBSeq_organism>
+./AF355815.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./U89768.xml:  <GBSeq_organism>Thermotoga hypogea</GBSeq_organism>
+./M59177.xml:  <GBSeq_organism>Fervidobacterium nodosum</GBSeq_organism>

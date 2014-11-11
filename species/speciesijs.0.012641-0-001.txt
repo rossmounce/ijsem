@@ -1,0 +1,5 @@
+./FJ172671.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./FJ172670.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./FJ172669.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./FJ648510.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./AY581869.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>

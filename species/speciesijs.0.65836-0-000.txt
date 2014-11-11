@@ -1,0 +1,15 @@
+./AJ633051.xml:  <GBSeq_organism>Anaplasma ovis</GBSeq_organism>
+./AF373613.xml:  <GBSeq_organism>Ehrlichia canis</GBSeq_organism>
+./U23503.xml:  <GBSeq_organism>Ehrlichia chaffeensis</GBSeq_organism>
+./DQ150682.xml:  <GBSeq_organism>Rickettsia rickettsii</GBSeq_organism>
+./AB196302.xml:  <GBSeq_organism>Ehrlichia muris</GBSeq_organism>
+./X62432.xml:  <GBSeq_organism>Ehrlichia ruminantium</GBSeq_organism>
+./AF380257.xml:  <GBSeq_organism>Neorickettsia risticii</GBSeq_organism>
+./M73225.xml:  <GBSeq_organism>Neorickettsia sennetsu</GBSeq_organism>
+./AB074460.xml:  <GBSeq_organism>Candidatus Neoehrlichia mikurensis</GBSeq_organism>
+./EF633744.xml:  <GBSeq_organism>Candidatus Neoehrlichia lotoris</GBSeq_organism>
+./U96436.xml:  <GBSeq_organism>Ehrlichia ewingii</GBSeq_organism>
+./AY055469.xml:  <GBSeq_organism>Anaplasma phagocytophilum</GBSeq_organism>
+./AF283007.xml:  <GBSeq_organism>Anaplasma centrale</GBSeq_organism>
+./AF536828.xml:  <GBSeq_organism>Anaplasma platys</GBSeq_organism>
+./AF309867.xml:  <GBSeq_organism>Anaplasma marginale str. Florida</GBSeq_organism>

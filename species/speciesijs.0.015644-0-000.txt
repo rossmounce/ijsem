@@ -1,0 +1,16 @@
+./AM774315.xml:  <GBSeq_organism>delta proteobacterium JS_SRB100Hy</GBSeq_organism>
+./AM774321.xml:  <GBSeq_organism>Desulfopila inferna</GBSeq_organism>
+./X95180.xml:  <GBSeq_organism>Desulfobulbus elongatus</GBSeq_organism>
+./L42613.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./EF442982.xml:  <GBSeq_organism>[Desulfobacterium] catecholicum</GBSeq_organism>
+./AY548789.xml:  <GBSeq_organism>Desulfobulbus propionicus DSM 2032</GBSeq_organism>
+./AM774323.xml:  <GBSeq_organism>delta proteobacterium JS_SRB400Ace</GBSeq_organism>
+./AY274450.xml:  <GBSeq_organism>Desulfobacterium corrodens</GBSeq_organism>
+./X95181.xml:  <GBSeq_organism>Desulfocapsa thiozymogenes DSM 7269</GBSeq_organism>
+./X99707.xml:  <GBSeq_organism>Desulfofustis glycolicus</GBSeq_organism>
+./AF354663.xml:  <GBSeq_organism>Desulfobulbus mediterraneus</GBSeq_organism>
+./AF099061.xml:  <GBSeq_organism>Desulfotalea arctica</GBSeq_organism>
+./AM774322.xml:  <GBSeq_organism>delta proteobacterium JS_SRB100Ace</GBSeq_organism>
+./Y13672.xml:  <GBSeq_organism>Desulfocapsa sulfexigens DSM 10523</GBSeq_organism>
+./AM774318.xml:  <GBSeq_organism>delta proteobacterium JS_SRB400Hy</GBSeq_organism>
+./AJ237602.xml:  <GBSeq_organism>[Desulfobacterium] catecholicum</GBSeq_organism>

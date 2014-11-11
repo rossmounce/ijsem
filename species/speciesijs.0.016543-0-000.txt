@@ -1,0 +1,35 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./AB257636.xml:  <GBSeq_organism>uncultured actinobacterium</GBSeq_organism>
+./X97886.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111</GBSeq_organism>
+./X98372.xml:  <GBSeq_organism>Rubrobacter radiotolerans DSM 5868</GBSeq_organism>
+./D38365.xml:  <GBSeq_organism>Chloroflexus aurantiacus J-10-fl</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./AY053479.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./X84447.xml:  <GBSeq_organism>Actinosynnema mirum DSM 43827</GBSeq_organism>
+./AJ458462.xml:  <GBSeq_organism>Thermoleophilum album</GBSeq_organism>
+./X79048.xml:  <GBSeq_organism>Coriobacterium glomerans PW2</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./EF422408.xml:  <GBSeq_organism>Nitriliruptor alkaliphilus DSM 45188</GBSeq_organism>
+./FJ152660.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./AB478418.xml:  <GBSeq_organism>Euzebya tangerina</GBSeq_organism>
+./AB245334.xml:  <GBSeq_organism>Solirubrobacter soli</GBSeq_organism>
+./X97889.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./U75647.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans DSM 10331</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./AF101240.xml:  <GBSeq_organism>Slackia exigua ATCC 700122</GBSeq_organism>
+./FJ152635.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./FJ152634.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB360448.xml:  <GBSeq_organism>Iamia majanohamensis</GBSeq_organism>
+./AF292375.xml:  <GBSeq_organism>Eggerthella lenta DSM 2243</GBSeq_organism>
+./M38018.xml:  <GBSeq_organism>Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456</GBSeq_organism>
+./AJ420142.xml:  <GBSeq_organism>Sphaerobacter thermophilus DSM 20745</GBSeq_organism>
+./AB360343.xml:  <GBSeq_organism>Ilumatobacter fluminis YM22-133</GBSeq_organism>
+./AJ440237.xml:  <GBSeq_organism>Conexibacter woesei DSM 14684</GBSeq_organism>
+./U43492.xml:  <GBSeq_organism>Denitrobacterium detoxificans</GBSeq_organism>

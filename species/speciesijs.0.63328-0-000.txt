@@ -1,0 +1,13 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AF427039.xml:  <GBSeq_organism>Pseudoxanthomonas taiwanensis</GBSeq_organism>
+./AY557615.xml:  <GBSeq_organism>Silanimonas lenta</GBSeq_organism>
+./AB019582.xml:  <GBSeq_organism>Lysobacter antibioticus</GBSeq_organism>
+./X95918.xml:  <GBSeq_organism>Xanthomonas albilineans</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

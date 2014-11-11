@@ -1,0 +1,15 @@
+./AF434737.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./AY756313.xml:  <GBSeq_organism>Citrus tristeza virus</GBSeq_organism>
+./AF547836.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./AF547865.xml:  <GBSeq_organism>Mycobacterium peregrinum</GBSeq_organism>
+./AF547831.xml:  <GBSeq_organism>Mycobacterium flavescens</GBSeq_organism>
+./AF547840.xml:  <GBSeq_organism>Mycobacterium gordonae</GBSeq_organism>
+./AY550225.xml:  <GBSeq_organism>Mycobacterium shottsii</GBSeq_organism>
+./DQ168662.xml:  <GBSeq_organism>Mycobacterium arupense</GBSeq_organism>
+./AF547871.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./AF547890.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./AF547808.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./AF434736.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./AF434732.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>
+./AF547802.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./AF547891.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>

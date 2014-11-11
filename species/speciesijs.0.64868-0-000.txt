@@ -1,0 +1,11 @@
+./AM393882.xml:  <GBSeq_organism>Tessaracoccus flavescens</GBSeq_organism>
+./AJ003055.xml:  <GBSeq_organism>Propionibacterium avidum ATCC 25577</GBSeq_organism>
+./AF234623.xml:  <GBSeq_organism>Propionibacterium microaerophilum</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./X53217.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./D82046.xml:  <GBSeq_organism>Propionibacterium cyclohexanicum</GBSeq_organism>
+./AJ003056.xml:  <GBSeq_organism>Propionimicrobium lymphophilum</GBSeq_organism>
+./AJ315953.xml:  <GBSeq_organism>Propionibacterium propionicum</GBSeq_organism>
+./AJ704571.xml:  <GBSeq_organism>Propionibacterium jensenii</GBSeq_organism>
+./AJ132334.xml:  <GBSeq_organism>Luteococcus peritonei</GBSeq_organism>
+./AJ704569.xml:  <GBSeq_organism>Propionibacterium acidipropionici</GBSeq_organism>

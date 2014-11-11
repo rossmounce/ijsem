@@ -1,0 +1,14 @@
+./AJ458491.xml:  <GBSeq_organism>Methylosinus trichosporium</GBSeq_organism>
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./AY706938.xml:  <GBSeq_organism>Erythrobacter vulgaris</GBSeq_organism>
+./AY337601.xml:  <GBSeq_organism>Sphingopyxis alaskensis RB2256</GBSeq_organism>
+./EF592609.xml:  <GBSeq_organism>Kaistia soli DSM 19436</GBSeq_organism>
+./FJ560750.xml:  <GBSeq_organism>Bauldia consociata</GBSeq_organism>
+./EF101504.xml:  <GBSeq_organism>Stappia conradae</GBSeq_organism>
+./D86514.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./FJ560749.xml:  <GBSeq_organism>Vasilyevaea mishustinii</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./AY512823.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>

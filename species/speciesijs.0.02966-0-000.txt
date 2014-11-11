@@ -1,0 +1,13 @@
+./AF094733.xml:  <GBSeq_organism>Pseudomonas fragi</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./AF268029.xml:  <GBSeq_organism>Pseudomonas grimontii</GBSeq_organism>
+./AY364537.xml:  <GBSeq_organism>Pseudomonas lutea</GBSeq_organism>
+./D84005.xml:  <GBSeq_organism>Pseudomonas agarici</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AJ492826.xml:  <GBSeq_organism>Pseudomonas tremae</GBSeq_organism>
+./AY152673.xml:  <GBSeq_organism>Pseudomonas rhizosphaerae</GBSeq_organism>
+./D84004.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./D84026.xml:  <GBSeq_organism>Pseudomonas syringae</GBSeq_organism>
+./D84020.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./D84013.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>

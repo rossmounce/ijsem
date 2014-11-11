@@ -1,0 +1,9 @@
+./AM042693.xml:  <GBSeq_organism>Tepidimonas thermarum</GBSeq_organism>
+./AJ420330.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./AF177943.xml:  <GBSeq_organism>Tepidimonas ignava</GBSeq_organism>
+./AY796039.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY845054.xml:  <GBSeq_organism>Tepidimonas taiwanensis</GBSeq_organism>
+./AY594193.xml:  <GBSeq_organism>Tepidimonas arfidensis</GBSeq_organism>
+./AY324139.xml:  <GBSeq_organism>Tepidimonas aquatica</GBSeq_organism>
+./AY768824.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

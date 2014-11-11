@@ -1,0 +1,16 @@
+./M26629.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./AM943124.xml:  <GBSeq_organism>Ectothiorhodospira variabilis</GBSeq_organism>
+./M59151.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./X93482.xml:  <GBSeq_organism>Ectothiorhodospira mobilis</GBSeq_organism>
+./X93478.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./AM943123.xml:  <GBSeq_organism>Ectothiorhodospira variabilis</GBSeq_organism>
+./M59152.xml:  <GBSeq_organism>Halorhodospira halochloris</GBSeq_organism>
+./X93477.xml:  <GBSeq_organism>Halorhodospira abdelmalekii</GBSeq_organism>
+./M26630.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./X93479.xml:  <GBSeq_organism>Ectothiorhodospira haloalkaliphila ATCC 51935</GBSeq_organism>
+./AM943125.xml:  <GBSeq_organism>Ectothiorhodospira variabilis</GBSeq_organism>
+./AM943121.xml:  <GBSeq_organism>Ectothiorhodospira variabilis</GBSeq_organism>
+./AM943122.xml:  <GBSeq_organism>Ectothiorhodospira variabilis</GBSeq_organism>
+./AJ006530.xml:  <GBSeq_organism>Thiorhodospira sibirica ATCC 700588</GBSeq_organism>
+./X93476.xml:  <GBSeq_organism>Ectothiorhodospira marina</GBSeq_organism>

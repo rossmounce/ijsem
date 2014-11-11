@@ -1,0 +1,7 @@
+./AJ422152.xml:  <GBSeq_organism>uncultured beta proteobacterium</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./M60682.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./AY515390.xml:  <GBSeq_organism>Paucibacter toxinivorans</GBSeq_organism>
+./AF035054.xml:  <GBSeq_organism>Aquabacterium commune</GBSeq_organism>
+./AF176594.xml:  <GBSeq_organism>Methylibium petroleiphilum PM1</GBSeq_organism>
+./AY662010.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

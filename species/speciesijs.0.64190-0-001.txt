@@ -1,0 +1,27 @@
+./AF315832.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9900327</GBSeq_organism>
+./AF315835.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601002</GBSeq_organism>
+./AF315830.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601800</GBSeq_organism>
+./L07853.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AF315834.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9701605</GBSeq_organism>
+./AB026698.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./AF315839.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9701619</GBSeq_organism>
+./L07851.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./L07858.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315836.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601940</GBSeq_organism>
+./AF315837.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9701604</GBSeq_organism>
+./AY701785.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AJ548480.xml:  <GBSeq_organism>Mycobacterium chimaera</GBSeq_organism>
+./L07856.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315829.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9600439</GBSeq_organism>
+./AF315827.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9600915</GBSeq_organism>
+./L07855.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315838.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 16186</GBSeq_organism>
+./AF315828.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9801833</GBSeq_organism>
+./AF315833.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601918</GBSeq_organism>
+./L07852.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AF315826.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601388</GBSeq_organism>
+./L07859.xml:  <GBSeq_organism>Mycobacterium intracellulare</GBSeq_organism>
+./L07848.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./L07857.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./L15620.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315831.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9801560</GBSeq_organism>

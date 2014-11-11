@@ -1,0 +1,11 @@
+./AF144750.xml:  <GBSeq_organism>Planomicrobium koreense</GBSeq_organism>
+./X81061.xml:  <GBSeq_organism>Actinomyces bovis</GBSeq_organism>
+./AF138739.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AB101594.xml:  <GBSeq_organism>Ureibacillus thermosphaericus</GBSeq_organism>
+./AB245375.xml:  <GBSeq_organism>Tumebacillus ginsengisoli</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AJ496806.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./X94559.xml:  <GBSeq_organism>Salinicoccus roseus</GBSeq_organism>
+./Y15712.xml:  <GBSeq_organism>Macrococcus equipercicus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

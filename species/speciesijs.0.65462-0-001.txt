@@ -1,0 +1,19 @@
+./AB244762.xml:  <GBSeq_organism>Kaistia granuli</GBSeq_organism>
+./EF465533.xml:  <GBSeq_organism>Pseudoxanthobacter soli DSM 19599</GBSeq_organism>
+./DQ533878.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./AY786080.xml:  <GBSeq_organism>Phyllobacterium trifolii</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./X94198.xml:  <GBSeq_organism>Xanthobacter agilis</GBSeq_organism>
+./AY039817.xml:  <GBSeq_organism>Kaistia adipata</GBSeq_organism>
+./M27534.xml:  <GBSeq_organism>Afifella marina</GBSeq_organism>
+./AJ786600.xml:  <GBSeq_organism>Hoeflea alexandrii</GBSeq_organism>
+./DQ097300.xml:  <GBSeq_organism>Amorphus coralli</GBSeq_organism>
+./AY117148.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./AM180706.xml:  <GBSeq_organism>Rhodobium gokarnense</GBSeq_organism>
+./AF084498.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./AJ242582.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./U88440.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./X94200.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AB017203.xml:  <GBSeq_organism>Prosthecomicrobium pneumaticum</GBSeq_organism>

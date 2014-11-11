@@ -1,0 +1,12 @@
+./AF430044.xml:  <GBSeq_organism>Nocardia uniformis</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AY639902.xml:  <GBSeq_organism>Nocardia jiangxiensis</GBSeq_organism>
+./FJ805428.xml:  <GBSeq_organism>Nocardia callitridis</GBSeq_organism>
+./AB126880.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>
+./AF430045.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AF430042.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AY779043.xml:  <GBSeq_organism>Nocardia lijiangensis</GBSeq_organism>
+./AF430028.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AF430067.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AB187522.xml:  <GBSeq_organism>Nocardia exalbida</GBSeq_organism>
+./AF430039.xml:  <GBSeq_organism>Nocardia seriolae</GBSeq_organism>

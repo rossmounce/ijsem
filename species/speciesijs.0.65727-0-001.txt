@@ -1,0 +1,20 @@
+./X93928.xml:  <GBSeq_organism>Spirochaeta africana DSM 8902</GBSeq_organism>
+./Z21638.xml:  <GBSeq_organism>Leptospira wolbachii</GBSeq_organism>
+./M88726.xml:  <GBSeq_organism>Treponema pallidum</GBSeq_organism>
+./M57738.xml:  <GBSeq_organism>Treponema succinifaciens DSM 2489</GBSeq_organism>
+./AB364473.xml:  <GBSeq_organism>Exilispira thermophila</GBSeq_organism>
+./M71237.xml:  <GBSeq_organism>Treponema pectinovorum 8:A:33768</GBSeq_organism>
+./M88719.xml:  <GBSeq_organism>Leptonema illini</GBSeq_organism>
+./U12671.xml:  <GBSeq_organism>Leptospira noguchii</GBSeq_organism>
+./X62809.xml:  <GBSeq_organism>Spirochaeta thermophila DSM 6192</GBSeq_organism>
+./M64312.xml:  <GBSeq_organism>Borrelia anserina</GBSeq_organism>
+./AJ698092.xml:  <GBSeq_organism>Sphaerochaeta coccoides DSM 17374</GBSeq_organism>
+./U42638.xml:  <GBSeq_organism>Cristispira sp. CP1</GBSeq_organism>
+./AF200693.xml:  <GBSeq_organism>Brachyspira aalborgi</GBSeq_organism>
+./M88722.xml:  <GBSeq_organism>Spirochaeta halophila</GBSeq_organism>
+./M71236.xml:  <GBSeq_organism>Treponema denticola II:11:33520</GBSeq_organism>
+./AY155458.xml:  <GBSeq_organism>Brachyspira pilosicoli P43/6/78</GBSeq_organism>
+./AB022141.xml:  <GBSeq_organism>Borrelia valaisiana</GBSeq_organism>
+./M57737.xml:  <GBSeq_organism>Treponema bryantii</GBSeq_organism>
+./L31543.xml:  <GBSeq_organism>Brevinema andersonii</GBSeq_organism>
+./M71239.xml:  <GBSeq_organism>Spirochaeta bajacaliforniensis</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AF110188.xml:  <GBSeq_organism>Burkholderia mallei</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./AJ302311.xml:  <GBSeq_organism>Burkholderia tuberum STM678</GBSeq_organism>
+./U86373.xml:  <GBSeq_organism>Burkholderia xenovorans LB400</GBSeq_organism>
+./DQ465451.xml:  <GBSeq_organism>Burkholderia soli</GBSeq_organism>
+./AB488693.xml:  <GBSeq_organism>Burkholderia oxyphila</GBSeq_organism>
+./AB021423.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./AB537486.xml:  <GBSeq_organism>Burkholderia heleia NBRC 101817</GBSeq_organism>
+./AY741342.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./EU024154.xml:  <GBSeq_organism>Burkholderia graminis</GBSeq_organism>
+./AY773189.xml:  <GBSeq_organism>Burkholderia nodosa</GBSeq_organism>
+./AJ420332.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AY221956.xml:  <GBSeq_organism>Burkholderia unamae MTI-641</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AF263278.xml:  <GBSeq_organism>Burkholderia sacchari</GBSeq_organism>

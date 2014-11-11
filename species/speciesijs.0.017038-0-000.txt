@@ -1,0 +1,5 @@
+./AJ278497.xml:  <GBSeq_organism>Saccharomonospora halophila 8</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./AJ306300.xml:  <GBSeq_organism>Saccharomonospora xinjiangensis XJ-54</GBSeq_organism>

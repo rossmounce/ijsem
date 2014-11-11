@@ -1,0 +1,20 @@
+./AB121228.xml:  <GBSeq_organism>Cupriavidus pinatubonensis</GBSeq_organism>
+./AF085226.xml:  <GBSeq_organism>Cupriavidus pauculus</GBSeq_organism>
+./AF076645.xml:  <GBSeq_organism>Cupriavidus gilardii</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AF312020.xml:  <GBSeq_organism>Cupriavidus campinensis</GBSeq_organism>
+./AB121221.xml:  <GBSeq_organism>Cupriavidus pinatubonensis</GBSeq_organism>
+./Y10824.xml:  <GBSeq_organism>Cupriavidus metallidurans CH34</GBSeq_organism>
+./AB121222.xml:  <GBSeq_organism>Cupriavidus pinatubonensis</GBSeq_organism>
+./X67042.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./AF500583.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AB121223.xml:  <GBSeq_organism>Cupriavidus pinatubonensis</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./AF139729.xml:  <GBSeq_organism>Ralstonia eutropha JMP134</GBSeq_organism>
+./AJ270260.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./AF312022.xml:  <GBSeq_organism>Cupriavidus basilensis</GBSeq_organism>
+./M32021.xml:  <GBSeq_organism>Cupriavidus necator</GBSeq_organism>
+./AJ270258.xml:  <GBSeq_organism>Ralstonia mannitolilytica</GBSeq_organism>
+./AF488779.xml:  <GBSeq_organism>Ralstonia insidiosa</GBSeq_organism>
+./AF155567.xml:  <GBSeq_organism>Cupriavidus oxalaticus</GBSeq_organism>

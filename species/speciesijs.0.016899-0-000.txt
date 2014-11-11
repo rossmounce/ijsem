@@ -1,0 +1,14 @@
+./X89947.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./AB062383.xml:  <GBSeq_organism>Microtetraspora malaysiensis</GBSeq_organism>
+./AB370244.xml:  <GBSeq_organism>Planotetraspora thailandica</GBSeq_organism>
+./AB112082.xml:  <GBSeq_organism>Planotetraspora silvatica</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./AB188150.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./D85496.xml:  <GBSeq_organism>Planotetraspora mira</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./U48974.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./FJ426333.xml:  <GBSeq_organism>Planotetraspora kaengkrachanensis</GBSeq_organism>
+./U48989.xml:  <GBSeq_organism>Microbispora rosea subsp. rosea</GBSeq_organism>
+./U48973.xml:  <GBSeq_organism>Microtetraspora fusca</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./FJ426332.xml:  <GBSeq_organism>Planotetraspora phitsanulokensis</GBSeq_organism>

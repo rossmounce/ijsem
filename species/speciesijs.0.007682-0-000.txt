@@ -1,0 +1,10 @@
+./AF002264.xml:  <GBSeq_organism>Thermobifida fusca</GBSeq_organism>
+./AF360734.xml:  <GBSeq_organism>Nocardiopsis composta</GBSeq_organism>
+./EF423989.xml:  <GBSeq_organism>Streptomonospora halophila</GBSeq_organism>
+./AF462347.xml:  <GBSeq_organism>Streptomonospora alba</GBSeq_organism>
+./EU442551.xml:  <GBSeq_organism>Streptomonospora amylolytica</GBSeq_organism>
+./AJ421018.xml:  <GBSeq_organism>Nocardiopsis halophila DSM 44494</GBSeq_organism>
+./AJ298058.xml:  <GBSeq_organism>Thermobifida cellulosilytica TB100</GBSeq_organism>
+./AF002260.xml:  <GBSeq_organism>Thermobifida alba</GBSeq_organism>
+./X89934.xml:  <GBSeq_organism>Streptosporangium album</GBSeq_organism>
+./EU442553.xml:  <GBSeq_organism>Streptomonospora flavalba</GBSeq_organism>

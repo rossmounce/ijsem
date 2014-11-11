@@ -1,0 +1,20 @@
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./EU521689.xml:  <GBSeq_organism>Tsukamurella carboxydivorans</GBSeq_organism>
+./Z35435.xml:  <GBSeq_organism>Skermania piniformis</GBSeq_organism>
+./FJ917743.xml:  <GBSeq_organism>Tsukamurella soli</GBSeq_organism>
+./X92981.xml:  <GBSeq_organism>Tsukamurella pulmonis</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./AJ920289.xml:  <GBSeq_organism>Dietzia cinnamea</GBSeq_organism>
+./AY238514.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./AY238513.xml:  <GBSeq_organism>Tsukamurella pseudospumae</GBSeq_organism>
+./AF283280.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AF283281.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>
+./AF150494.xml:  <GBSeq_organism>Tsukamurella sunchonensis</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./AY714239.xml:  <GBSeq_organism>Tsukamurella spongiae</GBSeq_organism>
+./AF283283.xml:  <GBSeq_organism>Tsukamurella strandjordii</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./AY972480.xml:  <GBSeq_organism>Dietzia kunjamensis</GBSeq_organism>
+./AY534742.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>

@@ -1,0 +1,41 @@
+./AY929535.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./GU994073.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./EU753431.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AF217266.xml:  <GBSeq_organism>Rhizobium gallicum bv. gallicum</GBSeq_organism>
+./AY929546.xml:  <GBSeq_organism>Sinorhizobium medicae</GBSeq_organism>
+./AF217268.xml:  <GBSeq_organism>Rhizobium etli bv. phaseoli</GBSeq_organism>
+./EF209423.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./GU994069.xml:  <GBSeq_organism>Ensifer sojae CCBAU 05684</GBSeq_organism>
+./AY934876.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>
+./X52958.xml:  <GBSeq_organism>Mesorhizobium loti NZP2037</GBSeq_organism>
+./EU291982.xml:  <GBSeq_organism>Sinorhizobium chiapanecum</GBSeq_organism>
+./M55225.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./GU994077.xml:  <GBSeq_organism>Ensifer sojae CCBAU 05684</GBSeq_organism>
+./AF217261.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./Z95214.xml:  <GBSeq_organism>Sinorhizobium arboris LMG 14919</GBSeq_organism>
+./GU994078.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./EU267715.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./GU994068.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./DQ407293.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./M55229.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./GU994066.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./GU994076.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./GU994074.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./GU994075.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./EU130410.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./AF217267.xml:  <GBSeq_organism>Rhizobium giardinii bv. giardinii</GBSeq_organism>
+./EU267717.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AF506514.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./DQ450929.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./EU267718.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./GU994972.xml:  <GBSeq_organism>Haliotis discus hannai</GBSeq_organism>
+./EU130395.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./HM997097.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./EF209422.xml:  <GBSeq_organism>Sinorhizobium medicae</GBSeq_organism>
+./DQ485714.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./EU267714.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./GU994067.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./AY929541.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./GU994070.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./EU622087.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./HM997096.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>

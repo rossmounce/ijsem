@@ -1,0 +1,29 @@
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./X83810.xml:  <GBSeq_organism>Brachybacterium faecium DSM 4810</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./Y18378.xml:  <GBSeq_organism>Beutenbergia cavernae DSM 12333</GBSeq_organism>
+./Y09911.xml:  <GBSeq_organism>Bogoriella caseilytica</GBSeq_organism>
+./AY636111.xml:  <GBSeq_organism>Ornithinimicrobium kibberense</GBSeq_organism>
+./X67755.xml:  <GBSeq_organism>Vigna unguiculata</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./AY382898.xml:  <GBSeq_organism>Serinicoccus marinus</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./X87758.xml:  <GBSeq_organism>Rothia mucilaginosa</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./X83811.xml:  <GBSeq_organism>Jonesia denitrificans DSM 20603</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./X83807.xml:  <GBSeq_organism>Oerskovia enterophila</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AJ277650.xml:  <GBSeq_organism>Ornithinimicrobium humiphilum</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./L40615.xml:  <GBSeq_organism>Dermatophilus congolensis</GBSeq_organism>
+./Y17870.xml:  <GBSeq_organism>Rarobacter faecitabidus</GBSeq_organism>
+./M23411.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

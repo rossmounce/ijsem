@@ -1,0 +1,21 @@
+./X79734.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./DQ022958.xml:  <GBSeq_organism>Azospirillum melinis</GBSeq_organism>
+./M59070.xml:  <GBSeq_organism>Rhodothalassium salexigens</GBSeq_organism>
+./D17514.xml:  <GBSeq_organism>Magnetospirillum magneticum AMB-1</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./Z29583.xml:  <GBSeq_organism>Niveispirillum irakense</GBSeq_organism>
+./D12701.xml:  <GBSeq_organism>Rhodospirillum centenum</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AJ001276.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AJ535711.xml:  <GBSeq_organism>Stella vacuolata</GBSeq_organism>
+./M59065.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./X90760.xml:  <GBSeq_organism>Skermanella parooensis</GBSeq_organism>
+./DQ672568.xml:  <GBSeq_organism>Skermanella aerolata KACC 11604</GBSeq_organism>
+./X79735.xml:  <GBSeq_organism>Nitrospirillum amazonense</GBSeq_organism>
+./AJ238567.xml:  <GBSeq_organism>Azospirillum doebereinerae</GBSeq_organism>
+./X90759.xml:  <GBSeq_organism>Azospirillum largimobile</GBSeq_organism>
+./AJ535710.xml:  <GBSeq_organism>Stella humosa</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>

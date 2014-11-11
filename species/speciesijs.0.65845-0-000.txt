@@ -1,0 +1,36 @@
+./U77398.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89971.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89981.xml:  <GBSeq_organism>Butyrivibrio crossotus</GBSeq_organism>
+./AJ428548.xml:  <GBSeq_organism>Pseudobutyrivibrio xylanivorans</GBSeq_organism>
+./AJ428549.xml:  <GBSeq_organism>Pseudobutyrivibrio ruminis</GBSeq_organism>
+./AF396963.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./AJ428550.xml:  <GBSeq_organism>Pseudobutyrivibrio xylanivorans</GBSeq_organism>
+./AF125902.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AF125900.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U37378.xml:  <GBSeq_organism>Butyrivibrio proteoclasticus</GBSeq_organism>
+./D14136.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>
+./U41168.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./EU346756.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U41172.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AF396926.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U16166.xml:  <GBSeq_organism>Clostridium acetobutylicum ATCC 824</GBSeq_organism>
+./X89978.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U77342.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AE015927.xml:  <GBSeq_organism>Clostridium tetani E88</GBSeq_organism>
+./X95893.xml:  <GBSeq_organism>Pseudobutyrivibrio ruminis</GBSeq_organism>
+./AJ428552.xml:  <GBSeq_organism>Butyrivibrio proteoclasticus</GBSeq_organism>
+./AF396927.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89972.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89975.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89979.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AF020431.xml:  <GBSeq_organism>Lachnoclostridium phytofermentans ISDg</GBSeq_organism>
+./X89973.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./M59109.xml:  <GBSeq_organism>[Clostridium] oroticum</GBSeq_organism>
+./X89980.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U77339.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./L04165.xml:  <GBSeq_organism>[Clostridium] aminophilum</GBSeq_organism>
+./EU346757.xml:  <GBSeq_organism>Pseudobutyrivibrio ruminis</GBSeq_organism>
+./U41167.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89974.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AY029616.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AJ428553.xml:  <GBSeq_organism>Butyrivibrio hungatei</GBSeq_organism>

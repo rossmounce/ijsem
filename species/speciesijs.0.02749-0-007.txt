@@ -1,0 +1,15 @@
+./L33974.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./D88006.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./AJ007013.xml:  <GBSeq_organism>Acidovorax anthurii</GBSeq_organism>
+./AF078756.xml:  <GBSeq_organism>Curvibacter delicatus</GBSeq_organism>
+./AF078770.xml:  <GBSeq_organism>Hydrogenophaga pseudoflava</GBSeq_organism>
+./D14320.xml:  <GBSeq_organism>Brachymonas denitrificans</GBSeq_organism>
+./AF078758.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./D16214.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./X97070.xml:  <GBSeq_organism>Leptothrix cholodnii</GBSeq_organism>
+./AF078769.xml:  <GBSeq_organism>Hydrogenophaga palleronii</GBSeq_organism>
+./L33975.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./AF035050.xml:  <GBSeq_organism>Aquabacterium citratiphilum</GBSeq_organism>

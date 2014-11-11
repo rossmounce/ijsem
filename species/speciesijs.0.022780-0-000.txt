@@ -1,0 +1,5 @@
+./AM040493.xml:  <GBSeq_organism>Leucobacter iarius</GBSeq_organism>
+./AM072819.xml:  <GBSeq_organism>Leucobacter luti</GBSeq_organism>
+./GU390657.xml:  <GBSeq_organism>Leucobacter chromiiresistens JG 31</GBSeq_organism>
+./AJ781046.xml:  <GBSeq_organism>Leucobacter chromiireducens subsp. chromiireducens</GBSeq_organism>
+./FN597581.xml:  <GBSeq_organism>Leucobacter aerolatus</GBSeq_organism>

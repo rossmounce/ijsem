@@ -1,0 +1,10 @@
+./X92114.xml:  <GBSeq_organism>Rhodococcus percolatus</GBSeq_organism>
+./X79289.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./X79186.xml:  <GBSeq_organism>Rhodococcus fascians</GBSeq_organism>
+./X80617.xml:  <GBSeq_organism>Rhodococcus marinonascens</GBSeq_organism>
+./AB071951.xml:  <GBSeq_organism>Rhodococcus baikonurensis</GBSeq_organism>
+./X80619.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./AF416566.xml:  <GBSeq_organism>Rhodococcus maanshanensis</GBSeq_organism>
+./AY602219.xml:  <GBSeq_organism>Rhodococcus yunnanensis</GBSeq_organism>
+./AF124343.xml:  <GBSeq_organism>Rhodococcus koreensis</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>

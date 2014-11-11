@@ -1,0 +1,16 @@
+./FJ889554.xml:  <GBSeq_organism>Tateyamaria sp. KS9-11</GBSeq_organism>
+./AY180103.xml:  <GBSeq_organism>Sulfitobacter delicatus</GBSeq_organism>
+./AJ550939.xml:  <GBSeq_organism>Oceanibulbus indolifex HEL-45</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./AB193438.xml:  <GBSeq_organism>Tateyamaria omphalii</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./AF107210.xml:  <GBSeq_organism>Roseobacter sp. (Prionitis decipiens symbiont)</GBSeq_organism>
+./EF471684.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./EU581701.xml:  <GBSeq_organism>Rhodobacteraceae bacterium MEBiC05055</GBSeq_organism>
+./FJ460048.xml:  <GBSeq_organism>Roseobacter sp. S4466</GBSeq_organism>
+./EF016464.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./DQ269074.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./AY180102.xml:  <GBSeq_organism>Sulfitobacter dubius</GBSeq_organism>
+./EF471659.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./EF202614.xml:  <GBSeq_organism>Sulfitobacter donghicola DSW-25 = KCTC 12864 = JCM 14565</GBSeq_organism>

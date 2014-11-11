@@ -1,0 +1,11 @@
+./AM778683.xml:  <GBSeq_organism>Aeromicrobium ponti</GBSeq_organism>
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./EF363712.xml:  <GBSeq_organism>Nocardioides terrigena</GBSeq_organism>
+./X80617.xml:  <GBSeq_organism>Rhodococcus marinonascens</GBSeq_organism>
+./AY835924.xml:  <GBSeq_organism>Nocardioides kribbensis</GBSeq_organism>
+./EF133690.xml:  <GBSeq_organism>Aeromicrobium flavum</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./DQ411541.xml:  <GBSeq_organism>Aeromicrobium tamlense</GBSeq_organism>

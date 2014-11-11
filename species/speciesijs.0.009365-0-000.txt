@@ -1,0 +1,13 @@
+./AB455260.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./AM265623.xml:  <GBSeq_organism>Flavobacterium hercynium</GBSeq_organism>
+./AB455261.xml:  <GBSeq_organism>Flavobacterium limicola</GBSeq_organism>
+./AJ557888.xml:  <GBSeq_organism>Flavobacterium micromati</GBSeq_organism>
+./AB455259.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>
+./AM230487.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./AM230490.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./AB473208.xml:  <GBSeq_organism>Flavobacterium saccharophilum</GBSeq_organism>
+./AB455265.xml:  <GBSeq_organism>Flavobacterium algicola</GBSeq_organism>
+./AB455258.xml:  <GBSeq_organism>Flavobacterium degerlachei</GBSeq_organism>
+./AB183888.xml:  <GBSeq_organism>Flavobacterium frigidimaris</GBSeq_organism>
+./AB455257.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>

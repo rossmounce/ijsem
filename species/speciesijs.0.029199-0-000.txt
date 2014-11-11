@@ -1,0 +1,24 @@
+./AM905330.xml:  <GBSeq_organism>Ruegeria scottomollicae</GBSeq_organism>
+./EU342372.xml:  <GBSeq_organism>Thalassobacter arenae</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./AM904562.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./AJ631302.xml:  <GBSeq_organism>Thalassobacter stenotrophicus</GBSeq_organism>
+./AY962292.xml:  <GBSeq_organism>Shimia marina</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./HM748766.xml:  <GBSeq_organism>Thalassobius maritimus</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./DQ414420.xml:  <GBSeq_organism>Oceanicola nanhaiensis</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AY639887.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./FJ467624.xml:  <GBSeq_organism>Marivita byunsanensis</GBSeq_organism>
+./AF136849.xml:  <GBSeq_organism>Ketogulonicigenium vulgare</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AM900415.xml:  <GBSeq_organism>Leisingera aquimarina</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

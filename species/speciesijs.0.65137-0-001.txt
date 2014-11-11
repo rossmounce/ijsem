@@ -1,0 +1,14 @@
+./AB030911.xml:  <GBSeq_organism>Tetrasphaera elongata Lp2</GBSeq_organism>
+./AF125092.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./Y14595.xml:  <GBSeq_organism>Tetrasphaera veronensis</GBSeq_organism>
+./AY837752.xml:  <GBSeq_organism>Janibacter anophelis</GBSeq_organism>
+./AJ294413.xml:  <GBSeq_organism>Knoellia subterranea</GBSeq_organism>
+./AF176948.xml:  <GBSeq_organism>Janibacter terrae</GBSeq_organism>
+./DQ007321.xml:  <GBSeq_organism>Tetrasphaera jenkinsii Ben 74</GBSeq_organism>
+./AF125091.xml:  <GBSeq_organism>Tetrasphaera australiensis</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./EF028236.xml:  <GBSeq_organism>Tetrasphaera remsis</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>

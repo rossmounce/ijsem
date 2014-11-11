@@ -1,0 +1,10 @@
+./AJ486874.xml:  <GBSeq_organism>Halobacillus karajensis</GBSeq_organism>
+./AJ010478.xml:  <GBSeq_organism>Bacillus sp.</GBSeq_organism>
+./D82065.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./X70430.xml:  <GBSeq_organism>Saccharococcus thermophilus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

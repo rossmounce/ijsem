@@ -1,0 +1,7 @@
+./AJ278496.xml:  <GBSeq_organism>Amycolatopsis keratiniphila</GBSeq_organism>
+./AF051341.xml:  <GBSeq_organism>Amycolatopsis coloradensis</GBSeq_organism>
+./X54274.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./X53200.xml:  <GBSeq_organism>Actinokineospora fastidiosa</GBSeq_organism>
+./X53191.xml:  <GBSeq_organism>Kibdelosporangium aridum</GBSeq_organism>
+./AF051340.xml:  <GBSeq_organism>Amycolatopsis alba DSM 44262</GBSeq_organism>
+./X77959.xml:  <GBSeq_organism>Amycolatopsis sp.</GBSeq_organism>

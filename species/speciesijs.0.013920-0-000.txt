@@ -1,0 +1,21 @@
+./D86189.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./X83810.xml:  <GBSeq_organism>Brachybacterium faecium DSM 4810</GBSeq_organism>
+./AJ297722.xml:  <GBSeq_organism>Kytococcus schroeteri</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./M59057.xml:  <GBSeq_organism>Dermatophilus congolensis</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./AY894329.xml:  <GBSeq_organism>Dermacoccus profundi</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./FJ528304.xml:  <GBSeq_organism>Yimella lutea</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./M38242.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AY894323.xml:  <GBSeq_organism>Dermacoccus abyssi</GBSeq_organism>
+./AY894328.xml:  <GBSeq_organism>Dermacoccus barathri</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

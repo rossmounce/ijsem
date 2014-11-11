@@ -1,0 +1,16 @@
+./EU426570.xml:  <GBSeq_organism>Salisaeta longa</GBSeq_organism>
+./AF217494.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./AM997535.xml:  <GBSeq_organism>uncultured deep-sea bacterium</GBSeq_organism>
+./AY533665.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./EF090267.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM997417.xml:  <GBSeq_organism>uncultured deep-sea bacterium</GBSeq_organism>
+./AF217493.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./EF648151.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./AB247553.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./FJ624399.xml:  <GBSeq_organism>Rhodothermus profundi</GBSeq_organism>
+./M58795.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./AM997850.xml:  <GBSeq_organism>uncultured deep-sea bacterium</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./EU925913.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

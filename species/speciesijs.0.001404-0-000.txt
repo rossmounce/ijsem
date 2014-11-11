@@ -1,0 +1,11 @@
+./AJ619978.xml:  <GBSeq_organism>Dyadobacter hamtensis</GBSeq_organism>
+./AJ575265.xml:  <GBSeq_organism>Algoriphagus chordae</GBSeq_organism>
+./EU360597.xml:  <GBSeq_organism>Dyadobacter alkalitolerans</GBSeq_organism>
+./AJ717393.xml:  <GBSeq_organism>Algoriphagus alkaliphilus</GBSeq_organism>
+./AJ575264.xml:  <GBSeq_organism>Algoriphagus aquimarinus</GBSeq_organism>
+./DQ372985.xml:  <GBSeq_organism>Runella limosa</GBSeq_organism>
+./AJ821885.xml:  <GBSeq_organism>Dyadobacter crusticola</GBSeq_organism>
+./AB245369.xml:  <GBSeq_organism>Dyadobacter ginsengisoli</GBSeq_organism>
+./AY264839.xml:  <GBSeq_organism>Algoriphagus halophilus</GBSeq_organism>
+./DQ372980.xml:  <GBSeq_organism>Runella defluvii</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

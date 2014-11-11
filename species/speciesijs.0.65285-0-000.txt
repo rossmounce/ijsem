@@ -1,0 +1,25 @@
+./M93354.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./L42619.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./Y13299.xml:  <GBSeq_organism>Carnimonas nigrificans</GBSeq_organism>
+./L42615.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./D14555.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./L04942.xml:  <GBSeq_organism>Halomonas halodenitrificans</GBSeq_organism>
+./X93493.xml:  <GBSeq_organism>Halomonas pantelleriensis</GBSeq_organism>
+./AY489405.xml:  <GBSeq_organism>Halomonas anticariensis FP35 = DSM 16096</GBSeq_organism>
+./M93358.xml:  <GBSeq_organism>Halomonas subglaciescola</GBSeq_organism>
+./AY647309.xml:  <GBSeq_organism>Halomonas desiderata</GBSeq_organism>
+./AJ515365.xml:  <GBSeq_organism>Halomonas campaniensis</GBSeq_organism>
+./AY268080.xml:  <GBSeq_organism>Halomonas ventosae</GBSeq_organism>
+./AF251143.xml:  <GBSeq_organism>Kushneria marisflavi</GBSeq_organism>
+./AF211862.xml:  <GBSeq_organism>Chromohalobacter israelensis</GBSeq_organism>
+./L42617.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./AJ320530.xml:  <GBSeq_organism>Halomonas muralis</GBSeq_organism>
+./M93357.xml:  <GBSeq_organism>Halomonas variabilis</GBSeq_organism>
+./L42620.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./M93353.xml:  <GBSeq_organism>Halomonas halophila</GBSeq_organism>
+./AJ271864.xml:  <GBSeq_organism>Halomonas maura</GBSeq_organism>
+./L42616.xml:  <GBSeq_organism>Halomonas pacifica</GBSeq_organism>
+./M59153.xml:  <GBSeq_organism>Halomonas halmophila</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./AF054286.xml:  <GBSeq_organism>Halomonas campisalis</GBSeq_organism>
+./AF211860.xml:  <GBSeq_organism>Halomonas alimentaria</GBSeq_organism>

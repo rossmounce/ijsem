@@ -1,0 +1,16 @@
+./AF125092.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./AJ294413.xml:  <GBSeq_organism>Knoellia subterranea</GBSeq_organism>
+./AF176948.xml:  <GBSeq_organism>Janibacter terrae</GBSeq_organism>
+./AY522569.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./X79451.xml:  <GBSeq_organism>Sanguibacter inulinus</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./X79463.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

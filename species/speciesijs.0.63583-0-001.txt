@@ -1,0 +1,22 @@
+./AJ408870.xml:  <GBSeq_organism>Frankia sp. M16467</GBSeq_organism>
+./AF237815.xml:  <GBSeq_organism>Actinopolymorpha singaporensis</GBSeq_organism>
+./AB025317.xml:  <GBSeq_organism>Sporichthya polymorpha DSM 43042</GBSeq_organism>
+./AJ316570.xml:  <GBSeq_organism>Blastococcus saxobsidens</GBSeq_organism>
+./AB006164.xml:  <GBSeq_organism>Sporichthya brevicatena</GBSeq_organism>
+./AF060671.xml:  <GBSeq_organism>Kineococcus-like bacterium AS2988</GBSeq_organism>
+./AF060686.xml:  <GBSeq_organism>Kineococcus-like bacterium AS3138</GBSeq_organism>
+./AF060676.xml:  <GBSeq_organism>Kineococcus-like bacterium AS2978</GBSeq_organism>
+./X79455.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./AJ316573.xml:  <GBSeq_organism>Blastococcus sp. BC521</GBSeq_organism>
+./L40618.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./AB007420.xml:  <GBSeq_organism>Kineococcus aurantiacus</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AY312404.xml:  <GBSeq_organism>Geobacillus jurassicus</GBSeq_organism>
+./AF034776.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./Y08541.xml:  <GBSeq_organism>Nakamurella multipartita DSM 44233</GBSeq_organism>
+./L40613.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./AJ408872.xml:  <GBSeq_organism>Frankia sp. MpI1</GBSeq_organism>
+./AF095336.xml:  <GBSeq_organism>Kineosporia aurantiaca</GBSeq_organism>

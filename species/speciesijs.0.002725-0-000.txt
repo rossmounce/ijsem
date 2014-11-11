@@ -1,0 +1,14 @@
+./AF137381.xml:  <GBSeq_organism>Runella zeae</GBSeq_organism>
+./AJ619978.xml:  <GBSeq_organism>Dyadobacter hamtensis</GBSeq_organism>
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./EF187349.xml:  <GBSeq_organism>Bacteroidetes bacterium M5H2</GBSeq_organism>
+./EF635010.xml:  <GBSeq_organism>Rudanella lutea</GBSeq_organism>
+./AM000022.xml:  <GBSeq_organism>Larkinella insperata</GBSeq_organism>
+./EF507900.xml:  <GBSeq_organism>Spirosoma rigui</GBSeq_organism>
+./DQ112352.xml:  <GBSeq_organism>Flectobacillus lacus</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./EF451725.xml:  <GBSeq_organism>Spirosoma spitsbergense</GBSeq_organism>
+./EF451726.xml:  <GBSeq_organism>Spirosoma luteum</GBSeq_organism>
+./AJ821885.xml:  <GBSeq_organism>Dyadobacter crusticola</GBSeq_organism>
+./AM000023.xml:  <GBSeq_organism>Spirosoma linguale DSM 74</GBSeq_organism>

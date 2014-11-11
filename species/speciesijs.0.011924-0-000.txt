@@ -1,0 +1,8 @@
+./D82226.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./EF592609.xml:  <GBSeq_organism>Kaistia soli DSM 19436</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./EU723082.xml:  <GBSeq_organism>Kaistia terrae</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>

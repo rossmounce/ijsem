@@ -1,0 +1,18 @@
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./M96746.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AJ748747.xml:  <GBSeq_organism>Jannaschia rubra</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AB121782.xml:  <GBSeq_organism>Thalassobacter stenotrophicus</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./AF098495.xml:  <GBSeq_organism>Roseovarius nubinhibens ISM</GBSeq_organism>
+./U14583.xml:  <GBSeq_organism>Octadecabacter antarcticus 307</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>

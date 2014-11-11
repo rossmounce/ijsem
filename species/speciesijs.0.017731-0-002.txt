@@ -1,0 +1,9 @@
+./X82842.xml:  <GBSeq_organism>Caldicellulosiruptor lactoaceticus 6A</GBSeq_organism>
+./L09183.xml:  <GBSeq_organism>Thermoanaerobacter cellulolyticus</GBSeq_organism>
+./EF100908.xml:  <GBSeq_organism>Caldicellulosiruptor hydrothermalis 108</GBSeq_organism>
+./EF100909.xml:  <GBSeq_organism>Caldicellulosiruptor kronotskyensis</GBSeq_organism>
+./AY772477.xml:  <GBSeq_organism>Caldicellulosiruptor acetigenus</GBSeq_organism>
+./EF100907.xml:  <GBSeq_organism>Caldicellulosiruptor kristjanssonii</GBSeq_organism>
+./DQ152922.xml:  <GBSeq_organism>Caldicellulosiruptor sp. YI5</GBSeq_organism>
+./U80596.xml:  <GBSeq_organism>Caldicellulosiruptor owensensis OL</GBSeq_organism>
+./L35151.xml:  <GBSeq_organism>Caldicellulosiruptor sp. Rt8B.4</GBSeq_organism>

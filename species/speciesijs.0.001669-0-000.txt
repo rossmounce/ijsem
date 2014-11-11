@@ -1,0 +1,4 @@
+./EU342380.xml:  <GBSeq_organism>Diaphorobacter oryzae</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./EU342381.xml:  <GBSeq_organism>Diaphorobacter oryzae</GBSeq_organism>
+./AB074527.xml:  <GBSeq_organism>Giesbergeria anulus</GBSeq_organism>

@@ -1,0 +1,13 @@
+./EF179125.xml:  <GBSeq_organism>Yersinia aldovae</GBSeq_organism>
+./EF179121.xml:  <GBSeq_organism>Yersinia bercovieri</GBSeq_organism>
+./EF179128.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./EF179130.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./EF179120.xml:  <GBSeq_organism>Yersinia massiliensis</GBSeq_organism>
+./EF179127.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./EF179122.xml:  <GBSeq_organism>Yersinia frederiksenii</GBSeq_organism>
+./EF179129.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./EF179124.xml:  <GBSeq_organism>Yersinia mollaretii</GBSeq_organism>
+./EF179119.xml:  <GBSeq_organism>Yersinia massiliensis CCUG 53443</GBSeq_organism>
+./EF179126.xml:  <GBSeq_organism>Yersinia kristensenii</GBSeq_organism>
+./EF179123.xml:  <GBSeq_organism>Yersinia intermedia</GBSeq_organism>
+./EF179131.xml:  <GBSeq_organism>Yersinia rohdei</GBSeq_organism>

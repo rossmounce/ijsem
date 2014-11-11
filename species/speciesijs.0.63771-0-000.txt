@@ -1,0 +1,13 @@
+./D78475.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./AY598818.xml:  <GBSeq_organism>Paenibacillus phyllosphaerae</GBSeq_organism>
+./D78466.xml:  <GBSeq_organism>Paenibacillus curdlanolyticus YK9</GBSeq_organism>
+./AF237682.xml:  <GBSeq_organism>Paenibacillus granivorans</GBSeq_organism>
+./D78317.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./AF071859.xml:  <GBSeq_organism>Paenibacillus popilliae ATCC 14706</GBSeq_organism>
+./AF071861.xml:  <GBSeq_organism>Paenibacillus lentimorbus</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./U49247.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>
+./D78471.xml:  <GBSeq_organism>Paenibacillus kobensis</GBSeq_organism>
+./AB042938.xml:  <GBSeq_organism>Paenibacillus glycanilyticus</GBSeq_organism>

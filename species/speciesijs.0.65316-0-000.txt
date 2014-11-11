@@ -1,0 +1,12 @@
+./U17364.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./AF320479.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./EF127229.xml:  <GBSeq_organism>Halorhabdus tiamatea SARL4B</GBSeq_organism>
+./D14124.xml:  <GBSeq_organism>Natrialba taiwanensis DSM 12281</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>

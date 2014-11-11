@@ -1,0 +1,4 @@
+./GU126413.xml:  <GBSeq_organism>Micromonospora rhizosphaerae</GBSeq_organism>
+./FM957541.xml:  <GBSeq_organism>Micromonospora pattaloongensis</GBSeq_organism>
+./FM957542.xml:  <GBSeq_organism>Polymorphospora rubra</GBSeq_organism>
+./FM957540.xml:  <GBSeq_organism>Micromonospora pisi</GBSeq_organism>

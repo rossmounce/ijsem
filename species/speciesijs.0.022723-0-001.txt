@@ -1,0 +1,15 @@
+./AY350742.xml:  <GBSeq_organism>Methanobacterium beijingense</GBSeq_organism>
+./AY386124.xml:  <GBSeq_organism>Methanobacterium aarhusense</GBSeq_organism>
+./AF169245.xml:  <GBSeq_organism>Methanobacterium formicicum</GBSeq_organism>
+./AF233586.xml:  <GBSeq_organism>Methanobacterium congolense</GBSeq_organism>
+./AF095260.xml:  <GBSeq_organism>Methanobacterium espanolae</GBSeq_organism>
+./AY386125.xml:  <GBSeq_organism>Methanobacterium aarhusense</GBSeq_organism>
+./X99044.xml:  <GBSeq_organism>Methanobacterium subterraneum</GBSeq_organism>
+./AE000930.xml:  <GBSeq_organism>Methanothermobacter thermautotrophicus str. Delta H</GBSeq_organism>
+./AF093061.xml:  <GBSeq_organism>Methanobacterium palustre</GBSeq_organism>
+./AF095261.xml:  <GBSeq_organism>Methanobacterium ivanovii</GBSeq_organism>
+./AB542914.xml:  <GBSeq_organism>Methanobacterium uliginosum</GBSeq_organism>
+./AB542755.xml:  <GBSeq_organism>Methanobacterium uliginosum</GBSeq_organism>
+./AB496639.xml:  <GBSeq_organism>Methanobacterium alcaliphilum</GBSeq_organism>
+./M59124.xml:  <GBSeq_organism>Methanobacterium bryantii</GBSeq_organism>
+./AB542747.xml:  <GBSeq_organism>Methanobacterium bryantii</GBSeq_organism>

@@ -1,0 +1,17 @@
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./Y17612.xml:  <GBSeq_organism>Coenonia anatina</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./M58789.xml:  <GBSeq_organism>Marivirga tractuosa</GBSeq_organism>
+./AJ344133.xml:  <GBSeq_organism>Gelidibacter mesophilus</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AF469612.xml:  <GBSeq_organism>Tenacibaculum skagerrakense</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AJ005973.xml:  <GBSeq_organism>Cellulophaga fucicola</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M61002.xml:  <GBSeq_organism>Polaribacter irgensii</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AJ005972.xml:  <GBSeq_organism>Cellulophaga baltica</GBSeq_organism>

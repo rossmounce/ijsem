@@ -1,0 +1,24 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./AY553294.xml:  <GBSeq_organism>Chryseobacterium jeonii</GBSeq_organism>
+./U87101.xml:  <GBSeq_organism>Ornithobacterium rhinotracheale DSM 15997</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ309824.xml:  <GBSeq_organism>Zea mays</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./EU360967.xml:  <GBSeq_organism>Chryseobacterium palustre DSM 21579</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./AY336568.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./AY883416.xml:  <GBSeq_organism>Chryseobacterium taeanense</GBSeq_organism>
+./U60101.xml:  <GBSeq_organism>Riemerella anatipestifer ATCC 11845 = DSM 15868</GBSeq_organism>
+./EF554366.xml:  <GBSeq_organism>Chryseobacterium marinum</GBSeq_organism>
+./AY315448.xml:  <GBSeq_organism>Klebsiella sp. CC-88168</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./AM040439.xml:  <GBSeq_organism>Chryseobacterium piscium</GBSeq_organism>
+./M58774.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./EU360966.xml:  <GBSeq_organism>Chryseobacterium humi</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY553293.xml:  <GBSeq_organism>Chryseobacterium antarcticum</GBSeq_organism>
+./AJ457206.xml:  <GBSeq_organism>Chryseobacterium daecheongense</GBSeq_organism>
+./AF493696.xml:  <GBSeq_organism>Epilithonimonas tenax</GBSeq_organism>

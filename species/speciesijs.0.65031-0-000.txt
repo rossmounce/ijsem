@@ -1,0 +1,5 @@
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./AJ783958.xml:  <GBSeq_organism>Sanguibacter marinus</GBSeq_organism>
+./X79451.xml:  <GBSeq_organism>Sanguibacter inulinus</GBSeq_organism>
+./EF211071.xml:  <GBSeq_organism>Sanguibacter antarcticus</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

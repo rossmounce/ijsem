@@ -1,0 +1,7 @@
+./AB076660.xml:  <GBSeq_organism>Alicyclobacillus acidiphilus</GBSeq_organism>
+./AJ133633.xml:  <GBSeq_organism>Alicyclobacillus hesperidum</GBSeq_organism>
+./X60640.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AY425985.xml:  <GBSeq_organism>Alicyclobacillus vulcanalis</GBSeq_organism>
+./AJ133635.xml:  <GBSeq_organism>Alicyclobacillus sp. FR-6</GBSeq_organism>
+./AB042056.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./U34974.xml:  <GBSeq_organism>Alicyclobacillus disulfidooxidans</GBSeq_organism>

@@ -1,0 +1,11 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./U16147.xml:  <GBSeq_organism>Clostridium saccharobutylicum</GBSeq_organism>
+./Y18171.xml:  <GBSeq_organism>Clostridium roseum</GBSeq_organism>
+./X73445.xml:  <GBSeq_organism>Clostridium paraputrificum</GBSeq_organism>
+./M59094.xml:  <GBSeq_organism>Clostridium histolyticum</GBSeq_organism>
+./X74770.xml:  <GBSeq_organism>Clostridium tetani</GBSeq_organism>
+./M59097.xml:  <GBSeq_organism>Clostridium ljungdahlii DSM 13528</GBSeq_organism>
+./X68179.xml:  <GBSeq_organism>Clostridium beijerinckii</GBSeq_organism>
+./AY228334.xml:  <GBSeq_organism>Clostridium chromiireducens</GBSeq_organism>
+./X71857.xml:  <GBSeq_organism>Clostridium puniceum</GBSeq_organism>

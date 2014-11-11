@@ -1,0 +1,22 @@
+./AF189928.xml:  <GBSeq_organism>Curvibasidium cygneicollum</GBSeq_organism>
+./AF444507.xml:  <GBSeq_organism>Rhodotorula auriculariae</GBSeq_organism>
+./AY731807.xml:  <GBSeq_organism>Rhodotorula sp. SDY 147</GBSeq_organism>
+./AF189924.xml:  <GBSeq_organism>Rhodotorula buffonii</GBSeq_organism>
+./AB478857.xml:  <GBSeq_organism>Rhodotorula arctica</GBSeq_organism>
+./AF189964.xml:  <GBSeq_organism>Rhodotorula pustula</GBSeq_organism>
+./AF189922.xml:  <GBSeq_organism>Rhodotorula auriculariae</GBSeq_organism>
+./AF189905.xml:  <GBSeq_organism>Kriegeria eriophori</GBSeq_organism>
+./AF444634.xml:  <GBSeq_organism>Bensingtonia yamatoana</GBSeq_organism>
+./AF189896.xml:  <GBSeq_organism>Bensingtonia yamatoana</GBSeq_organism>
+./AF444600.xml:  <GBSeq_organism>Sporobolomyces singularis</GBSeq_organism>
+./AF189987.xml:  <GBSeq_organism>Sporobolomyces inositophilus</GBSeq_organism>
+./AF444602.xml:  <GBSeq_organism>Kriegeria eriophori</GBSeq_organism>
+./AF363653.xml:  <GBSeq_organism>Rhodotorula ferulica</GBSeq_organism>
+./AF189943.xml:  <GBSeq_organism>Rhodotorula lignophila</GBSeq_organism>
+./AF189996.xml:  <GBSeq_organism>Sporobolomyces singularis</GBSeq_organism>
+./AF444513.xml:  <GBSeq_organism>Rhodotorula lignophila</GBSeq_organism>
+./AF444632.xml:  <GBSeq_organism>Rhodotorula ferulica</GBSeq_organism>
+./AF444591.xml:  <GBSeq_organism>Colacogloea peniophorae</GBSeq_organism>
+./AF189926.xml:  <GBSeq_organism>Rhodotorula cresolica</GBSeq_organism>
+./AF444559.xml:  <GBSeq_organism>Sporobolomyces inositophilus</GBSeq_organism>
+./AB478858.xml:  <GBSeq_organism>Rhodotorula arctica</GBSeq_organism>

@@ -1,0 +1,24 @@
+./AB175645.xml:  <GBSeq_organism>Methylobacterium suomiense</GBSeq_organism>
+./AB175642.xml:  <GBSeq_organism>Methylobacterium rhodesianum</GBSeq_organism>
+./AB175641.xml:  <GBSeq_organism>Methylobacterium radiotolerans JCM 2831</GBSeq_organism>
+./AB175632.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AB175650.xml:  <GBSeq_organism>Rhodopseudomonas pseudopalustris</GBSeq_organism>
+./AB252198.xml:  <GBSeq_organism>Methylobacterium hispanicum</GBSeq_organism>
+./AB175649.xml:  <GBSeq_organism>Methylobacterium brachiatum</GBSeq_organism>
+./AB175639.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AB175634.xml:  <GBSeq_organism>Methylobacterium fujisawaense</GBSeq_organism>
+./AB175636.xml:  <GBSeq_organism>Methylobacterium mesophilicum</GBSeq_organism>
+./AB302931.xml:  <GBSeq_organism>Methylobacterium variabile</GBSeq_organism>
+./AY251818.xml:  <GBSeq_organism>Methylobacterium populi BJ001</GBSeq_organism>
+./AB252202.xml:  <GBSeq_organism>Methylobacterium persicinum</GBSeq_organism>
+./AB175630.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AB252205.xml:  <GBSeq_organism>Methylobacterium brachiatum</GBSeq_organism>
+./AB175631.xml:  <GBSeq_organism>Methylobacterium extorquens DM4</GBSeq_organism>
+./AB252197.xml:  <GBSeq_organism>Methylobacterium aquaticum</GBSeq_organism>
+./AB175646.xml:  <GBSeq_organism>Methylobacterium thiocyanatum</GBSeq_organism>
+./AB175648.xml:  <GBSeq_organism>Methylobacterium hispanicum</GBSeq_organism>
+./AB175629.xml:  <GBSeq_organism>Methylobacterium aminovorans</GBSeq_organism>
+./AB175635.xml:  <GBSeq_organism>Methylobacterium lusitanum</GBSeq_organism>
+./AB175647.xml:  <GBSeq_organism>Methylobacterium zatmanii</GBSeq_organism>
+./AB175644.xml:  <GBSeq_organism>Methylobacterium rhodinum</GBSeq_organism>
+./AB302930.xml:  <GBSeq_organism>Methylobacterium podarium</GBSeq_organism>

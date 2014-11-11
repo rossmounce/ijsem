@@ -1,0 +1,31 @@
+./AJ238361.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./DQ022958.xml:  <GBSeq_organism>Azospirillum melinis</GBSeq_organism>
+./Z29619.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./X77679.xml:  <GBSeq_organism>Azoarcus evansii</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./AB021422.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./AF027407.xml:  <GBSeq_organism>Cupriavidus necator</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AF312020.xml:  <GBSeq_organism>Cupriavidus campinensis</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./AF011345.xml:  <GBSeq_organism>Azoarcus indigens</GBSeq_organism>
+./AJ005817.xml:  <GBSeq_organism>Thauera terpenica 58Eu</GBSeq_organism>
+./U89830.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae</GBSeq_organism>
+./X79739.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AJ242986.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. parafaecalis</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./DQ022956.xml:  <GBSeq_organism>Azospirillum melinis</GBSeq_organism>
+./X79735.xml:  <GBSeq_organism>Nitrospirillum amazonense</GBSeq_organism>
+./DQ022957.xml:  <GBSeq_organism>Azospirillum melinis</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AJ238567.xml:  <GBSeq_organism>Azospirillum doebereinerae</GBSeq_organism>
+./X79731.xml:  <GBSeq_organism>Azospirillum halopraeferens</GBSeq_organism>
+./X90759.xml:  <GBSeq_organism>Azospirillum largimobile</GBSeq_organism>
+./D16209.xml:  <GBSeq_organism>Rhodocyclus tenuis</GBSeq_organism>
+./AJ315677.xml:  <GBSeq_organism>Thauera aminoaromatica S2</GBSeq_organism>
+./AJ005816.xml:  <GBSeq_organism>Thauera linaloolentis 47Lol = DSM 12138</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./L33693.xml:  <GBSeq_organism>Azoarcus tolulyticus</GBSeq_organism>

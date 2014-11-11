@@ -1,0 +1,15 @@
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./D14023.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AF269612.xml:  <GBSeq_organism>Staphylococcus epidermidis</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AM746477.xml:  <GBSeq_organism>Tenacibaculum gallaicum</GBSeq_organism>
+./AY962294.xml:  <GBSeq_organism>Tenacibaculum litoreum</GBSeq_organism>
+./AM411030.xml:  <GBSeq_organism>Tenacibaculum discolor</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./DQ822567.xml:  <GBSeq_organism>Tenacibaculum litopenaei</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AF032505.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>

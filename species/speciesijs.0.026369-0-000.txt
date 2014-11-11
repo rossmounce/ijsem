@@ -1,0 +1,22 @@
+./HM242216.xml:  <GBSeq_organism>Halomonas stenophila</GBSeq_organism>
+./FN257740.xml:  <GBSeq_organism>Halomonas halophila</GBSeq_organism>
+./AY382579.xml:  <GBSeq_organism>Halomonas koreensis</GBSeq_organism>
+./AJ616910.xml:  <GBSeq_organism>Halomonas organivorans</GBSeq_organism>
+./AJ306889.xml:  <GBSeq_organism>Halomonas halmophila</GBSeq_organism>
+./EF144149.xml:  <GBSeq_organism>Halomonas saccharevitans</GBSeq_organism>
+./AY268080.xml:  <GBSeq_organism>Halomonas ventosae</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./AY858696.xml:  <GBSeq_organism>Halomonas almeriensis</GBSeq_organism>
+./EF121853.xml:  <GBSeq_organism>Halomonas shengliensis</GBSeq_organism>
+./EU541349.xml:  <GBSeq_organism>Halomonas fontilapidosi</GBSeq_organism>
+./EF527874.xml:  <GBSeq_organism>Halomonas caseinilytica</GBSeq_organism>
+./AY962236.xml:  <GBSeq_organism>Halomonas mongoliensis</GBSeq_organism>
+./EF613112.xml:  <GBSeq_organism>Halomonas cerina</GBSeq_organism>
+./EF442769.xml:  <GBSeq_organism>Halomonas sabkhae</GBSeq_organism>
+./HM357129.xml:  <GBSeq_organism>Halomonas stenophila</GBSeq_organism>
+./FN257741.xml:  <GBSeq_organism>Halomonas maura</GBSeq_organism>
+./FN257742.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./AF211871.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./AJ295145.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./AM941748.xml:  <GBSeq_organism>Halomonas sulfidaeris Esulfide1</GBSeq_organism>
+./AF211860.xml:  <GBSeq_organism>Halomonas alimentaria</GBSeq_organism>

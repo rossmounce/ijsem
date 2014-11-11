@@ -1,0 +1,20 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./AB282887.xml:  <GBSeq_organism>Intrasporangium oryzae NRRL B-24470</GBSeq_organism>
+./Y14595.xml:  <GBSeq_organism>Tetrasphaera veronensis</GBSeq_organism>
+./X77437.xml:  <GBSeq_organism>Curtobacterium luteum</GBSeq_organism>
+./FM992368.xml:  <GBSeq_organism>Kytococcus aerolatus</GBSeq_organism>
+./AJ294413.xml:  <GBSeq_organism>Knoellia subterranea</GBSeq_organism>
+./AJ297722.xml:  <GBSeq_organism>Kytococcus schroeteri</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./AY894329.xml:  <GBSeq_organism>Dermacoccus profundi</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./EF187228.xml:  <GBSeq_organism>Calidifontibacter indicus</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./AY894323.xml:  <GBSeq_organism>Dermacoccus abyssi</GBSeq_organism>
+./AB166887.xml:  <GBSeq_organism>Cellulomonas composti</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./L40615.xml:  <GBSeq_organism>Dermatophilus congolensis</GBSeq_organism>
+./AF109792.xml:  <GBSeq_organism>Kineosphaera limosa NBRC 100340</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>
+./AY894328.xml:  <GBSeq_organism>Dermacoccus barathri</GBSeq_organism>

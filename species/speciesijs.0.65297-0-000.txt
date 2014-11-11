@@ -1,0 +1,21 @@
+./AY694008.xml:  <GBSeq_organism>Gillisia illustrilutea</GBSeq_organism>
+./AY576655.xml:  <GBSeq_organism>Gillisia mitskevichiae</GBSeq_organism>
+./DQ002871.xml:  <GBSeq_organism>Gramella portivictoriae</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./EF520007.xml:  <GBSeq_organism>Salinimicrobium xinjiangense</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./DQ191176.xml:  <GBSeq_organism>Salegentibacter agarivorans</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./DQ640642.xml:  <GBSeq_organism>Salinimicrobium catena</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AY694007.xml:  <GBSeq_organism>Gillisia sandarakina</GBSeq_organism>
+./AF513434.xml:  <GBSeq_organism>Psychroflexus tropicus</GBSeq_organism>
+./AB261012.xml:  <GBSeq_organism>Marixanthomonas ophiurae</GBSeq_organism>

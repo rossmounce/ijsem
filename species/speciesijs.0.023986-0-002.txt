@@ -1,0 +1,23 @@
+./X93928.xml:  <GBSeq_organism>Spirochaeta africana DSM 8902</GBSeq_organism>
+./U14930.xml:  <GBSeq_organism>Brachyspira hyodysenteriae</GBSeq_organism>
+./D67018.xml:  <GBSeq_organism>Borrelia garinii</GBSeq_organism>
+./AB541984.xml:  <GBSeq_organism>Treponema stenostrepta</GBSeq_organism>
+./U80597.xml:  <GBSeq_organism>Spirochaeta smaragdinae DSM 11293</GBSeq_organism>
+./X93926.xml:  <GBSeq_organism>Spirochaeta asiatica</GBSeq_organism>
+./AF357917.xml:  <GBSeq_organism>Sphaerochaeta pleomorpha str. Grapes</GBSeq_organism>
+./EU580141.xml:  <GBSeq_organism>Treponema caldaria</GBSeq_organism>
+./AY631876.xml:  <GBSeq_organism>Leptospira biflexa serovar Patoc strain &apos;Patoc 1 (Paris)&apos;</GBSeq_organism>
+./AJ698092.xml:  <GBSeq_organism>Sphaerochaeta coccoides DSM 17374</GBSeq_organism>
+./U42638.xml:  <GBSeq_organism>Cristispira sp. CP1</GBSeq_organism>
+./U42286.xml:  <GBSeq_organism>Borrelia coriaceae</GBSeq_organism>
+./AF033306.xml:  <GBSeq_organism>Treponema socranskii subsp. socranskii</GBSeq_organism>
+./M88722.xml:  <GBSeq_organism>Spirochaeta halophila</GBSeq_organism>
+./AF357916.xml:  <GBSeq_organism>Sphaerochaeta globosa str. Buddy</GBSeq_organism>
+./GU993264.xml:  <GBSeq_organism>Brevinema andersonii</GBSeq_organism>
+./M59293.xml:  <GBSeq_organism>Borrelia burgdorferi</GBSeq_organism>
+./AJ698859.xml:  <GBSeq_organism>Spirochaeta bajacaliforniensis</GBSeq_organism>
+./M87055.xml:  <GBSeq_organism>wall-less spirochete</GBSeq_organism>
+./AY714984.xml:  <GBSeq_organism>Leptonema illini DSM 21528</GBSeq_organism>
+./AF302937.xml:  <GBSeq_organism>Treponema parvum ATCC 700770</GBSeq_organism>
+./AF373921.xml:  <GBSeq_organism>Spirochaeta americana</GBSeq_organism>
+./AM182455.xml:  <GBSeq_organism>Treponema isoptericolens</GBSeq_organism>

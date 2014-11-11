@@ -1,0 +1,32 @@
+./X93201.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./AM232832.xml:  <GBSeq_organism>Planosporangium flavigriseum</GBSeq_organism>
+./X93188.xml:  <GBSeq_organism>Actinoplanes regularis</GBSeq_organism>
+./D85481.xml:  <GBSeq_organism>Dactylosporangium thailandense</GBSeq_organism>
+./X92624.xml:  <GBSeq_organism>Micromonospora sagamiensis</GBSeq_organism>
+./FM208262.xml:  <GBSeq_organism>Rugosimonospora africana</GBSeq_organism>
+./AB223089.xml:  <GBSeq_organism>Polymorphospora rubra</GBSeq_organism>
+./AB302183.xml:  <GBSeq_organism>Pseudosporangium ferrugineum</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./X93186.xml:  <GBSeq_organism>Actinoplanes cyaneus</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./AB490769.xml:  <GBSeq_organism>Phytohabitans suffuscus</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./X92604.xml:  <GBSeq_organism>Micromonospora aurantiaca</GBSeq_organism>
+./AJ294715.xml:  <GBSeq_organism>Asanoa ishikariensis</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./AB236956.xml:  <GBSeq_organism>Krasilnikovia cinnamomea</GBSeq_organism>
+./U58526.xml:  <GBSeq_organism>Actinoplanes auranticolor</GBSeq_organism>
+./D85477.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./AB236959.xml:  <GBSeq_organism>Luedemannella flava</GBSeq_organism>
+./AB489859.xml:  <GBSeq_organism>Longispora fulva</GBSeq_organism>
+./X92625.xml:  <GBSeq_organism>Micromonospora echinofusca</GBSeq_organism>
+./X93189.xml:  <GBSeq_organism>Pilimelia anulata</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AB236957.xml:  <GBSeq_organism>Luedemannella helvata</GBSeq_organism>
+./AB006167.xml:  <GBSeq_organism>Virgisporangium ochraceum</GBSeq_organism>
+./AB454379.xml:  <GBSeq_organism>Plantactinospora siamensis</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>
+./FM208261.xml:  <GBSeq_organism>Rugosimonospora acidiphila</GBSeq_organism>

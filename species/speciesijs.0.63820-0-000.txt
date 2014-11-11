@@ -1,0 +1,11 @@
+./U14586.xml:  <GBSeq_organism>Polaribacter franzmannii ATCC 700399</GBSeq_organism>
+./AY661691.xml:  <GBSeq_organism>Tenacibaculum lutimaris</GBSeq_organism>
+./M58775.xml:  <GBSeq_organism>Polaribacter glomeratus</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M61002.xml:  <GBSeq_organism>Polaribacter irgensii</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AF459612.xml:  <GBSeq_organism>Dengue virus 2</GBSeq_organism>

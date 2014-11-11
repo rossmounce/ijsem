@@ -1,0 +1,25 @@
+./M75055.xml:  <GBSeq_organism>Avibacterium sp. CCUG 18782</GBSeq_organism>
+./U32697.xml:  <GBSeq_organism>Haemophilus influenzae Rd KW20</GBSeq_organism>
+./AY498870.xml:  <GBSeq_organism>Avibacterium paragallinarum</GBSeq_organism>
+./AY498868.xml:  <GBSeq_organism>Avibacterium paragallinarum</GBSeq_organism>
+./AY498867.xml:  <GBSeq_organism>Avibacterium paragallinarum</GBSeq_organism>
+./M75059.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./AF228015.xml:  <GBSeq_organism>Gallibacterium genomosp. 1</GBSeq_organism>
+./M75068.xml:  <GBSeq_organism>Actinobacillus lignieresii</GBSeq_organism>
+./AF294410.xml:  <GBSeq_organism>Pasteurella multocida subsp. multocida</GBSeq_organism>
+./AY216869.xml:  <GBSeq_organism>Volucribacter amazonae</GBSeq_organism>
+./M75058.xml:  <GBSeq_organism>Avibacterium avium</GBSeq_organism>
+./AF228001.xml:  <GBSeq_organism>Gallibacterium anatis DSM 16844 = F 149</GBSeq_organism>
+./AY216868.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./AF487727.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./Y17189.xml:  <GBSeq_organism>Lonepinella koalarum</GBSeq_organism>
+./AF549387.xml:  <GBSeq_organism>Histophilus somni</GBSeq_organism>
+./L06079.xml:  <GBSeq_organism>Bisgaard Taxon 3</GBSeq_organism>
+./AF487725.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./AF487726.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./X89379.xml:  <GBSeq_organism>Phocoenobacter uteri</GBSeq_organism>
+./L06078.xml:  <GBSeq_organism>Gallibacterium salpingitidis</GBSeq_organism>
+./M75070.xml:  <GBSeq_organism>Avibacterium volantium</GBSeq_organism>
+./AY172731.xml:  <GBSeq_organism>Bisgaard Taxon 34</GBSeq_organism>
+./AY498871.xml:  <GBSeq_organism>Avibacterium paragallinarum</GBSeq_organism>
+./AY498869.xml:  <GBSeq_organism>Avibacterium paragallinarum</GBSeq_organism>

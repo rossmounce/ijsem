@@ -1,0 +1,16 @@
+./U88891.xml:  <GBSeq_organism>Desulfotomaculum halophilum</GBSeq_organism>
+./AM418397.xml:  <GBSeq_organism>Desulfovibrio psychrotolerans DSM 19430</GBSeq_organism>
+./AY176773.xml:  <GBSeq_organism>Desulfovibrio capillatus</GBSeq_organism>
+./AF230530.xml:  <GBSeq_organism>Desulfovibrio dechloracetivorans</GBSeq_organism>
+./X95230.xml:  <GBSeq_organism>Desulfovibrio aespoeensis Aspo-2</GBSeq_organism>
+./DQ826728.xml:  <GBSeq_organism>Desulfovibrio vulgaris</GBSeq_organism>
+./U53465.xml:  <GBSeq_organism>Desulfovibrio caledoniensis</GBSeq_organism>
+./U53464.xml:  <GBSeq_organism>Desulfovibrio gracilis</GBSeq_organism>
+./U42221.xml:  <GBSeq_organism>Desulfovibrio fairfieldensis</GBSeq_organism>
+./AJ404226.xml:  <GBSeq_organism>Desulfovibrio alaskensis</GBSeq_organism>
+./AJ544687.xml:  <GBSeq_organism>Desulfovibrio brasiliensis</GBSeq_organism>
+./AF418170.xml:  <GBSeq_organism>Desulfovibrio giganteus</GBSeq_organism>
+./AF458778.xml:  <GBSeq_organism>Desulfovibrio hydrothermalis AM13 = DSM 14728</GBSeq_organism>
+./EF577029.xml:  <GBSeq_organism>Desulfovibrio tunisiensis</GBSeq_organism>
+./AJ621884.xml:  <GBSeq_organism>Desulfovibrio indonesiensis</GBSeq_organism>
+./X99237.xml:  <GBSeq_organism>Desulfovibrio halophilus</GBSeq_organism>

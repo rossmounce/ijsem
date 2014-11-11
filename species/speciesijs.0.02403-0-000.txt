@@ -1,0 +1,13 @@
+./Y10647.xml:  <GBSeq_organism>Chlorobaculum parvum</GBSeq_organism>
+./M58468.xml:  <GBSeq_organism>Chlorobaculum tepidum</GBSeq_organism>
+./Y08104.xml:  <GBSeq_organism>Chlorobium phaeobacteroides</GBSeq_organism>
+./Y08102.xml:  <GBSeq_organism>Chlorobaculum thiosulfatiphilum</GBSeq_organism>
+./Y07837.xml:  <GBSeq_organism>Prosthecochloris aestuarii DSM 271</GBSeq_organism>
+./Y08108.xml:  <GBSeq_organism>Pelodictyon phaeoclathratiforme BU-1</GBSeq_organism>
+./Y10649.xml:  <GBSeq_organism>Chlorobium chlorovibrioides</GBSeq_organism>
+./AJ290831.xml:  <GBSeq_organism>Chlorobaculum limnaeum</GBSeq_organism>
+./M62791.xml:  <GBSeq_organism>Prosthecochloris vibrioformis</GBSeq_organism>
+./Y18253.xml:  <GBSeq_organism>Chlorobium ferrooxidans DSM 13031</GBSeq_organism>
+./Y10113.xml:  <GBSeq_organism>Chlorobium limicola DSM 245</GBSeq_organism>
+./Y08105.xml:  <GBSeq_organism>Chlorobium phaeovibrioides</GBSeq_organism>
+./Y08107.xml:  <GBSeq_organism>Chlorobium luteolum DSM 273</GBSeq_organism>

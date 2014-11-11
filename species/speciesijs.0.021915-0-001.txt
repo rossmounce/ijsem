@@ -1,0 +1,26 @@
+./AB175645.xml:  <GBSeq_organism>Methylobacterium suomiense</GBSeq_organism>
+./AB175642.xml:  <GBSeq_organism>Methylobacterium rhodesianum</GBSeq_organism>
+./AJ635303.xml:  <GBSeq_organism>Methylobacterium aquaticum</GBSeq_organism>
+./AJ250801.xml:  <GBSeq_organism>Methylobacterium fujisawaense</GBSeq_organism>
+./U58018.xml:  <GBSeq_organism>Methylobacterium thiocyanatum</GBSeq_organism>
+./AB175632.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AB175650.xml:  <GBSeq_organism>Rhodopseudomonas pseudopalustris</GBSeq_organism>
+./AY364020.xml:  <GBSeq_organism>Methylobacterium goesingense</GBSeq_organism>
+./AB175649.xml:  <GBSeq_organism>Methylobacterium brachiatum</GBSeq_organism>
+./AF220763.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./AJ888239.xml:  <GBSeq_organism>Methylobacterium isbiliense</GBSeq_organism>
+./D32227.xml:  <GBSeq_organism>Methylobacterium radiotolerans JCM 2831</GBSeq_organism>
+./AJ635304.xml:  <GBSeq_organism>Methylobacterium hispanicum</GBSeq_organism>
+./AB175636.xml:  <GBSeq_organism>Methylobacterium mesophilicum</GBSeq_organism>
+./AB252200.xml:  <GBSeq_organism>Methylobacterium gregans</GBSeq_organism>
+./EF174497.xml:  <GBSeq_organism>Methylobacterium iners</GBSeq_organism>
+./EF174498.xml:  <GBSeq_organism>Methylobacterium aerolatum</GBSeq_organism>
+./AY251818.xml:  <GBSeq_organism>Methylobacterium populi BJ001</GBSeq_organism>
+./AF514774.xml:  <GBSeq_organism>Methylobacterium podarium</GBSeq_organism>
+./AY683045.xml:  <GBSeq_organism>Methylobacterium oryzae CBMB20</GBSeq_organism>
+./AB175629.xml:  <GBSeq_organism>Methylobacterium aminovorans</GBSeq_organism>
+./AJ851087.xml:  <GBSeq_organism>Methylobacterium variabile</GBSeq_organism>
+./AB175647.xml:  <GBSeq_organism>Methylobacterium zatmanii</GBSeq_organism>
+./EF426729.xml:  <GBSeq_organism>Methylobacterium platani</GBSeq_organism>
+./AB175644.xml:  <GBSeq_organism>Methylobacterium rhodinum</GBSeq_organism>
+./EF126746.xml:  <GBSeq_organism>Methylobacterium phyllosphaerae</GBSeq_organism>

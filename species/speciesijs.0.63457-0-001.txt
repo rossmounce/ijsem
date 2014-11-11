@@ -1,0 +1,19 @@
+./AF503497.xml:  <GBSeq_organism>Streptomyces violaceolatus</GBSeq_organism>
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./AF503491.xml:  <GBSeq_organism>Streptomyces humiferus</GBSeq_organism>
+./AJ494865.xml:  <GBSeq_organism>Streptomyces albogriseolus</GBSeq_organism>
+./AJ621607.xml:  <GBSeq_organism>Streptomyces niger</GBSeq_organism>
+./AF503496.xml:  <GBSeq_organism>Streptomyces coelescens</GBSeq_organism>
+./AJ621602.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./Z68101.xml:  <GBSeq_organism>Streptomyces thermodiastaticus</GBSeq_organism>
+./X80825.xml:  <GBSeq_organism>Streptomyces subrutilus</GBSeq_organism>
+./AB018094.xml:  <GBSeq_organism>Streptomyces armeniacus</GBSeq_organism>
+./AY450561.xml:  <GBSeq_organism>Streptomyces griseoaurantiacus</GBSeq_organism>
+./AB045883.xml:  <GBSeq_organism>Streptomyces rimosus subsp. rimosus</GBSeq_organism>
+./AB024441.xml:  <GBSeq_organism>Streptomyces kasugaensis</GBSeq_organism>
+./AF503494.xml:  <GBSeq_organism>Streptomyces violaceoruber</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./AJ621604.xml:  <GBSeq_organism>Streptomyces purpurogeneiscleroticus</GBSeq_organism>
+./Z76687.xml:  <GBSeq_organism>Streptomyces gougerotii</GBSeq_organism>
+./U94489.xml:  <GBSeq_organism>Streptomyces thermocarboxydovorans</GBSeq_organism>

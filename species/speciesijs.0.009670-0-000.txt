@@ -1,0 +1,10 @@
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./D82065.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AY553296.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./AF500003.xml:  <GBSeq_organism>Halobacillus salinus</GBSeq_organism>
+./X90834.xml:  <GBSeq_organism>Salimicrobium album</GBSeq_organism>
+./AY603977.xml:  <GBSeq_organism>Pontibacillus marinus</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./AJ243920.xml:  <GBSeq_organism>Salimicrobium halophilum</GBSeq_organism>

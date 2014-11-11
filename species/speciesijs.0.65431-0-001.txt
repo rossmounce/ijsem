@@ -1,0 +1,12 @@
+./AY686713.xml:  <GBSeq_organism>Sulfurihydrogenibium yellowstonense SS-5</GBSeq_organism>
+./AM259495.xml:  <GBSeq_organism>Sulfurihydrogenibium rodmanii</GBSeq_organism>
+./AM259496.xml:  <GBSeq_organism>Sulfurihydrogenibium rodmanii</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AM259502.xml:  <GBSeq_organism>Sulfurihydrogenibium rodmanii</GBSeq_organism>
+./AM259494.xml:  <GBSeq_organism>Sulfurihydrogenibium rodmanii</GBSeq_organism>
+./AF528192.xml:  <GBSeq_organism>Sulfurihydrogenibium azorense Az-Fu1</GBSeq_organism>
+./AF188332.xml:  <GBSeq_organism>Persephonella marina EX-H1</GBSeq_organism>
+./D16296.xml:  <GBSeq_organism>Hydrogenobaculum acidophilum</GBSeq_organism>
+./AM690758.xml:  <GBSeq_organism>uncultured Sulfurihydrogenibium sp.</GBSeq_organism>
+./AF453506.xml:  <GBSeq_organism>uncultured Aquificales bacterium</GBSeq_organism>
+./AJ292525.xml:  <GBSeq_organism>Hydrogenothermus marinus</GBSeq_organism>

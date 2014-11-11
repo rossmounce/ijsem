@@ -1,0 +1,6 @@
+./AJ306683.xml:  <GBSeq_organism>Sterolibacterium denitrificans</GBSeq_organism>
+./J01695.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AY741342.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>

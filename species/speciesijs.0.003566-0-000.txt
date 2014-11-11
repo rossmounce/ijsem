@@ -1,0 +1,4 @@
+./M94276.xml:  <GBSeq_organism>Cystobacter fuscus</GBSeq_organism>
+./DQ768117.xml:  <GBSeq_organism>Myxococcus fulvus</GBSeq_organism>
+./DQ768106.xml:  <GBSeq_organism>Archangium gephyra</GBSeq_organism>
+./AB218225.xml:  <GBSeq_organism>Myxococcus virescens</GBSeq_organism>

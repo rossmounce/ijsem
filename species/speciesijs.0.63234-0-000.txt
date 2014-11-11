@@ -1,0 +1,11 @@
+./AY546478.xml:  <GBSeq_organism>Porphyromonas gingivicanis</GBSeq_organism>
+./AY546486.xml:  <GBSeq_organism>Porphyromonas cansulci</GBSeq_organism>
+./AY546477.xml:  <GBSeq_organism>Porphyromonas endodontalis</GBSeq_organism>
+./AY546487.xml:  <GBSeq_organism>Porphyromonas macacae</GBSeq_organism>
+./AY546476.xml:  <GBSeq_organism>Porphyromonas gulae</GBSeq_organism>
+./AY546488.xml:  <GBSeq_organism>Porphyromonas macacae</GBSeq_organism>
+./AY546490.xml:  <GBSeq_organism>Parabacteroides distasonis ATCC 8503</GBSeq_organism>
+./AY546481.xml:  <GBSeq_organism>Porphyromonas circumdentaria</GBSeq_organism>
+./AY546480.xml:  <GBSeq_organism>Porphyromonas levii DSM 23370</GBSeq_organism>
+./AY546489.xml:  <GBSeq_organism>Tannerella forsythia</GBSeq_organism>
+./AY546479.xml:  <GBSeq_organism>Porphyromonas cangingivalis</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AF466190.xml:  <GBSeq_organism>Prauserella halophila</GBSeq_organism>
+./AJ278497.xml:  <GBSeq_organism>Saccharomonospora halophila 8</GBSeq_organism>
+./FJ444995.xml:  <GBSeq_organism>Prauserella sediminis</GBSeq_organism>
+./AF435077.xml:  <GBSeq_organism>Prauserella alba</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./FJ444993.xml:  <GBSeq_organism>Prauserella flava</GBSeq_organism>
+./AJ306300.xml:  <GBSeq_organism>Saccharomonospora xinjiangensis XJ-54</GBSeq_organism>
+./Fl444994.xml:  <GBSeq_organism>Zea mays</GBSeq_organism>
+./Fl444992.xml:  <GBSeq_organism>Zea mays</GBSeq_organism>
+./AJ252825.xml:  <GBSeq_organism>Pseudonocardia compacta</GBSeq_organism>

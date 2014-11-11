@@ -1,0 +1,25 @@
+./D12667.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./U14586.xml:  <GBSeq_organism>Polaribacter franzmannii ATCC 700399</GBSeq_organism>
+./AF530150.xml:  <GBSeq_organism>Tenacibaculum sp. MGP-74/AN6</GBSeq_organism>
+./AY661691.xml:  <GBSeq_organism>Tenacibaculum lutimaris</GBSeq_organism>
+./M58775.xml:  <GBSeq_organism>Polaribacter glomeratus</GBSeq_organism>
+./AB032502.xml:  <GBSeq_organism>Tenacibaculum mesophilum</GBSeq_organism>
+./D14023.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AB032504.xml:  <GBSeq_organism>Tenacibaculum mesophilum</GBSeq_organism>
+./AF493677.xml:  <GBSeq_organism>Tenacibaculum sp. SW258</GBSeq_organism>
+./AB078057.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AY771741.xml:  <GBSeq_organism>Tenacibaculum ovolyticum</GBSeq_organism>
+./AY661693.xml:  <GBSeq_organism>Tenacibaculum lutimaris</GBSeq_organism>
+./AB274770.xml:  <GBSeq_organism>Tenacibaculum sp. WEXT4</GBSeq_organism>
+./AY962294.xml:  <GBSeq_organism>Tenacibaculum litoreum</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AF469612.xml:  <GBSeq_organism>Tenacibaculum skagerrakense</GBSeq_organism>
+./DQ822567.xml:  <GBSeq_organism>Tenacibaculum litopenaei</GBSeq_organism>
+./DQ314760.xml:  <GBSeq_organism>Tenacibaculum aestuarii</GBSeq_organism>
+./AY661694.xml:  <GBSeq_organism>Tenacibaculum lutimaris</GBSeq_organism>
+./AY661692.xml:  <GBSeq_organism>Tenacibaculum lutimaris</GBSeq_organism>
+./AM412314.xml:  <GBSeq_organism>Tenacibaculum adriaticum</GBSeq_organism>
+./AF530136.xml:  <GBSeq_organism>Tenacibaculum sp. MGP-10</GBSeq_organism>
+./DQ660385.xml:  <GBSeq_organism>Tenacibaculum sp. HJ103</GBSeq_organism>
+./AF493678.xml:  <GBSeq_organism>Tenacibaculum sp. SW274</GBSeq_organism>
+./M64629.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>

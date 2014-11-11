@@ -1,0 +1,13 @@
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./AJ302709.xml:  <GBSeq_organism>Bacillus halodurans</GBSeq_organism>
+./X76443.xml:  <GBSeq_organism>Bacillus horikoshii DSM 8719</GBSeq_organism>
+./X76444.xml:  <GBSeq_organism>[Bacillus] clarkii</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./EU621902.xml:  <GBSeq_organism>Bacillus marmarensis DSM 21297</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>

@@ -1,0 +1,14 @@
+./X07652.xml:  <GBSeq_organism>Proteus vulgaris</GBSeq_organism>
+./AJ252143.xml:  <GBSeq_organism>Ignatzschineria larvae DSM 13226</GBSeq_organism>
+./X87278.xml:  <GBSeq_organism>Rhodospirillum rubrum</GBSeq_organism>
+./AB094597.xml:  <GBSeq_organism>Shewanella surugensis</GBSeq_organism>
+./EU008089.xml:  <GBSeq_organism>Ignatzschineria ureiclastica</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./M35015.xml:  <GBSeq_organism>Suttonella indologenes</GBSeq_organism>
+./M35014.xml:  <GBSeq_organism>Cardiobacterium hominis</GBSeq_organism>
+./AM397063.xml:  <GBSeq_organism>Wohlfahrtiimonas chitiniclastica DSM 18708</GBSeq_organism>
+./EU008088.xml:  <GBSeq_organism>Ignatzschineria indica</GBSeq_organism>
+./AF203388.xml:  <GBSeq_organism>Xylella fastidiosa subsp. multiplex</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AF459431.xml:  <GBSeq_organism>Streptococcus macedonicus</GBSeq_organism>
+./AB002482.xml:  <GBSeq_organism>Streptococcus equinus ATCC 33317</GBSeq_organism>
+./AF124350.xml:  <GBSeq_organism>Streptococcus orisratti</GBSeq_organism>
+./EF364097.xml:  <GBSeq_organism>Streptococcus henryi</GBSeq_organism>
+./AY347306.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF104109.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF201899.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./DQ303184.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>
+./X64887.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./AF429763.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./EF364098.xml:  <GBSeq_organism>Streptococcus caballi</GBSeq_organism>
+./AF104114.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus ATCC 43143</GBSeq_organism>
+./AF009509.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF429762.xml:  <GBSeq_organism>Streptococcus infantarius subsp. infantarius</GBSeq_organism>
+./AF201898.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>

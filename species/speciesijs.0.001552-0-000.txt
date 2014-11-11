@@ -1,0 +1,6 @@
+./AY683537.xml:  <GBSeq_organism>Alcanivorax dieselolei</GBSeq_organism>
+./EU438901.xml:  <GBSeq_organism>Alcanivorax hongdengensis A-11-3</GBSeq_organism>
+./AY686709.xml:  <GBSeq_organism>Alcanivorax balearicus MACL04</GBSeq_organism>
+./AF328762.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>
+./D84013.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

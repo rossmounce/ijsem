@@ -1,0 +1,26 @@
+./M99448.xml:  <GBSeq_organism>Lucinoma aequizonata gill symbiont</GBSeq_organism>
+./X95459.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./AF013978.xml:  <GBSeq_organism>Thiomicrospira kuenenii DSM 12350</GBSeq_organism>
+./L10936.xml:  <GBSeq_organism>unidentified marine eubacterium</GBSeq_organism>
+./D12782.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AJ404731.xml:  <GBSeq_organism>Thiomicrospira arctica</GBSeq_organism>
+./AF013974.xml:  <GBSeq_organism>Thiomicrospira frisia</GBSeq_organism>
+./AF126549.xml:  <GBSeq_organism>Thioalkalimicrobium sibiricum</GBSeq_organism>
+./U36941.xml:  <GBSeq_organism>Piscirickettsia salmonis</GBSeq_organism>
+./AJ237757.xml:  <GBSeq_organism>Thiomicrospira sp. Milos-T1</GBSeq_organism>
+./L25714.xml:  <GBSeq_organism>Vesicomya cordata gill symbiont</GBSeq_organism>
+./AF013975.xml:  <GBSeq_organism>Thiomicrospira chilensis</GBSeq_organism>
+./AF069959.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./L01576.xml:  <GBSeq_organism>Thiomicrospira sp.</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./D86374.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./L40993.xml:  <GBSeq_organism>Thiothrix nivea DSM 5205</GBSeq_organism>
+./L40811.xml:  <GBSeq_organism>Thiomicrospira sp.</GBSeq_organism>
+./AF013971.xml:  <GBSeq_organism>Thiomicrospira sp. SL-1</GBSeq_organism>
+./AJ237758.xml:  <GBSeq_organism>Thiomicrospira sp. Milos-T2</GBSeq_organism>
+./M99445.xml:  <GBSeq_organism>Bathymodiolus thermophilus thioautotrophic gill symbiont</GBSeq_organism>
+./AF013972.xml:  <GBSeq_organism>Thiomicrospira sp. JB-B2</GBSeq_organism>
+./U12624.xml:  <GBSeq_organism>Cycloclasticus pugetii PS-1</GBSeq_organism>
+./AJ404732.xml:  <GBSeq_organism>Thiomicrospira psychrophila</GBSeq_organism>
+./AF126548.xml:  <GBSeq_organism>Thioalkalimicrobium aerophilum AL3</GBSeq_organism>
+./M21292.xml:  <GBSeq_organism>Wolbachia persica</GBSeq_organism>

@@ -1,0 +1,12 @@
+./M58811.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AY026751.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./X76330.xml:  <GBSeq_organism>Lactobacillus fructivorans KCTC 3543 = DSM 20203</GBSeq_organism>
+./AJ534844.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./AB289061.xml:  <GBSeq_organism>Lactobacillus collinoides</GBSeq_organism>
+./D79211.xml:  <GBSeq_organism>Lactobacillus pentosus</GBSeq_organism>
+./AM158249.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./AJ632158.xml:  <GBSeq_organism>Lactobacillus acidifarinae</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./M58827.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AJ632157.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>
+./AJ786665.xml:  <GBSeq_organism>Lactobacillus paracollinoides</GBSeq_organism>

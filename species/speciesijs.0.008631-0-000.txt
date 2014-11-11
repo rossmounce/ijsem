@@ -1,0 +1,12 @@
+./EF204446.xml:  <GBSeq_organism>Chryseobacterium bovis DSM 19482</GBSeq_organism>
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./EU516352.xml:  <GBSeq_organism>Chryseobacterium solincola</GBSeq_organism>
+./AM159183.xml:  <GBSeq_organism>Chryseobacterium hispanicum</GBSeq_organism>
+./AM232809.xml:  <GBSeq_organism>Chryseobacterium pallidum</GBSeq_organism>
+./AM261868.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./AJ534853.xml:  <GBSeq_organism>Chryseobacterium molle</GBSeq_organism>
+./M58776.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./AM748690.xml:  <GBSeq_organism>Chryseobacterium aquaticum</GBSeq_organism>
+./EF554408.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./EF204450.xml:  <GBSeq_organism>Chryseobacterium haifense</GBSeq_organism>
+./DQ336714.xml:  <GBSeq_organism>Chryseobacterium caeni</GBSeq_organism>

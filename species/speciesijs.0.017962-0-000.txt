@@ -1,0 +1,44 @@
+./X84440.xml:  <GBSeq_organism>Corynebacterium ammoniagenes</GBSeq_organism>
+./AM283464.xml:  <GBSeq_organism>Williamsia serinedens</GBSeq_organism>
+./AF154129.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./Y18054.xml:  <GBSeq_organism>Gordonia alkanivorans</GBSeq_organism>
+./AB243007.xml:  <GBSeq_organism>Smaragdicoccus niigatensis</GBSeq_organism>
+./X79289.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./AF430019.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AF480595.xml:  <GBSeq_organism>Mycobacterium asiaticum</GBSeq_organism>
+./AB010909.xml:  <GBSeq_organism>Williamsia maris</GBSeq_organism>
+./Z35435.xml:  <GBSeq_organism>Skermania piniformis</GBSeq_organism>
+./FJ917743.xml:  <GBSeq_organism>Tsukamurella soli</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AB162800.xml:  <GBSeq_organism>Gordonia araii NBRC 100433</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./AB491283.xml:  <GBSeq_organism>Tomitella biformata AHU 1821</GBSeq_organism>
+./AJ920289.xml:  <GBSeq_organism>Dietzia cinnamea</GBSeq_organism>
+./AY779043.xml:  <GBSeq_organism>Nocardia lijiangensis</GBSeq_organism>
+./AY457084.xml:  <GBSeq_organism>Mycobacterium farcinogenes</GBSeq_organism>
+./AB108781.xml:  <GBSeq_organism>Nocardia arthritidis</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AY238514.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./AY238513.xml:  <GBSeq_organism>Tsukamurella pseudospumae</GBSeq_organism>
+./AF430066.xml:  <GBSeq_organism>Rhodococcus corynebacterioides</GBSeq_organism>
+./X80626.xml:  <GBSeq_organism>Rhodococcus coprophilus</GBSeq_organism>
+./X80619.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./X58890.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./AY602219.xml:  <GBSeq_organism>Rhodococcus yunnanensis</GBSeq_organism>
+./X80621.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./AY995560.xml:  <GBSeq_organism>Gordonia soli</GBSeq_organism>
+./AF430054.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./AF314192.xml:  <GBSeq_organism>Corynebacterium glutamicum</GBSeq_organism>
+./AF191343.xml:  <GBSeq_organism>Rhodococcus zopfii</GBSeq_organism>
+./AF124343.xml:  <GBSeq_organism>Rhodococcus koreensis</GBSeq_organism>
+./AF283281.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./AJ131761.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./AB092561.xml:  <GBSeq_organism>Nocardia yamanashiensis</GBSeq_organism>
+./AY534742.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>
+./X80625.xml:  <GBSeq_organism>Rhodococcus ruber</GBSeq_organism>

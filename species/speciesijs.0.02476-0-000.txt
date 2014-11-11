@@ -1,0 +1,25 @@
+./AJ294431.xml:  <GBSeq_organism>Desulfotomaculum gibsoniae DSM 7213</GBSeq_organism>
+./U95951.xml:  <GBSeq_organism>Desulfotomaculum reducens MI-1</GBSeq_organism>
+./AF168365.xml:  <GBSeq_organism>Desulfotomaculum sapomandens</GBSeq_organism>
+./AF009646.xml:  <GBSeq_organism>Desulfotomaculum kuznetsovii</GBSeq_organism>
+./U85624.xml:  <GBSeq_organism>Desulfosporosinus auripigmenti</GBSeq_organism>
+./X71848.xml:  <GBSeq_organism>[Clostridium] celerecrescens 18A</GBSeq_organism>
+./U88891.xml:  <GBSeq_organism>Desulfotomaculum halophilum</GBSeq_organism>
+./X98407.xml:  <GBSeq_organism>Desulfotomaculum aeronauticum</GBSeq_organism>
+./Y11568.xml:  <GBSeq_organism>[Desulfotomaculum] guttoideum</GBSeq_organism>
+./L09168.xml:  <GBSeq_organism>Moorella thermoautotrophica</GBSeq_organism>
+./X76163.xml:  <GBSeq_organism>[Clostridium] aerotolerans</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./Y11566.xml:  <GBSeq_organism>Desulfotomaculum acetoxidans DSM 771</GBSeq_organism>
+./AF442686.xml:  <GBSeq_organism>Desulfotomaculum sp. TPOSR</GBSeq_organism>
+./X73449.xml:  <GBSeq_organism>[Clostridium] sphenoides JCM 1415</GBSeq_organism>
+./X64465.xml:  <GBSeq_organism>Bacillus methanolicus</GBSeq_organism>
+./AF442687.xml:  <GBSeq_organism>Desulfotomaculum sp. WW1</GBSeq_organism>
+./AF097024.xml:  <GBSeq_organism>Desulfotomaculum alkaliphilum</GBSeq_organism>
+./X94975.xml:  <GBSeq_organism>Desulfitobacterium hafniense DCB-2</GBSeq_organism>
+./X71855.xml:  <GBSeq_organism>[Clostridium] xylanolyticum</GBSeq_organism>
+./M59121.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./AF069293.xml:  <GBSeq_organism>Desulfotomaculum luciae</GBSeq_organism>
+./AY084078.xml:  <GBSeq_organism>Desulfotomaculum solfataricum</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>
+./Y14845.xml:  <GBSeq_organism>Sporotomaculum hydroxybenzoicum</GBSeq_organism>

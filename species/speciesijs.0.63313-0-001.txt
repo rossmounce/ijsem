@@ -1,0 +1,19 @@
+./U40095.xml:  <GBSeq_organism>Blastobotrys elegans</GBSeq_organism>
+./U45799.xml:  <GBSeq_organism>Candida atlantica</GBSeq_organism>
+./U40098.xml:  <GBSeq_organism>Blastobotrys proliferans</GBSeq_organism>
+./U40094.xml:  <GBSeq_organism>Blastobotrys adeninivorans</GBSeq_organism>
+./AF294910.xml:  <GBSeq_organism>Candida bituminiphila</GBSeq_organism>
+./U40132.xml:  <GBSeq_organism>Trichomonascus farinosus</GBSeq_organism>
+./U40109.xml:  <GBSeq_organism>Blastobotrys aristata</GBSeq_organism>
+./U45704.xml:  <GBSeq_organism>Candida blankii</GBSeq_organism>
+./U62308.xml:  <GBSeq_organism>Candida salmanticensis</GBSeq_organism>
+./U76531.xml:  <GBSeq_organism>Sugiyamaella smithiae</GBSeq_organism>
+./U40108.xml:  <GBSeq_organism>Blastobotrys arbuscula</GBSeq_organism>
+./U45779.xml:  <GBSeq_organism>Candida atmosphaerica</GBSeq_organism>
+./U62300.xml:  <GBSeq_organism>Candida auringiensis</GBSeq_organism>
+./U40138.xml:  <GBSeq_organism>Trichomonascus ciferrii</GBSeq_organism>
+./U40096.xml:  <GBSeq_organism>Blastobotrys parvus</GBSeq_organism>
+./AF105335.xml:  <GBSeq_organism>Candida tartarivorans</GBSeq_organism>
+./U45822.xml:  <GBSeq_organism>Blastobotrys chiropterorum</GBSeq_organism>
+./AY447019.xml:  <GBSeq_organism>Zygoascus steatolyticus var. steatolyticus</GBSeq_organism>
+./U70182.xml:  <GBSeq_organism>Candida odintsovae</GBSeq_organism>

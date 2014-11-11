@@ -1,0 +1,34 @@
+./AJ851086.xml:  <GBSeq_organism>Methylobacterium aminovorans</GBSeq_organism>
+./AJ635303.xml:  <GBSeq_organism>Methylobacterium aquaticum</GBSeq_organism>
+./AB252201.xml:  <GBSeq_organism>Methylobacterium komagatae DSM 19563</GBSeq_organism>
+./AJ250801.xml:  <GBSeq_organism>Methylobacterium fujisawaense</GBSeq_organism>
+./U58018.xml:  <GBSeq_organism>Methylobacterium thiocyanatum</GBSeq_organism>
+./D32224.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./D32228.xml:  <GBSeq_organism>Methylobacterium rhodesianum</GBSeq_organism>
+./FJ155589.xml:  <GBSeq_organism>Methylobacterium dankookense</GBSeq_organism>
+./FJ157976.xml:  <GBSeq_organism>Methylobacterium marchantiae</GBSeq_organism>
+./AF220763.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./AJ888239.xml:  <GBSeq_organism>Methylobacterium isbiliense</GBSeq_organism>
+./EU860984.xml:  <GBSeq_organism>Methylobacterium soli</GBSeq_organism>
+./D32227.xml:  <GBSeq_organism>Methylobacterium radiotolerans JCM 2831</GBSeq_organism>
+./AJ635304.xml:  <GBSeq_organism>Methylobacterium hispanicum</GBSeq_organism>
+./M29026.xml:  <GBSeq_organism>Methylocystis parvus</GBSeq_organism>
+./M29024.xml:  <GBSeq_organism>Methylosinus trichosporium</GBSeq_organism>
+./AB252200.xml:  <GBSeq_organism>Methylobacterium gregans</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AB252208.xml:  <GBSeq_organism>Methylobacterium tardum</GBSeq_organism>
+./EF174497.xml:  <GBSeq_organism>Methylobacterium iners</GBSeq_organism>
+./EF174498.xml:  <GBSeq_organism>Methylobacterium aerolatum</GBSeq_organism>
+./AY251818.xml:  <GBSeq_organism>Methylobacterium populi BJ001</GBSeq_organism>
+./AY009404.xml:  <GBSeq_organism>Methylobacterium suomiense</GBSeq_organism>
+./AB252202.xml:  <GBSeq_organism>Methylobacterium persicinum</GBSeq_organism>
+./AY683045.xml:  <GBSeq_organism>Methylobacterium oryzae CBMB20</GBSeq_organism>
+./EU912445.xml:  <GBSeq_organism>Methylobacterium gossipiicola</GBSeq_organism>
+./D32225.xml:  <GBSeq_organism>Methylobacterium mesophilicum</GBSeq_organism>
+./AJ851087.xml:  <GBSeq_organism>Methylobacterium variabile</GBSeq_organism>
+./D32229.xml:  <GBSeq_organism>Methylobacterium rhodinum</GBSeq_organism>
+./AF273213.xml:  <GBSeq_organism>Albibacter methylovorans</GBSeq_organism>
+./AM040156.xml:  <GBSeq_organism>Methylobacterium adhaesivum</GBSeq_organism>
+./EF426729.xml:  <GBSeq_organism>Methylobacterium platani</GBSeq_organism>
+./L20804.xml:  <GBSeq_organism>Methylobacterium zatmanii</GBSeq_organism>
+./EF126746.xml:  <GBSeq_organism>Methylobacterium phyllosphaerae</GBSeq_organism>

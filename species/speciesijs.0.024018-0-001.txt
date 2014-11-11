@@ -1,0 +1,18 @@
+./AJ399485.xml:  <GBSeq_organism>Streptomyces arenae</GBSeq_organism>
+./AY999803.xml:  <GBSeq_organism>Streptomyces anandii JCM 4720</GBSeq_organism>
+./AB184237.xml:  <GBSeq_organism>Streptomyces rochei</GBSeq_organism>
+./AB184248.xml:  <GBSeq_organism>Streptomyces fumigatiscleroticus</GBSeq_organism>
+./AB184291.xml:  <GBSeq_organism>Streptomyces plicatus</GBSeq_organism>
+./AB184224.xml:  <GBSeq_organism>Streptomyces naganishii JCM 4654</GBSeq_organism>
+./AY999851.xml:  <GBSeq_organism>Streptomyces ghanaensis</GBSeq_organism>
+./AY999793.xml:  <GBSeq_organism>Streptomyces aurantiogriseus</GBSeq_organism>
+./AY999929.xml:  <GBSeq_organism>Streptomyces vinaceusdrappus</GBSeq_organism>
+./AB184604.xml:  <GBSeq_organism>Streptomyces ruber</GBSeq_organism>
+./AB184675.xml:  <GBSeq_organism>Streptomyces niveoruber</GBSeq_organism>
+./GU225938.xml:  <GBSeq_organism>Streptomyces zinciresistens K42</GBSeq_organism>
+./AB184156.xml:  <GBSeq_organism>Streptomyces mutabilis</GBSeq_organism>
+./AY999902.xml:  <GBSeq_organism>Streptomyces asterosporus</GBSeq_organism>
+./AB184661.xml:  <GBSeq_organism>Streptomyces geysiriensis</GBSeq_organism>
+./AB184575.xml:  <GBSeq_organism>Streptomyces spiralis</GBSeq_organism>
+./AY999780.xml:  <GBSeq_organism>Streptomyces calvus</GBSeq_organism>
+./AB184379.xml:  <GBSeq_organism>Streptomyces luteogriseus</GBSeq_organism>

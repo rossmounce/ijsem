@@ -1,0 +1,37 @@
+./AY728284.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>
+./AY728289.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AY493866.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AY493868.xml:  <GBSeq_organism>Paenibacillus brasilensis</GBSeq_organism>
+./AL009126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AY493862.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./AY598818.xml:  <GBSeq_organism>Paenibacillus phyllosphaerae</GBSeq_organism>
+./D78466.xml:  <GBSeq_organism>Paenibacillus curdlanolyticus YK9</GBSeq_organism>
+./AY728283.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./AY493865.xml:  <GBSeq_organism>Paenibacillus peoriae</GBSeq_organism>
+./EU939687.xml:  <GBSeq_organism>Paenibacillus wooponensis</GBSeq_organism>
+./AY728292.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./AY493861.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./GO423057.xml:  <GBSeq_organism>Lernaeocera branchialis</GBSeq_organism>
+./AY728281.xml:  <GBSeq_organism>Paenibacillus jamilae</GBSeq_organism>
+./AY728293.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./AY728285.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./AY728280.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./AY728282.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./AY839868.xml:  <GBSeq_organism>Paenibacillus xinjiangensis</GBSeq_organism>
+./AY728288.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./GO499853.xml:  <GBSeq_organism>Malus domestica</GBSeq_organism>
+./EU099594.xml:  <GBSeq_organism>Paenibacillus castaneae</GBSeq_organism>
+./AY728287.xml:  <GBSeq_organism>Paenibacillus sanguinis</GBSeq_organism>
+./GQ499851.xml:  <GBSeq_organism>Paenibacillus ehimensis</GBSeq_organism>
+./AF537343.xml:  <GBSeq_organism>Paenibacillus mendelii</GBSeq_organism>
+./GQ499852.xml:  <GBSeq_organism>Paenibacillus elgii</GBSeq_organism>
+./AY728294.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AY493863.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AY167820.xml:  <GBSeq_organism>Paenibacillus pasadenensis</GBSeq_organism>
+./AY493864.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF125184.xml:  <GBSeq_organism>Paenibacillus tarimensis</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>
+./AY728290.xml:  <GBSeq_organism>Paenibacillus curdlanolyticus YK9</GBSeq_organism>

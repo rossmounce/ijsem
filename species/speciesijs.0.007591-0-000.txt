@@ -1,0 +1,4 @@
+./AJ853908.xml:  <GBSeq_organism>Microbacterium xylanilyticum</GBSeq_organism>
+./EU239498.xml:  <GBSeq_organism>Microbacterium insulae</GBSeq_organism>
+./AB004727.xml:  <GBSeq_organism>Microbacterium hominis</GBSeq_organism>
+./AB004714.xml:  <GBSeq_organism>Microbacterium halophilum</GBSeq_organism>

@@ -1,0 +1,17 @@
+./AB110708.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AB110705.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./X75619.xml:  <GBSeq_organism>Komagataeibacter xylinus</GBSeq_organism>
+./AB110710.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./D30773.xml:  <GBSeq_organism>Acidiphilium cryptum</GBSeq_organism>
+./AB110714.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AB110702.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X71863.xml:  <GBSeq_organism>Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471</GBSeq_organism>
+./AB110712.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AB110713.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./AB110709.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AB110715.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AB110707.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AB110706.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>

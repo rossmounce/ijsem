@@ -1,0 +1,10 @@
+./AJ431699.xml:  <GBSeq_organism>Thalassolituus oleivorans MIL-1</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AF173967.xml:  <GBSeq_organism>Marinomonas communis</GBSeq_organism>
+./AB006770.xml:  <GBSeq_organism>Marinospirillum megaterium</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./U12624.xml:  <GBSeq_organism>Cycloclasticus pugetii PS-1</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

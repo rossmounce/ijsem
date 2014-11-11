@@ -1,0 +1,9 @@
+./DQ469584.xml:  <GBSeq_organism>Thiohalophilus thiocyanatoxydans</GBSeq_organism>
+./AY360060.xml:  <GBSeq_organism>Thioalkalivibrio thiocyanodenitrificans ARhD 1</GBSeq_organism>
+./X93472.xml:  <GBSeq_organism>Halochromatium glycolicum</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./EF103128.xml:  <GBSeq_organism>Natronocella acetinitrilica</GBSeq_organism>
+./AM404263.xml:  <GBSeq_organism>Aquisalimonas asiatica</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./AF406554.xml:  <GBSeq_organism>Alkalilimnicola ehrlichii MLHE-1</GBSeq_organism>
+./AM943121.xml:  <GBSeq_organism>Ectothiorhodospira variabilis</GBSeq_organism>

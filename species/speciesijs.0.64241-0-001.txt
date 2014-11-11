@@ -1,0 +1,12 @@
+./U82462.xml:  <GBSeq_organism>Lipomyces yarrowii</GBSeq_organism>
+./U82464.xml:  <GBSeq_organism>Lipomyces yamadae</GBSeq_organism>
+./U82453.xml:  <GBSeq_organism>Lipomyces japonicus</GBSeq_organism>
+./AJ606463.xml:  <GBSeq_organism>Sugiyamaella smithiae</GBSeq_organism>
+./U82455.xml:  <GBSeq_organism>Lipomyces spencermartinsiae</GBSeq_organism>
+./U82456.xml:  <GBSeq_organism>Lipomyces tetrasporus</GBSeq_organism>
+./U82461.xml:  <GBSeq_organism>Lipomyces lipofer</GBSeq_organism>
+./U82459.xml:  <GBSeq_organism>Lipomyces starkeyi</GBSeq_organism>
+./U82460.xml:  <GBSeq_organism>Lipomyces kockii</GBSeq_organism>
+./U82458.xml:  <GBSeq_organism>Lipomyces doorenjongii</GBSeq_organism>
+./U82454.xml:  <GBSeq_organism>Lipomyces kononenkoae</GBSeq_organism>
+./U82457.xml:  <GBSeq_organism>Lipomyces mesembrius</GBSeq_organism>

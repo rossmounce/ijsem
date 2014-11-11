@@ -1,0 +1,7 @@
+./AY253863.xml:  <GBSeq_organism>Kribbella flavida</GBSeq_organism>
+./AY253864.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AF004988.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./AY253865.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AY253862.xml:  <GBSeq_organism>Kribbella solani</GBSeq_organism>
+./AY253866.xml:  <GBSeq_organism>Kribbella jejuensis</GBSeq_organism>

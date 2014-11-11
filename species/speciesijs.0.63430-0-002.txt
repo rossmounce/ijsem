@@ -1,0 +1,16 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./AJ309654.xml:  <GBSeq_organism>epsilon proteobacterium AM1115</GBSeq_organism>
+./AY691430.xml:  <GBSeq_organism>Caminibacter mediatlanticus TB-2</GBSeq_organism>
+./U01328.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./J01695.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AF038843.xml:  <GBSeq_organism>Sulfurospirillum barnesii SES-3</GBSeq_organism>
+./M34133.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./Y19244.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AF273252.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AF357197.xml:  <GBSeq_organism>Nautilia profundicola AmH</GBSeq_organism>
+./AB105048.xml:  <GBSeq_organism>Hydrogenimonas thermophila</GBSeq_organism>
+./AB088431.xml:  <GBSeq_organism>Sulfurimonas autotrophica DSM 16294</GBSeq_organism>
+./AY691429.xml:  <GBSeq_organism>Caminibacter sp. TB-1</GBSeq_organism>

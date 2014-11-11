@@ -1,0 +1,19 @@
+./AF001366.xml:  <GBSeq_organism>Cellulophaga algicola DSM 14237</GBSeq_organism>
+./AY694008.xml:  <GBSeq_organism>Gillisia illustrilutea</GBSeq_organism>
+./AY576655.xml:  <GBSeq_organism>Gillisia mitskevichiae</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./U41350.xml:  <GBSeq_organism>Capnocytophaga ochracea DSM 7271</GBSeq_organism>
+./EF520007.xml:  <GBSeq_organism>Salinimicrobium xinjiangense</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./DQ191176.xml:  <GBSeq_organism>Salegentibacter agarivorans</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./DQ367409.xml:  <GBSeq_organism>Mesonia mobilis DSM 19841</GBSeq_organism>
+./AB116148.xml:  <GBSeq_organism>Salegentibacter holothuriorum</GBSeq_organism>
+./AF536386.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AY694007.xml:  <GBSeq_organism>Gillisia sandarakina</GBSeq_organism>
+./EU135614.xml:  <GBSeq_organism>Salinimicrobium terrae</GBSeq_organism>

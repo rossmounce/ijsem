@@ -1,0 +1,8 @@
+./AY582127.xml:  <GBSeq_organism>Kazachstania aerobia</GBSeq_organism>
+./U74592.xml:  <GBSeq_organism>Wickerhamomyces anomalus</GBSeq_organism>
+./AY007912.xml:  <GBSeq_organism>Kazachstania unispora</GBSeq_organism>
+./AF398482.xml:  <GBSeq_organism>Kazachstania viticola</GBSeq_organism>
+./AJ508581.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./AF113893.xml:  <GBSeq_organism>Saccharomyces pastorianus</GBSeq_organism>
+./AJ279065.xml:  <GBSeq_organism>Saccharomyces bayanus</GBSeq_organism>
+./AY881651.xml:  <GBSeq_organism>Kazachstania aquatica</GBSeq_organism>

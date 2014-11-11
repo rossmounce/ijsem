@@ -1,0 +1,12 @@
+./AF078759.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae ATCC 19860</GBSeq_organism>
+./D88006.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./D16212.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./AF078774.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AJ431731.xml:  <GBSeq_organism>Acidovorax valerianellae</GBSeq_organism>
+./AJ418042.xml:  <GBSeq_organism>Alicycliphilus denitrificans K601</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AF078758.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./DQ178978.xml:  <GBSeq_organism>Variovorax dokdonensis</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./AJ430343.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>

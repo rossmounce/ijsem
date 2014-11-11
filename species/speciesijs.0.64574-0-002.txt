@@ -1,0 +1,17 @@
+./DQ067086.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ067081.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF016982.xml:  <GBSeq_organism>Methylobacter sp. BB5.1</GBSeq_organism>
+./U89301.xml:  <GBSeq_organism>Methylocaldum gracile</GBSeq_organism>
+./DQ235463.xml:  <GBSeq_organism>uncultured methanotrophic proteobacterium</GBSeq_organism>
+./AF150795.xml:  <GBSeq_organism>Methylomonas sp. LW15</GBSeq_organism>
+./AY571990.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ414658.xml:  <GBSeq_organism>Methylobacter tundripaludum SV96</GBSeq_organism>
+./DQ235469.xml:  <GBSeq_organism>uncultured methanotrophic proteobacterium</GBSeq_organism>
+./DQ119046.xml:  <GBSeq_organism>Methylomonas sp. LC 1</GBSeq_organism>
+./L40804.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./DQ235468.xml:  <GBSeq_organism>uncultured methanotrophic proteobacterium</GBSeq_organism>
+./DQ119045.xml:  <GBSeq_organism>uncultured methanotrophic proteobacterium</GBSeq_organism>
+./AF307139.xml:  <GBSeq_organism>Methylomicrobium buryatense</GBSeq_organism>
+./DQ235462.xml:  <GBSeq_organism>uncultured methanotrophic proteobacterium</GBSeq_organism>
+./DQ119047.xml:  <GBSeq_organism>Methylosoma difficile</GBSeq_organism>
+./AY007285.xml:  <GBSeq_organism>Methylobacter sp. LW12</GBSeq_organism>

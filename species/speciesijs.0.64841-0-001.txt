@@ -1,0 +1,23 @@
+./AY458079.xml:  <GBSeq_organism>Mycobacterium mucogenicum</GBSeq_organism>
+./AF071139.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./DQ067577.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./DQ866780.xml:  <GBSeq_organism>Mycobacterium salmoniphilum</GBSeq_organism>
+./AY596465.xml:  <GBSeq_organism>Mycobacterium abscessus subsp. bolletii</GBSeq_organism>
+./AY379073.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./AY458081.xml:  <GBSeq_organism>Mycobacterium immunogenum</GBSeq_organism>
+./AY458075.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./AY859675.xml:  <GBSeq_organism>Mycobacterium abscessus subsp. bolletii</GBSeq_organism>
+./AY498741.xml:  <GBSeq_organism>Mycobacterium immunogenum</GBSeq_organism>
+./DQ866779.xml:  <GBSeq_organism>Mycobacterium salmoniphilum</GBSeq_organism>
+./U55832.xml:  <GBSeq_organism>Mycobacterium [chelonae] ATCC 14472</GBSeq_organism>
+./AY458074.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./AF456473.xml:  <GBSeq_organism>Mycobacterium sp. 185-409</GBSeq_organism>
+./DQ866777.xml:  <GBSeq_organism>Mycobacterium salmoniphilum</GBSeq_organism>
+./DQ866783.xml:  <GBSeq_organism>Mycobacterium salmoniphilum</GBSeq_organism>
+./EF535603.xml:  <GBSeq_organism>Mycobacterium salmoniphilum</GBSeq_organism>
+./DQ866781.xml:  <GBSeq_organism>Mycobacterium salmoniphilum</GBSeq_organism>
+./AY458072.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./AY498742.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./DQ866787.xml:  <GBSeq_organism>Mycobacterium sp. JAN2</GBSeq_organism>
+./AF071141.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./AY458078.xml:  <GBSeq_organism>Mycobacterium mucogenicum</GBSeq_organism>

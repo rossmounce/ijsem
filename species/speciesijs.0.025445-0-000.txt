@@ -1,0 +1,28 @@
+./FN428637.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF276806.xml:  <GBSeq_organism>Silene latifolia</GBSeq_organism>
+./AY608961.xml:  <GBSeq_organism>Geobacillus thermodenitrificans</GBSeq_organism>
+./FN428645.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF326278.xml:  <GBSeq_organism>Geobacillus toebii</GBSeq_organism>
+./FN428686.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./FN428696.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./FN428642.xml:  <GBSeq_organism>Geobacillus sp. R-32504</GBSeq_organism>
+./AY563003.xml:  <GBSeq_organism>Anoxybacillus tepidamans</GBSeq_organism>
+./AJ564616.xml:  <GBSeq_organism>Caldibacillus debilis</GBSeq_organism>
+./FN428683.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AY608981.xml:  <GBSeq_organism>Geobacillus thermoglucosidasius</GBSeq_organism>
+./AY193888.xml:  <GBSeq_organism>Geobacillus gargensis</GBSeq_organism>
+./FN428695.xml:  <GBSeq_organism>Geobacillus gargensis</GBSeq_organism>
+./FN428694.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AY166603.xml:  <GBSeq_organism>Geobacillus zalihae</GBSeq_organism>
+./FN428638.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./FN428674.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./FN538989.xml:  <GBSeq_organism>Geobacillus thermocatenulatus</GBSeq_organism>
+./FN428675.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF067651.xml:  <GBSeq_organism>Geobacillus caldoxylosilyticus</GBSeq_organism>
+./FN428671.xml:  <GBSeq_organism>Geobacillus sp. R-32630</GBSeq_organism>
+./FN428672.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AJ504797.xml:  <GBSeq_organism>Bacillus aeolius</GBSeq_organism>
+./FN428693.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./FN428646.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF276304.xml:  <GBSeq_organism>Geobacillus uzenensis</GBSeq_organism>
+./FN428684.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>

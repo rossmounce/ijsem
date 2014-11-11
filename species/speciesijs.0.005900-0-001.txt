@@ -1,0 +1,17 @@
+./AB266102.xml:  <GBSeq_organism>Asaccharobacter celatus DSM 18785</GBSeq_organism>
+./AJ608686.xml:  <GBSeq_organism>Slackia faecicanis</GBSeq_organism>
+./AY288517.xml:  <GBSeq_organism>Paraeggerthella hongkongensis JCM 14552</GBSeq_organism>
+./AB306661.xml:  <GBSeq_organism>Adlercreutzia equolifaciens</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./AB019260.xml:  <GBSeq_organism>Cryptobacterium curtum DSM 15641</GBSeq_organism>
+./AF101241.xml:  <GBSeq_organism>Slackia heliotrinireducens DSM 20476</GBSeq_organism>
+./AF292373.xml:  <GBSeq_organism>Olsenella uli DSM 7084</GBSeq_organism>
+./X79048.xml:  <GBSeq_organism>Coriobacterium glomerans PW2</GBSeq_organism>
+./AF292371.xml:  <GBSeq_organism>Atopobium rimae</GBSeq_organism>
+./AF292372.xml:  <GBSeq_organism>Atopobium parvulum DSM 20469</GBSeq_organism>
+./AY321958.xml:  <GBSeq_organism>Eggerthella sinensis JCM 14551</GBSeq_organism>
+./AM886059.xml:  <GBSeq_organism>Gordonibacter pamelaeae 7-10-1-b</GBSeq_organism>
+./Y17195.xml:  <GBSeq_organism>Atopobium vaginae DSM 15829</GBSeq_organism>
+./AF292375.xml:  <GBSeq_organism>Eggerthella lenta DSM 2243</GBSeq_organism>
+./AF292374.xml:  <GBSeq_organism>Olsenella profusa DSM 13989</GBSeq_organism>
+./U43492.xml:  <GBSeq_organism>Denitrobacterium detoxificans</GBSeq_organism>

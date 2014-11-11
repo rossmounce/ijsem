@@ -1,0 +1,6 @@
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./FN396961.xml:  <GBSeq_organism>Cesiribacter andamanensis AMV16</GBSeq_organism>
+./AY753206.xml:  <GBSeq_organism>Roseivirga echinicomitans</GBSeq_organism>
+./Y18835.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>
+./HM775387.xml:  <GBSeq_organism>Cesiribacter roseus</GBSeq_organism>
+./AB288294.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>

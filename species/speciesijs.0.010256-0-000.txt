@@ -1,0 +1,13 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./DQ491453.xml:  <GBSeq_organism>Micrococcus flavus</GBSeq_organism>
+./EU005372.xml:  <GBSeq_organism>Micrococcus endophyticus</GBSeq_organism>
+./AJ344143.xml:  <GBSeq_organism>Citricoccus muralis</GBSeq_organism>
+./AJ812213.xml:  <GBSeq_organism>Acaricomes phytoseiuli</GBSeq_organism>
+./X51601.xml:  <GBSeq_organism>Renibacterium salmoninarum</GBSeq_organism>
+./FJ214355.xml:  <GBSeq_organism>Micrococcus yunnanensis</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>

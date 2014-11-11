@@ -1,0 +1,9 @@
+./FJ842646.xml:  <GBSeq_organism>Nocardioides daedukensis</GBSeq_organism>
+./AM295338.xml:  <GBSeq_organism>Marmoricola aequoreus</GBSeq_organism>
+./FN386723.xml:  <GBSeq_organism>Marmoricola korecus</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./Y18629.xml:  <GBSeq_organism>Marmoricola aurantiacus</GBSeq_organism>
+./FN386750.xml:  <GBSeq_organism>Marmoricola scoriae</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./EF466120.xml:  <GBSeq_organism>Marmoricola bigeumensis</GBSeq_organism>
+./AF005006.xml:  <GBSeq_organism>Nocardioides jensenii</GBSeq_organism>

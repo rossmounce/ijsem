@@ -1,0 +1,15 @@
+./AY253658.xml:  <GBSeq_organism>Lactobacillus gastricus</GBSeq_organism>
+./X61136.xml:  <GBSeq_organism>Lactobacillus vaginalis</GBSeq_organism>
+./AJ292530.xml:  <GBSeq_organism>Lactobacillus coleohominis</GBSeq_organism>
+./AY253659.xml:  <GBSeq_organism>Lactobacillus antri</GBSeq_organism>
+./AJ250074.xml:  <GBSeq_organism>Lactobacillus frumenti</GBSeq_organism>
+./X76329.xml:  <GBSeq_organism>Lactobacillus pontis</GBSeq_organism>
+./X94230.xml:  <GBSeq_organism>Lactobacillus panis</GBSeq_organism>
+./AF126738.xml:  <GBSeq_organism>Lactobacillus mucosae</GBSeq_organism>
+./AM279150.xml:  <GBSeq_organism>Lactobacillus secaliphilus</GBSeq_organism>
+./AF317702.xml:  <GBSeq_organism>Lactobacillus ingluviei</GBSeq_organism>
+./X76328.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./AF333975.xml:  <GBSeq_organism>Lactobacillus ingluviei</GBSeq_organism>
+./M58819.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./X94229.xml:  <GBSeq_organism>Lactobacillus oris</GBSeq_organism>
+./M58830.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>

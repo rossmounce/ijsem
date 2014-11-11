@@ -1,0 +1,23 @@
+./AF206305.xml:  <GBSeq_organism>Leptotrichia trevisanii</GBSeq_organism>
+./M58684.xml:  <GBSeq_organism>Fusobacterium perfoetens</GBSeq_organism>
+./X55413.xml:  <GBSeq_organism>Fusobacterium varium</GBSeq_organism>
+./X55402.xml:  <GBSeq_organism>Fusobacterium nucleatum subsp. polymorphum ATCC 10953</GBSeq_organism>
+./X54275.xml:  <GBSeq_organism>Propionigenium modestum</GBSeq_organism>
+./AJ307980.xml:  <GBSeq_organism>Ilyobacter insuetus</GBSeq_organism>
+./AY592371.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X55408.xml:  <GBSeq_organism>Fusobacterium necrogenes</GBSeq_organism>
+./X90831.xml:  <GBSeq_organism>Leptotrichia buccalis C-1013-b</GBSeq_organism>
+./AJ307981.xml:  <GBSeq_organism>Ilyobacter polytropus DSM 2926</GBSeq_organism>
+./AJ344093.xml:  <GBSeq_organism>Sneathia sanguinegens</GBSeq_organism>
+./X55412.xml:  <GBSeq_organism>Fusobacterium ulcerans</GBSeq_organism>
+./AJ307982.xml:  <GBSeq_organism>Ilyobacter tartaricus</GBSeq_organism>
+./X55409.xml:  <GBSeq_organism>Fusobacterium russii</GBSeq_organism>
+./M58678.xml:  <GBSeq_organism>Sebaldella termitidis ATCC 33386</GBSeq_organism>
+./X78419.xml:  <GBSeq_organism>Cetobacterium ceti</GBSeq_organism>
+./X84049.xml:  <GBSeq_organism>Propionigenium maris</GBSeq_organism>
+./X55414.xml:  <GBSeq_organism>Fusobacterium mortiferum</GBSeq_organism>
+./AY579753.xml:  <GBSeq_organism>Psychrilyobacter atlanticus</GBSeq_organism>
+./AJ575990.xml:  <GBSeq_organism>uncultured Fusobacteria bacterium</GBSeq_organism>
+./X55410.xml:  <GBSeq_organism>Fusobacterium gonidiaformans ATCC 25563</GBSeq_organism>
+./AF550592.xml:  <GBSeq_organism>Fusobacteria bacterium Ko711</GBSeq_organism>
+./AJ441229.xml:  <GBSeq_organism>uncultured Fusobacteria bacterium</GBSeq_organism>

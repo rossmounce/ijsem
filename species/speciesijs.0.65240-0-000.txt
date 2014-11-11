@@ -1,0 +1,14 @@
+./AF420282.xml:  <GBSeq_organism>Desulfosarcina cetonica</GBSeq_organism>
+./DQ826725.xml:  <GBSeq_organism>Desulfatiferula olefinivorans</GBSeq_organism>
+./AJ457136.xml:  <GBSeq_organism>Desulfobacula toluolica Tol2</GBSeq_organism>
+./AY493562.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./AF327301.xml:  <GBSeq_organism>sulfate-reducing bacterium AK-01</GBSeq_organism>
+./AF418197.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>
+./Y15478.xml:  <GBSeq_organism>Desulfobacterium autotrophicum</GBSeq_organism>
+./AF334593.xml:  <GBSeq_organism>Desulfofaba gelida</GBSeq_organism>
+./AH011150.xml:  <GBSeq_organism>Desulfofaba hansenii</GBSeq_organism>
+./AH011150.xml:  <GBSeq_organism>Desulfofaba hansenii</GBSeq_organism>
+./AJ250472.xml:  <GBSeq_organism>Desulfobacter vibrioformis</GBSeq_organism>
+./U58126.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AB061530.xml:  <GBSeq_organism>Desulfomicrobium baculatum DSM 4028</GBSeq_organism>
+./AF191907.xml:  <GBSeq_organism>Desulfosarcina variabilis str. Montpellier</GBSeq_organism>

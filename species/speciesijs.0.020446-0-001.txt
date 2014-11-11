@@ -1,0 +1,22 @@
+./AF503497.xml:  <GBSeq_organism>Streptomyces violaceolatus</GBSeq_organism>
+./AF503491.xml:  <GBSeq_organism>Streptomyces humiferus</GBSeq_organism>
+./AJ494865.xml:  <GBSeq_organism>Streptomyces albogriseolus</GBSeq_organism>
+./AJ781353.xml:  <GBSeq_organism>Streptomyces lienomycini</GBSeq_organism>
+./AF503496.xml:  <GBSeq_organism>Streptomyces coelescens</GBSeq_organism>
+./AB184578.xml:  <GBSeq_organism>Streptomyces spinoverrucosus</GBSeq_organism>
+./AB184631.xml:  <GBSeq_organism>Streptomyces anthocyanicus</GBSeq_organism>
+./AB184842.xml:  <GBSeq_organism>Streptomyces flavoviridis</GBSeq_organism>
+./AB184687.xml:  <GBSeq_organism>Streptomyces tricolor</GBSeq_organism>
+./AB184398.xml:  <GBSeq_organism>Streptomyces pactum</GBSeq_organism>
+./AJ965470.xml:  <GBSeq_organism>Streptomyces marokkonensis</GBSeq_organism>
+./AJ781374.xml:  <GBSeq_organism>Streptomyces violaceorubidus</GBSeq_organism>
+./AY999819.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./FM998652.xml:  <GBSeq_organism>Streptomyces hyderabadensis</GBSeq_organism>
+./AB184673.xml:  <GBSeq_organism>Streptomyces lomondensis</GBSeq_organism>
+./AB184161.xml:  <GBSeq_organism>Streptomyces pilosus</GBSeq_organism>
+./AY999902.xml:  <GBSeq_organism>Streptomyces asterosporus</GBSeq_organism>
+./AJ781373.xml:  <GBSeq_organism>Streptomyces rubrogriseus</GBSeq_organism>
+./AY999773.xml:  <GBSeq_organism>Streptomyces aurantiogriseus</GBSeq_organism>
+./D63873.xml:  <GBSeq_organism>Streptomyces tendae</GBSeq_organism>
+./AY999780.xml:  <GBSeq_organism>Streptomyces calvus</GBSeq_organism>
+./AB184379.xml:  <GBSeq_organism>Streptomyces luteogriseus</GBSeq_organism>

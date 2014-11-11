@@ -1,0 +1,24 @@
+./GU459067.xml:  <GBSeq_organism>Pisciglobus halotolerans</GBSeq_organism>
+./AF450136.xml:  <GBSeq_organism>Carnobacterium pleistocenium FTR1</GBSeq_organism>
+./Y18098.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./AF425608.xml:  <GBSeq_organism>Carnobacterium viridans</GBSeq_organism>
+./Y14650.xml:  <GBSeq_organism>Desemzia incerta</GBSeq_organism>
+./M58816.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./Y16546.xml:  <GBSeq_organism>Atopobacter phocae</GBSeq_organism>
+./D88824.xml:  <GBSeq_organism>Tetragenococcus muriaticus</GBSeq_organism>
+./Y18357.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./AF394926.xml:  <GBSeq_organism>Trichococcus patagoniensis</GBSeq_organism>
+./AJ302648.xml:  <GBSeq_organism>Isobaculum melis</GBSeq_organism>
+./AM039968.xml:  <GBSeq_organism>Enterococcus termitis</GBSeq_organism>
+./X87150.xml:  <GBSeq_organism>Trichococcus pasteurii</GBSeq_organism>
+./AB083406.xml:  <GBSeq_organism>Marinilactibacillus psychrotolerans</GBSeq_organism>
+./AJ243326.xml:  <GBSeq_organism>Vagococcus fessus</GBSeq_organism>
+./X75751.xml:  <GBSeq_organism>Melissococcus plutonius ATCC 35311</GBSeq_organism>
+./D88668.xml:  <GBSeq_organism>Tetragenococcus halophilus subsp. halophilus</GBSeq_organism>
+./Z73313.xml:  <GBSeq_organism>Carnobacterium inhibens</GBSeq_organism>
+./Y17152.xml:  <GBSeq_organism>Vagococcus lutrae</GBSeq_organism>
+./AF184247.xml:  <GBSeq_organism>Carnobacterium maltaromaticum</GBSeq_organism>
+./AB083414.xml:  <GBSeq_organism>Carnobacterium mobile</GBSeq_organism>
+./AF445297.xml:  <GBSeq_organism>Vagococcus elongatus</GBSeq_organism>
+./Y18293.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./Y18097.xml:  <GBSeq_organism>Vagococcus salmoninarum</GBSeq_organism>

@@ -1,0 +1,17 @@
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./X67228.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AF041442.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./Z30542.xml:  <GBSeq_organism>Agrobacterium larrymoorei</GBSeq_organism>
+./AF508209.xml:  <GBSeq_organism>Agrobacterium sp. SDW052</GBSeq_organism>
+./X67223.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./X67225.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./D12793.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./D12797.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./AF041447.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>

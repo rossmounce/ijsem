@@ -1,0 +1,10 @@
+./U57340.xml:  <GBSeq_organism>Methanopyrus kandleri</GBSeq_organism>
+./AY260441.xml:  <GBSeq_organism>Methanocorpusculum labreanum</GBSeq_organism>
+./J03375.xml:  <GBSeq_organism>Methanothermus fervidus</GBSeq_organism>
+./AB551869.xml:  <GBSeq_organism>Methanobacterium kanagiense</GBSeq_organism>
+./EF465108.xml:  <GBSeq_organism>Methanobacterium formicicum</GBSeq_organism>
+./Y00158.xml:  <GBSeq_organism>Methanosarcina barkeri</GBSeq_organism>
+./X07793.xml:  <GBSeq_organism>Methanococcus voltae PS</GBSeq_organism>
+./AB542754.xml:  <GBSeq_organism>Methanobacterium subterraneum</GBSeq_organism>
+./AF313806.xml:  <GBSeq_organism>Methanobacterium bryantii</GBSeq_organism>
+./AF313804.xml:  <GBSeq_organism>Methanoculleus thermophilus</GBSeq_organism>

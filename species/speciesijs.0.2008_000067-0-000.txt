@@ -1,0 +1,10 @@
+./AJ846291.xml:  <GBSeq_organism>Exiguobacterium indicum</GBSeq_organism>
+./AJ297437.xml:  <GBSeq_organism>Exiguobacterium antarcticum</GBSeq_organism>
+./AJ583158.xml:  <GBSeq_organism>Bacillus indicus</GBSeq_organism>
+./AM072764.xml:  <GBSeq_organism>Exiguobacterium mexicanum</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X70313.xml:  <GBSeq_organism>Exiguobacterium acetylicum</GBSeq_organism>
+./AY594266.xml:  <GBSeq_organism>Exiguobacterium marinum</GBSeq_organism>
+./AY864633.xml:  <GBSeq_organism>Exiguobacterium soli</GBSeq_organism>
+./AB105164.xml:  <GBSeq_organism>Exiguobacterium oxidotolerans</GBSeq_organism>
+./AY594264.xml:  <GBSeq_organism>Exiguobacterium aestuarii</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AJ606037.xml:  <GBSeq_organism>Bacillus alkalisediminis</GBSeq_organism>
+./AY376312.xml:  <GBSeq_organism>Bacillus bogoriensis</GBSeq_organism>
+./X60603.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AB434284.xml:  <GBSeq_organism>Bacillus trypoxylicola</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./AY032601.xml:  <GBSeq_organism>Anaerobacillus macyae</GBSeq_organism>
+./AY228462.xml:  <GBSeq_organism>Bacillus algicola</GBSeq_organism>
+./AF541966.xml:  <GBSeq_organism>Bacillus hwajinpoensis</GBSeq_organism>
+./EU143680.xml:  <GBSeq_organism>Anaerobacillus alkalidiazotrophicus</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./AM051268.xml:  <GBSeq_organism>Bacillus sp. H3-93</GBSeq_organism>

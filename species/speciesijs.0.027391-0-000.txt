@@ -1,0 +1,18 @@
+./EF418604.xml:  <GBSeq_organism>Nocardia rhamnosiphila</GBSeq_organism>
+./AM422449.xml:  <GBSeq_organism>Nocardia speluncae</GBSeq_organism>
+./Z36927.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AY639902.xml:  <GBSeq_organism>Nocardia jiangxiensis</GBSeq_organism>
+./FJ805428.xml:  <GBSeq_organism>Nocardia callitridis</GBSeq_organism>
+./AB192415.xml:  <GBSeq_organism>Nocardia testacea</GBSeq_organism>
+./EU484388.xml:  <GBSeq_organism>Nocardia mikamii NBRC 108933</GBSeq_organism>
+./AY779043.xml:  <GBSeq_organism>Nocardia lijiangensis</GBSeq_organism>
+./AJ252827.xml:  <GBSeq_organism>Pseudonocardia halophobica</GBSeq_organism>
+./DQ462650.xml:  <GBSeq_organism>Nocardia jinanensis</GBSeq_organism>
+./Z36930.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AY639901.xml:  <GBSeq_organism>Nocardia miyunensis</GBSeq_organism>
+./AB108780.xml:  <GBSeq_organism>Nocardia pneumoniae</GBSeq_organism>
+./AB275164.xml:  <GBSeq_organism>Nocardia amamiensis</GBSeq_organism>
+./AB187522.xml:  <GBSeq_organism>Nocardia exalbida</GBSeq_organism>
+./FJ765056.xml:  <GBSeq_organism>Nocardia niwae NBRC 108934 = DSM 45340</GBSeq_organism>
+./AB126873.xml:  <GBSeq_organism>Nocardia vermiculata</GBSeq_organism>
+./HM153801.xml:  <GBSeq_organism>Nocardia endophytica</GBSeq_organism>

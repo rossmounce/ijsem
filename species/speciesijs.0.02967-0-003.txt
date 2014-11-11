@@ -1,0 +1,17 @@
+./AJ438302.xml:  <GBSeq_organism>Paenibacillus cookii</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AY030079.xml:  <GBSeq_organism>Paenibacillus larvae subsp. larvae</GBSeq_organism>
+./AJ250819.xml:  <GBSeq_organism>Sugarcane phytoplasma type B</GBSeq_organism>
+./D78473.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./D85396.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./D78317.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./AJ575659.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF378698.xml:  <GBSeq_organism>Paenibacillus turicensis</GBSeq_organism>
+./D85397.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./X57306.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AJ250317.xml:  <GBSeq_organism>Paenibacillus cookii</GBSeq_organism>

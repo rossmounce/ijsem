@@ -1,0 +1,7 @@
+./U40124.xml:  <GBSeq_organism>Neurospora crassa</GBSeq_organism>
+./U44822.xml:  <GBSeq_organism>Metschnikowia bicuspidata</GBSeq_organism>
+./U40085.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./AF350243.xml:  <GBSeq_organism>Macrorhabdus ornithogaster</GBSeq_organism>
+./U40138.xml:  <GBSeq_organism>Trichomonascus ciferrii</GBSeq_organism>
+./U45824.xml:  <GBSeq_organism>Lipomyces starkeyi</GBSeq_organism>
+./U40081.xml:  <GBSeq_organism>Dipodascus albidus</GBSeq_organism>

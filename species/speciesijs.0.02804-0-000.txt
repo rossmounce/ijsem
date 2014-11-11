@@ -1,0 +1,15 @@
+./AY257974.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./X70643.xml:  <GBSeq_organism>Aliivibrio salmonicida</GBSeq_organism>
+./D25310.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AY257971.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./AJ310647.xml:  <GBSeq_organism>Vibrio agarivorans</GBSeq_organism>
+./AY257973.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./AJ437616.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./D25307.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./X74686.xml:  <GBSeq_organism>Photobacterium leiognathi subsp. leiognathi</GBSeq_organism>
+./AJ421444.xml:  <GBSeq_organism>Vibrio penaeicida</GBSeq_organism>
+./AJ132227.xml:  <GBSeq_organism>Aliivibrio wodanis</GBSeq_organism>
+./AY257972.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./AF519806.xml:  <GBSeq_organism>Vibrio superstes</GBSeq_organism>
+./AY257975.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

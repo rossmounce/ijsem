@@ -1,0 +1,28 @@
+./CP000758.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./AF003375.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./AY341343.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./DQ855276.xml:  <GBSeq_organism>Rhizobium cellulosilyticum</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./AF506513.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./AF364067.xml:  <GBSeq_organism>Sinorhizobium kummerowiae</GBSeq_organism>
+./X67228.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./Y10170.xml:  <GBSeq_organism>Rhizobium sullae</GBSeq_organism>
+./D11343.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ389904.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./AY738130.xml:  <GBSeq_organism>Rhizobium lusitanum</GBSeq_organism>
+./U89823.xml:  <GBSeq_organism>Rhizobium sp. USDA 1920</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67225.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./AM931436.xml:  <GBSeq_organism>Rhizobium alamii</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AY945955.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./X67231.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AF364069.xml:  <GBSeq_organism>Rhizobium loessense</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./AF364068.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./AF239242.xml:  <GBSeq_organism>Rhizobium sp. YAS34</GBSeq_organism>
+./U71078.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>
+./AM181748.xml:  <GBSeq_organism>Sinorhizobium kostiense</GBSeq_organism>

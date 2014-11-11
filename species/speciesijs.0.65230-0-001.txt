@@ -1,0 +1,30 @@
+./AY257057.xml:  <GBSeq_organism>Starmerella cf. bombicola UWOPS 00-531</GBSeq_organism>
+./AF313349.xml:  <GBSeq_organism>Candida cf. floricola UWO(PS)95-408.3</GBSeq_organism>
+./AJ310447.xml:  <GBSeq_organism>Candida davenportii</GBSeq_organism>
+./AF313353.xml:  <GBSeq_organism>Candida cf. etchellsii UWO(PS)00-226.2</GBSeq_organism>
+./U45705.xml:  <GBSeq_organism>Starmerella bombicola</GBSeq_organism>
+./AF313352.xml:  <GBSeq_organism>Candida cf. etchellsii UWO(PS)00-102.2</GBSeq_organism>
+./U45722.xml:  <GBSeq_organism>Candida magnoliae</GBSeq_organism>
+./AY861673.xml:  <GBSeq_organism>Candida cellae</GBSeq_organism>
+./U45710.xml:  <GBSeq_organism>Candida floricola</GBSeq_organism>
+./U45703.xml:  <GBSeq_organism>Candida apicola</GBSeq_organism>
+./AY257050.xml:  <GBSeq_organism>Candida cf. etchellsii UWO01-191.1</GBSeq_organism>
+./AY257049.xml:  <GBSeq_organism>Candida cf. etchellsii UFMG Jat-92.1</GBSeq_organism>
+./AF313360.xml:  <GBSeq_organism>Candida cf. bombi UWOPS 95-821.4</GBSeq_organism>
+./U45730.xml:  <GBSeq_organism>Candida stellata</GBSeq_organism>
+./AY228492.xml:  <GBSeq_organism>Candida ratchasimensis</GBSeq_organism>
+./AY574388.xml:  <GBSeq_organism>Candida sp. CBS 8413</GBSeq_organism>
+./AY257058.xml:  <GBSeq_organism>Candida cf. lactis-condensi UWO92-309.3</GBSeq_organism>
+./AF251554.xml:  <GBSeq_organism>Candida powellii</GBSeq_organism>
+./AF072843.xml:  <GBSeq_organism>Candida batistae</GBSeq_organism>
+./U45724.xml:  <GBSeq_organism>Candida lactis-condensi</GBSeq_organism>
+./AY257059.xml:  <GBSeq_organism>Candida cf. lactis-condensi UWO00-426.2</GBSeq_organism>
+./AY574387.xml:  <GBSeq_organism>Candida sp. CBS 4353</GBSeq_organism>
+./AY160761.xml:  <GBSeq_organism>Starmerella bacillaris</GBSeq_organism>
+./U45706.xml:  <GBSeq_organism>Candida bombi</GBSeq_organism>
+./AF313355.xml:  <GBSeq_organism>Candida cf. powellii UWO(PS)00-195.2</GBSeq_organism>
+./AF313357.xml:  <GBSeq_organism>Candida cf. bombi UWOPS 00-107.2</GBSeq_organism>
+./AF313354.xml:  <GBSeq_organism>Starmerella meliponinorum</GBSeq_organism>
+./AY861674.xml:  <GBSeq_organism>Candida riodocensis</GBSeq_organism>
+./DQ400367.xml:  <GBSeq_organism>Candida khaoyaiensis</GBSeq_organism>
+./U45723.xml:  <GBSeq_organism>Candida etchellsii</GBSeq_organism>

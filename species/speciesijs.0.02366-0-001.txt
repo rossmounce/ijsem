@@ -1,0 +1,9 @@
+./AB006760.xml:  <GBSeq_organism>Oceanospirillum beijerinckii subsp. beijerinckii</GBSeq_organism>
+./AF195410.xml:  <GBSeq_organism>Hahella chejuensis KCTC 2396</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AJ295154.xml:  <GBSeq_organism>Oleiphilus messinensis</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AB006771.xml:  <GBSeq_organism>Oceanospirillum maris subsp. maris</GBSeq_organism>
+./U12624.xml:  <GBSeq_organism>Cycloclasticus pugetii PS-1</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

@@ -1,0 +1,16 @@
+./U48244.xml:  <GBSeq_organism>Desulfohalobium retbaense DSM 5692</GBSeq_organism>
+./Y18049.xml:  <GBSeq_organism>Desulfovibrio zosterae</GBSeq_organism>
+./AJ548465.xml:  <GBSeq_organism>Desulfovibrio sp. LVform6</GBSeq_organism>
+./U90726.xml:  <GBSeq_organism>Desulfovibrio profundus</GBSeq_organism>
+./AY176773.xml:  <GBSeq_organism>Desulfovibrio capillatus</GBSeq_organism>
+./X95231.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X95230.xml:  <GBSeq_organism>Desulfovibrio aespoeensis Aspo-2</GBSeq_organism>
+./AY359867.xml:  <GBSeq_organism>Desulfovibrio longus</GBSeq_organism>
+./U53464.xml:  <GBSeq_organism>Desulfovibrio gracilis</GBSeq_organism>
+./U31080.xml:  <GBSeq_organism>Desulfovibrio gabonensis</GBSeq_organism>
+./U33316.xml:  <GBSeq_organism>Desulfovibrio oxyclinae</GBSeq_organism>
+./AF418170.xml:  <GBSeq_organism>Desulfovibrio giganteus</GBSeq_organism>
+./M34401.xml:  <GBSeq_organism>Desulfovibrio salexigens</GBSeq_organism>
+./AF458778.xml:  <GBSeq_organism>Desulfovibrio hydrothermalis AM13 = DSM 14728</GBSeq_organism>
+./AY359868.xml:  <GBSeq_organism>Desulfovibrio bastinii</GBSeq_organism>
+./X99237.xml:  <GBSeq_organism>Desulfovibrio halophilus</GBSeq_organism>

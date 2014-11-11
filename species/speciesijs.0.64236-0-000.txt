@@ -1,0 +1,5 @@
+./Y17229.xml:  <GBSeq_organism>Microbacterium aurum</GBSeq_organism>
+./Y17237.xml:  <GBSeq_organism>Microbacterium schleiferi</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./AB234026.xml:  <GBSeq_organism>Microbacterium deminutum</GBSeq_organism>
+./AY962574.xml:  <GBSeq_organism>Microbacterium koreense</GBSeq_organism>

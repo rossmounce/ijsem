@@ -1,0 +1,8 @@
+./AF161069.xml:  <GBSeq_organism>Thermanaerovibrio velox</GBSeq_organism>
+./EF436500.xml:  <GBSeq_organism>Jonquetella anthropi DSM 22815</GBSeq_organism>
+./AY642589.xml:  <GBSeq_organism>Aminiphilus circumscriptus</GBSeq_organism>
+./AF069287.xml:  <GBSeq_organism>Aminobacterium colombiense DSM 12261</GBSeq_organism>
+./AF073521.xml:  <GBSeq_organism>Aminobacterium mobile</GBSeq_organism>
+./AF071414.xml:  <GBSeq_organism>Thermanaerovibrio acidaminovorans DSM 6589</GBSeq_organism>
+./AJ243189.xml:  <GBSeq_organism>Anaerobaculum mobile DSM 13181</GBSeq_organism>
+./L08066.xml:  <GBSeq_organism>Synergistes jonesii</GBSeq_organism>

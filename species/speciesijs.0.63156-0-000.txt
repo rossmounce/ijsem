@@ -1,0 +1,32 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./Y11316.xml:  <GBSeq_organism>Thiorhodococcus minor</GBSeq_organism>
+./AB006766.xml:  <GBSeq_organism>Pseudospirillum japonicum</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AB006767.xml:  <GBSeq_organism>Oceanobacter kriegii</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AJ420326.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./Z76667.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AJ001150.xml:  <GBSeq_organism>Alcanivorax jadensis T9</GBSeq_organism>
+./AB006769.xml:  <GBSeq_organism>Marinospirillum minutulum</GBSeq_organism>
+./AY520560.xml:  <GBSeq_organism>Kangiella koreensis DSM 16069</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AY520561.xml:  <GBSeq_organism>Kangiella aquimarina</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./M35015.xml:  <GBSeq_organism>Suttonella indologenes</GBSeq_organism>
+./M35014.xml:  <GBSeq_organism>Cardiobacterium hominis</GBSeq_organism>
+./X92417.xml:  <GBSeq_organism>Halomonas desiderata</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./X72767.xml:  <GBSeq_organism>Methylomicrobium agile</GBSeq_organism>
+./AJ000726.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus VT8</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./Z76651.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./D84013.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./X72770.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

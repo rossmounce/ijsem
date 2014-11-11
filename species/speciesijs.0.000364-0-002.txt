@@ -1,0 +1,29 @@
+./U81658.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF436500.xml:  <GBSeq_organism>Jonquetella anthropi DSM 22815</GBSeq_organism>
+./EU462629.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ071273.xml:  <GBSeq_organism>Thermovirga lienii DSM 17291</GBSeq_organism>
+./EF468688.xml:  <GBSeq_organism>bacterium ADV746</GBSeq_organism>
+./AF371930.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY005447.xml:  <GBSeq_organism>Flexistipes-like sp. oral clone BH007</GBSeq_organism>
+./U52817.xml:  <GBSeq_organism>Dethiosulfovibrio peptidovorans DSM 11002</GBSeq_organism>
+./U50711.xml:  <GBSeq_organism>Anaerobaculum thermoterrenum</GBSeq_organism>
+./DQ308572.xml:  <GBSeq_organism>uncultured Synergistes sp.</GBSeq_organism>
+./EU463081.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF481216.xml:  <GBSeq_organism>Flexistipes sp. E3_33</GBSeq_organism>
+./AF481215.xml:  <GBSeq_organism>Firmicutes oral clone MCE3_120</GBSeq_organism>
+./AF069287.xml:  <GBSeq_organism>Aminobacterium colombiense DSM 12261</GBSeq_organism>
+./AY005445.xml:  <GBSeq_organism>Flexistipes-like sp. oral clone BB062</GBSeq_organism>
+./AF071414.xml:  <GBSeq_organism>Thermanaerovibrio acidaminovorans DSM 6589</GBSeq_organism>
+./EF468686.xml:  <GBSeq_organism>bacterium ADV244</GBSeq_organism>
+./DQ412722.xml:  <GBSeq_organism>Synergistes sp. RMA 14551</GBSeq_organism>
+./AF234543.xml:  <GBSeq_organism>Dethiosulfovibrio russensis</GBSeq_organism>
+./AF125200.xml:  <GBSeq_organism>uncultured bacterium D084</GBSeq_organism>
+./EU309492.xml:  <GBSeq_organism>Pyramidobacter piscolens W5455</GBSeq_organism>
+./AF125202.xml:  <GBSeq_organism>uncultured bacterium W028</GBSeq_organism>
+./EU382030.xml:  <GBSeq_organism>uncultured rumen bacterium</GBSeq_organism>
+./AY005444.xml:  <GBSeq_organism>Flexistipes-like sp. oral clone BA121</GBSeq_organism>
+./AJ243189.xml:  <GBSeq_organism>Anaerobaculum mobile DSM 13181</GBSeq_organism>
+./AF481214.xml:  <GBSeq_organism>Firmicutes oral clone MCE7_5</GBSeq_organism>
+./L08066.xml:  <GBSeq_organism>Synergistes jonesii</GBSeq_organism>
+./EU344711.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF468687.xml:  <GBSeq_organism>bacterium ADV403</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AF227984.xml:  <GBSeq_organism>Desulfovibrio mexicanus</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./Y17764.xml:  <GBSeq_organism>Desulfovibrio sulfodismutans</GBSeq_organism>
+./AF373920.xml:  <GBSeq_organism>Desulfonatronum thiodismutans</GBSeq_organism>
+./AJ251628.xml:  <GBSeq_organism>Desulfomicrobium orale</GBSeq_organism>
+./Y14594.xml:  <GBSeq_organism>Desulfonatronum lacustre DSM 10312</GBSeq_organism>
+./AJ277894.xml:  <GBSeq_organism>Desulfomicrobium baculatum DSM 4028</GBSeq_organism>
+./AF097024.xml:  <GBSeq_organism>Desulfotomaculum alkaliphilum</GBSeq_organism>
+./AJ277886.xml:  <GBSeq_organism>Desulfomicrobium escambiense</GBSeq_organism>
+./X99234.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>

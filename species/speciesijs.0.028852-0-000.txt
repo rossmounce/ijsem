@@ -1,0 +1,14 @@
+./AB050106.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AB125062.xml:  <GBSeq_organism>Owenweeksia hongkongensis</GBSeq_organism>
+./AY533665.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>
+./CP000383.xml:  <GBSeq_organism>Cytophaga hutchinsonii ATCC 33406</GBSeq_organism>
+./EF090267.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./U41350.xml:  <GBSeq_organism>Capnocytophaga ochracea DSM 7271</GBSeq_organism>
+./FJ424814.xml:  <GBSeq_organism>Wandonia haliotis NBRC 105642</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M58795.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./AF493694.xml:  <GBSeq_organism>Fluviicola taffensis DSM 16823</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./HO172900.xml:  <GBSeq_organism>Dactylis glomerata</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>

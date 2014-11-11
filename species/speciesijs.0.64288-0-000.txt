@@ -1,0 +1,16 @@
+./AY050172.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. delbrueckii</GBSeq_organism>
+./AB022922.xml:  <GBSeq_organism>Weissella kandleri</GBSeq_organism>
+./M58837.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./AJ831548.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./AJ318414.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./M58802.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AF173986.xml:  <GBSeq_organism>Leuconostoc kimchii</GBSeq_organism>
+./AB054808.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./X61135.xml:  <GBSeq_organism>Lactobacillus casei subsp. casei ATCC 393</GBSeq_organism>
+./AB022924.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./M58819.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AJ305321.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./AF049745.xml:  <GBSeq_organism>Lactobacillus selangorensis</GBSeq_organism>
+./AB023238.xml:  <GBSeq_organism>Weissella paramesenteroides</GBSeq_organism>
+./AJ295989.xml:  <GBSeq_organism>Weissella cibaria</GBSeq_organism>

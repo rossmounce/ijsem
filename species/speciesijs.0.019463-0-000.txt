@@ -1,0 +1,9 @@
+./AB477980.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./EU887286.xml:  <GBSeq_organism>Halogeometricum rufum</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./AY838278.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./EF028067.xml:  <GBSeq_organism>Halorubrum litoreum</GBSeq_organism>
+./AB477975.xml:  <GBSeq_organism>Haloplanus natans</GBSeq_organism>
+./GO443609.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>

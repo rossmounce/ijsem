@@ -1,0 +1,13 @@
+./X03905.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AJ294365.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./X76336.xml:  <GBSeq_organism>Vibrio furnissii</GBSeq_organism>
+./D85836.xml:  <GBSeq_organism>Roseibium hamelinense</GBSeq_organism>
+./AF465833.xml:  <GBSeq_organism>Albidovulum inexpectatum</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./D85832.xml:  <GBSeq_organism>Roseibium denhamense</GBSeq_organism>
+./AF513441.xml:  <GBSeq_organism>Nesiotobacter exalbescens</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>

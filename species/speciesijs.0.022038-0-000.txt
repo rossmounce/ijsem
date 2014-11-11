@@ -1,0 +1,39 @@
+./U45783.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./AB438205.xml:  <GBSeq_organism>Candida laemsonensis</GBSeq_organism>
+./U45784.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./U45789.xml:  <GBSeq_organism>Candida conglobata</GBSeq_organism>
+./GO176145.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./U74589.xml:  <GBSeq_organism>Pichia bispora</GBSeq_organism>
+./U45788.xml:  <GBSeq_organism>Yamadazyma scolyti</GBSeq_organism>
+./AB428757.xml:  <GBSeq_organism>Candida kanchanaburiensis</GBSeq_organism>
+./U75424.xml:  <GBSeq_organism>Starmera amethionina var. amethionina</GBSeq_organism>
+./U45790.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./DQ234791.xml:  <GBSeq_organism>Candida sp. XH1164</GBSeq_organism>
+./AY520387.xml:  <GBSeq_organism>Candida sp. BG02-7-17-001A-1-1</GBSeq_organism>
+./U40085.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./U75422.xml:  <GBSeq_organism>Pichia dryadoides</GBSeq_organism>
+./U62298.xml:  <GBSeq_organism>Candida berthetii</GBSeq_organism>
+./U45751.xml:  <GBSeq_organism>Candida dendronema</GBSeq_organism>
+./U45791.xml:  <GBSeq_organism>Candida insectorum</GBSeq_organism>
+./U75426.xml:  <GBSeq_organism>Starmera caribaea</GBSeq_organism>
+./U45774.xml:  <GBSeq_organism>Candida tenuis</GBSeq_organism>
+./U45766.xml:  <GBSeq_organism>Yamadazyma akitaensis</GBSeq_organism>
+./U45759.xml:  <GBSeq_organism>Candida naeodendra</GBSeq_organism>
+./U75416.xml:  <GBSeq_organism>Pichia quercuum</GBSeq_organism>
+./AB524343.xml:  <GBSeq_organism>Candida sp. PR2-3</GBSeq_organism>
+./U45727.xml:  <GBSeq_organism>Candida rugosa</GBSeq_organism>
+./AB291672.xml:  <GBSeq_organism>Ambrosiozyma kashinagacola</GBSeq_organism>
+./AB438206.xml:  <GBSeq_organism>Candida laemsonensis</GBSeq_organism>
+./U45802.xml:  <GBSeq_organism>Candida aaseri</GBSeq_organism>
+./AB191049.xml:  <GBSeq_organism>Pichia nongkratonensis</GBSeq_organism>
+./U45750.xml:  <GBSeq_organism>Candida diddensiae</GBSeq_organism>
+./AB334212.xml:  <GBSeq_organism>Candida ranongensis</GBSeq_organism>
+./U75958.xml:  <GBSeq_organism>Cyberlindnera saturnus</GBSeq_organism>
+./U45797.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./U45780.xml:  <GBSeq_organism>Candida aaseri</GBSeq_organism>
+./AB438222.xml:  <GBSeq_organism>Candida sp. RS16</GBSeq_organism>
+./U75425.xml:  <GBSeq_organism>Starmera amethionina var. pachycereana</GBSeq_organism>
+./AB291674.xml:  <GBSeq_organism>Ambrosiozyma vanderkliftii</GBSeq_organism>
+./AB334210.xml:  <GBSeq_organism>Candida andamanensis</GBSeq_organism>
+./AY520297.xml:  <GBSeq_organism>Candida sp. BG02-7-21-004Q-1-2</GBSeq_organism>
+./AY520415.xml:  <GBSeq_organism>Candida jeffriesii</GBSeq_organism>

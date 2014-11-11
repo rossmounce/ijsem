@@ -1,0 +1,22 @@
+./AB438183.xml:  <GBSeq_organism>Gordonia desulfuricans</GBSeq_organism>
+./AB438191.xml:  <GBSeq_organism>Gordonia paraffinivorans</GBSeq_organism>
+./AB438189.xml:  <GBSeq_organism>Gordonia namibiensis NBRC 108229</GBSeq_organism>
+./AB438193.xml:  <GBSeq_organism>Gordonia rhizosphera NBRC 16068</GBSeq_organism>
+./AB438187.xml:  <GBSeq_organism>Gordonia jacobaea</GBSeq_organism>
+./AB438188.xml:  <GBSeq_organism>Gordonia araii NBRC 100433</GBSeq_organism>
+./AB438200.xml:  <GBSeq_organism>Gordonia soli</GBSeq_organism>
+./AB438198.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./AB438194.xml:  <GBSeq_organism>Gordonia rubripertincta</GBSeq_organism>
+./AB438186.xml:  <GBSeq_organism>Gordonia hydrophobica</GBSeq_organism>
+./EF608480.xml:  <GBSeq_organism>Gordonia lacunae</GBSeq_organism>
+./AB438196.xml:  <GBSeq_organism>Gordonia sinesedis</GBSeq_organism>
+./AB438185.xml:  <GBSeq_organism>Gordonia hirsuta DSM 44140 = NBRC 16056</GBSeq_organism>
+./AB438180.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./EU483254.xml:  <GBSeq_organism>Gordonia effusa</GBSeq_organism>
+./AB438190.xml:  <GBSeq_organism>Gordonia otitidis NBRC 100426</GBSeq_organism>
+./AB438199.xml:  <GBSeq_organism>Gordonia westfalica</GBSeq_organism>
+./AB438195.xml:  <GBSeq_organism>Gordonia sihwensis</GBSeq_organism>
+./AB438197.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>
+./AY972059.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AB438192.xml:  <GBSeq_organism>Gordonia polyisoprenivorans</GBSeq_organism>
+./AB438178.xml:  <GBSeq_organism>Gordonia aichiensis</GBSeq_organism>

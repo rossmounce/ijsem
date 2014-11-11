@@ -1,0 +1,24 @@
+./M93354.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./AJ243447.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./Y13299.xml:  <GBSeq_organism>Carnimonas nigrificans</GBSeq_organism>
+./D14555.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./L04942.xml:  <GBSeq_organism>Halomonas halodenitrificans</GBSeq_organism>
+./AY382579.xml:  <GBSeq_organism>Halomonas koreensis</GBSeq_organism>
+./AJ616910.xml:  <GBSeq_organism>Halomonas organivorans</GBSeq_organism>
+./AY035894.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./AJ306889.xml:  <GBSeq_organism>Halomonas halmophila</GBSeq_organism>
+./AJ515365.xml:  <GBSeq_organism>Halomonas campaniensis</GBSeq_organism>
+./DQ421808.xml:  <GBSeq_organism>Halomonas gudaonensis</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./X92417.xml:  <GBSeq_organism>Halomonas desiderata</GBSeq_organism>
+./M93353.xml:  <GBSeq_organism>Halomonas halophila</GBSeq_organism>
+./AY858696.xml:  <GBSeq_organism>Halomonas almeriensis</GBSeq_organism>
+./AJ271864.xml:  <GBSeq_organism>Halomonas maura</GBSeq_organism>
+./EF613111.xml:  <GBSeq_organism>Halomonas cerina</GBSeq_organism>
+./L42616.xml:  <GBSeq_organism>Halomonas pacifica</GBSeq_organism>
+./EF613112.xml:  <GBSeq_organism>Halomonas cerina</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AM229317.xml:  <GBSeq_organism>Halomonas denitrificans</GBSeq_organism>
+./EF613110.xml:  <GBSeq_organism>Halomonas cerina</GBSeq_organism>
+./AF054286.xml:  <GBSeq_organism>Halomonas campisalis</GBSeq_organism>
+./AF211860.xml:  <GBSeq_organism>Halomonas alimentaria</GBSeq_organism>

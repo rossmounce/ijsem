@@ -1,0 +1,6 @@
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./AF071880.xml:  <GBSeq_organism>Halorhabdus utahensis DSM 12940</GBSeq_organism>
+./AF435112.xml:  <GBSeq_organism>Halalkalicoccus tibetensis</GBSeq_organism>
+./EF645688.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./DQ344973.xml:  <GBSeq_organism>Haladaptatus paucihalophilus DX253</GBSeq_organism>

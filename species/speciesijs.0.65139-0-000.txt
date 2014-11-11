@@ -1,0 +1,21 @@
+./L20842.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./DQ400508.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./AB006764.xml:  <GBSeq_organism>Oceanospirillum multiglobuliferum</GBSeq_organism>
+./AF384373.xml:  <GBSeq_organism>Methylophaga alcalica</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./AY128533.xml:  <GBSeq_organism>Methylophaga natronica</GBSeq_organism>
+./AF304197.xml:  <GBSeq_organism>Methylobacter marinus</GBSeq_organism>
+./AF096091.xml:  <GBSeq_organism>Methylomicrobium alcaliphilum</GBSeq_organism>
+./X95461.xml:  <GBSeq_organism>Methylophaga sulfidovorans</GBSeq_organism>
+./X87338.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./X72773.xml:  <GBSeq_organism>Methylobacter whittenburyi</GBSeq_organism>
+./AF150806.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./AJ131369.xml:  <GBSeq_organism>Methylomonas scandinavica</GBSeq_organism>
+./X72777.xml:  <GBSeq_organism>Methylomicrobium album BG8</GBSeq_organism>
+./AY694421.xml:  <GBSeq_organism>Methylophaga muralis</GBSeq_organism>
+./AY513502.xml:  <GBSeq_organism>Escherichia coli O157:H7</GBSeq_organism>
+./DQ463161.xml:  <GBSeq_organism>Methylophaga aminisulfidivorans MP</GBSeq_organism>
+./U89297.xml:  <GBSeq_organism>Methylocaldum tepidum</GBSeq_organism>
+./X87339.xml:  <GBSeq_organism>Methylophaga thalassica</GBSeq_organism>
+./DQ400507.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./X72775.xml:  <GBSeq_organism>Methylomicrobium pelagicum</GBSeq_organism>

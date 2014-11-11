@@ -1,0 +1,10 @@
+./AY323522.xml:  <GBSeq_organism>Prevotella oralis ATCC 33269</GBSeq_organism>
+./AB244774.xml:  <GBSeq_organism>Prevotella stercorea DSM 18206</GBSeq_organism>
+./AJ005635.xml:  <GBSeq_organism>Prevotella enoeca</GBSeq_organism>
+./FJ825150.xml:  <GBSeq_organism>Prevotella saccharolytica</GBSeq_organism>
+./FJ825149.xml:  <GBSeq_organism>Prevotella saccharolytica</GBSeq_organism>
+./AF481227.xml:  <GBSeq_organism>Prevotella marshii DSM 16973 = JCM 13450</GBSeq_organism>
+./AY836508.xml:  <GBSeq_organism>Prevotella loescheii</GBSeq_organism>
+./AB108825.xml:  <GBSeq_organism>Prevotella shahii</GBSeq_organism>
+./AY957555.xml:  <GBSeq_organism>Prevotella nanceiensis</GBSeq_organism>
+./AF481228.xml:  <GBSeq_organism>Prevotella micans</GBSeq_organism>

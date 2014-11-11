@@ -1,0 +1,4 @@
+./EU977135.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>
+./GU086366.xml:  <GBSeq_organism>Pseudorhodobacter aquimaris</GBSeq_organism>
+./EF010918.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./EU977136.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>

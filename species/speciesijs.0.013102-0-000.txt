@@ -1,0 +1,56 @@
+./AF287802.xml:  <GBSeq_organism>Selenomonas infelix ATCC 43532</GBSeq_organism>
+./Y09976.xml:  <GBSeq_organism>Sporomusa silvacetica</GBSeq_organism>
+./FJ715930.xml:  <GBSeq_organism>Negativicoccus succinicivorans</GBSeq_organism>
+./AF473835.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./AJ010962.xml:  <GBSeq_organism>Dendrosporobacter quercicolus</GBSeq_organism>
+./AM258975.xml:  <GBSeq_organism>Pelosinus propionicus</GBSeq_organism>
+./AJ279802.xml:  <GBSeq_organism>Propionispora vibrioides</GBSeq_organism>
+./AY372050.xml:  <GBSeq_organism>Anaerospora hongkongensis</GBSeq_organism>
+./AY355140.xml:  <GBSeq_organism>Veillonella caviae</GBSeq_organism>
+./AJ279799.xml:  <GBSeq_organism>Sporomusa malonica</GBSeq_organism>
+./AJ010959.xml:  <GBSeq_organism>Anaerovibrio lipolyticus DSM 3074</GBSeq_organism>
+./X84006.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./L37040.xml:  <GBSeq_organism>Megasphaera cerevisiae</GBSeq_organism>
+./AF479674.xml:  <GBSeq_organism>Mitsuokella jalaludinii</GBSeq_organism>
+./AY428574.xml:  <GBSeq_organism>Pectinatus portalensis</GBSeq_organism>
+./EF108443.xml:  <GBSeq_organism>Veillonella rogosae</GBSeq_organism>
+./AF439641.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./AF287801.xml:  <GBSeq_organism>Selenomonas dianae</GBSeq_organism>
+./X81878.xml:  <GBSeq_organism>Mitsuokella multacida DSM 20544</GBSeq_organism>
+./AF373022.xml:  <GBSeq_organism>Selenomonas ruminantium</GBSeq_organism>
+./Y09434.xml:  <GBSeq_organism>Schwartzia succinivorans</GBSeq_organism>
+./AM158322.xml:  <GBSeq_organism>Sporomusa rhizae</GBSeq_organism>
+./AY162469.xml:  <GBSeq_organism>Dialister invisus DSM 15470</GBSeq_organism>
+./AF287793.xml:  <GBSeq_organism>Selenomonas sputigena ATCC 35185</GBSeq_organism>
+./EF185167.xml:  <GBSeq_organism>Veillonella denticariosi</GBSeq_organism>
+./M61920.xml:  <GBSeq_organism>Sporomusa termitida</GBSeq_organism>
+./AJ279798.xml:  <GBSeq_organism>Sporomusa acidovorans</GBSeq_organism>
+./AF373026.xml:  <GBSeq_organism>Pectinatus cerevisiiphilus</GBSeq_organism>
+./AF338413.xml:  <GBSeq_organism>Anaeroglobus geminatus</GBSeq_organism>
+./AF473836.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AJ508928.xml:  <GBSeq_organism>Propionispora hippei</GBSeq_organism>
+./AY514996.xml:  <GBSeq_organism>Veillonella rodentium</GBSeq_organism>
+./AF186071.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./AF473837.xml:  <GBSeq_organism>Dialister micraerophilus DSM 19965</GBSeq_organism>
+./FJ715929.xml:  <GBSeq_organism>Negativicoccus succinicivorans</GBSeq_organism>
+./AF548373.xml:  <GBSeq_organism>Allisonella histaminiformans</GBSeq_organism>
+./X82500.xml:  <GBSeq_organism>Dialister pneumosintes</GBSeq_organism>
+./AF373027.xml:  <GBSeq_organism>Pectinatus frisingensis</GBSeq_organism>
+./AF186072.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./AF373024.xml:  <GBSeq_organism>Selenomonas lacticifex</GBSeq_organism>
+./AJ006605.xml:  <GBSeq_organism>Desulfosporomusa polytropa</GBSeq_organism>
+./DQ145536.xml:  <GBSeq_organism>Pelosinus fermentans DSM 17108</GBSeq_organism>
+./AF287803.xml:  <GBSeq_organism>Selenomonas flueggei ATCC 43531</GBSeq_organism>
+./X84005.xml:  <GBSeq_organism>Veillonella parvula DSM 2008</GBSeq_organism>
+./X81137.xml:  <GBSeq_organism>Succiniclasticum ruminis</GBSeq_organism>
+./AJ279800.xml:  <GBSeq_organism>Sporomusa ovata</GBSeq_organism>
+./U95027.xml:  <GBSeq_organism>Megasphaera elsdenii DSM 20460</GBSeq_organism>
+./Y18190.xml:  <GBSeq_organism>Propionispira arboris</GBSeq_organism>
+./DQ223730.xml:  <GBSeq_organism>Megasphaera paucivorans</GBSeq_organism>
+./AF373025.xml:  <GBSeq_organism>Zymophilus paucivorans</GBSeq_organism>
+./X72865.xml:  <GBSeq_organism>Phascolarctobacterium faecium</GBSeq_organism>
+./AF287799.xml:  <GBSeq_organism>Selenomonas noxia</GBSeq_organism>
+./M62701.xml:  <GBSeq_organism>Quinella ovalis</GBSeq_organism>
+./AF473834.xml:  <GBSeq_organism>Megasphaera micronuciformis</GBSeq_organism>
+./AJ420107.xml:  <GBSeq_organism>Megamonas hypermegale</GBSeq_organism>
+./AJ279801.xml:  <GBSeq_organism>Sporomusa sphaeroides DSM 2875</GBSeq_organism>

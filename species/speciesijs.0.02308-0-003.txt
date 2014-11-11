@@ -1,0 +1,11 @@
+./X73043.xml:  <GBSeq_organism>Blastomonas natatoria</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./AF465835.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AF465837.xml:  <GBSeq_organism>Erythromicrobium ramosum</GBSeq_organism>
+./AF465836.xml:  <GBSeq_organism>Erythrobacter litoralis</GBSeq_organism>
+./AF118020.xml:  <GBSeq_organism>Erythrobacter citreus</GBSeq_organism>
+./AF465838.xml:  <GBSeq_organism>Porphyrobacter neustonensis</GBSeq_organism>
+./Y10677.xml:  <GBSeq_organism>Sphingomonas ursincola</GBSeq_organism>
+./Y16267.xml:  <GBSeq_organism>Citromicrobium bathyomarinum</GBSeq_organism>
+./AF465839.xml:  <GBSeq_organism>Porphyrobacter tepidarius</GBSeq_organism>
+./AB120062.xml:  <GBSeq_organism>Phytophthora vignae f. sp. adzukicola</GBSeq_organism>

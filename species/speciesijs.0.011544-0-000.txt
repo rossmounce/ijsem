@@ -1,0 +1,15 @@
+./D78465.xml:  <GBSeq_organism>Paenibacillus alginolyticus</GBSeq_organism>
+./AY530294.xml:  <GBSeq_organism>Paenibacillus larvae subsp. larvae</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./EU570250.xml:  <GBSeq_organism>Paenibacillus aestuarii</GBSeq_organism>
+./AY208751.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./AY839866.xml:  <GBSeq_organism>Paenibacillus gansuensis</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./DQ309072.xml:  <GBSeq_organism>Paenibacillus soli</GBSeq_organism>
+./AJ575658.xml:  <GBSeq_organism>Paenibacillus cineris</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./AF537343.xml:  <GBSeq_organism>Paenibacillus mendelii</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./D82064.xml:  <GBSeq_organism>Paenibacillus chondroitinus</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>

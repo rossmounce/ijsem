@@ -1,0 +1,17 @@
+./AB117707.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./X95919.xml:  <GBSeq_organism>Xanthomonas axonopodis</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AJ519986.xml:  <GBSeq_organism>Thermomonas fusca</GBSeq_organism>
+./AJ519989.xml:  <GBSeq_organism>Thermomonas brevis</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AF542054.xml:  <GBSeq_organism>Thermomonas hydrothermalis</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AF427039.xml:  <GBSeq_organism>Pseudoxanthomonas taiwanensis</GBSeq_organism>
+./AY557615.xml:  <GBSeq_organism>Silanimonas lenta</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

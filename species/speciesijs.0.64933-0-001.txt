@@ -1,0 +1,8 @@
+./AJ416756.xml:  <GBSeq_organism>Psychromonas profunda</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./AB094413.xml:  <GBSeq_organism>Psychromonas hadalis</GBSeq_organism>
+./U73721.xml:  <GBSeq_organism>Psychromonas ingrahamii 37</GBSeq_organism>
+./AB023378.xml:  <GBSeq_organism>Psychromonas marina</GBSeq_organism>
+./AF374385.xml:  <GBSeq_organism>Psychromonas arctica</GBSeq_organism>
+./AB052160.xml:  <GBSeq_organism>Psychromonas kaikoae ATCC BAA-353</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>

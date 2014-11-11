@@ -1,0 +1,3 @@
+./AB264024.xml:  <GBSeq_organism>Alicyclobacillus shizuokensis</GBSeq_organism>
+./AB222249.xml:  <GBSeq_organism>Alicyclobacillus sp. IAM 14934</GBSeq_organism>
+./AB264027.xml:  <GBSeq_organism>Alicyclobacillus contaminans</GBSeq_organism>

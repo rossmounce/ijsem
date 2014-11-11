@@ -1,0 +1,6 @@
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AY208751.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./AY751755.xml:  <GBSeq_organism>Paenibacillus rhizosphaerae</GBSeq_organism>
+./AY751754.xml:  <GBSeq_organism>Paenibacillus rhizosphaerae</GBSeq_organism>
+./AF480935.xml:  <GBSeq_organism>Paenibacillus nematophilus</GBSeq_organism>

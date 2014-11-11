@@ -1,0 +1,11 @@
+./AB089241.xml:  <GBSeq_organism>Longispora albida</GBSeq_organism>
+./D86944.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./AJ294715.xml:  <GBSeq_organism>Asanoa ishikariensis</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./AB112081.xml:  <GBSeq_organism>Asanoa iriomotensis</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

@@ -1,0 +1,25 @@
+./U44767.xml:  <GBSeq_organism>Mycoplasma bovis</GBSeq_organism>
+./M24581.xml:  <GBSeq_organism>Mycoplasma lipophilum</GBSeq_organism>
+./M29061.xml:  <GBSeq_organism>Mycoplasma pneumoniae</GBSeq_organism>
+./U15796.xml:  <GBSeq_organism>Mycoplasma gateae</GBSeq_organism>
+./AF125589.xml:  <GBSeq_organism>Mycoplasma gypis</GBSeq_organism>
+./U26038.xml:  <GBSeq_organism>Mycoplasma mycoides subsp. mycoides</GBSeq_organism>
+./AF538961.xml:  <GBSeq_organism>Mycoplasma opalescens</GBSeq_organism>
+./U15794.xml:  <GBSeq_organism>Mycoplasma arginini</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./U09787.xml:  <GBSeq_organism>Mycoplasma felis</GBSeq_organism>
+./X52083.xml:  <GBSeq_organism>Mycoplasma synoviae</GBSeq_organism>
+./AY121098.xml:  <GBSeq_organism>Mycoplasma bovigenitalium</GBSeq_organism>
+./U16758.xml:  <GBSeq_organism>Mycoplasma feliminutum</GBSeq_organism>
+./AF125582.xml:  <GBSeq_organism>Mycoplasma pulmonis</GBSeq_organism>
+./AF221116.xml:  <GBSeq_organism>Mycoplasma maculosum</GBSeq_organism>
+./U73903.xml:  <GBSeq_organism>Mycoplasma edwardii</GBSeq_organism>
+./AJ002265.xml:  <GBSeq_organism>Mycoplasma hominis ATCC 23114</GBSeq_organism>
+./AF538682.xml:  <GBSeq_organism>Mycoplasma cynos</GBSeq_organism>
+./AF412988.xml:  <GBSeq_organism>Mycoplasma sualvi</GBSeq_organism>
+./M23944.xml:  <GBSeq_organism>Mycoplasma neurolyticum</GBSeq_organism>
+./D78648.xml:  <GBSeq_organism>Ureaplasma canigenitalium</GBSeq_organism>
+./AF538683.xml:  <GBSeq_organism>Mycoplasma molare</GBSeq_organism>
+./AF197337.xml:  <GBSeq_organism>Mycoplasma haemocanis</GBSeq_organism>
+./AF538684.xml:  <GBSeq_organism>Mycoplasma spumans</GBSeq_organism>
+./AF340023.xml:  <GBSeq_organism>Mycoplasma canis PG 14</GBSeq_organism>

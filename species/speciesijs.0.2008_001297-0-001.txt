@@ -1,0 +1,27 @@
+./AF373023.xml:  <GBSeq_organism>Selenomonas sputigena ATCC 35185</GBSeq_organism>
+./AF287802.xml:  <GBSeq_organism>Selenomonas infelix ATCC 43532</GBSeq_organism>
+./AY355140.xml:  <GBSeq_organism>Veillonella caviae</GBSeq_organism>
+./AJ010959.xml:  <GBSeq_organism>Anaerovibrio lipolyticus DSM 3074</GBSeq_organism>
+./X84006.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./AF479674.xml:  <GBSeq_organism>Mitsuokella jalaludinii</GBSeq_organism>
+./AY428574.xml:  <GBSeq_organism>Pectinatus portalensis</GBSeq_organism>
+./AF287801.xml:  <GBSeq_organism>Selenomonas dianae</GBSeq_organism>
+./X81878.xml:  <GBSeq_organism>Mitsuokella multacida DSM 20544</GBSeq_organism>
+./AF071415.xml:  <GBSeq_organism>Anaeromusa acidaminophila</GBSeq_organism>
+./Y09434.xml:  <GBSeq_organism>Schwartzia succinivorans</GBSeq_organism>
+./AM158322.xml:  <GBSeq_organism>Sporomusa rhizae</GBSeq_organism>
+./AF373026.xml:  <GBSeq_organism>Pectinatus cerevisiiphilus</GBSeq_organism>
+./AJ508928.xml:  <GBSeq_organism>Propionispora hippei</GBSeq_organism>
+./X84007.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./M62702.xml:  <GBSeq_organism>Selenomonas ruminantium</GBSeq_organism>
+./AJ010960.xml:  <GBSeq_organism>Anaerosinus glycerini</GBSeq_organism>
+./Y18189.xml:  <GBSeq_organism>Anaerobacter polyendosporus</GBSeq_organism>
+./AF373027.xml:  <GBSeq_organism>Pectinatus frisingensis</GBSeq_organism>
+./AJ010961.xml:  <GBSeq_organism>Anaeroarcus burkinensis</GBSeq_organism>
+./EU346729.xml:  <GBSeq_organism>Megamonas rupellensis</GBSeq_organism>
+./AF373024.xml:  <GBSeq_organism>Selenomonas lacticifex</GBSeq_organism>
+./AF287803.xml:  <GBSeq_organism>Selenomonas flueggei ATCC 43531</GBSeq_organism>
+./AF373025.xml:  <GBSeq_organism>Zymophilus paucivorans</GBSeq_organism>
+./AF287799.xml:  <GBSeq_organism>Selenomonas noxia</GBSeq_organism>
+./AJ420107.xml:  <GBSeq_organism>Megamonas hypermegale</GBSeq_organism>
+./AJ279801.xml:  <GBSeq_organism>Sporomusa sphaeroides DSM 2875</GBSeq_organism>

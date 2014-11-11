@@ -1,0 +1,27 @@
+./U44813.xml:  <GBSeq_organism>Candida melibiosica</GBSeq_organism>
+./AF017240.xml:  <GBSeq_organism>Candida trypodendroni</GBSeq_organism>
+./U44816.xml:  <GBSeq_organism>Candida pseudointermedia</GBSeq_organism>
+./AY450916.xml:  <GBSeq_organism>Candida qinlingensis</GBSeq_organism>
+./U45789.xml:  <GBSeq_organism>Candida conglobata</GBSeq_organism>
+./U44817.xml:  <GBSeq_organism>Clavispora lusitaniae</GBSeq_organism>
+./U45781.xml:  <GBSeq_organism>Candida friedrichii</GBSeq_organism>
+./U75964.xml:  <GBSeq_organism>Williopsis pratensis</GBSeq_organism>
+./U44809.xml:  <GBSeq_organism>Candida intermedia</GBSeq_organism>
+./U75957.xml:  <GBSeq_organism>Barnettozyma californica var. californica</GBSeq_organism>
+./U44818.xml:  <GBSeq_organism>Clavispora opuntiae</GBSeq_organism>
+./U75427.xml:  <GBSeq_organism>Barnettozyma populi</GBSeq_organism>
+./U45778.xml:  <GBSeq_organism>Candida buinensis</GBSeq_organism>
+./U75420.xml:  <GBSeq_organism>Barnettozyma salicaria</GBSeq_organism>
+./AF153675.xml:  <GBSeq_organism>Pichia hawaiiensis</GBSeq_organism>
+./U84243.xml:  <GBSeq_organism>Metschnikowia agaves</GBSeq_organism>
+./AY450920.xml:  <GBSeq_organism>Candida asparagi</GBSeq_organism>
+./U44810.xml:  <GBSeq_organism>Candida fructus</GBSeq_organism>
+./U45802.xml:  <GBSeq_organism>Candida aaseri</GBSeq_organism>
+./U45792.xml:  <GBSeq_organism>Candida membranifaciens</GBSeq_organism>
+./U62305.xml:  <GBSeq_organism>Candida montana</GBSeq_organism>
+./AY048171.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./U75419.xml:  <GBSeq_organism>Ogataea wickerhamii</GBSeq_organism>
+./U45797.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./U62299.xml:  <GBSeq_organism>Candida norvegica</GBSeq_organism>
+./U49064.xml:  <GBSeq_organism>Candida tsuchiyae</GBSeq_organism>
+./U44815.xml:  <GBSeq_organism>Candida oregonensis</GBSeq_organism>

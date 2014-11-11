@@ -1,0 +1,13 @@
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./EU887283.xml:  <GBSeq_organism>Halogranum rubrum</GBSeq_organism>
+./HM165235.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./HQ263562.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./GU951433.xml:  <GBSeq_organism>Halobellus clavatus</GBSeq_organism>
+./EF645688.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./HQ263561.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./HM185493.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./AY838278.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./GU339303.xml:  <GBSeq_organism>Halorientalis regularis</GBSeq_organism>
+./HQ263564.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./EU887284.xml:  <GBSeq_organism>Halopelagius inordinatus</GBSeq_organism>
+./EF645687.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>

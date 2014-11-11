@@ -1,0 +1,44 @@
+./EF059845.xml:  <GBSeq_organism>Cronobacter muytjensii ATCC 51329</GBSeq_organism>
+./AF310218.xml:  <GBSeq_organism>Kluyvera cryocrescens</GBSeq_organism>
+./U80206.xml:  <GBSeq_organism>Erwinia rhapontici</GBSeq_organism>
+./AF025369.xml:  <GBSeq_organism>Citrobacter murliniae</GBSeq_organism>
+./AF029226.xml:  <GBSeq_organism>Salmonella bongori</GBSeq_organism>
+./AB004749.xml:  <GBSeq_organism>Lelliottia amnigena</GBSeq_organism>
+./AY563134.xml:  <GBSeq_organism>Kosakonia radicincitans</GBSeq_organism>
+./AF025368.xml:  <GBSeq_organism>Citrobacter braakii</GBSeq_organism>
+./AJ853890.xml:  <GBSeq_organism>Enterobacter hormaechei subsp. steigerwaltii</GBSeq_organism>
+./AJ233423.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./AF025373.xml:  <GBSeq_organism>Citrobacter werkmanii</GBSeq_organism>
+./Y13251.xml:  <GBSeq_organism>Pantoea stewartii subsp. indologenes</GBSeq_organism>
+./EF488758.xml:  <GBSeq_organism>Kosakonia oryzae</GBSeq_organism>
+./AL627279.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Typhi</GBSeq_organism>
+./AF130983.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. rhinoscleromatis ATCC 13884</GBSeq_organism>
+./AF310217.xml:  <GBSeq_organism>Kluyvera intermedia</GBSeq_organism>
+./AJ508303.xml:  <GBSeq_organism>Kosakonia cowanii</GBSeq_organism>
+./EF059892.xml:  <GBSeq_organism>Cronobacter dublinensis subsp. dublinensis LMG 23823</GBSeq_organism>
+./AJ783916.xml:  <GBSeq_organism>Klebsiella variicola</GBSeq_organism>
+./EF059881.xml:  <GBSeq_organism>Cronobacter malonaticus</GBSeq_organism>
+./AF025367.xml:  <GBSeq_organism>Citrobacter gillenii</GBSeq_organism>
+./EF488760.xml:  <GBSeq_organism>Kosakonia oryzae</GBSeq_organism>
+./AF310219.xml:  <GBSeq_organism>Kluyvera ascorbata ATCC 33433</GBSeq_organism>
+./EF059843.xml:  <GBSeq_organism>Cronobacter sakazakii</GBSeq_organism>
+./AF010251.xml:  <GBSeq_organism>Klebsiella granulomatis</GBSeq_organism>
+./AF025366.xml:  <GBSeq_organism>Citrobacter koseri</GBSeq_organism>
+./DQ273680.xml:  <GBSeq_organism>Cronobacter zurichensis</GBSeq_organism>
+./AJ233420.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AF025364.xml:  <GBSeq_organism>Citrobacter sedlakii</GBSeq_organism>
+./U80197.xml:  <GBSeq_organism>Pectobacterium carotovorum subsp. carotovorum</GBSeq_organism>
+./AF130982.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. ozaenae</GBSeq_organism>
+./AJ508301.xml:  <GBSeq_organism>Enterobacter kobei</GBSeq_organism>
+./AF047186.xml:  <GBSeq_organism>Kluyvera georgiana</GBSeq_organism>
+./M59160.xml:  <GBSeq_organism>Serratia marcescens</GBSeq_organism>
+./AJ251469.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./M59291.xml:  <GBSeq_organism>Citrobacter freundii</GBSeq_organism>
+./AF025371.xml:  <GBSeq_organism>Citrobacter farmeri</GBSeq_organism>
+./AY373829.xml:  <GBSeq_organism>Salmonella subterranea</GBSeq_organism>
+./EF059891.xml:  <GBSeq_organism>Cronobacter turicensis z3032</GBSeq_organism>
+./AF025363.xml:  <GBSeq_organism>Citrobacter rodentium</GBSeq_organism>
+./EF488759.xml:  <GBSeq_organism>Kosakonia oryzae</GBSeq_organism>
+./AJ233410.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AJ010486.xml:  <GBSeq_organism>Pluralibacter pyrinus</GBSeq_organism>
+./AF008580.xml:  <GBSeq_organism>Salmonella enterica subsp. arizonae</GBSeq_organism>

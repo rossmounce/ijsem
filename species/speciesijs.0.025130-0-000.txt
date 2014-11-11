@@ -1,0 +1,9 @@
+./EU091459.xml:  <GBSeq_organism>Lactococcus garvieae</GBSeq_organism>
+./EF694029.xml:  <GBSeq_organism>Lactococcus plantarum</GBSeq_organism>
+./AB100804.xml:  <GBSeq_organism>Lactococcus lactis subsp. hordniae</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AB100802.xml:  <GBSeq_organism>Lactococcus lactis subsp. cremoris</GBSeq_organism>
+./AB485959.xml:  <GBSeq_organism>Lactococcus fujiensis</GBSeq_organism>
+./AB100803.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>
+./EF694028.xml:  <GBSeq_organism>Lactococcus chungangensis</GBSeq_organism>
+./EF694030.xml:  <GBSeq_organism>Lactococcus raffinolactis</GBSeq_organism>

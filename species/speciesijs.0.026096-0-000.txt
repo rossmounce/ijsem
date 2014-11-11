@@ -1,0 +1,13 @@
+./AB107231.xml:  <GBSeq_organism>Micromonospora eburnea</GBSeq_organism>
+./X92601.xml:  <GBSeq_organism>Micromonospora halophytica</GBSeq_organism>
+./AM232832.xml:  <GBSeq_organism>Planosporangium flavigriseum</GBSeq_organism>
+./X92623.xml:  <GBSeq_organism>Micromonospora viridifaciens</GBSeq_organism>
+./X93185.xml:  <GBSeq_organism>Actinoplanes brasiliensis</GBSeq_organism>
+./D85481.xml:  <GBSeq_organism>Dactylosporangium thailandense</GBSeq_organism>
+./GU126491.xml:  <GBSeq_organism>Planosporangium mesophilum</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./AB241455.xml:  <GBSeq_organism>Micromonospora coxensis</GBSeq_organism>
+./D86940.xml:  <GBSeq_organism>Dactylosporangium matsuzakiense</GBSeq_organism>
+./X92631.xml:  <GBSeq_organism>Micromonospora rosaria</GBSeq_organism>
+./X93192.xml:  <GBSeq_organism>Dactylosporangium fulvum</GBSeq_organism>
+./X93189.xml:  <GBSeq_organism>Pilimelia anulata</GBSeq_organism>

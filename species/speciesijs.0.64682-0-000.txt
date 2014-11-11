@@ -1,0 +1,42 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AB100840.xml:  <GBSeq_organism>Cellulophaga pacifica</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AY693999.xml:  <GBSeq_organism>Subsaxibacter broadyi</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AY163576.xml:  <GBSeq_organism>Croceibacter atlanticus HTCC2559</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AY271625.xml:  <GBSeq_organism>Maribacter aquivivus</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AB078057.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./M59052.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AY445073.xml:  <GBSeq_organism>Muricauda flavescens</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AY576654.xml:  <GBSeq_organism>Pibocella ponti</GBSeq_organism>
+./AY693997.xml:  <GBSeq_organism>Subsaximicrobium wynnwilliamsii</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AY586527.xml:  <GBSeq_organism>Olleya marilimosa CAM030</GBSeq_organism>
+./AY258127.xml:  <GBSeq_organism>bacterium DG977</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AY372917.xml:  <GBSeq_organism>Bacteroidetes bacterium HPC1</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AB121976.xml:  <GBSeq_organism>Zobellia russellii</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>
+./AY315443.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./L19156.xml:  <GBSeq_organism>Ornithobacterium rhinotracheale</GBSeq_organism>
+./AY424899.xml:  <GBSeq_organism>Robiginitalea biformata HTCC2501</GBSeq_organism>

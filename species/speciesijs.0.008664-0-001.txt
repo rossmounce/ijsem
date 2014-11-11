@@ -1,0 +1,27 @@
+./X80598.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./X73976.xml:  <GBSeq_organism>Turicella otitidis</GBSeq_organism>
+./AY555577.xml:  <GBSeq_organism>Nocardia mexicana</GBSeq_organism>
+./AJ292762.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AB243007.xml:  <GBSeq_organism>Smaragdicoccus niigatensis</GBSeq_organism>
+./AY457076.xml:  <GBSeq_organism>Mycobacterium mageritense</GBSeq_organism>
+./AB010909.xml:  <GBSeq_organism>Williamsia maris</GBSeq_organism>
+./X82057.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./FJ179485.xml:  <GBSeq_organism>Hoyosella altamirensis</GBSeq_organism>
+./AJ920289.xml:  <GBSeq_organism>Dietzia cinnamea</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./X82066.xml:  <GBSeq_organism>Corynebacterium mycetoides</GBSeq_organism>
+./X80619.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./AY995560.xml:  <GBSeq_organism>Gordonia soli</GBSeq_organism>
+./AY726605.xml:  <GBSeq_organism>Rhodococcus kroppenstedtii</GBSeq_organism>
+./AJ536100.xml:  <GBSeq_organism>Mycobacterium elephantis</GBSeq_organism>
+./AJ536033.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./U49401.xml:  <GBSeq_organism>Mycobacterium hassiacum</GBSeq_organism>
+./X87340.xml:  <GBSeq_organism>Gordonia hydrophobica</GBSeq_organism>
+./AY859685.xml:  <GBSeq_organism>Mycobacterium barrassiae</GBSeq_organism>
+./AF480600.xml:  <GBSeq_organism>Mycobacterium fallax</GBSeq_organism>
+./X53203.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./X79187.xml:  <GBSeq_organism>Rhodococcus fascians</GBSeq_organism>
+./AY457083.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./Y10077.xml:  <GBSeq_organism>Corynebacterium kroppenstedtii DSM 44385</GBSeq_organism>

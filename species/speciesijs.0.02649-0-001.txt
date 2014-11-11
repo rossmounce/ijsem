@@ -1,0 +1,12 @@
+./AJ310447.xml:  <GBSeq_organism>Candida davenportii</GBSeq_organism>
+./U45705.xml:  <GBSeq_organism>Starmerella bombicola</GBSeq_organism>
+./AY078348.xml:  <GBSeq_organism>Starmerella bacillaris</GBSeq_organism>
+./U45730.xml:  <GBSeq_organism>Candida stellata</GBSeq_organism>
+./U40085.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./AF251554.xml:  <GBSeq_organism>Candida powellii</GBSeq_organism>
+./AF072843.xml:  <GBSeq_organism>Candida batistae</GBSeq_organism>
+./AY160761.xml:  <GBSeq_organism>Starmerella bacillaris</GBSeq_organism>
+./U45706.xml:  <GBSeq_organism>Candida bombi</GBSeq_organism>
+./AF313354.xml:  <GBSeq_organism>Starmerella meliponinorum</GBSeq_organism>
+./U45723.xml:  <GBSeq_organism>Candida etchellsii</GBSeq_organism>
+./U44806.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>

@@ -1,0 +1,22 @@
+./AM113779.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AJ002515.xml:  <GBSeq_organism>Lactobacillus johnsonii</GBSeq_organism>
+./AJ417737.xml:  <GBSeq_organism>Lactobacillus gallinarum</GBSeq_organism>
+./Y17361.xml:  <GBSeq_organism>Lactobacillus amylolyticus DSM 11664</GBSeq_organism>
+./AB107638.xml:  <GBSeq_organism>Lactobacillus kitasatonis</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./AJ306298.xml:  <GBSeq_organism>Lactobacillus hamsteri</GBSeq_organism>
+./AY944408.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>
+./M58806.xml:  <GBSeq_organism>Lactobacillus amylophilus</GBSeq_organism>
+./AJ306299.xml:  <GBSeq_organism>Lactobacillus intestinalis</GBSeq_organism>
+./AB007908.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./AB303841.xml:  <GBSeq_organism>Lactobacillus acetotolerans DSM 20749 = JCM 3825</GBSeq_organism>
+./AY253660.xml:  <GBSeq_organism>Lactobacillus ultunensis</GBSeq_organism>
+./AY253657.xml:  <GBSeq_organism>Lactobacillus kalixensis</GBSeq_organism>
+./EU487512.xml:  <GBSeq_organism>Lactobacillus taiwanensis</GBSeq_organism>
+./X76328.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./AB008206.xml:  <GBSeq_organism>Lactobacillus crispatus</GBSeq_organism>
+./AM236149.xml:  <GBSeq_organism>Lactobacillus amylotrophicus</GBSeq_organism>
+./AF243176.xml:  <GBSeq_organism>Lactobacillus jensenii</GBSeq_organism>
+./Y16329.xml:  <GBSeq_organism>Lactobacillus iners DSM 13335</GBSeq_organism>
+./AM113781.xml:  <GBSeq_organism>Lactobacillus kefiranofaciens subsp. kefiranofaciens</GBSeq_organism>
+./AB008209.xml:  <GBSeq_organism>Lactobacillus gasseri</GBSeq_organism>

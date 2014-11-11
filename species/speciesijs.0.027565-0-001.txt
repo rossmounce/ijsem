@@ -1,0 +1,25 @@
+./AF082562.xml:  <GBSeq_organism>Pseudoalteromonas elyakovii</GBSeq_organism>
+./DQ660392.xml:  <GBSeq_organism>Thalassomonas sediminis</GBSeq_organism>
+./AY207502.xml:  <GBSeq_organism>Aestuariibacter salexigens</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AY553295.xml:  <GBSeq_organism>Salinimonas chungwhensis</GBSeq_organism>
+./U85846.xml:  <GBSeq_organism>Colwellia psychrotropica</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./EU183316.xml:  <GBSeq_organism>Glaciecola lipolytica E3</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./AJ293820.xml:  <GBSeq_organism>Glaciecola polaris</GBSeq_organism>
+./X82134.xml:  <GBSeq_organism>Pseudoalteromonas atlantica</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AM710622.xml:  <GBSeq_organism>Rhodospirillum sulfurexigens</GBSeq_organism>
+./AB002630.xml:  <GBSeq_organism>Colwellia maris</GBSeq_organism>
+./AY682202.xml:  <GBSeq_organism>Alteromonas addita</GBSeq_organism>
+./AF297958.xml:  <GBSeq_organism>Pseudoalteromonas flavipulchra</GBSeq_organism>
+./AY769918.xml:  <GBSeq_organism>Pseudoalteromonas spongiae</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./DQ784575.xml:  <GBSeq_organism>Glaciecola agarilytica</GBSeq_organism>
+./AY643537.xml:  <GBSeq_organism>Thalassotalea loyana</GBSeq_organism>
+./EU642410.xml:  <GBSeq_organism>Marispirillum indicum</GBSeq_organism>
+./AY207503.xml:  <GBSeq_organism>Aestuariibacter halophilus</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./DQ843294.xml:  <GBSeq_organism>Drosophila melanogaster</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>

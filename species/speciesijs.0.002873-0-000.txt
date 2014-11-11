@@ -1,0 +1,13 @@
+./AJ303009.xml:  <GBSeq_organism>Novosphingobium lentum NBRC 107847</GBSeq_organism>
+./EF029110.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./AJ416411.xml:  <GBSeq_organism>Novosphingobium hassiacum</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./AJ871435.xml:  <GBSeq_organism>Sphingomonas desiccabilis</GBSeq_organism>
+./AY739662.xml:  <GBSeq_organism>Altererythrobacter luteolus</GBSeq_organism>
+./EF549586.xml:  <GBSeq_organism>Novosphingobium indicum</GBSeq_organism>
+./AB177883.xml:  <GBSeq_organism>Novosphingobium naphthalenivorans</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY500142.xml:  <GBSeq_organism>Novosphingobium taihuense</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./D13945.xml:  <GBSeq_organism>Novosphingobium rosa</GBSeq_organism>
+./AF500004.xml:  <GBSeq_organism>Erythrobacter flavus</GBSeq_organism>

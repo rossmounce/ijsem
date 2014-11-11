@@ -1,0 +1,13 @@
+./M83140.xml:  <GBSeq_organism>Thermosipho africanus</GBSeq_organism>
+./AY800102.xml:  <GBSeq_organism>Petrotoga halophila</GBSeq_organism>
+./X80790.xml:  <GBSeq_organism>Thermotoga elfii</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./L10559.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AJ250439.xml:  <GBSeq_organism>Marinitoga camini</GBSeq_organism>
+./EU276414.xml:  <GBSeq_organism>Kosmotoga shengliensis</GBSeq_organism>
+./AJ577471.xml:  <GBSeq_organism>Thermosipho atlanticus</GBSeq_organism>
+./AF355615.xml:  <GBSeq_organism>Thermotoga lettingae TMO</GBSeq_organism>
+./AJ786363.xml:  <GBSeq_organism>Marinitoga hydrogenitolerans</GBSeq_organism>
+./M59177.xml:  <GBSeq_organism>Fervidobacterium nodosum</GBSeq_organism>
+./L10657.xml:  <GBSeq_organism>Petrotoga miotherma</GBSeq_organism>
+./L10658.xml:  <GBSeq_organism>Geotoga petraea</GBSeq_organism>

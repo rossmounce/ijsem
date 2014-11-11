@@ -1,0 +1,14 @@
+./AF060699.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./AF487723.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./U32697.xml:  <GBSeq_organism>Haemophilus influenzae Rd KW20</GBSeq_organism>
+./AF487724.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./M75068.xml:  <GBSeq_organism>Actinobacillus lignieresii</GBSeq_organism>
+./AF294410.xml:  <GBSeq_organism>Pasteurella multocida subsp. multocida</GBSeq_organism>
+./AY216869.xml:  <GBSeq_organism>Volucribacter amazonae</GBSeq_organism>
+./AF228001.xml:  <GBSeq_organism>Gallibacterium anatis DSM 16844 = F 149</GBSeq_organism>
+./AY216868.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./Y17189.xml:  <GBSeq_organism>Lonepinella koalarum</GBSeq_organism>
+./AF549387.xml:  <GBSeq_organism>Histophilus somni</GBSeq_organism>
+./X89379.xml:  <GBSeq_organism>Phocoenobacter uteri</GBSeq_organism>
+./AY216870.xml:  <GBSeq_organism>Volucribacter amazonae</GBSeq_organism>
+./AF487722.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>

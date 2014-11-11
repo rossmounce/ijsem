@@ -1,0 +1,10 @@
+./U40119.xml:  <GBSeq_organism>Geotrichum fragrans</GBSeq_organism>
+./U40114.xml:  <GBSeq_organism>Geotrichum klebahnii</GBSeq_organism>
+./U84233.xml:  <GBSeq_organism>Galactomyces citri-aurantii</GBSeq_organism>
+./U40118.xml:  <GBSeq_organism>Galactomyces candidum</GBSeq_organism>
+./U40117.xml:  <GBSeq_organism>Geotrichum fermentans</GBSeq_organism>
+./U40112.xml:  <GBSeq_organism>Geotrichum clavatum</GBSeq_organism>
+./U40111.xml:  <GBSeq_organism>Galactomyces reessii</GBSeq_organism>
+./AJ511334.xml:  <GBSeq_organism>Geotrichum vulgare</GBSeq_organism>
+./AY158042.xml:  <GBSeq_organism>Geotrichum silvicola</GBSeq_organism>
+./U40081.xml:  <GBSeq_organism>Dipodascus albidus</GBSeq_organism>

@@ -1,0 +1,50 @@
+./AJ271010.xml:  <GBSeq_organism>Chryseobacterium joostei</GBSeq_organism>
+./AM238682.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM238672.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AB039830.xml:  <GBSeq_organism>Chryseobacterium proteolyticum</GBSeq_organism>
+./AM238677.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AM238686.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AY553294.xml:  <GBSeq_organism>Chryseobacterium jeonii</GBSeq_organism>
+./AM238670.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AM084341.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM238690.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./M58771.xml:  <GBSeq_organism>Chryseobacterium balustinum</GBSeq_organism>
+./AM261868.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./AM238688.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AY278484.xml:  <GBSeq_organism>Chryseobacterium sp. jll</GBSeq_organism>
+./AM238671.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./AY883416.xml:  <GBSeq_organism>Chryseobacterium taeanense</GBSeq_organism>
+./AM238680.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM238681.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./M58776.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./AM238687.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM084342.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AM238673.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AF344179.xml:  <GBSeq_organism>Chryseobacterium koreense</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M58774.xml:  <GBSeq_organism>Chryseobacterium indoltheticum</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./AB193101.xml:  <GBSeq_organism>Chryseobacterium shigense</GBSeq_organism>
+./AM238676.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AM238679.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AM238685.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM238684.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM177497.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./AM238674.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./AY363052.xml:  <GBSeq_organism>[Flavobacterium] sp. VA24240/2003</GBSeq_organism>
+./AY553293.xml:  <GBSeq_organism>Chryseobacterium antarcticum</GBSeq_organism>
+./AB071953.xml:  <GBSeq_organism>Elizabethkingia miricola</GBSeq_organism>
+./AM238689.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AM238678.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AM238675.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 2</GBSeq_organism>
+./AJ871397.xml:  <GBSeq_organism>Chryseobacterium vrystaatense</GBSeq_organism>
+./AJ843132.xml:  <GBSeq_organism>Chryseobacterium taichungense</GBSeq_organism>
+./AJ457206.xml:  <GBSeq_organism>Chryseobacterium daecheongense</GBSeq_organism>
+./AM238683.xml:  <GBSeq_organism>Wautersiella falsenii genomovar 1</GBSeq_organism>
+./AJ309324.xml:  <GBSeq_organism>Chryseobacterium defluvii</GBSeq_organism>
+./AY315443.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>
+./L19156.xml:  <GBSeq_organism>Ornithobacterium rhinotracheale</GBSeq_organism>

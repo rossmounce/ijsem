@@ -1,0 +1,14 @@
+./AF005187.xml:  <GBSeq_organism>Moraxella caviae</GBSeq_organism>
+./AF005188.xml:  <GBSeq_organism>Moraxella cuniculi</GBSeq_organism>
+./AF005160.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./AF005182.xml:  <GBSeq_organism>Moraxella bovis</GBSeq_organism>
+./AF005185.xml:  <GBSeq_organism>Moraxella catarrhalis</GBSeq_organism>
+./AF005184.xml:  <GBSeq_organism>Moraxella equi</GBSeq_organism>
+./X81660.xml:  <GBSeq_organism>Acinetobacter baumannii</GBSeq_organism>
+./U46144.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AF005172.xml:  <GBSeq_organism>Moraxella nonliquefaciens</GBSeq_organism>
+./AJ309942.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AF005192.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AB087260.xml:  <GBSeq_organism>Moraxella oblonga</GBSeq_organism>
+./AF005190.xml:  <GBSeq_organism>Moraxella osloensis</GBSeq_organism>
+./X81662.xml:  <GBSeq_organism>Acinetobacter haemolyticus</GBSeq_organism>

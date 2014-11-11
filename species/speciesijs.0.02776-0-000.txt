@@ -1,0 +1,11 @@
+./AF064028.xml:  <GBSeq_organism>Malassezia slooffiae</GBSeq_organism>
+./AF063214.xml:  <GBSeq_organism>Malassezia furfur</GBSeq_organism>
+./AB105862.xml:  <GBSeq_organism>Malassezia nana</GBSeq_organism>
+./AY166596.xml:  <GBSeq_organism>Malassezia sp. Gelea</GBSeq_organism>
+./AB105860.xml:  <GBSeq_organism>Malassezia nana</GBSeq_organism>
+./AB105861.xml:  <GBSeq_organism>Malassezia nana</GBSeq_organism>
+./AJ249950.xml:  <GBSeq_organism>Malassezia restricta</GBSeq_organism>
+./AF063215.xml:  <GBSeq_organism>Malassezia pachydermatis</GBSeq_organism>
+./AF064024.xml:  <GBSeq_organism>Malassezia sympodialis</GBSeq_organism>
+./AJ249951.xml:  <GBSeq_organism>Malassezia globosa</GBSeq_organism>
+./AF064027.xml:  <GBSeq_organism>Malassezia obtusa</GBSeq_organism>

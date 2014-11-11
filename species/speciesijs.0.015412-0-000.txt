@@ -1,0 +1,26 @@
+./AF385445.xml:  <GBSeq_organism>Dioszegia zsoltii var. zsoltii</GBSeq_organism>
+./EU149800.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./FJ640565.xml:  <GBSeq_organism>Dioszegia cryoxerica</GBSeq_organism>
+./EU149799.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./DQ402529.xml:  <GBSeq_organism>Dioszegia sp. LC-03-116</GBSeq_organism>
+./AY562154.xml:  <GBSeq_organism>Dioszegia catarinonii</GBSeq_organism>
+./EU149792.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-1</GBSeq_organism>
+./AF444467.xml:  <GBSeq_organism>Dioszegia hungarica</GBSeq_organism>
+./AF314987.xml:  <GBSeq_organism>Dioszegia hungarica</GBSeq_organism>
+./AY562158.xml:  <GBSeq_organism>Dioszegia fristingensis</GBSeq_organism>
+./AY562160.xml:  <GBSeq_organism>Dioszegia takashimae</GBSeq_organism>
+./EU070923.xml:  <GBSeq_organism>Dioszegia xingshanensis</GBSeq_organism>
+./EU149796.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./FJ643481.xml:  <GBSeq_organism>Dioszegia antarctica</GBSeq_organism>
+./EU149794.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./EU149793.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-1</GBSeq_organism>
+./EU149797.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./AF444406.xml:  <GBSeq_organism>Dioszegia crocea</GBSeq_organism>
+./AY885687.xml:  <GBSeq_organism>Dioszegia buhagiarii</GBSeq_organism>
+./EU149795.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./EU149801.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./EU070924.xml:  <GBSeq_organism>Dioszegia butyracea</GBSeq_organism>
+./EU149798.xml:  <GBSeq_organism>Dioszegia sp. LC-2007-2</GBSeq_organism>
+./EU070927.xml:  <GBSeq_organism>Dioszegia fristingensis</GBSeq_organism>
+./EU070926.xml:  <GBSeq_organism>Dioszegia athyri</GBSeq_organism>
+./AY242817.xml:  <GBSeq_organism>Dioszegia changbaiensis</GBSeq_organism>

@@ -1,0 +1,6 @@
+./AY538714.xml:  <GBSeq_organism>Oceanimonas smirnovii</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./CP001616.xml:  <GBSeq_organism>Tolumonas auensis DSM 9187</GBSeq_organism>
+./AB364966.xml:  <GBSeq_organism>Paramoritella alkaliphila</GBSeq_organism>
+./EU423908.xml:  <GBSeq_organism>Idiomarina marina</GBSeq_organism>
+./AF168367.xml:  <GBSeq_organism>Oceanimonas baumannii</GBSeq_organism>

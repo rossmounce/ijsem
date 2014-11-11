@@ -1,0 +1,8 @@
+./X79289.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./X79186.xml:  <GBSeq_organism>Rhodococcus fascians</GBSeq_organism>
+./X80617.xml:  <GBSeq_organism>Rhodococcus marinonascens</GBSeq_organism>
+./X80619.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./AF416566.xml:  <GBSeq_organism>Rhodococcus maanshanensis</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>
+./AJ854055.xml:  <GBSeq_organism>Rhodococcus triatomae</GBSeq_organism>
+./DQ185597.xml:  <GBSeq_organism>Rhodococcus jialingiae</GBSeq_organism>

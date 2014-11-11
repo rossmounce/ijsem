@@ -1,0 +1,52 @@
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./GU220803.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./EU249394.xml:  <GBSeq_organism>Mesorhizobium caraganae</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./EU249392.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./EU169581.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./AY934876.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./EF149003.xml:  <GBSeq_organism>Mesorhizobium caraganae</GBSeq_organism>
+./EU267715.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./EF639843.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./FJ481887.xml:  <GBSeq_organism>Mesorhizobium alhagi CCNWXJ12-2</GBSeq_organism>
+./EU252607.xml:  <GBSeq_organism>Mesorhizobium tarimense</GBSeq_organism>
+./GU220804.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./GU220806.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./EU130410.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./EU267717.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AF169565.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./GU220801.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./AM182978.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./D13431.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./EU252606.xml:  <GBSeq_organism>Mesorhizobium gobiense</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AM236084.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae 3841</GBSeq_organism>
+./AF169577.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AM182977.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AL672114.xml:  <GBSeq_organism>Mesorhizobium loti R7A</GBSeq_organism>
+./EU267718.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AJ294371.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./EU249391.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./GU220799.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./GU220802.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./AJ294367.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AF169562.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./EU169578.xml:  <GBSeq_organism>Mesorhizobium alhagi CCNWXJ12-2</GBSeq_organism>
+./EF639844.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./GU220805.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./GU220800.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./EF549482.xml:  <GBSeq_organism>Mesorhizobium tarimense</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./EU267716.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./GU220798.xml:  <GBSeq_organism>Mesorhizobium camelthorni</GBSeq_organism>
+./EU267714.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./EF153402.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./CP000133.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./EF549481.xml:  <GBSeq_organism>Mesorhizobium gobiense</GBSeq_organism>
+./DQ100066.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./EU130422.xml:  <GBSeq_organism>Mesorhizobium caraganae</GBSeq_organism>
+./FJ481884.xml:  <GBSeq_organism>Mesorhizobium alhagi CCNWXJ12-2</GBSeq_organism>

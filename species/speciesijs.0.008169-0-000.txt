@@ -1,0 +1,10 @@
+./AY850519.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L16469.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AY982394.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AM275718.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ797227.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./X81877.xml:  <GBSeq_organism>Hallella seregens</GBSeq_organism>
+./EF400846.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ797309.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

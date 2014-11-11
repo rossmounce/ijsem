@@ -1,0 +1,11 @@
+./AB033327.xml:  <GBSeq_organism>Porphyrobacter neustonensis</GBSeq_organism>
+./AY562220.xml:  <GBSeq_organism>Erythrobacter gaetbuli</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AF118020.xml:  <GBSeq_organism>Erythrobacter citreus</GBSeq_organism>
+./AY562219.xml:  <GBSeq_organism>Erythrobacter seohaensis</GBSeq_organism>
+./AY706935.xml:  <GBSeq_organism>Erythrobacter vulgaris</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./AY461441.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>
+./AF500004.xml:  <GBSeq_organism>Erythrobacter flavus</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

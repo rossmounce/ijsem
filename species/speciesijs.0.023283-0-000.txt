@@ -1,0 +1,7 @@
+./AJ242634.xml:  <GBSeq_organism>Lentzea violacea</GBSeq_organism>
+./AY426714.xml:  <GBSeq_organism>Actinoalloteichus spitiensis RMV-1378</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./DQ144222.xml:  <GBSeq_organism>Actinoalloteichus hymeniacidonis</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AF245017.xml:  <GBSeq_organism>Crossiella equi</GBSeq_organism>
+./EF543522.xml:  <GBSeq_organism>Kutzneria albida</GBSeq_organism>

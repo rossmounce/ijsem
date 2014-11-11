@@ -1,0 +1,7 @@
+./AY839869.xml:  <GBSeq_organism>Marinimicrobium koreense</GBSeq_organism>
+./AJ006063.xml:  <GBSeq_organism>Lamprocystis roseopersicina</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./GU339304.xml:  <GBSeq_organism>Kangiella spongicola</GBSeq_organism>
+./EU130557.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./EU850806.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

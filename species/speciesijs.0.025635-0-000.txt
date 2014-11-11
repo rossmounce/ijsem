@@ -1,0 +1,19 @@
+./EU603762.xml:  <GBSeq_organism>Serinicoccus profundi</GBSeq_organism>
+./EU878005.xml:  <GBSeq_organism>Fodinibacter luteus</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./FJ969847.xml:  <GBSeq_organism>Haloactinobacterium album</GBSeq_organism>
+./AM494541.xml:  <GBSeq_organism>Humibacter albus DSM 18994</GBSeq_organism>
+./AY636111.xml:  <GBSeq_organism>Ornithinimicrobium kibberense</GBSeq_organism>
+./AY382898.xml:  <GBSeq_organism>Serinicoccus marinus</GBSeq_organism>
+./X87758.xml:  <GBSeq_organism>Rothia mucilaginosa</GBSeq_organism>
+./X80738.xml:  <GBSeq_organism>Arthrobacter crystallopoietes</GBSeq_organism>
+./EU009865.xml:  <GBSeq_organism>Devriesea agamarum</GBSeq_organism>
+./FJ528304.xml:  <GBSeq_organism>Yimella lutea</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./HM068886.xml:  <GBSeq_organism>Serinicoccus chungangensis</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X93354.xml:  <GBSeq_organism>Arthrobacter cumminsii</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./AJ277650.xml:  <GBSeq_organism>Ornithinimicrobium humiphilum</GBSeq_organism>
+./AJ243919.xml:  <GBSeq_organism>Austwickia chelonae NBRC 105200</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>

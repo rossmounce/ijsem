@@ -1,0 +1,19 @@
+./AM418787.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AY907372.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AM286426.xml:  <GBSeq_organism>Rhizobium cellulosilyticum</GBSeq_organism>
+./EF113149.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./HQ114263.xml:  <GBSeq_organism>Rhizobium pusense</GBSeq_organism>
+./AJ294400.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AJ294398.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./EF579929.xml:  <GBSeq_organism>Rhizobium fabae</GBSeq_organism>
+./EF490019.xml:  <GBSeq_organism>Rhizobium multihospitium</GBSeq_organism>
+./AJ294404.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./HQ114264.xml:  <GBSeq_organism>Agrobacterium larrymoorei</GBSeq_organism>
+./AJ294393.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AY907373.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./AJ294405.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./EU120727.xml:  <GBSeq_organism>Rhizobium mesosinicum</GBSeq_organism>
+./AJ294397.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AY688589.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./AJ294406.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ294395.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>

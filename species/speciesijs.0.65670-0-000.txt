@@ -1,0 +1,14 @@
+./DQ413150.xml:  <GBSeq_organism>Zoogloea caeni</GBSeq_organism>
+./X77679.xml:  <GBSeq_organism>Azoarcus evansii</GBSeq_organism>
+./AJ306683.xml:  <GBSeq_organism>Sterolibacterium denitrificans</GBSeq_organism>
+./AB201043.xml:  <GBSeq_organism>Zoogloea oryzae</GBSeq_organism>
+./AB021385.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./AJ005817.xml:  <GBSeq_organism>Thauera terpenica 58Eu</GBSeq_organism>
+./Y17591.xml:  <GBSeq_organism>Thauera selenatis AX</GBSeq_organism>
+./X74913.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./Y14701.xml:  <GBSeq_organism>Azoarcus anaerobius</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./AF011343.xml:  <GBSeq_organism>Azoarcus communis</GBSeq_organism>
+./DQ413148.xml:  <GBSeq_organism>Zoogloea caeni</GBSeq_organism>
+./X77118.xml:  <GBSeq_organism>Thauera aromatica</GBSeq_organism>
+./AJ005816.xml:  <GBSeq_organism>Thauera linaloolentis 47Lol = DSM 12138</GBSeq_organism>

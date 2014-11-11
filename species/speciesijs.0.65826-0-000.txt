@@ -1,0 +1,11 @@
+./AB330883.xml:  <GBSeq_organism>Amphritea balenae</GBSeq_organism>
+./AB288092.xml:  <GBSeq_organism>Neptunomonas japonica DSM 18939</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AB330882.xml:  <GBSeq_organism>Amphritea japonica</GBSeq_organism>
+./AB021367.xml:  <GBSeq_organism>Marinobacterium stanieri</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./DQ011528.xml:  <GBSeq_organism>Marinomonas communis</GBSeq_organism>
+./AM156910.xml:  <GBSeq_organism>Amphritea atlantica</GBSeq_organism>
+./AB330881.xml:  <GBSeq_organism>Amphritea japonica</GBSeq_organism>
+./AY136116.xml:  <GBSeq_organism>Neptuniibacter caesariensis</GBSeq_organism>

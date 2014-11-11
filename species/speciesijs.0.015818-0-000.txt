@@ -1,0 +1,35 @@
+./AM084229.xml:  <GBSeq_organism>Actinomyces neuii subsp. anitratus</GBSeq_organism>
+./AJ276805.xml:  <GBSeq_organism>Actinomyces catuli</GBSeq_organism>
+./AJ243891.xml:  <GBSeq_organism>Actinomyces canis</GBSeq_organism>
+./Y08828.xml:  <GBSeq_organism>Actinomyces europaeus</GBSeq_organism>
+./X81061.xml:  <GBSeq_organism>Actinomyces bovis</GBSeq_organism>
+./X81062.xml:  <GBSeq_organism>Actinomyces naeslundii</GBSeq_organism>
+./AJ697609.xml:  <GBSeq_organism>Actinomyces dentalis</GBSeq_organism>
+./AJ404889.xml:  <GBSeq_organism>Actinomyces funkei</GBSeq_organism>
+./X78720.xml:  <GBSeq_organism>Actinomyces turicensis</GBSeq_organism>
+./AJ251986.xml:  <GBSeq_organism>Actinomyces radicidentis</GBSeq_organism>
+./X80504.xml:  <GBSeq_organism>Actinomyces odontolyticus</GBSeq_organism>
+./AF433168.xml:  <GBSeq_organism>Actinomyces hongkongensis</GBSeq_organism>
+./X69616.xml:  <GBSeq_organism>Actinomyces hyovaginalis</GBSeq_organism>
+./AM084231.xml:  <GBSeq_organism>Varibaculum cambriense</GBSeq_organism>
+./X82448.xml:  <GBSeq_organism>Actinomyces hordeovulneris</GBSeq_organism>
+./X78719.xml:  <GBSeq_organism>Actinomyces radingae</GBSeq_organism>
+./AJ234053.xml:  <GBSeq_organism>Actinomyces viscosus</GBSeq_organism>
+./AJ507295.xml:  <GBSeq_organism>Actinomyces oricola</GBSeq_organism>
+./X80414.xml:  <GBSeq_organism>Actinomyces gerencseriae</GBSeq_organism>
+./AJ234039.xml:  <GBSeq_organism>Actinomyces bowdenii</GBSeq_organism>
+./FJ617539.xml:  <GBSeq_organism>Actinomyces hominis DSM 22168</GBSeq_organism>
+./AJ276405.xml:  <GBSeq_organism>Actinomyces marimammalium</GBSeq_organism>
+./AJ277385.xml:  <GBSeq_organism>Actinomyces suimastitidis</GBSeq_organism>
+./AJ427451.xml:  <GBSeq_organism>Actinomyces vaccimaxillae</GBSeq_organism>
+./AJ508455.xml:  <GBSeq_organism>Actinomyces nasicola</GBSeq_organism>
+./AJ543039.xml:  <GBSeq_organism>Equus caballus</GBSeq_organism>
+./AM084228.xml:  <GBSeq_organism>Actinomyces neuii subsp. neuii</GBSeq_organism>
+./X82451.xml:  <GBSeq_organism>Actinomyces meyeri</GBSeq_organism>
+./X82453.xml:  <GBSeq_organism>Actinomyces viscosus</GBSeq_organism>
+./X82452.xml:  <GBSeq_organism>Actinomyces slackii</GBSeq_organism>
+./AJ249326.xml:  <GBSeq_organism>Actinomyces coleocanis</GBSeq_organism>
+./EF558367.xml:  <GBSeq_organism>Actinomyces massiliensis 4401292</GBSeq_organism>
+./AJ421779.xml:  <GBSeq_organism>Actinomyces cardiffensis</GBSeq_organism>
+./X82450.xml:  <GBSeq_organism>Actinomyces israelii</GBSeq_organism>
+./X80413.xml:  <GBSeq_organism>Actinomyces georgiae</GBSeq_organism>

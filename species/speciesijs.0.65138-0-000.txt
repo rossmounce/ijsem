@@ -1,0 +1,21 @@
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AF433173.xml:  <GBSeq_organism>Flavobacterium xinjiangense</GBSeq_organism>
+./DQ222428.xml:  <GBSeq_organism>Flavobacterium suncheonense</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./DQ372986.xml:  <GBSeq_organism>Flavobacterium defluvii</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./DQ021903.xml:  <GBSeq_organism>Flavobacterium saliperosum</GBSeq_organism>
+./M58764.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./L14635.xml:  <GBSeq_organism>Capnocytophaga ochracea</GBSeq_organism>
+./DQ178976.xml:  <GBSeq_organism>Flavobacterium soli</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./DQ372981.xml:  <GBSeq_organism>Flavobacterium filum</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./AJ005973.xml:  <GBSeq_organism>Cellulophaga fucicola</GBSeq_organism>
+./DQ372982.xml:  <GBSeq_organism>Flavobacterium croceum</GBSeq_organism>
+./AF090991.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./AB010951.xml:  <GBSeq_organism>Flavobacterium columnare</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>

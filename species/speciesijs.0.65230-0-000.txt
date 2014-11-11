@@ -1,0 +1,9 @@
+./AY228491.xml:  <GBSeq_organism>Candida sp. BCC 7717</GBSeq_organism>
+./U44816.xml:  <GBSeq_organism>Candida pseudointermedia</GBSeq_organism>
+./AF514293.xml:  <GBSeq_organism>Candida hawaiiana</GBSeq_organism>
+./AF313363.xml:  <GBSeq_organism>Metschnikowia orientalis</GBSeq_organism>
+./U44809.xml:  <GBSeq_organism>Candida intermedia</GBSeq_organism>
+./U44818.xml:  <GBSeq_organism>Clavispora opuntiae</GBSeq_organism>
+./EF137918.xml:  <GBSeq_organism>Candida flosculorum</GBSeq_organism>
+./U49064.xml:  <GBSeq_organism>Candida tsuchiyae</GBSeq_organism>
+./DQ655681.xml:  <GBSeq_organism>Candida dosseyi</GBSeq_organism>

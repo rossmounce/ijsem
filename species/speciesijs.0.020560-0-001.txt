@@ -1,0 +1,29 @@
+./FJ648701.xml:  <GBSeq_organism>Burkholderia sp. SWF66247</GBSeq_organism>
+./AF300325.xml:  <GBSeq_organism>Cupriavidus taiwanensis</GBSeq_organism>
+./AJ505301.xml:  <GBSeq_organism>Burkholderia sp. TJ182</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./FJ648700.xml:  <GBSeq_organism>Cupriavidus sp. SWF66232</GBSeq_organism>
+./FJ648696.xml:  <GBSeq_organism>Burkholderia sp. SWF66117S</GBSeq_organism>
+./FJ648690.xml:  <GBSeq_organism>Burkholderia sp. SWF66003</GBSeq_organism>
+./FJ648692.xml:  <GBSeq_organism>Burkholderia sp. SWF66044</GBSeq_organism>
+./DQ648573.xml:  <GBSeq_organism>Rhizobium etli bv. mimosae</GBSeq_organism>
+./FJ648704.xml:  <GBSeq_organism>Burkholderia sp. SWF66304</GBSeq_organism>
+./AY752958.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AJ302312.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./AF063982.xml:  <GBSeq_organism>Rhizobium sp. USDA 2370</GBSeq_organism>
+./FJ751796.xml:  <GBSeq_organism>Cupriavidus sp. SWF66294</GBSeq_organism>
+./AY773186.xml:  <GBSeq_organism>Burkholderia sabiae</GBSeq_organism>
+./FJ648703.xml:  <GBSeq_organism>Rhizobium sp. SWF66289</GBSeq_organism>
+./AB201285.xml:  <GBSeq_organism>Burkholderia terrae</GBSeq_organism>
+./FJ648699.xml:  <GBSeq_organism>Cupriavidus sp. SWF66194</GBSeq_organism>
+./FJ648697.xml:  <GBSeq_organism>Cupriavidus sp. SWF66131</GBSeq_organism>
+./FJ648698.xml:  <GBSeq_organism>Cupriavidus sp. SWF66166</GBSeq_organism>
+./FJ648694.xml:  <GBSeq_organism>Burkholderia sp. SWF66049</GBSeq_organism>
+./FJ648705.xml:  <GBSeq_organism>Cupriavidus sp. SWF66322</GBSeq_organism>
+./EF457941.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./FJ648691.xml:  <GBSeq_organism>Burkholderia sp. SWF66029</GBSeq_organism>
+./AY965240.xml:  <GBSeq_organism>Burkholderia silvatlantica SRMrh-20</GBSeq_organism>
+./AY773189.xml:  <GBSeq_organism>Burkholderia nodosa</GBSeq_organism>
+./AJ420332.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>

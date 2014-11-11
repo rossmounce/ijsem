@@ -1,0 +1,25 @@
+./L20841.xml:  <GBSeq_organism>Methylobacter vinelandii</GBSeq_organism>
+./EF495157.xml:  <GBSeq_organism>Methylomicrobium alcaliphilum 20Z</GBSeq_organism>
+./X73819.xml:  <GBSeq_organism>Methylococcus thermophilus</GBSeq_organism>
+./D15061.xml:  <GBSeq_organism>Escherichia coli str. K12 substr. W3110</GBSeq_organism>
+./AJ414655.xml:  <GBSeq_organism>Methylobacter tundripaludum SV96</GBSeq_organism>
+./EU144025.xml:  <GBSeq_organism>Methylomicrobium album BG8</GBSeq_organism>
+./EU144026.xml:  <GBSeq_organism>Methylomicrobium agile</GBSeq_organism>
+./X72772.xml:  <GBSeq_organism>Methylobacter luteus</GBSeq_organism>
+./AF177297.xml:  <GBSeq_organism>Methylosarcina quisquiliarum</GBSeq_organism>
+./X72771.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./AF096092.xml:  <GBSeq_organism>Methylomicrobium buryatense 5G</GBSeq_organism>
+./AF177296.xml:  <GBSeq_organism>Methylosarcina fibrata AML-C10</GBSeq_organism>
+./AF304197.xml:  <GBSeq_organism>Methylobacter marinus</GBSeq_organism>
+./AF307138.xml:  <GBSeq_organism>Methylomicrobium buryatense</GBSeq_organism>
+./AF304196.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./X72773.xml:  <GBSeq_organism>Methylobacter whittenburyi</GBSeq_organism>
+./AY007296.xml:  <GBSeq_organism>Methylosarcina lacus</GBSeq_organism>
+./AJ563935.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./AJ132384.xml:  <GBSeq_organism>Methylomicrobium kenyense</GBSeq_organism>
+./AJ131369.xml:  <GBSeq_organism>Methylomonas scandinavica</GBSeq_organism>
+./U77533.xml:  <GBSeq_organism>Methylosphaera hansonii</GBSeq_organism>
+./M95662.xml:  <GBSeq_organism>Methylomonas rubra</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./D89279.xml:  <GBSeq_organism>Methylomicrobium japanense</GBSeq_organism>
+./X72775.xml:  <GBSeq_organism>Methylomicrobium pelagicum</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AB267720.xml:  <GBSeq_organism>Pedobacter composti</GBSeq_organism>
+./EU585748.xml:  <GBSeq_organism>Pedobacter glucosidilyticus DSM 23534</GBSeq_organism>
+./AM491369.xml:  <GBSeq_organism>Pedobacter westerhofensis</GBSeq_organism>
+./EF446146.xml:  <GBSeq_organism>Pedobacter lentus</GBSeq_organism>
+./AM491371.xml:  <GBSeq_organism>Pedobacter hartonius</GBSeq_organism>
+./AB245368.xml:  <GBSeq_organism>Pedobacter panaciterrae</GBSeq_organism>
+./EF660751.xml:  <GBSeq_organism>Pedobacter agri PB92</GBSeq_organism>
+./EF446147.xml:  <GBSeq_organism>Pedobacter terricola</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM491370.xml:  <GBSeq_organism>Pedobacter metabolipauper</GBSeq_organism>
+./AM491372.xml:  <GBSeq_organism>Pedobacter steynii</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>
+./AB267722.xml:  <GBSeq_organism>Pedobacter daechungensis</GBSeq_organism>
+./AB245371.xml:  <GBSeq_organism>Pedobacter ginsengisoli</GBSeq_organism>
+./DQ889723.xml:  <GBSeq_organism>Pedobacter terrae</GBSeq_organism>
+./EF424395.xml:  <GBSeq_organism>Flavobacterium lindanitolerans CIP 109890</GBSeq_organism>

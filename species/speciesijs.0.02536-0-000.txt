@@ -1,0 +1,16 @@
+./X98336.xml:  <GBSeq_organism>Pseudoalteromonas antarctica</GBSeq_organism>
+./U85845.xml:  <GBSeq_organism>Colwellia demingiae</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./U85846.xml:  <GBSeq_organism>Colwellia psychrotropica</GBSeq_organism>
+./AF529062.xml:  <GBSeq_organism>Pseudoalteromonas citrea</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./X82147.xml:  <GBSeq_organism>Pseudoalteromonas rubra ATCC 29570</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./U14581.xml:  <GBSeq_organism>Colwellia rossensis</GBSeq_organism>
+./X82138.xml:  <GBSeq_organism>Pseudoalteromonas denitrificans</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./U85847.xml:  <GBSeq_organism>Colwellia hornerae</GBSeq_organism>
+./AF529061.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>

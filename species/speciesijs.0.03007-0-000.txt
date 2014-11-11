@@ -1,0 +1,16 @@
+./X74709.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./X81621.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AF005251.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AF005248.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./X82139.xml:  <GBSeq_organism>Pseudoalteromonas tetraodonis</GBSeq_organism>
+./X82131.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>
+./U85907.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./L10938.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./AJ000214.xml:  <GBSeq_organism>Shewanella baltica</GBSeq_organism>
+./AF003549.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AF011335.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>
+./AY445591.xml:  <GBSeq_organism>Shewanella profunda</GBSeq_organism>
+./X82132.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./D21225.xml:  <GBSeq_organism>Shewanella violacea DSS12</GBSeq_organism>
+./U85903.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>

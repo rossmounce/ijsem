@@ -1,0 +1,16 @@
+./AF157057.xml:  <GBSeq_organism>bacterium &apos;Lincoln Park 3&apos;</GBSeq_organism>
+./AY349370.xml:  <GBSeq_organism>Deferribacteres sp. oral clone JV001</GBSeq_organism>
+./AF059190.xml:  <GBSeq_organism>Mucispirillum schaedleri</GBSeq_organism>
+./AF059189.xml:  <GBSeq_organism>Mucispirillum schaedleri</GBSeq_organism>
+./M59231.xml:  <GBSeq_organism>Flexistipes sinusarabici DSM 4947</GBSeq_organism>
+./X81319.xml:  <GBSeq_organism>Chrysiogenes arsenatis DSM 11915</GBSeq_organism>
+./AY278615.xml:  <GBSeq_organism>Synergistes genomosp. C1</GBSeq_organism>
+./AJ515882.xml:  <GBSeq_organism>Deferribacter abyssi</GBSeq_organism>
+./AF280820.xml:  <GBSeq_organism>uncultured bacterium tbr1-2</GBSeq_organism>
+./X95744.xml:  <GBSeq_organism>Geovibrio ferrireducens</GBSeq_organism>
+./AY387670.xml:  <GBSeq_organism>Mucispirillum schaedleri</GBSeq_organism>
+./AJ299402.xml:  <GBSeq_organism>Geovibrio thiophilus</GBSeq_organism>
+./AY387671.xml:  <GBSeq_organism>Mucispirillum schaedleri</GBSeq_organism>
+./AB086060.xml:  <GBSeq_organism>Deferribacter desulfuricans SSM1</GBSeq_organism>
+./U75602.xml:  <GBSeq_organism>Deferribacter thermophilus</GBSeq_organism>
+./AF146526.xml:  <GBSeq_organism>Denitrovibrio acetiphilus DSM 12809</GBSeq_organism>

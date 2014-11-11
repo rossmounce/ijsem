@@ -1,0 +1,20 @@
+./AF315835.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601002</GBSeq_organism>
+./AF315830.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601800</GBSeq_organism>
+./L07853.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AF315834.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9701605</GBSeq_organism>
+./AE001009.xml:  <GBSeq_organism>Archaeoglobus fulgidus DSM 4304</GBSeq_organism>
+./AF315839.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9701619</GBSeq_organism>
+./L07858.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315836.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601940</GBSeq_organism>
+./L07856.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315829.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9600439</GBSeq_organism>
+./AF315827.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9600915</GBSeq_organism>
+./L07855.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315838.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 16186</GBSeq_organism>
+./AF315833.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601918</GBSeq_organism>
+./L07852.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AF315826.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9601388</GBSeq_organism>
+./L07848.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./L07857.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./L15620.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./AF315831.xml:  <GBSeq_organism>Mycobacterium sp. RiVM 9801560</GBSeq_organism>

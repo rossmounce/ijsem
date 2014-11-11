@@ -1,0 +1,10 @@
+./AJ315060.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./AB188089.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi</GBSeq_organism>
+./DQ298074.xml:  <GBSeq_organism>Oceanobacillus chironomi</GBSeq_organism>
+./AJ640134.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi subsp. incaldanensis</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./DQ386635.xml:  <GBSeq_organism>Oceanobacillus profundus</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AJ133631.xml:  <GBSeq_organism>Alicyclobacillus acidoterrestris</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

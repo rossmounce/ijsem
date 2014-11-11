@@ -1,0 +1,17 @@
+./AM283465.xml:  <GBSeq_organism>Lysobacter defluvii IMMIB APB-9 = DSM 18482</GBSeq_organism>
+./EU376963.xml:  <GBSeq_organism>Lysobacter oryzae</GBSeq_organism>
+./FJ948107.xml:  <GBSeq_organism>Luteimonas terricola</GBSeq_organism>
+./EF623862.xml:  <GBSeq_organism>Lysobacter soli</GBSeq_organism>
+./EF488749.xml:  <GBSeq_organism>Lysobacter capsici</GBSeq_organism>
+./AB807659.xml:  <GBSeq_organism>Trichoderma sp. TAMA 203</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AB245359.xml:  <GBSeq_organism>Lysobacter panaciterrae</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./AB166878.xml:  <GBSeq_organism>Lysobacter koreensis</GBSeq_organism>
+./EU833988.xml:  <GBSeq_organism>Lysobacter xinjiangensis</GBSeq_organism>
+./DQ462462.xml:  <GBSeq_organism>Lysobacter niastensis</GBSeq_organism>
+./AB161360.xml:  <GBSeq_organism>Lysobacter brunescens</GBSeq_organism>
+./AB019582.xml:  <GBSeq_organism>Lysobacter antibioticus</GBSeq_organism>
+./EU237492.xml:  <GBSeq_organism>Lysobacter ximonensis</GBSeq_organism>
+./DQ462461.xml:  <GBSeq_organism>Lysobacter niabensis</GBSeq_organism>
+./AB299978.xml:  <GBSeq_organism>Lysobacter spongiicola</GBSeq_organism>

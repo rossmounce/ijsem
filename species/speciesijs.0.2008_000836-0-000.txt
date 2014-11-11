@@ -1,0 +1,14 @@
+./EF118826.xml:  <GBSeq_organism>Mrakia curviuscula</GBSeq_organism>
+./EU224266.xml:  <GBSeq_organism>Mrakia psychrophila</GBSeq_organism>
+./AF189844.xml:  <GBSeq_organism>Cryptococcus huempii</GBSeq_organism>
+./AJ235274.xml:  <GBSeq_organism>Itersonilia perplexans</GBSeq_organism>
+./AF189848.xml:  <GBSeq_organism>Cystofilobasidium macerans</GBSeq_organism>
+./AJ866978.xml:  <GBSeq_organism>Mrakia frigida</GBSeq_organism>
+./EF118825.xml:  <GBSeq_organism>Tausonia pamirica</GBSeq_organism>
+./AF444709.xml:  <GBSeq_organism>Cystofilobasidium ferigula</GBSeq_organism>
+./AF444721.xml:  <GBSeq_organism>Xanthophyllomyces sp. CBS 9090</GBSeq_organism>
+./AJ866979.xml:  <GBSeq_organism>Mrakia frigida</GBSeq_organism>
+./AF189871.xml:  <GBSeq_organism>Phaffia rhodozyma</GBSeq_organism>
+./AB077382.xml:  <GBSeq_organism>Udeniomyces pannonicus</GBSeq_organism>
+./AF181545.xml:  <GBSeq_organism>Cryptococcus terricola</GBSeq_organism>
+./AF189831.xml:  <GBSeq_organism>Mrakia gelida</GBSeq_organism>

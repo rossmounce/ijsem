@@ -1,0 +1,10 @@
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./D84525.xml:  <GBSeq_organism>Sphingomonas parapaucimobilis</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AF465835.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AJ429236.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>

@@ -1,0 +1,14 @@
+./EF465534.xml:  <GBSeq_organism>Sphingobium rhizovicinum</GBSeq_organism>
+./EF207155.xml:  <GBSeq_organism>Sphingobium ummariense RL-3</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./AM489507.xml:  <GBSeq_organism>Sphingobium olei</GBSeq_organism>
+./AY519129.xml:  <GBSeq_organism>Sphingobium indicum</GBSeq_organism>
+./EF549586.xml:  <GBSeq_organism>Novosphingobium indicum</GBSeq_organism>
+./EU095328.xml:  <GBSeq_organism>Sphingobium qiguonii</GBSeq_organism>
+./D13737.xml:  <GBSeq_organism>Sphingobium suberifaciens</GBSeq_organism>
+./AF159257.xml:  <GBSeq_organism>Sphingobium chungbukense</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./AY519130.xml:  <GBSeq_organism>Sphingobium francense</GBSeq_organism>
+./Y10677.xml:  <GBSeq_organism>Sphingomonas ursincola</GBSeq_organism>
+./X94101.xml:  <GBSeq_organism>Sphingomonas haloaromaticamans</GBSeq_organism>
+./EU675846.xml:  <GBSeq_organism>Sphingobium lactosutens DS20</GBSeq_organism>

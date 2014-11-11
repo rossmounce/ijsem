@@ -1,0 +1,18 @@
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./EU342372.xml:  <GBSeq_organism>Thalassobacter arenae</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./AY906862.xml:  <GBSeq_organism>Jannaschia seosinensis</GBSeq_organism>
+./AY682199.xml:  <GBSeq_organism>Loktanella rosea</GBSeq_organism>
+./AJ748747.xml:  <GBSeq_organism>Jannaschia rubra</GBSeq_organism>
+./AB246747.xml:  <GBSeq_organism>Loktanella atrilutea</GBSeq_organism>
+./AJ631302.xml:  <GBSeq_organism>Thalassobacter stenotrophicus</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./AY442178.xml:  <GBSeq_organism>Thalassobius aestuarii</GBSeq_organism>
+./U14583.xml:  <GBSeq_organism>Octadecabacter antarcticus 307</GBSeq_organism>
+./Y17512.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AY682198.xml:  <GBSeq_organism>Loktanella agnita</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./AJ582225.xml:  <GBSeq_organism>Loktanella fryxellensis</GBSeq_organism>
+./AY600300.xml:  <GBSeq_organism>Loktanella hongkongensis</GBSeq_organism>

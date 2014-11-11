@@ -1,0 +1,10 @@
+./EF640984.xml:  <GBSeq_organism>Kineococcus tegulae</GBSeq_organism>
+./FM210338.xml:  <GBSeq_organism>Kineococcus rhizosphaerae</GBSeq_organism>
+./AB003932.xml:  <GBSeq_organism>Kineosporia succinea JCM 9957</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./AF247813.xml:  <GBSeq_organism>Kineococcus radiotolerans SRS30216 = ATCC BAA-149</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X77958.xml:  <GBSeq_organism>Kineococcus aurantiacus</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./EF667339.xml:  <GBSeq_organism>Kineococcus gynurae</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AY234332.xml:  <GBSeq_organism>Methanocalculus chunghsingensis</GBSeq_organism>
+./CP000254.xml:  <GBSeq_organism>Methanospirillum hungatei JF-1</GBSeq_organism>
+./DQ282124.xml:  <GBSeq_organism>Methanoregula boonei 6A8</GBSeq_organism>
+./EU887821.xml:  <GBSeq_organism>Methanoregula boonei</GBSeq_organism>
+./CP000477.xml:  <GBSeq_organism>Methanosaeta thermophila PT</GBSeq_organism>
+./AF033672.xml:  <GBSeq_organism>Methanocalculus halotolerans</GBSeq_organism>
+./M59143.xml:  <GBSeq_organism>Methanoplanus limicola DSM 2279</GBSeq_organism>
+./M59142.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./EU155922.xml:  <GBSeq_organism>uncultured archaeon</GBSeq_organism>
+./AB162774.xml:  <GBSeq_organism>Methanolinea tarda NOBI-1</GBSeq_organism>
+./AY260435.xml:  <GBSeq_organism>Methanocorpusculum parvum</GBSeq_organism>
+./EU887826.xml:  <GBSeq_organism>Methanoregula boonei</GBSeq_organism>
+./EU156000.xml:  <GBSeq_organism>Methanosphaerula palustris</GBSeq_organism>
+./AF423187.xml:  <GBSeq_organism>toluene-degrading methanogenic consortium archaeon</GBSeq_organism>

@@ -1,0 +1,7 @@
+./U97547.xml:  <GBSeq_organism>Rickettsiella grylli</GBSeq_organism>
+./EF635858.xml:  <GBSeq_organism>Rickettsiella melolonthae</GBSeq_organism>
+./Z32640.xml:  <GBSeq_organism>Legionella israelensis</GBSeq_organism>
+./M21291.xml:  <GBSeq_organism>Coxiella burnetii</GBSeq_organism>
+./EF635859.xml:  <GBSeq_organism>Rickettsiella melolonthae</GBSeq_organism>
+./EF408231.xml:  <GBSeq_organism>Rickettsiella melolonthae</GBSeq_organism>
+./AF383621.xml:  <GBSeq_organism>Rickettsiella sp. GSU</GBSeq_organism>

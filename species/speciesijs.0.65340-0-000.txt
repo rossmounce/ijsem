@@ -1,0 +1,24 @@
+./AB074522.xml:  <GBSeq_organism>Giesbergeria giesbergeri</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF358664.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./X99671.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./AF078756.xml:  <GBSeq_organism>Curvibacter delicatus</GBSeq_organism>
+./Y18618.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./AY780905.xml:  <GBSeq_organism>Giesbergeria voronezhensis</GBSeq_organism>
+./EF612767.xml:  <GBSeq_organism>Insolitispirillum peregrinum subsp. peregrinum</GBSeq_organism>
+./EF100694.xml:  <GBSeq_organism>Caenispirillum bisanense</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AJ535707.xml:  <GBSeq_organism>Labrys monachus</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AJ430342.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./EF612768.xml:  <GBSeq_organism>Insolitispirillum peregrinum subsp. integrum</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./M59065.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./EF612766.xml:  <GBSeq_organism>Novispirillum itersonii subsp. nipponicum</GBSeq_organism>
+./AJ535710.xml:  <GBSeq_organism>Stella humosa</GBSeq_organism>
+./AF078755.xml:  <GBSeq_organism>Simplicispira psychrophila</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>
+./EF612765.xml:  <GBSeq_organism>Novispirillum itersonii subsp. itersonii</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

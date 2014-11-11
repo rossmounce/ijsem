@@ -1,0 +1,25 @@
+./AF447391.xml:  <GBSeq_organism>Rhodococcus aetherivorans</GBSeq_organism>
+./X92114.xml:  <GBSeq_organism>Rhodococcus percolatus</GBSeq_organism>
+./AF173005.xml:  <GBSeq_organism>Rhodococcus pyridinivorans</GBSeq_organism>
+./X79289.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./AB067734.xml:  <GBSeq_organism>Rhodococcus tukisamuensis</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./X79186.xml:  <GBSeq_organism>Rhodococcus fascians</GBSeq_organism>
+./X80617.xml:  <GBSeq_organism>Rhodococcus marinonascens</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AB071951.xml:  <GBSeq_organism>Rhodococcus baikonurensis</GBSeq_organism>
+./AF430066.xml:  <GBSeq_organism>Rhodococcus corynebacterioides</GBSeq_organism>
+./X80626.xml:  <GBSeq_organism>Rhodococcus coprophilus</GBSeq_organism>
+./X80619.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./AF416566.xml:  <GBSeq_organism>Rhodococcus maanshanensis</GBSeq_organism>
+./X80621.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./AY525785.xml:  <GBSeq_organism>Rhodococcus imtechensis RKJ300 = JCM 13270</GBSeq_organism>
+./AF191343.xml:  <GBSeq_organism>Rhodococcus zopfii</GBSeq_organism>
+./AF124343.xml:  <GBSeq_organism>Rhodococcus koreensis</GBSeq_organism>
+./AY726605.xml:  <GBSeq_organism>Rhodococcus kroppenstedtii</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>
+./AB269261.xml:  <GBSeq_organism>Rhodococcus kyotonensis</GBSeq_organism>
+./Z37138.xml:  <GBSeq_organism>Rhodococcus wratislaviensis</GBSeq_organism>
+./AJ854055.xml:  <GBSeq_organism>Rhodococcus triatomae</GBSeq_organism>
+./AY233201.xml:  <GBSeq_organism>Rhodococcus gordoniae</GBSeq_organism>
+./X80625.xml:  <GBSeq_organism>Rhodococcus ruber</GBSeq_organism>

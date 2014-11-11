@@ -1,0 +1,14 @@
+./AY847463.xml:  <GBSeq_organism>Paenibacillus woosongensis</GBSeq_organism>
+./AF391124.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./EU741039.xml:  <GBSeq_organism>Paenibacillus hunanensis</GBSeq_organism>
+./EU179327.xml:  <GBSeq_organism>Paenibacillus taichungensis</GBSeq_organism>
+./EU741036.xml:  <GBSeq_organism>Paenibacillus hunanensis</GBSeq_organism>
+./EU741029.xml:  <GBSeq_organism>Paenibacillus hunanensis</GBSeq_organism>
+./D85396.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./D85397.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./AF021924.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./AJ271157.xml:  <GBSeq_organism>Paenibacillus jamilae</GBSeq_organism>
+./D78470.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./EU741031.xml:  <GBSeq_organism>Paenibacillus hunanensis</GBSeq_organism>

@@ -1,0 +1,23 @@
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY027806.xml:  <GBSeq_organism>Aequorivita crocea</GBSeq_organism>
+./AY027805.xml:  <GBSeq_organism>Aequorivita lipolytica</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AF203475.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AF170749.xml:  <GBSeq_organism>Aequorivita sublithincola DSM 14238</GBSeq_organism>
+./EF108219.xml:  <GBSeq_organism>Gaetbulibacter marinus</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./EF554364.xml:  <GBSeq_organism>Ulvibacter antarcticus</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AF001369.xml:  <GBSeq_organism>Gelidibacter gilvus</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./EU290153.xml:  <GBSeq_organism>Aequorivita capsosiphonis</GBSeq_organism>
+./X67610.xml:  <GBSeq_organism>Capnocytophaga ochracea</GBSeq_organism>

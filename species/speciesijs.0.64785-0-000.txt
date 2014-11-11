@@ -1,0 +1,25 @@
+./AJ238361.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AY966000.xml:  <GBSeq_organism>Massilia plicata</GBSeq_organism>
+./AY679161.xml:  <GBSeq_organism>Massilia alkalitolerans DSM 17462</GBSeq_organism>
+./X65590.xml:  <GBSeq_organism>Telluria chitinolytica</GBSeq_organism>
+./AY728038.xml:  <GBSeq_organism>Herminiimonas arsenicoxydans</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AY376163.xml:  <GBSeq_organism>Pseudoduganella violaceinigra</GBSeq_organism>
+./AJ238356.xml:  <GBSeq_organism>Herbaspirillum rubrisubalbicans</GBSeq_organism>
+./AY676462.xml:  <GBSeq_organism>Herminiimonas fonticola</GBSeq_organism>
+./AM231588.xml:  <GBSeq_organism>Massilia aurea</GBSeq_organism>
+./AM085762.xml:  <GBSeq_organism>Herminiimonas aquatilis</GBSeq_organism>
+./AB109890.xml:  <GBSeq_organism>Herbaspirillum huttiense subsp. putei</GBSeq_organism>
+./AM397629.xml:  <GBSeq_organism>Undibacterium parvum</GBSeq_organism>
+./AY965999.xml:  <GBSeq_organism>Massilia albidiflava</GBSeq_organism>
+./AM397630.xml:  <GBSeq_organism>Undibacterium pigrum</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AY966001.xml:  <GBSeq_organism>Massilia lutea</GBSeq_organism>
+./AF543312.xml:  <GBSeq_organism>Herbaspirillum lusitanum P6-12</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AY965998.xml:  <GBSeq_organism>Massilia dura</GBSeq_organism>
+./AJ238359.xml:  <GBSeq_organism>Herbaspirillum frisingense</GBSeq_organism>
+./AJ310394.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>

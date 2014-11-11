@@ -1,0 +1,15 @@
+./EF550216.xml:  <GBSeq_organism>Saturnispora besseyi</GBSeq_organism>
+./AB439256.xml:  <GBSeq_organism>Candida suwanaritii</GBSeq_organism>
+./HM461621.xml:  <GBSeq_organism>Saturnispora sp. LCF-02</GBSeq_organism>
+./AY762368.xml:  <GBSeq_organism>Fusarium proliferatum</GBSeq_organism>
+./FJ873525.xml:  <GBSeq_organism>Saturnispora sp. LCF-01</GBSeq_organism>
+./AB439259.xml:  <GBSeq_organism>Candida siamensis</GBSeq_organism>
+./U94937.xml:  <GBSeq_organism>Saturnispora dispora</GBSeq_organism>
+./U94932.xml:  <GBSeq_organism>Saturnispora saitoi</GBSeq_organism>
+./FJ873464.xml:  <GBSeq_organism>Candida agrestis</GBSeq_organism>
+./EF550219.xml:  <GBSeq_organism>Saturnispora zaruensis</GBSeq_organism>
+./EF550214.xml:  <GBSeq_organism>Saturnispora mendoncae</GBSeq_organism>
+./GU952247.xml:  <GBSeq_organism>Saturnispora sp. MRC-2010b</GBSeq_organism>
+./FN908197.xml:  <GBSeq_organism>Saturnispora quitensis</GBSeq_organism>
+./U71065.xml:  <GBSeq_organism>Candida silvae</GBSeq_organism>
+./EF550213.xml:  <GBSeq_organism>Candida diversa</GBSeq_organism>

@@ -1,0 +1,24 @@
+./AB021186.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./AJ012667.xml:  <GBSeq_organism>Virgibacillus proomii</GBSeq_organism>
+./X60623.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AB194046.xml:  <GBSeq_organism>Piscibacillus salipiscarius JCM 13188</GBSeq_organism>
+./AB127980.xml:  <GBSeq_organism>Lentibacillus juripiscarius JCM 12147</GBSeq_organism>
+./AY671976.xml:  <GBSeq_organism>Alkalibacillus salilacus</GBSeq_organism>
+./AB188089.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi</GBSeq_organism>
+./X60627.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./AY319933.xml:  <GBSeq_organism>Tenuibacillus multivorans</GBSeq_organism>
+./X90834.xml:  <GBSeq_organism>Salimicrobium album</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AY321434.xml:  <GBSeq_organism>Salinibacillus kushneri</GBSeq_organism>
+./AJ493661.xml:  <GBSeq_organism>Alkalibacillus filiformis</GBSeq_organism>
+./AY603362.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./X62173.xml:  <GBSeq_organism>Planococcus kocurii</GBSeq_organism>

@@ -1,0 +1,17 @@
+./AB021373.xml:  <GBSeq_organism>Pseudomonas resinovorans</GBSeq_organism>
+./U26418.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./AF094713.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF094725.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./AB021379.xml:  <GBSeq_organism>Pseudomonas pseudoalcaligenes</GBSeq_organism>
+./AF094721.xml:  <GBSeq_organism>Pseudomonas alcaligenes</GBSeq_organism>
+./AF468448.xml:  <GBSeq_organism>Pseudomonas jinjuensis</GBSeq_organism>
+./AJ308320.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./AF143245.xml:  <GBSeq_organism>Pseudomonas stutzeri A1501</GBSeq_organism>
+./AB030583.xml:  <GBSeq_organism>Pseudomonas alcaliphila</GBSeq_organism>
+./AF094736.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AJ308310.xml:  <GBSeq_organism>Pseudomonas mendocina</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>
+./AF302795.xml:  <GBSeq_organism>Pseudomonas indica</GBSeq_organism>
+./AB189452.xml:  <GBSeq_organism>Pseudomonas azotifigens</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AJ314919.xml:  <GBSeq_organism>Corynebacterium appendicis CIP 107643</GBSeq_organism>
+./X96497.xml:  <GBSeq_organism>Corynebacterium coyleae</GBSeq_organism>
+./X82054.xml:  <GBSeq_organism>Corynebacterium afermentans</GBSeq_organism>
+./AM397636.xml:  <GBSeq_organism>Corynebacterium ureicelerivorans</GBSeq_organism>
+./Y11200.xml:  <GBSeq_organism>Corynebacterium mucifaciens CIP 105129</GBSeq_organism>
+./Y09655.xml:  <GBSeq_organism>Corynebacterium sundsvallense</GBSeq_organism>
+./Y14651.xml:  <GBSeq_organism>Corynebacterium riegelii</GBSeq_organism>
+./AF010474.xml:  <GBSeq_organism>Corynebacterium thomssenii</GBSeq_organism>
+./X84241.xml:  <GBSeq_organism>Corynebacterium mycetoides</GBSeq_organism>
+./AJ431634.xml:  <GBSeq_organism>Corynebacterium glaucum</GBSeq_organism>
+./X82055.xml:  <GBSeq_organism>Corynebacterium afermentans subsp. lipophilum</GBSeq_organism>
+./X82493.xml:  <GBSeq_organism>Corynebacterium sp.</GBSeq_organism>
+./AJ297402.xml:  <GBSeq_organism>Corynebacterium capitovis</GBSeq_organism>
+./Y09044.xml:  <GBSeq_organism>Corynebacterium imitans</GBSeq_organism>
+./Y09045.xml:  <GBSeq_organism>Corynebacterium lipophiloflavum</GBSeq_organism>

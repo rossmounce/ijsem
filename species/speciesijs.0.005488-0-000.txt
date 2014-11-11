@@ -1,0 +1,63 @@
+./EU003680.xml:  <GBSeq_organism>Streptococcus sobrinus</GBSeq_organism>
+./EU003717.xml:  <GBSeq_organism>Streptococcus pseudopneumoniae ATCC BAA-960</GBSeq_organism>
+./EU003674.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./EU003652.xml:  <GBSeq_organism>Streptococcus hyovaginalis</GBSeq_organism>
+./EU003620.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./EU003656.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./EU003704.xml:  <GBSeq_organism>Streptococcus infantarius subsp. infantarius</GBSeq_organism>
+./EU003688.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./EU003651.xml:  <GBSeq_organism>Streptococcus halichoeri</GBSeq_organism>
+./EU003682.xml:  <GBSeq_organism>Streptococcus thermophilus</GBSeq_organism>
+./EU003668.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./EU003667.xml:  <GBSeq_organism>Streptococcus orisratti</GBSeq_organism>
+./EU003710.xml:  <GBSeq_organism>Streptococcus thoraltensis</GBSeq_organism>
+./EU003694.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./EU003686.xml:  <GBSeq_organism>Streptococcus urinalis 2285-97</GBSeq_organism>
+./EU003648.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./EU003681.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./EU003646.xml:  <GBSeq_organism>Streptococcus equi subsp. zooepidemicus</GBSeq_organism>
+./EU003658.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./EU003638.xml:  <GBSeq_organism>Streptococcus didelphis</GBSeq_organism>
+./EU003628.xml:  <GBSeq_organism>Streptococcus anginosus SK52 = DSM 20563</GBSeq_organism>
+./EU003678.xml:  <GBSeq_organism>Streptococcus salivarius</GBSeq_organism>
+./EU003690.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./EU003619.xml:  <GBSeq_organism>Gemella morbillorum</GBSeq_organism>
+./EU003698.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus</GBSeq_organism>
+./EU003702.xml:  <GBSeq_organism>Streptococcus pasteurianus</GBSeq_organism>
+./EU003631.xml:  <GBSeq_organism>Streptococcus australis ATCC 700641</GBSeq_organism>
+./EU003615.xml:  <GBSeq_organism>Tridacna squamosa</GBSeq_organism>
+./EU003670.xml:  <GBSeq_organism>Streptococcus parauberis</GBSeq_organism>
+./EU003645.xml:  <GBSeq_organism>Streptococcus equi subsp. equi</GBSeq_organism>
+./EU003687.xml:  <GBSeq_organism>Streptococcus vestibularis ATCC 49124</GBSeq_organism>
+./EU003663.xml:  <GBSeq_organism>Streptococcus oralis ATCC 35037</GBSeq_organism>
+./EU003708.xml:  <GBSeq_organism>Streptococcus phocae</GBSeq_organism>
+./EU003642.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. equisimilis</GBSeq_organism>
+./EU003706.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./EU003691.xml:  <GBSeq_organism>Streptococcus devriesei</GBSeq_organism>
+./EU003675.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./EU003657.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./EU003662.xml:  <GBSeq_organism>Streptococcus oligofermentans AS 1.3089</GBSeq_organism>
+./EU003636.xml:  <GBSeq_organism>Streptococcus cristatus ATCC 51100</GBSeq_organism>
+./EU003641.xml:  <GBSeq_organism>Streptococcus downei MFe28</GBSeq_organism>
+./EU003700.xml:  <GBSeq_organism>Streptococcus macedonicus</GBSeq_organism>
+./EU003669.xml:  <GBSeq_organism>Streptococcus parasanguinis</GBSeq_organism>
+./EU003621.xml:  <GBSeq_organism>Streptococcus agalactiae ATCC 13813</GBSeq_organism>
+./EU003685.xml:  <GBSeq_organism>Streptococcus uberis</GBSeq_organism>
+./Eu003650.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./EU003647.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./EU003635.xml:  <GBSeq_organism>Streptococcus constellatus subsp. constellatus</GBSeq_organism>
+./EU003713.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./EU003653.xml:  <GBSeq_organism>Streptococcus infantis ATCC 700779</GBSeq_organism>
+./EU003644.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>
+./EU003677.xml:  <GBSeq_organism>Streptococcus ratti</GBSeq_organism>
+./EU003689.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./EU003672.xml:  <GBSeq_organism>Streptococcus pluranimalium</GBSeq_organism>
+./EU003661.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./EU003679.xml:  <GBSeq_organism>Streptococcus sinensis</GBSeq_organism>
+./EU003711.xml:  <GBSeq_organism>Streptococcus sanguinis</GBSeq_organism>
+./EU003716.xml:  <GBSeq_organism>Streptococcus marimammalium</GBSeq_organism>
+./EU003643.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae</GBSeq_organism>
+./EU003692.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./EU003714.xml:  <GBSeq_organism>Streptococcus massiliensis</GBSeq_organism>
+./EU003632.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>
+./EU003654.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>

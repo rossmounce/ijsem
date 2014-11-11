@@ -1,0 +1,34 @@
+./AY158654.xml:  <GBSeq_organism>Rhodotorula sp. CRUB 1032</GBSeq_organism>
+./AF189968.xml:  <GBSeq_organism>Rhodotorula slooffiae</GBSeq_organism>
+./FJ807687.xml:  <GBSeq_organism>Rhodotorula slooffiae</GBSeq_organism>
+./AF387145.xml:  <GBSeq_organism>Rhodotorula sp. IGC 5612</GBSeq_organism>
+./AF189938.xml:  <GBSeq_organism>Rhodotorula laryngis</GBSeq_organism>
+./AF189936.xml:  <GBSeq_organism>Rhodotorula lactosa</GBSeq_organism>
+./AF189966.xml:  <GBSeq_organism>Rhodotorula slooffiae</GBSeq_organism>
+./AF131062.xml:  <GBSeq_organism>Occultifur externus</GBSeq_organism>
+./AF189984.xml:  <GBSeq_organism>Sporobolomyces foliicola</GBSeq_organism>
+./AF189945.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>
+./AY158652.xml:  <GBSeq_organism>Rhodotorula pinicola</GBSeq_organism>
+./AF189972.xml:  <GBSeq_organism>Sakaguchia dacryoidea</GBSeq_organism>
+./AF189948.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>
+./AF189962.xml:  <GBSeq_organism>Rhodotorula pallida</GBSeq_organism>
+./AF189942.xml:  <GBSeq_organism>Rhodotorula laryngis</GBSeq_organism>
+./AF189920.xml:  <GBSeq_organism>Rhodotorula armeniaca</GBSeq_organism>
+./AF189944.xml:  <GBSeq_organism>Rhodotorula marina</GBSeq_organism>
+./AF189973.xml:  <GBSeq_organism>Sakaguchia dacryoidea</GBSeq_organism>
+./AF485998.xml:  <GBSeq_organism>Sakaguchia dacryoidea</GBSeq_organism>
+./AF189947.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>
+./AF444293.xml:  <GBSeq_organism>Rhodotorula pinicola</GBSeq_organism>
+./AF189991.xml:  <GBSeq_organism>Sporobolomyces phyllomatis</GBSeq_organism>
+./AF460176.xml:  <GBSeq_organism>Sporobolomyces vermiculatus</GBSeq_organism>
+./AF189921.xml:  <GBSeq_organism>Rhodotorula aurantiaca</GBSeq_organism>
+./AF444726.xml:  <GBSeq_organism>Rhodotorula sp. NRRL Y-17502</GBSeq_organism>
+./EF595751.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>
+./AY335161.xml:  <GBSeq_organism>Rhodotorula oryzicola</GBSeq_organism>
+./FJ527100.xml:  <GBSeq_organism>Rhodotorula sp. GY28L06</GBSeq_organism>
+./AF189967.xml:  <GBSeq_organism>Rhodotorula slooffiae</GBSeq_organism>
+./AF189965.xml:  <GBSeq_organism>Rhodotorula slooffiae</GBSeq_organism>
+./AY731725.xml:  <GBSeq_organism>Rhodotorula sp. MARY 063</GBSeq_organism>
+./FJ807684.xml:  <GBSeq_organism>Rhodotorula slooffiae</GBSeq_organism>
+./AF189946.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>
+./AF189949.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>

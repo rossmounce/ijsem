@@ -1,0 +1,17 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AY521224.xml:  <GBSeq_organism>Winogradskyella epiphytica</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY883939.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AF469612.xml:  <GBSeq_organism>Tenacibaculum skagerrakense</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M61002.xml:  <GBSeq_organism>Polaribacter irgensii</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AY883938.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY521225.xml:  <GBSeq_organism>Winogradskyella eximia</GBSeq_organism>

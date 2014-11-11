@@ -1,0 +1,11 @@
+./EF192392.xml:  <GBSeq_organism>Pelagicola litoralis</GBSeq_organism>
+./EU512919.xml:  <GBSeq_organism>Marivita cryptomonadis</GBSeq_organism>
+./FJ232451.xml:  <GBSeq_organism>Sedimentitalea nanhaiensis DSM 24252</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./GO232737.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AM943630.xml:  <GBSeq_organism>Leisingera caerulea</GBSeq_organism>
+./CP000362.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./AM900415.xml:  <GBSeq_organism>Leisingera aquimarina</GBSeq_organism>

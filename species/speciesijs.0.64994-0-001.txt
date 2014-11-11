@@ -1,0 +1,11 @@
+./AJ292674.xml:  <GBSeq_organism>uncultured eubacterium WD280</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AJ295469.xml:  <GBSeq_organism>uncultured rape rhizosphere bacterium wr0008</GBSeq_organism>
+./AY328560.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ292675.xml:  <GBSeq_organism>uncultured eubacterium WD284</GBSeq_organism>
+./AY212729.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ001010.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./EF178286.xml:  <GBSeq_organism>Nevskia soli DSM 19509</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./AY328622.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ001011.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>

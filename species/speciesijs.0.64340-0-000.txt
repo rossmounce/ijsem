@@ -1,0 +1,15 @@
+./AJ628748.xml:  <GBSeq_organism>Bacillus muralis</GBSeq_organism>
+./AB243847.xml:  <GBSeq_organism>Terribacillus saccharophilus</GBSeq_organism>
+./AB243845.xml:  <GBSeq_organism>Terribacillus saccharophilus</GBSeq_organism>
+./AJ315060.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./AY553296.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./AB010863.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./AF281158.xml:  <GBSeq_organism>Jeotgalibacillus alimentarius</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AB243849.xml:  <GBSeq_organism>Terribacillus halophilus</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AF414044.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./AF313805.xml:  <GBSeq_organism>Methanospirillum hungatei JF-1</GBSeq_organism>
+./AB479391.xml:  <GBSeq_organism>Methanoregula formicica SMSP</GBSeq_organism>
+./AF414041.xml:  <GBSeq_organism>Methanofollis liminatans DSM 4140</GBSeq_organism>
+./AF313806.xml:  <GBSeq_organism>Methanobacterium bryantii</GBSeq_organism>
+./AF414045.xml:  <GBSeq_organism>Methanocorpusculum parvum</GBSeq_organism>
+./AB300466.xml:  <GBSeq_organism>Methanolinea tarda NOBI-1</GBSeq_organism>

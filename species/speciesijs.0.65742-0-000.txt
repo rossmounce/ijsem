@@ -1,0 +1,22 @@
+./AJ491303.xml:  <GBSeq_organism>Caryophanon tenue</GBSeq_organism>
+./AF144750.xml:  <GBSeq_organism>Planomicrobium koreense</GBSeq_organism>
+./AJ277984.xml:  <GBSeq_organism>Psychrobacillus psychrodurans</GBSeq_organism>
+./AJ627211.xml:  <GBSeq_organism>Viridibacillus arvi</GBSeq_organism>
+./AF169531.xml:  <GBSeq_organism>Rummeliibacillus pycnus</GBSeq_organism>
+./AY677116.xml:  <GBSeq_organism>Lysinibacillus massiliensis 4400831 = CIP 108448 = CCUG 49529</GBSeq_organism>
+./AF169520.xml:  <GBSeq_organism>Viridibacillus neidei</GBSeq_organism>
+./AJ310083.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./AJ292316.xml:  <GBSeq_organism>Filibacter limicola</GBSeq_organism>
+./AJ277983.xml:  <GBSeq_organism>Psychrobacillus psychrotolerans</GBSeq_organism>
+./AJ627212.xml:  <GBSeq_organism>Viridibacillus arenosi</GBSeq_organism>
+./AB325583.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./M58800.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AB271738.xml:  <GBSeq_organism>Kurthia gibsonii</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AJ310084.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./AF500008.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AJ491302.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./AF526913.xml:  <GBSeq_organism>Lysinibacillus odysseyi</GBSeq_organism>

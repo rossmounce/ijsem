@@ -1,0 +1,3 @@
+./AB372855.xml:  <GBSeq_organism>Haloferula helveola</GBSeq_organism>
+./AB331886.xml:  <GBSeq_organism>Persicirhabdus sediminis DSM 22463</GBSeq_organism>
+./AB331888.xml:  <GBSeq_organism>Roseibacillus ishigakijimensis</GBSeq_organism>

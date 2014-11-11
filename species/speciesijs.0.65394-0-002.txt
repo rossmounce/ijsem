@@ -1,0 +1,12 @@
+./AF313802.xml:  <GBSeq_organism>Methanosaeta concilii GP6</GBSeq_organism>
+./AF414044.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./AF313805.xml:  <GBSeq_organism>Methanospirillum hungatei JF-1</GBSeq_organism>
+./DQ229160.xml:  <GBSeq_organism>Methanogenium organophilum</GBSeq_organism>
+./AF414036.xml:  <GBSeq_organism>Methanoculleus bourgensis MS2</GBSeq_organism>
+./AF414041.xml:  <GBSeq_organism>Methanofollis liminatans DSM 4140</GBSeq_organism>
+./AF313806.xml:  <GBSeq_organism>Methanobacterium bryantii</GBSeq_organism>
+./AB300467.xml:  <GBSeq_organism>Methanocella paludicola SANAE</GBSeq_organism>
+./AM114193.xml:  <GBSeq_organism>Methanocella arvoryzae MRE50</GBSeq_organism>
+./AF414043.xml:  <GBSeq_organism>Methanosarcina mazei</GBSeq_organism>
+./AF414045.xml:  <GBSeq_organism>Methanocorpusculum parvum</GBSeq_organism>
+./AB300466.xml:  <GBSeq_organism>Methanolinea tarda NOBI-1</GBSeq_organism>

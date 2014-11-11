@@ -1,0 +1,19 @@
+./AB185957.xml:  <GBSeq_organism>Paracoccus marinus</GBSeq_organism>
+./AM180953.xml:  <GBSeq_organism>Rhodovulum imhoffii</GBSeq_organism>
+./D32241.xml:  <GBSeq_organism>Paracoccus kocurii</GBSeq_organism>
+./DQ423482.xml:  <GBSeq_organism>Paracoccus halophilus</GBSeq_organism>
+./AM748927.xml:  <GBSeq_organism>Rhodovulum kholense</GBSeq_organism>
+./AF250332.xml:  <GBSeq_organism>Paracoccus kondratievae</GBSeq_organism>
+./AM745438.xml:  <GBSeq_organism>Rhodobacter maris</GBSeq_organism>
+./D70846.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./AM180707.xml:  <GBSeq_organism>Rhodovulum visakhapatnamense</GBSeq_organism>
+./EU313813.xml:  <GBSeq_organism>Gemmobacter aquaticus</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./D16421.xml:  <GBSeq_organism>Rhodobacter veldkampii DSM 11550</GBSeq_organism>
+./AM690348.xml:  <GBSeq_organism>Rhodobacter ovatus</GBSeq_organism>
+./AB187584.xml:  <GBSeq_organism>Paracoccus koreensis</GBSeq_organism>
+./D16426.xml:  <GBSeq_organism>Rhodovulum euryhalinum</GBSeq_organism>
+./AJ428275.xml:  <GBSeq_organism>Paracoccus seriniphilus</GBSeq_organism>
+./AY014175.xml:  <GBSeq_organism>Paracoccus solventivorans</GBSeq_organism>
+./AM421024.xml:  <GBSeq_organism>Rhodobacter megalophilus</GBSeq_organism>
+./AY014174.xml:  <GBSeq_organism>Paracoccus versutus</GBSeq_organism>

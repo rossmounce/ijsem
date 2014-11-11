@@ -1,0 +1,13 @@
+./FJ527144.xml:  <GBSeq_organism>Candida sp. GA1S07</GBSeq_organism>
+./GO149081.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./FJ154790.xml:  <GBSeq_organism>Candida materiae</GBSeq_organism>
+./U45839.xml:  <GBSeq_organism>Debaryomyces nepalensis</GBSeq_organism>
+./U45805.xml:  <GBSeq_organism>Debaryomyces robertsiae</GBSeq_organism>
+./U45753.xml:  <GBSeq_organism>Candida insectamans</GBSeq_organism>
+./U45844.xml:  <GBSeq_organism>Debaryomyces udenii</GBSeq_organism>
+./U45813.xml:  <GBSeq_organism>Candida psychrophila</GBSeq_organism>
+./U45808.xml:  <GBSeq_organism>Debaryomyces hansenii</GBSeq_organism>
+./AB523754.xml:  <GBSeq_organism>Candida sp. KU-Xn20</GBSeq_organism>
+./AY048154.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./EU836708.xml:  <GBSeq_organism>Candida subhashii</GBSeq_organism>
+./AY520415.xml:  <GBSeq_organism>Candida jeffriesii</GBSeq_organism>

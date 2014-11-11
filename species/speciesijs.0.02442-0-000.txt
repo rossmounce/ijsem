@@ -1,0 +1,8 @@
+./X84246.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./Y09806.xml:  <GBSeq_organism>Corynebacterium mastitidis</GBSeq_organism>
+./Y09569.xml:  <GBSeq_organism>Corynebacterium camporealensis</GBSeq_organism>
+./AJ441057.xml:  <GBSeq_organism>Corynebacterium atypicum</GBSeq_organism>
+./X82054.xml:  <GBSeq_organism>Corynebacterium afermentans</GBSeq_organism>
+./X84241.xml:  <GBSeq_organism>Corynebacterium mycetoides</GBSeq_organism>
+./X84375.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./X86688.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>

@@ -1,0 +1,5 @@
+./U84233.xml:  <GBSeq_organism>Galactomyces citri-aurantii</GBSeq_organism>
+./U40111.xml:  <GBSeq_organism>Galactomyces reessii</GBSeq_organism>
+./AY158042.xml:  <GBSeq_organism>Geotrichum silvicola</GBSeq_organism>
+./AF017396.xml:  <GBSeq_organism>Galactomyces sp. NRRL Y-6418</GBSeq_organism>
+./U40081.xml:  <GBSeq_organism>Dipodascus albidus</GBSeq_organism>

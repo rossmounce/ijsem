@@ -1,0 +1,32 @@
+./X80598.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AF154129.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AF430058.xml:  <GBSeq_organism>Nocardia sp. DSM 43399</GBSeq_organism>
+./Z46750.xml:  <GBSeq_organism>Nocardia salmonicida</GBSeq_organism>
+./AF278572.xml:  <GBSeq_organism>Nocardia veterana</GBSeq_organism>
+./X80607.xml:  <GBSeq_organism>Nocardia carnea NBRC 14403</GBSeq_organism>
+./Z36927.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AF060790.xml:  <GBSeq_organism>Nocardia cerradoensis</GBSeq_organism>
+./Z46754.xml:  <GBSeq_organism>Nocardia flavorosea</GBSeq_organism>
+./AF430068.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./M59056.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AF277198.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./AF282889.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./X84852.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./X80593.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AB092563.xml:  <GBSeq_organism>Nocardia niigatensis</GBSeq_organism>
+./AJ303008.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./AF277199.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AF179865.xml:  <GBSeq_organism>Nocardia paucivorans</GBSeq_organism>
+./AF430060.xml:  <GBSeq_organism>Nocardia sp. DSM 40872</GBSeq_organism>
+./AF430043.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AF430053.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./AF277223.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AB092562.xml:  <GBSeq_organism>Nocardia niigatensis</GBSeq_organism>
+./X80608.xml:  <GBSeq_organism>Nocardia brasiliensis</GBSeq_organism>
+./X80600.xml:  <GBSeq_organism>Nocardia brevicatena NBRC 12119</GBSeq_organism>
+./AB110907.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AB024312.xml:  <GBSeq_organism>Nocardia vinacea</GBSeq_organism>
+./X80592.xml:  <GBSeq_organism>Nocardia seriolae</GBSeq_organism>
+./AB092565.xml:  <GBSeq_organism>Nocardia niigatensis</GBSeq_organism>

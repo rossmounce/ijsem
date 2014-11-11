@@ -1,0 +1,9 @@
+./AY530294.xml:  <GBSeq_organism>Paenibacillus larvae subsp. larvae</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./EU939688.xml:  <GBSeq_organism>Paenibacillus rigui</GBSeq_organism>
+./AY839866.xml:  <GBSeq_organism>Paenibacillus gansuensis</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./AF290916.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./AY359885.xml:  <GBSeq_organism>Paenibacillus dendritiformis</GBSeq_organism>

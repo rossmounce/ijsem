@@ -1,0 +1,56 @@
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./AJ459801.xml:  <GBSeq_organism>Thermithiobacillus tepidarius</GBSeq_organism>
+./EF999973.xml:  <GBSeq_organism>Thiodictyon elegans</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./AY690336.xml:  <GBSeq_organism>Nitrosococcus oceani ATCC 19707</GBSeq_organism>
+./AM229324.xml:  <GBSeq_organism>Arenimonas composti TR7-09 = DSM 18010</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./M59150.xml:  <GBSeq_organism>Thermochromatium tepidum ATCC 43061</GBSeq_organism>
+./DQ112664.xml:  <GBSeq_organism>Arsukibacterium ikkense</GBSeq_organism>
+./M26629.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./AJ252143.xml:  <GBSeq_organism>Ignatzschineria larvae DSM 13226</GBSeq_organism>
+./AJ224430.xml:  <GBSeq_organism>Isochromatium buderi</GBSeq_organism>
+./AJ223234.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./X98597.xml:  <GBSeq_organism>Halochromatium salexigens</GBSeq_organism>
+./EF103128.xml:  <GBSeq_organism>Natronocella acetinitrilica</GBSeq_organism>
+./AB118236.xml:  <GBSeq_organism>Thiovirga sulfuroxydans</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AM404263.xml:  <GBSeq_organism>Aquisalimonas asiatica</GBSeq_organism>
+./AY987368.xml:  <GBSeq_organism>Dokdonella koreensis</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./Y12297.xml:  <GBSeq_organism>Thiolamprovum pedioforme</GBSeq_organism>
+./Y11315.xml:  <GBSeq_organism>Thiocystis violacea</GBSeq_organism>
+./AJ006063.xml:  <GBSeq_organism>Lamprocystis roseopersicina</GBSeq_organism>
+./M26631.xml:  <GBSeq_organism>Arhodomonas aquaeolei</GBSeq_organism>
+./EF605262.xml:  <GBSeq_organism>Steroidobacter denitrificans</GBSeq_organism>
+./AB016986.xml:  <GBSeq_organism>Thiorhodovibrio winogradskyi</GBSeq_organism>
+./AJ404006.xml:  <GBSeq_organism>Thiobaca trueperi</GBSeq_organism>
+./AJ002796.xml:  <GBSeq_organism>Thiohalocapsa halophila</GBSeq_organism>
+./AJ441080.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./DQ411038.xml:  <GBSeq_organism>Arenimonas donghaensis</GBSeq_organism>
+./AJ223235.xml:  <GBSeq_organism>Lamprocystis purpurea DSM 4197</GBSeq_organism>
+./AJ580498.xml:  <GBSeq_organism>Luteibacter rhizovicinus</GBSeq_organism>
+./AJ010481.xml:  <GBSeq_organism>Frateuria aurantia DSM 6220</GBSeq_organism>
+./AJ001010.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./M26630.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./AY298904.xml:  <GBSeq_organism>Ectothiorhodosinus mongolicus</GBSeq_organism>
+./EF067861.xml:  <GBSeq_organism>Solimonas soli</GBSeq_organism>
+./Y12373.xml:  <GBSeq_organism>Thiococcus pfennigii</GBSeq_organism>
+./AJ010126.xml:  <GBSeq_organism>Thioflavicoccus mobilis 8321</GBSeq_organism>
+./AF113000.xml:  <GBSeq_organism>Thiocapsa roseopersicina</GBSeq_organism>
+./AY557615.xml:  <GBSeq_organism>Silanimonas lenta</GBSeq_organism>
+./AF173169.xml:  <GBSeq_organism>Halothiobacillus neapolitanus</GBSeq_organism>
+./AF126546.xml:  <GBSeq_organism>Thioalkalivibrio versutus AL 2</GBSeq_organism>
+./AJ277023.xml:  <GBSeq_organism>Thioalkalicoccus limnaeus</GBSeq_organism>
+./X93473.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./AF481118.xml:  <GBSeq_organism>Thioalkalispira microaerophila</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./EF154515.xml:  <GBSeq_organism>Solimonas flava DSM 18980</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./X84316.xml:  <GBSeq_organism>Rhabdochromatium marinum</GBSeq_organism>
+./AJ006530.xml:  <GBSeq_organism>Thiorhodospira sibirica ATCC 700588</GBSeq_organism>
+./AJ421425.xml:  <GBSeq_organism>Salinisphaera shabanensis E1L3A</GBSeq_organism>

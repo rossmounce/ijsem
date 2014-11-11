@@ -1,0 +1,44 @@
+./EU256384.xml:  <GBSeq_organism>Rhizobium borbori</GBSeq_organism>
+./AM181732.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./EU256404.xml:  <GBSeq_organism>Rhizobium tibeticum</GBSeq_organism>
+./AF003375.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./EF141340.xml:  <GBSeq_organism>Rhizobium phaseoli</GBSeq_organism>
+./GU356639.xml:  <GBSeq_organism>Rhizobium borbori</GBSeq_organism>
+./AY341343.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./EU056823.xml:  <GBSeq_organism>Rhizobium oryzae</GBSeq_organism>
+./AF506513.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./DQ100063.xml:  <GBSeq_organism>Rhizobium mesosinicum</GBSeq_organism>
+./AF364067.xml:  <GBSeq_organism>Sinorhizobium kummerowiae</GBSeq_organism>
+./AY034026.xml:  <GBSeq_organism>Rhizobium loessense</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./EF061096.xml:  <GBSeq_organism>Rhizobium miluonense</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./Z30542.xml:  <GBSeq_organism>Agrobacterium larrymoorei</GBSeq_organism>
+./AM181758.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./X67233.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AJ420773.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./U29386.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67225.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./D14503.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./EF532794.xml:  <GBSeq_organism>Daeguia caeni</GBSeq_organism>
+./X87273.xml:  <GBSeq_organism>Rhizobium lupini</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AY509899.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./AM931436.xml:  <GBSeq_organism>Rhizobium alamii</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AY945955.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./EF035074.xml:  <GBSeq_organism>Rhizobium multihospitium</GBSeq_organism>
+./X67231.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AM181744.xml:  <GBSeq_organism>Sinorhizobium arboris LMG 14919</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./EF125187.xml:  <GBSeq_organism>Rhizobium borbori</GBSeq_organism>
+./AF364068.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./AY024335.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AM181748.xml:  <GBSeq_organism>Sinorhizobium kostiense</GBSeq_organism>
+./EF440185.xml:  <GBSeq_organism>Rhizobium selenitireducens</GBSeq_organism>
+./EU074168.xml:  <GBSeq_organism>Neorhizobium alkalisoli</GBSeq_organism>

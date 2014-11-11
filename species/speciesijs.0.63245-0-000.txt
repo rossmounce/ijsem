@@ -1,0 +1,31 @@
+./U51874.xml:  <GBSeq_organism>Helicobacter sp. Dog-4</GBSeq_organism>
+./AF225546.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578101.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./U46129.xml:  <GBSeq_organism>Helicobacter cholecystus</GBSeq_organism>
+./AF225547.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578098.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF363063.xml:  <GBSeq_organism>Helicobacter winghamensis</GBSeq_organism>
+./AF047851.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF118807.xml:  <GBSeq_organism>Flexispira sp. CDC-H69</GBSeq_organism>
+./L14630.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AF054572.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./U65103.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./AY578099.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF297868.xml:  <GBSeq_organism>Helicobacter aurati</GBSeq_organism>
+./AY578097.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578095.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF225549.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./M88154.xml:  <GBSeq_organism>Helicobacter fennelliae</GBSeq_organism>
+./M88150.xml:  <GBSeq_organism>Helicobacter cinaedi CCUG 18818</GBSeq_organism>
+./U07574.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./AY578100.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578096.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./M80205.xml:  <GBSeq_organism>Helicobacter muridarum</GBSeq_organism>
+./AY578094.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./L36141.xml:  <GBSeq_organism>Helicobacter pullorum NCTC 12824</GBSeq_organism>
+./AF034135.xml:  <GBSeq_organism>Flexispira rappini</GBSeq_organism>
+./AF118017.xml:  <GBSeq_organism>Flexispira rappini</GBSeq_organism>
+./AF336948.xml:  <GBSeq_organism>Helicobacter sp. MIT 95-234-6</GBSeq_organism>
+./L13464.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./U18766.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF396079.xml:  <GBSeq_organism>Helicobacter cinaedi</GBSeq_organism>

@@ -1,0 +1,9 @@
+./U26038.xml:  <GBSeq_organism>Mycoplasma mycoides subsp. mycoides</GBSeq_organism>
+./U02968.xml:  <GBSeq_organism>Mycoplasma bovis</GBSeq_organism>
+./U44763.xml:  <GBSeq_organism>Mycoplasma agalactiae PG2</GBSeq_organism>
+./U16323.xml:  <GBSeq_organism>Mycoplasma simbae</GBSeq_organism>
+./AF221111.xml:  <GBSeq_organism>Mycoplasma caviae</GBSeq_organism>
+./AF304324.xml:  <GBSeq_organism>Mycoplasma phocirhinis</GBSeq_organism>
+./AM774638.xml:  <GBSeq_organism>Mycoplasma mucosicanis</GBSeq_organism>
+./FJ226561.xml:  <GBSeq_organism>Mycoplasma fermentans</GBSeq_organism>
+./M24582.xml:  <GBSeq_organism>Mycoplasma californicum</GBSeq_organism>

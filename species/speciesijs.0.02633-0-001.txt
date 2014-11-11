@@ -1,0 +1,3 @@
+./Z38008.xml:  <GBSeq_organism>Xenopus laevis</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>

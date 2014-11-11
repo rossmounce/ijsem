@@ -1,0 +1,22 @@
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AB267720.xml:  <GBSeq_organism>Pedobacter composti</GBSeq_organism>
+./EU585748.xml:  <GBSeq_organism>Pedobacter glucosidilyticus DSM 23534</GBSeq_organism>
+./AJ438173.xml:  <GBSeq_organism>Pedobacter saltans DSM 12145</GBSeq_organism>
+./DQ235228.xml:  <GBSeq_organism>Pedobacter sandarakinus</GBSeq_organism>
+./AM491369.xml:  <GBSeq_organism>Pedobacter westerhofensis</GBSeq_organism>
+./EF446146.xml:  <GBSeq_organism>Pedobacter lentus</GBSeq_organism>
+./AM491371.xml:  <GBSeq_organism>Pedobacter hartonius</GBSeq_organism>
+./AB245368.xml:  <GBSeq_organism>Pedobacter panaciterrae</GBSeq_organism>
+./EF660751.xml:  <GBSeq_organism>Pedobacter agri PB92</GBSeq_organism>
+./EF446147.xml:  <GBSeq_organism>Pedobacter terricola</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./EF100697.xml:  <GBSeq_organism>Pedobacter insulae</GBSeq_organism>
+./AM491370.xml:  <GBSeq_organism>Pedobacter metabolipauper</GBSeq_organism>
+./AM491372.xml:  <GBSeq_organism>Pedobacter steynii</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>
+./AB267722.xml:  <GBSeq_organism>Pedobacter daechungensis</GBSeq_organism>
+./AM491368.xml:  <GBSeq_organism>Pedobacter duraquae</GBSeq_organism>
+./AB245371.xml:  <GBSeq_organism>Pedobacter ginsengisoli</GBSeq_organism>
+./AJ438171.xml:  <GBSeq_organism>Pedobacter africanus</GBSeq_organism>

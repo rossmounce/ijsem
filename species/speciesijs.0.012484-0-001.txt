@@ -1,0 +1,38 @@
+./AY340835.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF234699.xml:  <GBSeq_organism>uncultured sludge bacterium A12b</GBSeq_organism>
+./AF402977.xml:  <GBSeq_organism>uncultured Bacteroidetes/Chlorobi group bacterium</GBSeq_organism>
+./AY555793.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY945880.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ496032.xml:  <GBSeq_organism>Fibrobacter succinogenes subsp. succinogenes S85</GBSeq_organism>
+./AJ318130.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M58468.xml:  <GBSeq_organism>Chlorobaculum tepidum</GBSeq_organism>
+./AJ441242.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./AB478415.xml:  <GBSeq_organism>Ignavibacterium album JCM 16511</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AF314435.xml:  <GBSeq_organism>uncultured bacterium PHOS-HE36</GBSeq_organism>
+./AY212715.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./Y08104.xml:  <GBSeq_organism>Chlorobium phaeobacteroides</GBSeq_organism>
+./Y08102.xml:  <GBSeq_organism>Chlorobaculum thiosulfatiphilum</GBSeq_organism>
+./AY555805.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ347764.xml:  <GBSeq_organism>uncultured SB1 group bacterium</GBSeq_organism>
+./Y07837.xml:  <GBSeq_organism>Prosthecochloris aestuarii DSM 271</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./Y10649.xml:  <GBSeq_organism>Chlorobium chlorovibrioides</GBSeq_organism>
+./AF314426.xml:  <GBSeq_organism>uncultured bacterium PHOS-HC15</GBSeq_organism>
+./AB234252.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AM086119.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY327874.xml:  <GBSeq_organism>uncultured Chlorobi bacterium</GBSeq_organism>
+./AY340841.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY118151.xml:  <GBSeq_organism>uncultured Chlorobi bacterium</GBSeq_organism>
+./AJ291828.xml:  <GBSeq_organism>Pelodictyon phaeum</GBSeq_organism>
+./AJ412669.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ229196.xml:  <GBSeq_organism>unidentified eubacterium clone BSV40</GBSeq_organism>
+./M62791.xml:  <GBSeq_organism>Prosthecochloris vibrioformis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AB186805.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AY118152.xml:  <GBSeq_organism>uncultured Chlorobi bacterium</GBSeq_organism>
+./Y10654.xml:  <GBSeq_organism>Chlorobium phaeovibrioides</GBSeq_organism>
+./AJ009458.xml:  <GBSeq_organism>uncultured bacterium SJA-28</GBSeq_organism>
+./AJ229184.xml:  <GBSeq_organism>unidentified eubacterium clone BSV19</GBSeq_organism>
+./Y08107.xml:  <GBSeq_organism>Chlorobium luteolum DSM 273</GBSeq_organism>

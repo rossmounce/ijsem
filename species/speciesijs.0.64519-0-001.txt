@@ -1,0 +1,53 @@
+./AY090110.xml:  <GBSeq_organism>Paenibacillus elgii</GBSeq_organism>
+./D78465.xml:  <GBSeq_organism>Paenibacillus alginolyticus</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./DQ338448.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AY323608.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AJ320494.xml:  <GBSeq_organism>Paenibacillus peoriae KCTC 3763</GBSeq_organism>
+./AF391124.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./AJ716019.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./AY598818.xml:  <GBSeq_organism>Paenibacillus phyllosphaerae</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AJ318910.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./AY323610.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./D78466.xml:  <GBSeq_organism>Paenibacillus curdlanolyticus YK9</GBSeq_organism>
+./X60622.xml:  <GBSeq_organism>Paenibacillus lentimorbus</GBSeq_organism>
+./AJ320491.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./AJ633647.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./AB021183.xml:  <GBSeq_organism>Paenibacillus chitinolyticus</GBSeq_organism>
+./D78473.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./DQ338444.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF071859.xml:  <GBSeq_organism>Paenibacillus popilliae ATCC 14706</GBSeq_organism>
+./AY741810.xml:  <GBSeq_organism>Paenibacillus motobuensis</GBSeq_organism>
+./AB041720.xml:  <GBSeq_organism>Paenibacillus koleovorans</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./D85397.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./X60624.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AY257868.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./DQ338447.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./X60619.xml:  <GBSeq_organism>Paenibacillus larvae</GBSeq_organism>
+./AJ320490.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./AF273740.xml:  <GBSeq_organism>Paenibacillus brasilensis</GBSeq_organism>
+./AJ011322.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AJ320492.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./D78470.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>
+./AY427832.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./AB179866.xml:  <GBSeq_organism>Paenibacillus hodogayensis</GBSeq_organism>
+./AY751754.xml:  <GBSeq_organism>Paenibacillus rhizosphaerae</GBSeq_organism>
+./AY323609.xml:  <GBSeq_organism>Paenibacillus sanguinis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./D82064.xml:  <GBSeq_organism>Paenibacillus chondroitinus</GBSeq_organism>
+./DQ338446.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AJ605292.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>
+./AF480935.xml:  <GBSeq_organism>Paenibacillus nematophilus</GBSeq_organism>
+./AY359885.xml:  <GBSeq_organism>Paenibacillus dendritiformis</GBSeq_organism>
+./DQ338445.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AB073187.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>
+./AJ345020.xml:  <GBSeq_organism>Paenibacillus agarexedens</GBSeq_organism>
+./D78471.xml:  <GBSeq_organism>Paenibacillus kobensis</GBSeq_organism>

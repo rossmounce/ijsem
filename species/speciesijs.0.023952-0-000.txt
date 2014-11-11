@@ -1,0 +1,12 @@
+./AY532642.xml:  <GBSeq_organism>Candidatus Endobugula glebosa</GBSeq_organism>
+./D84018.xml:  <GBSeq_organism>Pseudomonas oleovorans</GBSeq_organism>
+./AY576771.xml:  <GBSeq_organism>Eionea nigra</GBSeq_organism>
+./AY576769.xml:  <GBSeq_organism>Haliea salexigens DSM 19537</GBSeq_organism>
+./AF500006.xml:  <GBSeq_organism>Microbulbifer elongatus</GBSeq_organism>
+./AY633929.xml:  <GBSeq_organism>endosymbiont of Bugula pacifica</GBSeq_organism>
+./AY771747.xml:  <GBSeq_organism>Dasania marina DSM 21967</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AY576729.xml:  <GBSeq_organism>Melitea salexigens</GBSeq_organism>
+./AY633930.xml:  <GBSeq_organism>endosymbiont of Bugula turbinata</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>

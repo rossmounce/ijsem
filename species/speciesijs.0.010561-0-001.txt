@@ -1,0 +1,8 @@
+./X93185.xml:  <GBSeq_organism>Actinoplanes brasiliensis</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./EU531457.xml:  <GBSeq_organism>Actinoplanes xinjiangensis</GBSeq_organism>
+./EU531458.xml:  <GBSeq_organism>Actinoplanes sichuanensis</GBSeq_organism>
+./U58526.xml:  <GBSeq_organism>Actinoplanes auranticolor</GBSeq_organism>
+./AM400230.xml:  <GBSeq_organism>Actinoplanes couchii</GBSeq_organism>
+./X93187.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./AB036995.xml:  <GBSeq_organism>Actinoplanes campanulatus</GBSeq_organism>

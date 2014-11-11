@@ -1,0 +1,14 @@
+./AF433173.xml:  <GBSeq_organism>Flavobacterium xinjiangense</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./EF575563.xml:  <GBSeq_organism>Flavobacterium resistens</GBSeq_organism>
+./AJ811961.xml:  <GBSeq_organism>Flavobacterium fryxellicola</GBSeq_organism>
+./U85889.xml:  <GBSeq_organism>Flavobacterium gillisiae</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF090991.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./AF162266.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./FJ654474.xml:  <GBSeq_organism>Flavobacterium sinopsychrotolerans</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>

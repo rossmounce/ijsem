@@ -1,0 +1,6 @@
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AB102955.xml:  <GBSeq_organism>Asaia krungthepensis</GBSeq_organism>
+./AB102953.xml:  <GBSeq_organism>Asaia krungthepensis</GBSeq_organism>
+./AB056321.xml:  <GBSeq_organism>Kozakia baliensis</GBSeq_organism>
+./AB102954.xml:  <GBSeq_organism>Asaia krungthepensis</GBSeq_organism>
+./AB025928.xml:  <GBSeq_organism>Asaia bogorensis NBRC 16594</GBSeq_organism>

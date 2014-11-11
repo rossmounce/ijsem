@@ -1,0 +1,17 @@
+./FJ444994.xml:  <GBSeq_organism>Prauserella aidingensis</GBSeq_organism>
+./AY957506.xml:  <GBSeq_organism>Amycolatopsis benzoatilytica</GBSeq_organism>
+./AF466190.xml:  <GBSeq_organism>Prauserella halophila</GBSeq_organism>
+./X79183.xml:  <GBSeq_organism>Thermocrispum agreste DSM 44070</GBSeq_organism>
+./AJ278497.xml:  <GBSeq_organism>Saccharomonospora halophila 8</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./FJ444996.xml:  <GBSeq_organism>Prauserella marina</GBSeq_organism>
+./AF435077.xml:  <GBSeq_organism>Prauserella alba</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./FJ444993.xml:  <GBSeq_organism>Prauserella flava</GBSeq_organism>
+./AJ536031.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./AJ306300.xml:  <GBSeq_organism>Saccharomonospora xinjiangensis XJ-54</GBSeq_organism>
+./FM956091.xml:  <GBSeq_organism>Prauserella muralis</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>
+./X79184.xml:  <GBSeq_organism>Thermocrispum municipale DSM 44069</GBSeq_organism>
+./AY184424.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./FJ444992.xml:  <GBSeq_organism>Prauserella salsuginis</GBSeq_organism>

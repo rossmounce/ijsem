@@ -1,0 +1,34 @@
+./EF648007.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF056300.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF060898.xml:  <GBSeq_organism>Tremellales sp. LM613</GBSeq_organism>
+./AB035045.xml:  <GBSeq_organism>Cryptococcus aureus</GBSeq_organism>
+./DQ447764.xml:  <GBSeq_organism>basidiomycete yeast sp. DX-2006N</GBSeq_organism>
+./EF056308.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AB085802.xml:  <GBSeq_organism>Cryptococcus aureus</GBSeq_organism>
+./AJ345008.xml:  <GBSeq_organism>Cryptococcus sp. P225</GBSeq_organism>
+./EF056305.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF648006.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF060913.xml:  <GBSeq_organism>Tremellales sp. LM629</GBSeq_organism>
+./AF444399.xml:  <GBSeq_organism>Bullera pseudoalba</GBSeq_organism>
+./EU200782.xml:  <GBSeq_organism>Cryptococcus terrestris</GBSeq_organism>
+./DQ640764.xml:  <GBSeq_organism>Cryptococcus aureus</GBSeq_organism>
+./EF056304.xml:  <GBSeq_organism>Cryptococcus cf. flavescens CBS 4926</GBSeq_organism>
+./EF060429.xml:  <GBSeq_organism>Tremellales sp. LM47</GBSeq_organism>
+./AF444393.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8366</GBSeq_organism>
+./EF056299.xml:  <GBSeq_organism>Cryptococcus cf. aureus NRRL Y-30215</GBSeq_organism>
+./AY188363.xml:  <GBSeq_organism>Cryptococcus sp. AA-090.4</GBSeq_organism>
+./AY188361.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AF410468.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./AF444387.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8358</GBSeq_organism>
+./DQ680843.xml:  <GBSeq_organism>Aureobasidium pullulans</GBSeq_organism>
+./AF444442.xml:  <GBSeq_organism>Cryptococcus cellulolyticus</GBSeq_organism>
+./EF056302.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF060430.xml:  <GBSeq_organism>Tremellales sp. LM48</GBSeq_organism>
+./EF126368.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF060658.xml:  <GBSeq_organism>Tremellales sp. LM339</GBSeq_organism>
+./AM262325.xml:  <GBSeq_organism>Cryptococcus rajasthanensis</GBSeq_organism>
+./EF056298.xml:  <GBSeq_organism>Cryptococcus cf. aureus NRRL Y-30213</GBSeq_organism>
+./EF060935.xml:  <GBSeq_organism>Tremellales sp. LM651</GBSeq_organism>
+./EF056303.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AM160631.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF060652.xml:  <GBSeq_organism>Tremellales sp. LM333</GBSeq_organism>

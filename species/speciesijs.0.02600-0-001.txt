@@ -1,0 +1,12 @@
+./AY158079.xml:  <GBSeq_organism>Tepidibacter thalassicus</GBSeq_organism>
+./Y15626.xml:  <GBSeq_organism>Tindallia magadiensis</GBSeq_organism>
+./L11304.xml:  <GBSeq_organism>[Clostridium] thermoalcaliphilum</GBSeq_organism>
+./X77837.xml:  <GBSeq_organism>Clostridium halophilum</GBSeq_organism>
+./AJ272422.xml:  <GBSeq_organism>Caloranaerobacter azorensis DSM 13643</GBSeq_organism>
+./L06838.xml:  <GBSeq_organism>[Clostridium] paradoxum</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./M59107.xml:  <GBSeq_organism>Romboutsia lituseburensis DSM 797</GBSeq_organism>
+./AB037677.xml:  <GBSeq_organism>Alkaliphilus transvaalensis</GBSeq_organism>
+./X77851.xml:  <GBSeq_organism>Clostridium felsineum</GBSeq_organism>
+./AJ320233.xml:  <GBSeq_organism>Caminicella sporogenes</GBSeq_organism>
+./M26494.xml:  <GBSeq_organism>[Clostridium] sticklandii</GBSeq_organism>

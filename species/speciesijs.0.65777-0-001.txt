@@ -1,0 +1,17 @@
+./DQ092871.xml:  <GBSeq_organism>Pedobacter koreensis</GBSeq_organism>
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AJ438173.xml:  <GBSeq_organism>Pedobacter saltans DSM 12145</GBSeq_organism>
+./DQ235228.xml:  <GBSeq_organism>Pedobacter sandarakinus</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./AJ438177.xml:  <GBSeq_organism>Sphingobacterium thalpophilum</GBSeq_organism>
+./AB100738.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./AM114396.xml:  <GBSeq_organism>Pedobacter aquatilis</GBSeq_organism>
+./DQ680836.xml:  <GBSeq_organism>Parapedobacter koreensis</GBSeq_organism>
+./AB330392.xml:  <GBSeq_organism>Mucilaginibacter kameinonensis</GBSeq_organism>
+./AJ786798.xml:  <GBSeq_organism>Pedobacter caeni</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./EF466147.xml:  <GBSeq_organism>Ateleia glazioveana</GBSeq_organism>

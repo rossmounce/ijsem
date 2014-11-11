@@ -1,0 +1,3 @@
+./AY956502.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./AF363492.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AF363495.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>

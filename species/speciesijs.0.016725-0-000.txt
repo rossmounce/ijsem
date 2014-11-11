@@ -1,0 +1,7 @@
+./AY136666.xml:  <GBSeq_organism>Pseudoflavonifractor capillosus ATCC 29799</GBSeq_organism>
+./AY724678.xml:  <GBSeq_organism>Flavonifractor plautii</GBSeq_organism>
+./EU541437.xml:  <GBSeq_organism>Flavonifractor plautii</GBSeq_organism>
+./AJ310082.xml:  <GBSeq_organism>[Clostridium] stercorarium</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./Y18187.xml:  <GBSeq_organism>Flavonifractor plautii DSM 6740</GBSeq_organism>
+./EU541436.xml:  <GBSeq_organism>Flavonifractor plautii</GBSeq_organism>

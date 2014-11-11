@@ -1,0 +1,12 @@
+./X56103.xml:  <GBSeq_organism>Acutodesmus obliquus</GBSeq_organism>
+./AY052567.xml:  <GBSeq_organism>Trentepohlia aurea</GBSeq_organism>
+./AY052565.xml:  <GBSeq_organism>Physolinum monile</GBSeq_organism>
+./AY052568.xml:  <GBSeq_organism>Trentepohlia dialepta</GBSeq_organism>
+./U03757.xml:  <GBSeq_organism>Acrosiphonia sp. SAG-127.80</GBSeq_organism>
+./AY052569.xml:  <GBSeq_organism>Trentepohlia sp. UTEX 1227</GBSeq_organism>
+./AY052564.xml:  <GBSeq_organism>Cephaleuros virescens</GBSeq_organism>
+./AY052563.xml:  <GBSeq_organism>Cephaleuros parasiticus</GBSeq_organism>
+./AF015279.xml:  <GBSeq_organism>Monostroma grevillei</GBSeq_organism>
+./AY052566.xml:  <GBSeq_organism>Trentepohlia arborum</GBSeq_organism>
+./M62995.xml:  <GBSeq_organism>Friedmannia israeliensis</GBSeq_organism>
+./AY052570.xml:  <GBSeq_organism>Phycopeltis sp. &apos;M Guiry&apos;</GBSeq_organism>

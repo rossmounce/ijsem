@@ -1,0 +1,5 @@
+./AM905330.xml:  <GBSeq_organism>Ruegeria scottomollicae</GBSeq_organism>
+./DQ675021.xml:  <GBSeq_organism>Pseudoruegeria aquimaris</GBSeq_organism>
+./CP000031.xml:  <GBSeq_organism>Ruegeria pomeroyi DSS-3</GBSeq_organism>
+./FJ872535.xml:  <GBSeq_organism>Ruegeria marina</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>

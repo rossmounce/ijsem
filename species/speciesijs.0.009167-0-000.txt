@@ -1,0 +1,12 @@
+./AB198719.xml:  <GBSeq_organism>Bacillus boroniphilus</GBSeq_organism>
+./X60611.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./AJ716019.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AJ717382.xml:  <GBSeq_organism>Bacillus foraminis</GBSeq_organism>
+./AJ542506.xml:  <GBSeq_organism>Bacillus drentensis</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./DQ371431.xml:  <GBSeq_organism>Bacillus thioparans</GBSeq_organism>
+./AY724690.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>

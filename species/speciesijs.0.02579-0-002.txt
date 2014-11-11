@@ -1,0 +1,8 @@
+./AJ430586.xml:  <GBSeq_organism>Oceanithermus profundus DSM 14977</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./AJ507298.xml:  <GBSeq_organism>Vulcanithermus mediatlanticus DSM 14978</GBSeq_organism>
+./X69194.xml:  <GBSeq_organism>Dictyoglomus thermophilum H-6-12</GBSeq_organism>
+./Y11332.xml:  <GBSeq_organism>Deinococcus radiodurans</GBSeq_organism>
+./M59177.xml:  <GBSeq_organism>Fervidobacterium nodosum</GBSeq_organism>

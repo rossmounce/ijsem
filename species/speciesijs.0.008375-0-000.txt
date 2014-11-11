@@ -1,0 +1,5 @@
+./AF078772.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AB164432.xml:  <GBSeq_organism>Comamonas badia</GBSeq_organism>
+./AJ251577.xml:  <GBSeq_organism>Comamonas nitrativorans</GBSeq_organism>
+./AF275377.xml:  <GBSeq_organism>Comamonas koreensis</GBSeq_organism>
+./EU888308.xml:  <GBSeq_organism>Delftia lacustris</GBSeq_organism>

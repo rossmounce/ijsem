@@ -1,0 +1,9 @@
+./AM887759.xml:  <GBSeq_organism>Granulicella rosea</GBSeq_organism>
+./DQ660895.xml:  <GBSeq_organism>Terriglobus roseus</GBSeq_organism>
+./AM887757.xml:  <GBSeq_organism>Granulicella pectinivorans</GBSeq_organism>
+./AY587228.xml:  <GBSeq_organism>Terriglobus sp. TAA 43</GBSeq_organism>
+./AY587229.xml:  <GBSeq_organism>Terriglobus sp. TAA 48</GBSeq_organism>
+./HM214537.xml:  <GBSeq_organism>Terriglobus saanensis SP1PR4</GBSeq_organism>
+./AM887756.xml:  <GBSeq_organism>Granulicella aggregans</GBSeq_organism>
+./HM214538.xml:  <GBSeq_organism>Terriglobus saanensis</GBSeq_organism>
+./D26171.xml:  <GBSeq_organism>Acidobacterium capsulatum</GBSeq_organism>

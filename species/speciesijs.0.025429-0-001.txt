@@ -1,0 +1,13 @@
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./AB078077.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./AB276355.xml:  <GBSeq_organism>Perexilibacter aurantiacus</GBSeq_organism>
+./AM948969.xml:  <GBSeq_organism>Arcicella rosea</GBSeq_organism>
+./AB260929.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./FN396961.xml:  <GBSeq_organism>Cesiribacter andamanensis AMV16</GBSeq_organism>
+./AY753208.xml:  <GBSeq_organism>Grapevine leafroll-associated virus 3</GBSeq_organism>
+./M58788.xml:  <GBSeq_organism>Flexibacter ruber</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./AB359907.xml:  <GBSeq_organism>Limibacter armeniacum</GBSeq_organism>
+./EU420062.xml:  <GBSeq_organism>Flectobacillus roseus</GBSeq_organism>

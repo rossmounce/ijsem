@@ -1,0 +1,4 @@
+./AY962293.xml:  <GBSeq_organism>Lutibacter litoralis</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./M64629.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>

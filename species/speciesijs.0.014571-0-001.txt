@@ -1,0 +1,17 @@
+./L16496.xml:  <GBSeq_organism>Odoribacter splanchnicus</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB490805.xml:  <GBSeq_organism>Odoribacter laneus YIT 12061</GBSeq_organism>
+./AJ518874.xml:  <GBSeq_organism>Alistipes finegoldii DSM 17242</GBSeq_organism>
+./M86695.xml:  <GBSeq_organism>Parabacteroides distasonis</GBSeq_organism>
+./AY974071.xml:  <GBSeq_organism>Alistipes onderdonkii</GBSeq_organism>
+./Y18530.xml:  <GBSeq_organism>Dysgonomonas gadei ATCC BAA-286</GBSeq_organism>
+./L16469.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./AY742226.xml:  <GBSeq_organism>Proteiniphilum acetatigenes</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M62422.xml:  <GBSeq_organism>Marinilabilia salmonicolor</GBSeq_organism>
+./L16497.xml:  <GBSeq_organism>Alistipes putredinis</GBSeq_organism>
+./AB490804.xml:  <GBSeq_organism>Alistipes indistinctus YIT 12060</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./AY974072.xml:  <GBSeq_organism>Alistipes shahii WAL 8301</GBSeq_organism>
+./AY560020.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>

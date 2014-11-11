@@ -1,0 +1,16 @@
+./AY598817.xml:  <GBSeq_organism>Hoeflea marina</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./D88524.xml:  <GBSeq_organism>Ahrensia kielensis</GBSeq_organism>
+./AF084495.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./X94198.xml:  <GBSeq_organism>Xanthobacter agilis</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AM712634.xml:  <GBSeq_organism>Anderseniella baltica</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AM180706.xml:  <GBSeq_organism>Rhodobium gokarnense</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./X73042.xml:  <GBSeq_organism>Blastobacter capsulatus</GBSeq_organism>
+./AJ315352.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>

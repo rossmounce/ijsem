@@ -1,0 +1,12 @@
+./AF170794.xml:  <GBSeq_organism>Shewanella colwelliana</GBSeq_organism>
+./AY170366.xml:  <GBSeq_organism>Shewanella waksmanii</GBSeq_organism>
+./AF420312.xml:  <GBSeq_organism>Shewanella fidelis</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./AY485224.xml:  <GBSeq_organism>Shewanella marisflavi</GBSeq_organism>
+./AY485225.xml:  <GBSeq_organism>Shewanella aquimarina</GBSeq_organism>
+./X82131.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>
+./AY351983.xml:  <GBSeq_organism>Shewanella colwelliana</GBSeq_organism>
+./U85907.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./AF011335.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>
+./U91590.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./D21225.xml:  <GBSeq_organism>Shewanella violacea DSS12</GBSeq_organism>

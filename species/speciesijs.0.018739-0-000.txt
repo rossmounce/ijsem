@@ -1,0 +1,9 @@
+./FJ943234.xml:  <GBSeq_organism>Litoricola marina</GBSeq_organism>
+./AJ306890.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AJ295154.xml:  <GBSeq_organism>Oleiphilus messinensis</GBSeq_organism>
+./AJ561121.xml:  <GBSeq_organism>Reinekea marinisedimentorum</GBSeq_organism>
+./AJ315983.xml:  <GBSeq_organism>Saccharospirillum impatiens</GBSeq_organism>
+./DQ403810.xml:  <GBSeq_organism>Reinekea blandensis MED297</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AJ278451.xml:  <GBSeq_organism>Achromobacter denitrificans</GBSeq_organism>

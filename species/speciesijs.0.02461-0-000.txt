@@ -1,0 +1,25 @@
+./M59062.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./D84520.xml:  <GBSeq_organism>Sphingomonas roseiflava</GBSeq_organism>
+./AJ429239.xml:  <GBSeq_organism>Sphingomonas faeni</GBSeq_organism>
+./AJ429237.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./Y09637.xml:  <GBSeq_organism>Sphingomonas pruni</GBSeq_organism>
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./M59070.xml:  <GBSeq_organism>Rhodothalassium salexigens</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./D16145.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./AF395031.xml:  <GBSeq_organism>Sphingomonas sp. M3C203B-B</GBSeq_organism>
+./AJ429238.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./AJ429236.xml:  <GBSeq_organism>Sphingomonas aurantiaca</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AJ429240.xml:  <GBSeq_organism>Sphingomonas aerolata</GBSeq_organism>
+./D84532.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AJ012461.xml:  <GBSeq_organism>Sphingomonas echinoides ATCC 14820</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./AF184221.xml:  <GBSeq_organism>Sphingomonas sp. Ant20</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

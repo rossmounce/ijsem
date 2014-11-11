@@ -1,0 +1,17 @@
+./AJ297437.xml:  <GBSeq_organism>Exiguobacterium antarcticum</GBSeq_organism>
+./X70314.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./AY594265.xml:  <GBSeq_organism>Exiguobacterium aestuarii</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./L14013.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./X70313.xml:  <GBSeq_organism>Exiguobacterium acetylicum</GBSeq_organism>
+./AJ344151.xml:  <GBSeq_organism>Exiguobacterium undae</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AY594266.xml:  <GBSeq_organism>Exiguobacterium marinum</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./X70321.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AB105164.xml:  <GBSeq_organism>Exiguobacterium oxidotolerans</GBSeq_organism>
+./AY594264.xml:  <GBSeq_organism>Exiguobacterium aestuarii</GBSeq_organism>

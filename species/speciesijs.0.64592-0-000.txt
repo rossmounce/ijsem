@@ -1,0 +1,7 @@
+./M95665.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AB110414.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ238567.xml:  <GBSeq_organism>Azospirillum doebereinerae</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>
+./AF150805.xml:  <GBSeq_organism>Methylocystis parvus</GBSeq_organism>
+./AJ419843.xml:  <GBSeq_organism>Acetobacter cerevisiae</GBSeq_organism>

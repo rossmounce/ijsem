@@ -1,0 +1,12 @@
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./X53217.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./D82046.xml:  <GBSeq_organism>Propionibacterium cyclohexanicum</GBSeq_organism>
+./AJ003056.xml:  <GBSeq_organism>Propionimicrobium lymphophilum</GBSeq_organism>
+./AJ003057.xml:  <GBSeq_organism>Propionibacterium granulosum DSM 20700</GBSeq_organism>
+./AJ315953.xml:  <GBSeq_organism>Propionibacterium propionicum</GBSeq_organism>
+./AF227165.xml:  <GBSeq_organism>Propioniferax innocua</GBSeq_organism>
+./DQ196625.xml:  <GBSeq_organism>Brooklawnia cerclae</GBSeq_organism>
+./AB195901.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ132334.xml:  <GBSeq_organism>Luteococcus peritonei</GBSeq_organism>
+./DQ176646.xml:  <GBSeq_organism>Propionicicella superfundia</GBSeq_organism>
+./AY676491.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

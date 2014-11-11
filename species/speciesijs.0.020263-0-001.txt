@@ -1,0 +1,23 @@
+./EU025026.xml:  <GBSeq_organism>Leucothrix mucor</GBSeq_organism>
+./EU107481.xml:  <GBSeq_organism>uncultured Leucothrix sp.</GBSeq_organism>
+./AJ404731.xml:  <GBSeq_organism>Thiomicrospira arctica</GBSeq_organism>
+./AF126549.xml:  <GBSeq_organism>Thioalkalimicrobium sibiricum</GBSeq_organism>
+./X95461.xml:  <GBSeq_organism>Methylophaga sulfidovorans</GBSeq_organism>
+./X80724.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./X87338.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./AY007296.xml:  <GBSeq_organism>Methylosarcina lacus</GBSeq_organism>
+./AF127020.xml:  <GBSeq_organism>Thiothrix defluvii</GBSeq_organism>
+./EU642573.xml:  <GBSeq_organism>Thiothrix caldifontis</GBSeq_organism>
+./EU642572.xml:  <GBSeq_organism>Thiothrix lacustris</GBSeq_organism>
+./D86374.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./L40993.xml:  <GBSeq_organism>Thiothrix nivea DSM 5205</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./L79961.xml:  <GBSeq_organism>Thiothrix unzii</GBSeq_organism>
+./X87339.xml:  <GBSeq_organism>Methylophaga thalassica</GBSeq_organism>
+./AJ404732.xml:  <GBSeq_organism>Thiomicrospira psychrophila</GBSeq_organism>
+./AB166731.xml:  <GBSeq_organism>Thiomicrospira thermophila</GBSeq_organism>
+./X87277.xml:  <GBSeq_organism>Leucothrix mucor DSM 2157</GBSeq_organism>
+./AF126548.xml:  <GBSeq_organism>Thioalkalimicrobium aerophilum AL3</GBSeq_organism>
+./AB495251.xml:  <GBSeq_organism>Cocleimonas flava</GBSeq_organism>
+./U67929.xml:  <GBSeq_organism>Methylosphaera hansonii</GBSeq_organism>
+./L79962.xml:  <GBSeq_organism>Thiothrix fructosivorans</GBSeq_organism>

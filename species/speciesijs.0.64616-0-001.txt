@@ -1,0 +1,26 @@
+./U60014.xml:  <GBSeq_organism>Prosthecobacter debontii</GBSeq_organism>
+./AY297806.xml:  <GBSeq_organism>Verrucomicrobiae bacterium pACH90</GBSeq_organism>
+./AY114317.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302113.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ240909.xml:  <GBSeq_organism>uncultured bacterium CHAB-II-49</GBSeq_organism>
+./AY390428.xml:  <GBSeq_organism>Lentisphaera araneosa HTCC2155</GBSeq_organism>
+./U60012.xml:  <GBSeq_organism>Prosthecobacter dejongeii</GBSeq_organism>
+./AY388649.xml:  <GBSeq_organism>Chthoniobacter flavus Ellin428</GBSeq_organism>
+./DQ302104.xml:  <GBSeq_organism>Rubritalea marina</GBSeq_organism>
+./U60013.xml:  <GBSeq_organism>Prosthecobacter vanneervenii</GBSeq_organism>
+./AY344428.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./AY234519.xml:  <GBSeq_organism>bacterium Ellin5102</GBSeq_organism>
+./AY493906.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./DQ302109.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AF217461.xml:  <GBSeq_organism>Candidatus Xiphinematobacter rivesi</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./AF050559.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-25</GBSeq_organism>
+./AY212589.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF217460.xml:  <GBSeq_organism>Candidatus Xiphinematobacter americani</GBSeq_organism>
+./U60015.xml:  <GBSeq_organism>Prosthecobacter fusiformis</GBSeq_organism>
+./AF217462.xml:  <GBSeq_organism>Candidatus Xiphinematobacter brevicolli</GBSeq_organism>
+./AJ289985.xml:  <GBSeq_organism>uncultured bacterium FukuN111</GBSeq_organism>
+./AJ229235.xml:  <GBSeq_organism>Opitutus terrae PB90-1</GBSeq_organism>
+./AJ401132.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV114</GBSeq_organism>
+./Y19169.xml:  <GBSeq_organism>Epixenosomes of Euplotidium arenarium</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AB251934.xml:  <GBSeq_organism>Flammeovirga kamogawensis</GBSeq_organism>
+./AB251933.xml:  <GBSeq_organism>Flammeovirga kamogawensis</GBSeq_organism>
+./AB247553.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./D12660.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AB247554.xml:  <GBSeq_organism>Flammeovirga yaeyamensis</GBSeq_organism>

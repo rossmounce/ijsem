@@ -1,0 +1,18 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./U20797.xml:  <GBSeq_organism>unidentified eubacterium clone SAR202</GBSeq_organism>
+./AJ430586.xml:  <GBSeq_organism>Oceanithermus profundus DSM 14977</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AB109437.xml:  <GBSeq_organism>Anaerolinea thermolimosa</GBSeq_organism>
+./AB500145.xml:  <GBSeq_organism>Thermosporothrix hazakensis</GBSeq_organism>
+./D38365.xml:  <GBSeq_organism>Chloroflexus aurantiacus J-10-fl</GBSeq_organism>
+./AF004928.xml:  <GBSeq_organism>Dehalococcoides mccartyi</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./AJ507298.xml:  <GBSeq_organism>Vulcanithermus mediatlanticus DSM 14978</GBSeq_organism>
+./X69194.xml:  <GBSeq_organism>Dictyoglomus thermophilum H-6-12</GBSeq_organism>
+./AJ276405.xml:  <GBSeq_organism>Actinomyces marimammalium</GBSeq_organism>
+./X98872.xml:  <GBSeq_organism>Avian rotavirus Ty-3</GBSeq_organism>
+./X68418.xml:  <GBSeq_organism>Streptococcus thermophilus</GBSeq_organism>
+./AB109438.xml:  <GBSeq_organism>Leptolinea tardivitalis</GBSeq_organism>
+./U75647.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans DSM 10331</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

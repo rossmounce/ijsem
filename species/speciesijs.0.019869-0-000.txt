@@ -1,0 +1,9 @@
+./AB184414.xml:  <GBSeq_organism>Streptomyces libani subsp. libani</GBSeq_organism>
+./AJ621603.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./AJ621610.xml:  <GBSeq_organism>Streptomyces rimosus subsp. paromomycinus</GBSeq_organism>
+./AJ781369.xml:  <GBSeq_organism>Streptomyces sporoclivatus</GBSeq_organism>
+./AJ621609.xml:  <GBSeq_organism>Streptomyces chrestomyceticus JCM 4735</GBSeq_organism>
+./AJ621613.xml:  <GBSeq_organism>Streptomyces catenulae</GBSeq_organism>
+./Y15507.xml:  <GBSeq_organism>Streptomyces lydicus</GBSeq_organism>
+./AB184225.xml:  <GBSeq_organism>Streptomyces nigrescens</GBSeq_organism>
+./AB473555.xml:  <GBSeq_organism>Streptomyces tateyamensis</GBSeq_organism>

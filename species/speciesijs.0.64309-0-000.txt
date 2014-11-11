@@ -1,0 +1,36 @@
+./AF502205.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ557886.xml:  <GBSeq_organism>Flavobacterium degerlachei</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AB078045.xml:  <GBSeq_organism>Flexibacter aurantiacus subsp. excathedrus</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AF163366.xml:  <GBSeq_organism>Downingia bella</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./AB180738.xml:  <GBSeq_organism>Flavobacterium granuli</GBSeq_organism>
+./D12671.xml:  <GBSeq_organism>Flavobacterium saccharophilum</GBSeq_organism>
+./AY212620.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./D12673.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./AJ557888.xml:  <GBSeq_organism>Flavobacterium micromati</GBSeq_organism>
+./AF236016.xml:  <GBSeq_organism>CFB group bacterium A0653</GBSeq_organism>
+./AB071382.xml:  <GBSeq_organism>Vitellibacter vladivostokensis</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./DQ021903.xml:  <GBSeq_organism>Flavobacterium saliperosum</GBSeq_organism>
+./M58764.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./AJ811961.xml:  <GBSeq_organism>Flavobacterium fryxellicola</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./D12669.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./DQ178976.xml:  <GBSeq_organism>Flavobacterium soli</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./D14017.xml:  <GBSeq_organism>Flavobacterium branchiophilum</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./D12659.xml:  <GBSeq_organism>Flavobacterium columnare</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./D12670.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./AY581113.xml:  <GBSeq_organism>Flavobacterium antarcticum DSM 19726</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>

@@ -1,0 +1,13 @@
+./U48244.xml:  <GBSeq_organism>Desulfohalobium retbaense DSM 5692</GBSeq_organism>
+./U64865.xml:  <GBSeq_organism>Desulfomicrobium apsheronum</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./AF373920.xml:  <GBSeq_organism>Desulfonatronum thiodismutans</GBSeq_organism>
+./Y14594.xml:  <GBSeq_organism>Desulfonatronum lacustre DSM 10312</GBSeq_organism>
+./U82813.xml:  <GBSeq_organism>Bilophila wadsworthia</GBSeq_organism>
+./AF192153.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./AF524933.xml:  <GBSeq_organism>Desulfonauticus submarinus</GBSeq_organism>
+./AJ277886.xml:  <GBSeq_organism>Desulfomicrobium escambiense</GBSeq_organism>
+./AJ251623.xml:  <GBSeq_organism>Desulfomicrobium orale DSM 12838</GBSeq_organism>
+./X80922.xml:  <GBSeq_organism>Desulfothermus naphthae</GBSeq_organism>
+./AF458778.xml:  <GBSeq_organism>Desulfovibrio hydrothermalis AM13 = DSM 14728</GBSeq_organism>
+./X99234.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./Y08958.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./AY126616.xml:  <GBSeq_organism>Bacteroides massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223</GBSeq_organism>
+./AY739663.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AB078080.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./AF217499.xml:  <GBSeq_organism>Rhodothermus marinus</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./AF323500.xml:  <GBSeq_organism>Salinibacter ruber DSM 13855</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./AF039294.xml:  <GBSeq_organism>Lewinella nigricans</GBSeq_organism>
+./AY533664.xml:  <GBSeq_organism>Algoriphagus marincola</GBSeq_organism>
+./AY527408.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./AY576749.xml:  <GBSeq_organism>Balneola vulgaris</GBSeq_organism>

@@ -1,0 +1,22 @@
+./AY679161.xml:  <GBSeq_organism>Massilia alkalitolerans DSM 17462</GBSeq_organism>
+./AY728038.xml:  <GBSeq_organism>Herminiimonas arsenicoxydans</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./EF620474.xml:  <GBSeq_organism>ultramicrobacterium str. ISSDS-831</GBSeq_organism>
+./AY376163.xml:  <GBSeq_organism>Pseudoduganella violaceinigra</GBSeq_organism>
+./DQ205303.xml:  <GBSeq_organism>ultramicrobacterium str. HI-G4</GBSeq_organism>
+./AY061962.xml:  <GBSeq_organism>Oxalicibacterium flavum</GBSeq_organism>
+./AY676462.xml:  <GBSeq_organism>Herminiimonas fonticola</GBSeq_organism>
+./AM085762.xml:  <GBSeq_organism>Herminiimonas aquatilis</GBSeq_organism>
+./CP000269.xml:  <GBSeq_organism>Janthinobacterium sp. Marseille</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./DQ150563.xml:  <GBSeq_organism>Herbaspirillum hiltneri N3</GBSeq_organism>
+./AY965999.xml:  <GBSeq_organism>Massilia albidiflava</GBSeq_organism>
+./AM397630.xml:  <GBSeq_organism>Undibacterium pigrum</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./AY387012.xml:  <GBSeq_organism>Velesunio sp. BMB-2003</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./DQ188986.xml:  <GBSeq_organism>Herbaspirillum rhizosphaerae</GBSeq_organism>
+./EU489741.xml:  <GBSeq_organism>Herminiimonas glaciei</GBSeq_organism>
+./AF543312.xml:  <GBSeq_organism>Herbaspirillum lusitanum P6-12</GBSeq_organism>
+./AM493906.xml:  <GBSeq_organism>Herminiimonas saxobsidens</GBSeq_organism>
+./AJ310394.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>

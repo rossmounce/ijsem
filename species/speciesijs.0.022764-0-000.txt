@@ -1,0 +1,16 @@
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./AY163576.xml:  <GBSeq_organism>Croceibacter atlanticus HTCC2559</GBSeq_organism>
+./EF108218.xml:  <GBSeq_organism>Lutimonas vermicola</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./EF612764.xml:  <GBSeq_organism>Salegentibacter salinarum</GBSeq_organism>
+./EF486353.xml:  <GBSeq_organism>Salegentibacter salarius</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./AM113977.xml:  <GBSeq_organism>Aquimarina intermedia</GBSeq_organism>
+./GU233518.xml:  <GBSeq_organism>Kordia periserrulae</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AB198086.xml:  <GBSeq_organism>Dokdonia genika</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AM087681.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AM087767.xml:  <GBSeq_organism>Lactobacillus hammesii</GBSeq_organism>
+./AM087770.xml:  <GBSeq_organism>Lactobacillus fructivorans KCTC 3543 = DSM 20203</GBSeq_organism>
+./AM087757.xml:  <GBSeq_organism>Lactobacillus acidifarinae</GBSeq_organism>
+./AM087698.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AB514843.xml:  <GBSeq_organism>Lactobacillus odoratitofui</GBSeq_organism>
+./AM087773.xml:  <GBSeq_organism>Lactobacillus kunkeei</GBSeq_organism>
+./AM087764.xml:  <GBSeq_organism>Lactobacillus paracollinoides</GBSeq_organism>
+./AM087752.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./AM087763.xml:  <GBSeq_organism>Lactobacillus diolivorans</GBSeq_organism>
+./AM087680.xml:  <GBSeq_organism>Lactobacillus brevis</GBSeq_organism>
+./AM263505.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./AM087730.xml:  <GBSeq_organism>Lactobacillus collinoides</GBSeq_organism>
+./AM087771.xml:  <GBSeq_organism>Lactobacillus homohiochii</GBSeq_organism>
+./AM263508.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./AM087726.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AM087753.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>
+./AM087704.xml:  <GBSeq_organism>Lactobacillus lindneri</GBSeq_organism>
+./AM263510.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>

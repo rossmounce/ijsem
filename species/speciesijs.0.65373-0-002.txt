@@ -1,0 +1,7 @@
+./U41348.xml:  <GBSeq_organism>Capnocytophaga granulosa</GBSeq_organism>
+./L14637.xml:  <GBSeq_organism>Capnocytophaga canimorsus</GBSeq_organism>
+./U41350.xml:  <GBSeq_organism>Capnocytophaga ochracea DSM 7271</GBSeq_organism>
+./Y17612.xml:  <GBSeq_organism>Coenonia anatina</GBSeq_organism>
+./DQ012325.xml:  <GBSeq_organism>Capnocytophaga genosp. AHN8471</GBSeq_organism>
+./X67808.xml:  <GBSeq_organism>Pseudomonas syringae</GBSeq_organism>
+./X67609.xml:  <GBSeq_organism>Capnocytophaga sputigena ATCC 33612</GBSeq_organism>

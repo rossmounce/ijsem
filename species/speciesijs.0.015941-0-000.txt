@@ -1,0 +1,7 @@
+./AM233362.xml:  <GBSeq_organism>Francisella tularensis subsp. holarctica LVS</GBSeq_organism>
+./AM286280.xml:  <GBSeq_organism>Francisella tularensis subsp. tularensis FSC198</GBSeq_organism>
+./CP000937.xml:  <GBSeq_organism>Francisella philomiragia subsp. philomiragia ATCC 25017</GBSeq_organism>
+./FN252412.xml:  <GBSeq_organism>Francisella hispaniensis FSC454</GBSeq_organism>
+./CP000803.xml:  <GBSeq_organism>Francisella tularensis subsp. holarctica FTNF002-00</GBSeq_organism>
+./FN545355.xml:  <GBSeq_organism>Francisella tularensis subsp. tularensis</GBSeq_organism>
+./AJ749949.xml:  <GBSeq_organism>Francisella tularensis subsp. tularensis SCHU S4</GBSeq_organism>

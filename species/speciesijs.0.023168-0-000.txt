@@ -1,0 +1,13 @@
+./FJ403243.xml:  <GBSeq_organism>Roseovarius nanhaiticus</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./AJ877265.xml:  <GBSeq_organism>Yangia pacifica</GBSeq_organism>
+./AY962295.xml:  <GBSeq_organism>Citreimonas salinaria</GBSeq_organism>
+./AF098495.xml:  <GBSeq_organism>Roseovarius nubinhibens ISM</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AY639887.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./EU742628.xml:  <GBSeq_organism>Roseovarius indicus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./EU156066.xml:  <GBSeq_organism>Roseovarius aestuarii</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>

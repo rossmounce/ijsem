@@ -1,0 +1,18 @@
+./AY189127.xml:  <GBSeq_organism>Spiroplasma chrysopicola DF-1</GBSeq_organism>
+./AY325304.xml:  <GBSeq_organism>Spiroplasma melliferum</GBSeq_organism>
+./AY189320.xml:  <GBSeq_organism>Spiroplasma sp. BARC 1901</GBSeq_organism>
+./AY189125.xml:  <GBSeq_organism>Spiroplasma alleghenense</GBSeq_organism>
+./M24662.xml:  <GBSeq_organism>Spiroplasma mirum ATCC 29335</GBSeq_organism>
+./M24473.xml:  <GBSeq_organism>Mycoplasma hominis ATCC 23114</GBSeq_organism>
+./M24474.xml:  <GBSeq_organism>Spiroplasma clarkii</GBSeq_organism>
+./AY189133.xml:  <GBSeq_organism>Spiroplasma insolitum M55</GBSeq_organism>
+./AY771927.xml:  <GBSeq_organism>Spiroplasma penaei</GBSeq_organism>
+./AY198133.xml:  <GBSeq_organism>Spiroplasma kunkelii CR2-3x</GBSeq_organism>
+./M24477.xml:  <GBSeq_organism>Spiroplasma ixodetis Y32</GBSeq_organism>
+./AY189305.xml:  <GBSeq_organism>Spiroplasma leptinotarsae</GBSeq_organism>
+./AY189309.xml:  <GBSeq_organism>Spiroplasma syrphidicola EA-1</GBSeq_organism>
+./AY772395.xml:  <GBSeq_organism>Spiroplasma phoeniceum P40</GBSeq_organism>
+./U26039.xml:  <GBSeq_organism>Mycoplasma mycoides subsp. mycoides</GBSeq_organism>
+./AY189313.xml:  <GBSeq_organism>Spiroplasma sp. LB-12</GBSeq_organism>
+./M23942.xml:  <GBSeq_organism>Spiroplasma citri</GBSeq_organism>
+./AY189314.xml:  <GBSeq_organism>Spiroplasma sp. TAAS-1</GBSeq_organism>

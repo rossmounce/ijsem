@@ -1,0 +1,14 @@
+./AB006658.xml:  <GBSeq_organism>Bifidobacterium breve DSM 20213 = JCM 1192</GBSeq_organism>
+./U10151.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./M58734.xml:  <GBSeq_organism>Bifidobacterium cuniculi</GBSeq_organism>
+./M58732.xml:  <GBSeq_organism>Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043</GBSeq_organism>
+./U00096.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. MG1655</GBSeq_organism>
+./M58733.xml:  <GBSeq_organism>Bifidobacterium coryneforme</GBSeq_organism>
+./AJ307005.xml:  <GBSeq_organism>Bifidobacterium scardovii JCM 12489 = DSM 13734</GBSeq_organism>
+./M58744.xml:  <GBSeq_organism>Gardnerella vaginalis ATCC 14018 = JCM 11026</GBSeq_organism>
+./M58730.xml:  <GBSeq_organism>Bifidobacterium asteroides</GBSeq_organism>
+./AY174107.xml:  <GBSeq_organism>Aeriscardovia aeriphila</GBSeq_organism>
+./M58729.xml:  <GBSeq_organism>Bifidobacterium adolescentis</GBSeq_organism>
+./M58743.xml:  <GBSeq_organism>Bifidobacterium longum subsp. suis</GBSeq_organism>
+./M58736.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./M58741.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>

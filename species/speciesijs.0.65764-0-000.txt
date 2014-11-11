@@ -1,0 +1,9 @@
+./AY167602.xml:  <GBSeq_organism>Cryptococcus sp. CECT 11955</GBSeq_organism>
+./AY296055.xml:  <GBSeq_organism>Bullera sp. CECT 11979</GBSeq_organism>
+./AF406890.xml:  <GBSeq_organism>Kwoniella heveanensis</GBSeq_organism>
+./AF189870.xml:  <GBSeq_organism>Bullera dendrophila</GBSeq_organism>
+./AY917100.xml:  <GBSeq_organism>Cryptococcus bestiolae</GBSeq_organism>
+./EF672245.xml:  <GBSeq_organism>Cryptococcus pinus</GBSeq_organism>
+./AY917102.xml:  <GBSeq_organism>Cryptococcus dejecticola</GBSeq_organism>
+./AF444742.xml:  <GBSeq_organism>Kwoniella mangrovensis</GBSeq_organism>
+./AF335984.xml:  <GBSeq_organism>Cryptococcus neoformans</GBSeq_organism>

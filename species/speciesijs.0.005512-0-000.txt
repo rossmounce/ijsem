@@ -1,0 +1,19 @@
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./EF988655.xml:  <GBSeq_organism>Gracilimonas tropica</GBSeq_organism>
+./EU008564.xml:  <GBSeq_organism>Balneola alkaliphila</GBSeq_organism>
+./AB078080.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./AF217499.xml:  <GBSeq_organism>Rhodothermus marinus</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./AF039296.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./AY533663.xml:  <GBSeq_organism>Algoriphagus marincola</GBSeq_organism>
+./AF323500.xml:  <GBSeq_organism>Salinibacter ruber DSM 13855</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./DQ112353.xml:  <GBSeq_organism>Pedobacter roseus</GBSeq_organism>
+./AF039294.xml:  <GBSeq_organism>Lewinella nigricans</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./D12660.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AY576749.xml:  <GBSeq_organism>Balneola vulgaris</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AF523909.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY882846.xml:  <GBSeq_organism>uncultured Acidimicrobium sp.</GBSeq_organism>
+./AY805539.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY765991.xml:  <GBSeq_organism>acid streamer iron-oxidizing bacterium KP1</GBSeq_organism>
+./AF523908.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF621760.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans</GBSeq_organism>
+./AF523906.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY495954.xml:  <GBSeq_organism>actinobacterium WJ25</GBSeq_organism>
+./AY882848.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF225450.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF225451.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY765999.xml:  <GBSeq_organism>acid streamer iron-oxidizing bacterium CS11</GBSeq_organism>
+./U75647.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans DSM 10331</GBSeq_organism>

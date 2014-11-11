@@ -1,0 +1,6 @@
+./AY332001.xml:  <GBSeq_organism>Cardinium endosymbiont of Encarsia pergandiella</GBSeq_organism>
+./AY332003.xml:  <GBSeq_organism>Candidatus Cardinium hertigii</GBSeq_organism>
+./AB048187.xml:  <GBSeq_organism>Chitinophaga pinensis</GBSeq_organism>
+./AY332002.xml:  <GBSeq_organism>Cardinium endosymbiont of Encarsia pergandiella</GBSeq_organism>
+./AB034219.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AB034234.xml:  <GBSeq_organism>Flectobacillus major DSM 103</GBSeq_organism>

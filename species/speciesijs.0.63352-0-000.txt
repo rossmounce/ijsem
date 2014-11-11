@@ -1,0 +1,28 @@
+./AY282603.xml:  <GBSeq_organism>Nocardia neocaledoniensis</GBSeq_organism>
+./AF154129.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AF430044.xml:  <GBSeq_organism>Nocardia uniformis</GBSeq_organism>
+./AF430019.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AF430050.xml:  <GBSeq_organism>Nocardia salmonicida</GBSeq_organism>
+./AF430033.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./AF430040.xml:  <GBSeq_organism>Nocardia brevicatena NBRC 12119</GBSeq_organism>
+./AF430052.xml:  <GBSeq_organism>Nocardia cummidelens</GBSeq_organism>
+./AF430045.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AF430027.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./AF430038.xml:  <GBSeq_organism>Nocardia brasiliensis</GBSeq_organism>
+./AF430042.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AF430046.xml:  <GBSeq_organism>Nocardia pseudovaccinii</GBSeq_organism>
+./AF459443.xml:  <GBSeq_organism>Nocardia caishijiensis</GBSeq_organism>
+./AJ303008.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./AF430051.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AF430028.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AF430067.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AF430047.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AF430054.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AF179865.xml:  <GBSeq_organism>Nocardia paucivorans</GBSeq_organism>
+./AF430055.xml:  <GBSeq_organism>Nocardia veterana</GBSeq_organism>
+./AJ556157.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./AF430053.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./AF430035.xml:  <GBSeq_organism>Nocardia carnea NBRC 14403</GBSeq_organism>
+./AF430039.xml:  <GBSeq_organism>Nocardia seriolae</GBSeq_organism>
+./AY626158.xml:  <GBSeq_organism>Nocardia polyresistens</GBSeq_organism>

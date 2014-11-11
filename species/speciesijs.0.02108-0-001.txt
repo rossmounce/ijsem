@@ -1,0 +1,14 @@
+./AF391123.xml:  <GBSeq_organism>Paenibacillus kribbensis</GBSeq_organism>
+./AF391124.xml:  <GBSeq_organism>Paenibacillus terrae</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./X60632.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./X60630.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./D78318.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./D78473.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./D78476.xml:  <GBSeq_organism>Paenibacillus peoriae KCTC 3763</GBSeq_organism>
+./D85397.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./AF021924.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./AJ271157.xml:  <GBSeq_organism>Paenibacillus jamilae</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./AJ011322.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./D78470.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>

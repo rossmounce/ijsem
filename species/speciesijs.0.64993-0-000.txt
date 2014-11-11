@@ -1,0 +1,14 @@
+./DQ248043.xml:  <GBSeq_organism>Bacillus sp. L105</GBSeq_organism>
+./DQ854980.xml:  <GBSeq_organism>Bacillus sp. GPTSA100-1</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./AY514023.xml:  <GBSeq_organism>Bacillus sp. KJ2C12</GBSeq_organism>
+./AB021189.xml:  <GBSeq_organism>Bacillus lentus</GBSeq_organism>
+./AF155956.xml:  <GBSeq_organism>Bacillus mycoides</GBSeq_organism>
+./X60616.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AF071856.xml:  <GBSeq_organism>Bacillus siralis</GBSeq_organism>
+./AJ294817.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AJ419629.xml:  <GBSeq_organism>Bacillus luciferensis</GBSeq_organism>
+./AF290545.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./AY724690.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AE017024.xml:  <GBSeq_organism>Bacillus anthracis str. Ames</GBSeq_organism>

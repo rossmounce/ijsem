@@ -1,0 +1,12 @@
+./X99671.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./EU017546.xml:  <GBSeq_organism>Thalassospira xianhensis MCCC 1A02616</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./AM294944.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./EF100694.xml:  <GBSeq_organism>Caenispirillum bisanense</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./D14432.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AB265822.xml:  <GBSeq_organism>Thalassospira tepidiphila MCCC 1A03514</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>

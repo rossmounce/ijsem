@@ -1,0 +1,9 @@
+./AF297959.xml:  <GBSeq_organism>Pseudoalteromonas piscicida</GBSeq_organism>
+./AF052601.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./AF052741.xml:  <GBSeq_organism>Idiomarina zobellii</GBSeq_organism>
+./X82147.xml:  <GBSeq_organism>Pseudoalteromonas rubra ATCC 29570</GBSeq_organism>
+./D89929.xml:  <GBSeq_organism>Algicola bacteriolytica</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>

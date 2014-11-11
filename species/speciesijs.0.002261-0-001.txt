@@ -1,0 +1,7 @@
+./D78465.xml:  <GBSeq_organism>Paenibacillus alginolyticus</GBSeq_organism>
+./EU391157.xml:  <GBSeq_organism>Paenibacillus pectinilyticus</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./X60619.xml:  <GBSeq_organism>Paenibacillus larvae</GBSeq_organism>
+./AB179866.xml:  <GBSeq_organism>Paenibacillus hodogayensis</GBSeq_organism>
+./D82064.xml:  <GBSeq_organism>Paenibacillus chondroitinus</GBSeq_organism>
+./AB045100.xml:  <GBSeq_organism>Paenibacillus chitinolyticus</GBSeq_organism>

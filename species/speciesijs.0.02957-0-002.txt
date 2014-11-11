@@ -1,0 +1,5 @@
+./AB034236.xml:  <GBSeq_organism>Marinoscillum furvescens</GBSeq_organism>
+./AB015036.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AY332003.xml:  <GBSeq_organism>Candidatus Cardinium hertigii</GBSeq_organism>
+./AB015026.xml:  <GBSeq_organism>Bergeyella zoohelcum ATCC 43767</GBSeq_organism>
+./AB048185.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>

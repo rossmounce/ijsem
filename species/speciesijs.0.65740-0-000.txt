@@ -1,0 +1,8 @@
+./AB178433.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AB253434.xml:  <GBSeq_organism>Gluconobacter japonicus</GBSeq_organism>
+./AB178403.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./AB178400.xml:  <GBSeq_organism>Gluconobacter japonicus</GBSeq_organism>
+./AB128050.xml:  <GBSeq_organism>Gluconobacter thailandicus F149-1 = NBRC 100600</GBSeq_organism>
+./AB253435.xml:  <GBSeq_organism>Gluconobacter japonicus</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AB178408.xml:  <GBSeq_organism>Gluconobacter japonicus</GBSeq_organism>

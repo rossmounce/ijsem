@@ -1,0 +1,14 @@
+./AF001366.xml:  <GBSeq_organism>Cellulophaga algicola DSM 14237</GBSeq_organism>
+./D12662.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./D12671.xml:  <GBSeq_organism>Flavobacterium saccharophilum</GBSeq_organism>
+./D12673.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./M62792.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./M58764.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./M58781.xml:  <GBSeq_organism>Flavobacterium columnare</GBSeq_organism>
+./D14017.xml:  <GBSeq_organism>Flavobacterium branchiophilum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./U85888.xml:  <GBSeq_organism>Flavobacterium sp.</GBSeq_organism>

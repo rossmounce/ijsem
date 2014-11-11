@@ -1,0 +1,12 @@
+./AF295099.xml:  <GBSeq_organism>alpha proteobacterium NW001</GBSeq_organism>
+./D88524.xml:  <GBSeq_organism>Ahrensia kielensis</GBSeq_organism>
+./AY486423.xml:  <GBSeq_organism>Pseudovibrio denitrificans</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./D85836.xml:  <GBSeq_organism>Roseibium hamelinense</GBSeq_organism>
+./AJ400704.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./AY762960.xml:  <GBSeq_organism>alpha proteobacterium Z143-1</GBSeq_organism>
+./AB175663.xml:  <GBSeq_organism>Pseudovibrio ascidiaceicola</GBSeq_organism>
+./D85832.xml:  <GBSeq_organism>Roseibium denhamense</GBSeq_organism>
+./AY562563.xml:  <GBSeq_organism>alpha proteobacterium CRA 5GI</GBSeq_organism>
+./AF513441.xml:  <GBSeq_organism>Nesiotobacter exalbescens</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>

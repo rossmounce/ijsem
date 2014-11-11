@@ -1,0 +1,17 @@
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./X76443.xml:  <GBSeq_organism>Bacillus horikoshii DSM 8719</GBSeq_organism>
+./AY817493.xml:  <GBSeq_organism>Marinococcus halotolerans</GBSeq_organism>
+./D87035.xml:  <GBSeq_organism>Bacillus horti</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./AM492160.xml:  <GBSeq_organism>Salsuginibacillus kocurii</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>

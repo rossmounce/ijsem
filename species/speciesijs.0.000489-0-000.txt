@@ -1,0 +1,8 @@
+./EU183316.xml:  <GBSeq_organism>Glaciecola lipolytica E3</GBSeq_organism>
+./AJ293820.xml:  <GBSeq_organism>Glaciecola polaris</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./DQ784575.xml:  <GBSeq_organism>Glaciecola agarilytica</GBSeq_organism>
+./AY787042.xml:  <GBSeq_organism>Glaciecola nitratireducens FR1064</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>

@@ -1,0 +1,26 @@
+./U51874.xml:  <GBSeq_organism>Helicobacter sp. Dog-4</GBSeq_organism>
+./AF302107.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./U46129.xml:  <GBSeq_organism>Helicobacter cholecystus</GBSeq_organism>
+./AF262037.xml:  <GBSeq_organism>Helicobacter canadensis</GBSeq_organism>
+./L39122.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./M57398.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./AF363063.xml:  <GBSeq_organism>Helicobacter winghamensis</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AF302106.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AY686609.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./EF070342.xml:  <GBSeq_organism>Helicobacter baculiformis</GBSeq_organism>
+./AF506772.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AY631951.xml:  <GBSeq_organism>Helicobacter ganmani</GBSeq_organism>
+./U96297.xml:  <GBSeq_organism>Helicobacter rodentium</GBSeq_organism>
+./AF363064.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AF297868.xml:  <GBSeq_organism>Helicobacter aurati</GBSeq_organism>
+./M55310.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AF497810.xml:  <GBSeq_organism>Helicobacter cinaedi</GBSeq_organism>
+./AF302105.xml:  <GBSeq_organism>Helicobacter pametensis</GBSeq_organism>
+./U89351.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./M80205.xml:  <GBSeq_organism>Helicobacter muridarum</GBSeq_organism>
+./AF127028.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./AF072334.xml:  <GBSeq_organism>Helicobacter mesocricetorum</GBSeq_organism>
+./L13464.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./M88148.xml:  <GBSeq_organism>Helicobacter acinonychis</GBSeq_organism>
+./AJ876518.xml:  <GBSeq_organism>Helicobacter pullorum NCTC 12824</GBSeq_organism>

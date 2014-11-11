@@ -1,0 +1,4 @@
+./D49423.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./AJ548825.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./AJ786801.xml:  <GBSeq_organism>Devosia limi</GBSeq_organism>

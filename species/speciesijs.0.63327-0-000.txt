@@ -1,0 +1,26 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./AJ575187.xml:  <GBSeq_organism>Fastidiosipila sanguinis</GBSeq_organism>
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./X66002.xml:  <GBSeq_organism>[Clostridium] sporosphaeroides</GBSeq_organism>
+./Y18181.xml:  <GBSeq_organism>[Clostridium] methylpentosum DSM 5476</GBSeq_organism>
+./X72870.xml:  <GBSeq_organism>[Clostridium] stercorarium subsp. thermolacticum DSM 2910</GBSeq_organism>
+./D14143.xml:  <GBSeq_organism>Parvimonas micra</GBSeq_organism>
+./Y18180.xml:  <GBSeq_organism>[Clostridium] thermosuccinogenes</GBSeq_organism>
+./AB038361.xml:  <GBSeq_organism>Gallicola barnesae</GBSeq_organism>
+./D14138.xml:  <GBSeq_organism>Anaerococcus prevotii</GBSeq_organism>
+./D14139.xml:  <GBSeq_organism>Anaerococcus prevotii DSM 20548</GBSeq_organism>
+./L09177.xml:  <GBSeq_organism>[Clostridium] cellulosi</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./AF020429.xml:  <GBSeq_organism>[Clostridium] hungatei</GBSeq_organism>
+./X71854.xml:  <GBSeq_organism>[Clostridium] termitidis</GBSeq_organism>
+./X71852.xml:  <GBSeq_organism>[Clostridium] papyrosolvens DSM 2782</GBSeq_organism>
+./AJ458421.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./L35516.xml:  <GBSeq_organism>Acetivibrio cellulolyticus</GBSeq_organism>
+./X71856.xml:  <GBSeq_organism>[Clostridium] cellobioparum DSM 1351 = ATCC 15832</GBSeq_organism>
+./X97852.xml:  <GBSeq_organism>Anaerofilum pentosovorans</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./Y18187.xml:  <GBSeq_organism>Flavonifractor plautii DSM 6740</GBSeq_organism>
+./L35517.xml:  <GBSeq_organism>Pseudobacteroides cellulosolvens</GBSeq_organism>
+./AJ413954.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>
+./X71847.xml:  <GBSeq_organism>Clostridium cellulolyticum H10</GBSeq_organism>
+./M59103.xml:  <GBSeq_organism>Clostridium perfringens</GBSeq_organism>

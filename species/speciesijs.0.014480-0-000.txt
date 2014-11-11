@@ -1,0 +1,31 @@
+./AJ306891.xml:  <GBSeq_organism>Halomonas meridiana</GBSeq_organism>
+./X92150.xml:  <GBSeq_organism>Halomonas magadiensis</GBSeq_organism>
+./AM229316.xml:  <GBSeq_organism>Salinicola salarius</GBSeq_organism>
+./FN257740.xml:  <GBSeq_organism>Halomonas halophila</GBSeq_organism>
+./AY245449.xml:  <GBSeq_organism>Halomonas boliviensis LC1</GBSeq_organism>
+./L04942.xml:  <GBSeq_organism>Halomonas halodenitrificans</GBSeq_organism>
+./AY373448.xml:  <GBSeq_organism>Chromohalobacter sarecensis</GBSeq_organism>
+./X93493.xml:  <GBSeq_organism>Halomonas pantelleriensis</GBSeq_organism>
+./AM941743.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AJ295146.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./AJ806889.xml:  <GBSeq_organism>Antirrhinum majus</GBSeq_organism>
+./AJ427626.xml:  <GBSeq_organism>Salinicola halophilus</GBSeq_organism>
+./AF212206.xml:  <GBSeq_organism>Halomonas axialensis</GBSeq_organism>
+./AY268080.xml:  <GBSeq_organism>Halomonas ventosae</GBSeq_organism>
+./X87219.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./AF212202.xml:  <GBSeq_organism>Halomonas neptunia</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./X92417.xml:  <GBSeq_organism>Halomonas desiderata</GBSeq_organism>
+./AJ417388.xml:  <GBSeq_organism>Halomonas halocynthiae</GBSeq_organism>
+./AY858696.xml:  <GBSeq_organism>Halomonas almeriensis</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AJ277205.xml:  <GBSeq_organism>Chromohalobacter nigrandesensis</GBSeq_organism>
+./L42616.xml:  <GBSeq_organism>Halomonas pacifica</GBSeq_organism>
+./DQ421388.xml:  <GBSeq_organism>Halotalea alkalilenta</GBSeq_organism>
+./AJ306888.xml:  <GBSeq_organism>Halomonas aquamarina</GBSeq_organism>
+./FN257741.xml:  <GBSeq_organism>Halomonas maura</GBSeq_organism>
+./FN257742.xml:  <GBSeq_organism>Halomonas cupida</GBSeq_organism>
+./Y18299.xml:  <GBSeq_organism>Shigella dysenteriae</GBSeq_organism>
+./AJ295143.xml:  <GBSeq_organism>Chromohalobacter canadensis</GBSeq_organism>
+./AJ295145.xml:  <GBSeq_organism>Halomonas salina</GBSeq_organism>
+./AF054286.xml:  <GBSeq_organism>Halomonas campisalis</GBSeq_organism>

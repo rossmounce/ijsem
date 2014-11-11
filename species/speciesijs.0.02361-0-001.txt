@@ -1,0 +1,28 @@
+./AF135453.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF104116.xml:  <GBSeq_organism>Streptococcus equinus ATCC 9812</GBSeq_organism>
+./X94337.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus</GBSeq_organism>
+./AF353718.xml:  <GBSeq_organism>Streptococcus sp. VAMC-2818</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AJ297215.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./AF104112.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF396921.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF104118.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AF429765.xml:  <GBSeq_organism>Streptococcus equinus ATCC 9812</GBSeq_organism>
+./AF396920.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF104109.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF202263.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF201899.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./AF313408.xml:  <GBSeq_organism>Streptococcus sp. VAMC 3076</GBSeq_organism>
+./AF313407.xml:  <GBSeq_organism>Streptococcus sp. 00 UCUL 4487</GBSeq_organism>
+./AF396922.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF429763.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./AF297217.xml:  <GBSeq_organism>Avian orthoreovirus</GBSeq_organism>
+./AF104114.xml:  <GBSeq_organism>Streptococcus gallolyticus subsp. gallolyticus ATCC 43143</GBSeq_organism>
+./AF002481.xml:  <GBSeq_organism>Anablepsoides aff. atratus</GBSeq_organism>
+./AJ297214.xml:  <GBSeq_organism>Streptococcus lutetiensis</GBSeq_organism>
+./AJ297216.xml:  <GBSeq_organism>Streptococcus pasteuri</GBSeq_organism>
+./AF313406.xml:  <GBSeq_organism>Streptococcus sp. VAMC blood 3395</GBSeq_organism>
+./AF177729.xml:  <GBSeq_organism>Streptococcus infantarius</GBSeq_organism>
+./AF429764.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>
+./AF429762.xml:  <GBSeq_organism>Streptococcus infantarius subsp. infantarius</GBSeq_organism>
+./AF104110.xml:  <GBSeq_organism>Streptococcus equinus</GBSeq_organism>

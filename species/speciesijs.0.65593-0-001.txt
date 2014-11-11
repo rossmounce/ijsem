@@ -1,0 +1,24 @@
+./X81946.xml:  <GBSeq_organism>Pirellula staleyi DSM 6068</GBSeq_organism>
+./X62912.xml:  <GBSeq_organism>Blastopirellula marina DSM 3645</GBSeq_organism>
+./X81957.xml:  <GBSeq_organism>Gemmata obscuriglobus</GBSeq_organism>
+./AF244751.xml:  <GBSeq_organism>Nostocoida limicola III</GBSeq_organism>
+./X54522.xml:  <GBSeq_organism>Gemmata obscuriglobus</GBSeq_organism>
+./AY254882.xml:  <GBSeq_organism>Candidatus Scalindua wagneri</GBSeq_organism>
+./AF244752.xml:  <GBSeq_organism>Nostocoida limicola III</GBSeq_organism>
+./AM902527.xml:  <GBSeq_organism>Singulisphaera acidiphila</GBSeq_organism>
+./AF375995.xml:  <GBSeq_organism>Candidatus Kuenenia stuttgartiensis</GBSeq_organism>
+./AF244749.xml:  <GBSeq_organism>Nostocoida limicola III</GBSeq_organism>
+./AF239692.xml:  <GBSeq_organism>Isosphaera-like str. C2-3</GBSeq_organism>
+./AF239697.xml:  <GBSeq_organism>Gemmata-like str. JW9-3f1</GBSeq_organism>
+./AY257181.xml:  <GBSeq_organism>Candidatus Scalindua brodae</GBSeq_organism>
+./AM162407.xml:  <GBSeq_organism>Schlesneria paludicola</GBSeq_organism>
+./X81960.xml:  <GBSeq_organism>Isosphaera sp.</GBSeq_organism>
+./AM902525.xml:  <GBSeq_organism>Singulisphaera acidiphila</GBSeq_organism>
+./AF375994.xml:  <GBSeq_organism>Candidatus Brocadia anammoxidans</GBSeq_organism>
+./AJ231190.xml:  <GBSeq_organism>Planctomyces brasiliensis DSM 5305</GBSeq_organism>
+./AJ231195.xml:  <GBSeq_organism>Isosphaera pallida ATCC 43644</GBSeq_organism>
+./AJ231184.xml:  <GBSeq_organism>Planctomyces maris</GBSeq_organism>
+./AM902526.xml:  <GBSeq_organism>Singulisphaera acidiphila</GBSeq_organism>
+./AY254883.xml:  <GBSeq_organism>Candidatus Scalindua brodae</GBSeq_organism>
+./X81959.xml:  <GBSeq_organism>Isosphaera sp.</GBSeq_organism>
+./AM850678.xml:  <GBSeq_organism>Singulisphaera acidiphila DSM 18658</GBSeq_organism>

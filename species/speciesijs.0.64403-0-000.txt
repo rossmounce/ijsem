@@ -1,0 +1,10 @@
+./D78478.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./X55061.xml:  <GBSeq_organism>Bacillus mycoides</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF013121.xml:  <GBSeq_organism>Bacillus pseudomycoides</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./AF290545.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

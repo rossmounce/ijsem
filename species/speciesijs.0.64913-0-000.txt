@@ -1,0 +1,10 @@
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./D63872.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AB184388.xml:  <GBSeq_organism>Streptomyces kanamyceticus</GBSeq_organism>
+./AY094368.xml:  <GBSeq_organism>Streptomyces aureus</GBSeq_organism>
+./D85119.xml:  <GBSeq_organism>Streptomyces virginiae</GBSeq_organism>
+./X61478.xml:  <GBSeq_organism>Unknown.</GBSeq_organism>
+./D85116.xml:  <GBSeq_organism>Streptomyces lavendulae</GBSeq_organism>
+./U94490.xml:  <GBSeq_organism>Streptomyces thermocarboxydus</GBSeq_organism>
+./U94489.xml:  <GBSeq_organism>Streptomyces thermocarboxydovorans</GBSeq_organism>

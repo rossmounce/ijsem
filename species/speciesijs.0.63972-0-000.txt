@@ -1,0 +1,21 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X60413.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>
+./X74675.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./X74681.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./X92889.xml:  <GBSeq_organism>Tolumonas auensis DSM 9187</GBSeq_organism>
+./AJ550470.xml:  <GBSeq_organism>Oceanisphaera litoralis</GBSeq_organism>
+./X74674.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./X71120.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./X60410.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./AB105442.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X74682.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./AF170914.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY532690.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./AJ224309.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./X60404.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AJ224308.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AJ536821.xml:  <GBSeq_organism>Aeromonas simiae</GBSeq_organism>
+./X60406.xml:  <GBSeq_organism>Aeromonas bestiarum</GBSeq_organism>
+./X74684.xml:  <GBSeq_organism>Aeromonas veronii bv. veronii</GBSeq_organism>
+./X74683.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>

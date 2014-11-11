@@ -1,0 +1,13 @@
+./D11106.xml:  <GBSeq_organism>Halococcus morrhuae DSM 1307</GBSeq_organism>
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./AY350742.xml:  <GBSeq_organism>Methanobacterium beijingense</GBSeq_organism>
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./D14128.xml:  <GBSeq_organism>Haloferax denitrificans ATCC 35960</GBSeq_organism>
+./AY243109.xml:  <GBSeq_organism>Halococcus qingdaonensis</GBSeq_organism>
+./DQ017835.xml:  <GBSeq_organism>Halococcus hamelinensis 100A6</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./AB220647.xml:  <GBSeq_organism>Halococcus thailandensis</GBSeq_organism>
+./AJ548827.xml:  <GBSeq_organism>Halobacterium noricense</GBSeq_organism>
+./AB004878.xml:  <GBSeq_organism>Haloterrigena turkmenica DSM 5511</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AF333760.xml:  <GBSeq_organism>Halobiforma haloterrestris</GBSeq_organism>

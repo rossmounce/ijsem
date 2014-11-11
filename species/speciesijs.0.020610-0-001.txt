@@ -1,0 +1,5 @@
+./L40614.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./AJ871304.xml:  <GBSeq_organism>Modestobacter versicolor</GBSeq_organism>
+./Y18646.xml:  <GBSeq_organism>Modestobacter multiseptatus</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./EU438905.xml:  <GBSeq_organism>Geodermatophilus ruber</GBSeq_organism>

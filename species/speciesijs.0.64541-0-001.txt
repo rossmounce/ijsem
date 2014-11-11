@@ -1,0 +1,21 @@
+./AJ459016.xml:  <GBSeq_organism>Methylocystis sp. 50/42a</GBSeq_organism>
+./AF358047.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ459010.xml:  <GBSeq_organism>Methylocystis sp. SK28</GBSeq_organism>
+./AY080944.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ431386.xml:  <GBSeq_organism>Methylocystis sp. SC2</GBSeq_organism>
+./AJ459041.xml:  <GBSeq_organism>Methylocystis sp. 56</GBSeq_organism>
+./AF177328.xml:  <GBSeq_organism>type II methanotroph AML-A6</GBSeq_organism>
+./AJ489799.xml:  <GBSeq_organism>Methylocystis sp. B16</GBSeq_organism>
+./U31650.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ459025.xml:  <GBSeq_organism>Methylocystis sp. B2/7</GBSeq_organism>
+./AY195654.xml:  <GBSeq_organism>uncultured Methylocystis sp.</GBSeq_organism>
+./AY550692.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ414657.xml:  <GBSeq_organism>Methylocystis rosea SV97</GBSeq_organism>
+./AF037108.xml:  <GBSeq_organism>Nitrosococcus mobilis</GBSeq_organism>
+./U31651.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AY571994.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY550716.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF358051.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ459000.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ459017.xml:  <GBSeq_organism>Methylocystis sp. 50/54</GBSeq_organism>
+./AJ459022.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>

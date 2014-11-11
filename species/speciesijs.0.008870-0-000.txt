@@ -1,0 +1,12 @@
+./AB059678.xml:  <GBSeq_organism>Alicyclobacillus hesperidum</GBSeq_organism>
+./EU137838.xml:  <GBSeq_organism>Alicyclobacillus ferrooxydans</GBSeq_organism>
+./AB042055.xml:  <GBSeq_organism>Alicyclobacillus herbarius</GBSeq_organism>
+./AB222267.xml:  <GBSeq_organism>Alicyclobacillus vulcanalis</GBSeq_organism>
+./AB222265.xml:  <GBSeq_organism>Alicyclobacillus tolerans</GBSeq_organism>
+./AB264024.xml:  <GBSeq_organism>Alicyclobacillus shizuokensis</GBSeq_organism>
+./FM179383.xml:  <GBSeq_organism>Alicyclobacillus aeris</GBSeq_organism>
+./AJ564766.xml:  <GBSeq_organism>Alicyclobacillus pohliae</GBSeq_organism>
+./AB264025.xml:  <GBSeq_organism>Alicyclobacillus macrosporangiidus</GBSeq_organism>
+./AB059677.xml:  <GBSeq_organism>Alicyclobacillus sp. TA 67T</GBSeq_organism>
+./AB264022.xml:  <GBSeq_organism>Alicyclobacillus kakegawensis</GBSeq_organism>
+./AB042061.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

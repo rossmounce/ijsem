@@ -1,0 +1,3 @@
+./DQ641240.xml:  <GBSeq_organism>Metschnikowia lochheadii</GBSeq_organism>
+./DQ641242.xml:  <GBSeq_organism>Metschnikowia santaceciliae</GBSeq_organism>
+./DQ641243.xml:  <GBSeq_organism>Metschnikowia borealis</GBSeq_organism>

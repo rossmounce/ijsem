@@ -1,0 +1,39 @@
+./L33974.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./AY218683.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF078759.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae ATCC 19860</GBSeq_organism>
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./AJ422152.xml:  <GBSeq_organism>uncultured beta proteobacterium</GBSeq_organism>
+./AF522998.xml:  <GBSeq_organism>uncultured Aquabacterium sp.</GBSeq_organism>
+./AY345493.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./M29021.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./AF035052.xml:  <GBSeq_organism>Aquabacterium parvum</GBSeq_organism>
+./AF234753.xml:  <GBSeq_organism>uncultured sludge bacterium A37</GBSeq_organism>
+./U51102.xml:  <GBSeq_organism>denitrifying Fe&lt;II&gt;-oxidizing bacterium</GBSeq_organism>
+./AF293003.xml:  <GBSeq_organism>uncultured Green Bay ferromanganous micronodule bacterium MNE12</GBSeq_organism>
+./AF358003.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AF250333.xml:  <GBSeq_organism>Methylophilus leisingeri</GBSeq_organism>
+./AF035054.xml:  <GBSeq_organism>Aquabacterium commune</GBSeq_organism>
+./AF078758.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./AJ867658.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY429720.xml:  <GBSeq_organism>beta proteobacterium HTCC304</GBSeq_organism>
+./AJ517772.xml:  <GBSeq_organism>Methylophilus freyburgensis</GBSeq_organism>
+./AY298905.xml:  <GBSeq_organism>Methylobacillus pratensis</GBSeq_organism>
+./AY177371.xml:  <GBSeq_organism>phenanthrene-degrading bacterium 90</GBSeq_organism>
+./AY770955.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF513107.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY168745.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY218657.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY050585.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY214207.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF176594.xml:  <GBSeq_organism>Methylibium petroleiphilum PM1</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./X97070.xml:  <GBSeq_organism>Leptothrix cholodnii</GBSeq_organism>
+./AY662010.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY382153.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF089859.xml:  <GBSeq_organism>Aquabacterium sp. Aqua3</GBSeq_organism>
+./AY532542.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY212562.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY152824.xml:  <GBSeq_organism>Schlegelella thermodepolymerans</GBSeq_organism>
+./AF035050.xml:  <GBSeq_organism>Aquabacterium citratiphilum</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF025423.xml:  <GBSeq_organism>Chinese Bermudagrass white leaf phytoplasma</GBSeq_organism>
+./Y15868.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF100411.xml:  <GBSeq_organism>White tip die-back phytoplasma</GBSeq_organism>
+./Y14645.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF100412.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AY139874.xml:  <GBSeq_organism>Sugarcane white leaf phytoplasma</GBSeq_organism>
+./AJ550985.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./Y15865.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./X83438.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AJ550986.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./Y15861.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF268000.xml:  <GBSeq_organism>Date palm slow decline phytoplasma</GBSeq_organism>
+./Y15867.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF248961.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./Y15858.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>

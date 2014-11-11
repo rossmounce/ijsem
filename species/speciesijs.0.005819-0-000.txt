@@ -1,0 +1,15 @@
+./EF988653.xml:  <GBSeq_organism>Spongiibacter tropicus</GBSeq_organism>
+./AF448515.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./AF288157.xml:  <GBSeq_organism>Marinobacter lutaoensis</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AY683537.xml:  <GBSeq_organism>Alcanivorax dieselolei</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AJ289162.xml:  <GBSeq_organism>Cellvibrio gandavensis</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./EF988654.xml:  <GBSeq_organism>gamma proteobacterium CL-CB467</GBSeq_organism>
+./AB266613.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AF328762.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AY050495.xml:  <GBSeq_organism>Pseudomonas corrugata</GBSeq_organism>

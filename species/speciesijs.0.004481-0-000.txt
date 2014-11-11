@@ -1,0 +1,12 @@
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./AF544015.xml:  <GBSeq_organism>Parvularcula bermudensis HTCC2503</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./X53855.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./M21789.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./M59064.xml:  <GBSeq_organism>Brevundimonas diminuta</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./EU346850.xml:  <GBSeq_organism>Parvularcula lutaonensis</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

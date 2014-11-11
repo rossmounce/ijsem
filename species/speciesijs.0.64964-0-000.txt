@@ -1,0 +1,12 @@
+./AM237311.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./AB078055.xml:  <GBSeq_organism>Chitinophaga japonensis</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AB078050.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AB245374.xml:  <GBSeq_organism>Chitinophaga ginsengisoli</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

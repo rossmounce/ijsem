@@ -1,0 +1,10 @@
+./AY292394.xml:  <GBSeq_organism>haloarchaeon W1</GBSeq_organism>
+./AF435112.xml:  <GBSeq_organism>Halalkalicoccus tibetensis</GBSeq_organism>
+./AY292392.xml:  <GBSeq_organism>haloarchaeon 30AH</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./DQ344973.xml:  <GBSeq_organism>Haladaptatus paucihalophilus DX253</GBSeq_organism>
+./AY292393.xml:  <GBSeq_organism>haloarchaeon 30AH</GBSeq_organism>
+./AM039978.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>

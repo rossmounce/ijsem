@@ -1,0 +1,7 @@
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./EF199998.xml:  <GBSeq_organism>Clostridium sulfidigenes</GBSeq_organism>
+./AY187622.xml:  <GBSeq_organism>Clostridium tunisiense TJ</GBSeq_organism>
+./L09169.xml:  <GBSeq_organism>Thermoanaerobacterium saccharolyticum</GBSeq_organism>
+./AF156796.xml:  <GBSeq_organism>Clostridium peptidivorans</GBSeq_organism>
+./AF317650.xml:  <GBSeq_organism>Clostridium thiosulfatireducens</GBSeq_organism>
+./AF241844.xml:  <GBSeq_organism>Clostridium subterminale</GBSeq_organism>

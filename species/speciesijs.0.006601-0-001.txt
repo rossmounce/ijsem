@@ -1,0 +1,18 @@
+./AF245674.xml:  <GBSeq_organism>Lactococcus garvieae</GBSeq_organism>
+./AY123696.xml:  <GBSeq_organism>Streptococcus equinus ATCC 9812</GBSeq_organism>
+./AY123699.xml:  <GBSeq_organism>Aerococcus viridans ATCC 11563</GBSeq_organism>
+./AF245680.xml:  <GBSeq_organism>Enterococcus malodoratus</GBSeq_organism>
+./AY123700.xml:  <GBSeq_organism>Granulicatella balaenopterae</GBSeq_organism>
+./FM177900.xml:  <GBSeq_organism>Vagococcus lutrae</GBSeq_organism>
+./AF245673.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./AF237437.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AF245666.xml:  <GBSeq_organism>Enterococcus hirae</GBSeq_organism>
+./AF245675.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./FM177902.xml:  <GBSeq_organism>Bavariicoccus seileri</GBSeq_organism>
+./AF036324.xml:  <GBSeq_organism>Staphylococcus aureus subsp. aureus</GBSeq_organism>
+./FM177907.xml:  <GBSeq_organism>Trichococcus collinsii</GBSeq_organism>
+./AY123698.xml:  <GBSeq_organism>Aerococcus urinae</GBSeq_organism>
+./AF237462.xml:  <GBSeq_organism>Streptococcus oralis ATCC 35037</GBSeq_organism>
+./FM177905.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./AF245682.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./AF245677.xml:  <GBSeq_organism>Enterococcus pseudoavium</GBSeq_organism>

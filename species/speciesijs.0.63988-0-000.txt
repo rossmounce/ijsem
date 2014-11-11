@@ -1,0 +1,10 @@
+./AY970951.xml:  <GBSeq_organism>Pseudomonas vranovensis</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./AF468452.xml:  <GBSeq_organism>Pseudomonas koreensis</GBSeq_organism>
+./D84005.xml:  <GBSeq_organism>Pseudomonas agarici</GBSeq_organism>
+./AF064458.xml:  <GBSeq_organism>Pseudomonas monteilii</GBSeq_organism>
+./AY970952.xml:  <GBSeq_organism>Pseudomonas moraviensis</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./D84015.xml:  <GBSeq_organism>Pseudomonas fulva</GBSeq_organism>
+./AF072688.xml:  <GBSeq_organism>Pseudomonas mosselii</GBSeq_organism>
+./Z76655.xml:  <GBSeq_organism>Pseudomonas asplenii</GBSeq_organism>

@@ -1,0 +1,6 @@
+./X88913.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X93030.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./AF466821.xml:  <GBSeq_organism>Mycobacterium parmense</GBSeq_organism>
+./AF330038.xml:  <GBSeq_organism>Mycobacterium montefiorense</GBSeq_organism>
+./AF152559.xml:  <GBSeq_organism>Mycobacterium parascrofulaceum</GBSeq_organism>
+./AJ550515.xml:  <GBSeq_organism>Mycobacterium sp. SA394</GBSeq_organism>

@@ -1,0 +1,19 @@
+./NP212986.xml:  <GBSeq_organism>Aquifex aeolicus VF5</GBSeq_organism>
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./AY918929.xml:  <GBSeq_organism>Prolixibacter bellariivorans</GBSeq_organism>
+./AY188891.xml:  <GBSeq_organism>Desulfuromonas acetoxidans DSM 684</GBSeq_organism>
+./AJ306739.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M62422.xml:  <GBSeq_organism>Marinilabilia salmonicolor</GBSeq_organism>
+./AJ438170.xml:  <GBSeq_organism>Pedobacter cryoconitis</GBSeq_organism>
+./NP438737.xml:  <GBSeq_organism>Haemophilus influenzae Rd KW20</GBSeq_organism>
+./NP790470.xml:  <GBSeq_organism>Pseudomonas syringae pv. tomato str. DC3000</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./P38525.xml:  <GBSeq_organism>Thermotoga maritima MSB8</GBSeq_organism>
+./AJ418048.xml:  <GBSeq_organism>Anaerophaga thermohalophila DSM 12881</GBSeq_organism>
+./P09952.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./AF546867.xml:  <GBSeq_organism>Geobacter sulfurreducens</GBSeq_organism>
+./AY918927.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./AJ784993.xml:  <GBSeq_organism>Alkaliflexus imshenetskii DSM 15055</GBSeq_organism>
+./NP906022.xml:  <GBSeq_organism>Porphyromonas gingivalis W83</GBSeq_organism>
+./AY918928.xml:  <GBSeq_organism>Prolixibacter bellariivorans</GBSeq_organism>

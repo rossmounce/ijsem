@@ -1,0 +1,20 @@
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./M59053.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./M58792.xml:  <GBSeq_organism>Marinoscillum furvescens</GBSeq_organism>
+./Y08958.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M62793.xml:  <GBSeq_organism>Solitalea canadensis</GBSeq_organism>
+./AJ619979.xml:  <GBSeq_organism>Oesophagostomum dentatum</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./M62789.xml:  <GBSeq_organism>Spirosoma linguale</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M11657.xml:  <GBSeq_organism>Pedobacter heparinus</GBSeq_organism>
+./M58789.xml:  <GBSeq_organism>Marivirga tractuosa</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./X83943.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AJ821885.xml:  <GBSeq_organism>Dyadobacter crusticola</GBSeq_organism>
+./AB020205.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>

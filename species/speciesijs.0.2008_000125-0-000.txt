@@ -1,0 +1,17 @@
+./EF549388.xml:  <GBSeq_organism>Mesorhizobium gobiense</GBSeq_organism>
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./EF549381.xml:  <GBSeq_organism>Mesorhizobium gobiense</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./EF035063.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./EF035064.xml:  <GBSeq_organism>Mesorhizobium gobiense</GBSeq_organism>
+./D13431.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./EF549387.xml:  <GBSeq_organism>Mesorhizobium tarimense</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./EF035058.xml:  <GBSeq_organism>Mesorhizobium tarimense</GBSeq_organism>
+./DQ100066.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./EU368831.xml:  <GBSeq_organism>Mesorhizobium tarimense</GBSeq_organism>
+./EF549379.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AB184429.xml:  <GBSeq_organism>Streptomyces thermovulgaris</GBSeq_organism>
+./AJ781334.xml:  <GBSeq_organism>Streptomyces flavovariabilis</GBSeq_organism>
+./DQ442496.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./AB184414.xml:  <GBSeq_organism>Streptomyces libani subsp. libani</GBSeq_organism>
+./DQ460470.xml:  <GBSeq_organism>Streptomyces alni</GBSeq_organism>
+./AF101415.xml:  <GBSeq_organism>Streptomyces yeochonensis</GBSeq_organism>
+./AY876943.xml:  <GBSeq_organism>Streptomyces paucisporeus</GBSeq_organism>
+./AY999793.xml:  <GBSeq_organism>Streptomyces aurantiogriseus</GBSeq_organism>
+./AB184675.xml:  <GBSeq_organism>Streptomyces niveoruber</GBSeq_organism>
+./AY277529.xml:  <GBSeq_organism>Streptomyces hebeiensis</GBSeq_organism>
+./AB184267.xml:  <GBSeq_organism>Streptomyces corchorusii</GBSeq_organism>
+./AB184806.xml:  <GBSeq_organism>Streptomyces pulveraceus</GBSeq_organism>
+./AB184817.xml:  <GBSeq_organism>Streptomyces angustmyceticus</GBSeq_organism>
+./AB184210.xml:  <GBSeq_organism>Streptomyces griseoviridis</GBSeq_organism>

@@ -1,0 +1,9 @@
+./M73222.xml:  <GBSeq_organism>Ehrlichia chaffeensis</GBSeq_organism>
+./AF104680.xml:  <GBSeq_organism>Candidatus Neoehrlichia mikurensis</GBSeq_organism>
+./M73219.xml:  <GBSeq_organism>Neorickettsia sennetsu</GBSeq_organism>
+./M73221.xml:  <GBSeq_organism>Ehrlichia canis</GBSeq_organism>
+./AF069758.xml:  <GBSeq_organism>Ehrlichia ruminantium</GBSeq_organism>
+./U15527.xml:  <GBSeq_organism>Ehrlichia muris AS145</GBSeq_organism>
+./AF311303.xml:  <GBSeq_organism>Anaplasma marginale</GBSeq_organism>
+./AF179630.xml:  <GBSeq_organism>Wolbachia pipientis</GBSeq_organism>
+./U02521.xml:  <GBSeq_organism>Anaplasma phagocytophilum</GBSeq_organism>

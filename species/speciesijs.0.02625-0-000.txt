@@ -1,0 +1,4 @@
+./AY155585.xml:  <GBSeq_organism>Vibrio superstes</GBSeq_organism>
+./AY155582.xml:  <GBSeq_organism>Vibrio superstes</GBSeq_organism>
+./AY155584.xml:  <GBSeq_organism>Vibrio superstes</GBSeq_organism>
+./AF519806.xml:  <GBSeq_organism>Vibrio superstes</GBSeq_organism>

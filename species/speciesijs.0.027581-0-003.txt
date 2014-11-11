@@ -1,0 +1,25 @@
+./HM751842.xml:  <GBSeq_organism>Calothrix sp. UAM 342</GBSeq_organism>
+./HM751856.xml:  <GBSeq_organism>Calothrix sp. UAM 374</GBSeq_organism>
+./HM751852.xml:  <GBSeq_organism>Tolypothrix sp. UAM 371</GBSeq_organism>
+./EU009143.xml:  <GBSeq_organism>Rivularia sp. UAM 347</GBSeq_organism>
+./EU009151.xml:  <GBSeq_organism>Calothrix sp. UAM 370</GBSeq_organism>
+./EU009145.xml:  <GBSeq_organism>Rivularia sp. UAM 355</GBSeq_organism>
+./EU009149.xml:  <GBSeq_organism>Rivularia sp. UAM 305</GBSeq_organism>
+./EU009142.xml:  <GBSeq_organism>uncultured Rivularia sp.</GBSeq_organism>
+./HM751843.xml:  <GBSeq_organism>Calothrix sp. UAM 345</GBSeq_organism>
+./HM751844.xml:  <GBSeq_organism>Calothrix sp. UAM 336</GBSeq_organism>
+./HM751846.xml:  <GBSeq_organism>Tolypothrix sp. UAM 357</GBSeq_organism>
+./HM751854.xml:  <GBSeq_organism>uncultured Tolypothrix sp.</GBSeq_organism>
+./EU009152.xml:  <GBSeq_organism>Calothrix sp. UAM 315</GBSeq_organism>
+./HM751847.xml:  <GBSeq_organism>Tolypothrix sp. UAM 332</GBSeq_organism>
+./HM751849.xml:  <GBSeq_organism>Tolypothrix sp. UAM 334</GBSeq_organism>
+./HM751850.xml:  <GBSeq_organism>Tolypothrix sp. UAM 335</GBSeq_organism>
+./EU009154.xml:  <GBSeq_organism>Calothrix sp. UAM 372</GBSeq_organism>
+./EU009153.xml:  <GBSeq_organism>Calothrix sp. UAM 341</GBSeq_organism>
+./EU009150.xml:  <GBSeq_organism>Rivularia sp. UAM 313</GBSeq_organism>
+./HM751853.xml:  <GBSeq_organism>Tolypothrix sp. UAM 340</GBSeq_organism>
+./HM751851.xml:  <GBSeq_organism>Tolypothrix sp. UAM 337</GBSeq_organism>
+./EU009148.xml:  <GBSeq_organism>Rivularia sp. UAM 369</GBSeq_organism>
+./HM751848.xml:  <GBSeq_organism>Tolypothrix sp. UAM 333</GBSeq_organism>
+./HM751845.xml:  <GBSeq_organism>Calothrix sp. UAM 352</GBSeq_organism>
+./EU009147.xml:  <GBSeq_organism>Rivularia sp. UAM 302</GBSeq_organism>

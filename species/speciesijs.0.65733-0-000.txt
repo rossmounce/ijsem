@@ -1,0 +1,27 @@
+./AB198719.xml:  <GBSeq_organism>Bacillus boroniphilus</GBSeq_organism>
+./AJ831842.xml:  <GBSeq_organism>Bacillus altitudinis 41KF2b</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./D78478.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ583158.xml:  <GBSeq_organism>Bacillus indicus</GBSeq_organism>
+./AJ781029.xml:  <GBSeq_organism>Bacillus herbersteinensis</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./X60637.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AJ717382.xml:  <GBSeq_organism>Bacillus foraminis</GBSeq_organism>
+./AY550276.xml:  <GBSeq_organism>Bacillus cibi</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AJ627210.xml:  <GBSeq_organism>Bacillus humi</GBSeq_organism>
+./AY608605.xml:  <GBSeq_organism>Bacillus litoralis</GBSeq_organism>
+./AJ419629.xml:  <GBSeq_organism>Bacillus luciferensis</GBSeq_organism>
+./AY904033.xml:  <GBSeq_organism>Bacillus idriensis</GBSeq_organism>
+./AF234854.xml:  <GBSeq_organism>Bacillus safensis FO-36b</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./AY829448.xml:  <GBSeq_organism>Bacillus alkalitelluris</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./AY904032.xml:  <GBSeq_organism>Bacillus infantis</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AJ243144.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./Z29975.xml:  <GBSeq_organism>Acidithiobacillus caldus ATCC 51756</GBSeq_organism>
+./AY879297.xml:  <GBSeq_organism>Denitratisoma oestradiolicum</GBSeq_organism>
+./M79426.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./EU546130.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./U58019.xml:  <GBSeq_organism>Thiobacillus aquaesulis</GBSeq_organism>
+./AY032610.xml:  <GBSeq_organism>Dechloromonas aromatica RCB</GBSeq_organism>
+./AJ459804.xml:  <GBSeq_organism>Acidithiobacillus albertensis</GBSeq_organism>
+./AY436796.xml:  <GBSeq_organism>Methyloversatilis universalis EHg5</GBSeq_organism>
+./U58020.xml:  <GBSeq_organism>Halothiobacillus halophilus</GBSeq_organism>
+./AJ316618.xml:  <GBSeq_organism>Thiobacillus plumbophilus</GBSeq_organism>
+./M90662.xml:  <GBSeq_organism>Halothiobacillus hydrothermalis</GBSeq_organism>
+./AF005628.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./EU685841.xml:  <GBSeq_organism>Thiobacillus thiophilus</GBSeq_organism>
+./AF173169.xml:  <GBSeq_organism>Halothiobacillus neapolitanus</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>

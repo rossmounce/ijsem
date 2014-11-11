@@ -1,0 +1,17 @@
+./AF288370.xml:  <GBSeq_organism>Idiomarina loihiensis</GBSeq_organism>
+./AJ294747.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./EU600204.xml:  <GBSeq_organism>Idiomarina donghaiensis</GBSeq_organism>
+./AY526861.xml:  <GBSeq_organism>Idiomarina fontislapidosi</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./FM877003.xml:  <GBSeq_organism>Idiomarina insulisalsae</GBSeq_organism>
+./EU423907.xml:  <GBSeq_organism>Idiomarina tainanensis</GBSeq_organism>
+./AY635468.xml:  <GBSeq_organism>Idiomarina seosinensis</GBSeq_organism>
+./DQ118948.xml:  <GBSeq_organism>Idiomarina taiwanensis</GBSeq_organism>
+./AY526862.xml:  <GBSeq_organism>Idiomarina ramblicola</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./EF486355.xml:  <GBSeq_organism>Idiomarina salinarum</GBSeq_organism>
+./EF212001.xml:  <GBSeq_organism>Idiomarina sediminum DSM 21906</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./EU600203.xml:  <GBSeq_organism>Idiomarina maritima</GBSeq_organism>
+./EU423908.xml:  <GBSeq_organism>Idiomarina marina</GBSeq_organism>
+./AJ440214.xml:  <GBSeq_organism>Idiomarina baltica OS145</GBSeq_organism>

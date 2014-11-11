@@ -1,0 +1,12 @@
+./AF110188.xml:  <GBSeq_organism>Burkholderia mallei</GBSeq_organism>
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./X67037.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./X67039.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./X67038.xml:  <GBSeq_organism>Burkholderia gladioli</GBSeq_organism>
+./DQ465451.xml:  <GBSeq_organism>Burkholderia soli</GBSeq_organism>
+./AF247491.xml:  <GBSeq_organism>Burkholderia sp. A6.2</GBSeq_organism>
+./U96935.xml:  <GBSeq_organism>Burkholderia glathei</GBSeq_organism>
+./AY040362.xml:  <GBSeq_organism>Burkholderia terricola</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./Y18703.xml:  <GBSeq_organism>Burkholderia multivorans ATCC BAA-247</GBSeq_organism>
+./AF408997.xml:  <GBSeq_organism>Burkholderia sp. Ellin155</GBSeq_organism>

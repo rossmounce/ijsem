@@ -1,0 +1,14 @@
+./AF082562.xml:  <GBSeq_organism>Pseudoalteromonas elyakovii</GBSeq_organism>
+./X98336.xml:  <GBSeq_organism>Pseudoalteromonas antarctica</GBSeq_organism>
+./X82136.xml:  <GBSeq_organism>Pseudoalteromonas carrageenovora</GBSeq_organism>
+./X82140.xml:  <GBSeq_organism>Pseudoalteromonas undina</GBSeq_organism>
+./AF316144.xml:  <GBSeq_organism>Pseudoalteromonas issachenkonii</GBSeq_organism>
+./X82139.xml:  <GBSeq_organism>Pseudoalteromonas tetraodonis</GBSeq_organism>
+./U85855.xml:  <GBSeq_organism>Pseudoalteromonas prydzensis</GBSeq_organism>
+./X82143.xml:  <GBSeq_organism>Pseudoalteromonas espejiana</GBSeq_organism>
+./X82134.xml:  <GBSeq_organism>Pseudoalteromonas atlantica</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AJ507251.xml:  <GBSeq_organism>Pseudoalteromonas mariniglutinosa</GBSeq_organism>
+./X82146.xml:  <GBSeq_organism>Pseudoalteromonas nigrifaciens</GBSeq_organism>
+./AJ417594.xml:  <GBSeq_organism>Pseudoalteromonas agarivorans DSM 14585</GBSeq_organism>
+./AF082564.xml:  <GBSeq_organism>Pseudoalteromonas distincta</GBSeq_organism>

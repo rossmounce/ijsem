@@ -1,0 +1,8 @@
+./U88564.xml:  <GBSeq_organism>Candidatus Mycoplasma haemominutum</GBSeq_organism>
+./AF178676.xml:  <GBSeq_organism>Candidatus Mycoplasma haemodidelphidis</GBSeq_organism>
+./U88565.xml:  <GBSeq_organism>Mycoplasma suis str. Illinois</GBSeq_organism>
+./AY383241.xml:  <GBSeq_organism>Candidatus Mycoplasma haematoparvum</GBSeq_organism>
+./U82963.xml:  <GBSeq_organism>Mycoplasma haemomuris</GBSeq_organism>
+./AF178677.xml:  <GBSeq_organism>Mycoplasma haemofelis</GBSeq_organism>
+./U88563.xml:  <GBSeq_organism>Mycoplasma haemofelis</GBSeq_organism>
+./AF197337.xml:  <GBSeq_organism>Mycoplasma haemocanis</GBSeq_organism>

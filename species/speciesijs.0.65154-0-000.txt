@@ -1,0 +1,30 @@
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AF433173.xml:  <GBSeq_organism>Flavobacterium xinjiangense</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./AM265623.xml:  <GBSeq_organism>Flavobacterium hercynium</GBSeq_organism>
+./D12671.xml:  <GBSeq_organism>Flavobacterium saccharophilum</GBSeq_organism>
+./D12673.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./AJ557888.xml:  <GBSeq_organism>Flavobacterium micromati</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./DQ021903.xml:  <GBSeq_organism>Flavobacterium saliperosum</GBSeq_organism>
+./M58764.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./D12669.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./DQ178976.xml:  <GBSeq_organism>Flavobacterium soli</GBSeq_organism>
+./D14017.xml:  <GBSeq_organism>Flavobacterium branchiophilum</GBSeq_organism>
+./AJ440996.xml:  <GBSeq_organism>Flavobacterium gelidilacus</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./D12670.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AY581115.xml:  <GBSeq_organism>Flavobacterium segetis</GBSeq_organism>
+./DQ372982.xml:  <GBSeq_organism>Flavobacterium croceum</GBSeq_organism>
+./AM292800.xml:  <GBSeq_organism>Flavobacterium ceti</GBSeq_organism>
+./AB010951.xml:  <GBSeq_organism>Flavobacterium columnare</GBSeq_organism>
+./AF162266.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>
+./AM177392.xml:  <GBSeq_organism>Flavobacterium aquidurense</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>
+./AB176662.xml:  <GBSeq_organism>Myroides pelagicus</GBSeq_organism>

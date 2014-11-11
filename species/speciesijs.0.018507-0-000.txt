@@ -1,0 +1,14 @@
+./AJ518871.xml:  <GBSeq_organism>Anaerofustis stercorihominis DSM 17244</GBSeq_organism>
+./X96955.xml:  <GBSeq_organism>Acetobacterium wieringae</GBSeq_organism>
+./X96954.xml:  <GBSeq_organism>Acetobacterium woodii DSM 1030</GBSeq_organism>
+./AB036759.xml:  <GBSeq_organism>Pseudoramibacter alactolyticus ATCC 23263</GBSeq_organism>
+./X96958.xml:  <GBSeq_organism>Acetobacterium paludosum</GBSeq_organism>
+./M59084.xml:  <GBSeq_organism>Gottschalkia acidurici</GBSeq_organism>
+./FJ438469.xml:  <GBSeq_organism>Alkalibaculum bacchi</GBSeq_organism>
+./X96959.xml:  <GBSeq_organism>Acetobacterium fimetarium</GBSeq_organism>
+./AF073898.xml:  <GBSeq_organism>Eubacterium aggregans</GBSeq_organism>
+./M23927.xml:  <GBSeq_organism>Eubacterium barkeri</GBSeq_organism>
+./M60491.xml:  <GBSeq_organism>[Clostridium] purinilyticum</GBSeq_organism>
+./X96961.xml:  <GBSeq_organism>Eubacterium callanderi</GBSeq_organism>
+./X96957.xml:  <GBSeq_organism>Acetobacterium malicum</GBSeq_organism>
+./X80841.xml:  <GBSeq_organism>Tissierella praeacuta</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AY972057.xml:  <GBSeq_organism>Gordonia amicalis</GBSeq_organism>
+./AY972060.xml:  <GBSeq_organism>Gordonia desulfuricans</GBSeq_organism>
+./AY972070.xml:  <GBSeq_organism>Gordonia soli</GBSeq_organism>
+./AY972061.xml:  <GBSeq_organism>Gordonia rubripertincta</GBSeq_organism>
+./AY972056.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./AY972059.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AY972064.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>

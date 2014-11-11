@@ -1,0 +1,39 @@
+./AJ298725.xml:  <GBSeq_organism>Nitrosospira sp. Np39-19</GBSeq_organism>
+./AJ005543.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123789.xml:  <GBSeq_organism>Nitrosospira sp. Nsp58</GBSeq_organism>
+./L35505.xml:  <GBSeq_organism>Nitrosospira briensis C-128</GBSeq_organism>
+./AY123803.xml:  <GBSeq_organism>Nitrosovibrio tenuis</GBSeq_organism>
+./X84656.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123790.xml:  <GBSeq_organism>Nitrosospira sp. Nsp62</GBSeq_organism>
+./AY123812.xml:  <GBSeq_organism>Nitrosospira sp. Nl5</GBSeq_organism>
+./AY123807.xml:  <GBSeq_organism>Nitrosospira multiformis ATCC 25196</GBSeq_organism>
+./AY123805.xml:  <GBSeq_organism>Nitrosospira sp. Nv6</GBSeq_organism>
+./AY123813.xml:  <GBSeq_organism>Nitrosospira sp. Nsp65</GBSeq_organism>
+./X90820.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./M96405.xml:  <GBSeq_organism>Nitrosovibrio tenuis</GBSeq_organism>
+./AF363290.xml:  <GBSeq_organism>Nitrosovibrio sp. RY3C</GBSeq_organism>
+./AY123788.xml:  <GBSeq_organism>Nitrosospira sp. Nsp41</GBSeq_organism>
+./AY123800.xml:  <GBSeq_organism>Nitrosospira briensis</GBSeq_organism>
+./X84661.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123796.xml:  <GBSeq_organism>Nitrosospira sp. L115</GBSeq_organism>
+./M96397.xml:  <GBSeq_organism>Nitrosovibrio tenuis</GBSeq_organism>
+./X84658.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AJ012106.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./Y10128.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./X84659.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123801.xml:  <GBSeq_organism>Nitrosospira sp. Nsp12</GBSeq_organism>
+./AY123804.xml:  <GBSeq_organism>Nitrosospira sp. Nsp17</GBSeq_organism>
+./AY123809.xml:  <GBSeq_organism>Nitrosospira sp. III7</GBSeq_organism>
+./Y10127.xml:  <GBSeq_organism>Nitrosospira sp. NpAV</GBSeq_organism>
+./X84660.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AJ005545.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123802.xml:  <GBSeq_organism>Nitrosospira sp. Nsp2</GBSeq_organism>
+./X84657.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123808.xml:  <GBSeq_organism>Nitrosospira sp. Nsp1</GBSeq_organism>
+./AF353162.xml:  <GBSeq_organism>Nitrosospira sp. GS833</GBSeq_organism>
+./AF353156.xml:  <GBSeq_organism>Nitrosospira sp. TCH716</GBSeq_organism>
+./AF363291.xml:  <GBSeq_organism>Nitrosovibrio sp. RY6A</GBSeq_organism>
+./AJ012107.xml:  <GBSeq_organism>Nitrosospira sp.</GBSeq_organism>
+./AY123787.xml:  <GBSeq_organism>Nitrosospira sp. Nsp40</GBSeq_organism>
+./AF353158.xml:  <GBSeq_organism>Nitrosospira sp. NRS527</GBSeq_organism>
+./AY123791.xml:  <GBSeq_organism>Nitrosospira sp. Nsp57</GBSeq_organism>

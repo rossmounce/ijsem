@@ -1,0 +1,9 @@
+./AJ293145.xml:  <GBSeq_organism>Aphanizomenon flos-aquae 202</GBSeq_organism>
+./AJ293135.xml:  <GBSeq_organism>Dolichospermum circinale 123</GBSeq_organism>
+./AJ293154.xml:  <GBSeq_organism>Anabaena sp. 277</GBSeq_organism>
+./AJ293152.xml:  <GBSeq_organism>Aphanizomenon flos-aquae TR183</GBSeq_organism>
+./AJ293133.xml:  <GBSeq_organism>Anabaena flos-aquae 14</GBSeq_organism>
+./AJ293138.xml:  <GBSeq_organism>Dolichospermum flos-aquae</GBSeq_organism>
+./AJ293136.xml:  <GBSeq_organism>Anabaena lemmermannii 66A</GBSeq_organism>
+./AJ293153.xml:  <GBSeq_organism>Aphanizomenon flos-aquae PCC 7905</GBSeq_organism>
+./AJ293137.xml:  <GBSeq_organism>Anabaena sp. 90</GBSeq_organism>

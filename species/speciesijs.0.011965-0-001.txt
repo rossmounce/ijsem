@@ -1,0 +1,13 @@
+./AB184183.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./AB184071.xml:  <GBSeq_organism>Streptomyces sclerotialus</GBSeq_organism>
+./AJ621603.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./EU200685.xml:  <GBSeq_organism>Streptomyces artemisiae</GBSeq_organism>
+./AB184559.xml:  <GBSeq_organism>Streptomyces sviceus ATCC 29083</GBSeq_organism>
+./AB184423.xml:  <GBSeq_organism>Streptomyces paraguayensis</GBSeq_organism>
+./AB184774.xml:  <GBSeq_organism>Streptomyces ochraceiscleroticus</GBSeq_organism>
+./AB184236.xml:  <GBSeq_organism>Streptomyces rimosus subsp. rimosus</GBSeq_organism>
+./AJ560629.xml:  <GBSeq_organism>Streptomyces cebimarensis</GBSeq_organism>
+./AY262826.xml:  <GBSeq_organism>Streptomyces ferralitis</GBSeq_organism>
+./AB184102.xml:  <GBSeq_organism>Streptomyces armeniacus</GBSeq_organism>
+./AB184563.xml:  <GBSeq_organism>Streptomyces endus</GBSeq_organism>
+./AB184555.xml:  <GBSeq_organism>Streptomyces mucoflavus</GBSeq_organism>

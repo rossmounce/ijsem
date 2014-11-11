@@ -1,0 +1,21 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./AY187688.xml:  <GBSeq_organism>Formosa agariphila KMM 3901</GBSeq_organism>
+./AM491809.xml:  <GBSeq_organism>Algibacter mikhailovii</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./U62916.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AY682382.xml:  <GBSeq_organism>Yeosuana aromativorans</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./AB198089.xml:  <GBSeq_organism>Dokdonia diaphoros</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AJ344133.xml:  <GBSeq_organism>Gelidibacter mesophilus</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./EF217419.xml:  <GBSeq_organism>Hyunsoonleella jejuensis</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AJ005973.xml:  <GBSeq_organism>Cellulophaga fucicola</GBSeq_organism>
+./AB198088.xml:  <GBSeq_organism>Dokdonia eikasta</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AY694005.xml:  <GBSeq_organism>Bizionia saleffrena</GBSeq_organism>
+./AJ005972.xml:  <GBSeq_organism>Cellulophaga baltica</GBSeq_organism>

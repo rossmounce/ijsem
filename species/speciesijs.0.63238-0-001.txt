@@ -1,0 +1,22 @@
+./AF480592.xml:  <GBSeq_organism>Mycobacterium abscessus ATCC 19977</GBSeq_organism>
+./U94745.xml:  <GBSeq_organism>Mycobacterium duvalii</GBSeq_organism>
+./AY449728.xml:  <GBSeq_organism>Mycobacterium cosmeticum</GBSeq_organism>
+./AF544639.xml:  <GBSeq_organism>Mycobacterium vaccae</GBSeq_organism>
+./X55591.xml:  <GBSeq_organism>Mycobacterium komossense</GBSeq_organism>
+./Y12871.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./X55599.xml:  <GBSeq_organism>Mycobacterium gilvum</GBSeq_organism>
+./X93184.xml:  <GBSeq_organism>Mycobacterium hodleri</GBSeq_organism>
+./AJ010747.xml:  <GBSeq_organism>Mycobacterium elephantis</GBSeq_organism>
+./AF480599.xml:  <GBSeq_organism>Mycobacterium diernhoferi</GBSeq_organism>
+./M29562.xml:  <GBSeq_organism>Mycobacterium fallax</GBSeq_organism>
+./AJ536031.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./X55595.xml:  <GBSeq_organism>Mycobacterium aurum</GBSeq_organism>
+./AY449729.xml:  <GBSeq_organism>Mycobacterium cosmeticum</GBSeq_organism>
+./X93183.xml:  <GBSeq_organism>Mycobacterium parafortuitum</GBSeq_organism>
+./X55598.xml:  <GBSeq_organism>Mycobacterium aichiense</GBSeq_organism>
+./AJ276274.xml:  <GBSeq_organism>Mycobacterium frederiksbergense</GBSeq_organism>
+./M29560.xml:  <GBSeq_organism>Mycobacterium chitae</GBSeq_organism>
+./AF480594.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./X93182.xml:  <GBSeq_organism>Mycobacterium austroafricanum</GBSeq_organism>
+./AF480593.xml:  <GBSeq_organism>Mycobacterium neoaurum ATCC 25795</GBSeq_organism>
+./AJ131761.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>

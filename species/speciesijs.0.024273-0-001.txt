@@ -1,0 +1,14 @@
+./AB184147.xml:  <GBSeq_organism>Streptomyces limosus</GBSeq_organism>
+./AB184143.xml:  <GBSeq_organism>Streptomyces hawaiiensis</GBSeq_organism>
+./AB184152.xml:  <GBSeq_organism>Streptomyces massasporeus</GBSeq_organism>
+./FN429653.xml:  <GBSeq_organism>Streptomyces tacrolimicus</GBSeq_organism>
+./AB184129.xml:  <GBSeq_organism>Streptomyces felleus</GBSeq_organism>
+./AB184434.xml:  <GBSeq_organism>Streptomyces fulvissimus</GBSeq_organism>
+./X80824.xml:  <GBSeq_organism>Streptomyces caelestis</GBSeq_organism>
+./AB184196.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./AB184315.xml:  <GBSeq_organism>Streptomyces violaceus</GBSeq_organism>
+./AB184117.xml:  <GBSeq_organism>Streptomyces canescens</GBSeq_organism>
+./AM238663.xml:  <GBSeq_organism>Streptomyces ambofaciens ATCC 23877</GBSeq_organism>
+./AB184255.xml:  <GBSeq_organism>Streptomyces albidoflavus</GBSeq_organism>
+./AB184859.xml:  <GBSeq_organism>Streptomyces purpurascens</GBSeq_organism>
+./D63871.xml:  <GBSeq_organism>Streptomyces sampsonii</GBSeq_organism>

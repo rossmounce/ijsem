@@ -1,0 +1,34 @@
+./AF004845.xml:  <GBSeq_organism>Methylorhabdus multivorans</GBSeq_organism>
+./AF198623.xml:  <GBSeq_organism>Hyphomicrobium chloromethanicum</GBSeq_organism>
+./X97692.xml:  <GBSeq_organism>Pedomicrobium americanum</GBSeq_organism>
+./Y14308.xml:  <GBSeq_organism>Hyphomicrobium denitrificans</GBSeq_organism>
+./AB271045.xml:  <GBSeq_organism>Devosia ginsengisoli</GBSeq_organism>
+./X97691.xml:  <GBSeq_organism>Pedomicrobium manganicum</GBSeq_organism>
+./AF235089.xml:  <GBSeq_organism>Hyphomicrobium sulfonivorans</GBSeq_organism>
+./Y14307.xml:  <GBSeq_organism>Hyphomicrobium methylovorum</GBSeq_organism>
+./X97693.xml:  <GBSeq_organism>Pedomicrobium australicum</GBSeq_organism>
+./D25311.xml:  <GBSeq_organism>Rhodoplanes elegans</GBSeq_organism>
+./DQ303125.xml:  <GBSeq_organism>Devosia soli</GBSeq_organism>
+./M34127.xml:  <GBSeq_organism>Rhodomicrobium vannielii</GBSeq_organism>
+./Y14303.xml:  <GBSeq_organism>Hyphomicrobium hollandicum</GBSeq_organism>
+./U00096.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. MG1655</GBSeq_organism>
+./EF012357.xml:  <GBSeq_organism>Devosia insulae DS-56</GBSeq_organism>
+./D25314.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./X97690.xml:  <GBSeq_organism>Pedomicrobium ferrugineum</GBSeq_organism>
+./Y14309.xml:  <GBSeq_organism>Hyphomicrobium facile subsp. facile</GBSeq_organism>
+./D49423.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./EF575560.xml:  <GBSeq_organism>Devosia geojensis</GBSeq_organism>
+./Y14305.xml:  <GBSeq_organism>Hyphomicrobium zavarzinii</GBSeq_organism>
+./AJ548825.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AM293857.xml:  <GBSeq_organism>Devosia subaequoris</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AJ548824.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./D25313.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>
+./AJ535709.xml:  <GBSeq_organism>Angulomicrobium amanitiforme</GBSeq_organism>
+./EF988631.xml:  <GBSeq_organism>Maritalea myrionectae</GBSeq_organism>
+./Y14313.xml:  <GBSeq_organism>Filomicrobium fusiforme</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./Y14304.xml:  <GBSeq_organism>Hyphomicrobium aestuarii</GBSeq_organism>
+./AJ548823.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./Y14302.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>
+./AJ786801.xml:  <GBSeq_organism>Devosia limi</GBSeq_organism>

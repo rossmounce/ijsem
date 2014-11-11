@@ -1,0 +1,8 @@
+./EF433462.xml:  <GBSeq_organism>Devosia chinhatensis</GBSeq_organism>
+./EF012357.xml:  <GBSeq_organism>Devosia insulae DS-56</GBSeq_organism>
+./AJ548825.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AJ549086.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./AJ548824.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./AJ548823.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AJ786801.xml:  <GBSeq_organism>Devosia limi</GBSeq_organism>

@@ -1,0 +1,24 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./X95919.xml:  <GBSeq_organism>Xanthomonas axonopodis</GBSeq_organism>
+./U15111.xml:  <GBSeq_organism>hydrothermal vent eubacterium PVB_OTU_1</GBSeq_organism>
+./U15112.xml:  <GBSeq_organism>hydrothermal vent eubacterium PVB_OTU_1</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AB091194.xml:  <GBSeq_organism>Frateuria aurantia DSM 6220</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ519986.xml:  <GBSeq_organism>Thermomonas fusca</GBSeq_organism>
+./AJ519989.xml:  <GBSeq_organism>Thermomonas brevis</GBSeq_organism>
+./AF159578.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AB083480.xml:  <GBSeq_organism>Lysobacter sp. IB-9374</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AF542054.xml:  <GBSeq_organism>Thermomonas hydrothermalis</GBSeq_organism>
+./Y10756.xml:  <GBSeq_organism>Xanthomonas melonis</GBSeq_organism>
+./AB161359.xml:  <GBSeq_organism>Lysobacter concretionis</GBSeq_organism>
+./AF332712.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./Y10766.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./AJ001010.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./Y10765.xml:  <GBSeq_organism>Xanthomonas codiaei</GBSeq_organism>
+./Y10754.xml:  <GBSeq_organism>Xanthomonas hyacinthi</GBSeq_organism>
+./AB161360.xml:  <GBSeq_organism>Lysobacter brunescens</GBSeq_organism>
+./X95918.xml:  <GBSeq_organism>Xanthomonas albilineans</GBSeq_organism>

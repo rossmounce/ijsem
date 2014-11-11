@@ -1,0 +1,23 @@
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./AM229324.xml:  <GBSeq_organism>Arenimonas composti TR7-09 = DSM 18010</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./EF166076.xml:  <GBSeq_organism>Rhodanobacter terrae</GBSeq_organism>
+./AM087226.xml:  <GBSeq_organism>Rhodanobacter spathiphylli B39</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AY382154.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EU741687.xml:  <GBSeq_organism>Rudaea cellulosilytica</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AY987368.xml:  <GBSeq_organism>Dokdonella koreensis</GBSeq_organism>
+./AB008509.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./AJ969432.xml:  <GBSeq_organism>Dokdonella fugitiva</GBSeq_organism>
+./AB100608.xml:  <GBSeq_organism>Rhodanobacter fulvus Jip2</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./EF166075.xml:  <GBSeq_organism>Rhodanobacter ginsengisoli</GBSeq_organism>
+./AJ010481.xml:  <GBSeq_organism>Frateuria aurantia DSM 6220</GBSeq_organism>
+./AY557615.xml:  <GBSeq_organism>Silanimonas lenta</GBSeq_organism>
+./AY884571.xml:  <GBSeq_organism>Dyella koreensis</GBSeq_organism>
+./Z76651.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./DQ450790.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./AY294014.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY294013.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

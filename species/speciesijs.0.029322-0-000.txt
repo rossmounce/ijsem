@@ -1,0 +1,5 @@
+./AM283464.xml:  <GBSeq_organism>Williamsia serinedens</GBSeq_organism>
+./FR691321.xml:  <GBSeq_organism>Williamsia phyllosphaerae</GBSeq_organism>
+./AJ920290.xml:  <GBSeq_organism>Williamsia deligens</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AY894336.xml:  <GBSeq_organism>Williamsia marianensis</GBSeq_organism>

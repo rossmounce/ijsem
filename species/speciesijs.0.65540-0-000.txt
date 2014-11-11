@@ -1,0 +1,26 @@
+./U60014.xml:  <GBSeq_organism>Prosthecobacter debontii</GBSeq_organism>
+./AB331890.xml:  <GBSeq_organism>Roseibacillus persicicus</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB331892.xml:  <GBSeq_organism>Roseibacillus persicicus</GBSeq_organism>
+./AB331893.xml:  <GBSeq_organism>Luteolibacter algae</GBSeq_organism>
+./AB331887.xml:  <GBSeq_organism>Persicirhabdus sediminis</GBSeq_organism>
+./AB331891.xml:  <GBSeq_organism>Roseibacillus persicicus</GBSeq_organism>
+./U60013.xml:  <GBSeq_organism>Prosthecobacter vanneervenii</GBSeq_organism>
+./AB331895.xml:  <GBSeq_organism>Luteolibacter pohnpeiensis</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./DQ302105.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AB353310.xml:  <GBSeq_organism>Rubritalea sabuli</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./U60015.xml:  <GBSeq_organism>Prosthecobacter fusiformis</GBSeq_organism>
+./AB331886.xml:  <GBSeq_organism>Persicirhabdus sediminis DSM 22463</GBSeq_organism>
+./AB331889.xml:  <GBSeq_organism>Roseibacillus ponti</GBSeq_organism>
+./AJ441243.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ408970.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB331894.xml:  <GBSeq_organism>Luteolibacter algae</GBSeq_organism>
+./AF050560.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-41</GBSeq_organism>
+./AB331888.xml:  <GBSeq_organism>Roseibacillus ishigakijimensis</GBSeq_organism>
+./AF316731.xml:  <GBSeq_organism>uncultured Crater Lake bacterium CL500-85</GBSeq_organism>
+./AJ401105.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV005</GBSeq_organism>
+./AB297805.xml:  <GBSeq_organism>Rubritalea spongiae</GBSeq_organism>
+./AF009974.xml:  <GBSeq_organism>unidentified eubacterium LD19</GBSeq_organism>
+./AB277853.xml:  <GBSeq_organism>Rubritalea squalenifaciens</GBSeq_organism>

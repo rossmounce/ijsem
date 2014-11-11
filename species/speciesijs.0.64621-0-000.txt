@@ -1,0 +1,17 @@
+./AJ492829.xml:  <GBSeq_organism>Pseudomonas poae</GBSeq_organism>
+./AF100321.xml:  <GBSeq_organism>Pseudomonas brassicacearum</GBSeq_organism>
+./AF268029.xml:  <GBSeq_organism>Pseudomonas grimontii</GBSeq_organism>
+./Z76673.xml:  <GBSeq_organism>Pseudomonas chlororaphis subsp. chlororaphis</GBSeq_organism>
+./D84005.xml:  <GBSeq_organism>Pseudomonas agarici</GBSeq_organism>
+./AY035996.xml:  <GBSeq_organism>Pseudomonas lini</GBSeq_organism>
+./AY336565.xml:  <GBSeq_organism>Azotobacter vinelandii</GBSeq_organism>
+./AY152673.xml:  <GBSeq_organism>Pseudomonas rhizosphaerae</GBSeq_organism>
+./D84012.xml:  <GBSeq_organism>Pseudomonas corrugata</GBSeq_organism>
+./AF074384.xml:  <GBSeq_organism>Pseudomonas gessardii</GBSeq_organism>
+./AY509898.xml:  <GBSeq_organism>Pseudomonas chlororaphis subsp. aureofaciens</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./AF074383.xml:  <GBSeq_organism>Pseudomonas migulae</GBSeq_organism>
+./AJ537603.xml:  <GBSeq_organism>Pseudomonas proteolytica</GBSeq_organism>
+./D84026.xml:  <GBSeq_organism>Pseudomonas syringae</GBSeq_organism>
+./D84013.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./AJ537602.xml:  <GBSeq_organism>Pseudomonas meridiana</GBSeq_organism>

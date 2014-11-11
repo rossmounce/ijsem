@@ -1,0 +1,17 @@
+./U87772.xml:  <GBSeq_organism>Afipia genosp. 6</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./AM285681.xml:  <GBSeq_organism>Methylocystis heyeri</GBSeq_organism>
+./D32224.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AJ581837.xml:  <GBSeq_organism>Methylohalobius crimeensis 10Ki</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./AM283543.xml:  <GBSeq_organism>Methylocystis heyeri</GBSeq_organism>
+./Y17144.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./D84187.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./AJ563935.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ491847.xml:  <GBSeq_organism>Methylocella silvestris BL2</GBSeq_organism>
+./AF304195.xml:  <GBSeq_organism>Methylobacter luteus</GBSeq_organism>
+./AJ458476.xml:  <GBSeq_organism>Methylocystis parvus</GBSeq_organism>

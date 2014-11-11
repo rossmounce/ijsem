@@ -1,0 +1,5 @@
+./X80737.xml:  <GBSeq_organism>Arthrobacter citreus</GBSeq_organism>
+./X80748.xml:  <GBSeq_organism>Arthrobacter agilis</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./AJ243422.xml:  <GBSeq_organism>Arthrobacter luteolus</GBSeq_organism>
+./X80746.xml:  <GBSeq_organism>Sinomonas atrocyanea</GBSeq_organism>

@@ -1,0 +1,4 @@
+./AB158278.xml:  <GBSeq_organism>Nocardia takedensis</GBSeq_organism>
+./AJ556157.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./X80609.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AB158277.xml:  <GBSeq_organism>Nocardia takedensis</GBSeq_organism>

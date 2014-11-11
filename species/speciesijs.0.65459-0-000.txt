@@ -1,0 +1,10 @@
+./AF094742.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AB021408.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./EF673695.xml:  <GBSeq_organism>Pseudomonas pertucinogena</GBSeq_organism>
+./AB021367.xml:  <GBSeq_organism>Marinobacterium stanieri</GBSeq_organism>
+./Z76664.xml:  <GBSeq_organism>Pseudomonas mendocina</GBSeq_organism>
+./D85999.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AF094748.xml:  <GBSeq_organism>Pseudomonas stutzeri ATCC 17588 = LMG 11199</GBSeq_organism>
+./Z76651.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>

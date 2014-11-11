@@ -1,0 +1,6 @@
+./AY631896.xml:  <GBSeq_organism>Leptospira inadai serovar Lyme</GBSeq_organism>
+./AY631883.xml:  <GBSeq_organism>Leptospira santarosai serovar Shermani str. LT 821</GBSeq_organism>
+./AY796065.xml:  <GBSeq_organism>Leptospira broomii</GBSeq_organism>
+./AY996789.xml:  <GBSeq_organism>Leptospira fainei serovar Hurstbridge</GBSeq_organism>
+./AY792329.xml:  <GBSeq_organism>Leptospira broomii</GBSeq_organism>
+./AY631894.xml:  <GBSeq_organism>Leptospira interrogans serovar Icterohaemorrhagiae</GBSeq_organism>

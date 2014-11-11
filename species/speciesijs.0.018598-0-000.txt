@@ -1,0 +1,10 @@
+./AB477980.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./AB477972.xml:  <GBSeq_organism>Haloferax elongans ATCC BAA-1513</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./AY838278.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./EU887284.xml:  <GBSeq_organism>Halopelagius inordinatus</GBSeq_organism>
+./AB477975.xml:  <GBSeq_organism>Haloplanus natans</GBSeq_organism>
+./AB477973.xml:  <GBSeq_organism>Haloferax sulfurifontis ATCC BAA-897</GBSeq_organism>

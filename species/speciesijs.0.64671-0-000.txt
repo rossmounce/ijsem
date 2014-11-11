@@ -1,0 +1,33 @@
+./AF005016.xml:  <GBSeq_organism>Nocardioides fulvus</GBSeq_organism>
+./AF409013.xml:  <GBSeq_organism>Friedmanniella sp. Ellin171</GBSeq_organism>
+./AJ132943.xml:  <GBSeq_organism>Friedmanniella lacustris</GBSeq_organism>
+./AF005001.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./D85487.xml:  <GBSeq_organism>Luteococcus japonicus</GBSeq_organism>
+./AJ003055.xml:  <GBSeq_organism>Propionibacterium avidum ATCC 25577</GBSeq_organism>
+./AF005007.xml:  <GBSeq_organism>Nocardioides luteus</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./AF234623.xml:  <GBSeq_organism>Propionibacterium microaerophilum</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./X76862.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./D26170.xml:  <GBSeq_organism>Microlunatus phosphovorus</GBSeq_organism>
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./AF005022.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AY566575.xml:  <GBSeq_organism>Granulicoccus phenolivorans</GBSeq_organism>
+./D26169.xml:  <GBSeq_organism>Microlunatus phosphovorus NM-1</GBSeq_organism>
+./Y10819.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./D50065.xml:  <GBSeq_organism>Microlunatus sp.</GBSeq_organism>
+./Z78206.xml:  <GBSeq_organism>Friedmanniella antarctica</GBSeq_organism>
+./X53219.xml:  <GBSeq_organism>Propionibacterium jensenii</GBSeq_organism>
+./AJ003058.xml:  <GBSeq_organism>Propionibacterium propionicum</GBSeq_organism>
+./AF084529.xml:  <GBSeq_organism>Friedmanniella capsulata</GBSeq_organism>
+./AF225962.xml:  <GBSeq_organism>Propionibacterium australiense</GBSeq_organism>
+./AB108778.xml:  <GBSeq_organism>Nocardia higoensis NBRC 100133</GBSeq_organism>
+./AF062535.xml:  <GBSeq_organism>Friedmanniella spumicola</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./AY835926.xml:  <GBSeq_organism>Nocardioides kribbensis</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AF227165.xml:  <GBSeq_organism>Propioniferax innocua</GBSeq_organism>
+./AB162629.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./AJ132334.xml:  <GBSeq_organism>Luteococcus peritonei</GBSeq_organism>
+./AJ416758.xml:  <GBSeq_organism>Luteococcus sanguinis</GBSeq_organism>

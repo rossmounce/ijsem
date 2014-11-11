@@ -1,0 +1,15 @@
+./D85491.xml:  <GBSeq_organism>Nonomuraea pusilla</GBSeq_organism>
+./EU698029.xml:  <GBSeq_organism>Marinactinospora thermotolerans</GBSeq_organism>
+./D85494.xml:  <GBSeq_organism>Planobispora longispora</GBSeq_organism>
+./AY749433.xml:  <GBSeq_organism>Herbidospora daliensis</GBSeq_organism>
+./X97891.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./U48996.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./AB188150.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./X89941.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./AY039253.xml:  <GBSeq_organism>Thermopolyspora flexuosa</GBSeq_organism>
+./D85495.xml:  <GBSeq_organism>Planomonospora parontospora</GBSeq_organism>
+./FJ214356.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./FJ199995.xml:  <GBSeq_organism>Herbidospora sakaeratensis</GBSeq_organism>

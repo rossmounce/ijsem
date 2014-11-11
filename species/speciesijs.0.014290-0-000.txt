@@ -1,0 +1,14 @@
+./FN293173.xml:  <GBSeq_organism>Paenibacillus residui</GBSeq_organism>
+./D78320.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./AF353881.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./AY323612.xml:  <GBSeq_organism>Paenibacillus timonensis 2301032</GBSeq_organism>
+./AY167814.xml:  <GBSeq_organism>Paenibacillus barengoltzii</GBSeq_organism>
+./FN293174.xml:  <GBSeq_organism>Paenibacillus residui</GBSeq_organism>
+./AY741810.xml:  <GBSeq_organism>Paenibacillus motobuensis</GBSeq_organism>
+./AY839866.xml:  <GBSeq_organism>Paenibacillus gansuensis</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./AF290916.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./EU081509.xml:  <GBSeq_organism>Paenibacillus konsidensis</GBSeq_organism>
+./D82064.xml:  <GBSeq_organism>Paenibacillus chondroitinus</GBSeq_organism>
+./EF125184.xml:  <GBSeq_organism>Paenibacillus tarimensis</GBSeq_organism>

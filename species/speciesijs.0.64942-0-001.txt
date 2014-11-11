@@ -1,0 +1,8 @@
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D84520.xml:  <GBSeq_organism>Sphingomonas roseiflava</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./D84525.xml:  <GBSeq_organism>Sphingomonas parapaucimobilis</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AM412238.xml:  <GBSeq_organism>Sphingomonas pseudosanguinis</GBSeq_organism>

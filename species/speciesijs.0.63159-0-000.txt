@@ -1,0 +1,11 @@
+./AF007287.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./AB014951.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./AF007276.xml:  <GBSeq_organism>Pseudoalteromonas carrageenovora</GBSeq_organism>
+./AF007288.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./AJ515283.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./AF136383.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./AF136385.xml:  <GBSeq_organism>Photobacterium leiognathi</GBSeq_organism>
+./AF007284.xml:  <GBSeq_organism>Pseudoalteromonas undina</GBSeq_organism>
+./AF007272.xml:  <GBSeq_organism>Alteromonas macleodii ATCC 27126</GBSeq_organism>
+./AF136386.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AF007281.xml:  <GBSeq_organism>Pseudoalteromonas nigrifaciens</GBSeq_organism>

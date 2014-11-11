@@ -1,0 +1,18 @@
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AY027806.xml:  <GBSeq_organism>Aequorivita crocea</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./AY027805.xml:  <GBSeq_organism>Aequorivita lipolytica</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./U85889.xml:  <GBSeq_organism>Flavobacterium gillisiae</GBSeq_organism>
+./AJ278780.xml:  <GBSeq_organism>Leeuwenhoekiella aequorea</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./AF170749.xml:  <GBSeq_organism>Aequorivita sublithincola DSM 14238</GBSeq_organism>
+./AB116148.xml:  <GBSeq_organism>Salegentibacter holothuriorum</GBSeq_organism>
+./DQ017065.xml:  <GBSeq_organism>Nonlabens dokdonensis DSW-6</GBSeq_organism>
+./DQ064789.xml:  <GBSeq_organism>Nonlabens spongiae</GBSeq_organism>
+./AF513434.xml:  <GBSeq_organism>Psychroflexus tropicus</GBSeq_organism>

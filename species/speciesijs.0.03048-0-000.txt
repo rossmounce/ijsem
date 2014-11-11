@@ -1,0 +1,30 @@
+./AY237581.xml:  <GBSeq_organism>Aeromonas sp. 480</GBSeq_organism>
+./AY237584.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AV101804.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY101787.xml:  <GBSeq_organism>Aeromonas veronii bv. veronii</GBSeq_organism>
+./AY101784.xml:  <GBSeq_organism>Aeromonas salmonicida subsp. masoucida</GBSeq_organism>
+./AY249198.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./AY101772.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./AY308847.xml:  <GBSeq_organism>Aeromonas sp. 610</GBSeq_organism>
+./AY249199.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./AY308844.xml:  <GBSeq_organism>Aeromonas sp. 480</GBSeq_organism>
+./AV169353.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY169343.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AY237508.xml:  <GBSeq_organism>Sus scrofa</GBSeq_organism>
+./AY101810.xml:  <GBSeq_organism>Aeromonas salmonicida subsp. pectinolytica</GBSeq_organism>
+./AY101800.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./AF175891.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY308846.xml:  <GBSeq_organism>Aeromonas sp. 280</GBSeq_organism>
+./AY237571.xml:  <GBSeq_organism>Aeromonas sp. A99</GBSeq_organism>
+./AY169348.xml:  <GBSeq_organism>Aeromonas allosaccharophila</GBSeq_organism>
+./AY101801.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AY737560.xml:  <GBSeq_organism>Cryptosporidium environmental sequence</GBSeq_organism>
+./AY237578.xml:  <GBSeq_organism>Aeromonas sp. 26</GBSeq_organism>
+./AY101778.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AY185588.xml:  <GBSeq_organism>Aeromonas bestiarum</GBSeq_organism>
+./AY101780.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>
+./AY101815.xml:  <GBSeq_organism>Aeromonas bestiarum</GBSeq_organism>
+./AY237582.xml:  <GBSeq_organism>Aeromonas sp. 57</GBSeq_organism>
+./AY237583.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AY169338.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./AY101806.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>

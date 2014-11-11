@@ -1,0 +1,9 @@
+./AB267476.xml:  <GBSeq_organism>Flavisolibacter ginsengiterrae</GBSeq_organism>
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./AB267477.xml:  <GBSeq_organism>Flavisolibacter ginsengisoli</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./EF407879.xml:  <GBSeq_organism>Sediminibacterium salmoneum</GBSeq_organism>
+./AB267478.xml:  <GBSeq_organism>Segetibacter koreensis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>

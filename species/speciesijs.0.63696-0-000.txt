@@ -1,0 +1,14 @@
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./X83800.xml:  <GBSeq_organism>Cellulomonas gelida</GBSeq_organism>
+./AY884570.xml:  <GBSeq_organism>Cellulomonas terrae</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./AF064702.xml:  <GBSeq_organism>Cellulomonas iranensis</GBSeq_organism>
+./AJ272024.xml:  <GBSeq_organism>Promicromonospora sukumoe</GBSeq_organism>
+./X83801.xml:  <GBSeq_organism>Cellulomonas uda</GBSeq_organism>
+./X82449.xml:  <GBSeq_organism>Cellulomonas humilata</GBSeq_organism>
+./X83802.xml:  <GBSeq_organism>Cellulomonas biazotea</GBSeq_organism>
+./X83805.xml:  <GBSeq_organism>Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133</GBSeq_organism>
+./AY303668.xml:  <GBSeq_organism>Cellulomonas xylanilytica</GBSeq_organism>
+./AF064701.xml:  <GBSeq_organism>Cellulomonas persica</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>
+./X79460.xml:  <GBSeq_organism>Cellulomonas fimi ATCC 484</GBSeq_organism>

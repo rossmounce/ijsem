@@ -1,0 +1,13 @@
+./AY262825.xml:  <GBSeq_organism>Amycolatopsis plumensis</GBSeq_organism>
+./AJ278496.xml:  <GBSeq_organism>Amycolatopsis keratiniphila</GBSeq_organism>
+./AJ293754.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./AJ293753.xml:  <GBSeq_organism>Amycolatopsis coloradensis</GBSeq_organism>
+./AJ293757.xml:  <GBSeq_organism>Amycolatopsis tolypomycina</GBSeq_organism>
+./AJ252824.xml:  <GBSeq_organism>Pseudonocardia autotrophica</GBSeq_organism>
+./DQ792500.xml:  <GBSeq_organism>Amycolatopsis saalfeldensis</GBSeq_organism>
+./AJ508237.xml:  <GBSeq_organism>Amycolatopsis decaplanina DSM 44594</GBSeq_organism>
+./AJ508238.xml:  <GBSeq_organism>Amycolatopsis keratiniphila subsp. nogabecina</GBSeq_organism>
+./AJ400709.xml:  <GBSeq_organism>Amycolatopsis azurea</GBSeq_organism>
+./AY183357.xml:  <GBSeq_organism>Amycolatopsis kentuckyensis</GBSeq_organism>
+./AF051340.xml:  <GBSeq_organism>Amycolatopsis alba DSM 44262</GBSeq_organism>
+./AY129760.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>

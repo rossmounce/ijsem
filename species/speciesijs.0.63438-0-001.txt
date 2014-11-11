@@ -1,0 +1,23 @@
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./AF191739.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./M65248.xml:  <GBSeq_organism>Afipia felis ATCC 53690</GBSeq_organism>
+./AY649762.xml:  <GBSeq_organism>Martelella mediterranea</GBSeq_organism>
+./M29026.xml:  <GBSeq_organism>Methylocystis parvus</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./L01260.xml:  <GBSeq_organism>Bartonella elizabethae</GBSeq_organism>
+./M29024.xml:  <GBSeq_organism>Methylosinus trichosporium</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./X60042.xml:  <GBSeq_organism>Bartonella bacilliformis</GBSeq_organism>
+./D12794.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./U69638.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 6</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./D14501.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>

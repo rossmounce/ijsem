@@ -1,0 +1,17 @@
+./AJ491848.xml:  <GBSeq_organism>Methylocella silvestris BL2</GBSeq_organism>
+./AJ458535.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./AB025021.xml:  <GBSeq_organism>Methylomonas sp. KSPIII</GBSeq_organism>
+./X55394.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./U81594.xml:  <GBSeq_organism>Methylocystis sp. M</GBSeq_organism>
+./AJ458530.xml:  <GBSeq_organism>Methylosinus trichosporium</GBSeq_organism>
+./AJ458528.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./FR686347.xml:  <GBSeq_organism>Methyloferula stellata</GBSeq_organism>
+./AJ458522.xml:  <GBSeq_organism>Methylocystis sp. LR1</GBSeq_organism>
+./FR686346.xml:  <GBSeq_organism>Methyloferula stellata AR4</GBSeq_organism>
+./M90050.xml:  <GBSeq_organism>Methylococcus capsulatus</GBSeq_organism>
+./AJ555245.xml:  <GBSeq_organism>Methylocella tundrae</GBSeq_organism>
+./AY007291.xml:  <GBSeq_organism>Methylomonas sp. LW15</GBSeq_organism>
+./AJ458534.xml:  <GBSeq_organism>Methylosinus sp. D15a</GBSeq_organism>
+./AB025022.xml:  <GBSeq_organism>Methylomonas sp. KSWIII</GBSeq_organism>
+./AY007290.xml:  <GBSeq_organism>Methylomonas sp. LW13</GBSeq_organism>
+./AJ458517.xml:  <GBSeq_organism>Methylocystis sp. 51</GBSeq_organism>

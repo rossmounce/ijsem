@@ -1,0 +1,16 @@
+./AJ698726.xml:  <GBSeq_organism>Microbacterium hydrocarbonoxydans</GBSeq_organism>
+./AY376165.xml:  <GBSeq_organism>Microbacterium halotolerans</GBSeq_organism>
+./Y17236.xml:  <GBSeq_organism>Microbacterium saperdae</GBSeq_organism>
+./AJ698725.xml:  <GBSeq_organism>Microbacterium oleivorans</GBSeq_organism>
+./AJ277840.xml:  <GBSeq_organism>Microbacterium phyllosphaerae</GBSeq_organism>
+./AB004715.xml:  <GBSeq_organism>Microbacterium arabinogalactanolyticum</GBSeq_organism>
+./AJ491806.xml:  <GBSeq_organism>Microbacterium paraoxydans</GBSeq_organism>
+./D21339.xml:  <GBSeq_organism>Microbacterium arborescens</GBSeq_organism>
+./AF263563.xml:  <GBSeq_organism>Microbacterium gubbeenense</GBSeq_organism>
+./AJ853910.xml:  <GBSeq_organism>Microbacterium maritypicum</GBSeq_organism>
+./AM158907.xml:  <GBSeq_organism>Microbacterium indicum</GBSeq_organism>
+./AM286267.xml:  <GBSeq_organism>Microbacterium indicum</GBSeq_organism>
+./AY566291.xml:  <GBSeq_organism>Microbacterium natoriense</GBSeq_organism>
+./Y17227.xml:  <GBSeq_organism>Microbacterium oxydans</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>
+./D21340.xml:  <GBSeq_organism>Microbacterium aurum</GBSeq_organism>

@@ -1,0 +1,6 @@
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./X80994.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./D12655.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./AB078077.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>

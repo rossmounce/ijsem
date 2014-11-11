@@ -1,0 +1,21 @@
+./AB124836.xml:  <GBSeq_organism>Microbulbifer thermotolerans</GBSeq_organism>
+./U26418.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./AY839869.xml:  <GBSeq_organism>Marinimicrobium koreense</GBSeq_organism>
+./AJ289164.xml:  <GBSeq_organism>Cellvibrio fibrivorans</GBSeq_organism>
+./EF617350.xml:  <GBSeq_organism>Simiduia agarivorans SA1 = DSM 21679</GBSeq_organism>
+./AM117931.xml:  <GBSeq_organism>Spongiispira norvegica DSM 17749</GBSeq_organism>
+./AY567473.xml:  <GBSeq_organism>Nitrincola lacisaponensis</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AF500006.xml:  <GBSeq_organism>Microbulbifer elongatus</GBSeq_organism>
+./AF448514.xml:  <GBSeq_organism>Cellvibrio fulvus</GBSeq_organism>
+./EU365694.xml:  <GBSeq_organism>Microbulbifer donghaiensis</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AB158515.xml:  <GBSeq_organism>Microbulbifer agarilyticus</GBSeq_organism>
+./EF486352.xml:  <GBSeq_organism>Microbulbifer celer</GBSeq_organism>
+./AM747817.xml:  <GBSeq_organism>Oceaniserpentilla haliotis</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AY576729.xml:  <GBSeq_organism>Melitea salexigens</GBSeq_organism>
+./AY136116.xml:  <GBSeq_organism>Neptuniibacter caesariensis</GBSeq_organism>
+./EF674853.xml:  <GBSeq_organism>Microbulbifer halophilus</GBSeq_organism>
+./FJ347760.xml:  <GBSeq_organism>Pseudoteredinibacter isoporae</GBSeq_organism>

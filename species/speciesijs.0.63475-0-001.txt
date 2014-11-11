@@ -1,0 +1,12 @@
+./AF095272.xml:  <GBSeq_organism>Methanofollis tationis</GBSeq_organism>
+./AF262035.xml:  <GBSeq_organism>Methanofollis aquaemaris</GBSeq_organism>
+./Y16429.xml:  <GBSeq_organism>Methanofollis liminatans</GBSeq_organism>
+./AY186542.xml:  <GBSeq_organism>Methanofollis formosanus</GBSeq_organism>
+./AF095269.xml:  <GBSeq_organism>Methanoculleus bourgensis MS2</GBSeq_organism>
+./M59134.xml:  <GBSeq_organism>Methanoculleus marisnigri</GBSeq_organism>
+./Y16382.xml:  <GBSeq_organism>Methanoculleus palmolei</GBSeq_organism>
+./M59143.xml:  <GBSeq_organism>Methanoplanus limicola DSM 2279</GBSeq_organism>
+./M59142.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./M59130.xml:  <GBSeq_organism>Methanogenium cariaci</GBSeq_organism>
+./AY196678.xml:  <GBSeq_organism>Methanolacinia paynteri</GBSeq_organism>
+./Y16428.xml:  <GBSeq_organism>Methanofollis liminatans DSM 4140</GBSeq_organism>

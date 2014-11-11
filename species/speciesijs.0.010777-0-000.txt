@@ -1,0 +1,25 @@
+./AJ303009.xml:  <GBSeq_organism>Novosphingobium lentum NBRC 107847</GBSeq_organism>
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./D13725.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AY554010.xml:  <GBSeq_organism>Sphingopyxis flavimaris</GBSeq_organism>
+./Y09637.xml:  <GBSeq_organism>Sphingomonas pruni</GBSeq_organism>
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./D13727.xml:  <GBSeq_organism>Sphingopyxis terrae</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AB033327.xml:  <GBSeq_organism>Porphyrobacter neustonensis</GBSeq_organism>
+./Y13774.xml:  <GBSeq_organism>Blastomonas natatoria</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AB177883.xml:  <GBSeq_organism>Novosphingobium naphthalenivorans</GBSeq_organism>
+./L01786.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./X94098.xml:  <GBSeq_organism>Sphingobium xenophagum</GBSeq_organism>
+./DQ178975.xml:  <GBSeq_organism>Sphingomonas dokdonensis</GBSeq_organism>
+./FJ442859.xml:  <GBSeq_organism>Sphingosinicella vermicomposti</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./AB084247.xml:  <GBSeq_organism>Sphingosinicella microcystinivorans</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./AY950663.xml:  <GBSeq_organism>Sphingosinicella xenopeptidilytica</GBSeq_organism>

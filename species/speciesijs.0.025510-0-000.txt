@@ -1,0 +1,18 @@
+./AJ242581.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AM490632.xml:  <GBSeq_organism>Ochrobactrum rhizosphaerae</GBSeq_organism>
+./AM490609.xml:  <GBSeq_organism>Ochrobactrum pituitosum</GBSeq_organism>
+./FR668302.xml:  <GBSeq_organism>Ochrobactrum pecoris</GBSeq_organism>
+./FM209496.xml:  <GBSeq_organism>Pseudochrobactrum lubricantis</GBSeq_organism>
+./AY776289.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AY594215.xml:  <GBSeq_organism>Brucella melitensis biovar Melitensis</GBSeq_organism>
+./AM263420.xml:  <GBSeq_organism>Pseudochrobactrum kiredjianiae</GBSeq_organism>
+./AM490623.xml:  <GBSeq_organism>Ochrobactrum intermedium LMG 3301</GBSeq_organism>
+./FN391023.xml:  <GBSeq_organism>Paenochrobactrum gallinarii</GBSeq_organism>
+./DQ365921.xml:  <GBSeq_organism>Ochrobactrum pseudintermedium</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AM422370.xml:  <GBSeq_organism>Ochrobactrum haematophilum</GBSeq_organism>
+./AB369864.xml:  <GBSeq_organism>Paenochrobactrum glaciei</GBSeq_organism>
+./AJ242584.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AM422371.xml:  <GBSeq_organism>Ochrobactrum pseudogrignonense</GBSeq_organism>
+./AM180485.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

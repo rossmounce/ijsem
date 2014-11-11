@@ -1,0 +1,14 @@
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./X82169.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./X82168.xml:  <GBSeq_organism>Halorubrum trapanicum</GBSeq_organism>
+./AY149598.xml:  <GBSeq_organism>Halorubrum tibetense</GBSeq_organism>
+./AJ276887.xml:  <GBSeq_organism>Halorubrum tebenquichense</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./X82167.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./D87972.xml:  <GBSeq_organism>Halorubrum vacuolatum</GBSeq_organism>
+./X82170.xml:  <GBSeq_organism>Halorubrum lacusprofundi ATCC 49239</GBSeq_organism>
+./L00922.xml:  <GBSeq_organism>Halorubrum coriense</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

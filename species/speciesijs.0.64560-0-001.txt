@@ -1,0 +1,10 @@
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./DQ490454.xml:  <GBSeq_organism>Microbacteriaceae bacterium KVD-unk-33</GBSeq_organism>
+./AY439250.xml:  <GBSeq_organism>Frigoribacterium sp. GIC43</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AJ310412.xml:  <GBSeq_organism>Agreia pratensis</GBSeq_organism>
+./DQ339618.xml:  <GBSeq_organism>Frigoribacterium sp. Enf57</GBSeq_organism>
+./X77438.xml:  <GBSeq_organism>Rathayibacter tritici</GBSeq_organism>
+./X77434.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./AF157480.xml:  <GBSeq_organism>Frigoribacterium sp. 312</GBSeq_organism>

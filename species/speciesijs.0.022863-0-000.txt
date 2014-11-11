@@ -1,0 +1,28 @@
+./EF550317.xml:  <GBSeq_organism>Cyberlindnera mrakii</GBSeq_organism>
+./EF550329.xml:  <GBSeq_organism>Cyberlindnera bimundalis</GBSeq_organism>
+./EU307993.xml:  <GBSeq_organism>Cyberlindnera suaveolens</GBSeq_organism>
+./EF550308.xml:  <GBSeq_organism>Candida sp. NRRL YB-4088</GBSeq_organism>
+./EF550321.xml:  <GBSeq_organism>Cyberlindnera fabianii</GBSeq_organism>
+./EF550325.xml:  <GBSeq_organism>Cyberlindnera rhodanensis</GBSeq_organism>
+./EF550314.xml:  <GBSeq_organism>Candida sp. NRRL Y-27267</GBSeq_organism>
+./EF550310.xml:  <GBSeq_organism>Cyberlindnera maclurae</GBSeq_organism>
+./EF550327.xml:  <GBSeq_organism>Cyberlindnera meyerae</GBSeq_organism>
+./EF550331.xml:  <GBSeq_organism>Candida sp. NRRL Y-7615</GBSeq_organism>
+./EF550330.xml:  <GBSeq_organism>Candida mycetangii</GBSeq_organism>
+./EF550307.xml:  <GBSeq_organism>Candida sp. NRRL Y-27103</GBSeq_organism>
+./EF550313.xml:  <GBSeq_organism>Cyberlindnera lachancei</GBSeq_organism>
+./EF550316.xml:  <GBSeq_organism>Cyberlindnera saturnus</GBSeq_organism>
+./EF550319.xml:  <GBSeq_organism>Pichia amylophila</GBSeq_organism>
+./EF550227.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./EF550306.xml:  <GBSeq_organism>Cyberlindnera misumaiensis</GBSeq_organism>
+./EF550318.xml:  <GBSeq_organism>Cyberlindnera subsufficiens</GBSeq_organism>
+./EF550320.xml:  <GBSeq_organism>Cyberlindnera mississippiensis</GBSeq_organism>
+./EF550323.xml:  <GBSeq_organism>Pichia japonica</GBSeq_organism>
+./EF550315.xml:  <GBSeq_organism>Candida vartiovaarae</GBSeq_organism>
+./U94936.xml:  <GBSeq_organism>Cyberlindnera sargentensis</GBSeq_organism>
+./EF550332.xml:  <GBSeq_organism>Candida maritima</GBSeq_organism>
+./EF550326.xml:  <GBSeq_organism>Cyberlindnera euphorbiae</GBSeq_organism>
+./EF550328.xml:  <GBSeq_organism>Cyberlindnera americana</GBSeq_organism>
+./EF550309.xml:  <GBSeq_organism>Cyberlindnera jadinii</GBSeq_organism>
+./EF550322.xml:  <GBSeq_organism>Cyberlindnera veronae</GBSeq_organism>
+./EF550324.xml:  <GBSeq_organism>Candida sp. NRRL YB-2097</GBSeq_organism>

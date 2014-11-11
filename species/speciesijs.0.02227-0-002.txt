@@ -1,0 +1,18 @@
+./D25310.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./U85849.xml:  <GBSeq_organism>Psychromonas sp. IC004</GBSeq_organism>
+./U91546.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./AJ252023.xml:  <GBSeq_organism>Moritella profunda</GBSeq_organism>
+./X82131.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>
+./U85907.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./D21224.xml:  <GBSeq_organism>Moritella japonica</GBSeq_organism>
+./AJ132226.xml:  <GBSeq_organism>Moritella viscosa</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./D21226.xml:  <GBSeq_organism>Photobacterium profundum</GBSeq_organism>
+./X82132.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./J01859.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>

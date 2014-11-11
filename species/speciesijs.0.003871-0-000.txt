@@ -1,0 +1,15 @@
+./AJ233436.xml:  <GBSeq_organism>Serratia rubidaea</GBSeq_organism>
+./AJ233432.xml:  <GBSeq_organism>Serratia odorifera DSM 4582</GBSeq_organism>
+./AJ233428.xml:  <GBSeq_organism>Serratia ficaria</GBSeq_organism>
+./AJ233430.xml:  <GBSeq_organism>Serratia grimesii</GBSeq_organism>
+./EU036987.xml:  <GBSeq_organism>Serratia nematodiphila</GBSeq_organism>
+./AJ233435.xml:  <GBSeq_organism>Serratia quinivorans</GBSeq_organism>
+./AJ233431.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./AJ233434.xml:  <GBSeq_organism>Serratia proteamaculans</GBSeq_organism>
+./X82252.xml:  <GBSeq_organism>Xenorhabdus bovienii</GBSeq_organism>
+./AJ233429.xml:  <GBSeq_organism>Serratia fonticola</GBSeq_organism>
+./AJ233427.xml:  <GBSeq_organism>Serratia entomophila</GBSeq_organism>
+./AJ854062.xml:  <GBSeq_organism>Serratia ureilytica</GBSeq_organism>
+./X82248.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. luminescens</GBSeq_organism>
+./AJ233433.xml:  <GBSeq_organism>Serratia plymuthica</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>

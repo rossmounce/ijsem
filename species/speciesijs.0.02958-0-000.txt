@@ -1,0 +1,126 @@
+./AY549991.xml:  <GBSeq_organism>Pelobacter acidigallici</GBSeq_organism>
+./AY186899.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>
+./AY547338.xml:  <GBSeq_organism>Geobacter sulfurreducens PCA</GBSeq_organism>
+./AY186890.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./X77216.xml:  <GBSeq_organism>Pelobacter acidigallici</GBSeq_organism>
+./AY188894.xml:  <GBSeq_organism>Desulfuromonas thiophila</GBSeq_organism>
+./AY549999.xml:  <GBSeq_organism>Desulfuromusa kysingii</GBSeq_organism>
+./AY186939.xml:  <GBSeq_organism>Geobacter thiogenes</GBSeq_organism>
+./AY547345.xml:  <GBSeq_organism>Geobacter sulfurreducens</GBSeq_organism>
+./AY186918.xml:  <GBSeq_organism>Desulfuromusa kysingii</GBSeq_organism>
+./AY547330.xml:  <GBSeq_organism>Desulfuromonas acetoxidans DSM 684</GBSeq_organism>
+./AY187303.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY186887.xml:  <GBSeq_organism>Desulfuromusa succinoxidans</GBSeq_organism>
+./AY547329.xml:  <GBSeq_organism>Desulfuromonas palmitatis</GBSeq_organism>
+./AY547334.xml:  <GBSeq_organism>Desulfuromonas palmitatis</GBSeq_organism>
+./AY186911.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY186974.xml:  <GBSeq_organism>Desulfuromusa bakii</GBSeq_organism>
+./AY186935.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>
+./AF335183.xml:  <GBSeq_organism>Geobacter grbiciae</GBSeq_organism>
+./AY187304.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY186894.xml:  <GBSeq_organism>Geobacter pelophilus</GBSeq_organism>
+./AY547347.xml:  <GBSeq_organism>Desulfuromonas palmitatis</GBSeq_organism>
+./AY547331.xml:  <GBSeq_organism>Pelobacter carbinolicus DSM 2380</GBSeq_organism>
+./AY155599.xml:  <GBSeq_organism>Geothermobacter ehrlichii</GBSeq_organism>
+./AY186885.xml:  <GBSeq_organism>Desulfuromusa bakii</GBSeq_organism>
+./AY187305.xml:  <GBSeq_organism>Desulfuromonas acetoxidans</GBSeq_organism>
+./AY188910.xml:  <GBSeq_organism>Geobacter grbiciae</GBSeq_organism>
+./Y17712.xml:  <GBSeq_organism>Malonomonas rubra</GBSeq_organism>
+./AY186920.xml:  <GBSeq_organism>Desulfuromonas thiophila</GBSeq_organism>
+./AF357915.xml:  <GBSeq_organism>Desulfuromonas michiganensis</GBSeq_organism>
+./AY188890.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./AY186924.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./AY186930.xml:  <GBSeq_organism>Pelobacter acetylenicus</GBSeq_organism>
+./AY188895.xml:  <GBSeq_organism>Desulfuromonas acetexigens</GBSeq_organism>
+./AY549993.xml:  <GBSeq_organism>Malonomonas rubra</GBSeq_organism>
+./AY549990.xml:  <GBSeq_organism>Pelobacter massiliensis</GBSeq_organism>
+./AY186994.xml:  <GBSeq_organism>Geobacter grbiciae</GBSeq_organism>
+./AY186983.xml:  <GBSeq_organism>Geobacter pelophilus</GBSeq_organism>
+./AY186976.xml:  <GBSeq_organism>Desulfuromusa kysingii</GBSeq_organism>
+./AY549988.xml:  <GBSeq_organism>Desulfuromonas palmitatis</GBSeq_organism>
+./AY186944.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./U28172.xml:  <GBSeq_organism>Desulfuromonas palmitatis</GBSeq_organism>
+./AY186960.xml:  <GBSeq_organism>Pelobacter acetylenicus</GBSeq_organism>
+./AY186941.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY186901.xml:  <GBSeq_organism>Geobacter grbiciae</GBSeq_organism>
+./AY186886.xml:  <GBSeq_organism>Desulfuromusa kysingii</GBSeq_organism>
+./AY186882.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY547344.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./X70955.xml:  <GBSeq_organism>Pelobacter acetylenicus</GBSeq_organism>
+./AY547327.xml:  <GBSeq_organism>Desulfuromusa succinoxidans</GBSeq_organism>
+./AY186991.xml:  <GBSeq_organism>Pelobacter propionicus</GBSeq_organism>
+./AY186975.xml:  <GBSeq_organism>Desulfuromonas chloroethenica</GBSeq_organism>
+./AY186978.xml:  <GBSeq_organism>Desulfuromonas acetexigens</GBSeq_organism>
+./AY186898.xml:  <GBSeq_organism>Pelobacter propionicus</GBSeq_organism>
+./AY547326.xml:  <GBSeq_organism>Geobacter pelophilus</GBSeq_organism>
+./U41561.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./AY186892.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./AY186987.xml:  <GBSeq_organism>Pelobacter acetylenicus</GBSeq_organism>
+./U96917.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./AY188908.xml:  <GBSeq_organism>Desulfuromusa sp. S1</GBSeq_organism>
+./AY186883.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./AY186906.xml:  <GBSeq_organism>Malonomonas rubra</GBSeq_organism>
+./AY186989.xml:  <GBSeq_organism>Pelobacter carbinolicus</GBSeq_organism>
+./AY188893.xml:  <GBSeq_organism>Desulfuromusa succinoxidans</GBSeq_organism>
+./AY188892.xml:  <GBSeq_organism>Desulfuromonas chloroethenica</GBSeq_organism>
+./AY186946.xml:  <GBSeq_organism>Desulfuromusa bakii</GBSeq_organism>
+./X79413.xml:  <GBSeq_organism>Pelobacter carbinolicus DSM 2380</GBSeq_organism>
+./AY547346.xml:  <GBSeq_organism>Desulfuromonas acetoxidans DSM 684</GBSeq_organism>
+./AY186904.xml:  <GBSeq_organism>Geobacter thiogenes</GBSeq_organism>
+./AY549998.xml:  <GBSeq_organism>Desulfuromusa sp. S1</GBSeq_organism>
+./AY547332.xml:  <GBSeq_organism>Geobacter sulfurreducens PCA</GBSeq_organism>
+./AY186903.xml:  <GBSeq_organism>Geothermobacter ehrlichii</GBSeq_organism>
+./AY186942.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY186916.xml:  <GBSeq_organism>Desulfuromusa bakii</GBSeq_organism>
+./AY188899.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./AY547333.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./AY186979.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./AY188889.xml:  <GBSeq_organism>Desulfuromonas michiganensis</GBSeq_organism>
+./AY186922.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./AY186902.xml:  <GBSeq_organism>Geopsychrobacter electrodiphilus</GBSeq_organism>
+./AY186965.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>
+./AY549994.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./AY155597.xml:  <GBSeq_organism>Desulfuromusa bakii</GBSeq_organism>
+./AF180969.xml:  <GBSeq_organism>Nostoc sp. PCC 7120</GBSeq_organism>
+./U13928.xml:  <GBSeq_organism>Geobacter sulfurreducens PCA</GBSeq_organism>
+./AY188907.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>
+./AY549989.xml:  <GBSeq_organism>Pelobacter carbinolicus DSM 2380</GBSeq_organism>
+./U96918.xml:  <GBSeq_organism>Geobacter pelophilus</GBSeq_organism>
+./X70954.xml:  <GBSeq_organism>Pelobacter propionicus</GBSeq_organism>
+./AY186953.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./AY187306.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./AY186977.xml:  <GBSeq_organism>Desulfuromusa succinoxidans</GBSeq_organism>
+./U28173.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./AY547336.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./AY186945.xml:  <GBSeq_organism>Desulfuromonas acetoxidans DSM 684</GBSeq_organism>
+./X79415.xml:  <GBSeq_organism>Desulfuromusa succinoxidans</GBSeq_organism>
+./AY155598.xml:  <GBSeq_organism>Desulfuromusa kysingii</GBSeq_organism>
+./X79414.xml:  <GBSeq_organism>Desulfuromusa kysingii</GBSeq_organism>
+./AY188898.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./AY186914.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./L07834.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./AY549992.xml:  <GBSeq_organism>Geothermobacter ehrlichii</GBSeq_organism>
+./AY547337.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./AY186951.xml:  <GBSeq_organism>Desulfuromonas acetexigens</GBSeq_organism>
+./AY186905.xml:  <GBSeq_organism>Pelobacter acetylenicus</GBSeq_organism>
+./AY547348.xml:  <GBSeq_organism>Pelobacter carbinolicus DSM 2380</GBSeq_organism>
+./AY186970.xml:  <GBSeq_organism>Geothermobacter ehrlichii</GBSeq_organism>
+./AY186980.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./AY186934.xml:  <GBSeq_organism>Pelobacter propionicus</GBSeq_organism>
+./AY186950.xml:  <GBSeq_organism>Desulfuromonas thiophila</GBSeq_organism>
+./AY188902.xml:  <GBSeq_organism>Malonomonas rubra</GBSeq_organism>
+./AY186969.xml:  <GBSeq_organism>Geobacter thiogenes</GBSeq_organism>
+./AY186923.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./U41562.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>
+./AY549997.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./AY186925.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./AY186938.xml:  <GBSeq_organism>Geobacter grbiciae</GBSeq_organism>
+./AY188897.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./AY186907.xml:  <GBSeq_organism>Desulfuromonas chloroethenica</GBSeq_organism>
+./AY186943.xml:  <GBSeq_organism>Desulfuromonas michiganensis</GBSeq_organism>
+./AY547335.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./Y11560.xml:  <GBSeq_organism>Desulfuromonas thiophila</GBSeq_organism>
+./AY186888.xml:  <GBSeq_organism>Desulfuromonas thiophila</GBSeq_organism>
+./AY186982.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./AY187309.xml:  <GBSeq_organism>Desulfuromusa sp. S1</GBSeq_organism>
+./AY186992.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>

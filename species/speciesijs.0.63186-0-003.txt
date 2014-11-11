@@ -1,0 +1,14 @@
+./AF161069.xml:  <GBSeq_organism>Thermanaerovibrio velox</GBSeq_organism>
+./U82327.xml:  <GBSeq_organism>Moorella glycerini</GBSeq_organism>
+./L09164.xml:  <GBSeq_organism>Thermoanaerobacter pseudethanolicus ATCC 33223</GBSeq_organism>
+./U76364.xml:  <GBSeq_organism>Carboxydothermus ferrireducens</GBSeq_organism>
+./X99980.xml:  <GBSeq_organism>Thermosyntropha lipolytica</GBSeq_organism>
+./AJ279798.xml:  <GBSeq_organism>Sporomusa acidovorans</GBSeq_organism>
+./AF120479.xml:  <GBSeq_organism>Thermoanaerobacter siderophilus SR4</GBSeq_organism>
+./AF174484.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. pacificus DSM 12653</GBSeq_organism>
+./U34975.xml:  <GBSeq_organism>Ammonifex degensii KC4</GBSeq_organism>
+./AJ010964.xml:  <GBSeq_organism>Acetonema longum DSM 6540</GBSeq_organism>
+./AY519200.xml:  <GBSeq_organism>Thermosinus carboxydivorans Nor1</GBSeq_organism>
+./Y11574.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./AF161581.xml:  <GBSeq_organism>Selenomonas ruminantium</GBSeq_organism>
+./X80625.xml:  <GBSeq_organism>Rhodococcus ruber</GBSeq_organism>

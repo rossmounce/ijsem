@@ -1,0 +1,24 @@
+./AJ315481.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF513965.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./U60012.xml:  <GBSeq_organism>Prosthecobacter dejongeii</GBSeq_organism>
+./AJ441222.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302112.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./DQ302105.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./AY028220.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY345492.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY028221.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ441243.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ441223.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY218705.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB154319.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY752115.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY212657.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY770729.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ401130.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV179</GBSeq_organism>
+./AF316731.xml:  <GBSeq_organism>uncultured Crater Lake bacterium CL500-85</GBSeq_organism>
+./AJ401105.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV005</GBSeq_organism>
+./AY135670.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ302115.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ401104.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV003</GBSeq_organism>

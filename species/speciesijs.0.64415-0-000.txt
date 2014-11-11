@@ -1,0 +1,16 @@
+./AB176674.xml:  <GBSeq_organism>Lishizhenia caseinilytica</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AB125062.xml:  <GBSeq_organism>Owenweeksia hongkongensis</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./M58791.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./M11656.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M62422.xml:  <GBSeq_organism>Marinilabilia salmonicolor</GBSeq_organism>
+./AF493694.xml:  <GBSeq_organism>Fluviicola taffensis DSM 16823</GBSeq_organism>
+./AF521195.xml:  <GBSeq_organism>Brumimicrobium glaciale</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./X73964.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./AJ418048.xml:  <GBSeq_organism>Anaerophaga thermohalophila DSM 12881</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AF170738.xml:  <GBSeq_organism>Cryomorpha ignava</GBSeq_organism>

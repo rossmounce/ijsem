@@ -1,0 +1,22 @@
+./AF119812.xml:  <GBSeq_organism>Diplonema sp. ATCC 50224</GBSeq_organism>
+./J01353.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./U84731.xml:  <GBSeq_organism>Petalomonas cantuscygni</GBSeq_organism>
+./AF283307.xml:  <GBSeq_organism>Astasia sp. ASW08097</GBSeq_organism>
+./X75521.xml:  <GBSeq_organism>Marchantia polymorpha</GBSeq_organism>
+./AF386639.xml:  <GBSeq_organism>Distigma proteus var. longicauda</GBSeq_organism>
+./AY015001.xml:  <GBSeq_organism>Trachelomonas echinata</GBSeq_organism>
+./AF295021.xml:  <GBSeq_organism>Rhabdomonas costata</GBSeq_organism>
+./M12676.xml:  <GBSeq_organism>Trypanosoma brucei</GBSeq_organism>
+./Y00055.xml:  <GBSeq_organism>Crithidia fasciculata</GBSeq_organism>
+./AF112875.xml:  <GBSeq_organism>Eutreptiella sp. CCMP389</GBSeq_organism>
+./X53910.xml:  <GBSeq_organism>Parabodo caudatus</GBSeq_organism>
+./AF212179.xml:  <GBSeq_organism>Proceraea cornuta</GBSeq_organism>
+./AF247598.xml:  <GBSeq_organism>Menoidium bibacillatum</GBSeq_organism>
+./AF295018.xml:  <GBSeq_organism>Parmidium circulare</GBSeq_organism>
+./AF386640.xml:  <GBSeq_organism>Distigma curvata</GBSeq_organism>
+./AF080224.xml:  <GBSeq_organism>Cryptobia bullocki</GBSeq_organism>
+./AF386642.xml:  <GBSeq_organism>Distigma curvata</GBSeq_organism>
+./AF061338.xml:  <GBSeq_organism>Monomorphina ovata</GBSeq_organism>
+./M12677.xml:  <GBSeq_organism>Euglena gracilis</GBSeq_organism>
+./U41085.xml:  <GBSeq_organism>Akashiwo sanguinea</GBSeq_organism>
+./AF386638.xml:  <GBSeq_organism>Distigma proteus var. longicauda</GBSeq_organism>

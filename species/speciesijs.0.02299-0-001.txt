@@ -1,0 +1,25 @@
+./X52931.xml:  <GBSeq_organism>Mycobacterium simiae</GBSeq_organism>
+./X52920.xml:  <GBSeq_organism>Mycobacterium marinum</GBSeq_organism>
+./X52918.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./X52925.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./M20940.xml:  <GBSeq_organism>Mycobacterium bovis</GBSeq_organism>
+./X52932.xml:  <GBSeq_organism>Mycobacterium flavescens</GBSeq_organism>
+./U84502.xml:  <GBSeq_organism>Mycobacterium bohemicum</GBSeq_organism>
+./X52924.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./X88926.xml:  <GBSeq_organism>Mycobacterium ulcerans</GBSeq_organism>
+./AJ131120.xml:  <GBSeq_organism>Mycobacterium caprae</GBSeq_organism>
+./AF111809.xml:  <GBSeq_organism>Mycobacterium septicum DSM 44393</GBSeq_organism>
+./X91041.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./X52921.xml:  <GBSeq_organism>Mycobacterium peregrinum</GBSeq_organism>
+./AF130308.xml:  <GBSeq_organism>Mycobacterium peregrinum</GBSeq_organism>
+./X52923.xml:  <GBSeq_organism>Mycobacterium gordonae</GBSeq_organism>
+./AY005147.xml:  <GBSeq_organism>Mycobacterium shottsii</GBSeq_organism>
+./X52934.xml:  <GBSeq_organism>Mycobacterium avium subsp. paratuberculosis</GBSeq_organism>
+./X53999.xml:  <GBSeq_organism>Mycobacterium leprae</GBSeq_organism>
+./U06638.xml:  <GBSeq_organism>Mycobacterium haemophilum</GBSeq_organism>
+./X52919.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./AJ131761.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./X15916.xml:  <GBSeq_organism>Mycobacterium kansasii</GBSeq_organism>
+./X52927.xml:  <GBSeq_organism>Mycobacterium intracellulare</GBSeq_organism>
+./X52928.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>

@@ -1,0 +1,23 @@
+./U30147.xml:  <GBSeq_organism>Lawsonia intracellularis</GBSeq_organism>
+./U48244.xml:  <GBSeq_organism>Desulfohalobium retbaense DSM 5692</GBSeq_organism>
+./AF227984.xml:  <GBSeq_organism>Desulfovibrio mexicanus</GBSeq_organism>
+./AM418397.xml:  <GBSeq_organism>Desulfovibrio psychrotolerans DSM 19430</GBSeq_organism>
+./D43944.xml:  <GBSeq_organism>Desulfovibrio magneticus RS-1</GBSeq_organism>
+./U32578.xml:  <GBSeq_organism>Desulfovibrio acrylicus</GBSeq_organism>
+./Y14594.xml:  <GBSeq_organism>Desulfonatronum lacustre DSM 10312</GBSeq_organism>
+./AF050100.xml:  <GBSeq_organism>Desulfovibrio senezii</GBSeq_organism>
+./DQ148943.xml:  <GBSeq_organism>Desulfovibrio frigidus</GBSeq_organism>
+./AJ867049.xml:  <GBSeq_organism>Bilophila wadsworthia</GBSeq_organism>
+./M34113.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774</GBSeq_organism>
+./DQ422859.xml:  <GBSeq_organism>Desulfovibrio bizertensis</GBSeq_organism>
+./AF053752.xml:  <GBSeq_organism>Desulfovibrio burkinensis</GBSeq_organism>
+./AF053751.xml:  <GBSeq_organism>Desulfovibrio alcoholivorans</GBSeq_organism>
+./M26633.xml:  <GBSeq_organism>Desulfobacter postgatei</GBSeq_organism>
+./AF030438.xml:  <GBSeq_organism>Desulfomicrobium baculatum DSM 4028</GBSeq_organism>
+./AF418170.xml:  <GBSeq_organism>Desulfovibrio giganteus</GBSeq_organism>
+./X80922.xml:  <GBSeq_organism>Desulfothermus naphthae</GBSeq_organism>
+./AF458778.xml:  <GBSeq_organism>Desulfovibrio hydrothermalis AM13 = DSM 14728</GBSeq_organism>
+./X99234.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>
+./DQ148944.xml:  <GBSeq_organism>Desulfovibrio ferrireducens</GBSeq_organism>
+./Y09504.xml:  <GBSeq_organism>Desulfovibrio indonesiensis</GBSeq_organism>
+./DQ122124.xml:  <GBSeq_organism>Desulfovibrio oxamicus</GBSeq_organism>

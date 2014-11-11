@@ -1,0 +1,18 @@
+./U58523.xml:  <GBSeq_organism>Thermobispora bispora DSM 43833</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./X54287.xml:  <GBSeq_organism>Actinopolyspora halophila</GBSeq_organism>
+./DQ488888.xml:  <GBSeq_organism>Sus scrofa</GBSeq_organism>
+./X84447.xml:  <GBSeq_organism>Actinosynnema mirum DSM 43827</GBSeq_organism>
+./AJ512464.xml:  <GBSeq_organism>Kibdelosporangium philippinense</GBSeq_organism>
+./EU503139.xml:  <GBSeq_organism>Sciscionella marina</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./X53196.xml:  <GBSeq_organism>Saccharopolyspora hirsuta</GBSeq_organism>
+./AJ512462.xml:  <GBSeq_organism>Allokutzneria albata</GBSeq_organism>
+./AB058395.xml:  <GBSeq_organism>Actinokineospora enzanensis</GBSeq_organism>
+./X84321.xml:  <GBSeq_organism>Lentzea albidocapillata</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./EU420070.xml:  <GBSeq_organism>Actinophytocola oryzae</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./X79184.xml:  <GBSeq_organism>Thermocrispum municipale DSM 44069</GBSeq_organism>

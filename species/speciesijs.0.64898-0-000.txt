@@ -1,0 +1,7 @@
+./EF016757.xml:  <GBSeq_organism>Apodemus flavicollis</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./AM183347.xml:  <GBSeq_organism>Rheinheimera perlucida</GBSeq_organism>
+./AJ441080.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>

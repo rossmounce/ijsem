@@ -1,0 +1,38 @@
+./AM262324.xml:  <GBSeq_organism>Cryptococcus rajasthanensis</GBSeq_organism>
+./EU200780.xml:  <GBSeq_organism>Cryptococcus sp. Ep11c</GBSeq_organism>
+./EF599104.xml:  <GBSeq_organism>Cryptococcus terrestris</GBSeq_organism>
+./AF444762.xml:  <GBSeq_organism>Auriculibuller fuscus</GBSeq_organism>
+./AF444707.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8372</GBSeq_organism>
+./AY315663.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./AF444761.xml:  <GBSeq_organism>Auriculibuller fuscus</GBSeq_organism>
+./EU304246.xml:  <GBSeq_organism>Cryptococcus aureus</GBSeq_organism>
+./EU441902.xml:  <GBSeq_organism>Cryptococcus cf. flavescens DGR1</GBSeq_organism>
+./AF487885.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF370393.xml:  <GBSeq_organism>Cryptococcus terrestris</GBSeq_organism>
+./EF644446.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EU427439.xml:  <GBSeq_organism>Cryptococcus sp. CAB 579</GBSeq_organism>
+./EU200788.xml:  <GBSeq_organism>Auriculibuller sp. BI111</GBSeq_organism>
+./EF116912.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AB085807.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AY731784.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EU427438.xml:  <GBSeq_organism>Cryptococcus sp. CAB 580</GBSeq_organism>
+./DQ333277.xml:  <GBSeq_organism>Cryptococcus sp. HX-2006a</GBSeq_organism>
+./AF444760.xml:  <GBSeq_organism>Bullera japonica</GBSeq_organism>
+./AM039434.xml:  <GBSeq_organism>Cryptococcus sp. HB1122</GBSeq_organism>
+./AY188363.xml:  <GBSeq_organism>Cryptococcus sp. AA-090.4</GBSeq_organism>
+./AJ509857.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AF075504.xml:  <GBSeq_organism>Bullera pseudoalba</GBSeq_organism>
+./EF644463.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./AF444698.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8358</GBSeq_organism>
+./AF075525.xml:  <GBSeq_organism>Cryptococcus cellulolyticus</GBSeq_organism>
+./AF459695.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17079</GBSeq_organism>
+./AM748525.xml:  <GBSeq_organism>Auriculibuller fuscus</GBSeq_organism>
+./AF444702.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8366</GBSeq_organism>
+./AM262981.xml:  <GBSeq_organism>Cryptococcus rajasthanensis</GBSeq_organism>
+./DQ862855.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./AM160631.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EU386716.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF635635.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./EF460580.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EU301625.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./EF068213.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>

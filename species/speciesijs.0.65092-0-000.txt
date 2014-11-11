@@ -1,0 +1,9 @@
+./AJ607431.xml:  <GBSeq_organism>Alicyclobacillus pohliae</GBSeq_organism>
+./AJ607429.xml:  <GBSeq_organism>Alicyclobacillus pohliae</GBSeq_organism>
+./AB042057.xml:  <GBSeq_organism>Alicyclobacillus acidoterrestris</GBSeq_organism>
+./AJ564766.xml:  <GBSeq_organism>Alicyclobacillus pohliae</GBSeq_organism>
+./AB059677.xml:  <GBSeq_organism>Alicyclobacillus sp. TA 67T</GBSeq_organism>
+./AF137502.xml:  <GBSeq_organism>Alicyclobacillus tolerans</GBSeq_organism>
+./AB042062.xml:  <GBSeq_organism>Kyrpidia tusciae DSM 2912</GBSeq_organism>
+./AY425985.xml:  <GBSeq_organism>Alicyclobacillus vulcanalis</GBSeq_organism>
+./AJ607430.xml:  <GBSeq_organism>Alicyclobacillus pohliae</GBSeq_organism>

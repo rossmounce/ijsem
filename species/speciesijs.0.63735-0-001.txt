@@ -1,0 +1,13 @@
+./D88521.xml:  <GBSeq_organism>Agrobacterium agile</GBSeq_organism>
+./D88524.xml:  <GBSeq_organism>Ahrensia kielensis</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AY628423.xml:  <GBSeq_organism>Labrenzia marina</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./D85836.xml:  <GBSeq_organism>Roseibium hamelinense</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AJ400704.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./AJ314749.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./D85832.xml:  <GBSeq_organism>Roseibium denhamense</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./AJ314748.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

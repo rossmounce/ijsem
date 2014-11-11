@@ -1,0 +1,5 @@
+./Y17234.xml:  <GBSeq_organism>Microbacterium laevaniformans</GBSeq_organism>
+./Y17230.xml:  <GBSeq_organism>Microbacterium dextranolyticum</GBSeq_organism>
+./AJ853908.xml:  <GBSeq_organism>Microbacterium xylanilyticum</GBSeq_organism>
+./AB004713.xml:  <GBSeq_organism>Microbacterium thalassium</GBSeq_organism>
+./Y17232.xml:  <GBSeq_organism>Microbacterium flavescens</GBSeq_organism>

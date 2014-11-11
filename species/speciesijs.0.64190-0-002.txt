@@ -1,0 +1,30 @@
+./AF133902.xml:  <GBSeq_organism>Mycobacterium kubicae</GBSeq_organism>
+./AY184225.xml:  <GBSeq_organism>Mycobacterium sp. HSC 1852</GBSeq_organism>
+./AJ536036.xml:  <GBSeq_organism>Mycobacterium intracellulare</GBSeq_organism>
+./U84502.xml:  <GBSeq_organism>Mycobacterium bohemicum</GBSeq_organism>
+./AJ012756.xml:  <GBSeq_organism>Mycobacterium botniense</GBSeq_organism>
+./AY513242.xml:  <GBSeq_organism>Mycobacterium fortuitum</GBSeq_organism>
+./AF367025.xml:  <GBSeq_organism>Mycobacterium malmoense</GBSeq_organism>
+./AJ536037.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./AJ548480.xml:  <GBSeq_organism>Mycobacterium chimaera</GBSeq_organism>
+./X70960.xml:  <GBSeq_organism>Mycobacterium heidelbergense</GBSeq_organism>
+./AJ536035.xml:  <GBSeq_organism>Mycobacterium kansasii</GBSeq_organism>
+./X67096.xml:  <GBSeq_organism>Mycobacterium hiberniae</GBSeq_organism>
+./BX842576.xml:  <GBSeq_organism>Mycobacterium tuberculosis H37Rv</GBSeq_organism>
+./AY734996.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./Z13990.xml:  <GBSeq_organism>Mycobacterium ulcerans</GBSeq_organism>
+./Z46664.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./AF406783.xml:  <GBSeq_organism>Mycobacterium lacus</GBSeq_organism>
+./AM062764.xml:  <GBSeq_organism>Mycobacterium colombiense CECT 3035</GBSeq_organism>
+./X82459.xml:  <GBSeq_organism>Mycobacterium shimoidei</GBSeq_organism>
+./AY513244.xml:  <GBSeq_organism>Mycobacterium marinum</GBSeq_organism>
+./X88923.xml:  <GBSeq_organism>Mycobacterium haemophilum</GBSeq_organism>
+./X82234.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./AJ536033.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./AF547952.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>
+./X52926.xml:  <GBSeq_organism>Mycobacterium szulgai</GBSeq_organism>
+./AF480602.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./AY368456.xml:  <GBSeq_organism>Mycobacterium nebraskense</GBSeq_organism>
+./AF547934.xml:  <GBSeq_organism>Mycobacterium heckeshornense</GBSeq_organism>
+./AJ536034.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./U57632.xml:  <GBSeq_organism>Mycobacterium triplex</GBSeq_organism>

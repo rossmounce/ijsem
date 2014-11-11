@@ -1,0 +1,25 @@
+./X80595.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./AM283464.xml:  <GBSeq_organism>Williamsia serinedens</GBSeq_organism>
+./X73976.xml:  <GBSeq_organism>Turicella otitidis</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AB243007.xml:  <GBSeq_organism>Smaragdicoccus niigatensis</GBSeq_organism>
+./AJ920290.xml:  <GBSeq_organism>Williamsia deligens</GBSeq_organism>
+./X80599.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AB010909.xml:  <GBSeq_organism>Williamsia maris</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./AY643401.xml:  <GBSeq_organism>Dietzia papillomatosis</GBSeq_organism>
+./X52922.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./DQ157929.xml:  <GBSeq_organism>Williamsia faeni</GBSeq_organism>
+./X84251.xml:  <GBSeq_organism>Corynebacterium callunae</GBSeq_organism>
+./AY894836.xml:  <GBSeq_organism>Xenopus laevis</GBSeq_organism>
+./X92981.xml:  <GBSeq_organism>Tsukamurella pulmonis</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./X80621.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./X87340.xml:  <GBSeq_organism>Gordonia hydrophobica</GBSeq_organism>
+./Y18310.xml:  <GBSeq_organism>Gordonia polyisoprenivorans</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AY534742.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>

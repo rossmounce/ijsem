@@ -1,0 +1,16 @@
+./X84246.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./X84440.xml:  <GBSeq_organism>Corynebacterium ammoniagenes</GBSeq_organism>
+./X84252.xml:  <GBSeq_organism>Corynebacterium cystitidis</GBSeq_organism>
+./Y09806.xml:  <GBSeq_organism>Corynebacterium mastitidis</GBSeq_organism>
+./AJ620367.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./X80629.xml:  <GBSeq_organism>Corynebacterium glutamicum</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X84251.xml:  <GBSeq_organism>Corynebacterium callunae</GBSeq_organism>
+./FJ172667.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./FJ423600.xml:  <GBSeq_organism>Corynebacterium maris DSM 45190</GBSeq_organism>
+./AF267152.xml:  <GBSeq_organism>Corynebacterium casei LMG S-19264</GBSeq_organism>
+./AF490539.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./AY226509.xml:  <GBSeq_organism>Corynebacterium halotolerans YIM 70093 = DSM 44683</GBSeq_organism>
+./X86688.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./FJ172666.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./FJ172668.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>

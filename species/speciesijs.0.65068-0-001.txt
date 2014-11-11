@@ -1,0 +1,18 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./U32595.xml:  <GBSeq_organism>Halobacteroides halobius DSM 5150</GBSeq_organism>
+./DQ432327.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./DQ432316.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./AJ271452.xml:  <GBSeq_organism>Natronoanaerobium aggerbacterium</GBSeq_organism>
+./DQ432210.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./X80789.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./DQ432212.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./DQ432150.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./DQ432331.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./DQ417202.xml:  <GBSeq_organism>Natranaerobius thermophilus JW/NM-WN-LF</GBSeq_organism>
+./DQ432329.xml:  <GBSeq_organism>uncultured low G+C Gram-positive bacterium</GBSeq_organism>
+./AJ271450.xml:  <GBSeq_organism>Natronoanaerobium salstagnum</GBSeq_organism>
+./AJ271451.xml:  <GBSeq_organism>Natronoanaerobium halophilum</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./M59123.xml:  <GBSeq_organism>Halanaerobium praevalens</GBSeq_organism>

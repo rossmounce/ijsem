@@ -1,0 +1,23 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ238361.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AB064317.xml:  <GBSeq_organism>Diaphorobacter nitroreducens</GBSeq_organism>
+./D16212.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./AJ512945.xml:  <GBSeq_organism>Schlegelella thermodepolymerans</GBSeq_organism>
+./AF078756.xml:  <GBSeq_organism>Curvibacter delicatus</GBSeq_organism>
+./AF084947.xml:  <GBSeq_organism>Rhodoferax antarcticus ANT.BR</GBSeq_organism>
+./Y18618.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./AJ238356.xml:  <GBSeq_organism>Herbaspirillum rubrisubalbicans</GBSeq_organism>
+./AF078754.xml:  <GBSeq_organism>Giesbergeria sinuosa</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AF078758.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./AB109890.xml:  <GBSeq_organism>Herbaspirillum huttiense subsp. putei</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./U49749.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AF543312.xml:  <GBSeq_organism>Herbaspirillum lusitanum P6-12</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AJ238359.xml:  <GBSeq_organism>Herbaspirillum frisingense</GBSeq_organism>
+./Z18534.xml:  <GBSeq_organism>Sphaerotilus natans</GBSeq_organism>

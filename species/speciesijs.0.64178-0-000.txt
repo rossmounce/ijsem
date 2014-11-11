@@ -1,0 +1,21 @@
+./D78478.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AB021185.xml:  <GBSeq_organism>Bacillus flexus</GBSeq_organism>
+./AJ583158.xml:  <GBSeq_organism>Bacillus indicus</GBSeq_organism>
+./AJ781029.xml:  <GBSeq_organism>Bacillus herbersteinensis</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AY998119.xml:  <GBSeq_organism>Bacillus niabensis</GBSeq_organism>
+./DQ176420.xml:  <GBSeq_organism>Bacillus niabensis</GBSeq_organism>
+./AY550276.xml:  <GBSeq_organism>Bacillus cibi</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AB101594.xml:  <GBSeq_organism>Ureibacillus thermosphaericus</GBSeq_organism>
+./AY608605.xml:  <GBSeq_organism>Bacillus litoralis</GBSeq_organism>
+./X60635.xml:  <GBSeq_organism>Bacillus psychrosaccharolyticus ATCC 23296</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./DQ176423.xml:  <GBSeq_organism>Bacillus niabensis</GBSeq_organism>
+./AY904033.xml:  <GBSeq_organism>Bacillus idriensis</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./X60615.xml:  <GBSeq_organism>Bacillus fastidiosus</GBSeq_organism>
+./DQ176421.xml:  <GBSeq_organism>Bacillus niabensis</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ176422.xml:  <GBSeq_organism>Bacillus niabensis</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./X77679.xml:  <GBSeq_organism>Azoarcus evansii</GBSeq_organism>
+./AJ306683.xml:  <GBSeq_organism>Sterolibacterium denitrificans</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./AF011345.xml:  <GBSeq_organism>Azoarcus indigens</GBSeq_organism>
+./AB201043.xml:  <GBSeq_organism>Zoogloea oryzae</GBSeq_organism>
+./Y10146.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./AJ011506.xml:  <GBSeq_organism>Zoogloea resiniphila</GBSeq_organism>
+./AJ005817.xml:  <GBSeq_organism>Thauera terpenica 58Eu</GBSeq_organism>
+./Y17591.xml:  <GBSeq_organism>Thauera selenatis AX</GBSeq_organism>
+./X74913.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./Y14701.xml:  <GBSeq_organism>Azoarcus anaerobius</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./AF011343.xml:  <GBSeq_organism>Azoarcus communis</GBSeq_organism>
+./X77118.xml:  <GBSeq_organism>Thauera aromatica</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AJ005816.xml:  <GBSeq_organism>Thauera linaloolentis 47Lol = DSM 12138</GBSeq_organism>
+./AF011347.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>

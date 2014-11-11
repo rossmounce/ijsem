@@ -1,0 +1,9 @@
+./EF185166.xml:  <GBSeq_organism>Veillonella rodentium</GBSeq_organism>
+./EF185161.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./EF185162.xml:  <GBSeq_organism>Veillonella denticariosi</GBSeq_organism>
+./EF185163.xml:  <GBSeq_organism>Veillonella caviae</GBSeq_organism>
+./EF185165.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./EF185159.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./EF211831.xml:  <GBSeq_organism>Veillonella rogosae</GBSeq_organism>
+./EF185164.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./EF411194.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>

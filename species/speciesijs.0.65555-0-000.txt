@@ -1,0 +1,10 @@
+./L11703.xml:  <GBSeq_organism>Thermonema lapsum</GBSeq_organism>
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AF217494.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./EU008564.xml:  <GBSeq_organism>Balneola alkaliphila</GBSeq_organism>
+./AF323500.xml:  <GBSeq_organism>Salinibacter ruber DSM 13855</GBSeq_organism>
+./Y08956.xml:  <GBSeq_organism>Thermonema rossianum</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./AF039294.xml:  <GBSeq_organism>Lewinella nigricans</GBSeq_organism>
+./AY527408.xml:  <GBSeq_organism>Saprospira grandis</GBSeq_organism>
+./AY576749.xml:  <GBSeq_organism>Balneola vulgaris</GBSeq_organism>

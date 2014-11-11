@@ -1,0 +1,15 @@
+./AF129442.xml:  <GBSeq_organism>Raoultella terrigena</GBSeq_organism>
+./AF129440.xml:  <GBSeq_organism>Klebsiella oxytoca</GBSeq_organism>
+./AF129444.xml:  <GBSeq_organism>Raoultella planticola</GBSeq_organism>
+./AF025373.xml:  <GBSeq_organism>Citrobacter werkmanii</GBSeq_organism>
+./AF130983.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. rhinoscleromatis ATCC 13884</GBSeq_organism>
+./AF310217.xml:  <GBSeq_organism>Kluyvera intermedia</GBSeq_organism>
+./AF129441.xml:  <GBSeq_organism>Raoultella ornithinolytica</GBSeq_organism>
+./AF010251.xml:  <GBSeq_organism>Klebsiella granulomatis</GBSeq_organism>
+./AF250285.xml:  <GBSeq_organism>Klebsiella singaporensis</GBSeq_organism>
+./AF130981.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./AF176560.xml:  <GBSeq_organism>Kluyvera ascorbata ATCC 33433</GBSeq_organism>
+./AF130982.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. ozaenae</GBSeq_organism>
+./AJ233431.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./AJ251468.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>

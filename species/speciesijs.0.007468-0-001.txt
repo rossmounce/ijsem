@@ -1,0 +1,26 @@
+./X84440.xml:  <GBSeq_organism>Corynebacterium ammoniagenes</GBSeq_organism>
+./AM946639.xml:  <GBSeq_organism>Corynebacterium hansenii</GBSeq_organism>
+./Y09806.xml:  <GBSeq_organism>Corynebacterium mastitidis</GBSeq_organism>
+./AJ439348.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./X81907.xml:  <GBSeq_organism>Corynebacterium pseudotuberculosis CIP 52.97</GBSeq_organism>
+./X83955.xml:  <GBSeq_organism>Corynebacterium argentoratense</GBSeq_organism>
+./AJ566641.xml:  <GBSeq_organism>Corynebacterium caspium</GBSeq_organism>
+./X84680.xml:  <GBSeq_organism>Corynebacterium vitaeruminis DSM 20294</GBSeq_organism>
+./AJ315961.xml:  <GBSeq_organism>Corynebacterium aurimucosum</GBSeq_organism>
+./X81910.xml:  <GBSeq_organism>Corynebacterium striatum</GBSeq_organism>
+./X82053.xml:  <GBSeq_organism>Corynebacterium callunae</GBSeq_organism>
+./AJ401282.xml:  <GBSeq_organism>Corynebacterium felinum</GBSeq_organism>
+./X84446.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./Y10999.xml:  <GBSeq_organism>Corynebacterium singulare</GBSeq_organism>
+./X81908.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./X84441.xml:  <GBSeq_organism>Corynebacterium flavescens</GBSeq_organism>
+./AJ440964.xml:  <GBSeq_organism>Corynebacterium sphenisci</GBSeq_organism>
+./AB055963.xml:  <GBSeq_organism>Corynebacterium efficiens YS-314</GBSeq_organism>
+./AJ295841.xml:  <GBSeq_organism>Corynebacterium testudinoris</GBSeq_organism>
+./FJ423600.xml:  <GBSeq_organism>Corynebacterium maris DSM 45190</GBSeq_organism>
+./CR931997.xml:  <GBSeq_organism>Corynebacterium jeikeium K411</GBSeq_organism>
+./AF267152.xml:  <GBSeq_organism>Corynebacterium casei LMG S-19264</GBSeq_organism>
+./AY226509.xml:  <GBSeq_organism>Corynebacterium halotolerans YIM 70093 = DSM 44683</GBSeq_organism>
+./X53185.xml:  <GBSeq_organism>Corynebacterium variabile</GBSeq_organism>
+./Y09045.xml:  <GBSeq_organism>Corynebacterium lipophiloflavum</GBSeq_organism>
+./AJ429234.xml:  <GBSeq_organism>Corynebacterium spheniscorum</GBSeq_organism>

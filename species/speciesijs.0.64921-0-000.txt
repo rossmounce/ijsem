@@ -1,0 +1,19 @@
+./DQ355813.xml:  <GBSeq_organism>Halorubrum aidingense JCM 13560</GBSeq_organism>
+./DQ355793.xml:  <GBSeq_organism>Halorubrum arcis JCM 13916</GBSeq_organism>
+./X82168.xml:  <GBSeq_organism>Halorubrum trapanicum</GBSeq_organism>
+./AY510708.xml:  <GBSeq_organism>Halorubrum alkaliphilum</GBSeq_organism>
+./AY149598.xml:  <GBSeq_organism>Halorubrum tibetense</GBSeq_organism>
+./AB090169.xml:  <GBSeq_organism>Halorubrum terrestre</GBSeq_organism>
+./D63572.xml:  <GBSeq_organism>Halorubrum distributum</GBSeq_organism>
+./M38280.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./AJ276887.xml:  <GBSeq_organism>Halorubrum tebenquichense</GBSeq_organism>
+./D13379.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./DQ118426.xml:  <GBSeq_organism>Halorubrum ezzemoulense</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./X82167.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./Y00275.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./AM235786.xml:  <GBSeq_organism>Halorubrum orientale</GBSeq_organism>
+./D87972.xml:  <GBSeq_organism>Halorubrum vacuolatum</GBSeq_organism>
+./X82170.xml:  <GBSeq_organism>Halorubrum lacusprofundi ATCC 49239</GBSeq_organism>
+./L00922.xml:  <GBSeq_organism>Halorubrum coriense</GBSeq_organism>
+./AY510707.xml:  <GBSeq_organism>Halorubrum xinjiangense</GBSeq_organism>

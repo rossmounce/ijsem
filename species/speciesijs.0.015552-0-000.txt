@@ -1,0 +1,9 @@
+./X77437.xml:  <GBSeq_organism>Curtobacterium luteum</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./AB266597.xml:  <GBSeq_organism>Curtobacterium ammoniigenes</GBSeq_organism>
+./AJ784400.xml:  <GBSeq_organism>Curtobacterium pusillum</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./AM042692.xml:  <GBSeq_organism>Curtobacterium albidum</GBSeq_organism>
+./X77440.xml:  <GBSeq_organism>Pseudoclavibacter helvolus</GBSeq_organism>
+./U30254.xml:  <GBSeq_organism>Clavibacter michiganensis subsp. tessellarius</GBSeq_organism>
+./U09763.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>

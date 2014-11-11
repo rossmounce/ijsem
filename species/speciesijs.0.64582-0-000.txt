@@ -1,0 +1,16 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./U89333.xml:  <GBSeq_organism>Microvirgula aerodenitrificans</GBSeq_organism>
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./AJ289885.xml:  <GBSeq_organism>Limnobacter thiooxidans</GBSeq_organism>
+./L06170.xml:  <GBSeq_organism>Neisseria canis</GBSeq_organism>
+./AY551999.xml:  <GBSeq_organism>Kingella kingae ATCC 23330</GBSeq_organism>
+./L06174.xml:  <GBSeq_organism>Vitreoscilla stercoraria</GBSeq_organism>
+./Y17602.xml:  <GBSeq_organism>Formivibrio citricus</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./AB021385.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AJ270258.xml:  <GBSeq_organism>Ralstonia mannitolilytica</GBSeq_organism>

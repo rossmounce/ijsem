@@ -1,0 +1,9 @@
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AJ459411.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AJ854059.xml:  <GBSeq_organism>Myroides odoratimimus</GBSeq_organism>
+./U41347.xml:  <GBSeq_organism>Capnocytophaga granulosa ATCC 51502</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>
+./AB176662.xml:  <GBSeq_organism>Myroides pelagicus</GBSeq_organism>

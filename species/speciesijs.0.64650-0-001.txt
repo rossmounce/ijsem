@@ -1,0 +1,42 @@
+./DQ779999.xml:  <GBSeq_organism>Cronobacter helveticus</GBSeq_organism>
+./DQ836222.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./AF218573.xml:  <GBSeq_organism>Klebsiella granulomatis</GBSeq_organism>
+./U77449.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./DQ779997.xml:  <GBSeq_organism>Cronobacter helveticus</GBSeq_organism>
+./AJ566943.xml:  <GBSeq_organism>Enterobacter cancerogenus</GBSeq_organism>
+./U77441.xml:  <GBSeq_organism>Klebsiella oxytoca</GBSeq_organism>
+./AJ543724.xml:  <GBSeq_organism>Enterobacter hormaechei ATCC 49162</GBSeq_organism>
+./U77439.xml:  <GBSeq_organism>Kluyvera ascorbata ATCC 33433</GBSeq_organism>
+./AF129449.xml:  <GBSeq_organism>Raoultella planticola ATCC 33531</GBSeq_organism>
+./U77447.xml:  <GBSeq_organism>Salmonella enterica subsp. arizonae</GBSeq_organism>
+./AF129446.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. rhinoscleromatis</GBSeq_organism>
+./AJ543725.xml:  <GBSeq_organism>Enterobacter cloacae subsp. dissolvens</GBSeq_organism>
+./U77453.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./U77434.xml:  <GBSeq_organism>Citrobacter freundii</GBSeq_organism>
+./U77446.xml:  <GBSeq_organism>Providencia stuartii</GBSeq_organism>
+./DQ780000.xml:  <GBSeq_organism>Cronobacter zurichensis</GBSeq_organism>
+./AJ566945.xml:  <GBSeq_organism>Pluralibacter gergoviae</GBSeq_organism>
+./U77451.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Shomron</GBSeq_organism>
+./U77436.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AJ543666.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./U77452.xml:  <GBSeq_organism>Salmonella enterica subsp. salamae serovar Sofia</GBSeq_organism>
+./AJ566948.xml:  <GBSeq_organism>Lelliottia nimipressuralis</GBSeq_organism>
+./U77438.xml:  <GBSeq_organism>Hafnia alvei ATCC 13337</GBSeq_organism>
+./AF008577.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Typhi</GBSeq_organism>
+./AF129445.xml:  <GBSeq_organism>Klebsiella pneumoniae subsp. ozaenae</GBSeq_organism>
+./U77437.xml:  <GBSeq_organism>Escherichia fergusonii ATCC 35469</GBSeq_organism>
+./U77450.xml:  <GBSeq_organism>Salmonella enterica subsp. enterica serovar Paratyphi A</GBSeq_organism>
+./DQ836224.xml:  <GBSeq_organism>Cronobacter sakazakii</GBSeq_organism>
+./AF129448.xml:  <GBSeq_organism>Raoultella terrigena</GBSeq_organism>
+./AJ543726.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./AJ566947.xml:  <GBSeq_organism>Enterobacter kobei</GBSeq_organism>
+./AJ543727.xml:  <GBSeq_organism>Enterobacter asburiae</GBSeq_organism>
+./AJ566942.xml:  <GBSeq_organism>Lelliottia amnigena</GBSeq_organism>
+./U77445.xml:  <GBSeq_organism>Proteus mirabilis</GBSeq_organism>
+./DQ779998.xml:  <GBSeq_organism>Cronobacter zurichensis LMG 23730</GBSeq_organism>
+./AY367356.xml:  <GBSeq_organism>Klebsiella variicola</GBSeq_organism>
+./U77443.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./U77448.xml:  <GBSeq_organism>Shigella dysenteriae</GBSeq_organism>
+./DQ836221.xml:  <GBSeq_organism>Klebsiella singaporensis</GBSeq_organism>
+./BX950851.xml:  <GBSeq_organism>Pectobacterium atrosepticum SCRI1043</GBSeq_organism>
+./AF129447.xml:  <GBSeq_organism>Raoultella ornithinolytica</GBSeq_organism>

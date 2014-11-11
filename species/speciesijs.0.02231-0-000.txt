@@ -1,0 +1,12 @@
+./AF399970.xml:  <GBSeq_organism>Xanthobacter viscosus</GBSeq_organism>
+./X99469.xml:  <GBSeq_organism>Xanthobacter tagetidis</GBSeq_organism>
+./X94199.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./D13948.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./AF399969.xml:  <GBSeq_organism>Xanthobacter aminoxidans</GBSeq_organism>
+./D25314.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./X94198.xml:  <GBSeq_organism>Xanthobacter agilis</GBSeq_organism>
+./D12784.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D14429.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>
+./X94202.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./D32247.xml:  <GBSeq_organism>Starkeya novella DSM 506</GBSeq_organism>

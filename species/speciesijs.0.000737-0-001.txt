@@ -1,0 +1,22 @@
+./AB081768.xml:  <GBSeq_organism>Shewanella sairae</GBSeq_organism>
+./AM229309.xml:  <GBSeq_organism>Shewanella fidelis</GBSeq_organism>
+./AB081763.xml:  <GBSeq_organism>Shewanella marinintestina</GBSeq_organism>
+./AM229307.xml:  <GBSeq_organism>Shewanella psychrophila</GBSeq_organism>
+./EU702751.xml:  <GBSeq_organism>Shewanella livingstonensis</GBSeq_organism>
+./AF014946.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./AF005257.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./AY842131.xml:  <GBSeq_organism>Shewanella halifaxensis HAW-EB4</GBSeq_organism>
+./EU702750.xml:  <GBSeq_organism>Shewanella vesiculosa</GBSeq_organism>
+./AY842129.xml:  <GBSeq_organism>Shewanella canadensis</GBSeq_organism>
+./CP000606.xml:  <GBSeq_organism>Shewanella loihica PV-4</GBSeq_organism>
+./AY842132.xml:  <GBSeq_organism>Shewanella atlantica</GBSeq_organism>
+./AB266207.xml:  <GBSeq_organism>Shewanella colwelliana</GBSeq_organism>
+./AM229308.xml:  <GBSeq_organism>Shewanella piezotolerans WP3</GBSeq_organism>
+./AJ609572.xml:  <GBSeq_organism>Shewanella decolorationis S12</GBSeq_organism>
+./CP000302.xml:  <GBSeq_organism>Shewanella denitrificans OS217</GBSeq_organism>
+./AY842130.xml:  <GBSeq_organism>Shewanella sediminis</GBSeq_organism>
+./AF005686.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AF014944.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./AB208056.xml:  <GBSeq_organism>Shewanella hafniensis</GBSeq_organism>
+./AF014947.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>
+./AF014945.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>

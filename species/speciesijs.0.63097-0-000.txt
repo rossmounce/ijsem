@@ -1,0 +1,135 @@
+./AF510949.xml:  <GBSeq_organism>Bradyrhizobium sp. Crj-2</GBSeq_organism>
+./AF510579.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-5</GBSeq_organism>
+./AF511540.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-4</GBSeq_organism>
+./AF510594.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-5</GBSeq_organism>
+./AF510960.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-14</GBSeq_organism>
+./AF511553.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-5</GBSeq_organism>
+./AF511538.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-2</GBSeq_organism>
+./AF510593.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-6</GBSeq_organism>
+./AF510596.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-8</GBSeq_organism>
+./AF510635.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-3</GBSeq_organism>
+./AF510616.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-9</GBSeq_organism>
+./AF510928.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-1</GBSeq_organism>
+./AF510612.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-6</GBSeq_organism>
+./AF510932.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-5</GBSeq_organism>
+./AF510953.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-7</GBSeq_organism>
+./AF510933.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-6</GBSeq_organism>
+./AF510938.xml:  <GBSeq_organism>Bradyrhizobium sp. Aei-1</GBSeq_organism>
+./AF510621.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-10</GBSeq_organism>
+./AF511545.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-6</GBSeq_organism>
+./AF511554.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-8</GBSeq_organism>
+./AF511544.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-3</GBSeq_organism>
+./AF510592.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-5</GBSeq_organism>
+./AF510601.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-1</GBSeq_organism>
+./AF510955.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-9</GBSeq_organism>
+./AF510597.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-10</GBSeq_organism>
+./AF510947.xml:  <GBSeq_organism>Bradyrhizobium sp. vga-1</GBSeq_organism>
+./U35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AF510595.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-7</GBSeq_organism>
+./AF510946.xml:  <GBSeq_organism>Bradyrhizobium sp. Gls-1</GBSeq_organism>
+./AF345256.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./AF345255.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF510943.xml:  <GBSeq_organism>Bradyrhizobium sp. Vgn-2</GBSeq_organism>
+./AF510936.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-1</GBSeq_organism>
+./AJ279265.xml:  <GBSeq_organism>Bradyrhizobium sp. LMG 10300</GBSeq_organism>
+./AF511556.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-10</GBSeq_organism>
+./AF510625.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-7</GBSeq_organism>
+./AF345254.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AF508141.xml:  <GBSeq_organism>Bradyrhizobium sp. Vgn-2</GBSeq_organism>
+./AF510578.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-4</GBSeq_organism>
+./AF510603.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-2</GBSeq_organism>
+./AF510959.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-13</GBSeq_organism>
+./AF510610.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-5</GBSeq_organism>
+./X87272.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF510624.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-6</GBSeq_organism>
+./AF510605.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-2</GBSeq_organism>
+./AF510598.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-13</GBSeq_organism>
+./AJ250813.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./AF510958.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-12</GBSeq_organism>
+./AF510929.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-2</GBSeq_organism>
+./AF511552.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-4</GBSeq_organism>
+./AF508139.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-2</GBSeq_organism>
+./AJ279276.xml:  <GBSeq_organism>Bradyrhizobium sp. LMG 10697</GBSeq_organism>
+./AF511535.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-1</GBSeq_organism>
+./AF510945.xml:  <GBSeq_organism>Bradyrhizobium sp. vgn-3</GBSeq_organism>
+./AJ279346.xml:  <GBSeq_organism>Bradyrhizobium sp. LMG 15404</GBSeq_organism>
+./AF511550.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-6</GBSeq_organism>
+./AF510608.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-3</GBSeq_organism>
+./AF510961.xml:  <GBSeq_organism>Bradyrhizobium sp. NK-3</GBSeq_organism>
+./AF510590.xml:  <GBSeq_organism>Bradyrhizobium sp. Mes-1</GBSeq_organism>
+./AF511551.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-7</GBSeq_organism>
+./AF511546.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-4</GBSeq_organism>
+./AF510591.xml:  <GBSeq_organism>Bradyrhizobium sp. Crj-2</GBSeq_organism>
+./AF510602.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-1</GBSeq_organism>
+./AF510930.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-3</GBSeq_organism>
+./AF511549.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-9</GBSeq_organism>
+./AF208516.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AF511541.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-3</GBSeq_organism>
+./AF510962.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-6</GBSeq_organism>
+./AF511537.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-1</GBSeq_organism>
+./AF208518.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AF508148.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-16</GBSeq_organism>
+./AF208514.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 38</GBSeq_organism>
+./AF510948.xml:  <GBSeq_organism>Bradyrhizobium sp. Mes-1</GBSeq_organism>
+./AF511539.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-3</GBSeq_organism>
+./AF510586.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-3</GBSeq_organism>
+./AF510604.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-1</GBSeq_organism>
+./AF208508.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF510588.xml:  <GBSeq_organism>Bradyrhizobium sp. Gls-1</GBSeq_organism>
+./AF510942.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-3</GBSeq_organism>
+./AF510939.xml:  <GBSeq_organism>Bradyrhizobium sp. vgn-1</GBSeq_organism>
+./AF510589.xml:  <GBSeq_organism>Bradyrhizobium sp. vga-1</GBSeq_organism>
+./AF510600.xml:  <GBSeq_organism>Bradyrhizobium sp. NK-3</GBSeq_organism>
+./AF510935.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-8</GBSeq_organism>
+./AF510944.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-4</GBSeq_organism>
+./AF510957.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-11</GBSeq_organism>
+./AF208515.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF510585.xml:  <GBSeq_organism>Bradyrhizobium sp. vgn-1</GBSeq_organism>
+./AF510619.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-8</GBSeq_organism>
+./AF510931.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-4</GBSeq_organism>
+./AF510606.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-3</GBSeq_organism>
+./AF510607.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-4</GBSeq_organism>
+./AF208505.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF510941.xml:  <GBSeq_organism>Bradyrhizobium sp. Crj-1</GBSeq_organism>
+./AF510950.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-5</GBSeq_organism>
+./AF510937.xml:  <GBSeq_organism>Bradyrhizobium sp. Put-1</GBSeq_organism>
+./AF510583.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-1</GBSeq_organism>
+./AF511534.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-1</GBSeq_organism>
+./AF510609.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-2</GBSeq_organism>
+./AF511542.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-2</GBSeq_organism>
+./AF508143.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-11</GBSeq_organism>
+./AF208511.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF511543.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-5</GBSeq_organism>
+./AF511547.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-7</GBSeq_organism>
+./AF510951.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-6</GBSeq_organism>
+./AF510581.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-7</GBSeq_organism>
+./AJ279311.xml:  <GBSeq_organism>Bradyrhizobium sp. LMG 8293</GBSeq_organism>
+./AF508138.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-4</GBSeq_organism>
+./AF510623.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-5</GBSeq_organism>
+./AF510617.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-6</GBSeq_organism>
+./AF510952.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-5</GBSeq_organism>
+./AF510615.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-8</GBSeq_organism>
+./AF511555.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-6</GBSeq_organism>
+./AF193818.xml:  <GBSeq_organism>Bradyrhizobium yuanmingense</GBSeq_organism>
+./AF208517.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AF508145.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-12</GBSeq_organism>
+./AJ279291.xml:  <GBSeq_organism>Bradyrhizobium sp. LMG 11950</GBSeq_organism>
+./AF510934.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-7</GBSeq_organism>
+./AF510614.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-7</GBSeq_organism>
+./AJ279275.xml:  <GBSeq_organism>Bradyrhizobium sp. LMG 10676</GBSeq_organism>
+./AF511557.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-7</GBSeq_organism>
+./AF510613.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-4</GBSeq_organism>
+./AF510587.xml:  <GBSeq_organism>Bradyrhizobium sp. vgn-3</GBSeq_organism>
+./AF510622.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-4</GBSeq_organism>
+./AF510599.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-14</GBSeq_organism>
+./AF510611.xml:  <GBSeq_organism>Bradyrhizobium sp. Phr-3</GBSeq_organism>
+./AF511558.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-9</GBSeq_organism>
+./AF510584.xml:  <GBSeq_organism>Bradyrhizobium sp. Put-1</GBSeq_organism>
+./AF510582.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-8</GBSeq_organism>
+./AF510954.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-8</GBSeq_organism>
+./AF511548.xml:  <GBSeq_organism>Bradyrhizobium sp. Pha-8</GBSeq_organism>
+./AF511536.xml:  <GBSeq_organism>Bradyrhizobium sp. vgs-2</GBSeq_organism>
+./AF508144.xml:  <GBSeq_organism>Bradyrhizobium sp. Leb-9</GBSeq_organism>
+./AF208512.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AF510940.xml:  <GBSeq_organism>Bradyrhizobium sp. Kus-2</GBSeq_organism>
+./AF510580.xml:  <GBSeq_organism>Bradyrhizobium sp. Glm-6</GBSeq_organism>

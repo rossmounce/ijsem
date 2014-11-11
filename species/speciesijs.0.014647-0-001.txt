@@ -1,0 +1,12 @@
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AY354285.xml:  <GBSeq_organism>Myceligenerans xiligouense</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./AY228479.xml:  <GBSeq_organism>Yaniella halotolerans</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./D85486.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./AY501362.xml:  <GBSeq_organism>Cellulomonas denverensis</GBSeq_organism>
+./M38242.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AJ293747.xml:  <GBSeq_organism>Glycomyces harbinensis</GBSeq_organism>
+./X83805.xml:  <GBSeq_organism>Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133</GBSeq_organism>

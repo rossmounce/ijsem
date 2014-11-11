@@ -1,0 +1,5 @@
+./AY158079.xml:  <GBSeq_organism>Tepidibacter thalassicus</GBSeq_organism>
+./X73447.xml:  <GBSeq_organism>Asaccharospora irregularis</GBSeq_organism>
+./AY245527.xml:  <GBSeq_organism>Tepidibacter formicigenes</GBSeq_organism>
+./X73451.xml:  <GBSeq_organism>[Clostridium] ghonii</GBSeq_organism>
+./AY682207.xml:  <GBSeq_organism>Sporacetigenium mesophilum</GBSeq_organism>

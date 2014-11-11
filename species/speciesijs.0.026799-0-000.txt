@@ -1,0 +1,9 @@
+./GU208827.xml:  <GBSeq_organism>Halolamina pelagica</GBSeq_organism>
+./HM159612.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>
+./EU887283.xml:  <GBSeq_organism>Halogranum rubrum</GBSeq_organism>
+./GU208826.xml:  <GBSeq_organism>Halolamina pelagica</GBSeq_organism>
+./HM165235.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./HM185493.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./HM159610.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./EU887284.xml:  <GBSeq_organism>Halopelagius inordinatus</GBSeq_organism>

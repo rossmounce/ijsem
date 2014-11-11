@@ -1,0 +1,17 @@
+./AY129769.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AY129766.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AJ400711.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./AJ278496.xml:  <GBSeq_organism>Amycolatopsis keratiniphila</GBSeq_organism>
+./AJ577997.xml:  <GBSeq_organism>Amycolatopsis lurida</GBSeq_organism>
+./AY129768.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AJ508237.xml:  <GBSeq_organism>Amycolatopsis decaplanina DSM 44594</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./AJ508236.xml:  <GBSeq_organism>Amycolatopsis japonica</GBSeq_organism>
+./AJ508238.xml:  <GBSeq_organism>Amycolatopsis keratiniphila subsp. nogabecina</GBSeq_organism>
+./AY129767.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AJ400709.xml:  <GBSeq_organism>Amycolatopsis azurea</GBSeq_organism>
+./AF051341.xml:  <GBSeq_organism>Amycolatopsis coloradensis</GBSeq_organism>
+./AY129761.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AF051340.xml:  <GBSeq_organism>Amycolatopsis alba DSM 44262</GBSeq_organism>
+./AY129763.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AY129760.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>

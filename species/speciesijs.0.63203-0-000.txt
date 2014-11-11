@@ -1,0 +1,10 @@
+./X60632.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF138736.xml:  <GBSeq_organism>Laceyella putida</GBSeq_organism>
+./AF138733.xml:  <GBSeq_organism>Thermoflavimicrobium dichotomicum</GBSeq_organism>
+./AF138739.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./AF138734.xml:  <GBSeq_organism>Thermoactinomyces intermedius</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF138732.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./AF138738.xml:  <GBSeq_organism>Laceyella sacchari</GBSeq_organism>
+./AF138737.xml:  <GBSeq_organism>Laceyella sacchari</GBSeq_organism>
+./AF138735.xml:  <GBSeq_organism>Seinonella peptonophila</GBSeq_organism>

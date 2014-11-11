@@ -1,0 +1,11 @@
+./AB021367.xml:  <GBSeq_organism>Marinobacterium stanieri</GBSeq_organism>
+./AY553295.xml:  <GBSeq_organism>Salinimonas chungwhensis</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./U58339.xml:  <GBSeq_organism>Marinobacterium georgiense</GBSeq_organism>
+./AY563030.xml:  <GBSeq_organism>Marinobacterium halophilum</GBSeq_organism>
+./AB076561.xml:  <GBSeq_organism>Agarivorans albus MKT 106</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>
+./AY207503.xml:  <GBSeq_organism>Aestuariibacter halophilus</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>

@@ -1,0 +1,16 @@
+./EF571001.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AJ399485.xml:  <GBSeq_organism>Streptomyces arenae</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AY999783.xml:  <GBSeq_organism>Streptomyces badius</GBSeq_organism>
+./Z76684.xml:  <GBSeq_organism>Streptomyces canescens</GBSeq_organism>
+./EF571002.xml:  <GBSeq_organism>Streptomyces albidoflavus</GBSeq_organism>
+./EF571003.xml:  <GBSeq_organism>Streptomyces flavofungini</GBSeq_organism>
+./Y15501.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AJ399462.xml:  <GBSeq_organism>Streptomyces coerulescens</GBSeq_organism>
+./D63872.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AY999739.xml:  <GBSeq_organism>Streptomyces venezuelae ATCC 10712</GBSeq_organism>
+./AY999882.xml:  <GBSeq_organism>Streptomyces griseolus</GBSeq_organism>
+./AY094363.xml:  <GBSeq_organism>Streptomyces sanglieri</GBSeq_organism>
+./X79326.xml:  <GBSeq_organism>Streptomyces ornatus</GBSeq_organism>
+./AY999817.xml:  <GBSeq_organism>Streptomyces bacillaris</GBSeq_organism>
+./D63871.xml:  <GBSeq_organism>Streptomyces sampsonii</GBSeq_organism>

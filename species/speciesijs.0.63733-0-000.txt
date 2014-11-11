@@ -1,0 +1,14 @@
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./AB003623.xml:  <GBSeq_organism>Roseateles depolymerans</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./AB188124.xml:  <GBSeq_organism>Azohydromonas australica</GBSeq_organism>
+./AJ420326.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AB188125.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./AB024307.xml:  <GBSeq_organism>Mitsuaria chitosanitabida</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./D14320.xml:  <GBSeq_organism>Brachymonas denitrificans</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./Y10146.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./X97070.xml:  <GBSeq_organism>Leptothrix cholodnii</GBSeq_organism>

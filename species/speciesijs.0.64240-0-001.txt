@@ -1,0 +1,5 @@
+./AJ865471.xml:  <GBSeq_organism>Actinoplanes liguriensis</GBSeq_organism>
+./AJ865472.xml:  <GBSeq_organism>Actinoplanes teichomyceticus</GBSeq_organism>
+./X93188.xml:  <GBSeq_organism>Actinoplanes regularis</GBSeq_organism>
+./X93186.xml:  <GBSeq_organism>Actinoplanes cyaneus</GBSeq_organism>
+./X93187.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>

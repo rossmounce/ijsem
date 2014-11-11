@@ -1,0 +1,31 @@
+./AJ421528.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./AB453700.xml:  <GBSeq_organism>Psychrobacter piscatorii</GBSeq_organism>
+./AJ584832.xml:  <GBSeq_organism>Psychrobacter vallis</GBSeq_organism>
+./AY722805.xml:  <GBSeq_organism>Psychrobacter namhaensis</GBSeq_organism>
+./AJ609555.xml:  <GBSeq_organism>Psychrobacter urativorans</GBSeq_organism>
+./AJ539104.xml:  <GBSeq_organism>Psychrobacter salsus</GBSeq_organism>
+./AJ550856.xml:  <GBSeq_organism>Enhydrobacter aerosaccus</GBSeq_organism>
+./AJ430827.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./AY444822.xml:  <GBSeq_organism>Psychrobacter arcticus 273-4</GBSeq_organism>
+./AJ609556.xml:  <GBSeq_organism>Psychrobacter frigidicola</GBSeq_organism>
+./AB438958.xml:  <GBSeq_organism>Psychrobacter fulvigenes</GBSeq_organism>
+./AJ609273.xml:  <GBSeq_organism>Psychrobacter arenosus</GBSeq_organism>
+./AF005185.xml:  <GBSeq_organism>Moraxella catarrhalis</GBSeq_organism>
+./AY639871.xml:  <GBSeq_organism>Psychrobacter cibarius</GBSeq_organism>
+./X81661.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AJ272303.xml:  <GBSeq_organism>Psychrobacter proteolyticus</GBSeq_organism>
+./AJ430828.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./U46144.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AJ609272.xml:  <GBSeq_organism>Psychrobacter maritimus</GBSeq_organism>
+./AJ437696.xml:  <GBSeq_organism>Psychrobacter pulmonis</GBSeq_organism>
+./AY842259.xml:  <GBSeq_organism>Psychrobacter celer</GBSeq_organism>
+./AJ309942.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AJ309940.xml:  <GBSeq_organism>Psychrobacter submarinus</GBSeq_organism>
+./AJ584833.xml:  <GBSeq_organism>Psychrobacter aquaticus CMS 56</GBSeq_organism>
+./D64049.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./AY513645.xml:  <GBSeq_organism>Psychrobacter alimentarius</GBSeq_organism>
+./AY722804.xml:  <GBSeq_organism>Psychrobacter aquimaris</GBSeq_organism>
+./AJ312213.xml:  <GBSeq_organism>Psychrobacter glacincola</GBSeq_organism>
+./AF005190.xml:  <GBSeq_organism>Moraxella osloensis</GBSeq_organism>
+./AJ309941.xml:  <GBSeq_organism>Psychrobacter marincola</GBSeq_organism>
+./AJ313425.xml:  <GBSeq_organism>Psychrobacter nivimaris</GBSeq_organism>

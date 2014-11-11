@@ -1,0 +1,18 @@
+./AJ306891.xml:  <GBSeq_organism>Halomonas meridiana</GBSeq_organism>
+./X92150.xml:  <GBSeq_organism>Halomonas magadiensis</GBSeq_organism>
+./AY245449.xml:  <GBSeq_organism>Halomonas boliviensis LC1</GBSeq_organism>
+./EF144147.xml:  <GBSeq_organism>Halomonas arcis</GBSeq_organism>
+./AM941743.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./EF144148.xml:  <GBSeq_organism>Halomonas subterranea</GBSeq_organism>
+./AJ306894.xml:  <GBSeq_organism>Halomonas venusta</GBSeq_organism>
+./AM229315.xml:  <GBSeq_organism>Halomonas janggokensis</GBSeq_organism>
+./AJ306892.xml:  <GBSeq_organism>Halomonas subglaciescola</GBSeq_organism>
+./AF212206.xml:  <GBSeq_organism>Halomonas axialensis</GBSeq_organism>
+./AF212202.xml:  <GBSeq_organism>Halomonas neptunia</GBSeq_organism>
+./X87218.xml:  <GBSeq_organism>Halomonas eurihalina</GBSeq_organism>
+./AJ417388.xml:  <GBSeq_organism>Halomonas halocynthiae</GBSeq_organism>
+./EU557315.xml:  <GBSeq_organism>Halomonas vilamensis</GBSeq_organism>
+./AM229314.xml:  <GBSeq_organism>Halomonas gomseomensis</GBSeq_organism>
+./AJ306893.xml:  <GBSeq_organism>Halomonas variabilis</GBSeq_organism>
+./AF211871.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./FN433898.xml:  <GBSeq_organism>Halomonas titanicae BH1</GBSeq_organism>

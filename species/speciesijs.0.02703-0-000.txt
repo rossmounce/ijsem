@@ -1,0 +1,12 @@
+./AF094733.xml:  <GBSeq_organism>Pseudomonas fragi</GBSeq_organism>
+./AF054936.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./AF268029.xml:  <GBSeq_organism>Pseudomonas grimontii</GBSeq_organism>
+./D84005.xml:  <GBSeq_organism>Pseudomonas agarici</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AY035996.xml:  <GBSeq_organism>Pseudomonas lini</GBSeq_organism>
+./AY152673.xml:  <GBSeq_organism>Pseudomonas rhizosphaerae</GBSeq_organism>
+./AJ308315.xml:  <GBSeq_organism>Pseudomonas stutzeri ATCC 17588 = LMG 11199</GBSeq_organism>
+./AF074384.xml:  <GBSeq_organism>Pseudomonas gessardii</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./AB060137.xml:  <GBSeq_organism>Pseudomonas cremoricolorata</GBSeq_organism>

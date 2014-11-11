@@ -1,0 +1,9 @@
+./AB606333.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ938026.xml:  <GBSeq_organism>Limnohabitans curvus</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./EU825700.xml:  <GBSeq_organism>Pseudorhodoferax soli</GBSeq_organism>
+./DQ349098.xml:  <GBSeq_organism>Caenimonas koreensis DSM 17982</GBSeq_organism>
+./FM165535.xml:  <GBSeq_organism>Limnohabitans planktonicus II-D5</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./AB021390.xml:  <GBSeq_organism>Curvibacter lanceolatus</GBSeq_organism>

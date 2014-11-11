@@ -1,0 +1,26 @@
+./M58811.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AY026751.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./AY445815.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AJ575742.xml:  <GBSeq_organism>Lactobacillus kefiranofaciens subsp. kefirgranum</GBSeq_organism>
+./AJ621553.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./Y17361.xml:  <GBSeq_organism>Lactobacillus amylolyticus DSM 11664</GBSeq_organism>
+./AJ534844.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./Y17362.xml:  <GBSeq_organism>Lactobacillus crispatus</GBSeq_organism>
+./M58821.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AJ576008.xml:  <GBSeq_organism>Lactobacillus rennini</GBSeq_organism>
+./AB107638.xml:  <GBSeq_organism>Lactobacillus kitasatonis</GBSeq_organism>
+./AJ306298.xml:  <GBSeq_organism>Lactobacillus hamsteri</GBSeq_organism>
+./M58813.xml:  <GBSeq_organism>Lactobacillus coryniformis</GBSeq_organism>
+./AJ576007.xml:  <GBSeq_organism>Lactobacillus rennini</GBSeq_organism>
+./M58802.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AJ272391.xml:  <GBSeq_organism>Lactobacillus psittaci</GBSeq_organism>
+./AJ306299.xml:  <GBSeq_organism>Lactobacillus intestinalis</GBSeq_organism>
+./AY253660.xml:  <GBSeq_organism>Lactobacillus ultunensis</GBSeq_organism>
+./AY253657.xml:  <GBSeq_organism>Lactobacillus kalixensis</GBSeq_organism>
+./AJ242968.xml:  <GBSeq_organism>Lactobacillus gallinarum</GBSeq_organism>
+./AF316586.xml:  <GBSeq_organism>Lactobacillus sp. YE07</GBSeq_organism>
+./M58809.xml:  <GBSeq_organism>Lactobacillus bifermentans</GBSeq_organism>
+./M58805.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./AY026750.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>

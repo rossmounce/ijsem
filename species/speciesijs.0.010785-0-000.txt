@@ -1,0 +1,13 @@
+./X53212.xml:  <GBSeq_organism>Nocardioides luteus</GBSeq_organism>
+./AF529063.xml:  <GBSeq_organism>Nocardioides aquiterrae</GBSeq_organism>
+./AM295258.xml:  <GBSeq_organism>Nocardioides hwasunensis</GBSeq_organism>
+./FJ423762.xml:  <GBSeq_organism>Nocardioides terrae</GBSeq_organism>
+./AM422448.xml:  <GBSeq_organism>Nocardioides marinisabuli</GBSeq_organism>
+./EF363712.xml:  <GBSeq_organism>Nocardioides terrigena</GBSeq_organism>
+./AY423719.xml:  <GBSeq_organism>Nocardioides aestuarii</GBSeq_organism>
+./AY835924.xml:  <GBSeq_organism>Nocardioides kribbensis</GBSeq_organism>
+./X53211.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./EU143365.xml:  <GBSeq_organism>Nocardioides salarius</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./EF633986.xml:  <GBSeq_organism>Nocardioides dokdonensis</GBSeq_organism>

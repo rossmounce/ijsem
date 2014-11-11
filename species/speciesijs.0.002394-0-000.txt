@@ -1,0 +1,18 @@
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AM283465.xml:  <GBSeq_organism>Lysobacter defluvii IMMIB APB-9 = DSM 18482</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./EF488749.xml:  <GBSeq_organism>Lysobacter capsici</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AY987368.xml:  <GBSeq_organism>Dokdonella koreensis</GBSeq_organism>
+./AB161359.xml:  <GBSeq_organism>Lysobacter concretionis</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./AB166878.xml:  <GBSeq_organism>Lysobacter koreensis</GBSeq_organism>
+./DQ462462.xml:  <GBSeq_organism>Lysobacter niastensis</GBSeq_organism>
+./AB161360.xml:  <GBSeq_organism>Lysobacter brunescens</GBSeq_organism>
+./DQ462461.xml:  <GBSeq_organism>Lysobacter niabensis</GBSeq_organism>

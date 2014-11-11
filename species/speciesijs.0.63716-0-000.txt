@@ -1,0 +1,7 @@
+./AF107722.xml:  <GBSeq_organism>Aminobacter lissarensis</GBSeq_organism>
+./AF034798.xml:  <GBSeq_organism>Aminobacter ciceronei</GBSeq_organism>
+./AF072542.xml:  <GBSeq_organism>Pseudaminobacter salicylatoxidans</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AF246220.xml:  <GBSeq_organism>Aminobacter ciceronei</GBSeq_organism>
+./L20802.xml:  <GBSeq_organism>Aminobacter ciceronei</GBSeq_organism>
+./D32248.xml:  <GBSeq_organism>Pseudaminobacter defluvii</GBSeq_organism>

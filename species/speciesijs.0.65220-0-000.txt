@@ -1,0 +1,28 @@
+./EU007518.xml:  <GBSeq_organism>Xanthomonas hortorum pv. pelargonii</GBSeq_organism>
+./EU007535.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./EU007531.xml:  <GBSeq_organism>Xanthomonas melonis</GBSeq_organism>
+./EU007526.xml:  <GBSeq_organism>Xanthomonas cucurbitae</GBSeq_organism>
+./EU007532.xml:  <GBSeq_organism>Xanthomonas oryzae</GBSeq_organism>
+./EU007523.xml:  <GBSeq_organism>Xanthomonas bromi</GBSeq_organism>
+./EU007521.xml:  <GBSeq_organism>Xanthomonas albilineans</GBSeq_organism>
+./EU007519.xml:  <GBSeq_organism>Xanthomonas vesicatoria ATCC 35937</GBSeq_organism>
+./EU007522.xml:  <GBSeq_organism>Xanthomonas axonopodis</GBSeq_organism>
+./EU007517.xml:  <GBSeq_organism>Xanthomonas euvesicatoria</GBSeq_organism>
+./EU007536.xml:  <GBSeq_organism>Xanthomonas translucens</GBSeq_organism>
+./EU007533.xml:  <GBSeq_organism>Xanthomonas perforans</GBSeq_organism>
+./EU007520.xml:  <GBSeq_organism>Xanthomonas pisi</GBSeq_organism>
+./EU007534.xml:  <GBSeq_organism>Xanthomonas populi</GBSeq_organism>
+./EU007529.xml:  <GBSeq_organism>Xanthomonas hortorum pv. hederae</GBSeq_organism>
+./EU007538.xml:  <GBSeq_organism>Xanthomonas gardneri ATCC 19865</GBSeq_organism>
+./EU007525.xml:  <GBSeq_organism>Xanthomonas cassavae CFBP 4642</GBSeq_organism>
+./DQ676938.xml:  <GBSeq_organism>Xanthomonas vasicola</GBSeq_organism>
+./EU007542.xml:  <GBSeq_organism>Xanthomonas alfalfae</GBSeq_organism>
+./EU007541.xml:  <GBSeq_organism>Xanthomonas fuscans</GBSeq_organism>
+./EU007539.xml:  <GBSeq_organism>Xanthomonas theicola</GBSeq_organism>
+./EU007530.xml:  <GBSeq_organism>Xanthomonas hyacinthi</GBSeq_organism>
+./EU007527.xml:  <GBSeq_organism>Xanthomonas cynarae</GBSeq_organism>
+./EU007528.xml:  <GBSeq_organism>Xanthomonas fragariae</GBSeq_organism>
+./EU007524.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./EU007516.xml:  <GBSeq_organism>Xanthomonas arboricola pv. juglandis</GBSeq_organism>
+./EU007537.xml:  <GBSeq_organism>Xanthomonas codiaei</GBSeq_organism>
+./EU007540.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>

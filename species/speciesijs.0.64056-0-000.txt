@@ -1,0 +1,11 @@
+./AB217471.xml:  <GBSeq_organism>Sphingomonas azotifigens</GBSeq_organism>
+./D84520.xml:  <GBSeq_organism>Sphingomonas roseiflava</GBSeq_organism>
+./Y09637.xml:  <GBSeq_organism>Sphingomonas pruni</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AB217472.xml:  <GBSeq_organism>Sphingomonas azotifigens</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./D13737.xml:  <GBSeq_organism>Sphingobium suberifaciens</GBSeq_organism>
+./AB042233.xml:  <GBSeq_organism>Sphingobium herbicidovorans</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AJ012461.xml:  <GBSeq_organism>Sphingomonas echinoides ATCC 14820</GBSeq_organism>
+./X72722.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

@@ -1,0 +1,10 @@
+./EU364817.xml:  <GBSeq_organism>Sphingobacterium anhuiense</GBSeq_organism>
+./AY787820.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AB100738.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./AJ576248.xml:  <GBSeq_organism>Sphingobacterium antarcticum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./M58796.xml:  <GBSeq_organism>Sphingobacterium mizutaii</GBSeq_organism>
+./AM407725.xml:  <GBSeq_organism>Pseudosphingobacterium domesticum</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>

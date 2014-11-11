@@ -1,0 +1,16 @@
+./U26418.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./AM114527.xml:  <GBSeq_organism>Pseudomonas borbori</GBSeq_organism>
+./AY953147.xml:  <GBSeq_organism>Pseudomonas otitidis</GBSeq_organism>
+./AM088473.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./FJ424813.xml:  <GBSeq_organism>Pseudomonas taeanensis</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AM491810.xml:  <GBSeq_organism>Pseudomonas guineae</GBSeq_organism>
+./AF468448.xml:  <GBSeq_organism>Pseudomonas jinjuensis</GBSeq_organism>
+./AY770691.xml:  <GBSeq_organism>Pseudomonas segetis</GBSeq_organism>
+./EF424401.xml:  <GBSeq_organism>Pseudomonas panipatensis</GBSeq_organism>
+./AF039489.xml:  <GBSeq_organism>Pseudomonas knackmussii B13</GBSeq_organism>
+./EU791281.xml:  <GBSeq_organism>Pseudomonas cuatrocienegasensis</GBSeq_organism>
+./FN429930.xml:  <GBSeq_organism>Pseudomonas composti</GBSeq_organism>
+./Z76653.xml:  <GBSeq_organism>Pseudomonas alcaligenes</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>
+./M59154.xml:  <GBSeq_organism>Pseudomonas mendocina</GBSeq_organism>

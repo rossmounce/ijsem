@@ -1,0 +1,32 @@
+./X85098.xml:  <GBSeq_organism>Ruminococcus albus</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./X66002.xml:  <GBSeq_organism>[Clostridium] sporosphaeroides</GBSeq_organism>
+./Y18181.xml:  <GBSeq_organism>[Clostridium] methylpentosum DSM 5476</GBSeq_organism>
+./X85099.xml:  <GBSeq_organism>Ruminococcus bromii</GBSeq_organism>
+./X95624.xml:  <GBSeq_organism>Blautia hydrogenotrophica</GBSeq_organism>
+./L76604.xml:  <GBSeq_organism>Ruminococcus torques ATCC 27756</GBSeq_organism>
+./EF036467.xml:  <GBSeq_organism>Blautia wexlerae DSM 19850</GBSeq_organism>
+./AJ270487.xml:  <GBSeq_organism>Anaerostipes caccae</GBSeq_organism>
+./X89970.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X87151.xml:  <GBSeq_organism>Catonella morbi ATCC 51271</GBSeq_organism>
+./L34618.xml:  <GBSeq_organism>Eubacterium desmolans</GBSeq_organism>
+./AJ518869.xml:  <GBSeq_organism>Subdoligranulum variabile</GBSeq_organism>
+./X94967.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>
+./AJ132842.xml:  <GBSeq_organism>Dorea longicatena</GBSeq_organism>
+./X85097.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./X85100.xml:  <GBSeq_organism>Ruminococcus callidus</GBSeq_organism>
+./X87152.xml:  <GBSeq_organism>Johnsonella ignava ATCC 51276</GBSeq_organism>
+./L34625.xml:  <GBSeq_organism>[Eubacterium] siraeum</GBSeq_organism>
+./AB038359.xml:  <GBSeq_organism>Coprococcus catus</GBSeq_organism>
+./AJ318527.xml:  <GBSeq_organism>Marvinbryantia formatexigens DSM 14469</GBSeq_organism>
+./X97852.xml:  <GBSeq_organism>Anaerofilum pentosovorans</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./Y18187.xml:  <GBSeq_organism>Flavonifractor plautii DSM 6740</GBSeq_organism>
+./X94964.xml:  <GBSeq_organism>Blautia schinkii</GBSeq_organism>
+./EF529620.xml:  <GBSeq_organism>Ruminococcus gauvreauii</GBSeq_organism>
+./X81125.xml:  <GBSeq_organism>[Clostridium] viride</GBSeq_organism>
+./L76602.xml:  <GBSeq_organism>Ruminococcus lactaris ATCC 29176</GBSeq_organism>
+./X94966.xml:  <GBSeq_organism>Blautia producta ATCC 27340 = DSM 2950</GBSeq_organism>
+./AF298663.xml:  <GBSeq_organism>Lachnobacterium bovis</GBSeq_organism>
+./AJ413954.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>
+./L34615.xml:  <GBSeq_organism>[Eubacterium] contortum</GBSeq_organism>

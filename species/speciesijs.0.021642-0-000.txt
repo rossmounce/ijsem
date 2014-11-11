@@ -1,0 +1,8 @@
+./AF008932.xml:  <GBSeq_organism>DNA-binding vector pODB80</GBSeq_organism>
+./AF432856.xml:  <GBSeq_organism>Streptococcus sinensis</GBSeq_organism>
+./AY485604.xml:  <GBSeq_organism>Streptococcus australis ATCC 700641</GBSeq_organism>
+./AF003929.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./AY584476.xml:  <GBSeq_organism>Streptococcus cristatus ATCC 51100</GBSeq_organism>
+./AY485606.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./EU156785.xml:  <GBSeq_organism>Streptococcus pseudopneumoniae ATCC BAA-960</GBSeq_organism>
+./GU045364.xml:  <GBSeq_organism>Streptococcus lactarius</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AJ244024.xml:  <GBSeq_organism>Nicotiana tabacum</GBSeq_organism>
+./U25547.xml:  <GBSeq_organism>Glycine max</GBSeq_organism>
+./L36939.xml:  <GBSeq_organism>Arabidopsis thaliana</GBSeq_organism>
+./AY146409.xml:  <GBSeq_organism>Cephaleuros virescens</GBSeq_organism>
+./AY146407.xml:  <GBSeq_organism>Bazzania trilobata</GBSeq_organism>
+./AY146408.xml:  <GBSeq_organism>Cephaleuros virescens</GBSeq_organism>
+./U36430.xml:  <GBSeq_organism>Glycine max</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AF288157.xml:  <GBSeq_organism>Marinobacter lutaoensis</GBSeq_organism>
+./AJ001150.xml:  <GBSeq_organism>Alcanivorax jadensis T9</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./AF195410.xml:  <GBSeq_organism>Hahella chejuensis KCTC 2396</GBSeq_organism>
+./AJ609271.xml:  <GBSeq_organism>Marinobacter bryozoorum</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY130994.xml:  <GBSeq_organism>Zooshikella ganghwensis</GBSeq_organism>
+./AJ609270.xml:  <GBSeq_organism>Marinobacter sediminum</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AJ439500.xml:  <GBSeq_organism>Marinobacter squalenivorans</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

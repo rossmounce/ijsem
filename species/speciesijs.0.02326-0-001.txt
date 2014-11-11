@@ -1,0 +1,10 @@
+./AF094749.xml:  <GBSeq_organism>Pseudomonas syringae</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF468452.xml:  <GBSeq_organism>Pseudomonas koreensis</GBSeq_organism>
+./AF468448.xml:  <GBSeq_organism>Pseudomonas jinjuensis</GBSeq_organism>
+./AF468450.xml:  <GBSeq_organism>Pseudomonas umsongensis</GBSeq_organism>
+./AF468453.xml:  <GBSeq_organism>Pseudomonas umsongensis</GBSeq_organism>
+./AF468449.xml:  <GBSeq_organism>Pseudomonas jinjuensis</GBSeq_organism>
+./D84020.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AF468451.xml:  <GBSeq_organism>Pseudomonas koreensis</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>

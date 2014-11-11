@@ -1,0 +1,5 @@
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./CP000230.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AY043374.xml:  <GBSeq_organism>Inquilinus limosus</GBSeq_organism>
+./M59065.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./X90760.xml:  <GBSeq_organism>Skermanella parooensis</GBSeq_organism>

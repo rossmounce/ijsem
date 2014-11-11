@@ -1,0 +1,13 @@
+./AY158079.xml:  <GBSeq_organism>Tepidibacter thalassicus</GBSeq_organism>
+./Y15626.xml:  <GBSeq_organism>Tindallia magadiensis</GBSeq_organism>
+./AF522323.xml:  <GBSeq_organism>Anoxynatronum sibiricum</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY245527.xml:  <GBSeq_organism>Tepidibacter formicigenes</GBSeq_organism>
+./AF467248.xml:  <GBSeq_organism>Alkaliphilus crotonatoxidans</GBSeq_organism>
+./EU627628.xml:  <GBSeq_organism>Alkaliphilus halophilus</GBSeq_organism>
+./Y18183.xml:  <GBSeq_organism>Clostridium aceticum</GBSeq_organism>
+./EF382661.xml:  <GBSeq_organism>Natronincola peptidivorans DSM 18979</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./EF382660.xml:  <GBSeq_organism>Alkaliphilus peptidifermentans</GBSeq_organism>
+./X77851.xml:  <GBSeq_organism>Clostridium felsineum</GBSeq_organism>
+./AY682207.xml:  <GBSeq_organism>Sporacetigenium mesophilum</GBSeq_organism>

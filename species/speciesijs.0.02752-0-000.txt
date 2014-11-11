@@ -1,0 +1,12 @@
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./X90704.xml:  <GBSeq_organism>bacterium IFAM-2074</GBSeq_organism>
+./AF361196.xml:  <GBSeq_organism>uncultured Cytophagales bacterium</GBSeq_organism>
+./AF275712.xml:  <GBSeq_organism>unidentified Hailaer soda lake bacterium Z3</GBSeq_organism>
+./X90701.xml:  <GBSeq_organism>bacterium IFAM-3211</GBSeq_organism>
+./AB078072.xml:  <GBSeq_organism>Marivirga tractuosa DSM 4126</GBSeq_organism>
+./AJ564642.xml:  <GBSeq_organism>Belliella baltica</GBSeq_organism>
+./AJ431335.xml:  <GBSeq_organism>CFB group bacterium ikaite c9</GBSeq_organism>
+./AF445684.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./U85891.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AY133105.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>

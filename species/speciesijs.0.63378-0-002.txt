@@ -1,0 +1,14 @@
+./AJ271794.xml:  <GBSeq_organism>Ignicoccus pacificus DSM 13166</GBSeq_organism>
+./X99556.xml:  <GBSeq_organism>Thermosphaera aggregans DSM 11486</GBSeq_organism>
+./Y07963.xml:  <GBSeq_organism>Staphylothermus marinus</GBSeq_organism>
+./X98064.xml:  <GBSeq_organism>Sulfophobococcus zilligii</GBSeq_organism>
+./AF250331.xml:  <GBSeq_organism>Desulfurococcus amylolyticus Z-533</GBSeq_organism>
+./X99560.xml:  <GBSeq_organism>Staphylothermus marinus F1</GBSeq_organism>
+./M36474.xml:  <GBSeq_organism>Desulfurococcus mobilis</GBSeq_organism>
+./AY196675.xml:  <GBSeq_organism>Methanococcus vannielii</GBSeq_organism>
+./AB109559.xml:  <GBSeq_organism>Aeropyrum camini SY1 = JCM 12091</GBSeq_organism>
+./AF191225.xml:  <GBSeq_organism>Acidilobus aceticus</GBSeq_organism>
+./X99562.xml:  <GBSeq_organism>Ignicoccus islandicus DSM 13165</GBSeq_organism>
+./AY264344.xml:  <GBSeq_organism>Desulfurococcus fermentans DSM 16532</GBSeq_organism>
+./X99554.xml:  <GBSeq_organism>Thermodiscus maritimus</GBSeq_organism>
+./X99558.xml:  <GBSeq_organism>Desulfurococcus saccharovorans</GBSeq_organism>

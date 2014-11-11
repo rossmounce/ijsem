@@ -1,0 +1,19 @@
+./U60014.xml:  <GBSeq_organism>Prosthecobacter debontii</GBSeq_organism>
+./AY297806.xml:  <GBSeq_organism>Verrucomicrobiae bacterium pACH90</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY587232.xml:  <GBSeq_organism>Diplosphaera colitermitum TAV2</GBSeq_organism>
+./U60012.xml:  <GBSeq_organism>Prosthecobacter dejongeii</GBSeq_organism>
+./AY388649.xml:  <GBSeq_organism>Chthoniobacter flavus Ellin428</GBSeq_organism>
+./U60013.xml:  <GBSeq_organism>Prosthecobacter vanneervenii</GBSeq_organism>
+./AY587231.xml:  <GBSeq_organism>Opitutaceae bacterium TAV1</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./X99392.xml:  <GBSeq_organism>Opitutus sp. VeSm13</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./AF075271.xml:  <GBSeq_organism>Alterococcus agarolyticus</GBSeq_organism>
+./X99390.xml:  <GBSeq_organism>Opitutus sp. VeGlc2</GBSeq_organism>
+./AJ229235.xml:  <GBSeq_organism>Opitutus terrae PB90-1</GBSeq_organism>
+./AY587233.xml:  <GBSeq_organism>Opitutaceae bacterium TAV3</GBSeq_organism>
+./AY587234.xml:  <GBSeq_organism>Opitutaceae bacterium TAV4</GBSeq_organism>
+./Y19169.xml:  <GBSeq_organism>Epixenosomes of Euplotidium arenarium</GBSeq_organism>
+./X99391.xml:  <GBSeq_organism>Opitutus sp. VeCb1</GBSeq_organism>
+./AY695840.xml:  <GBSeq_organism>Opitutus sp. SA-9</GBSeq_organism>

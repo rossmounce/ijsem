@@ -1,0 +1,26 @@
+./AY966000.xml:  <GBSeq_organism>Massilia plicata</GBSeq_organism>
+./X65590.xml:  <GBSeq_organism>Telluria chitinolytica</GBSeq_organism>
+./FJ969487.xml:  <GBSeq_organism>Massilia suwonensis</GBSeq_organism>
+./Y08845.xml:  <GBSeq_organism>Janthinobacterium agaricidamnosum</GBSeq_organism>
+./AY376163.xml:  <GBSeq_organism>Pseudoduganella violaceinigra</GBSeq_organism>
+./AY676462.xml:  <GBSeq_organism>Herminiimonas fonticola</GBSeq_organism>
+./AM231588.xml:  <GBSeq_organism>Massilia aurea</GBSeq_organism>
+./FN814307.xml:  <GBSeq_organism>Massilia consociata</GBSeq_organism>
+./AM085762.xml:  <GBSeq_organism>Herminiimonas aquatilis</GBSeq_organism>
+./EF688526.xml:  <GBSeq_organism>Massilia aerilata</GBSeq_organism>
+./EU808006.xml:  <GBSeq_organism>Massilia niabensis</GBSeq_organism>
+./EU808005.xml:  <GBSeq_organism>Massilia niastensis</GBSeq_organism>
+./AY965999.xml:  <GBSeq_organism>Massilia albidiflava</GBSeq_organism>
+./AM397630.xml:  <GBSeq_organism>Undibacterium pigrum</GBSeq_organism>
+./X92555.xml:  <GBSeq_organism>Paucimonas lemoignei</GBSeq_organism>
+./FJ969486.xml:  <GBSeq_organism>Massilia jejuensis</GBSeq_organism>
+./EF546777.xml:  <GBSeq_organism>Massilia brevitalea</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./U54470.xml:  <GBSeq_organism>Massilia timonae</GBSeq_organism>
+./Y08846.xml:  <GBSeq_organism>Janthinobacterium lividum</GBSeq_organism>
+./AY966001.xml:  <GBSeq_organism>Massilia lutea</GBSeq_organism>
+./AM493906.xml:  <GBSeq_organism>Herminiimonas saxobsidens</GBSeq_organism>
+./AM774589.xml:  <GBSeq_organism>Massilia haematophila</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AY965998.xml:  <GBSeq_organism>Massilia dura</GBSeq_organism>
+./AM774587.xml:  <GBSeq_organism>Massilia varians</GBSeq_organism>

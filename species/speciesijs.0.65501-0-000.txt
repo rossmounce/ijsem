@@ -1,0 +1,19 @@
+./AB183749.xml:  <GBSeq_organism>Moritella sp. 56A1</GBSeq_organism>
+./AB183494.xml:  <GBSeq_organism>Moritella sp. 36A1</GBSeq_organism>
+./AB183505.xml:  <GBSeq_organism>Moritella sp. 47B1</GBSeq_organism>
+./AF001375.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AY380781.xml:  <GBSeq_organism>Moritella viscosa</GBSeq_organism>
+./AB183506.xml:  <GBSeq_organism>Moritella sp. T4702</GBSeq_organism>
+./AJ000213.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AJ311964.xml:  <GBSeq_organism>Shewanella denitrificans OS217</GBSeq_organism>
+./EF192283.xml:  <GBSeq_organism>Moritella dasanensis ArB 0140</GBSeq_organism>
+./U85843.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AB183507.xml:  <GBSeq_organism>Moritella sp. T4708</GBSeq_organism>
+./EF101729.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY771749.xml:  <GBSeq_organism>Colwellia piezophila</GBSeq_organism>
+./D21224.xml:  <GBSeq_organism>Moritella japonica</GBSeq_organism>
+./AJ297540.xml:  <GBSeq_organism>Moritella marina</GBSeq_organism>
+./AJ132226.xml:  <GBSeq_organism>Moritella viscosa</GBSeq_organism>
+./U85847.xml:  <GBSeq_organism>Colwellia hornerae</GBSeq_organism>
+./AB183491.xml:  <GBSeq_organism>Moritella sp. 16H2</GBSeq_organism>
+./DQ055844.xml:  <GBSeq_organism>Colwellia aestuarii</GBSeq_organism>

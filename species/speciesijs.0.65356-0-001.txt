@@ -1,0 +1,36 @@
+./AM712081.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./DQ865281.xml:  <GBSeq_organism>Brucella sp. 02611</GBSeq_organism>
+./AM712080.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./U26439.xml:  <GBSeq_organism>Brucella canis</GBSeq_organism>
+./AB128348.xml:  <GBSeq_organism>Oryza glumipatula</GBSeq_organism>
+./EF534310.xml:  <GBSeq_organism>Brucella ovis</GBSeq_organism>
+./AF300816.xml:  <GBSeq_organism>Brucella ceti</GBSeq_organism>
+./AF300815.xml:  <GBSeq_organism>Brucella ceti</GBSeq_organism>
+./AM712079.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AM712086.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AM712083.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AF300817.xml:  <GBSeq_organism>Brucella ceti</GBSeq_organism>
+./AF268034.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AB126348.xml:  <GBSeq_organism>Brucella sp. JM13/00</GBSeq_organism>
+./AF300820.xml:  <GBSeq_organism>Brucella sp. 7763/2</GBSeq_organism>
+./AM712084.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./U26441.xml:  <GBSeq_organism>Brucella neotomae</GBSeq_organism>
+./AM712088.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./AM712077.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AF300821.xml:  <GBSeq_organism>Brucella sp. 7763/2</GBSeq_organism>
+./U26443.xml:  <GBSeq_organism>Brucella suis 1330</GBSeq_organism>
+./AF300819.xml:  <GBSeq_organism>Brucella pinnipedialis</GBSeq_organism>
+./AF300818.xml:  <GBSeq_organism>Brucella pinnipedialis</GBSeq_organism>
+./U26442.xml:  <GBSeq_organism>Brucella ovis</GBSeq_organism>
+./U26438.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AF300814.xml:  <GBSeq_organism>Brucella ceti</GBSeq_organism>
+./AM712085.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AM712082.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AY008719.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AY008721.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AM712087.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./U26440.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./AF268035.xml:  <GBSeq_organism>Brucella ovis</GBSeq_organism>
+./DQ861301.xml:  <GBSeq_organism>Brucella ovis</GBSeq_organism>
+./AM712078.xml:  <GBSeq_organism>Brucella suis</GBSeq_organism>
+./AY003721.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

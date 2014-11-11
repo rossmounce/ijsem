@@ -1,0 +1,15 @@
+./AY839869.xml:  <GBSeq_organism>Marinimicrobium koreense</GBSeq_organism>
+./FN398053.xml:  <GBSeq_organism>Haliea mediterranea</GBSeq_organism>
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AY576769.xml:  <GBSeq_organism>Haliea salexigens DSM 19537</GBSeq_organism>
+./AF500006.xml:  <GBSeq_organism>Microbulbifer elongatus</GBSeq_organism>
+./AY771747.xml:  <GBSeq_organism>Dasania marina DSM 21967</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AB158515.xml:  <GBSeq_organism>Microbulbifer agarilyticus</GBSeq_organism>
+./EF486352.xml:  <GBSeq_organism>Microbulbifer celer</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AY576729.xml:  <GBSeq_organism>Melitea salexigens</GBSeq_organism>
+./AF055269.xml:  <GBSeq_organism>Saccharophagus degradans 2-40</GBSeq_organism>
+./EF674853.xml:  <GBSeq_organism>Microbulbifer halophilus</GBSeq_organism>
+./AY839870.xml:  <GBSeq_organism>Marinimicrobium agarilyticum</GBSeq_organism>

@@ -1,0 +1,29 @@
+./Y11552.xml:  <GBSeq_organism>Antarctobacter heliothermus</GBSeq_organism>
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AJ582226.xml:  <GBSeq_organism>Loktanella vestfoldensis</GBSeq_organism>
+./AF114484.xml:  <GBSeq_organism>Roseovarius crassostreae</GBSeq_organism>
+./D85836.xml:  <GBSeq_organism>Roseibium hamelinense</GBSeq_organism>
+./AF098495.xml:  <GBSeq_organism>Roseovarius nubinhibens ISM</GBSeq_organism>
+./U14583.xml:  <GBSeq_organism>Octadecabacter antarcticus 307</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./Y17387.xml:  <GBSeq_organism>Sulfitobacter mediterraneus</GBSeq_organism>
+./AJ582225.xml:  <GBSeq_organism>Loktanella fryxellensis</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./D16421.xml:  <GBSeq_organism>Rhodobacter veldkampii DSM 11550</GBSeq_organism>
+./AF136850.xml:  <GBSeq_organism>Ketogulonicigenium robustum</GBSeq_organism>
+./AJ534215.xml:  <GBSeq_organism>Roseovarius mucosus DSM 17069</GBSeq_organism>
+./DQ120726.xml:  <GBSeq_organism>Roseovarius pacificus</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./AJ605747.xml:  <GBSeq_organism>Roseisalinus antarcticus</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>

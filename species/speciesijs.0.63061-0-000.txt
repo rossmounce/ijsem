@@ -1,0 +1,6 @@
+./AB162792.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./AB108775.xml:  <GBSeq_organism>Nocardia shimofusensis</GBSeq_organism>
+./AB108776.xml:  <GBSeq_organism>Nocardia shimofusensis</GBSeq_organism>
+./AB162793.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./AB108778.xml:  <GBSeq_organism>Nocardia higoensis NBRC 100133</GBSeq_organism>
+./AB108777.xml:  <GBSeq_organism>Nocardia shimofusensis</GBSeq_organism>

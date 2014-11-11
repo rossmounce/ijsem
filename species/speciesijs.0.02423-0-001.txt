@@ -1,0 +1,15 @@
+./AJ233412.xml:  <GBSeq_organism>Dickeya chrysanthemi</GBSeq_organism>
+./U80198.xml:  <GBSeq_organism>Pectobacterium betavasculorum</GBSeq_organism>
+./U80207.xml:  <GBSeq_organism>Brenneria rubrifaciens</GBSeq_organism>
+./AJ223409.xml:  <GBSeq_organism>Pectobacterium cacticida</GBSeq_organism>
+./U80200.xml:  <GBSeq_organism>Dickeya chrysanthemi</GBSeq_organism>
+./M59149.xml:  <GBSeq_organism>Pectobacterium carotovorum</GBSeq_organism>
+./AJ223407.xml:  <GBSeq_organism>Pectobacterium carotovorum subsp. odoriferum</GBSeq_organism>
+./AJ233415.xml:  <GBSeq_organism>Brenneria nigrifluens</GBSeq_organism>
+./AJ223408.xml:  <GBSeq_organism>Pectobacterium wasabiae CFBP 3304</GBSeq_organism>
+./U80197.xml:  <GBSeq_organism>Pectobacterium carotovorum subsp. carotovorum</GBSeq_organism>
+./AJ233419.xml:  <GBSeq_organism>Brenneria salicis ATCC 15712</GBSeq_organism>
+./AF273037.xml:  <GBSeq_organism>Samsonia erythrinae</GBSeq_organism>
+./AJ233411.xml:  <GBSeq_organism>Pectobacterium carotovorum</GBSeq_organism>
+./U80199.xml:  <GBSeq_organism>Pectobacterium wasabiae CFBP 3304</GBSeq_organism>
+./AJ233409.xml:  <GBSeq_organism>Brenneria alni</GBSeq_organism>

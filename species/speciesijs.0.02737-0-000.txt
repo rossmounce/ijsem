@@ -1,0 +1,23 @@
+./AF001366.xml:  <GBSeq_organism>Cellulophaga algicola DSM 14237</GBSeq_organism>
+./AB100840.xml:  <GBSeq_organism>Cellulophaga pacifica</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./L14639.xml:  <GBSeq_organism>Capnocytophaga gingivalis</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AF001367.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AB100842.xml:  <GBSeq_organism>Cellulophaga pacifica</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AJ005973.xml:  <GBSeq_organism>Cellulophaga fucicola</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AJ005972.xml:  <GBSeq_organism>Cellulophaga baltica</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./M64629.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>

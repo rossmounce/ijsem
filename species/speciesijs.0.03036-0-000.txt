@@ -1,0 +1,12 @@
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./X87757.xml:  <GBSeq_organism>Dermacoccus nishinomiyaensis</GBSeq_organism>
+./AJ243421.xml:  <GBSeq_organism>Arthrobacter albus</GBSeq_organism>
+./X76567.xml:  <GBSeq_organism>Brevibacterium iodinum</GBSeq_organism>
+./AY382898.xml:  <GBSeq_organism>Serinicoccus marinus</GBSeq_organism>
+./Y14152.xml:  <GBSeq_organism>Demetria terragena</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X93354.xml:  <GBSeq_organism>Arthrobacter cumminsii</GBSeq_organism>
+./AJ277650.xml:  <GBSeq_organism>Ornithinimicrobium humiphilum</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./L40615.xml:  <GBSeq_organism>Dermatophilus congolensis</GBSeq_organism>

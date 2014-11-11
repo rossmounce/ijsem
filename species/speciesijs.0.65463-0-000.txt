@@ -1,0 +1,21 @@
+./AY819996.xml:  <GBSeq_organism>Aspergillus sclerotioniger</GBSeq_organism>
+./AY585531.xml:  <GBSeq_organism>Aspergillus vadensis</GBSeq_organism>
+./AY820014.xml:  <GBSeq_organism>Aspergillus costaricensis</GBSeq_organism>
+./AY585529.xml:  <GBSeq_organism>Aspergillus heteromorphus</GBSeq_organism>
+./AY585538.xml:  <GBSeq_organism>Aspergillus aculeatus</GBSeq_organism>
+./AY819998.xml:  <GBSeq_organism>Aspergillus lacticoffeatus</GBSeq_organism>
+./AM745753.xml:  <GBSeq_organism>Aspergillus uvarum</GBSeq_organism>
+./AY820007.xml:  <GBSeq_organism>Aspergillus tubingensis</GBSeq_organism>
+./AM745752.xml:  <GBSeq_organism>Aspergillus uvarum</GBSeq_organism>
+./AY585532.xml:  <GBSeq_organism>Aspergillus carbonarius</GBSeq_organism>
+./AY585542.xml:  <GBSeq_organism>Aspergillus japonicus</GBSeq_organism>
+./AY819992.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./AM745750.xml:  <GBSeq_organism>Aspergillus uvarum</GBSeq_organism>
+./AM745751.xml:  <GBSeq_organism>Aspergillus uvarum</GBSeq_organism>
+./AY585539.xml:  <GBSeq_organism>Aspergillus aculeatus</GBSeq_organism>
+./AY585536.xml:  <GBSeq_organism>Aspergillus niger</GBSeq_organism>
+./AY585540.xml:  <GBSeq_organism>Aspergillus aculeatus</GBSeq_organism>
+./AY820015.xml:  <GBSeq_organism>Aspergillus homomorphus</GBSeq_organism>
+./AY585530.xml:  <GBSeq_organism>Aspergillus ellipticus</GBSeq_organism>
+./AM419748.xml:  <GBSeq_organism>Aspergillus ibericus</GBSeq_organism>
+./AY585534.xml:  <GBSeq_organism>Aspergillus foetidus var. pallidus</GBSeq_organism>

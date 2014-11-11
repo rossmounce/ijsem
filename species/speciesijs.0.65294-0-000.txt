@@ -1,0 +1,23 @@
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AJ488505.xml:  <GBSeq_organism>Roseomonas rosea</GBSeq_organism>
+./AB013354.xml:  <GBSeq_organism>Erythrobacter litoralis</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./AF465832.xml:  <GBSeq_organism>Rubritepida flocculans</GBSeq_organism>
+./EF519867.xml:  <GBSeq_organism>Elioraea tepidiphila DSM 17972</GBSeq_organism>
+./X87278.xml:  <GBSeq_organism>Rhodospirillum rubrum</GBSeq_organism>
+./AJ227814.xml:  <GBSeq_organism>Hyphomonas jannaschiana</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./D32227.xml:  <GBSeq_organism>Methylobacterium radiotolerans JCM 2831</GBSeq_organism>
+./AJ227778.xml:  <GBSeq_organism>Brevundimonas diminuta ATCC 11568</GBSeq_organism>
+./AY820713.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./D30790.xml:  <GBSeq_organism>Afifella marina</GBSeq_organism>
+./Y10110.xml:  <GBSeq_organism>Magnetospirillum magnetotacticum</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./D86512.xml:  <GBSeq_organism>Acidisphaera rubrifaciens</GBSeq_organism>
+./M59072.xml:  <GBSeq_organism>Rhodovibrio sodomensis</GBSeq_organism>
+./D30774.xml:  <GBSeq_organism>Acidocella facilis</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

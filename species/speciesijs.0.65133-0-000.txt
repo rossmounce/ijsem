@@ -1,0 +1,26 @@
+./EF204591.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./AF264783.xml:  <GBSeq_organism>Helicobacter muricola</GBSeq_organism>
+./AF302107.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./U46129.xml:  <GBSeq_organism>Helicobacter cholecystus</GBSeq_organism>
+./AF506784.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF262037.xml:  <GBSeq_organism>Helicobacter canadensis</GBSeq_organism>
+./M57398.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AF302106.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AY686609.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./EF070342.xml:  <GBSeq_organism>Helicobacter baculiformis</GBSeq_organism>
+./AF506772.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF506780.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./EF204589.xml:  <GBSeq_organism>Helicobacter suis HS1</GBSeq_organism>
+./AF363064.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./EF204590.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./AF506792.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF302105.xml:  <GBSeq_organism>Helicobacter pametensis</GBSeq_organism>
+./AF506782.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./U89351.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AF506769.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF127028.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./L13464.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./U18766.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF506787.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AJ876518.xml:  <GBSeq_organism>Helicobacter pullorum NCTC 12824</GBSeq_organism>

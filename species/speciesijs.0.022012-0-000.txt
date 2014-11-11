@@ -1,0 +1,12 @@
+./EF166076.xml:  <GBSeq_organism>Rhodanobacter terrae</GBSeq_organism>
+./AM087226.xml:  <GBSeq_organism>Rhodanobacter spathiphylli B39</GBSeq_organism>
+./EF397574.xml:  <GBSeq_organism>Dyella thiooxydans</GBSeq_organism>
+./AB100608.xml:  <GBSeq_organism>Rhodanobacter fulvus Jip2</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./EF166075.xml:  <GBSeq_organism>Rhodanobacter ginsengisoli</GBSeq_organism>
+./AJ580498.xml:  <GBSeq_organism>Luteibacter rhizovicinus</GBSeq_organism>
+./AJ010481.xml:  <GBSeq_organism>Frateuria aurantia DSM 6220</GBSeq_organism>
+./EU604272.xml:  <GBSeq_organism>Dyella soli</GBSeq_organism>
+./AY884571.xml:  <GBSeq_organism>Dyella koreensis</GBSeq_organism>
+./FM212561.xml:  <GBSeq_organism>Luteibacter anthropi</GBSeq_organism>
+./EU332826.xml:  <GBSeq_organism>Rhodanobacter ginsenosidimutans</GBSeq_organism>

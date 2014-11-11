@@ -1,0 +1,7 @@
+./X87110.xml:  <GBSeq_organism>Kineosporia aurantiaca JCM 3230</GBSeq_organism>
+./AJ871304.xml:  <GBSeq_organism>Modestobacter versicolor</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./L40620.xml:  <GBSeq_organism>Geodermatophilus obscurus</GBSeq_organism>
+./Y08541.xml:  <GBSeq_organism>Nakamurella multipartita DSM 44233</GBSeq_organism>
+./AJ316572.xml:  <GBSeq_organism>Blastococcus saxobsidens</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>

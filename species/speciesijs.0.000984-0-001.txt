@@ -1,0 +1,12 @@
+./AF214788.xml:  <GBSeq_organism>Arthrobacter histidinolovorans</GBSeq_organism>
+./AF214781.xml:  <GBSeq_organism>Arthrobacter citreus</GBSeq_organism>
+./AF214786.xml:  <GBSeq_organism>Arthrobacter pascens</GBSeq_organism>
+./AF214793.xml:  <GBSeq_organism>Arthrobacter aurescens</GBSeq_organism>
+./AF214792.xml:  <GBSeq_organism>Arthrobacter nicotianae</GBSeq_organism>
+./AF214787.xml:  <GBSeq_organism>Arthrobacter sulfureus</GBSeq_organism>
+./AM931439.xml:  <GBSeq_organism>Arthrobacter phenanthrenivorans Sphe3</GBSeq_organism>
+./AF214782.xml:  <GBSeq_organism>Arthrobacter ureafaciens</GBSeq_organism>
+./AF214789.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./AF214780.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AY859691.xml:  <GBSeq_organism>Mycobacterium moriokaense</GBSeq_organism>
+./AF214785.xml:  <GBSeq_organism>Arthrobacter polychromogenes</GBSeq_organism>

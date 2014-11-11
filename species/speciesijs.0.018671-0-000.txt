@@ -1,0 +1,8 @@
+./AB435649.xml:  <GBSeq_organism>Oleibacter marinus</GBSeq_organism>
+./AF353239.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AJ302699.xml:  <GBSeq_organism>Oceanospirillum sp. ME101</GBSeq_organism>
+./AB435650.xml:  <GBSeq_organism>Oleibacter marinus</GBSeq_organism>
+./AY136131.xml:  <GBSeq_organism>Bermanella marisrubri</GBSeq_organism>
+./AB435651.xml:  <GBSeq_organism>Oleibacter marinus</GBSeq_organism>
+./AF382127.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

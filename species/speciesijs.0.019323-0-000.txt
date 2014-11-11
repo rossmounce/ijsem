@@ -1,0 +1,21 @@
+./AF360736.xml:  <GBSeq_organism>Fructobacillus ficulneus</GBSeq_organism>
+./AF360737.xml:  <GBSeq_organism>Fructobacillus fructosus KCTC 3544</GBSeq_organism>
+./X52570.xml:  <GBSeq_organism>Weissella kandleri</GBSeq_organism>
+./AJ831548.xml:  <GBSeq_organism>Oenococcus oeni</GBSeq_organism>
+./FM179678.xml:  <GBSeq_organism>Weissella fabaria</GBSeq_organism>
+./X95979.xml:  <GBSeq_organism>Leuconostoc pseudomesenteroides</GBSeq_organism>
+./AJ780981.xml:  <GBSeq_organism>Fructobacillus durionis</GBSeq_organism>
+./AM882997.xml:  <GBSeq_organism>Weissella ghanensis</GBSeq_organism>
+./AF175402.xml:  <GBSeq_organism>Leuconostoc gelidum KCTC 3527</GBSeq_organism>
+./AY035892.xml:  <GBSeq_organism>Weissella koreensis</GBSeq_organism>
+./AF173986.xml:  <GBSeq_organism>Leuconostoc kimchii</GBSeq_organism>
+./AB023838.xml:  <GBSeq_organism>Weissella thailandensis</GBSeq_organism>
+./AM600682.xml:  <GBSeq_organism>Leuconostoc holzapfelii</GBSeq_organism>
+./X95982.xml:  <GBSeq_organism>Weissella paramesenteroides</GBSeq_organism>
+./AB023240.xml:  <GBSeq_organism>Weissella hellenica</GBSeq_organism>
+./AF231131.xml:  <GBSeq_organism>Leuconostoc gasicomitatum LMG 18811</GBSeq_organism>
+./AF439560.xml:  <GBSeq_organism>Leuconostoc inhae KCTC 3774</GBSeq_organism>
+./AB221475.xml:  <GBSeq_organism>Oenococcus kitaharae DSM 17330</GBSeq_organism>
+./X95978.xml:  <GBSeq_organism>Leuconostoc mesenteroides</GBSeq_organism>
+./AY169967.xml:  <GBSeq_organism>Fructobacillus pseudoficulneus</GBSeq_organism>
+./AF360738.xml:  <GBSeq_organism>Leuconostoc fallax KCTC 3537</GBSeq_organism>

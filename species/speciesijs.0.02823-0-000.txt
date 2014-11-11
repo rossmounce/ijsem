@@ -1,0 +1,25 @@
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./Y11933.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AJ542542.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./X76425.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X76426.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AJ542545.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./U18747.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./X68374.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./X68375.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./U15442.xml:  <GBSeq_organism>Candidatus Phytoplasma aurantifolia</GBSeq_organism>
+./X76432.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X95706.xml:  <GBSeq_organism>Mycoplasma sp.</GBSeq_organism>
+./AJ542544.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./Y16394.xml:  <GBSeq_organism>Peach yellow leafroll phytoplasma</GBSeq_organism>
+./Y10096.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AY029540.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./X68376.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./Y16392.xml:  <GBSeq_organism>Candidatus Phytoplasma pyri</GBSeq_organism>
+./AF515637.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./AJ542543.xml:  <GBSeq_organism>Candidatus Phytoplasma pyri</GBSeq_organism>

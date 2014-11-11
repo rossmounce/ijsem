@@ -1,0 +1,5 @@
+./DQ156908.xml:  <GBSeq_organism>Agrococcus lahaulensis</GBSeq_organism>
+./AJ012826.xml:  <GBSeq_organism>Agrococcus citreus</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./AJ309928.xml:  <GBSeq_organism>Agrococcus baldri</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>

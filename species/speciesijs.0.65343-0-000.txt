@@ -1,0 +1,21 @@
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./FJ360439.xml:  <GBSeq_organism>Thermoanaerobacter uzonensis</GBSeq_organism>
+./L09166.xml:  <GBSeq_organism>Thermoanaerobacter brockii subsp. finnii</GBSeq_organism>
+./L09167.xml:  <GBSeq_organism>Thermoanaerobacter thermocopriae JCM 7501</GBSeq_organism>
+./L09164.xml:  <GBSeq_organism>Thermoanaerobacter pseudethanolicus ATCC 33223</GBSeq_organism>
+./Y16940.xml:  <GBSeq_organism>Thermoanaerobacter sulfurophilus</GBSeq_organism>
+./AF120479.xml:  <GBSeq_organism>Thermoanaerobacter siderophilus SR4</GBSeq_organism>
+./FJ360438.xml:  <GBSeq_organism>Thermoanaerobacter uzonensis</GBSeq_organism>
+./X92513.xml:  <GBSeq_organism>Thermoanaerobacter wiegelii Rt8.B1</GBSeq_organism>
+./L09160.xml:  <GBSeq_organism>Thermoanaerobacter kivui</GBSeq_organism>
+./L09165.xml:  <GBSeq_organism>Thermoanaerobacter brockii</GBSeq_organism>
+./U14330.xml:  <GBSeq_organism>Thermoanaerobacter brockii subsp. lactiethylicus</GBSeq_organism>
+./EF530067.xml:  <GBSeq_organism>Thermoanaerobacter uzonensis</GBSeq_organism>
+./X69336.xml:  <GBSeq_organism>Thermoanaerobacter acetoethylicus</GBSeq_organism>
+./L09161.xml:  <GBSeq_organism>Thermoanaerobacter thermohydrosulfuricus</GBSeq_organism>
+./AF195797.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./AJ250846.xml:  <GBSeq_organism>Thermoanaerobacter italicus Ab9</GBSeq_organism>
+./FJ360437.xml:  <GBSeq_organism>Thermoanaerobacter uzonensis</GBSeq_organism>
+./AF234164.xml:  <GBSeq_organism>Thermoanaerobacter sulfurigignens</GBSeq_organism>
+./Y18182.xml:  <GBSeq_organism>Clostridium uzonii</GBSeq_organism>
+./L09162.xml:  <GBSeq_organism>Thermoanaerobacter ethanolicus</GBSeq_organism>

@@ -1,0 +1,8 @@
+./L40614.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./X92357.xml:  <GBSeq_organism>Geodermatophilus obscurus subsp. utahensis</GBSeq_organism>
+./AJ871304.xml:  <GBSeq_organism>Modestobacter versicolor</GBSeq_organism>
+./X92355.xml:  <GBSeq_organism>Geodermatophilus obscurus subsp. dictyosporus</GBSeq_organism>
+./Y18646.xml:  <GBSeq_organism>Modestobacter multiseptatus</GBSeq_organism>
+./CT573213.xml:  <GBSeq_organism>Frankia alni ACN14a</GBSeq_organism>
+./EU438905.xml:  <GBSeq_organism>Geodermatophilus ruber</GBSeq_organism>
+./EU181225.xml:  <GBSeq_organism>Modestobacter marinus</GBSeq_organism>

@@ -1,0 +1,8 @@
+./AF017727.xml:  <GBSeq_organism>Saturnispora sp. NRRL Y-11516</GBSeq_organism>
+./U94935.xml:  <GBSeq_organism>Saturnispora ahearnii</GBSeq_organism>
+./U94937.xml:  <GBSeq_organism>Saturnispora dispora</GBSeq_organism>
+./U94932.xml:  <GBSeq_organism>Saturnispora saitoi</GBSeq_organism>
+./U71064.xml:  <GBSeq_organism>Candida diversa</GBSeq_organism>
+./U71065.xml:  <GBSeq_organism>Candida silvae</GBSeq_organism>
+./U94933.xml:  <GBSeq_organism>Saturnispora zaruensis</GBSeq_organism>
+./AY762363.xml:  <GBSeq_organism>Saturnispora hagleri</GBSeq_organism>

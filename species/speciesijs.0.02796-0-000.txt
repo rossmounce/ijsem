@@ -1,0 +1,16 @@
+./AF293375.xml:  <GBSeq_organism>Methylobacterium extorquens</GBSeq_organism>
+./AJ250801.xml:  <GBSeq_organism>Methylobacterium fujisawaense</GBSeq_organism>
+./U58018.xml:  <GBSeq_organism>Methylobacterium thiocyanatum</GBSeq_organism>
+./AJ400919.xml:  <GBSeq_organism>Methylobacterium mesophilicum</GBSeq_organism>
+./AF220763.xml:  <GBSeq_organism>Methylobacterium nodulans ORS 2060</GBSeq_organism>
+./D32227.xml:  <GBSeq_organism>Methylobacterium radiotolerans JCM 2831</GBSeq_organism>
+./AF198624.xml:  <GBSeq_organism>Methylobacterium extorquens CM4</GBSeq_organism>
+./D14500.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AY251818.xml:  <GBSeq_organism>Methylobacterium populi BJ001</GBSeq_organism>
+./AY009404.xml:  <GBSeq_organism>Methylobacterium suomiense</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./D32229.xml:  <GBSeq_organism>Methylobacterium rhodinum</GBSeq_organism>
+./AY009403.xml:  <GBSeq_organism>Methylobacterium lusitanum</GBSeq_organism>
+./D32230.xml:  <GBSeq_organism>Methylobacterium zatmanii</GBSeq_organism>
+./AF227128.xml:  <GBSeq_organism>Methylobacterium extorquens DM4</GBSeq_organism>

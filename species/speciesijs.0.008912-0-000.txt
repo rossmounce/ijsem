@@ -1,0 +1,15 @@
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./X80737.xml:  <GBSeq_organism>Arthrobacter citreus</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./X80745.xml:  <GBSeq_organism>Arthrobacter protophormiae</GBSeq_organism>
+./X80739.xml:  <GBSeq_organism>Arthrobacter nicotianae</GBSeq_organism>
+./AJ243421.xml:  <GBSeq_organism>Arthrobacter albus</GBSeq_organism>
+./AJ640198.xml:  <GBSeq_organism>Arthrobacter stackebrandtii</GBSeq_organism>
+./AF102267.xml:  <GBSeq_organism>Arthrobacter chlorophenolicus</GBSeq_organism>
+./X80738.xml:  <GBSeq_organism>Arthrobacter crystallopoietes</GBSeq_organism>
+./AJ810896.xml:  <GBSeq_organism>Arthrobacter psychrochitiniphilus</GBSeq_organism>
+./X80740.xml:  <GBSeq_organism>Arthrobacter pascens</GBSeq_organism>
+./X80741.xml:  <GBSeq_organism>Arthrobacter polychromogenes</GBSeq_organism>
+./X93354.xml:  <GBSeq_organism>Arthrobacter cumminsii</GBSeq_organism>
+./Y15884.xml:  <GBSeq_organism>Arthrobacter rhombi</GBSeq_organism>
+./X80742.xml:  <GBSeq_organism>Arthrobacter sp. DSM 20546</GBSeq_organism>

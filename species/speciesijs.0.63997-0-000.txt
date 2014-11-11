@@ -1,0 +1,18 @@
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AB127980.xml:  <GBSeq_organism>Lentibacillus juripiscarius JCM 12147</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AY553296.xml:  <GBSeq_organism>Pontibacillus chungwhensis</GBSeq_organism>
+./AJ315075.xml:  <GBSeq_organism>Bacillus decolorationis</GBSeq_organism>
+./AY543169.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AY667497.xml:  <GBSeq_organism>Lentibacillus lacisalsi</GBSeq_organism>
+./AY667493.xml:  <GBSeq_organism>Lentibacillus salarius</GBSeq_organism>
+./AJ243920.xml:  <GBSeq_organism>Salimicrobium halophilum</GBSeq_organism>
+./AJ316302.xml:  <GBSeq_organism>Virgibacillus carmonensis</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AB191345.xml:  <GBSeq_organism>Lentibacillus halophilus</GBSeq_organism>

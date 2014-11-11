@@ -1,0 +1,11 @@
+./AB193751.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AY170366.xml:  <GBSeq_organism>Shewanella waksmanii</GBSeq_organism>
+./AB038033.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./U91546.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AB245514.xml:  <GBSeq_organism>Ferrimonas kyonanensis</GBSeq_organism>
+./AJ311964.xml:  <GBSeq_organism>Shewanella denitrificans OS217</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./AF003549.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./D21224.xml:  <GBSeq_organism>Moritella japonica</GBSeq_organism>
+./AB008797.xml:  <GBSeq_organism>Moritella yayanosii</GBSeq_organism>
+./AF388387.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>

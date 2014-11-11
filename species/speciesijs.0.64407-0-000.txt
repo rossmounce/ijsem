@@ -1,0 +1,13 @@
+./D88528.xml:  <GBSeq_organism>Pediococcus parvulus</GBSeq_organism>
+./AF404716.xml:  <GBSeq_organism>Pediococcus claussenii</GBSeq_organism>
+./M58833.xml:  <GBSeq_organism>Pediococcus acidilactici</GBSeq_organism>
+./AJ973157.xml:  <GBSeq_organism>Pediococcus stilesii</GBSeq_organism>
+./AJ271383.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./D79210.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AY956789.xml:  <GBSeq_organism>Pediococcus ethanolidurans</GBSeq_organism>
+./D87678.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./D87679.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>
+./DQ400914.xml:  <GBSeq_organism>Pediococcus ethanolidurans</GBSeq_organism>
+./M58834.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./AY956788.xml:  <GBSeq_organism>Pediococcus cellicola</GBSeq_organism>

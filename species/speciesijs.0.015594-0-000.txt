@@ -1,0 +1,4 @@
+./EU484391.xml:  <GBSeq_organism>Nocardia mikamii</GBSeq_organism>
+./EU484390.xml:  <GBSeq_organism>Nocardia mikamii</GBSeq_organism>
+./AF430054.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./EU484389.xml:  <GBSeq_organism>Nocardia mikamii</GBSeq_organism>

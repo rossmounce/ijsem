@@ -1,0 +1,28 @@
+./M26923.xml:  <GBSeq_organism>Thermus thermophilus</GBSeq_organism>
+./AF393376.xml:  <GBSeq_organism>Thermodesulfatator indicus DSM 15286</GBSeq_organism>
+./AB282756.xml:  <GBSeq_organism>Thermosulfidibacter takaii ABI70S6</GBSeq_organism>
+./AF411013.xml:  <GBSeq_organism>Geothermobacterium ferrireducens</GBSeq_organism>
+./AY268937.xml:  <GBSeq_organism>Thermovibrio guaymasensis</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AB105049.xml:  <GBSeq_organism>Balnearium lithotrophicum</GBSeq_organism>
+./AJ005640.xml:  <GBSeq_organism>Thermocrinis ruber</GBSeq_organism>
+./M21774.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./AJ250439.xml:  <GBSeq_organism>Marinitoga camini</GBSeq_organism>
+./AF418169.xml:  <GBSeq_organism>Thermodesulfobacterium commune DSM 2178</GBSeq_organism>
+./X96725.xml:  <GBSeq_organism>Thermodesulfobacterium hveragerdense</GBSeq_organism>
+./AY263403.xml:  <GBSeq_organism>Thermovibrio ammonificans HB-1</GBSeq_organism>
+./D32255.xml:  <GBSeq_organism>Chloroflexus aggregans</GBSeq_organism>
+./AJ316619.xml:  <GBSeq_organism>Thermovibrio ruber</GBSeq_organism>
+./AF332514.xml:  <GBSeq_organism>Thermodesulfobacterium hydrogeniphilum</GBSeq_organism>
+./AF334601.xml:  <GBSeq_organism>Thermodesulfobacterium thermophilum</GBSeq_organism>
+./AB120294.xml:  <GBSeq_organism>Hydrogenivirga caldilitoris</GBSeq_organism>
+./AY268936.xml:  <GBSeq_organism>Desulfurobacterium pacificum</GBSeq_organism>
+./Y15479.xml:  <GBSeq_organism>Petrotoga mobilis SJ95</GBSeq_organism>
+./AB024932.xml:  <GBSeq_organism>Thermosipho japonicus</GBSeq_organism>
+./Y11332.xml:  <GBSeq_organism>Deinococcus radiodurans</GBSeq_organism>
+./AF188332.xml:  <GBSeq_organism>Persephonella marina EX-H1</GBSeq_organism>
+./D16296.xml:  <GBSeq_organism>Hydrogenobaculum acidophilum</GBSeq_organism>
+./AJ507320.xml:  <GBSeq_organism>Desulfurobacterium crinifex</GBSeq_organism>
+./M59177.xml:  <GBSeq_organism>Fervidobacterium nodosum</GBSeq_organism>
+./M34115.xml:  <GBSeq_organism>Thermomicrobium roseum</GBSeq_organism>
+./AY268939.xml:  <GBSeq_organism>Desulfurobacterium atlanticum</GBSeq_organism>

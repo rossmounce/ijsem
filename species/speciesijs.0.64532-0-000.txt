@@ -1,0 +1,11 @@
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./AY424897.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./DQ414420.xml:  <GBSeq_organism>Oceanicola nanhaiensis</GBSeq_organism>
+./AF465833.xml:  <GBSeq_organism>Albidovulum inexpectatum</GBSeq_organism>
+./AY424898.xml:  <GBSeq_organism>Oceanicola batsensis</GBSeq_organism>
+./D16427.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./U62894.xml:  <GBSeq_organism>Marinosulfonomonas methylotropha</GBSeq_organism>

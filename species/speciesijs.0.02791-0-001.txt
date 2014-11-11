@@ -1,0 +1,14 @@
+./AJ233418.xml:  <GBSeq_organism>Brenneria rubrifaciens</GBSeq_organism>
+./AJ233412.xml:  <GBSeq_organism>Dickeya chrysanthemi</GBSeq_organism>
+./AF520707.xml:  <GBSeq_organism>Dickeya dadantii</GBSeq_organism>
+./AF520712.xml:  <GBSeq_organism>Dickeya dadantii subsp. dieffenbachiae</GBSeq_organism>
+./AJ223409.xml:  <GBSeq_organism>Pectobacterium cacticida</GBSeq_organism>
+./U80200.xml:  <GBSeq_organism>Dickeya chrysanthemi</GBSeq_organism>
+./AF520711.xml:  <GBSeq_organism>Dickeya zeae</GBSeq_organism>
+./M59149.xml:  <GBSeq_organism>Pectobacterium carotovorum</GBSeq_organism>
+./AJ223407.xml:  <GBSeq_organism>Pectobacterium carotovorum subsp. odoriferum</GBSeq_organism>
+./AJ233413.xml:  <GBSeq_organism>Pantoea cypripedii</GBSeq_organism>
+./AY207083.xml:  <GBSeq_organism>Pectobacterium carotovorum subsp. brasiliense</GBSeq_organism>
+./AJ233419.xml:  <GBSeq_organism>Brenneria salicis ATCC 15712</GBSeq_organism>
+./U80199.xml:  <GBSeq_organism>Pectobacterium wasabiae CFBP 3304</GBSeq_organism>
+./AF520708.xml:  <GBSeq_organism>Dickeya dianthicola</GBSeq_organism>

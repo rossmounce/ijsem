@@ -1,0 +1,29 @@
+./AB368717.xml:  <GBSeq_organism>Nocardiopsis composta</GBSeq_organism>
+./AB368714.xml:  <GBSeq_organism>Nocardiopsis exhalans</GBSeq_organism>
+./X97883.xml:  <GBSeq_organism>Nocardiopsis alba DSM 43377</GBSeq_organism>
+./EF597511.xml:  <GBSeq_organism>Nocardiopsis quinghaiensis</GBSeq_organism>
+./AY619715.xml:  <GBSeq_organism>Nocardiopsis chromatogenes YIM 90109</GBSeq_organism>
+./AY230848.xml:  <GBSeq_organism>Nocardiopsis alkaliphila</GBSeq_organism>
+./AY619713.xml:  <GBSeq_organism>Nocardiopsis rosea</GBSeq_organism>
+./AJ420769.xml:  <GBSeq_organism>Nocardiopsis metallicus</GBSeq_organism>
+./X97886.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111</GBSeq_organism>
+./AY619714.xml:  <GBSeq_organism>Nocardiopsis rhodophaea</GBSeq_organism>
+./AB368716.xml:  <GBSeq_organism>Nocardiopsis kunsanensis</GBSeq_organism>
+./AB368715.xml:  <GBSeq_organism>Nocardiopsis umidischolae</GBSeq_organism>
+./AF251709.xml:  <GBSeq_organism>Nocardiopsis xinjiangensis</GBSeq_organism>
+./AJ421018.xml:  <GBSeq_organism>Nocardiopsis halophila DSM 44494</GBSeq_organism>
+./X97885.xml:  <GBSeq_organism>Nocardiopsis dassonvillei</GBSeq_organism>
+./AY619716.xml:  <GBSeq_organism>Nocardiopsis baichengensis</GBSeq_organism>
+./AF105971.xml:  <GBSeq_organism>Nocardiopsis tropica</GBSeq_organism>
+./AB368713.xml:  <GBSeq_organism>Nocardiopsis halotolerans</GBSeq_organism>
+./X97888.xml:  <GBSeq_organism>Nocardiopsis lucentensis DSM 44048</GBSeq_organism>
+./AY619712.xml:  <GBSeq_organism>Nocardiopsis gilva YIM 90087</GBSeq_organism>
+./AF105972.xml:  <GBSeq_organism>Nocardiopsis trehalosi</GBSeq_organism>
+./AB184655.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. dassonvillei</GBSeq_organism>
+./AY373031.xml:  <GBSeq_organism>Nocardiopsis salina YIM 90010</GBSeq_organism>
+./X97884.xml:  <GBSeq_organism>Nocardiopsis prasina</GBSeq_organism>
+./Y13593.xml:  <GBSeq_organism>Nocardiopsis synnemataformans DSM 44143</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AB368712.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. albirubida</GBSeq_organism>
+./AJ539401.xml:  <GBSeq_organism>Nocardiopsis aegyptia</GBSeq_organism>
+./X97887.xml:  <GBSeq_organism>Nocardiopsis listeri</GBSeq_organism>

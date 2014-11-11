@@ -1,0 +1,15 @@
+./D45061.xml:  <GBSeq_organism>Agromyces hippuratus</GBSeq_organism>
+./GO241325.xml:  <GBSeq_organism>Cicer microphyllum</GBSeq_organism>
+./AY737778.xml:  <GBSeq_organism>Agromyces subbeticus</GBSeq_organism>
+./AY158025.xml:  <GBSeq_organism>Agromyces fucosus</GBSeq_organism>
+./AF389342.xml:  <GBSeq_organism>Agromyces aurantiacus</GBSeq_organism>
+./X77449.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./X77448.xml:  <GBSeq_organism>Agromyces cerinus subsp. cerinus</GBSeq_organism>
+./AY507128.xml:  <GBSeq_organism>Agromyces neolithicus</GBSeq_organism>
+./AY618215.xml:  <GBSeq_organism>Agromyces italicus</GBSeq_organism>
+./AY277619.xml:  <GBSeq_organism>Agromyces cerinus subsp. nitratus</GBSeq_organism>
+./AB454378.xml:  <GBSeq_organism>Agromyces tropicus</GBSeq_organism>
+./AY618216.xml:  <GBSeq_organism>Agromyces humatus</GBSeq_organism>
+./AY427830.xml:  <GBSeq_organism>Agromyces ulmi</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./AB028856.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>

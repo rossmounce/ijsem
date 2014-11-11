@@ -1,0 +1,39 @@
+./AJ459801.xml:  <GBSeq_organism>Thermithiobacillus tepidarius</GBSeq_organism>
+./FM177512.xml:  <GBSeq_organism>Marichromatium indicum</GBSeq_organism>
+./AF307091.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AY914807.xml:  <GBSeq_organism>Thioalkalivibrio denitrificans</GBSeq_organism>
+./AY310506.xml:  <GBSeq_organism>endosymbiont of unidentified scaly snail</GBSeq_organism>
+./D43622.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./AY914804.xml:  <GBSeq_organism>Thioalkalivibrio thiocyanoxidans</GBSeq_organism>
+./FJ482231.xml:  <GBSeq_organism>Thiohalobacter thiocyanaticus</GBSeq_organism>
+./DQ469584.xml:  <GBSeq_organism>Thiohalophilus thiocyanatoxydans</GBSeq_organism>
+./AF181991.xml:  <GBSeq_organism>sulfur-oxidizing bacterium NDII1.2</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./AY034139.xml:  <GBSeq_organism>Thiobacillus prosperus</GBSeq_organism>
+./AF329205.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AY914805.xml:  <GBSeq_organism>Thioalkalivibrio nitratis</GBSeq_organism>
+./L82000.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AY914806.xml:  <GBSeq_organism>Thioalkalivibrio paradoxus ARh 1</GBSeq_organism>
+./X03220.xml:  <GBSeq_organism>Synechococcus elongatus PCC 6301</GBSeq_organism>
+./U58020.xml:  <GBSeq_organism>Halothiobacillus halophilus</GBSeq_organism>
+./AF170422.xml:  <GBSeq_organism>sulfur-oxidizing bacterium ODIII6</GBSeq_organism>
+./L25712.xml:  <GBSeq_organism>Codakia costata gill symbiont</GBSeq_organism>
+./D90204.xml:  <GBSeq_organism>Allochromatium vinosum DSM 180</GBSeq_organism>
+./AB235229.xml:  <GBSeq_organism>endosymbiont of Alviniconcha sp. Lau Basin</GBSeq_organism>
+./AY914801.xml:  <GBSeq_organism>Thioalkalivibrio nitratireducens DSM 14787</GBSeq_organism>
+./AF046932.xml:  <GBSeq_organism>Halothiobacillus neapolitanus c2</GBSeq_organism>
+./AY773067.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY914802.xml:  <GBSeq_organism>Thioalkalivibrio thiocyanodenitrificans ARhD 1</GBSeq_organism>
+./M26396.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./AJ005530.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./FM178273.xml:  <GBSeq_organism>Thiorhodococcus drewsii AZ1</GBSeq_organism>
+./M26630.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./AY656720.xml:  <GBSeq_organism>Thioclava pacifica DSM 10166</GBSeq_organism>
+./D30764.xml:  <GBSeq_organism>Hydrogenophilus thermoluteolus</GBSeq_organism>
+./AY914803.xml:  <GBSeq_organism>Thioalkalivibrio jannaschii</GBSeq_organism>
+./X93479.xml:  <GBSeq_organism>Ectothiorhodospira haloalkaliphila ATCC 51935</GBSeq_organism>
+./D43621.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./DQ272530.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./AF170423.xml:  <GBSeq_organism>sulfur-oxidizing bacterium OAII2</GBSeq_organism>
+./X57359.xml:  <GBSeq_organism>Prochlorothrix hollandica</GBSeq_organism>
+./L37437.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>

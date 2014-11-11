@@ -1,0 +1,14 @@
+./X76750.xml:  <GBSeq_organism>Terrisporobacter glycolicus ATCC 14880 = DSM 1288</GBSeq_organism>
+./AY158079.xml:  <GBSeq_organism>Tepidibacter thalassicus</GBSeq_organism>
+./L11304.xml:  <GBSeq_organism>[Clostridium] thermoalcaliphilum</GBSeq_organism>
+./M59084.xml:  <GBSeq_organism>Gottschalkia acidurici</GBSeq_organism>
+./X77837.xml:  <GBSeq_organism>Clostridium halophilum</GBSeq_organism>
+./AY245527.xml:  <GBSeq_organism>Tepidibacter formicigenes</GBSeq_organism>
+./AJ272422.xml:  <GBSeq_organism>Caloranaerobacter azorensis DSM 13643</GBSeq_organism>
+./X77845.xml:  <GBSeq_organism>[Clostridium] litorale</GBSeq_organism>
+./Y18183.xml:  <GBSeq_organism>Clostridium aceticum</GBSeq_organism>
+./L06838.xml:  <GBSeq_organism>[Clostridium] paradoxum</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./AB037677.xml:  <GBSeq_organism>Alkaliphilus transvaalensis</GBSeq_organism>
+./AF072473.xml:  <GBSeq_organism>Peptoclostridium difficile</GBSeq_organism>
+./AJ320233.xml:  <GBSeq_organism>Caminicella sporogenes</GBSeq_organism>

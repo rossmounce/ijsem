@@ -1,0 +1,8 @@
+./M96746.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./D32240.xml:  <GBSeq_organism>Paracoccus aminovorans</GBSeq_organism>
+./AF250332.xml:  <GBSeq_organism>Paracoccus kondratievae</GBSeq_organism>
+./AB006899.xml:  <GBSeq_organism>Paracoccus carotinifaciens</GBSeq_organism>
+./D32238.xml:  <GBSeq_organism>Paracoccus alcaliphilus</GBSeq_organism>
+./AJ428275.xml:  <GBSeq_organism>Paracoccus seriniphilus</GBSeq_organism>
+./AF250334.xml:  <GBSeq_organism>Paracoccus methylutens</GBSeq_organism>
+./Y16932.xml:  <GBSeq_organism>Paracoccus versutus</GBSeq_organism>

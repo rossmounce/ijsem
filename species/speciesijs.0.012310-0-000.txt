@@ -1,0 +1,7 @@
+./EF602041.xml:  <GBSeq_organism>Kocuria flava</GBSeq_organism>
+./X87754.xml:  <GBSeq_organism>Kocuria varians</GBSeq_organism>
+./Y16264.xml:  <GBSeq_organism>Kocuria rhizophila</GBSeq_organism>
+./AY987383.xml:  <GBSeq_organism>Kocuria himachalensis</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>
+./AY894328.xml:  <GBSeq_organism>Dermacoccus barathri</GBSeq_organism>

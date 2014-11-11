@@ -1,0 +1,20 @@
+./AY631945.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./DQ174181.xml:  <GBSeq_organism>Campylobacter lanienae NCTC 13004</GBSeq_organism>
+./EF621894.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EU623473.xml:  <GBSeq_organism>Campylobacter avium LMG 24591</GBSeq_organism>
+./AF372092.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./DQ174166.xml:  <GBSeq_organism>Campylobacter concisus</GBSeq_organism>
+./DQ174144.xml:  <GBSeq_organism>Campylobacter jejuni subsp. doylei</GBSeq_organism>
+./DQ174169.xml:  <GBSeq_organism>Campylobacter rectus</GBSeq_organism>
+./AF372091.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./DQ174150.xml:  <GBSeq_organism>Campylobacter sputorum</GBSeq_organism>
+./U01330.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./L14625.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>
+./DQ174145.xml:  <GBSeq_organism>Campylobacter lari subsp. lari</GBSeq_organism>
+./DQ174161.xml:  <GBSeq_organism>Campylobacter helveticus</GBSeq_organism>
+./DQ174182.xml:  <GBSeq_organism>Campylobacter hominis</GBSeq_organism>
+./DQ174149.xml:  <GBSeq_organism>Campylobacter sputorum</GBSeq_organism>
+./EU623475.xml:  <GBSeq_organism>Campylobacter avium</GBSeq_organism>
+./DQ174183.xml:  <GBSeq_organism>Campylobacter insulaenigrae NCTC 12927</GBSeq_organism>
+./EU623474.xml:  <GBSeq_organism>Campylobacter avium</GBSeq_organism>
+./DQ195237.xml:  <GBSeq_organism>Campylobacter hyointestinalis subsp. lawsonii</GBSeq_organism>

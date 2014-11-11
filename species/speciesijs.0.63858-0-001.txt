@@ -1,0 +1,34 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./X89947.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./X91034.xml:  <GBSeq_organism>Dermabacter hominis</GBSeq_organism>
+./D85483.xml:  <GBSeq_organism>Glycomyces harbinensis</GBSeq_organism>
+./AB025317.xml:  <GBSeq_organism>Sporichthya polymorpha DSM 43042</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AJ621602.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./D85475.xml:  <GBSeq_organism>Actinosynnema mirum</GBSeq_organism>
+./D85492.xml:  <GBSeq_organism>Nocardiopsis dassonvillei</GBSeq_organism>
+./X53217.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./X82059.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./Y09911.xml:  <GBSeq_organism>Bogoriella caseilytica</GBSeq_organism>
+./D86945.xml:  <GBSeq_organism>Thermomonospora curvata</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./U58531.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./Y18646.xml:  <GBSeq_organism>Modestobacter multiseptatus</GBSeq_organism>
+./X53211.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./X75903.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./AY234479.xml:  <GBSeq_organism>bacterium Ellin5062</GBSeq_organism>
+./X83811.xml:  <GBSeq_organism>Jonesia denitrificans DSM 20603</GBSeq_organism>
+./D85465.xml:  <GBSeq_organism>Cryptosporangium arvum DSM 44712</GBSeq_organism>
+./AB007420.xml:  <GBSeq_organism>Kineococcus aurantiacus</GBSeq_organism>
+./AY234533.xml:  <GBSeq_organism>bacterium Ellin5116</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AJ243918.xml:  <GBSeq_organism>Dermatophilus congolensis DSM 44180 = NBRC 105199</GBSeq_organism>
+./Y08541.xml:  <GBSeq_organism>Nakamurella multipartita DSM 44233</GBSeq_organism>
+./AY234536.xml:  <GBSeq_organism>bacterium Ellin5119</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./AF095336.xml:  <GBSeq_organism>Kineosporia aurantiaca</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

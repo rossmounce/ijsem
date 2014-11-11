@@ -1,0 +1,29 @@
+./AB035051.xml:  <GBSeq_organism>Cryptococcus peneaus</GBSeq_organism>
+./AF053716.xml:  <GBSeq_organism>Trimorphomyces papilionaceus</GBSeq_organism>
+./D31652.xml:  <GBSeq_organism>Hannaella oryzae</GBSeq_organism>
+./D31649.xml:  <GBSeq_organism>Bullera dendrophila</GBSeq_organism>
+./D14166.xml:  <GBSeq_organism>Taphrina californica</GBSeq_organism>
+./D31660.xml:  <GBSeq_organism>Bullera pseudoalba</GBSeq_organism>
+./D78327.xml:  <GBSeq_organism>Bullera hannae</GBSeq_organism>
+./D64121.xml:  <GBSeq_organism>Tsuchiyaea wingfieldii</GBSeq_organism>
+./X60179.xml:  <GBSeq_organism>Bulleromyces albus</GBSeq_organism>
+./AF189870.xml:  <GBSeq_organism>Bullera dendrophila</GBSeq_organism>
+./AF416645.xml:  <GBSeq_organism>Trimorphomyces papilionaceus</GBSeq_organism>
+./AF075482.xml:  <GBSeq_organism>Hannaella luteola</GBSeq_organism>
+./L05428.xml:  <GBSeq_organism>Cryptococcus neoformans var. neoformans</GBSeq_organism>
+./AF075481.xml:  <GBSeq_organism>Cryptococcus podzolicus</GBSeq_organism>
+./AF363647.xml:  <GBSeq_organism>Cryptococcus victoriae</GBSeq_organism>
+./AF075511.xml:  <GBSeq_organism>Hannaella oryzae</GBSeq_organism>
+./AF075500.xml:  <GBSeq_organism>Bulleromyces albus</GBSeq_organism>
+./AF177404.xml:  <GBSeq_organism>Tsuchiyaea wingfieldii</GBSeq_organism>
+./D78330.xml:  <GBSeq_organism>Bullera unica</GBSeq_organism>
+./AF363649.xml:  <GBSeq_organism>Bullera penniseticola</GBSeq_organism>
+./AF075523.xml:  <GBSeq_organism>Trichosporon ovoides</GBSeq_organism>
+./AF363551.xml:  <GBSeq_organism>Tarentola boettgeri bischoffi</GBSeq_organism>
+./AF075503.xml:  <GBSeq_organism>Dioszegia hungarica</GBSeq_organism>
+./D31650.xml:  <GBSeq_organism>Bullera globospora</GBSeq_organism>
+./AB032627.xml:  <GBSeq_organism>Cryptococcus dimennae</GBSeq_organism>
+./AB087253.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AF075469.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./AF075524.xml:  <GBSeq_organism>Bullera unica</GBSeq_organism>
+./AF075509.xml:  <GBSeq_organism>Bullera globospora</GBSeq_organism>

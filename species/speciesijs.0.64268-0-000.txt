@@ -1,0 +1,6 @@
+./AJ316571.xml:  <GBSeq_organism>Blastococcus saxobsidens</GBSeq_organism>
+./AF063641.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./Y18646.xml:  <GBSeq_organism>Modestobacter multiseptatus</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>

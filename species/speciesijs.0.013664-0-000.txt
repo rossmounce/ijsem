@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ508302.xml:  <GBSeq_organism>Enterobacter hormaechei ATCC 49162</GBSeq_organism>
+./AJ306725.xml:  <GBSeq_organism>Serratia liquefaciens</GBSeq_organism>
+./AJ853891.xml:  <GBSeq_organism>Enterobacter ludwigii</GBSeq_organism>
+./AY563134.xml:  <GBSeq_organism>Kosakonia radicincitans</GBSeq_organism>
+./X82253.xml:  <GBSeq_organism>Xenorhabdus poinarii</GBSeq_organism>
+./EU672801.xml:  <GBSeq_organism>Kosakonia arachidis</GBSeq_organism>
+./AJ508303.xml:  <GBSeq_organism>Kosakonia cowanii</GBSeq_organism>
+./EF059881.xml:  <GBSeq_organism>Cronobacter malonaticus</GBSeq_organism>
+./EF688006.xml:  <GBSeq_organism>Tatumella punctata</GBSeq_organism>
+./AJ508301.xml:  <GBSeq_organism>Enterobacter kobei</GBSeq_organism>
+./M59160.xml:  <GBSeq_organism>Serratia marcescens</GBSeq_organism>
+./AJ251469.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./AJ251468.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./AJ010486.xml:  <GBSeq_organism>Pluralibacter pyrinus</GBSeq_organism>

@@ -1,0 +1,28 @@
+./AF539697.xml:  <GBSeq_organism>Salinibacterium amurskyense</GBSeq_organism>
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./FN666417.xml:  <GBSeq_organism>Frondihabitans cladoniiphilus</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AM286414.xml:  <GBSeq_organism>Phycicola gilvus</GBSeq_organism>
+./AJ746337.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./FN432340.xml:  <GBSeq_organism>Herbiconiux solani</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./AM494541.xml:  <GBSeq_organism>Humibacter albus DSM 18994</GBSeq_organism>
+./X83806.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./DQ533552.xml:  <GBSeq_organism>Labedella gwakjiensis</GBSeq_organism>
+./AJ544063.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./FM998017.xml:  <GBSeq_organism>Frondihabitans peucedani</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./AB362159.xml:  <GBSeq_organism>Schumannella luteola</GBSeq_organism>
+./AJ459101.xml:  <GBSeq_organism>Rhodoglobus vestalii</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./X77440.xml:  <GBSeq_organism>Pseudoclavibacter helvolus</GBSeq_organism>
+./AJ310417.xml:  <GBSeq_organism>Plantibacter flavus</GBSeq_organism>
+./AY372075.xml:  <GBSeq_organism>Klugiella xanthotipulae</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./AJ306835.xml:  <GBSeq_organism>Gulosibacter molinativorax</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./AJ717388.xml:  <GBSeq_organism>Microcella putealis</GBSeq_organism>
+./AM410679.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>

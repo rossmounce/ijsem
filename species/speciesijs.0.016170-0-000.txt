@@ -1,0 +1,11 @@
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./DQ785104.xml:  <GBSeq_organism>Chromobacterium haemolyticum DSM 19808</GBSeq_organism>
+./Y17802.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY264287.xml:  <GBSeq_organism>Chitinibacter tainanensis</GBSeq_organism>
+./AY344056.xml:  <GBSeq_organism>Chromobacterium subtsugae</GBSeq_organism>
+./AM295491.xml:  <GBSeq_organism>Gulbenkiania mobilis</GBSeq_organism>
+./AJ239288.xml:  <GBSeq_organism>Neisseria animalis</GBSeq_organism>
+./FJ593907.xml:  <GBSeq_organism>Chitinibacter alvei</GBSeq_organism>
+./EU109734.xml:  <GBSeq_organism>Chromobacterium aquaticum</GBSeq_organism>
+./AB194302.xml:  <GBSeq_organism>Silvimonas terrae</GBSeq_organism>
+./AM397080.xml:  <GBSeq_organism>Deefgea rivuli</GBSeq_organism>

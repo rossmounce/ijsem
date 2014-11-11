@@ -1,0 +1,8 @@
+./EU523636.xml:  <GBSeq_organism>Lachancea sp. SC5L02</GBSeq_organism>
+./U84236.xml:  <GBSeq_organism>Lachancea cidri</GBSeq_organism>
+./U69581.xml:  <GBSeq_organism>Lachancea thermotolerans</GBSeq_organism>
+./U69582.xml:  <GBSeq_organism>Lachancea waltii</GBSeq_organism>
+./FJ153149.xml:  <GBSeq_organism>Lachancea sp. ES12S06</GBSeq_organism>
+./U84239.xml:  <GBSeq_organism>Lachancea fermentati</GBSeq_organism>
+./U68552.xml:  <GBSeq_organism>Lachancea kluyveri</GBSeq_organism>
+./AY645656.xml:  <GBSeq_organism>Lachancea meyersii</GBSeq_organism>

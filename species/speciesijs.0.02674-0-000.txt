@@ -1,0 +1,16 @@
+./AF074410.xml:  <GBSeq_organism>Streptacidiphilus neutrinimicus</GBSeq_organism>
+./AY189976.xml:  <GBSeq_organism>Kitasatospora putterlickiae</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./U93316.xml:  <GBSeq_organism>Streptomyces cinereorectus</GBSeq_organism>
+./AF050493.xml:  <GBSeq_organism>Kitasatospora cheerisanensis</GBSeq_organism>
+./U93320.xml:  <GBSeq_organism>Kitasatospora griseola</GBSeq_organism>
+./U93328.xml:  <GBSeq_organism>Kitasatospora paracochleata</GBSeq_organism>
+./U93318.xml:  <GBSeq_organism>Kitasatospora cystarginea</GBSeq_organism>
+./U93324.xml:  <GBSeq_organism>Kitasatospora mediocidica</GBSeq_organism>
+./U93330.xml:  <GBSeq_organism>Kitasatospora phosalacinea</GBSeq_organism>
+./AF074412.xml:  <GBSeq_organism>Streptacidiphilus carbonis</GBSeq_organism>
+./AF074415.xml:  <GBSeq_organism>Streptacidiphilus albus</GBSeq_organism>
+./U93312.xml:  <GBSeq_organism>Kitasatospora azatica</GBSeq_organism>
+./D63862.xml:  <GBSeq_organism>Streptomyces scabiei</GBSeq_organism>
+./AJ391822.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./D85116.xml:  <GBSeq_organism>Streptomyces lavendulae</GBSeq_organism>

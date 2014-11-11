@@ -1,0 +1,24 @@
+./X60408.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./X74726.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./Z76662.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./X74724.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./X74710.xml:  <GBSeq_organism>Vibrio mediterranei</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AF005248.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./AF052741.xml:  <GBSeq_organism>Idiomarina zobellii</GBSeq_organism>
+./X81622.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./X74687.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AJ002006.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./Z96087.xml:  <GBSeq_organism>Erwinia rhapontici</GBSeq_organism>
+./X78105.xml:  <GBSeq_organism>Photobacterium damselae</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./X74714.xml:  <GBSeq_organism>Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759</GBSeq_organism>
+./AB010859.xml:  <GBSeq_organism>gamma proteobacterium HTB021</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

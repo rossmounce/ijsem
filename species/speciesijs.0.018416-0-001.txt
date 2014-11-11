@@ -1,0 +1,7 @@
+./X60618.xml:  <GBSeq_organism>Geobacillus kaustophilus</GBSeq_organism>
+./AY608936.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF067651.xml:  <GBSeq_organism>Geobacillus caldoxylosilyticus</GBSeq_organism>
+./X60641.xml:  <GBSeq_organism>Geobacillus thermoglucosidasius</GBSeq_organism>
+./AB308475.xml:  <GBSeq_organism>Calditerricola yamamurae</GBSeq_organism>
+./X70430.xml:  <GBSeq_organism>Saccharococcus thermophilus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

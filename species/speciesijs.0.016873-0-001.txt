@@ -1,0 +1,23 @@
+./AY681127.xml:  <GBSeq_organism>Lactobacillus oeni</GBSeq_organism>
+./AB326363.xml:  <GBSeq_organism>Lactobacillus pobuzihii</GBSeq_organism>
+./AB326361.xml:  <GBSeq_organism>Lactobacillus pobuzihii</GBSeq_organism>
+./AB326349.xml:  <GBSeq_organism>Lactobacillus murinus</GBSeq_organism>
+./AB326359.xml:  <GBSeq_organism>Lactobacillus pobuzihii</GBSeq_organism>
+./AB326351.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./EU074850.xml:  <GBSeq_organism>Lactobacillus hordei</GBSeq_organism>
+./AB326352.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AB326362.xml:  <GBSeq_organism>Lactobacillus pobuzihii</GBSeq_organism>
+./AY681126.xml:  <GBSeq_organism>Lactobacillus uvarum</GBSeq_organism>
+./AB326364.xml:  <GBSeq_organism>Lactobacillus pobuzihii</GBSeq_organism>
+./AY255802.xml:  <GBSeq_organism>Lactobacillus saerimneri</GBSeq_organism>
+./AB154519.xml:  <GBSeq_organism>Lactobacillus satsumensis</GBSeq_organism>
+./AB326360.xml:  <GBSeq_organism>Lactobacillus pobuzihii</GBSeq_organism>
+./AB267406.xml:  <GBSeq_organism>Lactobacillus hayakitensis</GBSeq_organism>
+./AM292799.xml:  <GBSeq_organism>Lactobacillus ceti DSM 22408</GBSeq_organism>
+./AM905389.xml:  <GBSeq_organism>Lactobacillus cacaonum</GBSeq_organism>
+./M58803.xml:  <GBSeq_organism>Lactobacillus agilis</GBSeq_organism>
+./AJ576009.xml:  <GBSeq_organism>Lactobacillus vini DSM 20605</GBSeq_organism>
+./AB326357.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AB326358.xml:  <GBSeq_organism>Lactobacillus pobuzihii E100301 = KCTC 13174</GBSeq_organism>
+./AB326356.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AJ871178.xml:  <GBSeq_organism>Lactobacillus apodemi</GBSeq_organism>

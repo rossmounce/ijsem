@@ -1,0 +1,8 @@
+./D14143.xml:  <GBSeq_organism>Parvimonas micra</GBSeq_organism>
+./X73447.xml:  <GBSeq_organism>Asaccharospora irregularis</GBSeq_organism>
+./D14139.xml:  <GBSeq_organism>Anaerococcus prevotii DSM 20548</GBSeq_organism>
+./D14149.xml:  <GBSeq_organism>Finegoldia magna</GBSeq_organism>
+./AY167952.xml:  <GBSeq_organism>Peptostreptococcus russellii</GBSeq_organism>
+./AF542228.xml:  <GBSeq_organism>Peptoniphilus asaccharolyticus DSM 20463</GBSeq_organism>
+./X73450.xml:  <GBSeq_organism>Peptoclostridium difficile</GBSeq_organism>
+./AY326462.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>

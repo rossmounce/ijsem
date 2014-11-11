@@ -1,0 +1,9 @@
+./AY030339.xml:  <GBSeq_organism>Bacillus mojavensis</GBSeq_organism>
+./AY197618.xml:  <GBSeq_organism>Bacillus mojavensis</GBSeq_organism>
+./D86856.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AY197616.xml:  <GBSeq_organism>Bacillus atrophaeus</GBSeq_organism>
+./AF121672.xml:  <GBSeq_organism>Staphylococcus aureus</GBSeq_organism>
+./AY197613.xml:  <GBSeq_organism>Bacillus tequilensis</GBSeq_organism>
+./AY197615.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./AY197619.xml:  <GBSeq_organism>Bacillus vallismortis</GBSeq_organism>
+./AY197614.xml:  <GBSeq_organism>Bacillus tequilensis</GBSeq_organism>

@@ -1,0 +1,12 @@
+./AJ582797.xml:  <GBSeq_organism>Vibrio crassostreae</GBSeq_organism>
+./AJ582799.xml:  <GBSeq_organism>Vibrio crassostreae</GBSeq_organism>
+./AJ582798.xml:  <GBSeq_organism>Vibrio crassostreae</GBSeq_organism>
+./AJ577820.xml:  <GBSeq_organism>Vibrio chagasii</GBSeq_organism>
+./AJ577822.xml:  <GBSeq_organism>Vibrio pomeroyi</GBSeq_organism>
+./AJ515292.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./AB014950.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./AJ515293.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./AJ577821.xml:  <GBSeq_organism>Vibrio kanaloae</GBSeq_organism>
+./AJ577819.xml:  <GBSeq_organism>Vibrio crassostreae</GBSeq_organism>
+./AJ577823.xml:  <GBSeq_organism>Vibrio tasmaniensis</GBSeq_organism>
+./AJ577818.xml:  <GBSeq_organism>Vibrio crassostreae</GBSeq_organism>

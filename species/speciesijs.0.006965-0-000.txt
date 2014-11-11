@@ -1,0 +1,32 @@
+./Y11552.xml:  <GBSeq_organism>Antarctobacter heliothermus</GBSeq_organism>
+./AB255401.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>
+./EU878004.xml:  <GBSeq_organism>Sediminimonas qiaohouensis</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AY639888.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./AJ844281.xml:  <GBSeq_organism>Rubellimicrobium thermophilum</GBSeq_organism>
+./AJ631302.xml:  <GBSeq_organism>Thalassobacter stenotrophicus</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./DQ675021.xml:  <GBSeq_organism>Pseudoruegeria aquimaris</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./AJ438157.xml:  <GBSeq_organism>Jannaschia helgolandensis</GBSeq_organism>
+./AJ877265.xml:  <GBSeq_organism>Yangia pacifica</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./DQ915443.xml:  <GBSeq_organism>Maritimibacter alkaliphilus HTCC2654</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./EF202612.xml:  <GBSeq_organism>Jannaschia donghaensis</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AY177712.xml:  <GBSeq_organism>Phaeobacter inhibens DSM 16374</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./DQ178660.xml:  <GBSeq_organism>Pelagibaca bermudensis HTCC2601</GBSeq_organism>
+./AJ534215.xml:  <GBSeq_organism>Roseovarius mucosus DSM 17069</GBSeq_organism>
+./DQ981486.xml:  <GBSeq_organism>Leisingera daeponensis</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./AF098491.xml:  <GBSeq_organism>Ruegeria pomeroyi</GBSeq_organism>
+./AY926462.xml:  <GBSeq_organism>Palleronia marisminoris</GBSeq_organism>
+./AJ748748.xml:  <GBSeq_organism>Nereida ignava</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>
+./EU878003.xml:  <GBSeq_organism>Sediminimonas qiaohouensis</GBSeq_organism>

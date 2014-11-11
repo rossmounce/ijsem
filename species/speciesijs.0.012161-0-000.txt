@@ -1,0 +1,23 @@
+./AB184091.xml:  <GBSeq_organism>Streptomyces cuspidosporus</GBSeq_organism>
+./EU170127.xml:  <GBSeq_organism>Streptomyces decoyicus</GBSeq_organism>
+./AJ391812.xml:  <GBSeq_organism>Streptomyces albiflaviniger</GBSeq_organism>
+./EU170119.xml:  <GBSeq_organism>Streptomyces angustmyceticus</GBSeq_organism>
+./EU170123.xml:  <GBSeq_organism>Streptomyces aldersoniae</GBSeq_organism>
+./AJ271887.xml:  <GBSeq_organism>Streptomyces melanosporofaciens</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./EU170120.xml:  <GBSeq_organism>Streptomyces glebosus</GBSeq_organism>
+./AB184799.xml:  <GBSeq_organism>Streptomyces neyagawaensis</GBSeq_organism>
+./AB184654.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./AB184191.xml:  <GBSeq_organism>Streptomyces catenulae</GBSeq_organism>
+./AB184487.xml:  <GBSeq_organism>Streptomyces ribosidificus</GBSeq_organism>
+./AJ391816.xml:  <GBSeq_organism>Streptomyces auratus</GBSeq_organism>
+./AB184598.xml:  <GBSeq_organism>Streptomyces ipomoeae</GBSeq_organism>
+./EU170126.xml:  <GBSeq_organism>Streptomyces milbemycinicus</GBSeq_organism>
+./AJ391820.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./EU170124.xml:  <GBSeq_organism>Streptomyces wellingtoniae</GBSeq_organism>
+./AJ781367.xml:  <GBSeq_organism>Streptomyces torulosus</GBSeq_organism>
+./EU170121.xml:  <GBSeq_organism>Streptomyces ascomycinicus</GBSeq_organism>
+./AB184505.xml:  <GBSeq_organism>Streptomyces ogaensis</GBSeq_organism>
+./AB184701.xml:  <GBSeq_organism>Streptomyces ramulosus</GBSeq_organism>
+./AB184640.xml:  <GBSeq_organism>Streptomyces caniferus</GBSeq_organism>
+./AJ781351.xml:  <GBSeq_organism>Streptomyces libani subsp. rufus</GBSeq_organism>

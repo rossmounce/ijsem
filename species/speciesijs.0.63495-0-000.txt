@@ -1,0 +1,11 @@
+./AJ416411.xml:  <GBSeq_organism>Novosphingobium hassiacum</GBSeq_organism>
+./AY554010.xml:  <GBSeq_organism>Sphingopyxis flavimaris</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./AJ416410.xml:  <GBSeq_organism>Sphingopyxis witflariensis</GBSeq_organism>
+./AF367204.xml:  <GBSeq_organism>Sphingopyxis chilensis</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY608604.xml:  <GBSeq_organism>Sphingopyxis baekryungensis</GBSeq_organism>
+./AB024289.xml:  <GBSeq_organism>Sphingomonas ursincola</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./D13945.xml:  <GBSeq_organism>Novosphingobium rosa</GBSeq_organism>
+./AF131297.xml:  <GBSeq_organism>Sphingopyxis taejonensis</GBSeq_organism>

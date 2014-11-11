@@ -1,0 +1,4 @@
+./U76204.xml:  <GBSeq_organism>Candida lyxosophila</GBSeq_organism>
+./FJ154790.xml:  <GBSeq_organism>Candida materiae</GBSeq_organism>
+./U45753.xml:  <GBSeq_organism>Candida insectamans</GBSeq_organism>
+./AY520415.xml:  <GBSeq_organism>Candida jeffriesii</GBSeq_organism>

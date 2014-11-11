@@ -1,0 +1,14 @@
+./AB208718.xml:  <GBSeq_organism>Sphaerisporangium rubeum</GBSeq_organism>
+./AB062383.xml:  <GBSeq_organism>Microtetraspora malaysiensis</GBSeq_organism>
+./AB025318.xml:  <GBSeq_organism>Acrocarpospora macrocephala</GBSeq_organism>
+./X89953.xml:  <GBSeq_organism>Sphaerisporangium viridialbum</GBSeq_organism>
+./AY749433.xml:  <GBSeq_organism>Herbidospora daliensis</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./AB188150.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./EU499338.xml:  <GBSeq_organism>Sphaerisporangium flaviroseum</GBSeq_organism>
+./HM037365.xml:  <GBSeq_organism>Sphaerisporangium krabiense</GBSeq_organism>
+./D85496.xml:  <GBSeq_organism>Planotetraspora mira</GBSeq_organism>
+./X97889.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./U48974.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./EU499344.xml:  <GBSeq_organism>Sphaerisporangium album</GBSeq_organism>
+./X89939.xml:  <GBSeq_organism>Sphaerisporangium cinnabarinum</GBSeq_organism>

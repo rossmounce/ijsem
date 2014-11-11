@@ -1,0 +1,9 @@
+./L16480.xml:  <GBSeq_organism>Prevotella oralis</GBSeq_organism>
+./L16472.xml:  <GBSeq_organism>Prevotella oulorum</GBSeq_organism>
+./AJ005635.xml:  <GBSeq_organism>Prevotella enoeca</GBSeq_organism>
+./L16474.xml:  <GBSeq_organism>Prevotella oris</GBSeq_organism>
+./AJ005634.xml:  <GBSeq_organism>Prevotella tannerae ATCC 51259</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./L16481.xml:  <GBSeq_organism>Prevotella loescheii</GBSeq_organism>
+./AB108825.xml:  <GBSeq_organism>Prevotella shahii</GBSeq_organism>
+./L16477.xml:  <GBSeq_organism>Prevotella buccae ATCC 33574</GBSeq_organism>

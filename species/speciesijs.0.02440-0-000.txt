@@ -1,0 +1,18 @@
+./AF500586.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AF085226.xml:  <GBSeq_organism>Cupriavidus pauculus</GBSeq_organism>
+./AF500584.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AF076645.xml:  <GBSeq_organism>Cupriavidus gilardii</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./AF312020.xml:  <GBSeq_organism>Cupriavidus campinensis</GBSeq_organism>
+./Y10824.xml:  <GBSeq_organism>Cupriavidus metallidurans CH34</GBSeq_organism>
+./AF500583.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AF500585.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AF139173.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./AF500587.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AF312022.xml:  <GBSeq_organism>Cupriavidus basilensis</GBSeq_organism>
+./M32021.xml:  <GBSeq_organism>Cupriavidus necator</GBSeq_organism>
+./AJ270258.xml:  <GBSeq_organism>Ralstonia mannitolilytica</GBSeq_organism>
+./AF488779.xml:  <GBSeq_organism>Ralstonia insidiosa</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AF155567.xml:  <GBSeq_organism>Cupriavidus oxalaticus</GBSeq_organism>

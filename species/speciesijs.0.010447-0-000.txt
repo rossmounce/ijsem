@@ -1,0 +1,4 @@
+./FJ457040.xml:  <GBSeq_organism>Niabella yanshanensis</GBSeq_organism>
+./AB267476.xml:  <GBSeq_organism>Flavisolibacter ginsengiterrae</GBSeq_organism>
+./EU616816.xml:  <GBSeq_organism>Niabella ginsengisoli</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>

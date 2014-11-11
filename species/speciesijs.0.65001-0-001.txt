@@ -1,0 +1,16 @@
+./AB125107.xml:  <GBSeq_organism>Natronolimnobius baerhuensis</GBSeq_organism>
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./AB005656.xml:  <GBSeq_organism>Natronorubrum tibetense</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AJ002949.xml:  <GBSeq_organism>Natrinema pallidum</GBSeq_organism>
+./AM269467.xml:  <GBSeq_organism>Halovivax ruber XH-70</GBSeq_organism>
+./AY208972.xml:  <GBSeq_organism>Natrinema altunense</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./AB023426.xml:  <GBSeq_organism>Natrinema versiforme</GBSeq_organism>
+./AB004878.xml:  <GBSeq_organism>Haloterrigena turkmenica DSM 5511</GBSeq_organism>
+./AY820137.xml:  <GBSeq_organism>Haloterrigena saccharevitans</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./AM117571.xml:  <GBSeq_organism>Halostagnicola larsenii XH-48</GBSeq_organism>
+./AM039978.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AB125108.xml:  <GBSeq_organism>Natronolimnobius innermongolicus</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>

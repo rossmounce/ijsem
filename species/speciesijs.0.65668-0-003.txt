@@ -1,0 +1,99 @@
+./EU168771.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./EU168720.xml:  <GBSeq_organism>Atypical aster yellows phytoplasma</GBSeq_organism>
+./EJ168753.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168755.xml:  <GBSeq_organism>Cactus aster yellows phytoplasma</GBSeq_organism>
+./EU168734.xml:  <GBSeq_organism>&apos;Euscelidius variegatus&apos; phytoplasma</GBSeq_organism>
+./EJ168724.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168758.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168760.xml:  <GBSeq_organism>&apos;Crotalaria saltiana&apos; phyllody phytoplasma</GBSeq_organism>
+./EU168778.xml:  <GBSeq_organism>Catharanthus phyllody phytoplasma</GBSeq_organism>
+./EJ168742.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168738.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU158752.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./EU168725.xml:  <GBSeq_organism>Faba bean phyllody phytoplasma</GBSeq_organism>
+./EJ168762.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168781.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168757.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168749.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./EU168784.xml:  <GBSeq_organism>Napier grass stunt phytoplasma</GBSeq_organism>
+./EJ168767.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168773.xml:  <GBSeq_organism>Tanzanian lethal decline phytoplasma</GBSeq_organism>
+./EJ168755.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./Eu168746.xml:  <GBSeq_organism>Pigeon pea witches&apos;-broom phytoplasma</GBSeq_organism>
+./EJ168729.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168751.xml:  <GBSeq_organism>Cordyline phytoplasma</GBSeq_organism>
+./EU168768.xml:  <GBSeq_organism>&apos;Euscelidius variegatus&apos; phytoplasma</GBSeq_organism>
+./EU188774.xml:  <GBSeq_organism>Kerivoula intermedia</GBSeq_organism>
+./EU168730.xml:  <GBSeq_organism>Ipomoea phytoplasma</GBSeq_organism>
+./EJ168721.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168754.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168786.xml:  <GBSeq_organism>Pepper stolbur phytoplasma</GBSeq_organism>
+./EU168783.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./EU168780.xml:  <GBSeq_organism>Pigeon pea witches&apos;-broom phytoplasma</GBSeq_organism>
+./EU168782.xml:  <GBSeq_organism>German stone fruit yellows phytoplasma</GBSeq_organism>
+./EU168766.xml:  <GBSeq_organism>Peach Western X phytoplasma</GBSeq_organism>
+./EJ168756.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168739.xml:  <GBSeq_organism>Tanzanian lethal decline phytoplasma</GBSeq_organism>
+./EJ168728.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168787.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168763.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168787.xml:  <GBSeq_organism>Mexican periwinkle virescence phytoplasma</GBSeq_organism>
+./EJ168759.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168733.xml:  <GBSeq_organism>Green valley X phytoplasma</GBSeq_organism>
+./EU168763.xml:  <GBSeq_organism>Australian tomato big bud phytoplasma</GBSeq_organism>
+./EJ168785.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168777.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168740.xml:  <GBSeq_organism>Cape St. Paul wilt disease phytoplasma</GBSeq_organism>
+./EU168759.xml:  <GBSeq_organism>Faba bean phyllody phytoplasma</GBSeq_organism>
+./EU168758.xml:  <GBSeq_organism>Apricot chlorotic leafroll phytoplasma</GBSeq_organism>
+./EJ168775.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./Eu168760.xml:  <GBSeq_organism>&apos;Crotalaria saltiana&apos; phyllody phytoplasma</GBSeq_organism>
+./EU168775.xml:  <GBSeq_organism>Elm witches&apos;-broom phytoplasma</GBSeq_organism>
+./EJ168748.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168743.xml:  <GBSeq_organism>Brinjal little leaf phytoplasma</GBSeq_organism>
+./EU168745.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./EU168744.xml:  <GBSeq_organism>Catharanthus phyllody phytoplasma</GBSeq_organism>
+./Eu168723.xml:  <GBSeq_organism>Black currant reversion disease phytoplasma</GBSeq_organism>
+./EU168764.xml:  <GBSeq_organism>Ipomoea phytoplasma</GBSeq_organism>
+./EJ168773.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168737.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168779.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./EJ168779.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168727.xml:  <GBSeq_organism>Soybean phyllody phytoplasma</GBSeq_organism>
+./Eu168781.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./EJ168747.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168741.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168782.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168774.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168761.xml:  <GBSeq_organism>Soybean phyllody phytoplasma</GBSeq_organism>
+./EJ168776.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168768.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168783.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168731.xml:  <GBSeq_organism>Lime witches&apos;-broom phytoplasma</GBSeq_organism>
+./EJ168766.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168765.xml:  <GBSeq_organism>Lime witches&apos;-broom phytoplasma</GBSeq_organism>
+./EU168770.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./EU168776.xml:  <GBSeq_organism>Potato witches&apos;-broom phytoplasma</GBSeq_organism>
+./EU168781.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./EJ168780.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168769.xml:  <GBSeq_organism>Poinsettia branching factor phytoplasma</GBSeq_organism>
+./EU168754.xml:  <GBSeq_organism>Atypical aster yellows phytoplasma</GBSeq_organism>
+./EU168757.xml:  <GBSeq_organism>Black currant reversion disease phytoplasma</GBSeq_organism>
+./EJ168761.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168726.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168774.xml:  <GBSeq_organism>Cape St. Paul wilt disease phytoplasma</GBSeq_organism>
+./EJ168765.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168722.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./EU168762.xml:  <GBSeq_organism>Sweet potato little leaf phytoplasma</GBSeq_organism>
+./EU168777.xml:  <GBSeq_organism>Brinjal little leaf phytoplasma</GBSeq_organism>
+./EJ168771.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./Eu168785.xml:  <GBSeq_organism>Cordyline phytoplasma</GBSeq_organism>
+./EJ168778.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168756.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./Eu168756.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./EJ168770.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EJ168750.xml:  <GBSeq_organism>marine metagenome</GBSeq_organism>
+./EU168772.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./EU168785.xml:  <GBSeq_organism>Cordyline phytoplasma</GBSeq_organism>
+./EU168735.xml:  <GBSeq_organism>Poinsettia branching factor phytoplasma</GBSeq_organism>
+./EU168732.xml:  <GBSeq_organism>Peach Western X phytoplasma</GBSeq_organism>

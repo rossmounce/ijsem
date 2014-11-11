@@ -1,0 +1,17 @@
+./X53212.xml:  <GBSeq_organism>Nocardioides luteus</GBSeq_organism>
+./AY253863.xml:  <GBSeq_organism>Kribbella flavida</GBSeq_organism>
+./AF237815.xml:  <GBSeq_organism>Actinopolymorpha singaporensis</GBSeq_organism>
+./AY253864.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./AF005022.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./X53217.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./Z78207.xml:  <GBSeq_organism>Microlunatus phosphovorus</GBSeq_organism>
+./EF601829.xml:  <GBSeq_organism>Actinopolymorpha rutila</GBSeq_organism>
+./Z78208.xml:  <GBSeq_organism>Luteococcus japonicus</GBSeq_organism>
+./X53211.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./X53214.xml:  <GBSeq_organism>Nocardioides jensenii</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AF227165.xml:  <GBSeq_organism>Propioniferax innocua</GBSeq_organism>
+./EU706350.xml:  <GBSeq_organism>Actinopolymorpha alba</GBSeq_organism>
+./X69973.xml:  <GBSeq_organism>Nocardioides plantarum</GBSeq_organism>

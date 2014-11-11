@@ -1,0 +1,21 @@
+./AJ294378.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AY688601.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./GU559874.xml:  <GBSeq_organism>Rhizobium aggregatum</GBSeq_organism>
+./GU559876.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ294376.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AM286428.xml:  <GBSeq_organism>Rhizobium cellulosilyticum</GBSeq_organism>
+./GU559875.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./AM182122.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AY907357.xml:  <GBSeq_organism>Rhizobium gallicum bv. gallicum</GBSeq_organism>
+./AY907358.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AJ294372.xml:  <GBSeq_organism>Rhizobium leucaenae USDA 9039</GBSeq_organism>
+./EF113136.xml:  <GBSeq_organism>Rhizobium phaseoli</GBSeq_organism>
+./AJ294374.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./EF113184.xml:  <GBSeq_organism>Malus toringoides</GBSeq_organism>
+./AY591555.xml:  <GBSeq_organism>Bradyrhizobium japonicum bv. glycinearum</GBSeq_organism>
+./GU559877.xml:  <GBSeq_organism>Rhizobium selenitireducens</GBSeq_organism>
+./GU562963.xml:  <GBSeq_organism>Rhizobium rosettiformans W3</GBSeq_organism>
+./EF579941.xml:  <GBSeq_organism>Rhizobium fabae</GBSeq_organism>
+./AJ294375.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AY907359.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./EU288694.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>

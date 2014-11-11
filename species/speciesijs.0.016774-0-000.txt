@@ -1,0 +1,15 @@
+./AJ608686.xml:  <GBSeq_organism>Slackia faecicanis</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./X67150.xml:  <GBSeq_organism>Atopobium parvulum</GBSeq_organism>
+./L34620.xml:  <GBSeq_organism>Atopobium fossor</GBSeq_organism>
+./AJ458462.xml:  <GBSeq_organism>Thermoleophilum album</GBSeq_organism>
+./AF292373.xml:  <GBSeq_organism>Olsenella uli DSM 7084</GBSeq_organism>
+./X79048.xml:  <GBSeq_organism>Coriobacterium glomerans PW2</GBSeq_organism>
+./AF292371.xml:  <GBSeq_organism>Atopobium rimae</GBSeq_organism>
+./EU377663.xml:  <GBSeq_organism>Slackia equolifaciens</GBSeq_organism>
+./EU826403.xml:  <GBSeq_organism>Slackia isoflavoniconvertens</GBSeq_organism>
+./AY321958.xml:  <GBSeq_organism>Eggerthella sinensis JCM 14551</GBSeq_organism>
+./AM886059.xml:  <GBSeq_organism>Gordonibacter pamelaeae 7-10-1-b</GBSeq_organism>
+./Y17195.xml:  <GBSeq_organism>Atopobium vaginae DSM 15829</GBSeq_organism>
+./AF292374.xml:  <GBSeq_organism>Olsenella profusa DSM 13989</GBSeq_organism>
+./U43492.xml:  <GBSeq_organism>Denitrobacterium detoxificans</GBSeq_organism>

@@ -1,0 +1,29 @@
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./X80598.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./X82061.xml:  <GBSeq_organism>Corynebacterium glutamicum</GBSeq_organism>
+./X81920.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AB243007.xml:  <GBSeq_organism>Smaragdicoccus niigatensis</GBSeq_organism>
+./X81935.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./Y12246.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./X82052.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./X81931.xml:  <GBSeq_organism>Rhodococcus globerulus</GBSeq_organism>
+./AB010909.xml:  <GBSeq_organism>Williamsia maris</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X80617.xml:  <GBSeq_organism>Rhodococcus marinonascens</GBSeq_organism>
+./X80635.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./X81929.xml:  <GBSeq_organism>Rhodococcus erythropolis</GBSeq_organism>
+./AJ131120.xml:  <GBSeq_organism>Mycobacterium caprae</GBSeq_organism>
+./X75903.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./X80626.xml:  <GBSeq_organism>Rhodococcus coprophilus</GBSeq_organism>
+./Z36935.xml:  <GBSeq_organism>Nocardia brasiliensis NBRC 14402</GBSeq_organism>
+./Z37989.xml:  <GBSeq_organism>Nocardia crassostreae</GBSeq_organism>
+./X81911.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X80624.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X80630.xml:  <GBSeq_organism>Rhodococcus opacus</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./X81934.xml:  <GBSeq_organism>Rhodococcus zopfii</GBSeq_organism>
+./AJ131761.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./X79187.xml:  <GBSeq_organism>Rhodococcus fascians</GBSeq_organism>

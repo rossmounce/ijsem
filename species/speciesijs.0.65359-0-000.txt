@@ -1,0 +1,7 @@
+./U97547.xml:  <GBSeq_organism>Rickettsiella grylli</GBSeq_organism>
+./M21291.xml:  <GBSeq_organism>Coxiella burnetii</GBSeq_organism>
+./AY223862.xml:  <GBSeq_organism>Candidatus Rhabdochlamydia porcellionis</GBSeq_organism>
+./EF408231.xml:  <GBSeq_organism>Rickettsiella melolonthae</GBSeq_organism>
+./AF383621.xml:  <GBSeq_organism>Rickettsiella sp. GSU</GBSeq_organism>
+./L06108.xml:  <GBSeq_organism>Chlamydia pneumoniae</GBSeq_organism>
+./AY928092.xml:  <GBSeq_organism>Candidatus Rhabdochlamydia crassificans</GBSeq_organism>

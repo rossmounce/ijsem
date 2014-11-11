@@ -1,0 +1,16 @@
+./AM168426.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM168428.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM168427.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM087679.xml:  <GBSeq_organism>Lactobacillus animalis KCTC 3501 = DSM 20602</GBSeq_organism>
+./AM168429.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM087721.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AM087756.xml:  <GBSeq_organism>Lactobacillus ruminis</GBSeq_organism>
+./AM168425.xml:  <GBSeq_organism>Carnobacterium maltaromaticum</GBSeq_organism>
+./AM087762.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM087708.xml:  <GBSeq_organism>Lactobacillus nagelii</GBSeq_organism>
+./AM087740.xml:  <GBSeq_organism>Lactobacillus equi</GBSeq_organism>
+./AM087746.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AM087760.xml:  <GBSeq_organism>Lactobacillus murinus</GBSeq_organism>
+./AM087687.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM087717.xml:  <GBSeq_organism>Lactobacillus saerimneri</GBSeq_organism>
+./AM087734.xml:  <GBSeq_organism>Lactobacillus agilis</GBSeq_organism>

@@ -1,0 +1,8 @@
+./AF197902.xml:  <GBSeq_organism>Alcanivorax borkumensis</GBSeq_organism>
+./AF328767.xml:  <GBSeq_organism>Alcanivorax jadensis T9</GBSeq_organism>
+./AF197901.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>
+./AF197903.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>
+./AF328765.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>
+./AF328764.xml:  <GBSeq_organism>Alcanivorax venustensis</GBSeq_organism>
+./AF197900.xml:  <GBSeq_organism>Alcanivorax borkumensis</GBSeq_organism>
+./AF328766.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>

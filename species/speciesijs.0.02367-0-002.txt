@@ -1,0 +1,15 @@
+./Y11333.xml:  <GBSeq_organism>Deinococcus radiophilus</GBSeq_organism>
+./AJ430586.xml:  <GBSeq_organism>Oceanithermus profundus DSM 14977</GBSeq_organism>
+./AB069382.xml:  <GBSeq_organism>synthetic construct</GBSeq_organism>
+./L09667.xml:  <GBSeq_organism>Thermus filiformis</GBSeq_organism>
+./Y18410.xml:  <GBSeq_organism>Thermus scotoductus</GBSeq_organism>
+./Y18406.xml:  <GBSeq_organism>Thermus igniterrae ATCC 700962</GBSeq_organism>
+./Y11329.xml:  <GBSeq_organism>Deinococcus grandis</GBSeq_organism>
+./L09663.xml:  <GBSeq_organism>Thermus aquaticus</GBSeq_organism>
+./Y11334.xml:  <GBSeq_organism>Deinococcus radiopugnans ATCC 19172</GBSeq_organism>
+./Y18416.xml:  <GBSeq_organism>Thermus oshimai</GBSeq_organism>
+./Y11332.xml:  <GBSeq_organism>Deinococcus radiodurans</GBSeq_organism>
+./X84212.xml:  <GBSeq_organism>Meiothermus chliarophilus</GBSeq_organism>
+./Y11331.xml:  <GBSeq_organism>Deinococcus proteolyticus MRP</GBSeq_organism>
+./X07998.xml:  <GBSeq_organism>Thermus thermophilus HB8</GBSeq_organism>
+./Y13594.xml:  <GBSeq_organism>Meiothermus cerbereus</GBSeq_organism>

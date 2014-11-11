@@ -1,0 +1,10 @@
+./NR029163.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./NR029020.xml:  <GBSeq_organism>Thermosipho atlanticus</GBSeq_organism>
+./AB257289.xml:  <GBSeq_organism>Thermosipho globiformans</GBSeq_organism>
+./NR028907.xml:  <GBSeq_organism>Marinitoga camini</GBSeq_organism>
+./NR029172.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./L10657.xml:  <GBSeq_organism>Petrotoga miotherma</GBSeq_organism>
+./NR025389.xml:  <GBSeq_organism>Thermosipho geolei</GBSeq_organism>
+./L10658.xml:  <GBSeq_organism>Geotoga petraea</GBSeq_organism>
+./NR027617.xml:  <GBSeq_organism>Thermosipho melanesiensis BI429</GBSeq_organism>
+./EU980631.xml:  <GBSeq_organism>Kosmotoga olearia TBF 19.5.1</GBSeq_organism>

@@ -1,0 +1,30 @@
+./L14326.xml:  <GBSeq_organism>Gemella haemolysans</GBSeq_organism>
+./AF254387.xml:  <GBSeq_organism>Candidatus Pasteuria usgae</GBSeq_organism>
+./AF349724.xml:  <GBSeq_organism>Turicibacter sanguinis</GBSeq_organism>
+./X91080.xml:  <GBSeq_organism>Sulfobacillus thermosulfidooxidans DSM 9293</GBSeq_organism>
+./AF138736.xml:  <GBSeq_organism>Laceyella putida</GBSeq_organism>
+./AF134868.xml:  <GBSeq_organism>Pasteuria nishizawae</GBSeq_organism>
+./AF138733.xml:  <GBSeq_organism>Thermoflavimicrobium dichotomicum</GBSeq_organism>
+./X60627.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AB242200.xml:  <GBSeq_organism>Mechercharimyces mesophilus</GBSeq_organism>
+./AF138739.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./AF138734.xml:  <GBSeq_organism>Thermoactinomyces intermedius</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./AJ294817.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./X56153.xml:  <GBSeq_organism>Listeria monocytogenes</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AJ496806.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./X60612.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./X70321.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./AF138737.xml:  <GBSeq_organism>Laceyella sacchari</GBSeq_organism>
+./X62175.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AF138735.xml:  <GBSeq_organism>Seinonella peptonophila</GBSeq_organism>
+./AB101592.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus ATCC 12856</GBSeq_organism>
+./AB190226.xml:  <GBSeq_organism>Bacillus cereus ATCC 14579</GBSeq_organism>
+./AB101595.xml:  <GBSeq_organism>Sporolactobacillus inulinus</GBSeq_organism>
+./AB239530.xml:  <GBSeq_organism>Mechercharimyces mesophilus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X68417.xml:  <GBSeq_organism>Staphylococcus aureus</GBSeq_organism>

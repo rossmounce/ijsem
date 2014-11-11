@@ -1,0 +1,12 @@
+./U40095.xml:  <GBSeq_organism>Blastobotrys elegans</GBSeq_organism>
+./U40098.xml:  <GBSeq_organism>Blastobotrys proliferans</GBSeq_organism>
+./AY283605.xml:  <GBSeq_organism>Blastobotrys indianaensis</GBSeq_organism>
+./U40132.xml:  <GBSeq_organism>Trichomonascus farinosus</GBSeq_organism>
+./AY442294.xml:  <GBSeq_organism>Blastobotrys attinorum</GBSeq_organism>
+./U40109.xml:  <GBSeq_organism>Blastobotrys aristata</GBSeq_organism>
+./U40108.xml:  <GBSeq_organism>Blastobotrys arbuscula</GBSeq_organism>
+./U40104.xml:  <GBSeq_organism>Blastobotrys capitulata</GBSeq_organism>
+./U40110.xml:  <GBSeq_organism>Blastobotrys nivea</GBSeq_organism>
+./AF017247.xml:  <GBSeq_organism>Trichomonascus petasosporus</GBSeq_organism>
+./U40096.xml:  <GBSeq_organism>Blastobotrys parvus</GBSeq_organism>
+./AY048154.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>

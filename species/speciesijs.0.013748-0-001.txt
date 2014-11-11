@@ -1,0 +1,9 @@
+./EU636828.xml:  <GBSeq_organism>Campylobacter cuniculorum LMG 24588</GBSeq_organism>
+./EU636814.xml:  <GBSeq_organism>Campylobacter avium LMG 24591</GBSeq_organism>
+./AY789009.xml:  <GBSeq_organism>Campylobacter jejuni subsp. jejuni</GBSeq_organism>
+./FM883698.xml:  <GBSeq_organism>Campylobacter volucris</GBSeq_organism>
+./AM924135.xml:  <GBSeq_organism>Campylobacter insulaenigrae NCTC 12927</GBSeq_organism>
+./FM883697.xml:  <GBSeq_organism>Campylobacter volucris</GBSeq_organism>
+./AM924138.xml:  <GBSeq_organism>Campylobacter lari subsp. concheus</GBSeq_organism>
+./FM883696.xml:  <GBSeq_organism>Campylobacter volucris LMG 24379</GBSeq_organism>
+./AM933375.xml:  <GBSeq_organism>Campylobacter subantarcticus</GBSeq_organism>

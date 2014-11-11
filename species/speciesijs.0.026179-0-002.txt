@@ -1,0 +1,9 @@
+./AF138736.xml:  <GBSeq_organism>Laceyella putida</GBSeq_organism>
+./AF138733.xml:  <GBSeq_organism>Thermoflavimicrobium dichotomicum</GBSeq_organism>
+./FN665656.xml:  <GBSeq_organism>Kroppenstedtia eburnea</GBSeq_organism>
+./AY443038.xml:  <GBSeq_organism>Bacillus fortis</GBSeq_organism>
+./AF138739.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./AJ251779.xml:  <GBSeq_organism>Laceyella sacchari</GBSeq_organism>
+./X94196.xml:  <GBSeq_organism>Aneurinibacillus thermoaerophilus</GBSeq_organism>
+./AM940019.xml:  <GBSeq_organism>Desmospora activa</GBSeq_organism>
+./AF138735.xml:  <GBSeq_organism>Seinonella peptonophila</GBSeq_organism>

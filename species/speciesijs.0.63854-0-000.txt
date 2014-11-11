@@ -1,0 +1,8 @@
+./AY962575.xml:  <GBSeq_organism>Microbacterium koreense</GBSeq_organism>
+./X77445.xml:  <GBSeq_organism>Microbacterium testaceum</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AB004721.xml:  <GBSeq_organism>Microbacterium terregens</GBSeq_organism>
+./AY962574.xml:  <GBSeq_organism>Microbacterium koreense</GBSeq_organism>
+./M23411.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./D21340.xml:  <GBSeq_organism>Microbacterium aurum</GBSeq_organism>

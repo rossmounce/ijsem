@@ -1,0 +1,9 @@
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY027806.xml:  <GBSeq_organism>Aequorivita crocea</GBSeq_organism>
+./AY027805.xml:  <GBSeq_organism>Aequorivita lipolytica</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./EU642844.xml:  <GBSeq_organism>Vitellibacter aestuarii</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./EF554364.xml:  <GBSeq_organism>Ulvibacter antarcticus</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>

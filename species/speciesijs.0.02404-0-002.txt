@@ -1,0 +1,9 @@
+./AF078759.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae ATCC 19860</GBSeq_organism>
+./AF078761.xml:  <GBSeq_organism>Acidovorax citrulli</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./AF078764.xml:  <GBSeq_organism>Acidovorax delafieldii</GBSeq_organism>
+./AJ431731.xml:  <GBSeq_organism>Acidovorax valerianellae</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF078762.xml:  <GBSeq_organism>Acidovorax cattleyae</GBSeq_organism>
+./AF078766.xml:  <GBSeq_organism>Acidovorax temperans</GBSeq_organism>

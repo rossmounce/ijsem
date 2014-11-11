@@ -1,0 +1,9 @@
+./AY838279.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./DQ458847.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./D14128.xml:  <GBSeq_organism>Haloferax denitrificans ATCC 35960</GBSeq_organism>
+./M38280.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./K00421.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AY838278.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./AB081732.xml:  <GBSeq_organism>Haloferax lucentense</GBSeq_organism>
+./AY458601.xml:  <GBSeq_organism>Haloferax sulfurifontis ATCC BAA-897</GBSeq_organism>

@@ -1,0 +1,15 @@
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./AM285297.xml:  <GBSeq_organism>Haloterrigena hispanica</GBSeq_organism>
+./AY208972.xml:  <GBSeq_organism>Natrinema altunense</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./EF077633.xml:  <GBSeq_organism>Haloterrigena jeotgali</GBSeq_organism>
+./AY820137.xml:  <GBSeq_organism>Haloterrigena saccharevitans</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./AJ003193.xml:  <GBSeq_organism>Natrialba hulunbeirensis</GBSeq_organism>
+./AY838278.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./AM039978.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AB125108.xml:  <GBSeq_organism>Natronolimnobius innermongolicus</GBSeq_organism>
+./EF077632.xml:  <GBSeq_organism>Halalkalicoccus jeotgali B3</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>
+./AY277562.xml:  <GBSeq_organism>Pteromys volans</GBSeq_organism>

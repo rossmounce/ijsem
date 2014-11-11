@@ -1,0 +1,9 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AJ555478.xml:  <GBSeq_organism>Solimonas variicoloris DSM 15731</GBSeq_organism>
+./EF605262.xml:  <GBSeq_organism>Steroidobacter denitrificans</GBSeq_organism>
+./EF067861.xml:  <GBSeq_organism>Solimonas soli</GBSeq_organism>
+./EF178288.xml:  <GBSeq_organism>Citrus tatter leaf virus</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./EF154515.xml:  <GBSeq_organism>Solimonas flava DSM 18980</GBSeq_organism>
+./AJ001011.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./AJ421425.xml:  <GBSeq_organism>Salinisphaera shabanensis E1L3A</GBSeq_organism>

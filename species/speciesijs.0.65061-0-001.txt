@@ -1,0 +1,18 @@
+./Y11764.xml:  <GBSeq_organism>Campylobacter lari subsp. lari</GBSeq_organism>
+./EF621904.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./X80382.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./X67762.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./X67773.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./X67768.xml:  <GBSeq_organism>Campylobacter sputorum biovar sputorum</GBSeq_organism>
+./X87295.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./X80384.xml:  <GBSeq_organism>Arcobacter nitrofigilis DSM 7299</GBSeq_organism>
+./X80383.xml:  <GBSeq_organism>Arcobacter cryaerophilus ATCC 43158</GBSeq_organism>
+./Z29326.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AB162858.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./X80636.xml:  <GBSeq_organism>Campylobacter mucosalis</GBSeq_organism>
+./X67766.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./X66616.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./EF621905.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./U09611.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./X67763.xml:  <GBSeq_organism>Campylobacter upsaliensis</GBSeq_organism>
+./X80385.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>

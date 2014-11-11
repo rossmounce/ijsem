@@ -1,0 +1,11 @@
+./M59067.xml:  <GBSeq_organism>Phaeospirillum molischianum</GBSeq_organism>
+./EU008565.xml:  <GBSeq_organism>Thalassobaculum salexigens</GBSeq_organism>
+./D12701.xml:  <GBSeq_organism>Rhodospirillum centenum</GBSeq_organism>
+./EF203900.xml:  <GBSeq_organism>Thalassobaculum litoreum DSM 18839</GBSeq_organism>
+./AF524863.xml:  <GBSeq_organism>Telmatospirillum siberiense</GBSeq_organism>
+./DQ665838.xml:  <GBSeq_organism>Nisaea denitrificans DSM 18348</GBSeq_organism>
+./FJ455532.xml:  <GBSeq_organism>Dongia mobilis</GBSeq_organism>
+./AY043374.xml:  <GBSeq_organism>Inquilinus limosus</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>

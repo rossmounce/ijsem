@@ -1,0 +1,6 @@
+./AJ579887.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./AJ579889.xml:  <GBSeq_organism>Rhizobium sp. SX211a</GBSeq_organism>
+./AJ579892.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./AJ579891.xml:  <GBSeq_organism>Mesorhizobium sp. SDW040</GBSeq_organism>
+./AJ579888.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./AJ579890.xml:  <GBSeq_organism>Rhizobium sp. SDW062</GBSeq_organism>

@@ -1,0 +1,11 @@
+./GQ386821.xml:  <GBSeq_organism>Photobacterium swingsii</GBSeq_organism>
+./AY538749.xml:  <GBSeq_organism>Photobacterium frigidiphilum</GBSeq_organism>
+./AB428873.xml:  <GBSeq_organism>Photobacterium aquimaris</GBSeq_organism>
+./AY960847.xml:  <GBSeq_organism>Photobacterium ganghwense</GBSeq_organism>
+./AY551089.xml:  <GBSeq_organism>Photobacterium halotolerans</GBSeq_organism>
+./AY341439.xml:  <GBSeq_organism>Photobacterium kishitanii</GBSeq_organism>
+./GQ386817.xml:  <GBSeq_organism>Photobacterium swingsii</GBSeq_organism>
+./AY554009.xml:  <GBSeq_organism>Photobacterium lipolyticum</GBSeq_organism>
+./GO386820.xml:  <GBSeq_organism>Gadus morhua</GBSeq_organism>
+./AJ842344.xml:  <GBSeq_organism>Photobacterium rosenbergii</GBSeq_organism>
+./D21226.xml:  <GBSeq_organism>Photobacterium profundum</GBSeq_organism>

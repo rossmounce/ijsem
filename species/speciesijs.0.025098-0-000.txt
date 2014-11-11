@@ -1,0 +1,50 @@
+./GU981658.xml:  <GBSeq_organism>Penicillium javanicum</GBSeq_organism>
+./GU981634.xml:  <GBSeq_organism>Penicillium wotroi</GBSeq_organism>
+./GU981638.xml:  <GBSeq_organism>Penicillium araracuarense</GBSeq_organism>
+./GU981656.xml:  <GBSeq_organism>Penicillium javanicum var. meloforme</GBSeq_organism>
+./GU981641.xml:  <GBSeq_organism>Penicillium araracuarense</GBSeq_organism>
+./GU981627.xml:  <GBSeq_organism>Penicillium onobense</GBSeq_organism>
+./GU981647.xml:  <GBSeq_organism>Eupenicillium sp. 4 JH-2010</GBSeq_organism>
+./GU981621.xml:  <GBSeq_organism>Penicillium limosum</GBSeq_organism>
+./GU981635.xml:  <GBSeq_organism>Penicillium wotroi</GBSeq_organism>
+./GU981633.xml:  <GBSeq_organism>Penicillium wotroi</GBSeq_organism>
+./GU981645.xml:  <GBSeq_organism>Penicillium sp. 3 JH-2010</GBSeq_organism>
+./GU981623.xml:  <GBSeq_organism>Penicillium brefeldianum</GBSeq_organism>
+./GU981852.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./GU981662.xml:  <GBSeq_organism>Eupenicillium sp. 5 JH-2010</GBSeq_organism>
+./GU981626.xml:  <GBSeq_organism>Penicillium skrjabinii</GBSeq_organism>
+./GU981625.xml:  <GBSeq_organism>Penicillium janthinellum</GBSeq_organism>
+./GU981651.xml:  <GBSeq_organism>Penicillium zonatum</GBSeq_organism>
+./GU981631.xml:  <GBSeq_organism>Penicillium simplicissimum</GBSeq_organism>
+./GU981653.xml:  <GBSeq_organism>Penicillium vasconiae</GBSeq_organism>
+./GU981632.xml:  <GBSeq_organism>Penicillium simplicissimum</GBSeq_organism>
+./GU981648.xml:  <GBSeq_organism>Eupenicillium sp. 4 JH-2010</GBSeq_organism>
+./GU981639.xml:  <GBSeq_organism>Penicillium araracuarense</GBSeq_organism>
+./GU981668.xml:  <GBSeq_organism>Penicillium piscarium</GBSeq_organism>
+./GU981654.xml:  <GBSeq_organism>Penicillium levitum</GBSeq_organism>
+./GU981664.xml:  <GBSeq_organism>Eupenicillium sp. 5 JH-2010</GBSeq_organism>
+./GU981642.xml:  <GBSeq_organism>Penicillium araracuarense</GBSeq_organism>
+./GU981646.xml:  <GBSeq_organism>Penicillium sp. 3 JH-2010</GBSeq_organism>
+./GU981669.xml:  <GBSeq_organism>Penicillium svalbardense</GBSeq_organism>
+./GU981630.xml:  <GBSeq_organism>Penicillium mariae-crucis</GBSeq_organism>
+./GU981637.xml:  <GBSeq_organism>Penicillium wotroi</GBSeq_organism>
+./GU981663.xml:  <GBSeq_organism>Eupenicillium sp. 5 JH-2010</GBSeq_organism>
+./GU981624.xml:  <GBSeq_organism>Penicillium cremeogriseum</GBSeq_organism>
+./GU981671.xml:  <GBSeq_organism>Penicillium ciegleri</GBSeq_organism>
+./GU981640.xml:  <GBSeq_organism>Penicillium araracuarense</GBSeq_organism>
+./GU981650.xml:  <GBSeq_organism>Penicillium abidjanum</GBSeq_organism>
+./GU981628.xml:  <GBSeq_organism>Penicillium paraherquei</GBSeq_organism>
+./GU981670.xml:  <GBSeq_organism>Penicillium pulvillorum</GBSeq_organism>
+./GU981660.xml:  <GBSeq_organism>Penicillium meridianum</GBSeq_organism>
+./GU981629.xml:  <GBSeq_organism>Penicillium brasilianum</GBSeq_organism>
+./GU981661.xml:  <GBSeq_organism>Eupenicillium sp. 5 JH-2010</GBSeq_organism>
+./GU981619.xml:  <GBSeq_organism>Penicillium glabrum</GBSeq_organism>
+./GU981672.xml:  <GBSeq_organism>Penicillium ochrochloron</GBSeq_organism>
+./GU981620.xml:  <GBSeq_organism>Penicillium lineolatum</GBSeq_organism>
+./GU981666.xml:  <GBSeq_organism>Penicillium abidjanum</GBSeq_organism>
+./GU981644.xml:  <GBSeq_organism>Penicillium sp. 3 JH-2010</GBSeq_organism>
+./GU981643.xml:  <GBSeq_organism>Penicillium sp. 3 JH-2010</GBSeq_organism>
+./GU981667.xml:  <GBSeq_organism>Penicillium rolfsii</GBSeq_organism>
+./GU981649.xml:  <GBSeq_organism>Penicillium daleae</GBSeq_organism>
+./GU981655.xml:  <GBSeq_organism>Penicillium coeruleum</GBSeq_organism>
+./GU981665.xml:  <GBSeq_organism>Penicillium reticulisporum</GBSeq_organism>

@@ -1,0 +1,9 @@
+./DQ285620.xml:  <GBSeq_organism>Penicillium soppii</GBSeq_organism>
+./DQ285617.xml:  <GBSeq_organism>Penicillium ribium</GBSeq_organism>
+./DQ285616.xml:  <GBSeq_organism>Penicillium soppii</GBSeq_organism>
+./DQ285609.xml:  <GBSeq_organism>Penicillium raistrickii</GBSeq_organism>
+./DQ285625.xml:  <GBSeq_organism>Penicillium ribium</GBSeq_organism>
+./AY371580.xml:  <GBSeq_organism>Penicillium chrysogenum complex sp. C200</GBSeq_organism>
+./DQ309447.xml:  <GBSeq_organism>Penicillium jamesonlandense</GBSeq_organism>
+./DQ285613.xml:  <GBSeq_organism>Penicillium soppii</GBSeq_organism>
+./DQ309448.xml:  <GBSeq_organism>Penicillium jamesonlandense</GBSeq_organism>

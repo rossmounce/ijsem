@@ -1,0 +1,40 @@
+./U76348.xml:  <GBSeq_organism>Pichia occidentalis</GBSeq_organism>
+./AY163900.xml:  <GBSeq_organism>Issatchenkia hanoiensis</GBSeq_organism>
+./U75734.xml:  <GBSeq_organism>Pichia deserticola</GBSeq_organism>
+./U75738.xml:  <GBSeq_organism>Pichia galeiformis</GBSeq_organism>
+./DQ198963.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ104725.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ104733.xml:  <GBSeq_organism>Pichia kluyveri var. kluyveri</GBSeq_organism>
+./DQ198965.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ104717.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./U76347.xml:  <GBSeq_organism>Pichia kudriavzevii</GBSeq_organism>
+./U71073.xml:  <GBSeq_organism>Candida ethanolica</GBSeq_organism>
+./AM882676.xml:  <GBSeq_organism>Pichia galeiformis</GBSeq_organism>
+./U76345.xml:  <GBSeq_organism>Issatchenkia terricola</GBSeq_organism>
+./DQ104727.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./AM882679.xml:  <GBSeq_organism>Pichia sp. YS110</GBSeq_organism>
+./DQ104723.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./U75737.xml:  <GBSeq_organism>Pichia kluyveri var. cephalocereana</GBSeq_organism>
+./DQ104731.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./U75727.xml:  <GBSeq_organism>Pichia kluyveri var. kluyveri</GBSeq_organism>
+./AM159112.xml:  <GBSeq_organism>Pichia cecembensis</GBSeq_organism>
+./DQ198951.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ104715.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ104712.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./AF020436.xml:  <GBSeq_organism>Pichia sp. AWRI 1272</GBSeq_organism>
+./DQ198959.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./U75725.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./AM905031.xml:  <GBSeq_organism>Pichia sp. YS111</GBSeq_organism>
+./U75726.xml:  <GBSeq_organism>Pichia fermentans</GBSeq_organism>
+./U76349.xml:  <GBSeq_organism>Issatchenkia scutulata var. exigua</GBSeq_organism>
+./DQ104721.xml:  <GBSeq_organism>Kregervanrija fluxuum</GBSeq_organism>
+./U75736.xml:  <GBSeq_organism>Pichia kluyveri var. eremophila</GBSeq_organism>
+./DQ466536.xml:  <GBSeq_organism>Pichia occidentalis</GBSeq_organism>
+./DQ198953.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ104713.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ198957.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./DQ198955.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>
+./AM882677.xml:  <GBSeq_organism>Pichia fermentans</GBSeq_organism>
+./U84239.xml:  <GBSeq_organism>Lachancea fermentati</GBSeq_organism>
+./DQ104719.xml:  <GBSeq_organism>Pichia sp. CBS 241</GBSeq_organism>
+./DQ198961.xml:  <GBSeq_organism>Pichia membranifaciens</GBSeq_organism>

@@ -1,0 +1,18 @@
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./AY376312.xml:  <GBSeq_organism>Bacillus bogoriensis</GBSeq_organism>
+./AJ880003.xml:  <GBSeq_organism>Bacillus plakortidis</GBSeq_organism>
+./X60603.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AY258614.xml:  <GBSeq_organism>Bacillus patagoniensis</GBSeq_organism>
+./AJ551329.xml:  <GBSeq_organism>Fictibacillus gelatini</GBSeq_organism>
+./AJ316316.xml:  <GBSeq_organism>Bacillus murimartini</GBSeq_organism>
+./AB434284.xml:  <GBSeq_organism>Bacillus trypoxylicola</GBSeq_organism>
+./EU046268.xml:  <GBSeq_organism>Fictibacillus solisalsi</GBSeq_organism>
+./HM054474.xml:  <GBSeq_organism>Bacillus xiaoxiensis</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./AF541966.xml:  <GBSeq_organism>Bacillus hwajinpoensis</GBSeq_organism>
+./EU143680.xml:  <GBSeq_organism>Anaerobacillus alkalidiazotrophicus</GBSeq_organism>
+./EU939689.xml:  <GBSeq_organism>Fictibacillus rigui</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AB188090.xml:  <GBSeq_organism>Bacillus oshimensis</GBSeq_organism>
+./AY793550.xml:  <GBSeq_organism>Bacillus lehensis</GBSeq_organism>

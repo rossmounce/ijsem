@@ -1,0 +1,9 @@
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./AY264287.xml:  <GBSeq_organism>Chitinibacter tainanensis</GBSeq_organism>
+./L06174.xml:  <GBSeq_organism>Vitreoscilla stercoraria</GBSeq_organism>
+./U45995.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./M22516.xml:  <GBSeq_organism>Kingella denitrificans ATCC 33394</GBSeq_organism>
+./Y17602.xml:  <GBSeq_organism>Formivibrio citricus</GBSeq_organism>
+./L06164.xml:  <GBSeq_organism>Kingella oralis</GBSeq_organism>
+./AB194302.xml:  <GBSeq_organism>Silvimonas terrae</GBSeq_organism>
+./M22512.xml:  <GBSeq_organism>Eikenella corrodens</GBSeq_organism>

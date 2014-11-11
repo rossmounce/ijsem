@@ -1,0 +1,4 @@
+./AL935258.xml:  <GBSeq_organism>Lactobacillus plantarum WCFS1</GBSeq_organism>
+./AJ621666.xml:  <GBSeq_organism>Lactobacillus pentosus</GBSeq_organism>
+./AJ621662.xml:  <GBSeq_organism>Lactobacillus paraplantarum</GBSeq_organism>
+./AJ640079.xml:  <GBSeq_organism>Lactobacillus plantarum subsp. argentoratensis</GBSeq_organism>

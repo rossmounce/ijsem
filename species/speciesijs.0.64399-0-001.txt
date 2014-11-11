@@ -1,0 +1,26 @@
+./AB245515.xml:  <GBSeq_organism>Ferrimonas futtsuensis</GBSeq_organism>
+./AJ300834.xml:  <GBSeq_organism>Shewanella livingstonensis</GBSeq_organism>
+./AB193755.xml:  <GBSeq_organism>Ferrimonas sp. A3B-58</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./AY538749.xml:  <GBSeq_organism>Photobacterium frigidiphilum</GBSeq_organism>
+./AB193751.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AF374385.xml:  <GBSeq_organism>Psychromonas arctica</GBSeq_organism>
+./X82142.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./AB193752.xml:  <GBSeq_organism>Ferrimonas balearica</GBSeq_organism>
+./AJ252022.xml:  <GBSeq_organism>Moritella abyssi</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./AJ252023.xml:  <GBSeq_organism>Moritella profunda</GBSeq_organism>
+./X81622.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AB193756.xml:  <GBSeq_organism>Ferrimonas sp. A3B-57-2</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./AE015455.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AF136392.xml:  <GBSeq_organism>Shewanella sp. ANA-3</GBSeq_organism>
+./AF462458.xml:  <GBSeq_organism>Vibrio ruber</GBSeq_organism>
+./AJ507251.xml:  <GBSeq_organism>Pseudoalteromonas mariniglutinosa</GBSeq_organism>
+./AB002630.xml:  <GBSeq_organism>Colwellia maris</GBSeq_organism>
+./AY682202.xml:  <GBSeq_organism>Alteromonas addita</GBSeq_organism>
+./X82146.xml:  <GBSeq_organism>Pseudoalteromonas nigrifaciens</GBSeq_organism>
+./D21224.xml:  <GBSeq_organism>Moritella japonica</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ488501.xml:  <GBSeq_organism>Glaciecola mesophila KMM 241</GBSeq_organism>
+./AJ440214.xml:  <GBSeq_organism>Idiomarina baltica OS145</GBSeq_organism>

@@ -1,0 +1,9 @@
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./U86373.xml:  <GBSeq_organism>Burkholderia xenovorans LB400</GBSeq_organism>
+./AY497470.xml:  <GBSeq_organism>Burkholderia phytofirmans PsJN</GBSeq_organism>
+./AJ302312.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./AF215704.xml:  <GBSeq_organism>Burkholderia caledonica</GBSeq_organism>
+./Y17009.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./AY741342.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./AY435213.xml:  <GBSeq_organism>Burkholderia phenoliruptrix</GBSeq_organism>

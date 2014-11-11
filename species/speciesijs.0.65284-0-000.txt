@@ -1,0 +1,16 @@
+./AB030911.xml:  <GBSeq_organism>Tetrasphaera elongata Lp2</GBSeq_organism>
+./AF125092.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./Y14595.xml:  <GBSeq_organism>Tetrasphaera veronensis</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./AJ294413.xml:  <GBSeq_organism>Knoellia subterranea</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./AF125091.xml:  <GBSeq_organism>Tetrasphaera australiensis</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./AB072496.xml:  <GBSeq_organism>Tetrasphaera duodecadis</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./EF555583.xml:  <GBSeq_organism>Phycicoccus dokdonensis</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>
+./DQ345443.xml:  <GBSeq_organism>Phycicoccus jejuensis</GBSeq_organism>

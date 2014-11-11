@@ -1,0 +1,22 @@
+./AJ233436.xml:  <GBSeq_organism>Serratia rubidaea</GBSeq_organism>
+./AF025368.xml:  <GBSeq_organism>Citrobacter braakii</GBSeq_organism>
+./Y17658.xml:  <GBSeq_organism>Raoultella terrigena</GBSeq_organism>
+./Y17655.xml:  <GBSeq_organism>Klebsiella oxytoca</GBSeq_organism>
+./AJ233417.xml:  <GBSeq_organism>Erwinia rhapontici</GBSeq_organism>
+./AJ233413.xml:  <GBSeq_organism>Pantoea cypripedii</GBSeq_organism>
+./AJ233432.xml:  <GBSeq_organism>Serratia odorifera DSM 4582</GBSeq_organism>
+./AJ233428.xml:  <GBSeq_organism>Serratia ficaria</GBSeq_organism>
+./AJ251467.xml:  <GBSeq_organism>Raoultella ornithinolytica</GBSeq_organism>
+./AJ233430.xml:  <GBSeq_organism>Serratia grimesii</GBSeq_organism>
+./AJ233431.xml:  <GBSeq_organism>Serratia marcescens subsp. marcescens ATCC 13880</GBSeq_organism>
+./AJ233434.xml:  <GBSeq_organism>Serratia proteamaculans</GBSeq_organism>
+./AJ233404.xml:  <GBSeq_organism>Buttiauxella izardii</GBSeq_organism>
+./AJ233411.xml:  <GBSeq_organism>Pectobacterium carotovorum</GBSeq_organism>
+./AJ233427.xml:  <GBSeq_organism>Serratia entomophila</GBSeq_organism>
+./AJ233405.xml:  <GBSeq_organism>Buttiauxella noackiae</GBSeq_organism>
+./AJ854062.xml:  <GBSeq_organism>Serratia ureilytica</GBSeq_organism>
+./X74688.xml:  <GBSeq_organism>Plesiomonas shigelloides</GBSeq_organism>
+./AJ251468.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./AJ233433.xml:  <GBSeq_organism>Serratia plymuthica</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>
+./AJ233410.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>

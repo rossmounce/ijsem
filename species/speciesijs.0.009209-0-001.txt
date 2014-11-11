@@ -1,0 +1,21 @@
+./AB052706.xml:  <GBSeq_organism>Acetobacter orientalis</GBSeq_organism>
+./AM947652.xml:  <GBSeq_organism>Acidisoma tundrae</GBSeq_organism>
+./D30768.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./D30776.xml:  <GBSeq_organism>Acidiphilium rubrum</GBSeq_organism>
+./D86511.xml:  <GBSeq_organism>Acidiphilium acidophilum</GBSeq_organism>
+./AJ419837.xml:  <GBSeq_organism>Acetobacter lovaniensis</GBSeq_organism>
+./AB035416.xml:  <GBSeq_organism>Asaia siamensis</GBSeq_organism>
+./D30773.xml:  <GBSeq_organism>Acidiphilium cryptum</GBSeq_organism>
+./AB025930.xml:  <GBSeq_organism>Asaia bogorensis</GBSeq_organism>
+./AF127404.xml:  <GBSeq_organism>Gluconacetobacter sacchari</GBSeq_organism>
+./AM947654.xml:  <GBSeq_organism>Acidisoma sibiricum</GBSeq_organism>
+./AF127395.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./D30771.xml:  <GBSeq_organism>Acidocella aminolytica</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./AM947653.xml:  <GBSeq_organism>Acidisoma sibiricum</GBSeq_organism>
+./D30775.xml:  <GBSeq_organism>Acidiphilium organovorum</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

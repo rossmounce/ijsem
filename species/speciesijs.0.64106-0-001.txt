@@ -1,0 +1,10 @@
+./AF460985.xml:  <GBSeq_organism>uncultured Sulfobacillus sp.</GBSeq_organism>
+./AY007663.xml:  <GBSeq_organism>Sulfobacillus sp. L15</GBSeq_organism>
+./AY140239.xml:  <GBSeq_organism>Sulfobacillus sp. Y0017</GBSeq_organism>
+./AY007664.xml:  <GBSeq_organism>Sulfobacillus sp. RIV14</GBSeq_organism>
+./AF050169.xml:  <GBSeq_organism>Sulfobacillus acidophilus DSM 10332</GBSeq_organism>
+./DQ124681.xml:  <GBSeq_organism>Sulfobacillus thermotolerans</GBSeq_organism>
+./AB089844.xml:  <GBSeq_organism>Sulfobacillus thermosulfidooxidans DSM 9293</GBSeq_organism>
+./AY079150.xml:  <GBSeq_organism>Sulfobacillus sibiricus</GBSeq_organism>
+./AY140233.xml:  <GBSeq_organism>Sulfobacillus thermosulfidooxidans</GBSeq_organism>
+./U75648.xml:  <GBSeq_organism>Sulfobacillus thermosulfidooxidans</GBSeq_organism>

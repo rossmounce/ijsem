@@ -1,0 +1,13 @@
+./AY667494.xml:  <GBSeq_organism>Bacillus salarius</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X76443.xml:  <GBSeq_organism>Bacillus horikoshii DSM 8719</GBSeq_organism>
+./AY319933.xml:  <GBSeq_organism>Tenuibacillus multivorans</GBSeq_organism>
+./AY543169.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./X76444.xml:  <GBSeq_organism>[Bacillus] clarkii</GBSeq_organism>
+./AJ294817.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>

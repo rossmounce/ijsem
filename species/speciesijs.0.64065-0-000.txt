@@ -1,0 +1,15 @@
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./D12671.xml:  <GBSeq_organism>Flavobacterium saccharophilum</GBSeq_organism>
+./D12673.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./M58764.xml:  <GBSeq_organism>Flavobacterium hydatis</GBSeq_organism>
+./D12669.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./D14017.xml:  <GBSeq_organism>Flavobacterium branchiophilum</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./D12670.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./AF030380.xml:  <GBSeq_organism>Flavobacterium xanthum</GBSeq_organism>
+./AB010951.xml:  <GBSeq_organism>Flavobacterium columnare</GBSeq_organism>
+./AF162266.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>

@@ -1,0 +1,13 @@
+./X77445.xml:  <GBSeq_organism>Microbacterium testaceum</GBSeq_organism>
+./Y14699.xml:  <GBSeq_organism>Microbacterium resistens</GBSeq_organism>
+./AY062021.xml:  <GBSeq_organism>Microbacterium ulmi</GBSeq_organism>
+./AM778450.xml:  <GBSeq_organism>Microbacterium aquimaris</GBSeq_organism>
+./AJ698725.xml:  <GBSeq_organism>Microbacterium oleivorans</GBSeq_organism>
+./Y17232.xml:  <GBSeq_organism>Microbacterium flavescens</GBSeq_organism>
+./AJ491806.xml:  <GBSeq_organism>Microbacterium paraoxydans</GBSeq_organism>
+./AF263563.xml:  <GBSeq_organism>Microbacterium gubbeenense</GBSeq_organism>
+./AM158907.xml:  <GBSeq_organism>Microbacterium indicum</GBSeq_organism>
+./AM181507.xml:  <GBSeq_organism>Microbacterium thalassium</GBSeq_organism>
+./AM778449.xml:  <GBSeq_organism>Microbacterium aquimaris</GBSeq_organism>
+./AB004714.xml:  <GBSeq_organism>Microbacterium halophilum</GBSeq_organism>
+./Y17231.xml:  <GBSeq_organism>Microbacterium esteraromaticum</GBSeq_organism>

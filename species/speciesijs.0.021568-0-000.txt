@@ -1,0 +1,6 @@
+./D45054.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./AF389342.xml:  <GBSeq_organism>Agromyces aurantiacus</GBSeq_organism>
+./D45056.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./D45053.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./D45052.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./AY427830.xml:  <GBSeq_organism>Agromyces ulmi</GBSeq_organism>

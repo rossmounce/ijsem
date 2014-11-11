@@ -1,0 +1,25 @@
+./AF444762.xml:  <GBSeq_organism>Auriculibuller fuscus</GBSeq_organism>
+./AF444707.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8372</GBSeq_organism>
+./AF075492.xml:  <GBSeq_organism>Sirobasidium intermedium</GBSeq_organism>
+./AF472624.xml:  <GBSeq_organism>Cryptococcus perniciosus</GBSeq_organism>
+./AF042232.xml:  <GBSeq_organism>Tremella nivalis</GBSeq_organism>
+./AF075494.xml:  <GBSeq_organism>Cryptococcus sp. CBS 7890</GBSeq_organism>
+./AB105439.xml:  <GBSeq_organism>Cryptococcus carnescens</GBSeq_organism>
+./AF042248.xml:  <GBSeq_organism>Tremella exigua</GBSeq_organism>
+./AF444760.xml:  <GBSeq_organism>Bullera japonica</GBSeq_organism>
+./AF075489.xml:  <GBSeq_organism>Cryptococcus dimennae</GBSeq_organism>
+./AF075501.xml:  <GBSeq_organism>Filobasidium capsuligenum</GBSeq_organism>
+./AF472625.xml:  <GBSeq_organism>Cryptococcus nemorosus</GBSeq_organism>
+./AF444700.xml:  <GBSeq_organism>Bandoniozyma noutii</GBSeq_organism>
+./AF416642.xml:  <GBSeq_organism>Papiliotrema bandonii</GBSeq_organism>
+./AF363647.xml:  <GBSeq_organism>Cryptococcus victoriae</GBSeq_organism>
+./AB035041.xml:  <GBSeq_organism>Cryptococcus aureus</GBSeq_organism>
+./AF075500.xml:  <GBSeq_organism>Bulleromyces albus</GBSeq_organism>
+./AF257269.xml:  <GBSeq_organism>Cryptococcus laurentii</GBSeq_organism>
+./AY315662.xml:  <GBSeq_organism>Cryptococcus allantoinivorans</GBSeq_organism>
+./AF444698.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8358</GBSeq_organism>
+./AF075525.xml:  <GBSeq_organism>Cryptococcus cellulolyticus</GBSeq_organism>
+./AF444715.xml:  <GBSeq_organism>Bandoniozyma tunnelae</GBSeq_organism>
+./AB035053.xml:  <GBSeq_organism>Cryptococcus psychrotolerans</GBSeq_organism>
+./AF075491.xml:  <GBSeq_organism>Trimorphomyces papilionaceus</GBSeq_organism>
+./AF075524.xml:  <GBSeq_organism>Bullera unica</GBSeq_organism>

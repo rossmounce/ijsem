@@ -1,0 +1,10 @@
+./D32242.xml:  <GBSeq_organism>Paracoccus thiocyanatus</GBSeq_organism>
+./Y12703.xml:  <GBSeq_organism>Paracoccus marcusii</GBSeq_organism>
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./D16419.xml:  <GBSeq_organism>Rhodovulum strictum</GBSeq_organism>
+./D32239.xml:  <GBSeq_organism>Paracoccus aminophilus</GBSeq_organism>
+./D16425.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./Y16930.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./D16427.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AB101543.xml:  <GBSeq_organism>Gemmobacter nectariphilus</GBSeq_organism>

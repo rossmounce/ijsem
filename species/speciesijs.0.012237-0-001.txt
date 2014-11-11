@@ -1,0 +1,4 @@
+./D85468.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./AB364583.xml:  <GBSeq_organism>Actinoallomurus amamiensis</GBSeq_organism>
+./AB364579.xml:  <GBSeq_organism>Actinoallomurus coprocola</GBSeq_organism>
+./EU429322.xml:  <GBSeq_organism>Actinoallomurus acaciae</GBSeq_organism>

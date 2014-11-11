@@ -1,0 +1,21 @@
+./AY555577.xml:  <GBSeq_organism>Nocardia mexicana</GBSeq_organism>
+./AF430044.xml:  <GBSeq_organism>Nocardia uniformis</GBSeq_organism>
+./AY964666.xml:  <GBSeq_organism>Nocardia jejuensis</GBSeq_organism>
+./AF060790.xml:  <GBSeq_organism>Nocardia cerradoensis</GBSeq_organism>
+./AY639902.xml:  <GBSeq_organism>Nocardia jiangxiensis</GBSeq_organism>
+./X80599.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AY089701.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./AB126880.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>
+./AJ854057.xml:  <GBSeq_organism>Nocardia elegans</GBSeq_organism>
+./AB162801.xml:  <GBSeq_organism>Nocardia anaemiae</GBSeq_organism>
+./AF430045.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AF430042.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AF430046.xml:  <GBSeq_organism>Nocardia pseudovaccinii</GBSeq_organism>
+./AF430049.xml:  <GBSeq_organism>Nocardia crassostreae</GBSeq_organism>
+./AF430028.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AY639901.xml:  <GBSeq_organism>Nocardia miyunensis</GBSeq_organism>
+./AF430055.xml:  <GBSeq_organism>Nocardia veterana</GBSeq_organism>
+./AB126876.xml:  <GBSeq_organism>Nocardia aobensis NBRC 100429</GBSeq_organism>
+./AB126873.xml:  <GBSeq_organism>Nocardia vermiculata</GBSeq_organism>
+./AB092561.xml:  <GBSeq_organism>Nocardia yamanashiensis</GBSeq_organism>
+./AB024312.xml:  <GBSeq_organism>Nocardia vinacea</GBSeq_organism>

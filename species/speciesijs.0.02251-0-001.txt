@@ -1,0 +1,7 @@
+./AY029353.xml:  <GBSeq_organism>Streptomyces thermoviolaceus</GBSeq_organism>
+./AF369704.xml:  <GBSeq_organism>Streptomyces fradiae</GBSeq_organism>
+./AJ399482.xml:  <GBSeq_organism>Streptomyces thermotolerans</GBSeq_organism>
+./X80826.xml:  <GBSeq_organism>Streptomyces espinosus</GBSeq_organism>
+./AF441168.xml:  <GBSeq_organism>Streptomyces mexicanus</GBSeq_organism>
+./u94439.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AF056714.xml:  <GBSeq_organism>Streptomyces thermogriseus</GBSeq_organism>

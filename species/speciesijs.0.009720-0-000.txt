@@ -1,0 +1,18 @@
+./D88005.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AY695828.xml:  <GBSeq_organism>Pusillimonas noertemannii</GBSeq_organism>
+./AB166879.xml:  <GBSeq_organism>Castellaniella caeni</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AF133538.xml:  <GBSeq_organism>Oligella urethralis</GBSeq_organism>
+./U82826.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./DQ466075.xml:  <GBSeq_organism>Parapusillimonas granuli</GBSeq_organism>
+./AJ864472.xml:  <GBSeq_organism>Advenella kashmirensis</GBSeq_organism>
+./U04820.xml:  <GBSeq_organism>Bordetella holmesii ATCC 51541</GBSeq_organism>
+./AJ277798.xml:  <GBSeq_organism>Bordetella trematum</GBSeq_organism>
+./EF100696.xml:  <GBSeq_organism>Pigmentiphaga daeguensis</GBSeq_organism>
+./AM944734.xml:  <GBSeq_organism>Advenella incenata</GBSeq_organism>
+./AJ277742.xml:  <GBSeq_organism>Brackiella oedipodis</GBSeq_organism>
+./AJ278451.xml:  <GBSeq_organism>Achromobacter denitrificans</GBSeq_organism>
+./U04949.xml:  <GBSeq_organism>Bordetella parapertussis</GBSeq_organism>

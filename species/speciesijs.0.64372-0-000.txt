@@ -1,0 +1,15 @@
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AJ002949.xml:  <GBSeq_organism>Natrinema pallidum</GBSeq_organism>
+./AY208972.xml:  <GBSeq_organism>Natrinema altunense</GBSeq_organism>
+./X72495.xml:  <GBSeq_organism>Natrialba magadii ATCC 43099</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./DQ367242.xml:  <GBSeq_organism>Haloterrigena longa</GBSeq_organism>
+./DQ367241.xml:  <GBSeq_organism>Haloterrigena limicola JCM 13563</GBSeq_organism>
+./AY820137.xml:  <GBSeq_organism>Haloterrigena saccharevitans</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./AJ004806.xml:  <GBSeq_organism>Natrialba chahannaoensis</GBSeq_organism>
+./AB125108.xml:  <GBSeq_organism>Natronolimnobius innermongolicus</GBSeq_organism>
+./AF262026.xml:  <GBSeq_organism>Natrialba hulunbeirensis</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

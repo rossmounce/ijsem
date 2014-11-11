@@ -1,0 +1,9 @@
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./AB020031.xml:  <GBSeq_organism>Umezawaea tangerina</GBSeq_organism>
+./AJ512464.xml:  <GBSeq_organism>Kibdelosporangium philippinense</GBSeq_organism>
+./AJ512463.xml:  <GBSeq_organism>Kibdelosporangium aridum subsp. largum</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AJ512462.xml:  <GBSeq_organism>Allokutzneria albata</GBSeq_organism>
+./AF114801.xml:  <GBSeq_organism>Kutzneria kofuensis</GBSeq_organism>
+./EF543522.xml:  <GBSeq_organism>Kutzneria albida</GBSeq_organism>
+./AJ311174.xml:  <GBSeq_organism>Kibdelosporangium aridum</GBSeq_organism>

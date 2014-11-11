@@ -1,0 +1,16 @@
+./X84440.xml:  <GBSeq_organism>Corynebacterium ammoniagenes</GBSeq_organism>
+./X93593.xml:  <GBSeq_organism>Brevibacterium otitidis</GBSeq_organism>
+./AJ620367.xml:  <GBSeq_organism>Corynebacterium stationis</GBSeq_organism>
+./X84444.xml:  <GBSeq_organism>Corynebacterium bovis DSM 20582= CIP 54.80</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./AJ620368.xml:  <GBSeq_organism>[Brevibacterium] halotolerans</GBSeq_organism>
+./X93594.xml:  <GBSeq_organism>Brevibacterium mcbrellneri ATCC 49030</GBSeq_organism>
+./AJ251463.xml:  <GBSeq_organism>Brevibacterium paucivorans</GBSeq_organism>
+./AJ251418.xml:  <GBSeq_organism>Brevibacterium casei</GBSeq_organism>
+./Y17962.xml:  <GBSeq_organism>Brevibacterium avium</GBSeq_organism>
+./X83813.xml:  <GBSeq_organism>Brevibacterium iodinum</GBSeq_organism>
+./AF267152.xml:  <GBSeq_organism>Corynebacterium casei LMG S-19264</GBSeq_organism>
+./X76565.xml:  <GBSeq_organism>Brevibacterium epidermidis</GBSeq_organism>
+./AJ488509.xml:  <GBSeq_organism>Brevibacterium luteolum</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ620364.xml:  <GBSeq_organism>Brevibacterium picturae</GBSeq_organism>

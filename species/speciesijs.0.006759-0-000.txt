@@ -1,0 +1,25 @@
+./DQ442685.xml:  <GBSeq_organism>Trichomonascus farinosus</GBSeq_organism>
+./DQ438218.xml:  <GBSeq_organism>Sugiyamaella smithiae</GBSeq_organism>
+./EU790643.xml:  <GBSeq_organism>Trichomonascus apis</GBSeq_organism>
+./DQ442688.xml:  <GBSeq_organism>Blastobotrys capitulata</GBSeq_organism>
+./DQ442696.xml:  <GBSeq_organism>Blastobotrys illinoisensis</GBSeq_organism>
+./AB041006.xml:  <GBSeq_organism>Candida mucifera</GBSeq_organism>
+./DQ442697.xml:  <GBSeq_organism>Blastobotrys adeninivorans</GBSeq_organism>
+./AY442294.xml:  <GBSeq_organism>Blastobotrys attinorum</GBSeq_organism>
+./DQ442683.xml:  <GBSeq_organism>Blastobotrys terrestris</GBSeq_organism>
+./DQ442699.xml:  <GBSeq_organism>Blastobotrys sp. NRRL Y-6844</GBSeq_organism>
+./DQ442694.xml:  <GBSeq_organism>Blastobotrys mokoenaii</GBSeq_organism>
+./DQ442682.xml:  <GBSeq_organism>Blastobotrys chiropterorum</GBSeq_organism>
+./DQ442698.xml:  <GBSeq_organism>Blastobotrys raffinosifermentans</GBSeq_organism>
+./DQ438216.xml:  <GBSeq_organism>Zygoascus hellenicus</GBSeq_organism>
+./DQ442700.xml:  <GBSeq_organism>Blastobotrys sp. NRRL YB-2290</GBSeq_organism>
+./DQ442693.xml:  <GBSeq_organism>Blastobotrys parvus</GBSeq_organism>
+./DQ442692.xml:  <GBSeq_organism>Blastobotrys indianaensis</GBSeq_organism>
+./DQ442690.xml:  <GBSeq_organism>Blastobotrys nivea</GBSeq_organism>
+./DQ442695.xml:  <GBSeq_organism>Blastobotrys malaysiensis</GBSeq_organism>
+./DQ442686.xml:  <GBSeq_organism>Blastobotrys aristata</GBSeq_organism>
+./DQ442687.xml:  <GBSeq_organism>Blastobotrys elegans</GBSeq_organism>
+./DQ442680.xml:  <GBSeq_organism>Blastobotrys sp. NRRL Y-7993</GBSeq_organism>
+./DQ442681.xml:  <GBSeq_organism>Trichomonascus ciferrii</GBSeq_organism>
+./DQ442684.xml:  <GBSeq_organism>Blastobotrys proliferans</GBSeq_organism>
+./DQ442689.xml:  <GBSeq_organism>Blastobotrys arbuscula</GBSeq_organism>

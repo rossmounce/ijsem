@@ -1,0 +1,5 @@
+./AM295258.xml:  <GBSeq_organism>Nocardioides hwasunensis</GBSeq_organism>
+./AY423718.xml:  <GBSeq_organism>Nocardioides ganghwensis</GBSeq_organism>
+./AM295257.xml:  <GBSeq_organism>Nocardioides hwasunensis</GBSeq_organism>
+./AF005008.xml:  <GBSeq_organism>Nocardioides plantarum</GBSeq_organism>
+./AJ698724.xml:  <GBSeq_organism>Nocardioides oleivorans</GBSeq_organism>

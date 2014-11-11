@@ -1,0 +1,17 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AF288370.xml:  <GBSeq_organism>Idiomarina loihiensis</GBSeq_organism>
+./U85841.xml:  <GBSeq_organism>Colwellia psychrerythraea</GBSeq_organism>
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./AF052741.xml:  <GBSeq_organism>Idiomarina zobellii</GBSeq_organism>
+./AB015521.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./D87345.xml:  <GBSeq_organism>unculturable Mariana eubacterium no. 1</GBSeq_organism>
+./AJ000726.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus VT8</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./D21224.xml:  <GBSeq_organism>Moritella japonica</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./X74723.xml:  <GBSeq_organism>Vibrio proteolyticus</GBSeq_organism>
+./U85854.xml:  <GBSeq_organism>Glaciecola pallidula DSM 14239 = ACAM 615</GBSeq_organism>
+./AJ440214.xml:  <GBSeq_organism>Idiomarina baltica OS145</GBSeq_organism>
+./U39398.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>

@@ -1,0 +1,24 @@
+./AJ227759.xml:  <GBSeq_organism>Caulobacter fusiformis</GBSeq_organism>
+./D16429.xml:  <GBSeq_organism>Rhodobacter blasticus DSM 2131</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./AM040096.xml:  <GBSeq_organism>Rhodoblastus sphagnicola</GBSeq_organism>
+./D25311.xml:  <GBSeq_organism>Rhodoplanes elegans</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./Y17144.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./D25314.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./D30790.xml:  <GBSeq_organism>Afifella marina</GBSeq_organism>
+./M59066.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./AJ563932.xml:  <GBSeq_organism>Beijerinckia mobilis</GBSeq_organism>
+./AJ563933.xml:  <GBSeq_organism>Beijerinckia derxii subsp. derxii</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./D25313.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./AJ563930.xml:  <GBSeq_organism>Beijerinckia indica subsp. indica ATCC 9039</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>

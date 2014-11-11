@@ -1,0 +1,13 @@
+./DQ191179.xml:  <GBSeq_organism>Lysobacter yangpyeongensis</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./AB166878.xml:  <GBSeq_organism>Lysobacter koreensis</GBSeq_organism>
+./DQ462462.xml:  <GBSeq_organism>Lysobacter niastensis</GBSeq_organism>
+./AB161360.xml:  <GBSeq_organism>Lysobacter brunescens</GBSeq_organism>
+./DQ462461.xml:  <GBSeq_organism>Lysobacter niabensis</GBSeq_organism>
+./DQ191178.xml:  <GBSeq_organism>Lysobacter daejeonensis</GBSeq_organism>

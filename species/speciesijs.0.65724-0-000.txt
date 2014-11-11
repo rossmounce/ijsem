@@ -1,0 +1,8 @@
+./AJ627909.xml:  <GBSeq_organism>Marinomonas ushuaiensis</GBSeq_organism>
+./AJ843077.xml:  <GBSeq_organism>Marinomonas aquimarina</GBSeq_organism>
+./AY539835.xml:  <GBSeq_organism>Marinomonas pontica</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AJ833000.xml:  <GBSeq_organism>Marinomonas polaris</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./EU143359.xml:  <GBSeq_organism>Marinomonas basaltis</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AF514293.xml:  <GBSeq_organism>Candida hawaiiana</GBSeq_organism>
+./AF257272.xml:  <GBSeq_organism>Metschnikowia koreensis</GBSeq_organism>
+./U76526.xml:  <GBSeq_organism>Metschnikowia australis</GBSeq_organism>
+./U44814.xml:  <GBSeq_organism>Candida fructus</GBSeq_organism>
+./U45737.xml:  <GBSeq_organism>Metschnikowia gruessii</GBSeq_organism>
+./U84243.xml:  <GBSeq_organism>Metschnikowia agaves</GBSeq_organism>
+./AJ508580.xml:  <GBSeq_organism>Candida rancensis</GBSeq_organism>
+./AY080995.xml:  <GBSeq_organism>Metschnikowia lachancei</GBSeq_organism>
+./AY452047.xml:  <GBSeq_organism>Metschnikowia chrysoperlae</GBSeq_organism>
+./DQ367883.xml:  <GBSeq_organism>Metschnikowia sp. XY801</GBSeq_organism>
+./U94944.xml:  <GBSeq_organism>Metschnikowia bicuspidata var. californica</GBSeq_organism>
+./AJ511335.xml:  <GBSeq_organism>saccharomycete sp. HA1406</GBSeq_organism>
+./AF279303.xml:  <GBSeq_organism>Metschnikowia drosophilae</GBSeq_organism>
+./U44821.xml:  <GBSeq_organism>Candida magnifica</GBSeq_organism>
+./U44806.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./U45736.xml:  <GBSeq_organism>Metschnikowia pulcherrima</GBSeq_organism>
+./DQ367882.xml:  <GBSeq_organism>Metschnikowia sp. XY201</GBSeq_organism>
+./AF360542.xml:  <GBSeq_organism>Metschnikowia fructicola</GBSeq_organism>

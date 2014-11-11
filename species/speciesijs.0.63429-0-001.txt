@@ -1,0 +1,9 @@
+./D78465.xml:  <GBSeq_organism>Paenibacillus alginolyticus</GBSeq_organism>
+./X60617.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./X60636.xml:  <GBSeq_organism>Paenibacillus larvae subsp. pulvifaciens</GBSeq_organism>
+./X60619.xml:  <GBSeq_organism>Paenibacillus larvae</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./AB179866.xml:  <GBSeq_organism>Paenibacillus hodogayensis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./D82064.xml:  <GBSeq_organism>Paenibacillus chondroitinus</GBSeq_organism>

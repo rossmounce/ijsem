@@ -1,0 +1,21 @@
+./EF113149.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./AJ294400.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AJ294402.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AJ294398.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./AJ294404.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AJ294391.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AJ294389.xml:  <GBSeq_organism>Azorhizobium caulinodans</GBSeq_organism>
+./AJ294403.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AJ294393.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AJ294392.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AJ294387.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./DQ431671.xml:  <GBSeq_organism>Rhizobium lusitanum</GBSeq_organism>
+./AJ294405.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AJ294388.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AJ294399.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AJ294397.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AJ294406.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ294395.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ294401.xml:  <GBSeq_organism>Sinorhizobium medicae</GBSeq_organism>
+./EF113150.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. trifolii</GBSeq_organism>
+./AJ294407.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>

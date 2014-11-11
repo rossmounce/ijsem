@@ -1,0 +1,11 @@
+./D14255.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./AY594215.xml:  <GBSeq_organism>Brucella melitensis biovar Melitensis</GBSeq_organism>
+./D12784.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./D30790.xml:  <GBSeq_organism>Afifella marina</GBSeq_organism>
+./D13944.xml:  <GBSeq_organism>Mycoplana ramosa</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AY995149.xml:  <GBSeq_organism>Shinella granuli</GBSeq_organism>
+./D14516.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./D14256.xml:  <GBSeq_organism>Duganella zoogloeoides</GBSeq_organism>
+./AY572473.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>

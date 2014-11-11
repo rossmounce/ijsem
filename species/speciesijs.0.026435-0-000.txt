@@ -1,0 +1,15 @@
+./D14255.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./FM177879.xml:  <GBSeq_organism>Shinella fusca</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AY460185.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AY594215.xml:  <GBSeq_organism>Brucella melitensis biovar Melitensis</GBSeq_organism>
+./D12784.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./D13944.xml:  <GBSeq_organism>Mycoplana ramosa</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./AY995149.xml:  <GBSeq_organism>Shinella granuli</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AM181757.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AB285481.xml:  <GBSeq_organism>Shinella yambaruensis</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

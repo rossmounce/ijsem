@@ -1,0 +1,27 @@
+./AF423245.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./X68457.xml:  <GBSeq_organism>Actinomycetales</GBSeq_organism>
+./AF423269.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AJ243871.xml:  <GBSeq_organism>Rubrobacter xylanophilus</GBSeq_organism>
+./X68461.xml:  <GBSeq_organism>Actinomycetales</GBSeq_organism>
+./AF234061.xml:  <GBSeq_organism>uncultured bacterium #0319-2F3</GBSeq_organism>
+./X92694.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./X68459.xml:  <GBSeq_organism>Actinomycetales</GBSeq_organism>
+./AF234151.xml:  <GBSeq_organism>uncultured bacterium #0319-7H2</GBSeq_organism>
+./AF234119.xml:  <GBSeq_organism>uncultured bacterium #0649-1G9</GBSeq_organism>
+./AF234135.xml:  <GBSeq_organism>uncultured bacterium #0319-6M6</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./AF234085.xml:  <GBSeq_organism>uncultured bacterium #0319-6O5</GBSeq_organism>
+./X68458.xml:  <GBSeq_organism>Actinomycetales</GBSeq_organism>
+./AF234065.xml:  <GBSeq_organism>uncultured bacterium #0319-2J16</GBSeq_organism>
+./AF078196.xml:  <GBSeq_organism>grassland soil clone saf1_124</GBSeq_organism>
+./AF391982.xml:  <GBSeq_organism>uncultured thermal soil bacterium</GBSeq_organism>
+./AF078339.xml:  <GBSeq_organism>grassland soil clone sl1_112</GBSeq_organism>
+./AY039806.xml:  <GBSeq_organism>Solirubrobacter pauli</GBSeq_organism>
+./X87134.xml:  <GBSeq_organism>Rubrobacter radiotolerans</GBSeq_organism>
+./X68460.xml:  <GBSeq_organism>Actinomycetales</GBSeq_organism>
+./X92699.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./X84490.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X92707.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AF078335.xml:  <GBSeq_organism>grassland soil clone sl1_108</GBSeq_organism>
+./AF234137.xml:  <GBSeq_organism>uncultured bacterium #0319-7D8</GBSeq_organism>
+./AF391984.xml:  <GBSeq_organism>uncultured thermal soil bacterium</GBSeq_organism>

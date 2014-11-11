@@ -1,0 +1,13 @@
+./X89947.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./AY253863.xml:  <GBSeq_organism>Kribbella flavida</GBSeq_organism>
+./AY082063.xml:  <GBSeq_organism>Kribbella antibiotica</GBSeq_organism>
+./AF237815.xml:  <GBSeq_organism>Actinopolymorpha singaporensis</GBSeq_organism>
+./M37200.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./AY253864.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AY082062.xml:  <GBSeq_organism>Kribbella alba</GBSeq_organism>
+./AY253865.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AY995147.xml:  <GBSeq_organism>Kribbella swartbergensis</GBSeq_organism>
+./AY995146.xml:  <GBSeq_organism>Kribbella karoonensis</GBSeq_organism>
+./AY082061.xml:  <GBSeq_organism>Kribbella yunnanensis</GBSeq_organism>
+./AY253862.xml:  <GBSeq_organism>Kribbella solani</GBSeq_organism>
+./AY253866.xml:  <GBSeq_organism>Kribbella jejuensis</GBSeq_organism>

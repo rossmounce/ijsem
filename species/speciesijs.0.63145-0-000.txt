@@ -1,0 +1,13 @@
+./X59029.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./X58305.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./Y07601.xml:  <GBSeq_organism>Streptococcus hyovaginalis</GBSeq_organism>
+./AJ605748.xml:  <GBSeq_organism>Streptococcus equi subsp. ruminatorum CECT 5772</GBSeq_organism>
+./X58302.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./Y18026.xml:  <GBSeq_organism>Streptococcus pluranimalium</GBSeq_organism>
+./AB002516.xml:  <GBSeq_organism>Streptococcus equi subsp. zooepidemicus</GBSeq_organism>
+./AB002515.xml:  <GBSeq_organism>Streptococcus equi</GBSeq_organism>
+./X58313.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./Y09007.xml:  <GBSeq_organism>Streptococcus thoraltensis</GBSeq_organism>
+./Y17358.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./AJ131965.xml:  <GBSeq_organism>Streptococcus sp.</GBSeq_organism>
+./X59061.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>

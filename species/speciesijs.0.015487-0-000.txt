@@ -1,0 +1,16 @@
+./AB112727.xml:  <GBSeq_organism>Bacillus methanolicus PB1</GBSeq_organism>
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./AF074970.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./CP000002.xml:  <GBSeq_organism>Bacillus licheniformis DSM 13 = ATCC 14580</GBSeq_organism>
+./AJ831844.xml:  <GBSeq_organism>Bacillus aerophilus</GBSeq_organism>
+./AJ831843.xml:  <GBSeq_organism>Bacillus aerius</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./EU194897.xml:  <GBSeq_organism>Bacillus methylotrophicus</GBSeq_organism>
+./AY667495.xml:  <GBSeq_organism>Bacillus seohaeanensis</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./AF234854.xml:  <GBSeq_organism>Bacillus safensis FO-36b</GBSeq_organism>
+./AJ831841.xml:  <GBSeq_organism>Bacillus stratosphericus</GBSeq_organism>
+./AB271744.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis</GBSeq_organism>
+./AY456263.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AJ250318.xml:  <GBSeq_organism>Bacillus shackletonii</GBSeq_organism>

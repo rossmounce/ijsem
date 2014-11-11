@@ -1,0 +1,7 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./DQ491453.xml:  <GBSeq_organism>Micrococcus flavus</GBSeq_organism>
+./EU005372.xml:  <GBSeq_organism>Micrococcus endophyticus</GBSeq_organism>
+./FJ423763.xml:  <GBSeq_organism>Micrococcus terreus</GBSeq_organism>
+./X81061.xml:  <GBSeq_organism>Actinomyces bovis</GBSeq_organism>
+./FN673681.xml:  <GBSeq_organism>Micrococcus lactis</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>

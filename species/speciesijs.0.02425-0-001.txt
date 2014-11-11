@@ -1,0 +1,15 @@
+./AF423245.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./X92709.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AJ243871.xml:  <GBSeq_organism>Rubrobacter xylanophilus</GBSeq_organism>
+./X92694.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AF027014.xml:  <GBSeq_organism>unidentified Actinomycete OPB41</GBSeq_organism>
+./AF234119.xml:  <GBSeq_organism>uncultured bacterium #0649-1G9</GBSeq_organism>
+./X92704.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./D85397.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./D32255.xml:  <GBSeq_organism>Chloroflexus aggregans</GBSeq_organism>
+./AF186411.xml:  <GBSeq_organism>uncultured sponge symbiont PAUC32f</GBSeq_organism>
+./X89560.xml:  <GBSeq_organism>Candidatus Microthrix parvicella</GBSeq_organism>
+./AF391982.xml:  <GBSeq_organism>uncultured thermal soil bacterium</GBSeq_organism>
+./M79433.xml:  <GBSeq_organism>bacterium TH3</GBSeq_organism>
+./X92707.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>

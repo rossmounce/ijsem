@@ -1,0 +1,6 @@
+./AB514514.xml:  <GBSeq_organism>Actinomycetospora succinea</GBSeq_organism>
+./AF325725.xml:  <GBSeq_organism>Pseudonocardia zijingensis</GBSeq_organism>
+./AB581530.xml:  <GBSeq_organism>Actinomycetospora rishiriensis</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./Y08535.xml:  <GBSeq_organism>Pseudonocardia alni</GBSeq_organism>

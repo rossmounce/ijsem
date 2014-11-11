@@ -1,0 +1,18 @@
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AJ438173.xml:  <GBSeq_organism>Pedobacter saltans DSM 12145</GBSeq_organism>
+./AB267715.xml:  <GBSeq_organism>Olivibacter soli</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./AB267714.xml:  <GBSeq_organism>Olivibacter terrae</GBSeq_organism>
+./EF122436.xml:  <GBSeq_organism>Sphingobacterium composti Yoo et al. 2007</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./EU109722.xml:  <GBSeq_organism>Mucilaginibacter oryzae</GBSeq_organism>
+./AB264126.xml:  <GBSeq_organism>Nubsella zeaxanthinifaciens</GBSeq_organism>
+./FJ754320.xml:  <GBSeq_organism>Parapedobacter luteus</GBSeq_organism>
+./M58796.xml:  <GBSeq_organism>Sphingobacterium mizutaii</GBSeq_organism>
+./FJ754321.xml:  <GBSeq_organism>Parapedobacter composti</GBSeq_organism>
+./EU729366.xml:  <GBSeq_organism>Mucilaginibacter ximonensis</GBSeq_organism>
+./AJ438171.xml:  <GBSeq_organism>Pedobacter africanus</GBSeq_organism>
+./EF151805.xml:  <GBSeq_organism>Parapedobacter soli</GBSeq_organism>

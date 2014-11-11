@@ -1,0 +1,8 @@
+./FM209496.xml:  <GBSeq_organism>Pseudochrobactrum lubricantis</GBSeq_organism>
+./AM263420.xml:  <GBSeq_organism>Pseudochrobactrum kiredjianiae</GBSeq_organism>
+./AM490623.xml:  <GBSeq_organism>Ochrobactrum intermedium LMG 3301</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AM180484.xml:  <GBSeq_organism>Pseudochrobactrum saccharolyticum</GBSeq_organism>
+./AM158979.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AM490619.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AM180485.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

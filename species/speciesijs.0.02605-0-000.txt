@@ -1,0 +1,17 @@
+./AF101416.xml:  <GBSeq_organism>Gordonia desulfuricans</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./Y18054.xml:  <GBSeq_organism>Gordonia alkanivorans</GBSeq_organism>
+./X79286.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./X80633.xml:  <GBSeq_organism>Gordonia aichiensis</GBSeq_organism>
+./X80632.xml:  <GBSeq_organism>Gordonia rubripertincta</GBSeq_organism>
+./X80634.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>
+./X80635.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./AJ312907.xml:  <GBSeq_organism>Gordonia westfalica</GBSeq_organism>
+./X93485.xml:  <GBSeq_organism>Gordonia hirsuta DSM 44140 = NBRC 16056</GBSeq_organism>
+./AF432348.xml:  <GBSeq_organism>Gordonia paraffinivorans</GBSeq_organism>
+./AF148947.xml:  <GBSeq_organism>Gordonia alkanivorans</GBSeq_organism>
+./X87340.xml:  <GBSeq_organism>Gordonia hydrophobica</GBSeq_organism>
+./Y18310.xml:  <GBSeq_organism>Gordonia polyisoprenivorans</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./AF380930.xml:  <GBSeq_organism>Gordonia namibiensis NBRC 108229</GBSeq_organism>
+./AF101418.xml:  <GBSeq_organism>Gordonia amicalis</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AB184702.xml:  <GBSeq_organism>Streptomyces viridiflavus</GBSeq_organism>
+./AB184850.xml:  <GBSeq_organism>Streptomyces cinnamoneus</GBSeq_organism>
+./AB184861.xml:  <GBSeq_organism>Streptomyces alboflavus</GBSeq_organism>
+./AB184819.xml:  <GBSeq_organism>Streptomyces lilacinus</GBSeq_organism>
+./AY999857.xml:  <GBSeq_organism>Streptomyces olivoreticuli subsp. olivoreticuli</GBSeq_organism>
+./AB184100.xml:  <GBSeq_organism>Streptomyces pseudoechinosporeus</GBSeq_organism>
+./AB184705.xml:  <GBSeq_organism>Streptomyces salmonis</GBSeq_organism>
+./AB184618.xml:  <GBSeq_organism>Streptomyces thermolineatus</GBSeq_organism>
+./AB184617.xml:  <GBSeq_organism>Streptomyces megasporus</GBSeq_organism>
+./AB184870.xml:  <GBSeq_organism>Streptomyces mobaraensis NBRC 13819 = DSM 40847</GBSeq_organism>
+./AY822606.xml:  <GBSeq_organism>Streptomyces cheonanensis</GBSeq_organism>
+./AB184169.xml:  <GBSeq_organism>Streptomyces roseoverticillatus</GBSeq_organism>
+./AB184883.xml:  <GBSeq_organism>Streptomyces septatus</GBSeq_organism>
+./AB184753.xml:  <GBSeq_organism>Streptomyces thioluteus</GBSeq_organism>
+./AB184616.xml:  <GBSeq_organism>Streptomyces macrosporus</GBSeq_organism>

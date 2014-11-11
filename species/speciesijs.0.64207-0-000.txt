@@ -1,0 +1,4 @@
+./DQ223271.xml:  <GBSeq_organism>Aggregatibacter segnis ATCC 33393</GBSeq_organism>
+./DQ223269.xml:  <GBSeq_organism>Aggregatibacter aphrophilus</GBSeq_organism>
+./DQ223270.xml:  <GBSeq_organism>Aggregatibacter aphrophilus</GBSeq_organism>
+./DQ223272.xml:  <GBSeq_organism>Aggregatibacter aphrophilus</GBSeq_organism>

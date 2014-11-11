@@ -1,0 +1,8 @@
+./D45061.xml:  <GBSeq_organism>Agromyces hippuratus</GBSeq_organism>
+./AB023359.xml:  <GBSeq_organism>Agromyces bracchium</GBSeq_organism>
+./AY158025.xml:  <GBSeq_organism>Agromyces fucosus</GBSeq_organism>
+./AF389342.xml:  <GBSeq_organism>Agromyces aurantiacus</GBSeq_organism>
+./X77449.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./X77448.xml:  <GBSeq_organism>Agromyces cerinus subsp. cerinus</GBSeq_organism>
+./AY277619.xml:  <GBSeq_organism>Agromyces cerinus subsp. nitratus</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>

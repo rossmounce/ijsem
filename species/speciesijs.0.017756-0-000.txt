@@ -1,0 +1,7 @@
+./AJ843077.xml:  <GBSeq_organism>Marinomonas aquimarina</GBSeq_organism>
+./AB006764.xml:  <GBSeq_organism>Oceanospirillum multiglobuliferum</GBSeq_organism>
+./AB288092.xml:  <GBSeq_organism>Neptunomonas japonica DSM 18939</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./EF468717.xml:  <GBSeq_organism>Marinobacterium marisflavi</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./AB330881.xml:  <GBSeq_organism>Amphritea japonica</GBSeq_organism>

@@ -1,0 +1,5 @@
+./AF547855.xml:  <GBSeq_organism>Mycobacterium marinum</GBSeq_organism>
+./AY550225.xml:  <GBSeq_organism>Mycobacterium shottsii</GBSeq_organism>
+./AF547888.xml:  <GBSeq_organism>Mycobacterium ulcerans</GBSeq_organism>
+./AY571788.xml:  <GBSeq_organism>Mycobacterium pseudoshottsii L15</GBSeq_organism>
+./AF547886.xml:  <GBSeq_organism>Mycobacterium tuberculosis subsp. tuberculosis</GBSeq_organism>

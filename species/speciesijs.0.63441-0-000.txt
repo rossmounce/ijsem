@@ -1,0 +1,10 @@
+./AF444762.xml:  <GBSeq_organism>Auriculibuller fuscus</GBSeq_organism>
+./AB035042.xml:  <GBSeq_organism>Cryptococcus flavescens</GBSeq_organism>
+./AF472624.xml:  <GBSeq_organism>Cryptococcus perniciosus</GBSeq_organism>
+./AF444760.xml:  <GBSeq_organism>Bullera japonica</GBSeq_organism>
+./AF472625.xml:  <GBSeq_organism>Cryptococcus nemorosus</GBSeq_organism>
+./AF444410.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8372</GBSeq_organism>
+./AF416642.xml:  <GBSeq_organism>Papiliotrema bandonii</GBSeq_organism>
+./AF444387.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8358</GBSeq_organism>
+./AY422719.xml:  <GBSeq_organism>Cryptococcus taeanensis</GBSeq_organism>
+./AF189867.xml:  <GBSeq_organism>Tremella encephala</GBSeq_organism>

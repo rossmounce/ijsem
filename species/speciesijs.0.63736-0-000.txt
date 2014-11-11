@@ -1,0 +1,17 @@
+./L16470.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./D14022.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./AB125062.xml:  <GBSeq_organism>Owenweeksia hongkongensis</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./U41350.xml:  <GBSeq_organism>Capnocytophaga ochracea DSM 7271</GBSeq_organism>
+./AB078042.xml:  <GBSeq_organism>Crocinitomix catalasitica</GBSeq_organism>
+./M62422.xml:  <GBSeq_organism>Marinilabilia salmonicolor</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./AF493694.xml:  <GBSeq_organism>Fluviicola taffensis DSM 16823</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./X73964.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AJ418048.xml:  <GBSeq_organism>Anaerophaga thermohalophila DSM 12881</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AF170738.xml:  <GBSeq_organism>Cryomorpha ignava</GBSeq_organism>

@@ -1,0 +1,15 @@
+./X89946.xml:  <GBSeq_organism>Streptosporangium pseudovulgare</GBSeq_organism>
+./X89935.xml:  <GBSeq_organism>Streptosporangium amethystogenes subsp. amethystogenes</GBSeq_organism>
+./X89945.xml:  <GBSeq_organism>Streptosporangium nondiastaticum</GBSeq_organism>
+./U58527.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./X89942.xml:  <GBSeq_organism>Streptosporangium fragile</GBSeq_organism>
+./X89953.xml:  <GBSeq_organism>Sphaerisporangium viridialbum</GBSeq_organism>
+./AF191733.xml:  <GBSeq_organism>Streptosporangium yunnanense</GBSeq_organism>
+./AF191735.xml:  <GBSeq_organism>Streptosporangium purpuratum</GBSeq_organism>
+./X89941.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./X89951.xml:  <GBSeq_organism>Streptosporangium violaceochromogenes</GBSeq_organism>
+./X89938.xml:  <GBSeq_organism>Streptosporangium carneum</GBSeq_organism>
+./X89934.xml:  <GBSeq_organism>Streptosporangium album</GBSeq_organism>
+./X89955.xml:  <GBSeq_organism>Streptosporangium vulgare</GBSeq_organism>
+./X89944.xml:  <GBSeq_organism>Streptosporangium longisporum</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ415377.xml:  <GBSeq_organism>Brachybacterium paraconglomeratum</GBSeq_organism>
+./AJ415376.xml:  <GBSeq_organism>Brachybacterium rhamnosum</GBSeq_organism>
+./X91031.xml:  <GBSeq_organism>Brachybacterium alimentarium</GBSeq_organism>
+./EF125186.xml:  <GBSeq_organism>Brachybacterium zhongshanense</GBSeq_organism>
+./AB537169.xml:  <GBSeq_organism>Brachybacterium conglomeratum</GBSeq_organism>
+./X91657.xml:  <GBSeq_organism>Brachybacterium tyrofermentans</GBSeq_organism>
+./AJ415384.xml:  <GBSeq_organism>Brachybacterium sacelli</GBSeq_organism>
+./AJ415378.xml:  <GBSeq_organism>Brachybacterium fresconis</GBSeq_organism>
+./X91033.xml:  <GBSeq_organism>Brachybacterium nesterenkovii</GBSeq_organism>
+./EU937750.xml:  <GBSeq_organism>Brachybacterium saurashtrense</GBSeq_organism>

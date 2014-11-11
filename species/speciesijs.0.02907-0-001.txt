@@ -1,0 +1,17 @@
+./AJ439346.xml:  <GBSeq_organism>Corynebacterium accolens</GBSeq_organism>
+./AJ314919.xml:  <GBSeq_organism>Corynebacterium appendicis CIP 107643</GBSeq_organism>
+./AJ439348.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ439344.xml:  <GBSeq_organism>Corynebacterium segmentosum</GBSeq_organism>
+./AJ439347.xml:  <GBSeq_organism>Corynebacterium fastidiosum</GBSeq_organism>
+./AJ438043.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438044.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438047.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ439343.xml:  <GBSeq_organism>Corynebacterium pseudodiphtheriticum</GBSeq_organism>
+./AJ439345.xml:  <GBSeq_organism>Corynebacterium macginleyi</GBSeq_organism>
+./AJ438050.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438042.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438048.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438041.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438045.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438049.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>
+./AJ438051.xml:  <GBSeq_organism>Corynebacterium tuberculostearicum</GBSeq_organism>

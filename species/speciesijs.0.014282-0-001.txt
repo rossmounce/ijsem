@@ -1,0 +1,22 @@
+./AB196667.xml:  <GBSeq_organism>Endozoicomonas elysicola MKT110</GBSeq_organism>
+./AB006760.xml:  <GBSeq_organism>Oceanospirillum beijerinckii subsp. beijerinckii</GBSeq_organism>
+./D14555.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./AB021372.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./AJ431699.xml:  <GBSeq_organism>Thalassolituus oleivorans MIL-1</GBSeq_organism>
+./AF063219.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF195410.xml:  <GBSeq_organism>Hahella chejuensis KCTC 2396</GBSeq_organism>
+./AJ278814.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY130994.xml:  <GBSeq_organism>Zooshikella ganghwensis</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AY676463.xml:  <GBSeq_organism>Hahella ganghwensis</GBSeq_organism>
+./AJ292426.xml:  <GBSeq_organism>Pseudomonas kilonensis</GBSeq_organism>
+./AF074384.xml:  <GBSeq_organism>Pseudomonas gessardii</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AM262973.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./EF176580.xml:  <GBSeq_organism>Litoricola lipolytica</GBSeq_organism>
+./AJ295147.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>

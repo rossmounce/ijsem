@@ -1,0 +1,39 @@
+./AJ508302.xml:  <GBSeq_organism>Enterobacter hormaechei ATCC 49162</GBSeq_organism>
+./EF688008.xml:  <GBSeq_organism>Tatumella citrea</GBSeq_organism>
+./AM055716.xml:  <GBSeq_organism>Erwinia tasmaniensis Et1/99</GBSeq_organism>
+./AF025368.xml:  <GBSeq_organism>Citrobacter braakii</GBSeq_organism>
+./EU344770.xml:  <GBSeq_organism>Tatumella ptyseos ATCC 33301</GBSeq_organism>
+./EU216736.xml:  <GBSeq_organism>Pantoea eucrina</GBSeq_organism>
+./EF688011.xml:  <GBSeq_organism>Pantoea deleyi</GBSeq_organism>
+./Y18251.xml:  <GBSeq_organism>Medicago truncatula</GBSeq_organism>
+./EU344769.xml:  <GBSeq_organism>Tatumella morbirosei</GBSeq_organism>
+./AF130969.xml:  <GBSeq_organism>Pantoea oleae</GBSeq_organism>
+./U80196.xml:  <GBSeq_organism>Pantoea ananatis</GBSeq_organism>
+./EF688012.xml:  <GBSeq_organism>Pantoea vagans</GBSeq_organism>
+./AF310217.xml:  <GBSeq_organism>Kluyvera intermedia</GBSeq_organism>
+./AJ508303.xml:  <GBSeq_organism>Kosakonia cowanii</GBSeq_organism>
+./EU216734.xml:  <GBSeq_organism>Pantoea septica</GBSeq_organism>
+./EF122434.xml:  <GBSeq_organism>Pantoea cypripedii</GBSeq_organism>
+./EF688006.xml:  <GBSeq_organism>Tatumella punctata</GBSeq_organism>
+./AF008579.xml:  <GBSeq_organism>Kluyvera ascorbata ATCC 33433</GBSeq_organism>
+./GU810925.xml:  <GBSeq_organism>Erwinia oleae</GBSeq_organism>
+./AJ283417.xml:  <GBSeq_organism>Anopheles gambiae</GBSeq_organism>
+./FN547376.xml:  <GBSeq_organism>Erwinia aphidicola</GBSeq_organism>
+./AJ223468.xml:  <GBSeq_organism>Brenneria alni</GBSeq_organism>
+./AF047186.xml:  <GBSeq_organism>Kluyvera georgiana</GBSeq_organism>
+./Y13250.xml:  <GBSeq_organism>Erwinia tracheiphila</GBSeq_organism>
+./EF688009.xml:  <GBSeq_organism>Pantoea eucalypti</GBSeq_organism>
+./M59291.xml:  <GBSeq_organism>Citrobacter freundii</GBSeq_organism>
+./EF688007.xml:  <GBSeq_organism>Tatumella terrea</GBSeq_organism>
+./Y13249.xml:  <GBSeq_organism>Erwinia billingiae</GBSeq_organism>
+./EF688010.xml:  <GBSeq_organism>Pantoea anthophila</GBSeq_organism>
+./EU216735.xml:  <GBSeq_organism>Pantoea brenneri</GBSeq_organism>
+./AY530795.xml:  <GBSeq_organism>Pantoea allii</GBSeq_organism>
+./GO405202.xml:  <GBSeq_organism>Caligus clemensi</GBSeq_organism>
+./AF130967.xml:  <GBSeq_organism>Pantoea oleae</GBSeq_organism>
+./AY131237.xml:  <GBSeq_organism>Erwinia papayae</GBSeq_organism>
+./FN547375.xml:  <GBSeq_organism>Erwinia toletana</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>
+./EF122435.xml:  <GBSeq_organism>Erwinia pyrifoliae DSM 12163</GBSeq_organism>
+./EU216737.xml:  <GBSeq_organism>Pantoea conspicua</GBSeq_organism>
+./AJ233414.xml:  <GBSeq_organism>Erwinia mallotivora</GBSeq_organism>

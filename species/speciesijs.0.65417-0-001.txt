@@ -1,0 +1,17 @@
+./AM182404.xml:  <GBSeq_organism>Yersinia similis</GBSeq_organism>
+./AJ627597.xml:  <GBSeq_organism>Yersinia aleksiciae</GBSeq_organism>
+./AM182402.xml:  <GBSeq_organism>Yersinia pseudotuberculosis</GBSeq_organism>
+./AM182405.xml:  <GBSeq_organism>Yersinia similis</GBSeq_organism>
+./AF366385.xml:  <GBSeq_organism>Yersinia ruckeri</GBSeq_organism>
+./AF366376.xml:  <GBSeq_organism>Yersinia aldovae</GBSeq_organism>
+./U63135.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./AF366379.xml:  <GBSeq_organism>Yersinia frederiksenii ATCC 33641</GBSeq_organism>
+./AF366378.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./AF366381.xml:  <GBSeq_organism>Yersinia kristensenii</GBSeq_organism>
+./AF366380.xml:  <GBSeq_organism>Yersinia intermedia ATCC 29909</GBSeq_organism>
+./AM182400.xml:  <GBSeq_organism>Yersinia pseudotuberculosis</GBSeq_organism>
+./AF366384.xml:  <GBSeq_organism>Yersinia rohdei</GBSeq_organism>
+./AM182406.xml:  <GBSeq_organism>Yersinia similis</GBSeq_organism>
+./AM182401.xml:  <GBSeq_organism>Yersinia pseudotuberculosis</GBSeq_organism>
+./AF366377.xml:  <GBSeq_organism>Yersinia bercovieri ATCC 43970</GBSeq_organism>
+./AF366382.xml:  <GBSeq_organism>Yersinia mollaretii ATCC 43969</GBSeq_organism>

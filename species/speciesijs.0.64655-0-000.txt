@@ -1,0 +1,14 @@
+./Y11573.xml:  <GBSeq_organism>Desulfotomaculum thermoacetoxidans</GBSeq_organism>
+./U76363.xml:  <GBSeq_organism>Carboxydothermus ferrireducens</GBSeq_organism>
+./AY961415.xml:  <GBSeq_organism>Desulfotomaculum carboxydivorans CO-1-SRB</GBSeq_organism>
+./Y11567.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./Y11569.xml:  <GBSeq_organism>Desulfotomaculum kuznetsovii DSM 6115</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./AY918122.xml:  <GBSeq_organism>Desulfotomaculum salinum</GBSeq_organism>
+./U34975.xml:  <GBSeq_organism>Ammonifex degensii KC4</GBSeq_organism>
+./M59121.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./AF069293.xml:  <GBSeq_organism>Desulfotomaculum luciae</GBSeq_organism>
+./Y11574.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>
+./L09162.xml:  <GBSeq_organism>Thermoanaerobacter ethanolicus</GBSeq_organism>
+./AY216597.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>

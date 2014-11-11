@@ -1,0 +1,20 @@
+./X60632.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./Y14578.xml:  <GBSeq_organism>Ammoniphilus oxalaticus</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./AJ133633.xml:  <GBSeq_organism>Alicyclobacillus hesperidum</GBSeq_organism>
+./AB010863.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./DQ019166.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./AF137502.xml:  <GBSeq_organism>Alicyclobacillus tolerans</GBSeq_organism>
+./DQ444975.xml:  <GBSeq_organism>Tumebacillus permanentifrigoris</GBSeq_organism>
+./AF375881.xml:  <GBSeq_organism>Pasteuria penetrans</GBSeq_organism>
+./AY425985.xml:  <GBSeq_organism>Alicyclobacillus vulcanalis</GBSeq_organism>
+./Y14581.xml:  <GBSeq_organism>Oxalophagus oxalicus</GBSeq_organism>
+./AB089840.xml:  <GBSeq_organism>Alicyclobacillus pomorum DSM 14955</GBSeq_organism>
+./AJ242495.xml:  <GBSeq_organism>Thermicanus aegyptius</GBSeq_organism>
+./AB264026.xml:  <GBSeq_organism>Alicyclobacillus contaminans</GBSeq_organism>
+./AJ496807.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./Y13066.xml:  <GBSeq_organism>Ornithinibacillus bavariensis</GBSeq_organism>
+./AB112724.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus ATCC 12856</GBSeq_organism>

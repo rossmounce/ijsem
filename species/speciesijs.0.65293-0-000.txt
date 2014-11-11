@@ -1,0 +1,13 @@
+./AF125092.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AJ294413.xml:  <GBSeq_organism>Knoellia subterranea</GBSeq_organism>
+./AF176948.xml:  <GBSeq_organism>Janibacter terrae</GBSeq_organism>
+./AF125091.xml:  <GBSeq_organism>Tetrasphaera australiensis</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./EF553529.xml:  <GBSeq_organism>Knoellia aerolata</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./AY944176.xml:  <GBSeq_organism>Terrabacter terrae</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>

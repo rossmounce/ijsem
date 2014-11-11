@@ -1,0 +1,5 @@
+./GO153268.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./GO153269.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./DQ536403.xml:  <GBSeq_organism>Mycobacterium seoulense</GBSeq_organism>
+./GO153265.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./GO153266.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>

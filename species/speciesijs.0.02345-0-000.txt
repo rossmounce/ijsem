@@ -1,0 +1,25 @@
+./X89971.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89981.xml:  <GBSeq_organism>Butyrivibrio crossotus</GBSeq_organism>
+./AJ428548.xml:  <GBSeq_organism>Pseudobutyrivibrio xylanivorans</GBSeq_organism>
+./AJ428549.xml:  <GBSeq_organism>Pseudobutyrivibrio ruminis</GBSeq_organism>
+./Al428553.xml:  <GBSeq_organism>Kluyveromyces lactis</GBSeq_organism>
+./AJ428550.xml:  <GBSeq_organism>Pseudobutyrivibrio xylanivorans</GBSeq_organism>
+./AF125902.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AF125900.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U37378.xml:  <GBSeq_organism>Butyrivibrio proteoclasticus</GBSeq_organism>
+./AF396926.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./L34627.xml:  <GBSeq_organism>Eubacterium rectale</GBSeq_organism>
+./AJ270476.xml:  <GBSeq_organism>butyrate-producing bacterium T1-815</GBSeq_organism>
+./X89978.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./U77342.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X95893.xml:  <GBSeq_organism>Pseudobutyrivibrio ruminis</GBSeq_organism>
+./AJ270481.xml:  <GBSeq_organism>butyrate-producing bacterium L1-810</GBSeq_organism>
+./AJ428552.xml:  <GBSeq_organism>Butyrivibrio proteoclasticus</GBSeq_organism>
+./X89972.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89979.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./X89973.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./M59109.xml:  <GBSeq_organism>[Clostridium] oroticum</GBSeq_organism>
+./L14676.xml:  <GBSeq_organism>Roseburia cecicola</GBSeq_organism>
+./U77339.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AJ270474.xml:  <GBSeq_organism>Roseburia inulinivorans</GBSeq_organism>
+./X89974.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>

@@ -1,0 +1,24 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./L04321.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./M65012.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./L14624.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./AF357198.xml:  <GBSeq_organism>Sulfurospirillum sp. Am-N</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./AJ309654.xml:  <GBSeq_organism>epsilon proteobacterium AM1115</GBSeq_organism>
+./AB091292.xml:  <GBSeq_organism>Sulfurovum lithotrophicum</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./X72771.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./AJ535664.xml:  <GBSeq_organism>Caminibacter profundus</GBSeq_organism>
+./AB091296.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./AB091304.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./U01330.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AB053951.xml:  <GBSeq_organism>Sulfuricurvum kujiense DSM 16994</GBSeq_organism>
+./AF357197.xml:  <GBSeq_organism>Nautilia profundicola AmH</GBSeq_organism>
+./AB105048.xml:  <GBSeq_organism>Hydrogenimonas thermophila</GBSeq_organism>
+./AF357196.xml:  <GBSeq_organism>epsilon proteobacterium 18.2</GBSeq_organism>
+./AF357199.xml:  <GBSeq_organism>Sulfurospirillum sp. 18.1</GBSeq_organism>
+./AB088431.xml:  <GBSeq_organism>Sulfurimonas autotrophica DSM 16294</GBSeq_organism>
+./AF299121.xml:  <GBSeq_organism>uncultured bacterium S17sBac16</GBSeq_organism>

@@ -1,0 +1,14 @@
+./EF394922.xml:  <GBSeq_organism>Reyranella massiliensis 521</GBSeq_organism>
+./NR028018.xml:  <GBSeq_organism>Rickettsia rickettsii</GBSeq_organism>
+./AB272321.xml:  <GBSeq_organism>Nordella oligomobilis</GBSeq_organism>
+./NR027575.xml:  <GBSeq_organism>Desulfovibrio magneticus RS-1</GBSeq_organism>
+./GO429219.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./NC002942.xml:  <GBSeq_organism>Legionella pneumophila subsp. pneumophila str. Philadelphia 1</GBSeq_organism>
+./AJ250247.xml:  <GBSeq_organism>Bartonella quintana</GBSeq_organism>
+./AY444980.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./NR026078.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AF179678.xml:  <GBSeq_organism>Defluviicoccus vanus</GBSeq_organism>
+./NR025354.xml:  <GBSeq_organism>Azospirillum doebereinerae</GBSeq_organism>
+./NR025513.xml:  <GBSeq_organism>Acetobacter malorum</GBSeq_organism>
+./FM177506.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AY029562.xml:  <GBSeq_organism>Afipia massiliensis 34633</GBSeq_organism>

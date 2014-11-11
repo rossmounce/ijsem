@@ -1,0 +1,31 @@
+./AB489223.xml:  <GBSeq_organism>Isoptericola hypogeus</GBSeq_organism>
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./AJ783958.xml:  <GBSeq_organism>Sanguibacter marinus</GBSeq_organism>
+./AB489904.xml:  <GBSeq_organism>Luteimicrobium subarcticum</GBSeq_organism>
+./X83800.xml:  <GBSeq_organism>Cellulomonas gelida</GBSeq_organism>
+./AB489221.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./AY354285.xml:  <GBSeq_organism>Myceligenerans xiligouense</GBSeq_organism>
+./X83806.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./AF403541.xml:  <GBSeq_organism>Xylanimonas cellulosilytica DSM 15894</GBSeq_organism>
+./AB489222.xml:  <GBSeq_organism>Isoptericola halotolerans</GBSeq_organism>
+./AY884570.xml:  <GBSeq_organism>Cellulomonas terrae</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X79455.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X79458.xml:  <GBSeq_organism>Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133</GBSeq_organism>
+./X79451.xml:  <GBSeq_organism>Sanguibacter inulinus</GBSeq_organism>
+./AY501362.xml:  <GBSeq_organism>Cellulomonas denverensis</GBSeq_organism>
+./AB056127.xml:  <GBSeq_organism>Rarobacter faecitabidus</GBSeq_organism>
+./X83801.xml:  <GBSeq_organism>Cellulomonas uda</GBSeq_organism>
+./X83807.xml:  <GBSeq_organism>Oerskovia enterophila</GBSeq_organism>
+./X83802.xml:  <GBSeq_organism>Cellulomonas biazotea</GBSeq_organism>
+./AY303668.xml:  <GBSeq_organism>Cellulomonas xylanilytica</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>
+./AB166887.xml:  <GBSeq_organism>Cellulomonas composti</GBSeq_organism>
+./X92152.xml:  <GBSeq_organism>Cellulomonas bogoriensis</GBSeq_organism>
+./AJ314851.xml:  <GBSeq_organism>Oerskovia paurometabola</GBSeq_organism>
+./AY314848.xml:  <GBSeq_organism>Aquanirmus sp. VSS-2003</GBSeq_organism>
+./EF211071.xml:  <GBSeq_organism>Sanguibacter antarcticus</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>
+./X79460.xml:  <GBSeq_organism>Cellulomonas fimi ATCC 484</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>
+./EF076760.xml:  <GBSeq_organism>Cellulosimicrobium terreum</GBSeq_organism>

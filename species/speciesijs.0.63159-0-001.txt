@@ -1,0 +1,14 @@
+./AB000278.xml:  <GBSeq_organism>Photobacterium iliopiscarium</GBSeq_organism>
+./X70643.xml:  <GBSeq_organism>Aliivibrio salmonicida</GBSeq_organism>
+./D25310.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./X56583.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./D25309.xml:  <GBSeq_organism>Photobacterium leiognathi</GBSeq_organism>
+./X74694.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./X60405.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./D25307.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./X74700.xml:  <GBSeq_organism>Photobacterium damselae subsp. damselae</GBSeq_organism>
+./AB159513.xml:  <GBSeq_organism>Photobacterium indicum</GBSeq_organism>
+./X76333.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./D21226.xml:  <GBSeq_organism>Photobacterium profundum</GBSeq_organism>
+./Y08430.xml:  <GBSeq_organism>Vibrio tapetis</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

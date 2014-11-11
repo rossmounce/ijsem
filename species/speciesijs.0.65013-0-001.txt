@@ -1,0 +1,75 @@
+./AE017245.xml:  <GBSeq_organism>Mycoplasma synoviae 53</GBSeq_organism>
+./AY197655.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AE008691.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. tengcongensis MB4</GBSeq_organism>
+./BA000036.xml:  <GBSeq_organism>Corynebacterium glutamicum ATCC 13032</GBSeq_organism>
+./AL591824.xml:  <GBSeq_organism>Listeria monocytogenes EGD-e</GBSeq_organism>
+./U18753.xml:  <GBSeq_organism>Yucatan coconut lethal decline phytoplasma</GBSeq_organism>
+./AF222894.xml:  <GBSeq_organism>Ureaplasma parvum serovar 3 str. ATCC 700970</GBSeq_organism>
+./AE017308.xml:  <GBSeq_organism>Mycoplasma mobile 163K</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AF498308.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./AY197646.xml:  <GBSeq_organism>Alder yellows phytoplasma</GBSeq_organism>
+./AL009126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AF190228.xml:  <GBSeq_organism>Spiraea stunt phytoplasma</GBSeq_organism>
+./AF409070.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./AJ542545.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./AY180955.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AE016830.xml:  <GBSeq_organism>Enterococcus faecalis V583</GBSeq_organism>
+./AE000516.xml:  <GBSeq_organism>Mycobacterium tuberculosis CDC1551</GBSeq_organism>
+./AY265211.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AL445566.xml:  <GBSeq_organism>Mycoplasma pulmonis UAB CTIP</GBSeq_organism>
+./AE016877.xml:  <GBSeq_organism>Bacillus cereus ATCC 14579</GBSeq_organism>
+./AY197654.xml:  <GBSeq_organism>Hemp dogbane yellows phytoplasma</GBSeq_organism>
+./EF186823.xml:  <GBSeq_organism>Knautia arvensis phyllody phytoplasma</GBSeq_organism>
+./AY265213.xml:  <GBSeq_organism>Blueberry stunt phytoplasma</GBSeq_organism>
+./AE005672.xml:  <GBSeq_organism>Streptococcus pneumoniae TIGR4</GBSeq_organism>
+./Y10095.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./L33734.xml:  <GBSeq_organism>Acholeplasma palmae J233</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./AF248960.xml:  <GBSeq_organism>Mexican periwinkle virescence phytoplasma</GBSeq_organism>
+./AL592022.xml:  <GBSeq_organism>Listeria innocua Clip11262</GBSeq_organism>
+./X63781.xml:  <GBSeq_organism>Spiroplasma citri</GBSeq_organism>
+./BX248353.xml:  <GBSeq_organism>Corynebacterium diphtheriae NCTC 13129</GBSeq_organism>
+./EF193356.xml:  <GBSeq_organism>Italian alfalfa witches&apos;-broom phytoplasma</GBSeq_organism>
+./AF248959.xml:  <GBSeq_organism>Candidatus Phytoplasma solani</GBSeq_organism>
+./AF190223.xml:  <GBSeq_organism>Poinsettia branch-inducing phytoplasma</GBSeq_organism>
+./AY500817.xml:  <GBSeq_organism>Vinca virescence phytoplasma</GBSeq_organism>
+./AL450380.xml:  <GBSeq_organism>Mycobacterium leprae TN</GBSeq_organism>
+./BA000016.xml:  <GBSeq_organism>Clostridium perfringens str. 13</GBSeq_organism>
+./AE009948.xml:  <GBSeq_organism>Streptococcus agalactiae 2603V/R</GBSeq_organism>
+./DQ174121.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./AY197652.xml:  <GBSeq_organism>Candidatus Phytoplasma spartii</GBSeq_organism>
+./BA000030.xml:  <GBSeq_organism>Streptomyces avermitilis MA-4680 = NBRC 14893</GBSeq_organism>
+./EF193357.xml:  <GBSeq_organism>Sesame phyllody phytoplasma</GBSeq_organism>
+./AE005176.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis Il1403</GBSeq_organism>
+./BA000028.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./AY197644.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./L43967.xml:  <GBSeq_organism>Mycoplasma genitalium G37</GBSeq_organism>
+./EF186828.xml:  <GBSeq_organism>Lime witches&apos;-broom phytoplasma</GBSeq_organism>
+./U00089.xml:  <GBSeq_organism>Mycoplasma pneumoniae M129</GBSeq_organism>
+./EF186827.xml:  <GBSeq_organism>Cotton phyllody phytoplasma</GBSeq_organism>
+./EF193359.xml:  <GBSeq_organism>Tomato big bud phytoplasma</GBSeq_organism>
+./AF173558.xml:  <GBSeq_organism>Clover yellow edge phytoplasma</GBSeq_organism>
+./X76430.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AF495882.xml:  <GBSeq_organism>Chinaberry yellows phytoplasma</GBSeq_organism>
+./AF361017.xml:  <GBSeq_organism>Honduran Gliricidia little leaf phytoplasma</GBSeq_organism>
+./AE001437.xml:  <GBSeq_organism>Clostridium acetobutylicum ATCC 824</GBSeq_organism>
+./AE009949.xml:  <GBSeq_organism>Streptococcus pyogenes MGAS8232</GBSeq_organism>
+./AE017244.xml:  <GBSeq_organism>Mycoplasma hyopneumoniae 7448</GBSeq_organism>
+./BX293980.xml:  <GBSeq_organism>Mycoplasma mycoides subsp. mycoides SC str. PG1</GBSeq_organism>
+./EF193355.xml:  <GBSeq_organism>Crotalaria phyllody phytoplasma</GBSeq_organism>
+./AE017198.xml:  <GBSeq_organism>Lactobacillus johnsonii NCC 533</GBSeq_organism>
+./AL935263.xml:  <GBSeq_organism>Lactobacillus plantarum WCFS1</GBSeq_organism>
+./AF510724.xml:  <GBSeq_organism>Milkweed yellows phytoplasma</GBSeq_organism>
+./AL645882.xml:  <GBSeq_organism>Streptomyces coelicolor A3(2)</GBSeq_organism>
+./AF390136.xml:  <GBSeq_organism>Almond witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY500130.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./EF193354.xml:  <GBSeq_organism>Faba bean phyllody phytoplasma</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./BX248333.xml:  <GBSeq_organism>Mycobacterium bovis AF2122/97</GBSeq_organism>
+./AY197648.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AE017263.xml:  <GBSeq_organism>Mesoplasma florum L1</GBSeq_organism>
+./AY197661.xml:  <GBSeq_organism>Jujube witches&apos;-broom phytoplasma</GBSeq_organism>
+./EF186826.xml:  <GBSeq_organism>Pigeon pea witches&apos;-broom phytoplasma</GBSeq_organism>
+./AJ542543.xml:  <GBSeq_organism>Candidatus Phytoplasma pyri</GBSeq_organism>
+./EF186819.xml:  <GBSeq_organism>Catharanthus phyllody phytoplasma</GBSeq_organism>

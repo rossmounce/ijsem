@@ -1,0 +1,8 @@
+./AB300992.xml:  <GBSeq_organism>Bradyrhizobium iriomotense</GBSeq_organism>
+./U35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./X66024.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./EU561065.xml:  <GBSeq_organism>Bradyrhizobium cytisi</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./AY624134.xml:  <GBSeq_organism>Bradyrhizobium jicamae</GBSeq_organism>
+./AF193818.xml:  <GBSeq_organism>Bradyrhizobium yuanmingense</GBSeq_organism>
+./AY372184.xml:  <GBSeq_organism>Bradyrhizobium betae</GBSeq_organism>

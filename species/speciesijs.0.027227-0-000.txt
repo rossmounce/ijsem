@@ -1,0 +1,20 @@
+./EU188442.xml:  <GBSeq_organism>Marinomonas alcarazii</GBSeq_organism>
+./AJ627909.xml:  <GBSeq_organism>Marinomonas ushuaiensis</GBSeq_organism>
+./AJ843077.xml:  <GBSeq_organism>Marinomonas aquimarina</GBSeq_organism>
+./AY539835.xml:  <GBSeq_organism>Marinomonas pontica</GBSeq_organism>
+./AB467281.xml:  <GBSeq_organism>Marinomonas arenicola</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./EU188443.xml:  <GBSeq_organism>Marinomonas rhizomae</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./EU188447.xml:  <GBSeq_organism>Marinomonas aquiplantarum</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AB242868.xml:  <GBSeq_organism>Marinomonas ostreistagni</GBSeq_organism>
+./AJ833000.xml:  <GBSeq_organism>Marinomonas polaris</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./EU188445.xml:  <GBSeq_organism>Marinomonas posidonica IVIA-Po-181</GBSeq_organism>
+./EU188444.xml:  <GBSeq_organism>Marinomonas foliarum</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./EU188441.xml:  <GBSeq_organism>Marinomonas pollencensis</GBSeq_organism>
+./EU188448.xml:  <GBSeq_organism>Marinomonas balearica</GBSeq_organism>
+./EU143359.xml:  <GBSeq_organism>Marinomonas basaltis</GBSeq_organism>

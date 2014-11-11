@@ -1,0 +1,10 @@
+./M59146.xml:  <GBSeq_organism>Methanosaeta concilii</GBSeq_organism>
+./U20149.xml:  <GBSeq_organism>Methanohalobium evestigatum Z-7303</GBSeq_organism>
+./AJ238002.xml:  <GBSeq_organism>Methanimicrococcus blatticola</GBSeq_organism>
+./AY817738.xml:  <GBSeq_organism>Methanosaeta harundinacea 8Ac</GBSeq_organism>
+./M59141.xml:  <GBSeq_organism>Methanosaeta thermophila</GBSeq_organism>
+./M59133.xml:  <GBSeq_organism>Methanohalophilus mahii DSM 5219</GBSeq_organism>
+./DQ787474.xml:  <GBSeq_organism>Methermicoccus shengliensis</GBSeq_organism>
+./M59135.xml:  <GBSeq_organism>Methanolobus tindarius</GBSeq_organism>
+./AY260433.xml:  <GBSeq_organism>Methanomethylovorans hollandica</GBSeq_organism>
+./M59127.xml:  <GBSeq_organism>Methanococcoides methylutens</GBSeq_organism>

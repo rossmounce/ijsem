@@ -1,0 +1,18 @@
+./AB244762.xml:  <GBSeq_organism>Kaistia granuli</GBSeq_organism>
+./AY206686.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AF364067.xml:  <GBSeq_organism>Sinorhizobium kummerowiae</GBSeq_organism>
+./EF592609.xml:  <GBSeq_organism>Kaistia soli DSM 19436</GBSeq_organism>
+./AJ250813.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./AM409364.xml:  <GBSeq_organism>Kaistia dalseonensis</GBSeq_organism>
+./AM409363.xml:  <GBSeq_organism>Kaistia geumhonensis</GBSeq_organism>
+./EU723082.xml:  <GBSeq_organism>Kaistia terrae</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./D13430.xml:  <GBSeq_organism>Bradyrhizobium diazoefficiens USDA 110</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./AY039817.xml:  <GBSeq_organism>Kaistia adipata</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D14500.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D14503.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AY635999.xml:  <GBSeq_organism>Phyllobacterium catacumbae</GBSeq_organism>
+./AF364068.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./D12790.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

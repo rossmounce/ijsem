@@ -1,0 +1,28 @@
+./AY297806.xml:  <GBSeq_organism>Verrucomicrobiae bacterium pACH90</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY114317.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302114.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY587232.xml:  <GBSeq_organism>Diplosphaera colitermitum TAV2</GBSeq_organism>
+./AB062814.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY388649.xml:  <GBSeq_organism>Chthoniobacter flavus Ellin428</GBSeq_organism>
+./DQ302104.xml:  <GBSeq_organism>Rubritalea marina</GBSeq_organism>
+./DQ539046.xml:  <GBSeq_organism>Puniceicoccus vermicola</GBSeq_organism>
+./AY587231.xml:  <GBSeq_organism>Opitutaceae bacterium TAV1</GBSeq_organism>
+./AJ229246.xml:  <GBSeq_organism>Opitutus terrae</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./X99392.xml:  <GBSeq_organism>Opitutus sp. VeSm13</GBSeq_organism>
+./AY234519.xml:  <GBSeq_organism>bacterium Ellin5102</GBSeq_organism>
+./DQ302109.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./U60015.xml:  <GBSeq_organism>Prosthecobacter fusiformis</GBSeq_organism>
+./AF075271.xml:  <GBSeq_organism>Alterococcus agarolyticus</GBSeq_organism>
+./X99390.xml:  <GBSeq_organism>Opitutus sp. VeGlc2</GBSeq_organism>
+./AB266750.xml:  <GBSeq_organism>Coraliomargarita akajimensis DSM 45221</GBSeq_organism>
+./AJ229235.xml:  <GBSeq_organism>Opitutus terrae PB90-1</GBSeq_organism>
+./AY587233.xml:  <GBSeq_organism>Opitutaceae bacterium TAV3</GBSeq_organism>
+./AB286016.xml:  <GBSeq_organism>Pelagicoccus albus</GBSeq_organism>
+./AY587234.xml:  <GBSeq_organism>Opitutaceae bacterium TAV4</GBSeq_organism>
+./AJ229239.xml:  <GBSeq_organism>Opitutus terrae</GBSeq_organism>
+./X99391.xml:  <GBSeq_organism>Opitutus sp. VeCb1</GBSeq_organism>
+./AF009974.xml:  <GBSeq_organism>unidentified eubacterium LD19</GBSeq_organism>
+./AY695840.xml:  <GBSeq_organism>Opitutus sp. SA-9</GBSeq_organism>

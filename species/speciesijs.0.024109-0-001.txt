@@ -1,0 +1,15 @@
+./GO499851.xml:  <GBSeq_organism>Malus domestica</GBSeq_organism>
+./AY493866.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AY493868.xml:  <GBSeq_organism>Paenibacillus brasilensis</GBSeq_organism>
+./AL009126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AY493862.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./AY493865.xml:  <GBSeq_organism>Paenibacillus peoriae</GBSeq_organism>
+./AY728281.xml:  <GBSeq_organism>Paenibacillus jamilae</GBSeq_organism>
+./AY728280.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./GO499850.xml:  <GBSeq_organism>Malus domestica</GBSeq_organism>
+./AY728288.xml:  <GBSeq_organism>Paenibacillus favisporus</GBSeq_organism>
+./GO499853.xml:  <GBSeq_organism>Malus domestica</GBSeq_organism>
+./AY728287.xml:  <GBSeq_organism>Paenibacillus sanguinis</GBSeq_organism>
+./GU979421.xml:  <GBSeq_organism>Paenibacillus tianmuensis</GBSeq_organism>
+./GO499852.xml:  <GBSeq_organism>Malus domestica</GBSeq_organism>
+./AY493864.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>

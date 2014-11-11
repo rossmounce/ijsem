@@ -1,0 +1,27 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./AM286414.xml:  <GBSeq_organism>Phycicola gilvus</GBSeq_organism>
+./AM940157.xml:  <GBSeq_organism>Agrococcus versicolor</GBSeq_organism>
+./AM396260.xml:  <GBSeq_organism>Agrococcus jejuensis</GBSeq_organism>
+./AM494541.xml:  <GBSeq_organism>Humibacter albus DSM 18994</GBSeq_organism>
+./D45057.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./X77435.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./AJ544063.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./AB282862.xml:  <GBSeq_organism>Microterricola viridarii</GBSeq_organism>
+./D45063.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./DQ156908.xml:  <GBSeq_organism>Agrococcus lahaulensis</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./AB362159.xml:  <GBSeq_organism>Schumannella luteola</GBSeq_organism>
+./FJ423764.xml:  <GBSeq_organism>Agrococcus terreus</GBSeq_organism>
+./AJ459101.xml:  <GBSeq_organism>Rhodoglobus vestalii</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AJ310417.xml:  <GBSeq_organism>Plantibacter flavus</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./Y15712.xml:  <GBSeq_organism>Macrococcus equipercicus</GBSeq_organism>
+./AB279547.xml:  <GBSeq_organism>Agrococcus citreus</GBSeq_organism>
+./AY372075.xml:  <GBSeq_organism>Klugiella xanthotipulae</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./AJ306835.xml:  <GBSeq_organism>Gulosibacter molinativorax</GBSeq_organism>
+./AB378301.xml:  <GBSeq_organism>Glaciibacter superstes</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>

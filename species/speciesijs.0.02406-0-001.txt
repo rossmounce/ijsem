@@ -1,0 +1,9 @@
+./AF016046.xml:  <GBSeq_organism>Thiomicrospira thyasirae</GBSeq_organism>
+./Y13299.xml:  <GBSeq_organism>Carnimonas nigrificans</GBSeq_organism>
+./AE006769.xml:  <GBSeq_organism>Sulfolobus solfataricus P2</GBSeq_organism>
+./Ar009959.xml:  <GBSeq_organism>Unknown.</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./M93358.xml:  <GBSeq_organism>Halomonas subglaciescola</GBSeq_organism>
+./AJ315983.xml:  <GBSeq_organism>Saccharospirillum impatiens</GBSeq_organism>
+./X57219.xml:  <GBSeq_organism>Meloidogyne arenaria</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>

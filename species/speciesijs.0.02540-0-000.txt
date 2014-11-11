@@ -1,0 +1,10 @@
+./U35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./X66025.xml:  <GBSeq_organism>Bradyrhizobium denitrificans</GBSeq_organism>
+./M65248.xml:  <GBSeq_organism>Afipia felis ATCC 53690</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./Y17512.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./M69186.xml:  <GBSeq_organism>Afipia clevelandensis ATCC 49720</GBSeq_organism>
+./L11663.xml:  <GBSeq_organism>Nitrobacter hamburgensis X14</GBSeq_organism>
+./AF273081.xml:  <GBSeq_organism>Bosea minatitlanensis</GBSeq_organism>
+./U87761.xml:  <GBSeq_organism>Afipia broomeae</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>

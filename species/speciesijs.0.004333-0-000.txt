@@ -1,0 +1,12 @@
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./DQ423479.xml:  <GBSeq_organism>Zhouia amylolytica</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./AF039292.xml:  <GBSeq_organism>Lewinella cohaerens</GBSeq_organism>
+./DQ457019.xml:  <GBSeq_organism>Niabella aurantiaca</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EU616816.xml:  <GBSeq_organism>Niabella ginsengisoli</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>

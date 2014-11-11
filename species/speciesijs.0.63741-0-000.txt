@@ -1,0 +1,18 @@
+./X80994.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./AY168735.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY284838.xml:  <GBSeq_organism>Diphterophora obesa</GBSeq_organism>
+./AB058919.xml:  <GBSeq_organism>Reichenbachiella agariperforans</GBSeq_organism>
+./AF039296.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./U85891.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AY854022.xml:  <GBSeq_organism>Leadbetterella byssophila DSM 17132</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./M58765.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

@@ -1,0 +1,12 @@
+./EF988653.xml:  <GBSeq_organism>Spongiibacter tropicus</GBSeq_organism>
+./AF448515.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./FJ889678.xml:  <GBSeq_organism>Zhongshania guokunii</GBSeq_organism>
+./FJ889619.xml:  <GBSeq_organism>Zhongshania antarctica</GBSeq_organism>
+./AY444822.xml:  <GBSeq_organism>Psychrobacter arcticus 273-4</GBSeq_organism>
+./EU161717.xml:  <GBSeq_organism>Haliea rubra DSM 19751</GBSeq_organism>
+./AF005184.xml:  <GBSeq_organism>Moraxella equi</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AY576769.xml:  <GBSeq_organism>Haliea salexigens DSM 19537</GBSeq_organism>
+./EU365694.xml:  <GBSeq_organism>Microbulbifer donghaiensis</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AY576729.xml:  <GBSeq_organism>Melitea salexigens</GBSeq_organism>

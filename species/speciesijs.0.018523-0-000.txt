@@ -1,0 +1,18 @@
+./AF220220.xml:  <GBSeq_organism>Corynebacterium aurimucosum ATCC 700975</GBSeq_organism>
+./X84442.xml:  <GBSeq_organism>Corynebacterium striatum</GBSeq_organism>
+./X83955.xml:  <GBSeq_organism>Corynebacterium argentoratense</GBSeq_organism>
+./X84680.xml:  <GBSeq_organism>Corynebacterium vitaeruminis DSM 20294</GBSeq_organism>
+./X84444.xml:  <GBSeq_organism>Corynebacterium bovis DSM 20582= CIP 54.80</GBSeq_organism>
+./AM930556.xml:  <GBSeq_organism>Corynebacterium sputi DSM 45148</GBSeq_organism>
+./AM922112.xml:  <GBSeq_organism>Corynebacterium ulceribovis</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X84256.xml:  <GBSeq_organism>Corynebacterium ulcerans</GBSeq_organism>
+./AM397636.xml:  <GBSeq_organism>Corynebacterium ureicelerivorans</GBSeq_organism>
+./AJ309207.xml:  <GBSeq_organism>Corynebacterium aurimucosum</GBSeq_organism>
+./AJ295841.xml:  <GBSeq_organism>Corynebacterium testudinoris</GBSeq_organism>
+./FJ423600.xml:  <GBSeq_organism>Corynebacterium maris DSM 45190</GBSeq_organism>
+./AY226509.xml:  <GBSeq_organism>Corynebacterium halotolerans YIM 70093 = DSM 44683</GBSeq_organism>
+./X86688.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>
+./AJ222815.xml:  <GBSeq_organism>Corynebacterium variabile</GBSeq_organism>
+./X81913.xml:  <GBSeq_organism>Corynebacterium urealyticum DSM 7109</GBSeq_organism>
+./AJ429234.xml:  <GBSeq_organism>Corynebacterium spheniscorum</GBSeq_organism>

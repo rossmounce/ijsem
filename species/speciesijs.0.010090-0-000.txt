@@ -1,0 +1,20 @@
+./X55060.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./AY667494.xml:  <GBSeq_organism>Bacillus salarius</GBSeq_organism>
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./FM244839.xml:  <GBSeq_organism>Alteribacillus persepolensis</GBSeq_organism>
+./X76443.xml:  <GBSeq_organism>Bacillus horikoshii DSM 8719</GBSeq_organism>
+./X76444.xml:  <GBSeq_organism>[Bacillus] clarkii</GBSeq_organism>
+./X90834.xml:  <GBSeq_organism>Salimicrobium album</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./AF541966.xml:  <GBSeq_organism>Bacillus hwajinpoensis</GBSeq_organism>
+./U49080.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>
+./D84213.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AM778124.xml:  <GBSeq_organism>Nakamurella lactea</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AB006164.xml:  <GBSeq_organism>Sporichthya brevicatena</GBSeq_organism>
+./D85466.xml:  <GBSeq_organism>Cryptosporangium japonicum</GBSeq_organism>
+./AB003931.xml:  <GBSeq_organism>Kineosporia aurantiaca JCM 3230</GBSeq_organism>
+./AF063641.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./Y18646.xml:  <GBSeq_organism>Modestobacter multiseptatus</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./AB245399.xml:  <GBSeq_organism>Actinomycetales bacterium Gsoil 972</GBSeq_organism>
+./DQ321750.xml:  <GBSeq_organism>Nakamurella flavida</GBSeq_organism>
+./D85465.xml:  <GBSeq_organism>Cryptosporangium arvum DSM 44712</GBSeq_organism>
+./Y08541.xml:  <GBSeq_organism>Nakamurella multipartita DSM 44233</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./DQ200982.xml:  <GBSeq_organism>Pseudokineococcus marinus</GBSeq_organism>

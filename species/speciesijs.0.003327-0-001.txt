@@ -1,0 +1,40 @@
+./AM930382.xml:  <GBSeq_organism>Mesorhizobium metallidurans STM 2683</GBSeq_organism>
+./AM930383.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AM930392.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AY494824.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AJ294400.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AM930390.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AY785348.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AM930389.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AY494816.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AJ294365.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AM930385.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AJ294391.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AY785351.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AJ294389.xml:  <GBSeq_organism>Azorhizobium caulinodans</GBSeq_organism>
+./AJ294363.xml:  <GBSeq_organism>Azorhizobium caulinodans</GBSeq_organism>
+./AJ294393.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AM930393.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AJ294377.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ294392.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AM930388.xml:  <GBSeq_organism>Mesorhizobium metallidurans STM 2683</GBSeq_organism>
+./AY785350.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AJ294387.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AM930384.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AM930391.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AJ294371.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AJ294382.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AJ294370.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AJ294394.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AY785352.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AM930387.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AJ294367.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ294388.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AY591555.xml:  <GBSeq_organism>Bradyrhizobium japonicum bv. glycinearum</GBSeq_organism>
+./AJ294399.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AJ294380.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AM930386.xml:  <GBSeq_organism>Mesorhizobium metallidurans</GBSeq_organism>
+./AJ294368.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AY494825.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AJ294395.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ294369.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>

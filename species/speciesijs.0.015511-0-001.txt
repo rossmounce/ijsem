@@ -1,0 +1,11 @@
+./AY455809.xml:  <GBSeq_organism>Thiomonas intermedia</GBSeq_organism>
+./M79426.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./U58019.xml:  <GBSeq_organism>Thiobacillus aquaesulis</GBSeq_organism>
+./U27839.xml:  <GBSeq_organism>Thiomonas thermosulfata</GBSeq_organism>
+./AF465604.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./EU625663.xml:  <GBSeq_organism>Thiomonas islandica</GBSeq_organism>
+./Y11596.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans</GBSeq_organism>
+./AB245481.xml:  <GBSeq_organism>Thiomonas delicata</GBSeq_organism>
+./AY950676.xml:  <GBSeq_organism>Thiomonas arsenivorans</GBSeq_organism>
+./AY455808.xml:  <GBSeq_organism>Thiomonas perometabolis</GBSeq_organism>

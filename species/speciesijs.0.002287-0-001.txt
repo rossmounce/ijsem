@@ -1,0 +1,14 @@
+./AE000520.xml:  <GBSeq_organism>Treponema pallidum subsp. pallidum str. Nichols</GBSeq_organism>
+./AJ277353.xml:  <GBSeq_organism>Treponema denticola ATCC 35405</GBSeq_organism>
+./EF061285.xml:  <GBSeq_organism>Treponema medium</GBSeq_organism>
+./Y18889.xml:  <GBSeq_organism>Treponema maltophilum</GBSeq_organism>
+./EF061283.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>
+./M94015.xml:  <GBSeq_organism>Treponema phagedenis</GBSeq_organism>
+./EF061287.xml:  <GBSeq_organism>Treponema vincentii</GBSeq_organism>
+./EF061286.xml:  <GBSeq_organism>Treponema vincentii ATCC 35580</GBSeq_organism>
+./AJ277358.xml:  <GBSeq_organism>Treponema lecithinolyticum</GBSeq_organism>
+./AJ277354.xml:  <GBSeq_organism>Treponema denticola ATCC 33521</GBSeq_organism>
+./EU754823.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>
+./X63513.xml:  <GBSeq_organism>Brachyspira hyodysenteriae</GBSeq_organism>
+./EU754824.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>
+./EF061284.xml:  <GBSeq_organism>Treponema pedis</GBSeq_organism>

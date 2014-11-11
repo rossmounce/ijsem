@@ -1,0 +1,7 @@
+./AB074193.xml:  <GBSeq_organism>Marinomonas primoryensis</GBSeq_organism>
+./AY539835.xml:  <GBSeq_organism>Marinomonas pontica</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AB006770.xml:  <GBSeq_organism>Marinospirillum megaterium</GBSeq_organism>
+./AY092066.xml:  <GBSeq_organism>Marinomonas protea</GBSeq_organism>
+./X74698.xml:  <GBSeq_organism>Vibrio cincinnatiensis</GBSeq_organism>

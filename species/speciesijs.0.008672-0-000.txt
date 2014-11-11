@@ -1,0 +1,12 @@
+./X84255.xml:  <GBSeq_organism>Corynebacterium pseudotuberculosis</GBSeq_organism>
+./X83955.xml:  <GBSeq_organism>Corynebacterium argentoratense</GBSeq_organism>
+./X84680.xml:  <GBSeq_organism>Corynebacterium vitaeruminis DSM 20294</GBSeq_organism>
+./AJ401282.xml:  <GBSeq_organism>Corynebacterium felinum</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X84256.xml:  <GBSeq_organism>Corynebacterium ulcerans</GBSeq_organism>
+./Y13024.xml:  <GBSeq_organism>Corynebacterium falsenii</GBSeq_organism>
+./AJ295841.xml:  <GBSeq_organism>Corynebacterium testudinoris</GBSeq_organism>
+./AF490539.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./X81871.xml:  <GBSeq_organism>Corynebacterium kutscheri</GBSeq_organism>
+./AJ496733.xml:  <GBSeq_organism>Corynebacterium aquilae DSM 44791</GBSeq_organism>
+./AJ429234.xml:  <GBSeq_organism>Corynebacterium spheniscorum</GBSeq_organism>

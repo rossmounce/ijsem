@@ -1,0 +1,8 @@
+./AY845251.xml:  <GBSeq_organism>Spirillum winogradskyi</GBSeq_organism>
+./M79426.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./U58019.xml:  <GBSeq_organism>Thiobacillus aquaesulis</GBSeq_organism>
+./M79421.xml:  <GBSeq_organism>Thiomonas perometabolis</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./M34131.xml:  <GBSeq_organism>Spirillum volutans</GBSeq_organism>
+./L15531.xml:  <GBSeq_organism>Azoarcus indigens</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>

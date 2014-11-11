@@ -1,0 +1,12 @@
+./EU014872.xml:  <GBSeq_organism>Cohnella phaseoli</GBSeq_organism>
+./EF368008.xml:  <GBSeq_organism>Cohnella yongneupensis</GBSeq_organism>
+./X77846.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY257868.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AF537343.xml:  <GBSeq_organism>Paenibacillus mendelii</GBSeq_organism>
+./AJ971483.xml:  <GBSeq_organism>Cohnella thermotolerans</GBSeq_organism>
+./AF433165.xml:  <GBSeq_organism>Cohnella hongkongensis</GBSeq_organism>
+./EF368010.xml:  <GBSeq_organism>Cohnella ginsengisoli</GBSeq_organism>
+./AJ605292.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>
+./AJ250317.xml:  <GBSeq_organism>Paenibacillus cookii</GBSeq_organism>
+./AJ005795.xml:  <GBSeq_organism>Thermobacillus xylanilyticus</GBSeq_organism>

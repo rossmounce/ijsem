@@ -1,0 +1,4 @@
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./AM040716.xml:  <GBSeq_organism>Gracilibacillus orientalis</GBSeq_organism>
+./AB197126.xml:  <GBSeq_organism>Gracilibacillus boraciitolerans</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>

@@ -1,0 +1,8 @@
+./AF254387.xml:  <GBSeq_organism>Candidatus Pasteuria usgae</GBSeq_organism>
+./AY081918.xml:  <GBSeq_organism>uncultured Pasteuria sp.</GBSeq_organism>
+./AY081912.xml:  <GBSeq_organism>uncultured Pasteuria sp.</GBSeq_organism>
+./AY081916.xml:  <GBSeq_organism>uncultured Pasteuria sp.</GBSeq_organism>
+./AY081917.xml:  <GBSeq_organism>uncultured Pasteuria sp.</GBSeq_organism>
+./U34638.xml:  <GBSeq_organism>Daphnia longispina</GBSeq_organism>
+./AY081919.xml:  <GBSeq_organism>uncultured Pasteuria sp.</GBSeq_organism>
+./AF077672.xml:  <GBSeq_organism>Pasteuria penetrans</GBSeq_organism>

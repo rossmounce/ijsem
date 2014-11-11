@@ -1,0 +1,15 @@
+./AF061009.xml:  <GBSeq_organism>Enterococcus cecorum DSM 20682 = ATCC 43198</GBSeq_organism>
+./AF286832.xml:  <GBSeq_organism>Enterococcus haemoperoxidus</GBSeq_organism>
+./AJ582753.xml:  <GBSeq_organism>Enterococcus italicus DSM 15952</GBSeq_organism>
+./Y11621.xml:  <GBSeq_organism>Enterococcus asini</GBSeq_organism>
+./AF061007.xml:  <GBSeq_organism>Enterococcus dispar ATCC 51266</GBSeq_organism>
+./X56422.xml:  <GBSeq_organism>Enterococcus columbae DSM 7374 = ATCC 51263</GBSeq_organism>
+./AJ276355.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AF061004.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./X54258.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./Y18274.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AJ626902.xml:  <GBSeq_organism>Enterococcus italicus</GBSeq_organism>
+./AF039900.xml:  <GBSeq_organism>Enterococcus gallinarum</GBSeq_organism>
+./AF061001.xml:  <GBSeq_organism>Enterococcus sulfureus ATCC 49903</GBSeq_organism>
+./AJ877015.xml:  <GBSeq_organism>Enterococcus aquimarinus</GBSeq_organism>
+./AY396047.xml:  <GBSeq_organism>Enterococcus hermanniensis</GBSeq_organism>

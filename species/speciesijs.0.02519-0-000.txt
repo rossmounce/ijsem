@@ -1,0 +1,27 @@
+./AJ310927.xml:  <GBSeq_organism>Streptomyces cyaneus</GBSeq_organism>
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./AJ399493.xml:  <GBSeq_organism>Streptomyces neyagawaensis</GBSeq_organism>
+./AJ271887.xml:  <GBSeq_organism>Streptomyces melanosporofaciens</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./AF117304.xml:  <GBSeq_organism>Streptomyces malaysiensis</GBSeq_organism>
+./AJ399487.xml:  <GBSeq_organism>Streptomyces cinnabarinus</GBSeq_organism>
+./AF112180.xml:  <GBSeq_organism>Streptomyces mirabilis</GBSeq_organism>
+./AF101415.xml:  <GBSeq_organism>Streptomyces yeochonensis</GBSeq_organism>
+./AJ310923.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./X80825.xml:  <GBSeq_organism>Streptomyces subrutilus</GBSeq_organism>
+./AJ399488.xml:  <GBSeq_organism>Streptomyces griseorubiginosus</GBSeq_organism>
+./AF112160.xml:  <GBSeq_organism>Streptomyces caviscabies</GBSeq_organism>
+./D63862.xml:  <GBSeq_organism>Streptomyces scabiei</GBSeq_organism>
+./AJ399471.xml:  <GBSeq_organism>Streptomyces cyaneus</GBSeq_organism>
+./AJ391820.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./AJ399475.xml:  <GBSeq_organism>Streptomyces longisporus</GBSeq_organism>
+./AJ391822.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AJ399468.xml:  <GBSeq_organism>Streptomyces chartreusis</GBSeq_organism>
+./AJ399465.xml:  <GBSeq_organism>Streptomyces echinatus</GBSeq_organism>
+./M76388.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./D63868.xml:  <GBSeq_organism>Streptomyces bottropensis ATCC 25435</GBSeq_organism>
+./AJ310926.xml:  <GBSeq_organism>Streptomyces resistomycificus</GBSeq_organism>
+./D85116.xml:  <GBSeq_organism>Streptomyces lavendulae</GBSeq_organism>
+./AJ399469.xml:  <GBSeq_organism>Streptomyces lanatus</GBSeq_organism>
+./AF101414.xml:  <GBSeq_organism>Streptomyces sp. JL164</GBSeq_organism>

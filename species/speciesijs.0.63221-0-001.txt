@@ -1,0 +1,20 @@
+./AJ628745.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ628748.xml:  <GBSeq_organism>Bacillus muralis</GBSeq_organism>
+./D78478.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./X60626.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ628746.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ628749.xml:  <GBSeq_organism>Lysinibacillus macroides</GBSeq_organism>
+./AF157696.xml:  <GBSeq_organism>Lysinibacillus macroides</GBSeq_organism>
+./AY237408.xml:  <GBSeq_organism>Bacillus sp. HJ16</GBSeq_organism>
+./AY030319.xml:  <GBSeq_organism>Lysinibacillus macroides</GBSeq_organism>
+./AJ628743.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ310083.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./AY237407.xml:  <GBSeq_organism>Bacillus sp. HJ8</GBSeq_organism>
+./X60638.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ628744.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ439078.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AJ310084.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./AF479374.xml:  <GBSeq_organism>glacial ice bacterium SB150-2A2</GBSeq_organism>
+./AJ628747.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./AF423217.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./X70312.xml:  <GBSeq_organism>Lysinibacillus macroides</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ002515.xml:  <GBSeq_organism>Lactobacillus johnsonii</GBSeq_organism>
+./AJ305320.xml:  <GBSeq_organism>Pediococcus acidilactici DSM 20284</GBSeq_organism>
+./Y17362.xml:  <GBSeq_organism>Lactobacillus crispatus</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./AJ306298.xml:  <GBSeq_organism>Lactobacillus hamsteri</GBSeq_organism>
+./AJ272391.xml:  <GBSeq_organism>Lactobacillus psittaci</GBSeq_organism>
+./M58820.xml:  <GBSeq_organism>Lactobacillus gasseri</GBSeq_organism>
+./AY253657.xml:  <GBSeq_organism>Lactobacillus kalixensis</GBSeq_organism>
+./M58805.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>
+./Y16329.xml:  <GBSeq_organism>Lactobacillus iners DSM 13335</GBSeq_organism>

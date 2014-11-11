@@ -1,0 +1,25 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./AF367484.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./X82931.xml:  <GBSeq_organism>Sulfurospirillum multivorans DSM 12446</GBSeq_organism>
+./U15103.xml:  <GBSeq_organism>hydrothermal vent eubacterium PVB_OTU_3</GBSeq_organism>
+./U85964.xml:  <GBSeq_organism>Sulfurospirillum arsenophilum</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./AF068783.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac1</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./U15104.xml:  <GBSeq_organism>hydrothermal vent eubacterium PVB_OTU_3</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./AB018487.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF367483.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./L14630.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./L14625.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>
+./L35521.xml:  <GBSeq_organism>Alvinella pompejana epibiont</GBSeq_organism>
+./AF367492.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./AF367493.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./AF367485.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./AF367489.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./U00679.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AF068795.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac17</GBSeq_organism>
+./AF355050.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./AB088431.xml:  <GBSeq_organism>Sulfurimonas autotrophica DSM 16294</GBSeq_organism>
+./U29081.xml:  <GBSeq_organism>Rimicaris exoculata ectosymbiont</GBSeq_organism>

@@ -1,0 +1,16 @@
+./D16429.xml:  <GBSeq_organism>Rhodobacter blasticus DSM 2131</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./X87272.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./M34127.xml:  <GBSeq_organism>Rhodomicrobium vannielii</GBSeq_organism>
+./AJ132402.xml:  <GBSeq_organism>Rhodopseudomonas rhenobacensis</GBSeq_organism>
+./D25314.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./D86514.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./D14429.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>
+./D14431.xml:  <GBSeq_organism>Rhodothalassium salexigens DSM 2132</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AM180706.xml:  <GBSeq_organism>Rhodobium gokarnense</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>

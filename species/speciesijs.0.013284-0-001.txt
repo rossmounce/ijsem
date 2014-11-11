@@ -1,0 +1,16 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./FM210274.xml:  <GBSeq_organism>Phaeochromatium fluminis</GBSeq_organism>
+./AJ971090.xml:  <GBSeq_organism>Thiorhodococcus mannitoliphagus</GBSeq_organism>
+./X93472.xml:  <GBSeq_organism>Halochromatium glycolicum</GBSeq_organism>
+./AM282561.xml:  <GBSeq_organism>Thiorhodococcus kakinadensis</GBSeq_organism>
+./AM180952.xml:  <GBSeq_organism>Marichromatium bheemlicum</GBSeq_organism>
+./AM748925.xml:  <GBSeq_organism>Thiophaeococcus mangrovi</GBSeq_organism>
+./Y12368.xml:  <GBSeq_organism>Thiorhodovibrio winogradskyi</GBSeq_organism>
+./AM282559.xml:  <GBSeq_organism>Thiorhodococcus bheemlicus</GBSeq_organism>
+./AJ224439.xml:  <GBSeq_organism>Marichromatium purpuratum 984</GBSeq_organism>
+./AM993156.xml:  <GBSeq_organism>Thiorhodococcus modestalkaliphilus</GBSeq_organism>
+./AJ277023.xml:  <GBSeq_organism>Thioalkalicoccus limnaeus</GBSeq_organism>
+./X93473.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./AJ543328.xml:  <GBSeq_organism>Marichromatium indicum</GBSeq_organism>
+./X84316.xml:  <GBSeq_organism>Rhabdochromatium marinum</GBSeq_organism>
+./AF525306.xml:  <GBSeq_organism>Thiorhodococcus drewsii AZ1</GBSeq_organism>

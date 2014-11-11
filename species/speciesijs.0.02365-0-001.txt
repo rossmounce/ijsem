@@ -1,0 +1,14 @@
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./X82492.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./AJ302709.xml:  <GBSeq_organism>Bacillus halodurans</GBSeq_organism>
+./X60637.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X64465.xml:  <GBSeq_organism>Bacillus methanolicus</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./U49080.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>

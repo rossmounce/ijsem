@@ -1,0 +1,16 @@
+./AJ302703.xml:  <GBSeq_organism>Alcanivorax borkumensis</GBSeq_organism>
+./AB006767.xml:  <GBSeq_organism>Oceanobacter kriegii</GBSeq_organism>
+./AB006760.xml:  <GBSeq_organism>Oceanospirillum beijerinckii subsp. beijerinckii</GBSeq_organism>
+./DQ403809.xml:  <GBSeq_organism>Marinomonas blandensis</GBSeq_organism>
+./AB006763.xml:  <GBSeq_organism>Oceanospirillum maris subsp. williamsae</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AJ295154.xml:  <GBSeq_organism>Oleiphilus messinensis</GBSeq_organism>
+./AJ561121.xml:  <GBSeq_organism>Reinekea marinisedimentorum</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./X67025.xml:  <GBSeq_organism>Marinomonas vaga</GBSeq_organism>
+./AJ315983.xml:  <GBSeq_organism>Saccharospirillum impatiens</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AB006770.xml:  <GBSeq_organism>Marinospirillum megaterium</GBSeq_organism>
+./AM747817.xml:  <GBSeq_organism>Oceaniserpentilla haliotis</GBSeq_organism>
+./AY136116.xml:  <GBSeq_organism>Neptuniibacter caesariensis</GBSeq_organism>
+./AM279755.xml:  <GBSeq_organism>Thalassolituus oleivorans</GBSeq_organism>

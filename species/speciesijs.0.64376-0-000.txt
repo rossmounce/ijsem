@@ -1,0 +1,8 @@
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AB116148.xml:  <GBSeq_organism>Salegentibacter holothuriorum</GBSeq_organism>
+./AF536384.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./AF536386.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>

@@ -1,0 +1,10 @@
+./Y09976.xml:  <GBSeq_organism>Sporomusa silvacetica</GBSeq_organism>
+./AJ279799.xml:  <GBSeq_organism>Sporomusa malonica</GBSeq_organism>
+./M59117.xml:  <GBSeq_organism>Sporomusa paucivorans</GBSeq_organism>
+./M61920.xml:  <GBSeq_organism>Sporomusa termitida</GBSeq_organism>
+./AJ010960.xml:  <GBSeq_organism>Anaerosinus glycerini</GBSeq_organism>
+./AJ010964.xml:  <GBSeq_organism>Acetonema longum DSM 6540</GBSeq_organism>
+./AJ508927.xml:  <GBSeq_organism>Propionispora hippei</GBSeq_organism>
+./X72865.xml:  <GBSeq_organism>Phascolarctobacterium faecium</GBSeq_organism>
+./M59110.xml:  <GBSeq_organism>Dendrosporobacter quercicolus</GBSeq_organism>
+./AJ279801.xml:  <GBSeq_organism>Sporomusa sphaeroides DSM 2875</GBSeq_organism>

@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X73819.xml:  <GBSeq_organism>Methylococcus thermophilus</GBSeq_organism>
+./AY829009.xml:  <GBSeq_organism>Methylothermus thermalis</GBSeq_organism>
+./AJ414655.xml:  <GBSeq_organism>Methylobacter tundripaludum SV96</GBSeq_organism>
+./AJ581837.xml:  <GBSeq_organism>Methylohalobius crimeensis 10Ki</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./U89298.xml:  <GBSeq_organism>Methylocaldum gracile</GBSeq_organism>
+./X72771.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./EU672873.xml:  <GBSeq_organism>Methylogaea oryzae JCM 16910</GBSeq_organism>
+./AF304196.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./X72776.xml:  <GBSeq_organism>Methylomonas aurantiaca</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./U89297.xml:  <GBSeq_organism>Methylocaldum tepidum</GBSeq_organism>
+./D89279.xml:  <GBSeq_organism>Methylomicrobium japanense</GBSeq_organism>
+./U67929.xml:  <GBSeq_organism>Methylosphaera hansonii</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ549285.xml:  <GBSeq_organism>Hymenobacter norwichensis</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./EF392675.xml:  <GBSeq_organism>Algoriphagus vanfongensis</GBSeq_organism>
+./M58789.xml:  <GBSeq_organism>Marivirga tractuosa</GBSeq_organism>
+./Y18837.xml:  <GBSeq_organism>Hymenobacter chitinivorans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./AY753206.xml:  <GBSeq_organism>Roseivirga echinicomitans</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./DQ672723.xml:  <GBSeq_organism>Pontibacter akesuensis</GBSeq_organism>
+./Y18835.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>

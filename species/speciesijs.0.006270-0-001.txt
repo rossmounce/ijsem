@@ -1,0 +1,18 @@
+./D85483.xml:  <GBSeq_organism>Glycomyces harbinensis</GBSeq_organism>
+./AY462042.xml:  <GBSeq_organism>Glycomyces arizonensis</GBSeq_organism>
+./M20387.xml:  <GBSeq_organism>Saccharopolyspora rectivirgula</GBSeq_organism>
+./DQ460469.xml:  <GBSeq_organism>Glycomyces sambucus</GBSeq_organism>
+./AY462041.xml:  <GBSeq_organism>Glycomyces lechevalierae</GBSeq_organism>
+./D85482.xml:  <GBSeq_organism>Glycomyces tenuis DSM 44171</GBSeq_organism>
+./EU660053.xml:  <GBSeq_organism>Haloglycomyces albus</GBSeq_organism>
+./D85484.xml:  <GBSeq_organism>Glycomyces rutgersensis</GBSeq_organism>
+./X93194.xml:  <GBSeq_organism>Dactylosporangium roseum</GBSeq_organism>
+./X76959.xml:  <GBSeq_organism>Pseudonocardia compacta</GBSeq_organism>
+./D14642.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./AY462044.xml:  <GBSeq_organism>Glycomyces algeriensis</GBSeq_organism>
+./AY650268.xml:  <GBSeq_organism>Stackebrandtia nassauensis DSM 44728</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X79291.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./X93187.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./X93197.xml:  <GBSeq_organism>Catellatospora citrea</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

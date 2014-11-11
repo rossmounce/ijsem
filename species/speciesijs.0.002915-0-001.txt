@@ -1,0 +1,11 @@
+./AY339131.xml:  <GBSeq_organism>Aeriscardovia aeriphila</GBSeq_organism>
+./AF240567.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./AF240565.xml:  <GBSeq_organism>Parascardovia denticolens DSM 10105 = JCM 12538</GBSeq_organism>
+./AY004275.xml:  <GBSeq_organism>Bifidobacterium coryneforme</GBSeq_organism>
+./AY004276.xml:  <GBSeq_organism>Bifidobacterium thermacidophilum</GBSeq_organism>
+./EU869281.xml:  <GBSeq_organism>Bifidobacterium bombi</GBSeq_organism>
+./AF240574.xml:  <GBSeq_organism>Bifidobacterium indicum</GBSeq_organism>
+./AY166561.xml:  <GBSeq_organism>Bifidobacterium thermacidophilum subsp. porcinum</GBSeq_organism>
+./AF240570.xml:  <GBSeq_organism>Bifidobacterium asteroides</GBSeq_organism>
+./AY004279.xml:  <GBSeq_organism>Bifidobacterium gallinarum</GBSeq_organism>
+./AF240579.xml:  <GBSeq_organism>Gardnerella vaginalis ATCC 14018 = JCM 11026</GBSeq_organism>

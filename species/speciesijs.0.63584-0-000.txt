@@ -1,0 +1,12 @@
+./AF070426.xml:  <GBSeq_organism>Rhodosporidium toruloides</GBSeq_organism>
+./AF335985.xml:  <GBSeq_organism>Rhodotorula glutinis</GBSeq_organism>
+./AB026006.xml:  <GBSeq_organism>Rhodotorula sp. SY-96</GBSeq_organism>
+./AF387143.xml:  <GBSeq_organism>Rhodotorula sp. IGC 5380</GBSeq_organism>
+./AF189959.xml:  <GBSeq_organism>Rhodotorula mucilaginosa</GBSeq_organism>
+./AF387139.xml:  <GBSeq_organism>Rhodotorula sp. IGC 5597</GBSeq_organism>
+./AF070425.xml:  <GBSeq_organism>Rhodosporidium sphaerocarpum</GBSeq_organism>
+./AB193175.xml:  <GBSeq_organism>Rhodotorula mucilaginosa</GBSeq_organism>
+./AF444749.xml:  <GBSeq_organism>Rhodotorula mucilaginosa</GBSeq_organism>
+./AF070429.xml:  <GBSeq_organism>Rhodotorula dairenensis</GBSeq_organism>
+./AF387142.xml:  <GBSeq_organism>Rhodotorula sp. IGC 4884</GBSeq_organism>
+./AF070432.xml:  <GBSeq_organism>Rhodotorula mucilaginosa</GBSeq_organism>

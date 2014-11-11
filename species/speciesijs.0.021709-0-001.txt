@@ -1,0 +1,13 @@
+./AJ320494.xml:  <GBSeq_organism>Paenibacillus peoriae KCTC 3763</GBSeq_organism>
+./GO985395.xml:  <GBSeq_organism>Erythranthe guttata</GBSeq_organism>
+./AJ633647.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./AF378694.xml:  <GBSeq_organism>Paenibacillus turicensis</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ471303.xml:  <GBSeq_organism>Paenibacillus zanthoxyli</GBSeq_organism>
+./AY741810.xml:  <GBSeq_organism>Paenibacillus motobuensis</GBSeq_organism>
+./X77846.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF273740.xml:  <GBSeq_organism>Paenibacillus brasilensis</GBSeq_organism>
+./AJ223990.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./AJ318013.xml:  <GBSeq_organism>Allogromiina sp. 46</GBSeq_organism>
+./AF290916.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>

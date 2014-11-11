@@ -1,0 +1,15 @@
+./EF081294.xml:  <GBSeq_organism>Thermodesulfovibrio hydrogeniphilus</GBSeq_organism>
+./AF255602.xml:  <GBSeq_organism>Nitrospira sp. SRI-237</GBSeq_organism>
+./AY526499.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X86776.xml:  <GBSeq_organism>Leptospirillum ferrooxidans</GBSeq_organism>
+./X96726.xml:  <GBSeq_organism>Thermodesulfovibrio islandicus</GBSeq_organism>
+./AF255603.xml:  <GBSeq_organism>Nitrospira sp. SRI-9</GBSeq_organism>
+./AJ224040.xml:  <GBSeq_organism>Nitrospira sp.</GBSeq_organism>
+./AJ224039.xml:  <GBSeq_organism>Nitrospira sp.</GBSeq_organism>
+./X71838.xml:  <GBSeq_organism>Candidatus Magnetobacterium bavaricum</GBSeq_organism>
+./AF356830.xml:  <GBSeq_organism>Leptospirillum ferriphilum</GBSeq_organism>
+./AY526508.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X82559.xml:  <GBSeq_organism>Nitrospira marina Nb-295</GBSeq_organism>
+./DQ424917.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY526507.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X82558.xml:  <GBSeq_organism>Nitrospira moscoviensis</GBSeq_organism>

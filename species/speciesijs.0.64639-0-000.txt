@@ -1,0 +1,8 @@
+./AJ297437.xml:  <GBSeq_organism>Exiguobacterium antarcticum</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X70313.xml:  <GBSeq_organism>Exiguobacterium acetylicum</GBSeq_organism>
+./AJ344151.xml:  <GBSeq_organism>Exiguobacterium undae</GBSeq_organism>
+./AY594266.xml:  <GBSeq_organism>Exiguobacterium marinum</GBSeq_organism>
+./X62178.xml:  <GBSeq_organism>[Bacillus] aminovorans</GBSeq_organism>
+./AY818050.xml:  <GBSeq_organism>Exiguobacterium profundum</GBSeq_organism>
+./AY594264.xml:  <GBSeq_organism>Exiguobacterium aestuarii</GBSeq_organism>

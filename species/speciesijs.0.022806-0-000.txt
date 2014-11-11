@@ -1,0 +1,16 @@
+./AB282887.xml:  <GBSeq_organism>Intrasporangium oryzae NRRL B-24470</GBSeq_organism>
+./AJ294413.xml:  <GBSeq_organism>Knoellia subterranea</GBSeq_organism>
+./EU878005.xml:  <GBSeq_organism>Fodinibacter luteus</GBSeq_organism>
+./FJ796074.xml:  <GBSeq_organism>Ornithinibacter aureus</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./AY382898.xml:  <GBSeq_organism>Serinicoccus marinus</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./EF493847.xml:  <GBSeq_organism>Phycicoccus aerophilus</GBSeq_organism>
+./AB282888.xml:  <GBSeq_organism>Humibacillus xanthopallidus</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./AJ277650.xml:  <GBSeq_organism>Ornithinimicrobium humiphilum</GBSeq_organism>
+./AB286025.xml:  <GBSeq_organism>Marihabitans asiaticum</GBSeq_organism>
+./EU573947.xml:  <GBSeq_organism>Terrabacter aeriphilus</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>

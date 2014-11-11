@@ -1,0 +1,4 @@
+./AF008581.xml:  <GBSeq_organism>Providencia stuartii</GBSeq_organism>
+./EU587101.xml:  <GBSeq_organism>Providencia burhodogranariea DSM 19968</GBSeq_organism>
+./EU587095.xml:  <GBSeq_organism>Providencia sneebia DSM 19967</GBSeq_organism>
+./EU587041.xml:  <GBSeq_organism>Providencia vermicola</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AM084028.xml:  <GBSeq_organism>Pseudomonas sp. R-25343</GBSeq_organism>
+./AF468291.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ426421.xml:  <GBSeq_organism>Oleispira antarctica</GBSeq_organism>
+./AF353241.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./AF411854.xml:  <GBSeq_organism>Pseudomonas sp. 5A</GBSeq_organism>
+./AF353238.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./AJ426420.xml:  <GBSeq_organism>Oleispira antarctica RB-8</GBSeq_organism>
+./AF468308.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AM117931.xml:  <GBSeq_organism>Spongiispira norvegica DSM 17749</GBSeq_organism>
+./AF353237.xml:  <GBSeq_organism>uncultured gamma proteobacterium</GBSeq_organism>
+./AY136131.xml:  <GBSeq_organism>Bermanella marisrubri</GBSeq_organism>
+./AY697896.xml:  <GBSeq_organism>uncultured Oleispira sp.</GBSeq_organism>
+./AY258111.xml:  <GBSeq_organism>bacterium DG940</GBSeq_organism>
+./DQ521390.xml:  <GBSeq_organism>Oleispira sp. ice-oil-381</GBSeq_organism>
+./DQ906763.xml:  <GBSeq_organism>uncultured Antarctic sea ice bacterium</GBSeq_organism>

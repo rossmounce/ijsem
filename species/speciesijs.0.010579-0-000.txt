@@ -1,0 +1,9 @@
+./U48984.xml:  <GBSeq_organism>Microbispora rosea subsp. aerata</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./X89941.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./D85496.xml:  <GBSeq_organism>Planotetraspora mira</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./AY039253.xml:  <GBSeq_organism>Thermopolyspora flexuosa</GBSeq_organism>
+./D85490.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./FJ214356.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>

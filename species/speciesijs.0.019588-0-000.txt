@@ -1,0 +1,36 @@
+./AY426714.xml:  <GBSeq_organism>Actinoalloteichus spitiensis RMV-1378</GBSeq_organism>
+./X79183.xml:  <GBSeq_organism>Thermocrispum agreste DSM 44070</GBSeq_organism>
+./AY183356.xml:  <GBSeq_organism>Amycolatopsis pretoriensis</GBSeq_organism>
+./AF051343.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./AF540959.xml:  <GBSeq_organism>Saccharomonospora paurometabolica YIM 90007</GBSeq_organism>
+./AJ512464.xml:  <GBSeq_organism>Kibdelosporangium philippinense</GBSeq_organism>
+./EF372523.xml:  <GBSeq_organism>Actinopolyspora iraqiensis IQ-H1</GBSeq_organism>
+./AJ252832.xml:  <GBSeq_organism>Amycolatopsis albidoflavus</GBSeq_organism>
+./AB327256.xml:  <GBSeq_organism>Lechevalieria aerocolonigenes</GBSeq_organism>
+./AF435077.xml:  <GBSeq_organism>Prauserella alba</GBSeq_organism>
+./EU503139.xml:  <GBSeq_organism>Sciscionella marina</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./AB184722.xml:  <GBSeq_organism>Streptoalloteichus tenebrarius</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./AF223354.xml:  <GBSeq_organism>Amycolatopsis sacchari</GBSeq_organism>
+./X53194.xml:  <GBSeq_organism>Saccharopolyspora rectivirgula</GBSeq_organism>
+./D86935.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./Z38018.xml:  <GBSeq_organism>Saccharomonospora cyanea</GBSeq_organism>
+./AJ306300.xml:  <GBSeq_organism>Saccharomonospora xinjiangensis XJ-54</GBSeq_organism>
+./EF030715.xml:  <GBSeq_organism>Saccharopolyspora cebuensis</GBSeq_organism>
+./NR024687.xml:  <GBSeq_organism>Umezawaea tangerina</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./X54274.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AY129753.xml:  <GBSeq_organism>Amycolatopsis australiensis</GBSeq_organism>
+./AF328680.xml:  <GBSeq_organism>Lentzea albidocapillata</GBSeq_organism>
+./FJ526746.xml:  <GBSeq_organism>Yuhushiella deserti</GBSeq_organism>
+./AF052390.xml:  <GBSeq_organism>Amycolatopsis thermoflava N1165</GBSeq_organism>
+./AY083603.xml:  <GBSeq_organism>Amycolatopsis rifamycinica</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>
+./EF543522.xml:  <GBSeq_organism>Kutzneria albida</GBSeq_organism>
+./X79184.xml:  <GBSeq_organism>Thermocrispum municipale DSM 44069</GBSeq_organism>
+./AY184424.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./AY129760.xml:  <GBSeq_organism>Amycolatopsis regifaucium</GBSeq_organism>
+./AF222022.xml:  <GBSeq_organism>Amycolatopsis rubida</GBSeq_organism>
+./AF328679.xml:  <GBSeq_organism>Actinosynnema mirum DSM 43827</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AY550263.xml:  <GBSeq_organism>Pseudoxanthomonas koreensis</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AM283465.xml:  <GBSeq_organism>Lysobacter defluvii IMMIB APB-9 = DSM 18482</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AF273082.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./FJ948107.xml:  <GBSeq_organism>Luteimonas terricola</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./EF488749.xml:  <GBSeq_organism>Lysobacter capsici</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AB161359.xml:  <GBSeq_organism>Lysobacter concretionis</GBSeq_organism>
+./EU295459.xml:  <GBSeq_organism>Luteimonas marina</GBSeq_organism>
+./AB161361.xml:  <GBSeq_organism>Lysobacter gummosus</GBSeq_organism>
+./EF626688.xml:  <GBSeq_organism>Luteimonas aquatica</GBSeq_organism>
+./AB166885.xml:  <GBSeq_organism>Stenotrophomonas koreensis</GBSeq_organism>
+./AB019582.xml:  <GBSeq_organism>Lysobacter antibioticus</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

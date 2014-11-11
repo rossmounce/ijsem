@@ -1,0 +1,10 @@
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X74710.xml:  <GBSeq_organism>Vibrio mediterranei</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AJ316167.xml:  <GBSeq_organism>Vibrio coralliilyticus</GBSeq_organism>
+./AJ440004.xml:  <GBSeq_organism>Vibrio coralliilyticus</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./AJ440005.xml:  <GBSeq_organism>Vibrio coralliilyticus ATCC BAA-450</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./AF007115.xml:  <GBSeq_organism>Vibrio shilonii</GBSeq_organism>

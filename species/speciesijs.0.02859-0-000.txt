@@ -1,0 +1,40 @@
+./AF444438.xml:  <GBSeq_organism>Trichosporon loubieri</GBSeq_organism>
+./AF444415.xml:  <GBSeq_organism>Trichosporon moniliiforme</GBSeq_organism>
+./AF444306.xml:  <GBSeq_organism>Cryptococcus amylolentus</GBSeq_organism>
+./AJ319759.xml:  <GBSeq_organism>Trichosporon lactis</GBSeq_organism>
+./AF444437.xml:  <GBSeq_organism>Trichosporon jirovecii</GBSeq_organism>
+./AF414695.xml:  <GBSeq_organism>Trichosporon multisporum</GBSeq_organism>
+./AJ319758.xml:  <GBSeq_organism>Trichosporon caseorum</GBSeq_organism>
+./AF410467.xml:  <GBSeq_organism>Cryptococcus curvatus</GBSeq_organism>
+./AY370684.xml:  <GBSeq_organism>Trichosporon lignicola var. lignicola</GBSeq_organism>
+./AF444423.xml:  <GBSeq_organism>Trichosporon mucoides</GBSeq_organism>
+./AF444397.xml:  <GBSeq_organism>Trichosporon smithiae</GBSeq_organism>
+./AF444482.xml:  <GBSeq_organism>Trichosporon lignicola var. undulatum</GBSeq_organism>
+./AF444434.xml:  <GBSeq_organism>Trichosporon coremiiforme</GBSeq_organism>
+./AF444473.xml:  <GBSeq_organism>Trichosporon japonicum</GBSeq_organism>
+./AF410476.xml:  <GBSeq_organism>Trichosporon guehoae</GBSeq_organism>
+./AF444421.xml:  <GBSeq_organism>Trichosporon laibachii</GBSeq_organism>
+./AF444439.xml:  <GBSeq_organism>Trichosporon ovoides</GBSeq_organism>
+./AF444428.xml:  <GBSeq_organism>Trichosporon dulcitum</GBSeq_organism>
+./AF444416.xml:  <GBSeq_organism>Trichosporon asteroides</GBSeq_organism>
+./AF444414.xml:  <GBSeq_organism>Trichosporon domesticum</GBSeq_organism>
+./AF444301.xml:  <GBSeq_organism>Kwoniella heveanensis</GBSeq_organism>
+./AF444446.xml:  <GBSeq_organism>Trichosporon scarabaeorum</GBSeq_organism>
+./AF444476.xml:  <GBSeq_organism>Trichosporon dehoogii</GBSeq_organism>
+./AF444325.xml:  <GBSeq_organism>Trichosporon cutaneum</GBSeq_organism>
+./AF444419.xml:  <GBSeq_organism>Trichosporon faecale</GBSeq_organism>
+./AF444470.xml:  <GBSeq_organism>Trichosporon sporotrichoides</GBSeq_organism>
+./AY143557.xml:  <GBSeq_organism>Trichosporon dermatis</GBSeq_organism>
+./AF410470.xml:  <GBSeq_organism>&apos;Asterotremella humicola&apos;</GBSeq_organism>
+./AF414693.xml:  <GBSeq_organism>Trichosporon veenhuisii</GBSeq_organism>
+./AF444436.xml:  <GBSeq_organism>Trichosporon brassicae</GBSeq_organism>
+./AF444424.xml:  <GBSeq_organism>Trichosporon gamsii</GBSeq_organism>
+./AF414694.xml:  <GBSeq_organism>Trichosporon porosum</GBSeq_organism>
+./AF444440.xml:  <GBSeq_organism>Trichosporon gracile</GBSeq_organism>
+./AF444422.xml:  <GBSeq_organism>Trichosporon montevideense</GBSeq_organism>
+./AF444420.xml:  <GBSeq_organism>Trichosporon inkin</GBSeq_organism>
+./AY055381.xml:  <GBSeq_organism>Trichosporon asahii</GBSeq_organism>
+./AF410475.xml:  <GBSeq_organism>Trichosporon aquatile</GBSeq_organism>
+./AY093425.xml:  <GBSeq_organism>Trichosporon vadense</GBSeq_organism>
+./AY143556.xml:  <GBSeq_organism>Trichosporon debeurmannianum</GBSeq_organism>
+./AF444326.xml:  <GBSeq_organism>Cryptococcus neoformans var. neoformans</GBSeq_organism>

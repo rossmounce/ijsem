@@ -1,0 +1,17 @@
+./X79729.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./X66025.xml:  <GBSeq_organism>Bradyrhizobium denitrificans</GBSeq_organism>
+./Y17144.xml:  <GBSeq_organism>Methylocella palustris</GBSeq_organism>
+./AF215704.xml:  <GBSeq_organism>Burkholderia caledonica</GBSeq_organism>
+./AY084079.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./AJ535707.xml:  <GBSeq_organism>Labrys monachus</GBSeq_organism>
+./AJ631967.xml:  <GBSeq_organism>Bradyrhizobium betae</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AF030437.xml:  <GBSeq_organism>Methylarcula terricola</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AJ288159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AJ563931.xml:  <GBSeq_organism>Beijerinckia indica subsp. lacticogenes</GBSeq_organism>
+./AY766152.xml:  <GBSeq_organism>Labrys methylaminiphilus JLW10</GBSeq_organism>
+./AJ535710.xml:  <GBSeq_organism>Stella humosa</GBSeq_organism>

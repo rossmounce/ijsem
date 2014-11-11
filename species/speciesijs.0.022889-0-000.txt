@@ -1,0 +1,15 @@
+./AJ542509.xml:  <GBSeq_organism>Bacillus vireti LMG 21834</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./AJ551329.xml:  <GBSeq_organism>Fictibacillus gelatini</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./AY373018.xml:  <GBSeq_organism>Fictibacillus macauensis</GBSeq_organism>
+./AJ422145.xml:  <GBSeq_organism>Fictibacillus barbaricus</GBSeq_organism>
+./AJ606700.xml:  <GBSeq_organism>Fictibacillus arsenicus</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./EU939689.xml:  <GBSeq_organism>Fictibacillus rigui</GBSeq_organism>
+./GU477780.xml:  <GBSeq_organism>Fictibacillus nanhaiensis</GBSeq_organism>

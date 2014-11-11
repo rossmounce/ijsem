@@ -1,0 +1,16 @@
+./M59063.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./U73725.xml:  <GBSeq_organism>Octadecabacter arcticus</GBSeq_organism>
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./AY180103.xml:  <GBSeq_organism>Sulfitobacter delicatus</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./AJ550939.xml:  <GBSeq_organism>Oceanibulbus indolifex HEL-45</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./Y17387.xml:  <GBSeq_organism>Sulfitobacter mediterraneus</GBSeq_organism>
+./DQ683726.xml:  <GBSeq_organism>Sulfitobacter marinus</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./AJ748748.xml:  <GBSeq_organism>Nereida ignava</GBSeq_organism>
+./AY180102.xml:  <GBSeq_organism>Sulfitobacter dubius</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./EF202614.xml:  <GBSeq_organism>Sulfitobacter donghicola DSW-25 = KCTC 12864 = JCM 14565</GBSeq_organism>

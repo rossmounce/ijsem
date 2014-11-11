@@ -1,0 +1,17 @@
+./X91080.xml:  <GBSeq_organism>Sulfobacillus thermosulfidooxidans DSM 9293</GBSeq_organism>
+./X70314.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./X60634.xml:  <GBSeq_organism>Sporosarcina psychrophila</GBSeq_organism>
+./X70320.xml:  <GBSeq_organism>Kurthia gibsonii</GBSeq_organism>
+./L14013.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./AJ292316.xml:  <GBSeq_organism>Filibacter limicola</GBSeq_organism>
+./X60644.xml:  <GBSeq_organism>Sporosarcina globispora</GBSeq_organism>
+./X70315.xml:  <GBSeq_organism>Caryophanon tenue</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./X70321.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./X62175.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./X60639.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./X60631.xml:  <GBSeq_organism>Sporosarcina pasteurii</GBSeq_organism>
+./AM773821.xml:  <GBSeq_organism>Bacillus cecembensis</GBSeq_organism>
+./X62173.xml:  <GBSeq_organism>Planococcus kocurii</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AY167868.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167869.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AY167872.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AF090333.xml:  <GBSeq_organism>Bacillus anthracis</GBSeq_organism>
+./AY167878.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167871.xml:  <GBSeq_organism>Bacillus pumilus SAFR-032</GBSeq_organism>
+./AY167876.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167875.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AY167877.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167870.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./AY167874.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./D26185.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AY167873.xml:  <GBSeq_organism>Bacillus safensis</GBSeq_organism>
+./AY167867.xml:  <GBSeq_organism>Bacillus safensis FO-36b</GBSeq_organism>

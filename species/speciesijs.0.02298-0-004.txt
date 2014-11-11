@@ -1,0 +1,20 @@
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./D16212.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./D88007.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>
+./AF078761.xml:  <GBSeq_organism>Acidovorax citrulli</GBSeq_organism>
+./X67037.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./AF084947.xml:  <GBSeq_organism>Rhodoferax antarcticus ANT.BR</GBSeq_organism>
+./AJ420330.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./U41563.xml:  <GBSeq_organism>Geothrix fermentans</GBSeq_organism>
+./D14320.xml:  <GBSeq_organism>Brachymonas denitrificans</GBSeq_organism>
+./AJ401017.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./X95744.xml:  <GBSeq_organism>Geovibrio ferrireducens</GBSeq_organism>
+./X65589.xml:  <GBSeq_organism>Telluria mixta DSM 4832</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>
+./L07834.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./U75602.xml:  <GBSeq_organism>Deferribacter thermophilus</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AF199029.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./AF078753.xml:  <GBSeq_organism>Hylemonella gracilis ATCC 19624</GBSeq_organism>

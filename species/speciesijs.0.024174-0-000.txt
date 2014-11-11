@@ -1,0 +1,17 @@
+./GU966654.xml:  <GBSeq_organism>Necropsobacter rosorum</GBSeq_organism>
+./AF060699.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./FJ463881.xml:  <GBSeq_organism>Basfia succiniciproducens</GBSeq_organism>
+./M75059.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./M75083.xml:  <GBSeq_organism>Pasteurella pneumotropica</GBSeq_organism>
+./GU966652.xml:  <GBSeq_organism>Necropsobacter rosorum</GBSeq_organism>
+./M75068.xml:  <GBSeq_organism>Actinobacillus lignieresii</GBSeq_organism>
+./AY508835.xml:  <GBSeq_organism>Nicoletella semolina</GBSeq_organism>
+./AF228001.xml:  <GBSeq_organism>Gallibacterium anatis DSM 16844 = F 149</GBSeq_organism>
+./GU966649.xml:  <GBSeq_organism>Necropsobacter rosorum</GBSeq_organism>
+./GU966656.xml:  <GBSeq_organism>Pasteurellaceae bacterium P625</GBSeq_organism>
+./AF549387.xml:  <GBSeq_organism>Histophilus somni</GBSeq_organism>
+./GU565607.xml:  <GBSeq_organism>Necropsobacter rosorum</GBSeq_organism>
+./EU331064.xml:  <GBSeq_organism>Chelonobacter oris</GBSeq_organism>
+./M75039.xml:  <GBSeq_organism>Aggregatibacter actinomycetemcomitans</GBSeq_organism>
+./AY362894.xml:  <GBSeq_organism>Actinobacillus muris</GBSeq_organism>
+./X89379.xml:  <GBSeq_organism>Phocoenobacter uteri</GBSeq_organism>

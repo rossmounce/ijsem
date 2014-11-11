@@ -1,0 +1,16 @@
+./U44825.xml:  <GBSeq_organism>Metschnikowia reukaufii</GBSeq_organism>
+./EF550348.xml:  <GBSeq_organism>Schizosaccharomyces pombe</GBSeq_organism>
+./U45733.xml:  <GBSeq_organism>Metschnikowia lunata</GBSeq_organism>
+./AY520294.xml:  <GBSeq_organism>Candida chrysomelidarum</GBSeq_organism>
+./AY611609.xml:  <GBSeq_organism>Metschnikowia noctiluminum</GBSeq_organism>
+./AY452039.xml:  <GBSeq_organism>Candida picachoensis</GBSeq_organism>
+./U45737.xml:  <GBSeq_organism>Metschnikowia gruessii</GBSeq_organism>
+./AY695395.xml:  <GBSeq_organism>Candida ubatubensis</GBSeq_organism>
+./AF514294.xml:  <GBSeq_organism>Candida kipukae</GBSeq_organism>
+./U45734.xml:  <GBSeq_organism>Metschnikowia hawaiiensis</GBSeq_organism>
+./AF296438.xml:  <GBSeq_organism>Metschnikowia koreensis</GBSeq_organism>
+./AY611610.xml:  <GBSeq_organism>Metschnikowia corniflorae</GBSeq_organism>
+./EU678950.xml:  <GBSeq_organism>Candida aechmeae</GBSeq_organism>
+./AY048154.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./AF034126.xml:  <GBSeq_organism>Metschnikowia continentalis</GBSeq_organism>
+./U45736.xml:  <GBSeq_organism>Metschnikowia pulcherrima</GBSeq_organism>

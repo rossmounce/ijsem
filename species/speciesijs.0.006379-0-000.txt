@@ -1,0 +1,17 @@
+./X84246.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./X84442.xml:  <GBSeq_organism>Corynebacterium striatum</GBSeq_organism>
+./X80499.xml:  <GBSeq_organism>Corynebacterium macginleyi</GBSeq_organism>
+./Y09806.xml:  <GBSeq_organism>Corynebacterium mastitidis</GBSeq_organism>
+./X96497.xml:  <GBSeq_organism>Corynebacterium coyleae</GBSeq_organism>
+./X84249.xml:  <GBSeq_organism>Corynebacterium renale</GBSeq_organism>
+./X84678.xml:  <GBSeq_organism>Corynebacterium minutissimum</GBSeq_organism>
+./FM173121.xml:  <GBSeq_organism>Corynebacterium lubricantis</GBSeq_organism>
+./X80500.xml:  <GBSeq_organism>Corynebacterium accolens</GBSeq_organism>
+./X84250.xml:  <GBSeq_organism>Corynebacterium jeikeium</GBSeq_organism>
+./Y10999.xml:  <GBSeq_organism>Corynebacterium singulare</GBSeq_organism>
+./AJ309207.xml:  <GBSeq_organism>Corynebacterium aurimucosum</GBSeq_organism>
+./Y11200.xml:  <GBSeq_organism>Corynebacterium mucifaciens CIP 105129</GBSeq_organism>
+./FM173120.xml:  <GBSeq_organism>Corynebacterium lubricantis</GBSeq_organism>
+./X84441.xml:  <GBSeq_organism>Corynebacterium flavescens</GBSeq_organism>
+./FM173119.xml:  <GBSeq_organism>Corynebacterium lubricantis</GBSeq_organism>
+./X86688.xml:  <GBSeq_organism>Corynebacterium glucuronolyticum</GBSeq_organism>

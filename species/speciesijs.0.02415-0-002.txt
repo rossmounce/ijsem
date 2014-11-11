@@ -1,0 +1,28 @@
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./D45060.xml:  <GBSeq_organism>Agromyces cerinus subsp. cerinus</GBSeq_organism>
+./D45061.xml:  <GBSeq_organism>Agromyces hippuratus</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./X77445.xml:  <GBSeq_organism>Microbacterium testaceum</GBSeq_organism>
+./AF050574.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-18</GBSeq_organism>
+./M60935.xml:  <GBSeq_organism>Leifsonia xyli</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AJ310412.xml:  <GBSeq_organism>Agreia pratensis</GBSeq_organism>
+./AB007419.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./AJ438585.xml:  <GBSeq_organism>Leifsonia rubra</GBSeq_organism>
+./AB004718.xml:  <GBSeq_organism>Microbacterium luteolum</GBSeq_organism>
+./X77449.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./AB004715.xml:  <GBSeq_organism>Microbacterium arabinogalactanolyticum</GBSeq_organism>
+./AB004717.xml:  <GBSeq_organism>Microbacterium keratanolyticum</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./AJ438586.xml:  <GBSeq_organism>Rhodoglobus aureus</GBSeq_organism>
+./AJ459101.xml:  <GBSeq_organism>Rhodoglobus vestalii</GBSeq_organism>
+./AB012648.xml:  <GBSeq_organism>Mycetocola lacteus</GBSeq_organism>
+./AB004721.xml:  <GBSeq_organism>Microbacterium terregens</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./AF116342.xml:  <GBSeq_organism>Leifsonia poae</GBSeq_organism>
+./U09763.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>

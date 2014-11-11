@@ -1,0 +1,26 @@
+./AB175653.xml:  <GBSeq_organism>Azotobacter chroococcum</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./X66024.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./X66025.xml:  <GBSeq_organism>Bradyrhizobium denitrificans</GBSeq_organism>
+./AJ389904.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./EU401908.xml:  <GBSeq_organism>Agrobacterium sp. CIP 106281</GBSeq_organism>
+./AM181733.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./M65248.xml:  <GBSeq_organism>Afipia felis ATCC 53690</GBSeq_organism>
+./EU401905.xml:  <GBSeq_organism>Beijerinckia doebereinerae</GBSeq_organism>
+./D12784.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ563934.xml:  <GBSeq_organism>Beijerinckia derxii subsp. venezuelae</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AJ563932.xml:  <GBSeq_organism>Beijerinckia mobilis</GBSeq_organism>
+./AJ563933.xml:  <GBSeq_organism>Beijerinckia derxii subsp. derxii</GBSeq_organism>
+./EU401907.xml:  <GBSeq_organism>Beijerinckia fluminensis</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ555244.xml:  <GBSeq_organism>Methylocella tundrae</GBSeq_organism>
+./AJ491847.xml:  <GBSeq_organism>Methylocella silvestris BL2</GBSeq_organism>
+./D12787.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AM181757.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AJ563931.xml:  <GBSeq_organism>Beijerinckia indica subsp. lacticogenes</GBSeq_organism>
+./AJ563930.xml:  <GBSeq_organism>Beijerinckia indica subsp. indica ATCC 9039</GBSeq_organism>
+./D12792.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>

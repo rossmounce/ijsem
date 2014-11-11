@@ -1,0 +1,16 @@
+./AB124836.xml:  <GBSeq_organism>Microbulbifer thermotolerans</GBSeq_organism>
+./AB196667.xml:  <GBSeq_organism>Endozoicomonas elysicola MKT110</GBSeq_organism>
+./AJ308319.xml:  <GBSeq_organism>Azotobacter beijerinckii</GBSeq_organism>
+./AJ609271.xml:  <GBSeq_organism>Marinobacter bryozoorum</GBSeq_organism>
+./EF617350.xml:  <GBSeq_organism>Simiduia agarivorans SA1 = DSM 21679</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AY130994.xml:  <GBSeq_organism>Zooshikella ganghwensis</GBSeq_organism>
+./AB175654.xml:  <GBSeq_organism>Azomonas macrocytogenes</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./D84004.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./FJ347758.xml:  <GBSeq_organism>Endozoicomonas montiporae CL-33</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AB158515.xml:  <GBSeq_organism>Microbulbifer agarilyticus</GBSeq_organism>
+./EF486352.xml:  <GBSeq_organism>Microbulbifer celer</GBSeq_organism>
+./AB175656.xml:  <GBSeq_organism>Azotobacter salinestris</GBSeq_organism>
+./EF674853.xml:  <GBSeq_organism>Microbulbifer halophilus</GBSeq_organism>

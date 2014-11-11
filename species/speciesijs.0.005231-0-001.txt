@@ -1,0 +1,34 @@
+./AB062381.xml:  <GBSeq_organism>Planomonospora alba</GBSeq_organism>
+./D85491.xml:  <GBSeq_organism>Nonomuraea pusilla</GBSeq_organism>
+./AF002264.xml:  <GBSeq_organism>Thermobifida fusca</GBSeq_organism>
+./AF154127.xml:  <GBSeq_organism>Actinomadura catellatispora</GBSeq_organism>
+./EU698029.xml:  <GBSeq_organism>Marinactinospora thermotolerans</GBSeq_organism>
+./AF360734.xml:  <GBSeq_organism>Nocardiopsis composta</GBSeq_organism>
+./AY619715.xml:  <GBSeq_organism>Nocardiopsis chromatogenes YIM 90109</GBSeq_organism>
+./AF191734.xml:  <GBSeq_organism>Streptosporangium subroseum</GBSeq_organism>
+./AY230848.xml:  <GBSeq_organism>Nocardiopsis alkaliphila</GBSeq_organism>
+./D85494.xml:  <GBSeq_organism>Planobispora longispora</GBSeq_organism>
+./AF028247.xml:  <GBSeq_organism>Thermobifida alba</GBSeq_organism>
+./AJ420769.xml:  <GBSeq_organism>Nocardiopsis metallicus</GBSeq_organism>
+./AF163120.xml:  <GBSeq_organism>Actinoallomurus spadix</GBSeq_organism>
+./AY619714.xml:  <GBSeq_organism>Nocardiopsis rhodophaea</GBSeq_organism>
+./AF462347.xml:  <GBSeq_organism>Streptomonospora alba</GBSeq_organism>
+./D86943.xml:  <GBSeq_organism>Actinomadura viridilutea</GBSeq_organism>
+./AF251709.xml:  <GBSeq_organism>Nocardiopsis xinjiangensis</GBSeq_organism>
+./AF191733.xml:  <GBSeq_organism>Streptosporangium yunnanense</GBSeq_organism>
+./AJ298058.xml:  <GBSeq_organism>Thermobifida cellulosilytica TB100</GBSeq_organism>
+./AF028246.xml:  <GBSeq_organism>Thermomonospora chromogena</GBSeq_organism>
+./AF195412.xml:  <GBSeq_organism>Nocardiopsis kunsanensis</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./AF178988.xml:  <GBSeq_organism>Streptomonospora salina</GBSeq_organism>
+./AF105971.xml:  <GBSeq_organism>Nocardiopsis tropica</GBSeq_organism>
+./AY039253.xml:  <GBSeq_organism>Thermopolyspora flexuosa</GBSeq_organism>
+./U49007.xml:  <GBSeq_organism>Actinocorallia libanotica</GBSeq_organism>
+./AF163117.xml:  <GBSeq_organism>Actinocorallia longicatena</GBSeq_organism>
+./AF105972.xml:  <GBSeq_organism>Nocardiopsis trehalosi</GBSeq_organism>
+./Y13593.xml:  <GBSeq_organism>Nocardiopsis synnemataformans DSM 44143</GBSeq_organism>
+./X89938.xml:  <GBSeq_organism>Streptosporangium carneum</GBSeq_organism>
+./AY966427.xml:  <GBSeq_organism>Actinocorallia cavernae</GBSeq_organism>
+./AJ290448.xml:  <GBSeq_organism>Nocardiopsis halotolerans</GBSeq_organism>
+./D85495.xml:  <GBSeq_organism>Planomonospora parontospora</GBSeq_organism>
+./AJ539401.xml:  <GBSeq_organism>Nocardiopsis aegyptia</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AF043425.xml:  <GBSeq_organism>Campylobacter lanienae NCTC 13004</GBSeq_organism>
+./M65012.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./L14624.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./L04322.xml:  <GBSeq_organism>Campylobacter concisus</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./L04313.xml:  <GBSeq_organism>Campylobacter curvus</GBSeq_organism>
+./L14630.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./M65011.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./L14628.xml:  <GBSeq_organism>Campylobacter upsaliensis</GBSeq_organism>
+./AF348748.xml:  <GBSeq_organism>Helicobacter cinaedi CCUG 18818</GBSeq_organism>
+./L04316.xml:  <GBSeq_organism>Campylobacter lari subsp. lari</GBSeq_organism>
+./AJ251584.xml:  <GBSeq_organism>Campylobacter hominis</GBSeq_organism>
+./M88154.xml:  <GBSeq_organism>Helicobacter fennelliae</GBSeq_organism>
+./L14626.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./L06974.xml:  <GBSeq_organism>Campylobacter showae</GBSeq_organism>
+./L04317.xml:  <GBSeq_organism>Campylobacter rectus</GBSeq_organism>
+./U03022.xml:  <GBSeq_organism>Campylobacter helveticus</GBSeq_organism>
+./L06978.xml:  <GBSeq_organism>Campylobacter mucosalis</GBSeq_organism>

@@ -1,0 +1,21 @@
+./AY234610.xml:  <GBSeq_organism>bacterium Ellin5259</GBSeq_organism>
+./AY234552.xml:  <GBSeq_organism>bacterium Ellin5201</GBSeq_organism>
+./X92694.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./X98372.xml:  <GBSeq_organism>Rubrobacter radiotolerans DSM 5868</GBSeq_organism>
+./AF498683.xml:  <GBSeq_organism>bacterium Ellin301</GBSeq_organism>
+./AY425791.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF498707.xml:  <GBSeq_organism>bacterium Ellin325</GBSeq_organism>
+./AJ458462.xml:  <GBSeq_organism>Thermoleophilum album</GBSeq_organism>
+./AY234499.xml:  <GBSeq_organism>bacterium Ellin5082</GBSeq_organism>
+./AY234645.xml:  <GBSeq_organism>bacterium Ellin5294</GBSeq_organism>
+./AY234442.xml:  <GBSeq_organism>bacterium Ellin5025</GBSeq_organism>
+./AY039806.xml:  <GBSeq_organism>Solirubrobacter pauli</GBSeq_organism>
+./AY234600.xml:  <GBSeq_organism>bacterium Ellin5249</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./AY234700.xml:  <GBSeq_organism>bacterium Ellin6048</GBSeq_organism>
+./X92699.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AY234623.xml:  <GBSeq_organism>bacterium Ellin5272</GBSeq_organism>
+./X92707.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF391984.xml:  <GBSeq_organism>uncultured thermal soil bacterium</GBSeq_organism>
+./AJ440237.xml:  <GBSeq_organism>Conexibacter woesei DSM 14684</GBSeq_organism>

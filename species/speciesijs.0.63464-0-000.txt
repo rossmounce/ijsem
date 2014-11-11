@@ -1,0 +1,14 @@
+./AJ421528.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./AY722805.xml:  <GBSeq_organism>Psychrobacter namhaensis</GBSeq_organism>
+./AJ430827.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./AF005185.xml:  <GBSeq_organism>Moraxella catarrhalis</GBSeq_organism>
+./X81661.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AB094794.xml:  <GBSeq_organism>Psychrobacter okhotskensis</GBSeq_organism>
+./AJ430828.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./AB016057.xml:  <GBSeq_organism>Psychrobacter pacificensis</GBSeq_organism>
+./U46144.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AJ609272.xml:  <GBSeq_organism>Psychrobacter maritimus</GBSeq_organism>
+./AJ437696.xml:  <GBSeq_organism>Psychrobacter pulmonis</GBSeq_organism>
+./AJ309942.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AJ309940.xml:  <GBSeq_organism>Psychrobacter submarinus</GBSeq_organism>
+./AY722804.xml:  <GBSeq_organism>Psychrobacter aquimaris</GBSeq_organism>

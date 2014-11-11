@@ -1,0 +1,21 @@
+./AY178863.xml:  <GBSeq_organism>Aurantimonas litoralis</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./M65248.xml:  <GBSeq_organism>Afipia felis ATCC 53690</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./L01260.xml:  <GBSeq_organism>Bartonella elizabethae</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AY178862.xml:  <GBSeq_organism>Fulvimarina pelagi</GBSeq_organism>
+./AY178860.xml:  <GBSeq_organism>Fulvimarina pelagi HTCC2506</GBSeq_organism>
+./X87221.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./U69638.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 6</GBSeq_organism>
+./AY178861.xml:  <GBSeq_organism>Fulvimarina pelagi</GBSeq_organism>
+./AY065627.xml:  <GBSeq_organism>Aurantimonas coralicida</GBSeq_organism>
+./Y14302.xml:  <GBSeq_organism>Hyphomicrobium vulgare</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./L11664.xml:  <GBSeq_organism>Rhodopseudomonas pseudopalustris</GBSeq_organism>
+./M65249.xml:  <GBSeq_organism>Bartonella bacilliformis</GBSeq_organism>

@@ -1,0 +1,9 @@
+./AF447391.xml:  <GBSeq_organism>Rhodococcus aetherivorans</GBSeq_organism>
+./AF173005.xml:  <GBSeq_organism>Rhodococcus pyridinivorans</GBSeq_organism>
+./AY223202.xml:  <GBSeq_organism>Schistosoma japonicum</GBSeq_organism>
+./X80626.xml:  <GBSeq_organism>Rhodococcus coprophilus</GBSeq_organism>
+./AF191343.xml:  <GBSeq_organism>Rhodococcus zopfii</GBSeq_organism>
+./X80624.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./AY233201.xml:  <GBSeq_organism>Rhodococcus gordoniae</GBSeq_organism>
+./X80625.xml:  <GBSeq_organism>Rhodococcus ruber</GBSeq_organism>

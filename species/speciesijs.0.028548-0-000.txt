@@ -1,0 +1,10 @@
+./M59137.xml:  <GBSeq_organism>Methanosarcina acetivorans</GBSeq_organism>
+./X69874.xml:  <GBSeq_organism>Methanosarcina mazei Go1</GBSeq_organism>
+./EU711413.xml:  <GBSeq_organism>Methanolobus zinderi</GBSeq_organism>
+./U89773.xml:  <GBSeq_organism>Methanosarcina siciliae</GBSeq_organism>
+./U20153.xml:  <GBSeq_organism>Methanosarcina siciliae</GBSeq_organism>
+./AJ238648.xml:  <GBSeq_organism>Methanosarcina baltica</GBSeq_organism>
+./AB288262.xml:  <GBSeq_organism>Methanosarcina horonobensis</GBSeq_organism>
+./M59140.xml:  <GBSeq_organism>Methanosarcina thermophila TM-1</GBSeq_organism>
+./M59138.xml:  <GBSeq_organism>Methanosarcina mazei</GBSeq_organism>
+./X65537.xml:  <GBSeq_organism>Methanococcoides burtonii</GBSeq_organism>

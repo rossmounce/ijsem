@@ -1,0 +1,20 @@
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./Y18838.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>
+./AJ459411.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AB058919.xml:  <GBSeq_organism>Reichenbachiella agariperforans</GBSeq_organism>
+./DQ089669.xml:  <GBSeq_organism>Hymenobacter rigui</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./EU370958.xml:  <GBSeq_organism>Hymenobacter daecheongensis</GBSeq_organism>
+./AJ276901.xml:  <GBSeq_organism>Hymenobacter aerophilus</GBSeq_organism>
+./AB251884.xml:  <GBSeq_organism>Hymenobacter soli</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./Y18836.xml:  <GBSeq_organism>Hymenobacter gelipurpurascens</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./Y18837.xml:  <GBSeq_organism>Hymenobacter chitinivorans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./D12660.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./D12663.xml:  <GBSeq_organism>Cytophaga hutchinsonii ATCC 33406</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

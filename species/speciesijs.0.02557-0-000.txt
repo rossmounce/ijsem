@@ -1,0 +1,14 @@
+./D55729.xml:  <GBSeq_organism>Planomicrobium okeanokoites</GBSeq_organism>
+./AF144750.xml:  <GBSeq_organism>Planomicrobium koreense</GBSeq_organism>
+./AF029364.xml:  <GBSeq_organism>Planomicrobium alkanoclasticum</GBSeq_organism>
+./X70314.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ314745.xml:  <GBSeq_organism>Planococcus antarcticus DSM 14505</GBSeq_organism>
+./AJ314746.xml:  <GBSeq_organism>Planomicrobium psychrophilum</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AF500008.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./X70321.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./AF041791.xml:  <GBSeq_organism>Planomicrobium mcmeekinii</GBSeq_organism>
+./X62173.xml:  <GBSeq_organism>Planococcus kocurii</GBSeq_organism>

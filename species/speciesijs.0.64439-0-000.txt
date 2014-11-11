@@ -1,0 +1,23 @@
+./Y11573.xml:  <GBSeq_organism>Desulfotomaculum thermoacetoxidans</GBSeq_organism>
+./AJ294431.xml:  <GBSeq_organism>Desulfotomaculum gibsoniae DSM 7213</GBSeq_organism>
+./U76363.xml:  <GBSeq_organism>Carboxydothermus ferrireducens</GBSeq_organism>
+./AF168365.xml:  <GBSeq_organism>Desulfotomaculum sapomandens</GBSeq_organism>
+./Y11567.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./X98407.xml:  <GBSeq_organism>Desulfotomaculum aeronauticum</GBSeq_organism>
+./Y11568.xml:  <GBSeq_organism>[Desulfotomaculum] guttoideum</GBSeq_organism>
+./Y11570.xml:  <GBSeq_organism>Desulfosporosinus orientis DSM 765</GBSeq_organism>
+./Y11569.xml:  <GBSeq_organism>Desulfotomaculum kuznetsovii DSM 6115</GBSeq_organism>
+./L28946.xml:  <GBSeq_organism>Desulfitobacterium dehalogenans ATCC 51507</GBSeq_organism>
+./Y18214.xml:  <GBSeq_organism>Desulfonispora thiosulfatigenes</GBSeq_organism>
+./Y11566.xml:  <GBSeq_organism>Desulfotomaculum acetoxidans DSM 771</GBSeq_organism>
+./U84497.xml:  <GBSeq_organism>Dehalobacter restrictus DSM 9455</GBSeq_organism>
+./AY918122.xml:  <GBSeq_organism>Desulfotomaculum salinum</GBSeq_organism>
+./X99706.xml:  <GBSeq_organism>Syntrophobotulus glycolicus</GBSeq_organism>
+./U33455.xml:  <GBSeq_organism>Desulfotomaculum thermocisternum</GBSeq_organism>
+./AF053929.xml:  <GBSeq_organism>Desulfotomaculum putei</GBSeq_organism>
+./DQ148942.xml:  <GBSeq_organism>Desulfotomaculum arcticum</GBSeq_organism>
+./AF069293.xml:  <GBSeq_organism>Desulfotomaculum luciae</GBSeq_organism>
+./AY084078.xml:  <GBSeq_organism>Desulfotomaculum solfataricum</GBSeq_organism>
+./AY007190.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum subsp. thermosyntrophicum</GBSeq_organism>
+./Y11574.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>

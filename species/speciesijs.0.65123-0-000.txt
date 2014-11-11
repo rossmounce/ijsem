@@ -1,0 +1,57 @@
+./EF203134.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203170.xml:  <GBSeq_organism>Aspergillus parasiticus</GBSeq_organism>
+./EF203130.xml:  <GBSeq_organism>Aspergillus parvisclerotigenus</GBSeq_organism>
+./EF203157.xml:  <GBSeq_organism>Aspergillus terricola var. americanus</GBSeq_organism>
+./EF203162.xml:  <GBSeq_organism>Aspergillus parasiticus</GBSeq_organism>
+./EF203152.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203133.xml:  <GBSeq_organism>Aspergillus thomii</GBSeq_organism>
+./EF203167.xml:  <GBSeq_organism>Aspergillus sojae</GBSeq_organism>
+./EF203122.xml:  <GBSeq_organism>Aspergillus tamarii</GBSeq_organism>
+./EU072095.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203143.xml:  <GBSeq_organism>Aspergillus flavus var. columnaris</GBSeq_organism>
+./EF203151.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203135.xml:  <GBSeq_organism>Aspergillus fasciculatus</GBSeq_organism>
+./EF203166.xml:  <GBSeq_organism>Aspergillus parasiticus</GBSeq_organism>
+./EF203168.xml:  <GBSeq_organism>Aspergillus sojae</GBSeq_organism>
+./EF203146.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203144.xml:  <GBSeq_organism>Aspergillus subolivaceus</GBSeq_organism>
+./EF203164.xml:  <GBSeq_organism>Aspergillus terricola var. americanus</GBSeq_organism>
+./EF203140.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203165.xml:  <GBSeq_organism>Aspergillus parasiticus</GBSeq_organism>
+./EU072100.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203128.xml:  <GBSeq_organism>Aspergillus caelatus</GBSeq_organism>
+./EF203126.xml:  <GBSeq_organism>Aspergillus pseudotamarii</GBSeq_organism>
+./EF203169.xml:  <GBSeq_organism>Aspergillus toxicarius</GBSeq_organism>
+./EF203136.xml:  <GBSeq_organism>Aspergillus kambarensis</GBSeq_organism>
+./EF203158.xml:  <GBSeq_organism>Aspergillus sp. JV-2007b</GBSeq_organism>
+./EF203163.xml:  <GBSeq_organism>Aspergillus toxicarius</GBSeq_organism>
+./EF203145.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EU072096.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203121.xml:  <GBSeq_organism>Aspergillus bombycis</GBSeq_organism>
+./EU072099.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203160.xml:  <GBSeq_organism>Aspergillus sp. JV-2007b</GBSeq_organism>
+./EF203149.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203159.xml:  <GBSeq_organism>Aspergillus sp. JV-2007b</GBSeq_organism>
+./EF203137.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EU072098.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203150.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EU072097.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203142.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203132.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203141.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203139.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203154.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203131.xml:  <GBSeq_organism>Aspergillus flavus</GBSeq_organism>
+./EF203155.xml:  <GBSeq_organism>Aspergillus parasiticus</GBSeq_organism>
+./EF203153.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203123.xml:  <GBSeq_organism>Aspergillus tamarii</GBSeq_organism>
+./EF203129.xml:  <GBSeq_organism>Aspergillus caelatus</GBSeq_organism>
+./EF203125.xml:  <GBSeq_organism>Aspergillus pseudotamarii</GBSeq_organism>
+./EF203127.xml:  <GBSeq_organism>Aspergillus caelatus</GBSeq_organism>
+./EF203147.xml:  <GBSeq_organism>Aspergillus flavus var. columnaris</GBSeq_organism>
+./EF203156.xml:  <GBSeq_organism>Aspergillus parasiticus var. globosus</GBSeq_organism>
+./EF203161.xml:  <GBSeq_organism>Aspergillus sp. JV-2007b</GBSeq_organism>
+./EF203171.xml:  <GBSeq_organism>Aspergillus leporis</GBSeq_organism>
+./EF203148.xml:  <GBSeq_organism>Aspergillus sp. JV-2007a</GBSeq_organism>
+./EF203120.xml:  <GBSeq_organism>Aspergillus nomius</GBSeq_organism>
+./EF203138.xml:  <GBSeq_organism>Aspergillus oryzae</GBSeq_organism>

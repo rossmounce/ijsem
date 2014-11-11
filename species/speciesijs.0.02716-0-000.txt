@@ -1,0 +1,11 @@
+./D26490.xml:  <GBSeq_organism>Sulfolobus solfataricus</GBSeq_organism>
+./M32504.xml:  <GBSeq_organism>Sulfolobus shibatae B12</GBSeq_organism>
+./D86414.xml:  <GBSeq_organism>Metallosphaera hakonensis</GBSeq_organism>
+./D26489.xml:  <GBSeq_organism>Acidianus brierleyi</GBSeq_organism>
+./D14876.xml:  <GBSeq_organism>Sulfolobus acidocaldarius</GBSeq_organism>
+./X90482.xml:  <GBSeq_organism>Metallosphaera prunae</GBSeq_organism>
+./D38776.xml:  <GBSeq_organism>Metallosphaera sp.</GBSeq_organism>
+./D85505.xml:  <GBSeq_organism>Acidianus infernus</GBSeq_organism>
+./D85506.xml:  <GBSeq_organism>Acidianus ambivalens</GBSeq_organism>
+./D26491.xml:  <GBSeq_organism>Metallosphaera sedula DSM 5348</GBSeq_organism>
+./D85520.xml:  <GBSeq_organism>Stygiolobus azoricus</GBSeq_organism>

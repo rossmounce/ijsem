@@ -1,0 +1,26 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AB054986.xml:  <GBSeq_organism>Candidatus Phytoplasma castaneae</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./AJ550985.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./U18747.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./Y15865.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./X83438.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./U15422.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./L04682.xml:  <GBSeq_organism>Western X phytoplasma</GBSeq_organism>
+./X76429.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X76432.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X95706.xml:  <GBSeq_organism>Mycoplasma sp.</GBSeq_organism>
+./AJ550986.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./Y16394.xml:  <GBSeq_organism>Peach yellow leafroll phytoplasma</GBSeq_organism>
+./Y10096.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X68376.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF509321.xml:  <GBSeq_organism>Cynodon white leaf phytoplasma</GBSeq_organism>
+./AF248961.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF509324.xml:  <GBSeq_organism>Sorghum grassy shoot phytoplasma variant I</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./AF509325.xml:  <GBSeq_organism>Sorghum grassy shoot phytoplasma variant II</GBSeq_organism>
+./AF515637.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>

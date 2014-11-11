@@ -1,0 +1,5 @@
+./FM179678.xml:  <GBSeq_organism>Weissella fabaria</GBSeq_organism>
+./AM882997.xml:  <GBSeq_organism>Weissella ghanensis</GBSeq_organism>
+./FN813251.xml:  <GBSeq_organism>Weissella ceti</GBSeq_organism>
+./EU439435.xml:  <GBSeq_organism>Weissella beninensis</GBSeq_organism>
+./AB022920.xml:  <GBSeq_organism>Weissella minor</GBSeq_organism>

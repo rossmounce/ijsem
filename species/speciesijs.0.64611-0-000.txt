@@ -1,0 +1,19 @@
+./AY117572.xml:  <GBSeq_organism>Chromobacterium sp. 71</GBSeq_organism>
+./M22517.xml:  <GBSeq_organism>Kingella kingae ATCC 23330</GBSeq_organism>
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./AB017487.xml:  <GBSeq_organism>Chromobacterium sp. MBIC3901</GBSeq_organism>
+./AY117562.xml:  <GBSeq_organism>Chromobacterium sp. 27</GBSeq_organism>
+./AY117569.xml:  <GBSeq_organism>Chromobacterium sp. 68</GBSeq_organism>
+./U45995.xml:  <GBSeq_organism>Vogesella indigofera</GBSeq_organism>
+./AY344056.xml:  <GBSeq_organism>Chromobacterium subtsugae</GBSeq_organism>
+./M22516.xml:  <GBSeq_organism>Kingella denitrificans ATCC 33394</GBSeq_organism>
+./U00096.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. MG1655</GBSeq_organism>
+./M22511.xml:  <GBSeq_organism>Iodobacter fluviatilis</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AY117567.xml:  <GBSeq_organism>Chromobacterium sp. 66</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./M22512.xml:  <GBSeq_organism>Eikenella corrodens</GBSeq_organism>
+./M22519.xml:  <GBSeq_organism>Vitreoscilla stercoraria</GBSeq_organism>
+./AY117554.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./M22509.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./AY117557.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>

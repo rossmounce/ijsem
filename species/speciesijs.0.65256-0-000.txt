@@ -1,0 +1,16 @@
+./AJ627211.xml:  <GBSeq_organism>Viridibacillus arvi</GBSeq_organism>
+./AF169531.xml:  <GBSeq_organism>Rummeliibacillus pycnus</GBSeq_organism>
+./X70314.xml:  <GBSeq_organism>Caryophanon latum</GBSeq_organism>
+./X70320.xml:  <GBSeq_organism>Kurthia gibsonii</GBSeq_organism>
+./AF169520.xml:  <GBSeq_organism>Viridibacillus neidei</GBSeq_organism>
+./AJ310083.xml:  <GBSeq_organism>Lysinibacillus fusiformis</GBSeq_organism>
+./X70315.xml:  <GBSeq_organism>Caryophanon tenue</GBSeq_organism>
+./AJ605774.xml:  <GBSeq_organism>Kurthia sibirica</GBSeq_organism>
+./AJ277983.xml:  <GBSeq_organism>Psychrobacillus psychrotolerans</GBSeq_organism>
+./AJ627212.xml:  <GBSeq_organism>Viridibacillus arenosi</GBSeq_organism>
+./M58800.xml:  <GBSeq_organism>Kurthia zopfii</GBSeq_organism>
+./AY268991.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./AJ006086.xml:  <GBSeq_organism>Solibacillus silvestris</GBSeq_organism>
+./AJ310084.xml:  <GBSeq_organism>Lysinibacillus sphaericus</GBSeq_organism>
+./X60642.xml:  <GBSeq_organism>Psychrobacillus insolitus</GBSeq_organism>
+./AB042061.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

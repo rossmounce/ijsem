@@ -1,0 +1,10 @@
+./AJ316199.xml:  <GBSeq_organism>Vibrio chagasii</GBSeq_organism>
+./X74724.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./AJ294421.xml:  <GBSeq_organism>Vibrio lentus</GBSeq_organism>
+./X74710.xml:  <GBSeq_organism>Vibrio mediterranei</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./AJ316193.xml:  <GBSeq_organism>Vibrio kanaloae</GBSeq_organism>
+./AJ491290.xml:  <GBSeq_organism>Vibrio pomeroyi</GBSeq_organism>
+./U57919.xml:  <GBSeq_organism>Vibrio cyclitrophicus</GBSeq_organism>
+./X74689.xml:  <GBSeq_organism>Vibrio aestuarianus</GBSeq_organism>

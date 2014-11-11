@@ -1,0 +1,8 @@
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./AJ487013.xml:  <GBSeq_organism>Microvirgula aerodenitrificans</GBSeq_organism>
+./Y17602.xml:  <GBSeq_organism>Formivibrio citricus</GBSeq_organism>
+./AB194302.xml:  <GBSeq_organism>Silvimonas terrae</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./AM397080.xml:  <GBSeq_organism>Deefgea rivuli</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>
+./M22509.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>

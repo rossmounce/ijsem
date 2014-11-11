@@ -1,0 +1,17 @@
+./AF094749.xml:  <GBSeq_organism>Pseudomonas syringae</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./AF268968.xml:  <GBSeq_organism>Pseudomonas brenneri</GBSeq_organism>
+./AJ311980.xml:  <GBSeq_organism>Pseudomonas thermotolerans</GBSeq_organism>
+./DQ339144.xml:  <GBSeq_organism>Pseudomonas pohangensis</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AY212656.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./D84011.xml:  <GBSeq_organism>Pseudomonas chlororaphis</GBSeq_organism>
+./D84004.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./D84015.xml:  <GBSeq_organism>Pseudomonas fulva</GBSeq_organism>
+./Z76651.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>
+./D84020.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./D84013.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>

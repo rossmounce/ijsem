@@ -1,0 +1,14 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./X95919.xml:  <GBSeq_organism>Xanthomonas axonopodis</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AF273082.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./DQ178977.xml:  <GBSeq_organism>Pseudoxanthomonas dokdonensis</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ012229.xml:  <GBSeq_organism>Stenotrophomonas nitritireducens</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./Y10756.xml:  <GBSeq_organism>Xanthomonas melonis</GBSeq_organism>
+./Y10766.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./X95918.xml:  <GBSeq_organism>Xanthomonas albilineans</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

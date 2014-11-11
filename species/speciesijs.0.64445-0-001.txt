@@ -1,0 +1,42 @@
+./AF038430.xml:  <GBSeq_organism>Halothiobacillus neapolitanus c2</GBSeq_organism>
+./DQ272528.xml:  <GBSeq_organism>Thioalkalimicrobium cyclicum ALM1</GBSeq_organism>
+./AF307091.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF016046.xml:  <GBSeq_organism>Thiomicrospira thyasirae</GBSeq_organism>
+./DQ272533.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./D43622.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./AF013978.xml:  <GBSeq_organism>Thiomicrospira kuenenii DSM 12350</GBSeq_organism>
+./AF442517.xml:  <GBSeq_organism>Magnetospirillum magnetotacticum</GBSeq_organism>
+./DQ390453.xml:  <GBSeq_organism>Thiomicrospira halophila</GBSeq_organism>
+./DQ390451.xml:  <GBSeq_organism>Thiomicrospira halophila</GBSeq_organism>
+./AF129925.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AJ404731.xml:  <GBSeq_organism>Thiomicrospira arctica</GBSeq_organism>
+./DQ272534.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./L42940.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./AF126549.xml:  <GBSeq_organism>Thioalkalimicrobium sibiricum</GBSeq_organism>
+./AF298221.xml:  <GBSeq_organism>Symbiodinium sp.</GBSeq_organism>
+./AY450586.xml:  <GBSeq_organism>Thioalkalispira microaerophila</GBSeq_organism>
+./AY450587.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./L40810.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./AF047688.xml:  <GBSeq_organism>endosymbiont of Riftia pachyptila</GBSeq_organism>
+./D90204.xml:  <GBSeq_organism>Allochromatium vinosum DSM 180</GBSeq_organism>
+./DQ272531.xml:  <GBSeq_organism>Thiomicrospira kuenenii DSM 12350</GBSeq_organism>
+./M26396.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./K01999.xml:  <GBSeq_organism>Rhodospirillum rubrum</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./D86374.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./AF013971.xml:  <GBSeq_organism>Thiomicrospira sp. SL-1</GBSeq_organism>
+./DQ272532.xml:  <GBSeq_organism>Thiomicrospira kuenenii DSM 12350</GBSeq_organism>
+./D43621.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>
+./AF329082.xml:  <GBSeq_organism>Thioalkalimicrobium cyclicum ALM1</GBSeq_organism>
+./AY155466.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./AJ404732.xml:  <GBSeq_organism>Thiomicrospira psychrophila</GBSeq_organism>
+./AF012127.xml:  <GBSeq_organism>Thiomonas intermedia K12</GBSeq_organism>
+./DQ272535.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./AB166731.xml:  <GBSeq_organism>Thiomicrospira thermophila</GBSeq_organism>
+./AF126548.xml:  <GBSeq_organism>Thioalkalimicrobium aerophilum AL3</GBSeq_organism>
+./L41063.xml:  <GBSeq_organism>Lingulodinium polyedrum</GBSeq_organism>
+./DQ272537.xml:  <GBSeq_organism>Thiomicrospira kuenenii DSM 12350</GBSeq_organism>
+./DQ272530.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./U23145.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./L37437.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./D28135.xml:  <GBSeq_organism>Hydrogenovibrio marinus</GBSeq_organism>

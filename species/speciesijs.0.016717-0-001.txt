@@ -1,0 +1,11 @@
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./DQ659236.xml:  <GBSeq_organism>Roseinatronobacter monicus</GBSeq_organism>
+./D16425.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./Y15011.xml:  <GBSeq_organism>Rhodovulum iodosum</GBSeq_organism>
+./AF248638.xml:  <GBSeq_organism>Rhodobaca bogoriensis DSM 18756</GBSeq_organism>
+./D13474.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AJ132383.xml:  <GBSeq_organism>Natronohydrobacter thiooxidans</GBSeq_organism>
+./AJ605746.xml:  <GBSeq_organism>Roseibaca ekhonensis</GBSeq_organism>
+./AF249749.xml:  <GBSeq_organism>Roseinatronobacter thiooxidans</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./EF554833.xml:  <GBSeq_organism>Rhodobaca barguzinensis</GBSeq_organism>

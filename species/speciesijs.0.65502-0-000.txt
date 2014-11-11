@@ -1,0 +1,15 @@
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./EU035613.xml:  <GBSeq_organism>Burkholderia sediminicola</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./AM489502.xml:  <GBSeq_organism>Burkholderia megapolitana</GBSeq_organism>
+./X67039.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./AY497470.xml:  <GBSeq_organism>Burkholderia phytofirmans PsJN</GBSeq_organism>
+./AJ302312.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./AF215704.xml:  <GBSeq_organism>Burkholderia caledonica</GBSeq_organism>
+./Y17009.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./AM489501.xml:  <GBSeq_organism>Burkholderia bryophila</GBSeq_organism>
+./AF215705.xml:  <GBSeq_organism>Burkholderia fungorum</GBSeq_organism>
+./AY040362.xml:  <GBSeq_organism>Burkholderia terricola</GBSeq_organism>
+./CP000271.xml:  <GBSeq_organism>Burkholderia xenovorans LB400</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./AY435213.xml:  <GBSeq_organism>Burkholderia phenoliruptrix</GBSeq_organism>

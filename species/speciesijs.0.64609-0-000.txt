@@ -1,0 +1,9 @@
+./AY323522.xml:  <GBSeq_organism>Prevotella oralis ATCC 33269</GBSeq_organism>
+./L16473.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>
+./AJ005635.xml:  <GBSeq_organism>Prevotella enoeca</GBSeq_organism>
+./L16476.xml:  <GBSeq_organism>Prevotella buccalis ATCC 35310</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./AB200228.xml:  <GBSeq_organism>Bacteroides pyogenes</GBSeq_organism>
+./L16482.xml:  <GBSeq_organism>Prevotella ruminicola</GBSeq_organism>
+./AB108825.xml:  <GBSeq_organism>Prevotella shahii</GBSeq_organism>
+./AY323524.xml:  <GBSeq_organism>Prevotella denticola</GBSeq_organism>

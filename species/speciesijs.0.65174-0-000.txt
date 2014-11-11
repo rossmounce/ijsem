@@ -1,0 +1,39 @@
+./AF137505.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae</GBSeq_organism>
+./CP000539.xml:  <GBSeq_organism>Acidovorax sp. JS42</GBSeq_organism>
+./AJ543436.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>
+./AY609198.xml:  <GBSeq_organism>Rhodoferax antarcticus</GBSeq_organism>
+./AF078767.xml:  <GBSeq_organism>Acidovorax sp. 7078</GBSeq_organism>
+./AJ007013.xml:  <GBSeq_organism>Acidovorax anthurii</GBSeq_organism>
+./AF137504.xml:  <GBSeq_organism>Acidovorax cattleyae</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./AF078764.xml:  <GBSeq_organism>Acidovorax delafieldii</GBSeq_organism>
+./AF137506.xml:  <GBSeq_organism>Acidovorax citrulli</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./AJ012070.xml:  <GBSeq_organism>Acidovorax sp. G7A1</GBSeq_organism>
+./Eu165069.xml:  <GBSeq_organism>Acidovorax anthurii</GBSeq_organism>
+./AJ431731.xml:  <GBSeq_organism>Acidovorax valerianellae</GBSeq_organism>
+./EU165074.xml:  <GBSeq_organism>Acidovorax temperans</GBSeq_organism>
+./AF137507.xml:  <GBSeq_organism>Acidovorax konjaci</GBSeq_organism>
+./CP000512.xml:  <GBSeq_organism>Acidovorax citrulli AAC00-1</GBSeq_organism>
+./EU165073.xml:  <GBSeq_organism>Acidovorax konjaci</GBSeq_organism>
+./AJ543434.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./EU165071.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./AJ543435.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>
+./EU165070.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae</GBSeq_organism>
+./EU165077.xml:  <GBSeq_organism>Verminephrobacter sp. LT04-1</GBSeq_organism>
+./AJ543439.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>
+./AY166684.xml:  <GBSeq_organism>Polaromonas naphthalenivorans CJ2</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./AF078762.xml:  <GBSeq_organism>Acidovorax cattleyae</GBSeq_organism>
+./EU350960.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./EU165072.xml:  <GBSeq_organism>Acidovorax delafieldii</GBSeq_organism>
+./AF078766.xml:  <GBSeq_organism>Acidovorax temperans</GBSeq_organism>
+./AJ543437.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>
+./AJ543440.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>
+./EU165076.xml:  <GBSeq_organism>Verminephrobacter sp. LT02-1</GBSeq_organism>
+./AF149849.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AY093698.xml:  <GBSeq_organism>Acidovorax sp. &apos;smarlab 133815&apos;</GBSeq_organism>
+./BX640437.xml:  <GBSeq_organism>Bordetella bronchiseptica RB50</GBSeq_organism>
+./AJ543438.xml:  <GBSeq_organism>uncultured Acidovorax sp.</GBSeq_organism>

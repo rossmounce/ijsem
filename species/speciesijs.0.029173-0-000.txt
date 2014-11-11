@@ -1,0 +1,11 @@
+./AY550263.xml:  <GBSeq_organism>Pseudoxanthomonas koreensis</GBSeq_organism>
+./GU199001.xml:  <GBSeq_organism>Luteimonas lutimaris</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ519986.xml:  <GBSeq_organism>Thermomonas fusca</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AF208315.xml:  <GBSeq_organism>Xanthomonas cynarae</GBSeq_organism>
+./AB245359.xml:  <GBSeq_organism>Lysobacter panaciterrae</GBSeq_organism>
+./EU295459.xml:  <GBSeq_organism>Luteimonas marina</GBSeq_organism>
+./EF626688.xml:  <GBSeq_organism>Luteimonas aquatica</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./AE008922.xml:  <GBSeq_organism>Xanthomonas campestris pv. campestris str. ATCC 33913</GBSeq_organism>

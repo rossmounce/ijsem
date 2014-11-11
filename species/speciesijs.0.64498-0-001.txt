@@ -1,0 +1,31 @@
+./DQ514539.xml:  <GBSeq_organism>Burkholderia unamae MTI-641</GBSeq_organism>
+./AY619663.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./AY619654.xml:  <GBSeq_organism>Burkholderia kururiensis</GBSeq_organism>
+./AY951905.xml:  <GBSeq_organism>Burkholderia pyrrocinia</GBSeq_organism>
+./AY619675.xml:  <GBSeq_organism>Burkholderia glumae</GBSeq_organism>
+./AY951894.xml:  <GBSeq_organism>Burkholderia cenocepacia</GBSeq_organism>
+./AY619668.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./AY951909.xml:  <GBSeq_organism>Burkholderia vietnamiensis</GBSeq_organism>
+./AY619672.xml:  <GBSeq_organism>Burkholderia terricola</GBSeq_organism>
+./AY619667.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./AY951888.xml:  <GBSeq_organism>Burkholderia multivorans</GBSeq_organism>
+./AF456031.xml:  <GBSeq_organism>Burkholderia stabilis</GBSeq_organism>
+./AE002098.xml:  <GBSeq_organism>Neisseria meningitidis MC58</GBSeq_organism>
+./AY619653.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./AJ550303.xml:  <GBSeq_organism>Burkholderia sacchari</GBSeq_organism>
+./AY619669.xml:  <GBSeq_organism>Burkholderia caledonica</GBSeq_organism>
+./AJ544689.xml:  <GBSeq_organism>Burkholderia fungorum</GBSeq_organism>
+./AF323971.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AY619664.xml:  <GBSeq_organism>Burkholderia fungorum</GBSeq_organism>
+./AY619662.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./AY951879.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AY619656.xml:  <GBSeq_organism>Burkholderia thailandensis</GBSeq_organism>
+./AY619655.xml:  <GBSeq_organism>Burkholderia plantarii</GBSeq_organism>
+./CP000011.xml:  <GBSeq_organism>Burkholderia mallei ATCC 23344</GBSeq_organism>
+./AY819674.xml:  <GBSeq_organism>Cyrtobagous salviniae</GBSeq_organism>
+./AY619666.xml:  <GBSeq_organism>Burkholderia glathei</GBSeq_organism>
+./AY951910.xml:  <GBSeq_organism>Burkholderia ambifaria</GBSeq_organism>
+./AJ544692.xml:  <GBSeq_organism>Burkholderia anthina</GBSeq_organism>
+./AY619684.xml:  <GBSeq_organism>Burkholderia ubonensis</GBSeq_organism>
+./AY619665.xml:  <GBSeq_organism>Burkholderia gladioli</GBSeq_organism>
+./DQ514540.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>

@@ -1,0 +1,32 @@
+./AF163116.xml:  <GBSeq_organism>Actinomadura livida</GBSeq_organism>
+./U49004.xml:  <GBSeq_organism>Actinomadura echinospora</GBSeq_organism>
+./U49006.xml:  <GBSeq_organism>Actinomadura kijaniata</GBSeq_organism>
+./AF154127.xml:  <GBSeq_organism>Actinomadura catellatispora</GBSeq_organism>
+./AF163120.xml:  <GBSeq_organism>Actinoallomurus spadix</GBSeq_organism>
+./U58527.xml:  <GBSeq_organism>Actinomadura madurae</GBSeq_organism>
+./AY035998.xml:  <GBSeq_organism>Actinomadura latina</GBSeq_organism>
+./AF134069.xml:  <GBSeq_organism>Actinomadura rubrobrunea</GBSeq_organism>
+./AF163115.xml:  <GBSeq_organism>Actinomadura hibisca</GBSeq_organism>
+./AF163119.xml:  <GBSeq_organism>Actinomadura pelletieri</GBSeq_organism>
+./AF002263.xml:  <GBSeq_organism>Actinomadura formosensis</GBSeq_organism>
+./U49008.xml:  <GBSeq_organism>Actinomadura luteofluorescens</GBSeq_organism>
+./U49001.xml:  <GBSeq_organism>Actinomadura citrea</GBSeq_organism>
+./AF153881.xml:  <GBSeq_organism>Actinomadura glauciflava</GBSeq_organism>
+./AY035999.xml:  <GBSeq_organism>Actinomadura nitritigenes</GBSeq_organism>
+./U49011.xml:  <GBSeq_organism>Actinomadura verrucosospora</GBSeq_organism>
+./U49010.xml:  <GBSeq_organism>Actinomadura rugatobispora</GBSeq_organism>
+./U49009.xml:  <GBSeq_organism>Actinomadura macra</GBSeq_organism>
+./AF163122.xml:  <GBSeq_organism>Actinomadura yumaensis</GBSeq_organism>
+./AF163114.xml:  <GBSeq_organism>Actinomadura fibrosa</GBSeq_organism>
+./AF134067.xml:  <GBSeq_organism>Actinomadura cremea subsp. cremea</GBSeq_organism>
+./D85467.xml:  <GBSeq_organism>Actinomadura viridis</GBSeq_organism>
+./AF163118.xml:  <GBSeq_organism>Actinomadura oligospora</GBSeq_organism>
+./U49002.xml:  <GBSeq_organism>Actinomadura coerulea</GBSeq_organism>
+./U49005.xml:  <GBSeq_organism>Actinomadura fulvescens</GBSeq_organism>
+./AF163123.xml:  <GBSeq_organism>Spirillospora rubra</GBSeq_organism>
+./U49003.xml:  <GBSeq_organism>Actinomadura rifamycini</GBSeq_organism>
+./U49000.xml:  <GBSeq_organism>Actinomadura atramentaria</GBSeq_organism>
+./AF163121.xml:  <GBSeq_organism>Actinomadura umbrina</GBSeq_organism>
+./D85498.xml:  <GBSeq_organism>Spirillospora albida</GBSeq_organism>
+./AF134070.xml:  <GBSeq_organism>Actinomadura vinacea</GBSeq_organism>
+./AF002262.xml:  <GBSeq_organism>Thermomonospora curvata DSM 43183</GBSeq_organism>

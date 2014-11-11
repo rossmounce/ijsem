@@ -1,0 +1,11 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AF288157.xml:  <GBSeq_organism>Marinobacter lutaoensis</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AY517633.xml:  <GBSeq_organism>Marinobacter daepoensis</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AJ439500.xml:  <GBSeq_organism>Marinobacter squalenivorans</GBSeq_organism>
+./AY517632.xml:  <GBSeq_organism>Marinobacter flavimaris</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./AJ000726.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus VT8</GBSeq_organism>
+./V00348.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>

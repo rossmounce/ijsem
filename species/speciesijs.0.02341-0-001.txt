@@ -1,0 +1,21 @@
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./Y15504.xml:  <GBSeq_organism>Streptomyces aureofaciens</GBSeq_organism>
+./x99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./X79324.xml:  <GBSeq_organism>Streptomyces bluensis</GBSeq_organism>
+./AB045887.xml:  <GBSeq_organism>Streptomyces peucetius</GBSeq_organism>
+./AF163115.xml:  <GBSeq_organism>Actinomadura hibisca</GBSeq_organism>
+./Z68101.xml:  <GBSeq_organism>Streptomyces thermodiastaticus</GBSeq_organism>
+./AJ310923.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./X80825.xml:  <GBSeq_organism>Streptomyces subrutilus</GBSeq_organism>
+./AF452114.xml:  <GBSeq_organism>Cryphonectria parasitica</GBSeq_organism>
+./X79852.xml:  <GBSeq_organism>Streptomyces galbus</GBSeq_organism>
+./Z68094.xml:  <GBSeq_organism>Streptomyces thermovulgaris</GBSeq_organism>
+./AJ399473.xml:  <GBSeq_organism>Streptomyces coeruleofuscus</GBSeq_organism>
+./D63868.xml:  <GBSeq_organism>Streptomyces bottropensis ATCC 25435</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./U94490.xml:  <GBSeq_organism>Streptomyces thermocarboxydus</GBSeq_organism>
+./AB045884.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./Y15507.xml:  <GBSeq_organism>Streptomyces lydicus</GBSeq_organism>
+./U94489.xml:  <GBSeq_organism>Streptomyces thermocarboxydovorans</GBSeq_organism>

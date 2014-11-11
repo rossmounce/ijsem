@@ -1,0 +1,3 @@
+./AB245386.xml:  <GBSeq_organism>Paenibacillus pocheonensis</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY359885.xml:  <GBSeq_organism>Paenibacillus dendritiformis</GBSeq_organism>

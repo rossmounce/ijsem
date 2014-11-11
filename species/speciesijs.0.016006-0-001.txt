@@ -1,0 +1,10 @@
+./EF550216.xml:  <GBSeq_organism>Saturnispora besseyi</GBSeq_organism>
+./AF017727.xml:  <GBSeq_organism>Saturnispora sp. NRRL Y-11516</GBSeq_organism>
+./EF550215.xml:  <GBSeq_organism>Candida silvae</GBSeq_organism>
+./EF550221.xml:  <GBSeq_organism>Saturnispora hagleri</GBSeq_organism>
+./EF550217.xml:  <GBSeq_organism>Saturnispora ahearnii</GBSeq_organism>
+./EF550220.xml:  <GBSeq_organism>Saturnispora dispora</GBSeq_organism>
+./DQ466525.xml:  <GBSeq_organism>saccharomycete sp. G3</GBSeq_organism>
+./EF550219.xml:  <GBSeq_organism>Saturnispora zaruensis</GBSeq_organism>
+./EF550214.xml:  <GBSeq_organism>Saturnispora mendoncae</GBSeq_organism>
+./EF550213.xml:  <GBSeq_organism>Candida diversa</GBSeq_organism>

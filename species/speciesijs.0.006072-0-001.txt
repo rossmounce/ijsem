@@ -1,0 +1,10 @@
+./AF393376.xml:  <GBSeq_organism>Thermodesulfatator indicus DSM 15286</GBSeq_organism>
+./AF255595.xml:  <GBSeq_organism>Thermodesulfotobacterium sp. SRI-27</GBSeq_organism>
+./AY082369.xml:  <GBSeq_organism>uncultured Thermodesulfobacteriaceae bacterium</GBSeq_organism>
+./EF554596.xml:  <GBSeq_organism>Caldimicrobium rimae</GBSeq_organism>
+./AF418169.xml:  <GBSeq_organism>Thermodesulfobacterium commune DSM 2178</GBSeq_organism>
+./X96725.xml:  <GBSeq_organism>Thermodesulfobacterium hveragerdense</GBSeq_organism>
+./AF352533.xml:  <GBSeq_organism>uncultured Thermodesulfobacterium sp.</GBSeq_organism>
+./AF332514.xml:  <GBSeq_organism>Thermodesulfobacterium hydrogeniphilum</GBSeq_organism>
+./AF334601.xml:  <GBSeq_organism>Thermodesulfobacterium thermophilum</GBSeq_organism>
+./AF255596.xml:  <GBSeq_organism>Thermodesulfotobacterium sp. SRI-93</GBSeq_organism>

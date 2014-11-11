@@ -1,0 +1,18 @@
+./AF306455.xml:  <GBSeq_organism>Mycobacterium avium</GBSeq_organism>
+./X52931.xml:  <GBSeq_organism>Mycobacterium simiae</GBSeq_organism>
+./U94745.xml:  <GBSeq_organism>Mycobacterium duvalii</GBSeq_organism>
+./U96747.xml:  <GBSeq_organism>Mycobacterium novocastrense</GBSeq_organism>
+./AJ000684.xml:  <GBSeq_organism>Mycobacterium heidelbergense</GBSeq_organism>
+./AF480603.xml:  <GBSeq_organism>Mycobacterium phlei DSM 43239 = CCUG 21000</GBSeq_organism>
+./AJ536035.xml:  <GBSeq_organism>Mycobacterium kansasii</GBSeq_organism>
+./AF107039.xml:  <GBSeq_organism>Mycobacterium monacense</GBSeq_organism>
+./AY457078.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./AJ616230.xml:  <GBSeq_organism>Mycobacterium florentinum</GBSeq_organism>
+./AF480583.xml:  <GBSeq_organism>Mycobacterium lentiflavum</GBSeq_organism>
+./X52929.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./AY604571.xml:  <GBSeq_organism>Mycobacterium gordonae</GBSeq_organism>
+./U49401.xml:  <GBSeq_organism>Mycobacterium hassiacum</GBSeq_organism>
+./AF264700.xml:  <GBSeq_organism>Mycobacterium doricum</GBSeq_organism>
+./AF480604.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./U57632.xml:  <GBSeq_organism>Mycobacterium triplex</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>

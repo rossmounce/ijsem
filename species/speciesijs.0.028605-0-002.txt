@@ -1,0 +1,15 @@
+./AJ542509.xml:  <GBSeq_organism>Bacillus vireti LMG 21834</GBSeq_organism>
+./FR666703.xml:  <GBSeq_organism>Bacillus purgationiresistens</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./AY043084.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./EU861862.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./AJ542506.xml:  <GBSeq_organism>Bacillus drentensis</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AJ439078.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./EU603328.xml:  <GBSeq_organism>Bacillus korlensis</GBSeq_organism>
+./AY904082.xml:  <GBSeq_organism>Pyrococcus sp. V211</GBSeq_organism>
+./AB245377.xml:  <GBSeq_organism>Bacillus pocheonensis</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./EF206294.xml:  <GBSeq_organism>Bacillus butanolivorans</GBSeq_organism>
+./AJ250056.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>

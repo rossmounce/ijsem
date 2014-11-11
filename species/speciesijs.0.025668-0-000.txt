@@ -1,0 +1,15 @@
+./EU669904.xml:  <GBSeq_organism>Arcobacter mytili LMG 24559</GBSeq_organism>
+./AJ607391.xml:  <GBSeq_organism>Arcobacter cibarius</GBSeq_organism>
+./GU300769.xml:  <GBSeq_organism>Arcobacter skirrowii</GBSeq_organism>
+./EU512920.xml:  <GBSeq_organism>Arcobacter marinus</GBSeq_organism>
+./AJ607392.xml:  <GBSeq_organism>Arcobacter cibarius</GBSeq_organism>
+./L14625.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>
+./AY314754.xml:  <GBSeq_organism>Arcobacter thereius</GBSeq_organism>
+./EU669906.xml:  <GBSeq_organism>Arcobacter mytili</GBSeq_organism>
+./FN650333.xml:  <GBSeq_organism>Arcobacter trophiarum LMG 25534</GBSeq_organism>
+./AF513455.xml:  <GBSeq_organism>Arcobacter halophilus</GBSeq_organism>
+./GU300768.xml:  <GBSeq_organism>Arcobacter sp. FE2</GBSeq_organism>
+./GU300771.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./AY314753.xml:  <GBSeq_organism>Arcobacter thereius LMG 24486</GBSeq_organism>
+./EU106662.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./FN650332.xml:  <GBSeq_organism>Arcobacter trophiarum</GBSeq_organism>

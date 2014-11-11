@@ -1,0 +1,18 @@
+./EF028678.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./AF473835.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028679.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028680.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028685.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./X77951.xml:  <GBSeq_organism>Acidaminococcus fermentans</GBSeq_organism>
+./AF071415.xml:  <GBSeq_organism>Anaeromusa acidaminophila</GBSeq_organism>
+./EF060090.xml:  <GBSeq_organism>Acidaminococcus fermentans</GBSeq_organism>
+./EF028677.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028681.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028676.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028682.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF028683.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./X78017.xml:  <GBSeq_organism>Acidaminococcus fermentans DSM 20731</GBSeq_organism>
+./X81137.xml:  <GBSeq_organism>Succiniclasticum ruminis</GBSeq_organism>
+./EF028684.xml:  <GBSeq_organism>Acidaminococcus intestini</GBSeq_organism>
+./EF060089.xml:  <GBSeq_organism>Acidaminococcus fermentans</GBSeq_organism>
+./X72865.xml:  <GBSeq_organism>Phascolarctobacterium faecium</GBSeq_organism>

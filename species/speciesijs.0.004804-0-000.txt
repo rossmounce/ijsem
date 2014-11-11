@@ -1,0 +1,9 @@
+./AM237311.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./AB278570.xml:  <GBSeq_organism>Chitinophaga terrae Kim and Jung 2007</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./DQ062743.xml:  <GBSeq_organism>Chitinophaga skermanii</GBSeq_organism>
+./EU714259.xml:  <GBSeq_organism>Chitinophaga niabensis</GBSeq_organism>
+./AB267724.xml:  <GBSeq_organism>&apos;Chitinophaga terrae&apos; An et al. 2007</GBSeq_organism>
+./EU714260.xml:  <GBSeq_organism>Chitinophaga niastensis</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./M62795.xml:  <GBSeq_organism>Chitinophaga sancti</GBSeq_organism>

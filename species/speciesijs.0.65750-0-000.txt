@@ -1,0 +1,18 @@
+./AY574979.xml:  <GBSeq_organism>Desulfovibrio putealis</GBSeq_organism>
+./AF067964.xml:  <GBSeq_organism>Desulfovibrio aminophilus</GBSeq_organism>
+./AF418179.xml:  <GBSeq_organism>Desulfovibrio vulgaris</GBSeq_organism>
+./Y18049.xml:  <GBSeq_organism>Desulfovibrio zosterae</GBSeq_organism>
+./AY274449.xml:  <GBSeq_organism>Desulfovibrio ferrophilus</GBSeq_organism>
+./U32578.xml:  <GBSeq_organism>Desulfovibrio acrylicus</GBSeq_organism>
+./Y11984.xml:  <GBSeq_organism>Desulfovibrio alaskensis</GBSeq_organism>
+./AF050100.xml:  <GBSeq_organism>Desulfovibrio senezii</GBSeq_organism>
+./AF177276.xml:  <GBSeq_organism>Desulfovibrio inopinatus</GBSeq_organism>
+./X95230.xml:  <GBSeq_organism>Desulfovibrio aespoeensis Aspo-2</GBSeq_organism>
+./DQ148943.xml:  <GBSeq_organism>Desulfovibrio frigidus</GBSeq_organism>
+./AF090830.xml:  <GBSeq_organism>Desulfovibrio sp. TBP-1</GBSeq_organism>
+./U53465.xml:  <GBSeq_organism>Desulfovibrio caledoniensis</GBSeq_organism>
+./X93994.xml:  <GBSeq_organism>Desulfovibrio vietnamensis</GBSeq_organism>
+./AB353727.xml:  <GBSeq_organism>Desulfovibrio marinisediminis DSM 17456</GBSeq_organism>
+./AF418170.xml:  <GBSeq_organism>Desulfovibrio giganteus</GBSeq_organism>
+./AF458778.xml:  <GBSeq_organism>Desulfovibrio hydrothermalis AM13 = DSM 14728</GBSeq_organism>
+./AY359868.xml:  <GBSeq_organism>Desulfovibrio bastinii</GBSeq_organism>

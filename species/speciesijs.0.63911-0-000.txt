@@ -1,0 +1,41 @@
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ011759.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./L39882.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./AY785323.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./AY040360.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AY785324.xml:  <GBSeq_organism>Phyllobacterium ifriqiyense</GBSeq_organism>
+./AF041442.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AJ389904.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AY785321.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./D12796.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./AY636000.xml:  <GBSeq_organism>Phyllobacterium catacumbae</GBSeq_organism>
+./AY785325.xml:  <GBSeq_organism>Phyllobacterium ifriqiyense</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./X67226.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./D12786.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AF072542.xml:  <GBSeq_organism>Pseudaminobacter salicylatoxidans</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./AY785322.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./AY785315.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./U29386.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AY785314.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AY785320.xml:  <GBSeq_organism>Phyllobacterium bourgognense</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./D12797.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AF041447.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AY785318.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AY788080.xml:  <GBSeq_organism>Salminus maxillosus</GBSeq_organism>
+./AY785317.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AY785319.xml:  <GBSeq_organism>Phyllobacterium brassicacearum</GBSeq_organism>
+./AY024335.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ011761.xml:  <GBSeq_organism>Aminobacter niigataensis</GBSeq_organism>

@@ -1,0 +1,22 @@
+./X53212.xml:  <GBSeq_organism>Nocardioides luteus</GBSeq_organism>
+./AF529063.xml:  <GBSeq_organism>Nocardioides aquiterrae</GBSeq_organism>
+./AB087721.xml:  <GBSeq_organism>Nocardioides aromaticivorans</GBSeq_organism>
+./Z78210.xml:  <GBSeq_organism>Nocardioides jensenii</GBSeq_organism>
+./DQ786794.xml:  <GBSeq_organism>Nocardioides insulae</GBSeq_organism>
+./AM422448.xml:  <GBSeq_organism>Nocardioides marinisabuli</GBSeq_organism>
+./EF363712.xml:  <GBSeq_organism>Nocardioides terrigena</GBSeq_organism>
+./EF005008.xml:  <GBSeq_organism>Oryza meridionalis</GBSeq_organism>
+./AF004988.xml:  <GBSeq_organism>Nocardioides albus</GBSeq_organism>
+./AY423719.xml:  <GBSeq_organism>Nocardioides aestuarii</GBSeq_organism>
+./AY835924.xml:  <GBSeq_organism>Nocardioides kribbensis</GBSeq_organism>
+./DQ121389.xml:  <GBSeq_organism>Nocardioides lentus</GBSeq_organism>
+./U61298.xml:  <GBSeq_organism>Nocardioides pyridinolyticus JCM 10369</GBSeq_organism>
+./AY633969.xml:  <GBSeq_organism>Nocardioides alkalitolerans</GBSeq_organism>
+./DQ401093.xml:  <GBSeq_organism>Nocardioides marinus</GBSeq_organism>
+./EF626689.xml:  <GBSeq_organism>Nocardioides fonticola</GBSeq_organism>
+./DQ411542.xml:  <GBSeq_organism>Nocardioides furvisabuli</GBSeq_organism>
+./AY423718.xml:  <GBSeq_organism>Nocardioides ganghwensis</GBSeq_organism>
+./AF005024.xml:  <GBSeq_organism>Nocardioides nitrophenolicus</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./X94145.xml:  <GBSeq_organism>Nocardioides aquaticus</GBSeq_organism>
+./AM398438.xml:  <GBSeq_organism>Nocardioides daphniae</GBSeq_organism>

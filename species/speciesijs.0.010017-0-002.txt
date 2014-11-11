@@ -1,0 +1,13 @@
+./X82169.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./AY498641.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./AY498646.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>
+./X82167.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./X61689.xml:  <GBSeq_organism>Haloarcula marismortui</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./D50850.xml:  <GBSeq_organism>Halomicrobium mukohataei</GBSeq_organism>
+./AY498648.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./EF090605.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>

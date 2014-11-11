@@ -1,0 +1,6 @@
+./AJ418063.xml:  <GBSeq_organism>Xanthobacter flavus</GBSeq_organism>
+./AJ250560.xml:  <GBSeq_organism>Pseudomonas chlororaphis subsp. aureofaciens</GBSeq_organism>
+./AJ295164.xml:  <GBSeq_organism>Alcanivorax borkumensis</GBSeq_organism>
+./AJ344079.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./AJ431700.xml:  <GBSeq_organism>Thalassolituus oleivorans MIL-1</GBSeq_organism>
+./AJ233397.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>

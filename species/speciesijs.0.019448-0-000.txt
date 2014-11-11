@@ -1,0 +1,20 @@
+./AB282887.xml:  <GBSeq_organism>Intrasporangium oryzae NRRL B-24470</GBSeq_organism>
+./EU543662.xml:  <GBSeq_organism>Kineococcus xinjiangensis</GBSeq_organism>
+./EU878005.xml:  <GBSeq_organism>Fodinibacter luteus</GBSeq_organism>
+./AM398397.xml:  <GBSeq_organism>Lapillicoccus jejuensis</GBSeq_organism>
+./AY831385.xml:  <GBSeq_organism>Quadrisphaera granulorum</GBSeq_organism>
+./AY522568.xml:  <GBSeq_organism>Janibacter melonis</GBSeq_organism>
+./AY382898.xml:  <GBSeq_organism>Serinicoccus marinus</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./AB282888.xml:  <GBSeq_organism>Humibacillus xanthopallidus</GBSeq_organism>
+./AJ558133.xml:  <GBSeq_organism>Arsenicicoccus bolidensis</GBSeq_organism>
+./AM690744.xml:  <GBSeq_organism>Terrabacter lapilli</GBSeq_organism>
+./AB286025.xml:  <GBSeq_organism>Marihabitans asiaticum</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./X77958.xml:  <GBSeq_organism>Kineococcus aurantiacus</GBSeq_organism>
+./AB512285.xml:  <GBSeq_organism>Angustibacter luteus</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

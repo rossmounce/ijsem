@@ -1,0 +1,18 @@
+./D12699.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./EF623998.xml:  <GBSeq_organism>Croceicoccus marinus</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./Y13774.xml:  <GBSeq_organism>Blastomonas natatoria</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./D84429.xml:  <GBSeq_organism>Porphyrobacter tepidarius</GBSeq_organism>
+./AY739662.xml:  <GBSeq_organism>Altererythrobacter luteolus</GBSeq_organism>
+./AY562220.xml:  <GBSeq_organism>Erythrobacter gaetbuli</GBSeq_organism>
+./U20773.xml:  <GBSeq_organism>Novosphingobium subterraneum</GBSeq_organism>
+./AF367204.xml:  <GBSeq_organism>Sphingopyxis chilensis</GBSeq_organism>
+./AF465834.xml:  <GBSeq_organism>Porphyrobacter cryptus</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY706935.xml:  <GBSeq_organism>Erythrobacter vulgaris</GBSeq_organism>
+./AY559428.xml:  <GBSeq_organism>Porphyrobacter donghaensis</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./AY461441.xml:  <GBSeq_organism>Erythrobacter aquimaris</GBSeq_organism>

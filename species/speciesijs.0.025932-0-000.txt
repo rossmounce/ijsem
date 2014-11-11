@@ -1,0 +1,11 @@
+./AF288300.xml:  <GBSeq_organism>Bosea eneae 34614</GBSeq_organism>
+./AF288306.xml:  <GBSeq_organism>Bosea vestrisii 34635</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./GU125653.xml:  <GBSeq_organism>Salinarimonas ramus</GBSeq_organism>
+./AF288309.xml:  <GBSeq_organism>Bosea massiliensis 63287</GBSeq_organism>
+./AF273081.xml:  <GBSeq_organism>Bosea minatitlanensis</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./AY078053.xml:  <GBSeq_organism>Microvirga subterranea</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AY372184.xml:  <GBSeq_organism>Bradyrhizobium betae</GBSeq_organism>
+./EF584507.xml:  <GBSeq_organism>Chelatococcus daeguensis</GBSeq_organism>

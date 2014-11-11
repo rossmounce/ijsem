@@ -1,0 +1,13 @@
+./AF535171.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./DQ232491.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./DQ232456.xml:  <GBSeq_organism>Streptococcus phocae</GBSeq_organism>
+./AF535181.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./AM941162.xml:  <GBSeq_organism>Streptococcus porci</GBSeq_organism>
+./DQ232503.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./AF535185.xml:  <GBSeq_organism>Streptococcus dysgalactiae</GBSeq_organism>
+./AF535167.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./DQ232485.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./AY770000.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./DQ132984.xml:  <GBSeq_organism>Streptococcus downei MFe28</GBSeq_organism>
+./AF535186.xml:  <GBSeq_organism>Streptococcus equi</GBSeq_organism>
+./DQ232450.xml:  <GBSeq_organism>Streptococcus hyovaginalis</GBSeq_organism>

@@ -1,0 +1,15 @@
+./D64126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./AY043084.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./L27478.xml:  <GBSeq_organism>Bacillus thermoamylovorans</GBSeq_organism>
+./AJ717382.xml:  <GBSeq_organism>Bacillus foraminis</GBSeq_organism>
+./AB109209.xml:  <GBSeq_organism>Bacillus asahii</GBSeq_organism>
+./AJ509007.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./AJ250059.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>
+./AB086897.xml:  <GBSeq_organism>Bacillus krulwichiae</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AY321436.xml:  <GBSeq_organism>Salinibacillus aidingensis</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./AJ542507.xml:  <GBSeq_organism>Bacillus bataviensis</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./Y14693.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>

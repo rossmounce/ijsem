@@ -1,0 +1,16 @@
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./M58783.xml:  <GBSeq_organism>Flexibacter elegans</GBSeq_organism>
+./FJ593908.xml:  <GBSeq_organism>Arcicella aurantiaca</GBSeq_organism>
+./M58784.xml:  <GBSeq_organism>Flexibacter litoralis</GBSeq_organism>
+./AM948969.xml:  <GBSeq_organism>Arcicella rosea</GBSeq_organism>
+./M58789.xml:  <GBSeq_organism>Marivirga tractuosa</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./U85891.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./M58788.xml:  <GBSeq_organism>Flexibacter ruber</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./EU420062.xml:  <GBSeq_organism>Flectobacillus roseus</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AJ575266.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>

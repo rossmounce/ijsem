@@ -1,0 +1,32 @@
+./AY754828.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./U20797.xml:  <GBSeq_organism>unidentified eubacterium clone SAR202</GBSeq_organism>
+./AF093427.xml:  <GBSeq_organism>Oscillochloris trichoides DG-6</GBSeq_organism>
+./AF357918.xml:  <GBSeq_organism>Dehalococcoides mccartyi</GBSeq_organism>
+./AF005745.xml:  <GBSeq_organism>uncultured eubacterium t0.6.f</GBSeq_organism>
+./AY165308.xml:  <GBSeq_organism>Dehalococcoides mccartyi BAV1</GBSeq_organism>
+./D38365.xml:  <GBSeq_organism>Chloroflexus aurantiacus J-10-fl</GBSeq_organism>
+./AF004928.xml:  <GBSeq_organism>Dehalococcoides mccartyi</GBSeq_organism>
+./AF005750.xml:  <GBSeq_organism>uncultured eubacterium H3.93</GBSeq_organism>
+./AF393781.xml:  <GBSeq_organism>Dehalobium chlorocoercia DF-1</GBSeq_organism>
+./EU679418.xml:  <GBSeq_organism>Dehalogenimonas lykanthroporepellens BL-DC-9</GBSeq_organism>
+./AB067647.xml:  <GBSeq_organism>Caldilinea aerophila DSM 14535 = NBRC 104270</GBSeq_organism>
+./AF316763.xml:  <GBSeq_organism>uncultured Crater Lake bacterium CL500-9</GBSeq_organism>
+./EU542454.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF407200.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB243673.xml:  <GBSeq_organism>Longilinea arvoryzae</GBSeq_organism>
+./D32255.xml:  <GBSeq_organism>Chloroflexus aggregans</GBSeq_organism>
+./AB046413.xml:  <GBSeq_organism>Anaerolinea thermophila</GBSeq_organism>
+./AF039293.xml:  <GBSeq_organism>Herpetosiphon geysericola</GBSeq_organism>
+./AF058005.xml:  <GBSeq_organism>unidentified eubacterium RFLP17</GBSeq_organism>
+./AY882433.xml:  <GBSeq_organism>Dehalococcoides sp. TM-EtOH</GBSeq_organism>
+./AB109438.xml:  <GBSeq_organism>Leptolinea tardivitalis</GBSeq_organism>
+./AF186417.xml:  <GBSeq_organism>uncultured sponge symbiont PAWS52f</GBSeq_organism>
+./AB109439.xml:  <GBSeq_organism>Levilinea saccharolytica</GBSeq_organism>
+./AF391972.xml:  <GBSeq_organism>Thermobaculum terrenum ATCC BAA-798</GBSeq_organism>
+./AF427907.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF644514.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF005747.xml:  <GBSeq_organism>uncultured eubacterium H1.2.f</GBSeq_organism>
+./AJ420142.xml:  <GBSeq_organism>Sphaerobacter thermophilus DSM 20745</GBSeq_organism>
+./AF230641.xml:  <GBSeq_organism>Dehalococcoides mccartyi CBDB1</GBSeq_organism>
+./EU679419.xml:  <GBSeq_organism>Dehalogenimonas lykanthroporepellens BL-DC-9</GBSeq_organism>
+./AB243672.xml:  <GBSeq_organism>Bellilinea caldifistulae</GBSeq_organism>

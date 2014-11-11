@@ -1,0 +1,10 @@
+./AJ505601.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ294384.xml:  <GBSeq_organism>Mycoplana ramosa</GBSeq_organism>
+./AJ294376.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AJ294377.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ294379.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AM182142.xml:  <GBSeq_organism>Sinorhizobium kostiense</GBSeq_organism>
+./FM999739.xml:  <GBSeq_organism>Shinella granuli</GBSeq_organism>
+./FM999740.xml:  <GBSeq_organism>Shinella zoogloeoides</GBSeq_organism>
+./EU200979.xml:  <GBSeq_organism>Shinella kummerowiae</GBSeq_organism>
+./FM999741.xml:  <GBSeq_organism>Shinella fusca</GBSeq_organism>

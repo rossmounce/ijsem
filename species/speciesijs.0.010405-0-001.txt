@@ -1,0 +1,10 @@
+./AY943198.xml:  <GBSeq_organism>Mycobacterium chimaera</GBSeq_organism>
+./FJ232523.xml:  <GBSeq_organism>Mycobacterium mantenii</GBSeq_organism>
+./EU935586.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AY208858.xml:  <GBSeq_organism>Mycobacterium saskatchewanense</GBSeq_organism>
+./AM062765.xml:  <GBSeq_organism>Mycobacterium colombiense CECT 3035</GBSeq_organism>
+./AF547871.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./AY208859.xml:  <GBSeq_organism>Mycobacterium saskatchewanense</GBSeq_organism>
+./AY299177.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium ATCC 25291</GBSeq_organism>
+./AF547886.xml:  <GBSeq_organism>Mycobacterium tuberculosis subsp. tuberculosis</GBSeq_organism>
+./FJ426336.xml:  <GBSeq_organism>Mycobacterium mantenii</GBSeq_organism>

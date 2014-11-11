@@ -1,0 +1,12 @@
+./AY351395.xml:  <GBSeq_organism>Halobacillus dabanensis</GBSeq_organism>
+./AJ486874.xml:  <GBSeq_organism>Halobacillus karajensis</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AY190534.xml:  <GBSeq_organism>Halobacillus locisalis</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./AY881246.xml:  <GBSeq_organism>Halobacillus yeomjeoni</GBSeq_organism>
+./AF500003.xml:  <GBSeq_organism>Halobacillus salinus</GBSeq_organism>
+./AY351389.xml:  <GBSeq_organism>Halobacillus aidingensis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AB101591.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>

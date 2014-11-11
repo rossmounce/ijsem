@@ -1,0 +1,23 @@
+./FN298236.xml:  <GBSeq_organism>Acinetobacter rudis</GBSeq_organism>
+./HQ180191.xml:  <GBSeq_organism>Acinetobacter towneri</GBSeq_organism>
+./X81666.xml:  <GBSeq_organism>Acinetobacter radioresistens DSM 6976 = NBRC 102413 = CIP 103788</GBSeq_organism>
+./HQ180189.xml:  <GBSeq_organism>Acinetobacter tandoii</GBSeq_organism>
+./AJ275038.xml:  <GBSeq_organism>Acinetobacter ursingii DSM 16037 = CIP 107286</GBSeq_organism>
+./HQ180181.xml:  <GBSeq_organism>Acinetobacter bouvetii</GBSeq_organism>
+./AF005160.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./EF204258.xml:  <GBSeq_organism>Acinetobacter rudis CIP 110305</GBSeq_organism>
+./X81665.xml:  <GBSeq_organism>Acinetobacter lwoffii</GBSeq_organism>
+./X81664.xml:  <GBSeq_organism>Acinetobacter junii</GBSeq_organism>
+./AJ888983.xml:  <GBSeq_organism>Acinetobacter [calcoaceticus] NCCB 22016</GBSeq_organism>
+./AJ626712.xml:  <GBSeq_organism>Acinetobacter beijerinckii</GBSeq_organism>
+./X81659.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./X81660.xml:  <GBSeq_organism>Acinetobacter baumannii</GBSeq_organism>
+./HQ180190.xml:  <GBSeq_organism>Acinetobacter tjernbergiae</GBSeq_organism>
+./AJ295007.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./AJ293691.xml:  <GBSeq_organism>Acinetobacter parvus</GBSeq_organism>
+./EU290155.xml:  <GBSeq_organism>Acinetobacter soli</GBSeq_organism>
+./HQ180188.xml:  <GBSeq_organism>Acinetobacter gerneri</GBSeq_organism>
+./AF513979.xml:  <GBSeq_organism>Alkanindiges illinoisensis</GBSeq_organism>
+./AM410709.xml:  <GBSeq_organism>Acinetobacter baylyi DSM 14961 = CIP 107474</GBSeq_organism>
+./X81662.xml:  <GBSeq_organism>Acinetobacter haemolyticus</GBSeq_organism>

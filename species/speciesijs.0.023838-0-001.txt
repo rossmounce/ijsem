@@ -1,0 +1,9 @@
+./CR954253.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002</GBSeq_organism>
+./AB354954.xml:  <GBSeq_organism>Weissella confusa</GBSeq_organism>
+./AB354951.xml:  <GBSeq_organism>Fructobacillus pseudoficulneus</GBSeq_organism>
+./AL985258.xml:  <GBSeq_organism>Danio rerio</GBSeq_organism>
+./AB354942.xml:  <GBSeq_organism>Leuconostoc pseudomesenteroides</GBSeq_organism>
+./AE006272.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis Il1403</GBSeq_organism>
+./AB354945.xml:  <GBSeq_organism>Leuconostoc lactis KCTC 3528 = DSM 20202</GBSeq_organism>
+./AJ621652.xml:  <GBSeq_organism>Lactobacillus kunkeei</GBSeq_organism>
+./AJ621627.xml:  <GBSeq_organism>Lactobacillus casei</GBSeq_organism>

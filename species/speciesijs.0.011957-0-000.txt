@@ -1,0 +1,11 @@
+./AB267476.xml:  <GBSeq_organism>Flavisolibacter ginsengiterrae</GBSeq_organism>
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./AB278570.xml:  <GBSeq_organism>Chitinophaga terrae Kim and Jung 2007</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./AB267477.xml:  <GBSeq_organism>Flavisolibacter ginsengisoli</GBSeq_organism>
+./D12657.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./EF592808.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./EU854577.xml:  <GBSeq_organism>Flavihumibacter petaseus NBRC 106054</GBSeq_organism>
+./DQ244076.xml:  <GBSeq_organism>Niastella yeongjuensis</GBSeq_organism>

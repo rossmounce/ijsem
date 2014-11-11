@@ -1,0 +1,19 @@
+./D78478.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./X55060.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./X60623.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./X60637.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF071856.xml:  <GBSeq_organism>Bacillus siralis</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./AY667495.xml:  <GBSeq_organism>Bacillus seohaeanensis</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./X60601.xml:  <GBSeq_organism>Bacillus lentus</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./D78312.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AJ504797.xml:  <GBSeq_organism>Bacillus aeolius</GBSeq_organism>
+./U49080.xml:  <GBSeq_organism>Bacillus sporothermodurans</GBSeq_organism>
+./AB099708.xml:  <GBSeq_organism>Bacillus vietnamensis</GBSeq_organism>
+./X60629.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AJ250318.xml:  <GBSeq_organism>Bacillus shackletonii</GBSeq_organism>

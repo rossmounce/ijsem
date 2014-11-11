@@ -1,0 +1,25 @@
+./AB184203.xml:  <GBSeq_organism>Streptomyces globisporus subsp. globisporus</GBSeq_organism>
+./AB184547.xml:  <GBSeq_organism>Streptomyces purpureus</GBSeq_organism>
+./AY999783.xml:  <GBSeq_organism>Streptomyces badius</GBSeq_organism>
+./AY999894.xml:  <GBSeq_organism>Streptomyces pratensis</GBSeq_organism>
+./EU526954.xml:  <GBSeq_organism>Streptomyces plumbiresistens</GBSeq_organism>
+./AB184666.xml:  <GBSeq_organism>Streptomyces gobitricini</GBSeq_organism>
+./AB184755.xml:  <GBSeq_organism>Streptomyces californicus</GBSeq_organism>
+./AB249931.xml:  <GBSeq_organism>Streptomyces flavovariabilis</GBSeq_organism>
+./AY999784.xml:  <GBSeq_organism>Streptomyces fimicarius</GBSeq_organism>
+./AB184756.xml:  <GBSeq_organism>Streptomyces parvus</GBSeq_organism>
+./AB184759.xml:  <GBSeq_organism>Streptomyces sindenensis</GBSeq_organism>
+./AF346475.xml:  <GBSeq_organism>Streptomyces cyaneus</GBSeq_organism>
+./AB249958.xml:  <GBSeq_organism>Streptomyces albovinaceus</GBSeq_organism>
+./AB184208.xml:  <GBSeq_organism>Streptomyces ciscaucasicus</GBSeq_organism>
+./AB184240.xml:  <GBSeq_organism>Streptomyces rubiginosohelvolus</GBSeq_organism>
+./M76388.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AB184266.xml:  <GBSeq_organism>Streptomyces cinnabarinus</GBSeq_organism>
+./AB184162.xml:  <GBSeq_organism>Streptomyces pluricolorescens</GBSeq_organism>
+./AY999770.xml:  <GBSeq_organism>Streptomyces cyaneofuscatus</GBSeq_organism>
+./AY550275.xml:  <GBSeq_organism>Streptomyces sundarbansensis</GBSeq_organism>
+./AB184217.xml:  <GBSeq_organism>Streptomyces lavendofoliae</GBSeq_organism>
+./AB184184.xml:  <GBSeq_organism>Streptomyces antibioticus JCM 4620</GBSeq_organism>
+./AB184163.xml:  <GBSeq_organism>Streptomyces puniceus</GBSeq_organism>
+./AB184276.xml:  <GBSeq_organism>Streptomyces griseorubiginosus</GBSeq_organism>
+./AB184656.xml:  <GBSeq_organism>Streptomyces floridae</GBSeq_organism>

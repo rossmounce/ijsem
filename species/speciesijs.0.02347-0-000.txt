@@ -1,0 +1,10 @@
+./AF311702.xml:  <GBSeq_organism>Atrispinum acarne</GBSeq_organism>
+./AB023242.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. mesenteroides</GBSeq_organism>
+./AF308146.xml:  <GBSeq_organism>Lactobacillus ingluviei</GBSeq_organism>
+./AF308147.xml:  <GBSeq_organism>Lactobacillus ingluviei</GBSeq_organism>
+./M58802.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./M58808.xml:  <GBSeq_organism>Lactobacillus aviarius</GBSeq_organism>
+./M59054.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AF126738.xml:  <GBSeq_organism>Lactobacillus mucosae</GBSeq_organism>
+./L23507.xml:  <GBSeq_organism>Lactobacillus reuteri</GBSeq_organism>
+./M58819.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>

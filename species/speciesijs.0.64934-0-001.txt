@@ -1,0 +1,25 @@
+./AJ399485.xml:  <GBSeq_organism>Streptomyces arenae</GBSeq_organism>
+./AB184869.xml:  <GBSeq_organism>Streptomyces bambergiensis</GBSeq_organism>
+./AB184580.xml:  <GBSeq_organism>Streptomyces longwoodensis</GBSeq_organism>
+./AB184231.xml:  <GBSeq_organism>Streptomyces platensis</GBSeq_organism>
+./AB249968.xml:  <GBSeq_organism>Streptomyces prasinopilosus</GBSeq_organism>
+./AB184248.xml:  <GBSeq_organism>Streptomyces fumigatiscleroticus</GBSeq_organism>
+./AB184696.xml:  <GBSeq_organism>Streptomyces bungoensis</GBSeq_organism>
+./AY999826.xml:  <GBSeq_organism>Streptomyces sclerotialus</GBSeq_organism>
+./AB184437.xml:  <GBSeq_organism>Streptomyces poonensis</GBSeq_organism>
+./AB184410.xml:  <GBSeq_organism>Streptomyces regensis</GBSeq_organism>
+./AB184798.xml:  <GBSeq_organism>Streptomyces rameus</GBSeq_organism>
+./AB249933.xml:  <GBSeq_organism>Streptomyces sporocinereus</GBSeq_organism>
+./AB184639.xml:  <GBSeq_organism>Streptomyces atrovirens</GBSeq_organism>
+./AB184844.xml:  <GBSeq_organism>Streptomyces hirsutus</GBSeq_organism>
+./AB184161.xml:  <GBSeq_organism>Streptomyces pilosus</GBSeq_organism>
+./AB184201.xml:  <GBSeq_organism>Streptomyces galbus</GBSeq_organism>
+./AB184882.xml:  <GBSeq_organism>Streptomyces cyanoalbus</GBSeq_organism>
+./AB184671.xml:  <GBSeq_organism>Streptomyces libani subsp. rufus</GBSeq_organism>
+./AB184846.xml:  <GBSeq_organism>Streptomyces prasinus</GBSeq_organism>
+./AB184479.xml:  <GBSeq_organism>Streptomyces glebosus</GBSeq_organism>
+./AB184316.xml:  <GBSeq_organism>Streptomyces violarus</GBSeq_organism>
+./AB184640.xml:  <GBSeq_organism>Streptomyces caniferus</GBSeq_organism>
+./AB184385.xml:  <GBSeq_organism>Streptomyces capoamus</GBSeq_organism>
+./AB184597.xml:  <GBSeq_organism>Streptomyces kunmingensis</GBSeq_organism>
+./DQ462649.xml:  <GBSeq_organism>Streptomyces emeiensis</GBSeq_organism>

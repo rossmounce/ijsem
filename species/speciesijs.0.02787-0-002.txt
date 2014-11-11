@@ -1,0 +1,25 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./X82931.xml:  <GBSeq_organism>Sulfurospirillum multivorans DSM 12446</GBSeq_organism>
+./M65012.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./L14624.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./AF357198.xml:  <GBSeq_organism>Sulfurospirillum sp. Am-N</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./AJ309654.xml:  <GBSeq_organism>epsilon proteobacterium AM1115</GBSeq_organism>
+./AB105049.xml:  <GBSeq_organism>Balnearium lithotrophicum</GBSeq_organism>
+./U41564.xml:  <GBSeq_organism>Sulfurospirillum barnesii SES-3</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./L35520.xml:  <GBSeq_organism>Alvinella pompejana epibiont</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./U01330.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AF367483.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./L35521.xml:  <GBSeq_organism>Alvinella pompejana epibiont</GBSeq_organism>
+./AF367485.xml:  <GBSeq_organism>uncultured epsilon proteobacterium</GBSeq_organism>
+./AF357197.xml:  <GBSeq_organism>Nautilia profundicola AmH</GBSeq_organism>
+./AF053752.xml:  <GBSeq_organism>Desulfovibrio burkinensis</GBSeq_organism>
+./AF357196.xml:  <GBSeq_organism>epsilon proteobacterium 18.2</GBSeq_organism>
+./AF357199.xml:  <GBSeq_organism>Sulfurospirillum sp. 18.1</GBSeq_organism>
+./AF068786.xml:  <GBSeq_organism>uncultured bacterium VC2.1 Bac4</GBSeq_organism>
+./AF299121.xml:  <GBSeq_organism>uncultured bacterium S17sBac16</GBSeq_organism>
+./U29081.xml:  <GBSeq_organism>Rimicaris exoculata ectosymbiont</GBSeq_organism>

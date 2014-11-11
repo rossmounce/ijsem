@@ -1,0 +1,6 @@
+./U14930.xml:  <GBSeq_organism>Brachyspira hyodysenteriae</GBSeq_organism>
+./AY312492.xml:  <GBSeq_organism>Brachyspira murdochii DSM 12563</GBSeq_organism>
+./U23030.xml:  <GBSeq_organism>Brachyspira alvinipulli</GBSeq_organism>
+./AY155458.xml:  <GBSeq_organism>Brachyspira pilosicoli P43/6/78</GBSeq_organism>
+./U14920.xml:  <GBSeq_organism>Brachyspira innocens</GBSeq_organism>
+./U23033.xml:  <GBSeq_organism>swine intestinal spirochete</GBSeq_organism>

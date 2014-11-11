@@ -1,0 +1,15 @@
+./FJ230802.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB093485.xml:  <GBSeq_organism>Hapalosiphon sp. IAM M-264</GBSeq_organism>
+./AB093484.xml:  <GBSeq_organism>Hapalosiphon delicatulus IAM M-266</GBSeq_organism>
+./AY034793.xml:  <GBSeq_organism>Hapalosiphon welwitschii</GBSeq_organism>
+./AY874099.xml:  <GBSeq_organism>uncultured Symphyonemopsis sp.</GBSeq_organism>
+./AJ544078.xml:  <GBSeq_organism>Hapalosiphon sp. 804-1</GBSeq_organism>
+./HM748318.xml:  <GBSeq_organism>Loriellopsis cavernicola LF-B5</GBSeq_organism>
+./AY163573.xml:  <GBSeq_organism>Acaryochloris marina MBIC11017</GBSeq_organism>
+./AJ544085.xml:  <GBSeq_organism>Symphyonemopsis sp. VAPOR1</GBSeq_organism>
+./EU151900.xml:  <GBSeq_organism>Hapalosiphon hibernicus BZ-3-1</GBSeq_organism>
+./EF032780.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./EF032787.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./DQ431003.xml:  <GBSeq_organism>Mastigocladus laminosus Greenland_8</GBSeq_organism>
+./HM748317.xml:  <GBSeq_organism>Iphinoe spelaeobios LO2-B1</GBSeq_organism>
+./AJ544222.xml:  <GBSeq_organism>Westiellopsis sp. 89-785/4</GBSeq_organism>

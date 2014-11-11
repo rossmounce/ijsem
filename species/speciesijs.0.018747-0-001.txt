@@ -1,0 +1,9 @@
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AJ278780.xml:  <GBSeq_organism>Leeuwenhoekiella aequorea</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AB198086.xml:  <GBSeq_organism>Dokdonia genika</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>

@@ -1,0 +1,28 @@
+./DQ303457.xml:  <GBSeq_organism>Desulfoglaeba alkanexedens ALDC</GBSeq_organism>
+./AF141328.xml:  <GBSeq_organism>sulfate-reducing bacterium AK-01</GBSeq_organism>
+./AF468969.xml:  <GBSeq_organism>delta proteobacterium S2552</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./AY493562.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./L27426.xml:  <GBSeq_organism>Desulfacinum infernum</GBSeq_organism>
+./AF148141.xml:  <GBSeq_organism>delta proteobacterium S2550</GBSeq_organism>
+./Y17501.xml:  <GBSeq_organism>delta proteobacterium Pnd3</GBSeq_organism>
+./X83274.xml:  <GBSeq_organism>Desulforhabdus amnigena</GBSeq_organism>
+./X96726.xml:  <GBSeq_organism>Thermodesulfovibrio islandicus</GBSeq_organism>
+./M34407.xml:  <GBSeq_organism>Desulfosarcina variabilis</GBSeq_organism>
+./Y17698.xml:  <GBSeq_organism>Desulfococcus oleovorans Hxd3</GBSeq_organism>
+./X85131.xml:  <GBSeq_organism>Syntrophus buswellii</GBSeq_organism>
+./AF418173.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AF385080.xml:  <GBSeq_organism>Desulfacinum subterraneum</GBSeq_organism>
+./X82875.xml:  <GBSeq_organism>Syntrophobacter pfennigii</GBSeq_organism>
+./AF170417.xml:  <GBSeq_organism>Desulfacinum hydrothermale</GBSeq_organism>
+./X70905.xml:  <GBSeq_organism>Syntrophobacter wolinii</GBSeq_organism>
+./AY184360.xml:  <GBSeq_organism>Desulfatibacillum aliphaticivorans</GBSeq_organism>
+./M26635.xml:  <GBSeq_organism>Desulfomonile tiedjei</GBSeq_organism>
+./DQ303458.xml:  <GBSeq_organism>Desulfoglaeba sp. Lake</GBSeq_organism>
+./U45990.xml:  <GBSeq_organism>Desulfonema limicola str. Jadebusen</GBSeq_organism>
+./AY493563.xml:  <GBSeq_organism>sulfate-reducing bacterium PF2802</GBSeq_organism>
+./X82874.xml:  <GBSeq_organism>Syntrophobacter fumaroxidans MPOB</GBSeq_organism>
+./AF170418.xml:  <GBSeq_organism>Desulfacinum sp. M40/2 CIV-2.3</GBSeq_organism>
+./M26633.xml:  <GBSeq_organism>Desulfobacter postgatei</GBSeq_organism>
+./X80922.xml:  <GBSeq_organism>Desulfothermus naphthae</GBSeq_organism>
+./U25627.xml:  <GBSeq_organism>Thermodesulforhabdus norvegica</GBSeq_organism>

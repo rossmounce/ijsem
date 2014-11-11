@@ -1,0 +1,13 @@
+./AB473554.xml:  <GBSeq_organism>Streptomyces marinus</GBSeq_organism>
+./AY999901.xml:  <GBSeq_organism>Streptomyces albiaxialis</GBSeq_organism>
+./AB184258.xml:  <GBSeq_organism>Streptomyces almquistii</GBSeq_organism>
+./AB184663.xml:  <GBSeq_organism>Streptomyces gibsonii</GBSeq_organism>
+./AB473556.xml:  <GBSeq_organism>Streptomyces haliclonae</GBSeq_organism>
+./AY262826.xml:  <GBSeq_organism>Streptomyces ferralitis</GBSeq_organism>
+./AB184420.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AB184115.xml:  <GBSeq_organism>Streptomyces cacaoi subsp. cacaoi</GBSeq_organism>
+./AJ781346.xml:  <GBSeq_organism>Streptomyces lilacinus</GBSeq_organism>
+./AB249942.xml:  <GBSeq_organism>Streptomyces yogyakartensis</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./AB249940.xml:  <GBSeq_organism>Streptomyces javensis</GBSeq_organism>
+./AJ781366.xml:  <GBSeq_organism>Streptomyces rangoonensis</GBSeq_organism>

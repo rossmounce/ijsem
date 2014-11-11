@@ -1,0 +1,17 @@
+./M58807.xml:  <GBSeq_organism>Lactobacillus animalis</GBSeq_organism>
+./M58824.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF089108.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./M58808.xml:  <GBSeq_organism>Lactobacillus aviarius</GBSeq_organism>
+./AB162131.xml:  <GBSeq_organism>Lactobacillus nagelii</GBSeq_organism>
+./D79210.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AJ621554.xml:  <GBSeq_organism>Lactobacillus murinus</GBSeq_organism>
+./AY255802.xml:  <GBSeq_organism>Lactobacillus saerimneri</GBSeq_organism>
+./AB154519.xml:  <GBSeq_organism>Lactobacillus satsumensis</GBSeq_organism>
+./AB267406.xml:  <GBSeq_organism>Lactobacillus hayakitensis</GBSeq_organism>
+./AM292799.xml:  <GBSeq_organism>Lactobacillus ceti DSM 22408</GBSeq_organism>
+./AB023836.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>
+./AM905389.xml:  <GBSeq_organism>Lactobacillus cacaonum</GBSeq_organism>
+./M58803.xml:  <GBSeq_organism>Lactobacillus agilis</GBSeq_organism>
+./M58828.xml:  <GBSeq_organism>Lactobacillus ruminis</GBSeq_organism>
+./AJ871178.xml:  <GBSeq_organism>Lactobacillus apodemi</GBSeq_organism>

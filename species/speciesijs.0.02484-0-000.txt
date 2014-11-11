@@ -1,0 +1,14 @@
+./M58807.xml:  <GBSeq_organism>Lactobacillus animalis</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./X54271.xml:  <GBSeq_organism>Carnobacterium mobile</GBSeq_organism>
+./AF124041.xml:  <GBSeq_organism>bacterium #1 from Psoroptes ovis</GBSeq_organism>
+./M58797.xml:  <GBSeq_organism>Aerococcus viridans ATCC 11563</GBSeq_organism>
+./X87150.xml:  <GBSeq_organism>Trichococcus pasteurii</GBSeq_organism>
+./D50540.xml:  <GBSeq_organism>Granulicatella adiacens</GBSeq_organism>
+./Y17780.xml:  <GBSeq_organism>Eremococcus coleocola</GBSeq_organism>
+./Y10772.xml:  <GBSeq_organism>Facklamia hominis</GBSeq_organism>
+./AF124034.xml:  <GBSeq_organism>bacterium #1 from Psoroptes ovis</GBSeq_organism>
+./Y16426.xml:  <GBSeq_organism>Ignavigranum ruoffiae</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./D50541.xml:  <GBSeq_organism>Abiotrophia defectiva ATCC 49176</GBSeq_organism>

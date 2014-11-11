@@ -1,0 +1,15 @@
+./AF005017.xml:  <GBSeq_organism>Nocardioides fulvus</GBSeq_organism>
+./AM422451.xml:  <GBSeq_organism>Jiangella alkaliphila</GBSeq_organism>
+./AF005022.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AF005020.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./EF601829.xml:  <GBSeq_organism>Actinopolymorpha rutila</GBSeq_organism>
+./FJ157186.xml:  <GBSeq_organism>Jiangella alba</GBSeq_organism>
+./AM295338.xml:  <GBSeq_organism>Marmoricola aequoreus</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./EF468120.xml:  <GBSeq_organism>Lamprotornis mevesii</GBSeq_organism>
+./Y18629.xml:  <GBSeq_organism>Marmoricola aurantiacus</GBSeq_organism>
+./AF005021.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./EU438909.xml:  <GBSeq_organism>Actinopolymorpha cephalotaxi</GBSeq_organism>
+./FJ805430.xml:  <GBSeq_organism>Flindersiella endophytica</GBSeq_organism>
+./EU706350.xml:  <GBSeq_organism>Actinopolymorpha alba</GBSeq_organism>
+./X69973.xml:  <GBSeq_organism>Nocardioides plantarum</GBSeq_organism>

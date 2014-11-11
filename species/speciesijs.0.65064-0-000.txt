@@ -1,0 +1,8 @@
+./D85483.xml:  <GBSeq_organism>Glycomyces harbinensis</GBSeq_organism>
+./AY462042.xml:  <GBSeq_organism>Glycomyces arizonensis</GBSeq_organism>
+./DQ460469.xml:  <GBSeq_organism>Glycomyces sambucus</GBSeq_organism>
+./AY462041.xml:  <GBSeq_organism>Glycomyces lechevalierae</GBSeq_organism>
+./D85482.xml:  <GBSeq_organism>Glycomyces tenuis DSM 44171</GBSeq_organism>
+./D85484.xml:  <GBSeq_organism>Glycomyces rutgersensis</GBSeq_organism>
+./AY462044.xml:  <GBSeq_organism>Glycomyces algeriensis</GBSeq_organism>
+./AY650268.xml:  <GBSeq_organism>Stackebrandtia nassauensis DSM 44728</GBSeq_organism>

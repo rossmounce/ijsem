@@ -1,0 +1,17 @@
+./L14326.xml:  <GBSeq_organism>Gemella haemolysans</GBSeq_organism>
+./Y13364.xml:  <GBSeq_organism>Gemella sanguinis</GBSeq_organism>
+./M77819.xml:  <GBSeq_organism>Aerococcus urinae</GBSeq_organism>
+./D83372.xml:  <GBSeq_organism>Staphylococcus schleiferi</GBSeq_organism>
+./AJ251987.xml:  <GBSeq_organism>Gemella cuniculi DSM 15828</GBSeq_organism>
+./D83365.xml:  <GBSeq_organism>Staphylococcus felis</GBSeq_organism>
+./Y17280.xml:  <GBSeq_organism>Gemella palaticanis</GBSeq_organism>
+./M58797.xml:  <GBSeq_organism>Aerococcus viridans ATCC 11563</GBSeq_organism>
+./D50540.xml:  <GBSeq_organism>Granulicatella adiacens</GBSeq_organism>
+./D83369.xml:  <GBSeq_organism>Staphylococcus intermedius NCTC 11048</GBSeq_organism>
+./L14327.xml:  <GBSeq_organism>Gemella morbillorum</GBSeq_organism>
+./Y10772.xml:  <GBSeq_organism>Facklamia hominis</GBSeq_organism>
+./EU427463.xml:  <GBSeq_organism>Gemella asaccharolytica</GBSeq_organism>
+./D83368.xml:  <GBSeq_organism>Staphylococcus hyicus</GBSeq_organism>
+./D83366.xml:  <GBSeq_organism>Staphylococcus gallinarum</GBSeq_organism>
+./Y13365.xml:  <GBSeq_organism>Gemella bergeri</GBSeq_organism>
+./D50541.xml:  <GBSeq_organism>Abiotrophia defectiva ATCC 49176</GBSeq_organism>

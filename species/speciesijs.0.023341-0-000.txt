@@ -1,0 +1,6 @@
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./AB194046.xml:  <GBSeq_organism>Piscibacillus salipiscarius JCM 13188</GBSeq_organism>
+./AY319933.xml:  <GBSeq_organism>Tenuibacillus multivorans</GBSeq_organism>
+./FJ347755.xml:  <GBSeq_organism>Allobacillus halotolerans</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>

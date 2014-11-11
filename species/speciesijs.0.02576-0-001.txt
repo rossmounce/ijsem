@@ -1,0 +1,14 @@
+./Y08828.xml:  <GBSeq_organism>Actinomyces europaeus</GBSeq_organism>
+./X81061.xml:  <GBSeq_organism>Actinomyces bovis</GBSeq_organism>
+./X81062.xml:  <GBSeq_organism>Actinomyces naeslundii</GBSeq_organism>
+./AJ234066.xml:  <GBSeq_organism>Actinomyces slackii</GBSeq_organism>
+./AJ251986.xml:  <GBSeq_organism>Actinomyces radicidentis</GBSeq_organism>
+./AJ507295.xml:  <GBSeq_organism>Actinomyces oricola</GBSeq_organism>
+./AJ249328.xml:  <GBSeq_organism>Actinomyces catuli</GBSeq_organism>
+./AJ234039.xml:  <GBSeq_organism>Actinomyces bowdenii</GBSeq_organism>
+./AJ243791.xml:  <GBSeq_organism>Actinomyces urogenitalis</GBSeq_organism>
+./Y09589.xml:  <GBSeq_organism>Actinomyces graevenitzii</GBSeq_organism>
+./AJ234067.xml:  <GBSeq_organism>Actinomyces slackii</GBSeq_organism>
+./X82453.xml:  <GBSeq_organism>Actinomyces viscosus</GBSeq_organism>
+./X80412.xml:  <GBSeq_organism>Actinomyces denticolens</GBSeq_organism>
+./X82450.xml:  <GBSeq_organism>Actinomyces israelii</GBSeq_organism>

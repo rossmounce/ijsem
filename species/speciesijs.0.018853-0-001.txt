@@ -1,0 +1,14 @@
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./Z29583.xml:  <GBSeq_organism>Niveispirillum irakense</GBSeq_organism>
+./Z29616.xml:  <GBSeq_organism>Nitrospirillum amazonense</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./EU678791.xml:  <GBSeq_organism>Azospirillum thiophilum</GBSeq_organism>
+./X79739.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./AM419042.xml:  <GBSeq_organism>Azospirillum rugosum</GBSeq_organism>
+./AM922283.xml:  <GBSeq_organism>Azospirillum picis</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./X79731.xml:  <GBSeq_organism>Azospirillum halopraeferens</GBSeq_organism>
+./X90759.xml:  <GBSeq_organism>Azospirillum largimobile</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>

@@ -1,0 +1,8 @@
+./AJ307888.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./AF335572.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./AY232833.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./AF009477.xml:  <GBSeq_organism>Streptococcus suis</GBSeq_organism>
+./AY232832.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./AJ301831.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./Y17358.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./AJ409287.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>

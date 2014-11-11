@@ -1,0 +1,11 @@
+./L16496.xml:  <GBSeq_organism>Odoribacter splanchnicus</GBSeq_organism>
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./L16485.xml:  <GBSeq_organism>Bacteroides eggerthii</GBSeq_organism>
+./X83953.xml:  <GBSeq_organism>Bacteroides stercoris ATCC 43183</GBSeq_organism>
+./M86695.xml:  <GBSeq_organism>Parabacteroides distasonis</GBSeq_organism>
+./AY570690.xml:  <GBSeq_organism>Petrimonas sulfuriphila</GBSeq_organism>
+./L16497.xml:  <GBSeq_organism>Alistipes putredinis</GBSeq_organism>
+./M62791.xml:  <GBSeq_organism>Prosthecochloris vibrioformis</GBSeq_organism>
+./AJ488088.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./X83954.xml:  <GBSeq_organism>Parabacteroides merdae ATCC 43184</GBSeq_organism>

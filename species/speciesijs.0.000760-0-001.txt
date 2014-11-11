@@ -1,0 +1,68 @@
+./AF547815.xml:  <GBSeq_organism>Mycobacterium branderi</GBSeq_organism>
+./AY544838.xml:  <GBSeq_organism>Mycobacterium kansasii</GBSeq_organism>
+./AY544922.xml:  <GBSeq_organism>Mycobacterium heckeshornense</GBSeq_organism>
+./AF057494.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./AY544845.xml:  <GBSeq_organism>Mycobacterium marinum</GBSeq_organism>
+./AF547879.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./AY544981.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AY544805.xml:  <GBSeq_organism>Mycobacterium bohemicum</GBSeq_organism>
+./AF480574.xml:  <GBSeq_organism>Mycobacterium branderi</GBSeq_organism>
+./AY544841.xml:  <GBSeq_organism>Mycobacterium lacus</GBSeq_organism>
+./AY544895.xml:  <GBSeq_organism>Mycobacterium branderi</GBSeq_organism>
+./AF547836.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./AF430019.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./X52925.xml:  <GBSeq_organism>Mycobacterium terrae</GBSeq_organism>
+./AY544867.xml:  <GBSeq_organism>Mycobacterium szulgai</GBSeq_organism>
+./AY943182.xml:  <GBSeq_organism>Mycobacterium parmense</GBSeq_organism>
+./AY438090.xml:  <GBSeq_organism>Mycobacterium lacus</GBSeq_organism>
+./AF547874.xml:  <GBSeq_organism>Mycobacterium shimoidei</GBSeq_organism>
+./AY544876.xml:  <GBSeq_organism>Mycobacterium ulcerans</GBSeq_organism>
+./AY544875.xml:  <GBSeq_organism>Mycobacterium tuberculosis subsp. tuberculosis</GBSeq_organism>
+./AY544863.xml:  <GBSeq_organism>Mycobacterium shimoidei</GBSeq_organism>
+./AY943181.xml:  <GBSeq_organism>Mycobacterium parascrofulaceum</GBSeq_organism>
+./X88924.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./AF480598.xml:  <GBSeq_organism>Mycobacterium cookii</GBSeq_organism>
+./AY544814.xml:  <GBSeq_organism>Mycobacterium conspicuum</GBSeq_organism>
+./AB370178.xml:  <GBSeq_organism>Mycobacterium kyorinense</GBSeq_organism>
+./AY544897.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./AF547812.xml:  <GBSeq_organism>Mycobacterium botniense</GBSeq_organism>
+./AY544835.xml:  <GBSeq_organism>Mycobacterium interjectum</GBSeq_organism>
+./AF547817.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./AY544806.xml:  <GBSeq_organism>Mycobacterium botniense</GBSeq_organism>
+./AY544937.xml:  <GBSeq_organism>Mycobacterium kubicae</GBSeq_organism>
+./AY544830.xml:  <GBSeq_organism>Mycobacterium heckeshornense</GBSeq_organism>
+./AJ536037.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./AF547861.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>
+./AY544979.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./AY943183.xml:  <GBSeq_organism>Mycobacterium saskatchewanense</GBSeq_organism>
+./AY544887.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./DQ168662.xml:  <GBSeq_organism>Mycobacterium arupense</GBSeq_organism>
+./AY544810.xml:  <GBSeq_organism>Mycobacterium branderi</GBSeq_organism>
+./X67096.xml:  <GBSeq_organism>Mycobacterium hiberniae</GBSeq_organism>
+./AF547849.xml:  <GBSeq_organism>Mycobacterium kansasii</GBSeq_organism>
+./AF174290.xml:  <GBSeq_organism>Mycobacterium heckeshornense</GBSeq_organism>
+./X82459.xml:  <GBSeq_organism>Mycobacterium shimoidei</GBSeq_organism>
+./AY544928.xml:  <GBSeq_organism>Mycobacterium interjectum</GBSeq_organism>
+./AY544971.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./AY756513.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AY544903.xml:  <GBSeq_organism>Mycobacterium conspicuum</GBSeq_organism>
+./AB370184.xml:  <GBSeq_organism>Mycobacterium kyorinense</GBSeq_organism>
+./AY544878.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./AY544891.xml:  <GBSeq_organism>Mycobacterium botniense</GBSeq_organism>
+./AJ536033.xml:  <GBSeq_organism>Mycobacterium xenopi</GBSeq_organism>
+./AY544812.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./AF547885.xml:  <GBSeq_organism>Mycobacterium tuberculosis subsp. tuberculosis</GBSeq_organism>
+./AY438083.xml:  <GBSeq_organism>Mycobacterium hiberniae</GBSeq_organism>
+./AB370111.xml:  <GBSeq_organism>Mycobacterium kyorinense</GBSeq_organism>
+./AY544904.xml:  <GBSeq_organism>Mycobacterium cookii</GBSeq_organism>
+./AF264700.xml:  <GBSeq_organism>Mycobacterium doricum</GBSeq_organism>
+./AY544825.xml:  <GBSeq_organism>Mycobacterium gastri</GBSeq_organism>
+./L08169.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./AY544906.xml:  <GBSeq_organism>Mycobacterium doricum</GBSeq_organism>
+./DQ157760.xml:  <GBSeq_organism>Mycobacterium arupense</GBSeq_organism>
+./AF547826.xml:  <GBSeq_organism>Mycobacterium doricum</GBSeq_organism>
+./AF547824.xml:  <GBSeq_organism>Mycobacterium cookii</GBSeq_organism>
+./AF547883.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./AY544815.xml:  <GBSeq_organism>Mycobacterium cookii</GBSeq_organism>
+./X52928.xml:  <GBSeq_organism>Mycobacterium nonchromogenicum</GBSeq_organism>
+./AY544962.xml:  <GBSeq_organism>Mycobacterium shimoidei</GBSeq_organism>

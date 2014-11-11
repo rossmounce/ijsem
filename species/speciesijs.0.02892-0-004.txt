@@ -1,0 +1,23 @@
+./Y11316.xml:  <GBSeq_organism>Thiorhodococcus minor</GBSeq_organism>
+./Y12365.xml:  <GBSeq_organism>Allochromatium warmingii</GBSeq_organism>
+./M59150.xml:  <GBSeq_organism>Thermochromatium tepidum ATCC 43061</GBSeq_organism>
+./M26629.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./Y12376.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./AJ002797.xml:  <GBSeq_organism>Thiocapsa pendens</GBSeq_organism>
+./X93472.xml:  <GBSeq_organism>Halochromatium glycolicum</GBSeq_organism>
+./M59151.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./Y12364.xml:  <GBSeq_organism>Thiocapsa roseopersicina</GBSeq_organism>
+./X98597.xml:  <GBSeq_organism>Halochromatium salexigens</GBSeq_organism>
+./Y11315.xml:  <GBSeq_organism>Thiocystis violacea</GBSeq_organism>
+./Y11317.xml:  <GBSeq_organism>Thiocystis gelatinosa</GBSeq_organism>
+./Y12368.xml:  <GBSeq_organism>Thiorhodovibrio winogradskyi</GBSeq_organism>
+./AJ002796.xml:  <GBSeq_organism>Thiohalocapsa halophila</GBSeq_organism>
+./AJ224439.xml:  <GBSeq_organism>Marichromatium purpuratum 984</GBSeq_organism>
+./Y12369.xml:  <GBSeq_organism>Allochromatium minutissimum</GBSeq_organism>
+./M26630.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./Y12373.xml:  <GBSeq_organism>Thiococcus pfennigii</GBSeq_organism>
+./AJ277023.xml:  <GBSeq_organism>Thioalkalicoccus limnaeus</GBSeq_organism>
+./X93473.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./AJ543328.xml:  <GBSeq_organism>Marichromatium indicum</GBSeq_organism>
+./X84316.xml:  <GBSeq_organism>Rhabdochromatium marinum</GBSeq_organism>
+./AJ002798.xml:  <GBSeq_organism>Thiocapsa rosea</GBSeq_organism>

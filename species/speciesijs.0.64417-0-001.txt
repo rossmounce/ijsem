@@ -1,0 +1,17 @@
+./DQ460703.xml:  <GBSeq_organism>Chroococcus turgidus HUW 799</GBSeq_organism>
+./AY423710.xml:  <GBSeq_organism>Geitlerinema carotinosum AICB 37</GBSeq_organism>
+./AJ000715.xml:  <GBSeq_organism>Cyanothece sp. PCC 7424</GBSeq_organism>
+./AF296873.xml:  <GBSeq_organism>Cyanothece sp. PCC 8801</GBSeq_organism>
+./AF132771.xml:  <GBSeq_organism>Cyanothece sp. ATCC 51142</GBSeq_organism>
+./U00096.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. MG1655</GBSeq_organism>
+./AF132782.xml:  <GBSeq_organism>Cyanobacterium stanieri PCC 7202</GBSeq_organism>
+./X94705.xml:  <GBSeq_organism>Merismopedia glauca B1448-1</GBSeq_organism>
+./AJ000724.xml:  <GBSeq_organism>Halothece sp. MPI 96P605</GBSeq_organism>
+./Z82810.xml:  <GBSeq_organism>Pleurocapsa sp. PCC 7327</GBSeq_organism>
+./AF296872.xml:  <GBSeq_organism>Halothece sp. PCC 7418</GBSeq_organism>
+./AJ000712.xml:  <GBSeq_organism>Euhalothece sp. &apos;MPI N303&apos;</GBSeq_organism>
+./AF139322.xml:  <GBSeq_organism>Microcystis aeruginosa</GBSeq_organism>
+./AJ000716.xml:  <GBSeq_organism>Synechococcus sp. PCC 7002</GBSeq_organism>
+./AF132784.xml:  <GBSeq_organism>Gloeocapsa sp. PCC 73106</GBSeq_organism>
+./AJ344557.xml:  <GBSeq_organism>Chroococcidiopsis sp. PCC 6712</GBSeq_organism>
+./AF132783.xml:  <GBSeq_organism>Xenococcus sp. PCC 7305</GBSeq_organism>

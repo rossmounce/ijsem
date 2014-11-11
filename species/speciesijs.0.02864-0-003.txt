@@ -1,0 +1,20 @@
+./M67462.xml:  <GBSeq_organism>Borrelia turicatae</GBSeq_organism>
+./D82849.xml:  <GBSeq_organism>Borrelia turdi</GBSeq_organism>
+./U28498.xml:  <GBSeq_organism>Borrelia hispanica</GBSeq_organism>
+./U26704.xml:  <GBSeq_organism>Borrelia lonestari</GBSeq_organism>
+./AB022129.xml:  <GBSeq_organism>Borrelia sinica</GBSeq_organism>
+./M67461.xml:  <GBSeq_organism>Borrelia parkeri</GBSeq_organism>
+./X75201.xml:  <GBSeq_organism>Borrelia anserina</GBSeq_organism>
+./U28496.xml:  <GBSeq_organism>Borrelia crocidurae</GBSeq_organism>
+./AY024344.xml:  <GBSeq_organism>Borrelia sp. LB-2001</GBSeq_organism>
+./D82860.xml:  <GBSeq_organism>Borrelia miyamotoi</GBSeq_organism>
+./AF264901.xml:  <GBSeq_organism>Candidatus Borrelia texasensis</GBSeq_organism>
+./D63365.xml:  <GBSeq_organism>Borrelia afzelii</GBSeq_organism>
+./D86618.xml:  <GBSeq_organism>Borrelia recurrentis A1</GBSeq_organism>
+./X16833.xml:  <GBSeq_organism>Borrelia burgdorferi</GBSeq_organism>
+./M86838.xml:  <GBSeq_organism>Borrelia hermsii</GBSeq_organism>
+./D82857.xml:  <GBSeq_organism>Borrelia sp.</GBSeq_organism>
+./D82859.xml:  <GBSeq_organism>Borrelia duttonii</GBSeq_organism>
+./D82854.xml:  <GBSeq_organism>Borrelia sp.</GBSeq_organism>
+./D82864.xml:  <GBSeq_organism>Borrelia coriaceae</GBSeq_organism>
+./U28499.xml:  <GBSeq_organism>Borrelia sp. strain Spain</GBSeq_organism>

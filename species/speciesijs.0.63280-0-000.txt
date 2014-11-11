@@ -1,0 +1,4 @@
+./AB126880.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>
+./M59056.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./X80592.xml:  <GBSeq_organism>Nocardia seriolae</GBSeq_organism>
+./AB126881.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>

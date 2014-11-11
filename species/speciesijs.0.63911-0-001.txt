@@ -1,0 +1,33 @@
+./AJ294386.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AY785335.xml:  <GBSeq_organism>Phyllobacterium brassicacearum</GBSeq_organism>
+./AY785349.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./AY785333.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AY785355.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./AY785337.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./AY785353.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ294400.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AY785348.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AJ294402.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AJ294409.xml:  <GBSeq_organism>Mycoplana ramosa</GBSeq_organism>
+./AJ294398.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./AJ294404.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AJ294391.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AY785338.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./AY785351.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AJ294403.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AY785339.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./AJ294393.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AJ294392.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AJ294408.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AY785350.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AJ294387.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AJ294405.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AJ294394.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AY785352.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AY785354.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ294399.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AJ294397.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AJ294406.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ294395.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AY785334.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./AJ294401.xml:  <GBSeq_organism>Sinorhizobium medicae</GBSeq_organism>

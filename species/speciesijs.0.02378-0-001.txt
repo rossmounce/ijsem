@@ -1,0 +1,17 @@
+./u95027.xml:  <GBSeq_organism>Megasphaera elsdenii DSM 20460</GBSeq_organism>
+./M26493.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./L37040.xml:  <GBSeq_organism>Megasphaera cerevisiae</GBSeq_organism>
+./AF287783.xml:  <GBSeq_organism>Megasphaera sp. oral clone BB166</GBSeq_organism>
+./AF473833.xml:  <GBSeq_organism>Megasphaera micronuciformis</GBSeq_organism>
+./AY038995.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./AF283705.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./AF287785.xml:  <GBSeq_organism>Megasphaera sp. oral clone BS073</GBSeq_organism>
+./U95029.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./AF338413.xml:  <GBSeq_organism>Anaeroglobus geminatus</GBSeq_organism>
+./AF385566.xml:  <GBSeq_organism>Candidatus Megasphaera micronuciformis</GBSeq_organism>
+./AF371696.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./U95028.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./AY038996.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./AY038994.xml:  <GBSeq_organism>Megasphaera elsdenii</GBSeq_organism>
+./AJ409007.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF473834.xml:  <GBSeq_organism>Megasphaera micronuciformis</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AJ414655.xml:  <GBSeq_organism>Methylobacter tundripaludum SV96</GBSeq_organism>
+./AF304194.xml:  <GBSeq_organism>Methylomonas rubra</GBSeq_organism>
+./AJ581837.xml:  <GBSeq_organism>Methylohalobius crimeensis 10Ki</GBSeq_organism>
+./U89300.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./AB501287.xml:  <GBSeq_organism>Methylovulum miyakonense HT12</GBSeq_organism>
+./X72771.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./AF177296.xml:  <GBSeq_organism>Methylosarcina fibrata AML-C10</GBSeq_organism>
+./AF304196.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./X72773.xml:  <GBSeq_organism>Methylobacter whittenburyi</GBSeq_organism>
+./X72777.xml:  <GBSeq_organism>Methylomicrobium album BG8</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./D89279.xml:  <GBSeq_organism>Methylomicrobium japanense</GBSeq_organism>
+./U67929.xml:  <GBSeq_organism>Methylosphaera hansonii</GBSeq_organism>

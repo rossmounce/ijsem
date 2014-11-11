@@ -1,0 +1,12 @@
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./AJ310082.xml:  <GBSeq_organism>[Clostridium] stercorarium</GBSeq_organism>
+./L09177.xml:  <GBSeq_organism>[Clostridium] cellulosi</GBSeq_organism>
+./X68178.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X71846.xml:  <GBSeq_organism>[Clostridium] aldrichii</GBSeq_organism>
+./X71854.xml:  <GBSeq_organism>[Clostridium] termitidis</GBSeq_organism>
+./X71852.xml:  <GBSeq_organism>[Clostridium] papyrosolvens DSM 2782</GBSeq_organism>
+./AB125279.xml:  <GBSeq_organism>[Clostridium] straminisolvens</GBSeq_organism>
+./L35516.xml:  <GBSeq_organism>Acetivibrio cellulolyticus</GBSeq_organism>
+./X71856.xml:  <GBSeq_organism>[Clostridium] cellobioparum DSM 1351 = ATCC 15832</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./X71847.xml:  <GBSeq_organism>Clostridium cellulolyticum H10</GBSeq_organism>

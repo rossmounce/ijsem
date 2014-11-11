@@ -1,0 +1,8 @@
+./AF276306.xml:  <GBSeq_organism>Geobacillus subterraneus</GBSeq_organism>
+./AF326278.xml:  <GBSeq_organism>Geobacillus toebii</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ564616.xml:  <GBSeq_organism>Caldibacillus debilis</GBSeq_organism>
+./X60640.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./X60641.xml:  <GBSeq_organism>Geobacillus thermoglucosidasius</GBSeq_organism>
+./M77488.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF276304.xml:  <GBSeq_organism>Geobacillus uzenensis</GBSeq_organism>

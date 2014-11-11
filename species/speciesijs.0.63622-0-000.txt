@@ -1,0 +1,12 @@
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./AB005656.xml:  <GBSeq_organism>Natronorubrum tibetense</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AJ002949.xml:  <GBSeq_organism>Natrinema pallidum</GBSeq_organism>
+./AY208972.xml:  <GBSeq_organism>Natrinema altunense</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./Y00275.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./AB023426.xml:  <GBSeq_organism>Natrinema versiforme</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./AF262026.xml:  <GBSeq_organism>Natrialba hulunbeirensis</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>

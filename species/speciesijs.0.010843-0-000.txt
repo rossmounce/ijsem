@@ -1,0 +1,15 @@
+./EF527427.xml:  <GBSeq_organism>Geobacter uraniireducens Rf4</GBSeq_organism>
+./EF527234.xml:  <GBSeq_organism>Geobacter sp. Ply4</GBSeq_organism>
+./AY187307.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./AY653549.xml:  <GBSeq_organism>Geobacter psychrophilus</GBSeq_organism>
+./AF223382.xml:  <GBSeq_organism>Geobacter thiogenes</GBSeq_organism>
+./AF335182.xml:  <GBSeq_organism>Geobacter grbiciae</GBSeq_organism>
+./EF527232.xml:  <GBSeq_organism>Geobacter sp. M21</GBSeq_organism>
+./U41561.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./DQ145535.xml:  <GBSeq_organism>Geobacter pickeringii</GBSeq_organism>
+./EU711072.xml:  <GBSeq_organism>Geobacter toluenoxydans JCM 15764</GBSeq_organism>
+./U13928.xml:  <GBSeq_organism>Geobacter sulfurreducens PCA</GBSeq_organism>
+./U96918.xml:  <GBSeq_organism>Geobacter pelophilus</GBSeq_organism>
+./AY187306.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./EU660516.xml:  <GBSeq_organism>Geobacter daltonii FRC-32</GBSeq_organism>
+./L07834.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>

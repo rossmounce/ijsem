@@ -1,0 +1,16 @@
+./AJ492829.xml:  <GBSeq_organism>Pseudomonas poae</GBSeq_organism>
+./AY787208.xml:  <GBSeq_organism>Pseudomonas panacis</GBSeq_organism>
+./AF064459.xml:  <GBSeq_organism>Pseudomonas rhodesiae</GBSeq_organism>
+./AF405328.xml:  <GBSeq_organism>Pseudomonas extremorientalis</GBSeq_organism>
+./AY091527.xml:  <GBSeq_organism>Pseudomonas palleroniana</GBSeq_organism>
+./AF268029.xml:  <GBSeq_organism>Pseudomonas grimontii</GBSeq_organism>
+./AF386080.xml:  <GBSeq_organism>Pseudomonas mediterranea CFBP 5447</GBSeq_organism>
+./AY035996.xml:  <GBSeq_organism>Pseudomonas lini</GBSeq_organism>
+./AF064457.xml:  <GBSeq_organism>Pseudomonas orientalis</GBSeq_organism>
+./AF064460.xml:  <GBSeq_organism>Pseudomonas veronii</GBSeq_organism>
+./AJ537603.xml:  <GBSeq_organism>Pseudomonas proteolytica</GBSeq_organism>
+./AF374472.xml:  <GBSeq_organism>Pseudomonas costantinii</GBSeq_organism>
+./AJ492831.xml:  <GBSeq_organism>Pseudomonas trivialis</GBSeq_organism>
+./AY091528.xml:  <GBSeq_organism>Pseudomonas salomonii</GBSeq_organism>
+./AJ537601.xml:  <GBSeq_organism>Pseudomonas antarctica</GBSeq_organism>
+./AJ537602.xml:  <GBSeq_organism>Pseudomonas meridiana</GBSeq_organism>

@@ -1,0 +1,22 @@
+./AJ583158.xml:  <GBSeq_organism>Bacillus indicus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./X82492.xml:  <GBSeq_organism>Bacillus oleronius</GBSeq_organism>
+./AB245380.xml:  <GBSeq_organism>Bacillus panaciterrae</GBSeq_organism>
+./AY550276.xml:  <GBSeq_organism>Bacillus cibi</GBSeq_organism>
+./X76443.xml:  <GBSeq_organism>Bacillus horikoshii DSM 8719</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./Z84578.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./AY608605.xml:  <GBSeq_organism>Bacillus litoralis</GBSeq_organism>
+./D16281.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./AM050346.xml:  <GBSeq_organism>Vulcanibacillus modesticaldus</GBSeq_organism>
+./AJ419629.xml:  <GBSeq_organism>Bacillus luciferensis</GBSeq_organism>
+./AY667495.xml:  <GBSeq_organism>Bacillus seohaeanensis</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./DQ280367.xml:  <GBSeq_organism>Bacillus kribbensis</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./AY829448.xml:  <GBSeq_organism>Bacillus alkalitelluris</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./AB245377.xml:  <GBSeq_organism>Bacillus pocheonensis</GBSeq_organism>
+./AY667496.xml:  <GBSeq_organism>Bacillus koreensis</GBSeq_organism>
+./AM503357.xml:  <GBSeq_organism>Bacillus isabeliae</GBSeq_organism>

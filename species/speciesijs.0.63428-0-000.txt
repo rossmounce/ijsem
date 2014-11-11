@@ -1,0 +1,25 @@
+./AF235090.xml:  <GBSeq_organism>Arthrobacter methylotrophus</GBSeq_organism>
+./AB071950.xml:  <GBSeq_organism>Arthrobacter russicus</GBSeq_organism>
+./X80737.xml:  <GBSeq_organism>Arthrobacter citreus</GBSeq_organism>
+./X80748.xml:  <GBSeq_organism>Arthrobacter agilis</GBSeq_organism>
+./X80744.xml:  <GBSeq_organism>Arthrobacter ureafaciens</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./AJ316140.xml:  <GBSeq_organism>Arthrobacter gandavensis</GBSeq_organism>
+./X83406.xml:  <GBSeq_organism>Arthrobacter histidinolovorans</GBSeq_organism>
+./X83407.xml:  <GBSeq_organism>Arthrobacter ilicis</GBSeq_organism>
+./AJ640198.xml:  <GBSeq_organism>Arthrobacter stackebrandtii</GBSeq_organism>
+./AJ243422.xml:  <GBSeq_organism>Arthrobacter luteolus</GBSeq_organism>
+./AF102267.xml:  <GBSeq_organism>Arthrobacter chlorophenolicus</GBSeq_organism>
+./AF134179.xml:  <GBSeq_organism>Arthrobacter psychrolactophilus</GBSeq_organism>
+./X87758.xml:  <GBSeq_organism>Rothia mucilaginosa</GBSeq_organism>
+./AY116496.xml:  <GBSeq_organism>Arthrobacter koreensis</GBSeq_organism>
+./X83811.xml:  <GBSeq_organism>Jonesia denitrificans DSM 20603</GBSeq_organism>
+./X80743.xml:  <GBSeq_organism>Arthrobacter nicotinovorans</GBSeq_organism>
+./AJ278870.xml:  <GBSeq_organism>Arthrobacter roseus</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./AF235091.xml:  <GBSeq_organism>Arthrobacter sulfonivorans</GBSeq_organism>
+./X80741.xml:  <GBSeq_organism>Arthrobacter polychromogenes</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./AJ243918.xml:  <GBSeq_organism>Dermatophilus congolensis DSM 44180 = NBRC 105199</GBSeq_organism>
+./X83405.xml:  <GBSeq_organism>Arthrobacter aurescens</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>

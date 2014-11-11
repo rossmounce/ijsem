@@ -1,0 +1,25 @@
+./U45799.xml:  <GBSeq_organism>Candida atlantica</GBSeq_organism>
+./U45789.xml:  <GBSeq_organism>Candida conglobata</GBSeq_organism>
+./U45788.xml:  <GBSeq_organism>Yamadazyma scolyti</GBSeq_organism>
+./U45781.xml:  <GBSeq_organism>Candida friedrichii</GBSeq_organism>
+./FJ008045.xml:  <GBSeq_organism>Candida taylorii</GBSeq_organism>
+./FJ008044.xml:  <GBSeq_organism>Candida spencermartinsiae</GBSeq_organism>
+./U45752.xml:  <GBSeq_organism>Candida viswanathii</GBSeq_organism>
+./U45778.xml:  <GBSeq_organism>Candida buinensis</GBSeq_organism>
+./U45751.xml:  <GBSeq_organism>Candida dendronema</GBSeq_organism>
+./AF245401.xml:  <GBSeq_organism>Candida germanica</GBSeq_organism>
+./U45791.xml:  <GBSeq_organism>Candida insectorum</GBSeq_organism>
+./U45766.xml:  <GBSeq_organism>Yamadazyma akitaensis</GBSeq_organism>
+./U45802.xml:  <GBSeq_organism>Candida aaseri</GBSeq_organism>
+./AY640213.xml:  <GBSeq_organism>Candida blattariae</GBSeq_organism>
+./U45792.xml:  <GBSeq_organism>Candida membranifaciens</GBSeq_organism>
+./U45765.xml:  <GBSeq_organism>Yamadazyma philogaea</GBSeq_organism>
+./U45779.xml:  <GBSeq_organism>Candida atmosphaerica</GBSeq_organism>
+./U45750.xml:  <GBSeq_organism>Candida diddensiae</GBSeq_organism>
+./AY450918.xml:  <GBSeq_organism>Candida diospyri</GBSeq_organism>
+./AY731730.xml:  <GBSeq_organism>Candida sp. MARY 089</GBSeq_organism>
+./U45797.xml:  <GBSeq_organism>Yamadazyma mexicana</GBSeq_organism>
+./AY731729.xml:  <GBSeq_organism>Candida sp. MARY 101</GBSeq_organism>
+./U45754.xml:  <GBSeq_organism>Candida parapsilosis</GBSeq_organism>
+./AY731733.xml:  <GBSeq_organism>Candida sp. MARY 092</GBSeq_organism>
+./U45748.xml:  <GBSeq_organism>Yamadazyma nakazawae var. nakazawae</GBSeq_organism>

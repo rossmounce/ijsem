@@ -1,0 +1,19 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./L09187.xml:  <GBSeq_organism>Caloramator fervidus</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./M59096.xml:  <GBSeq_organism>Clostridium limosum</GBSeq_organism>
+./X77838.xml:  <GBSeq_organism>Oxobacter pfennigii</GBSeq_organism>
+./Y18180.xml:  <GBSeq_organism>[Clostridium] thermosuccinogenes</GBSeq_organism>
+./X99238.xml:  <GBSeq_organism>Thermobrachium celere DSM 8682</GBSeq_organism>
+./DQ117465.xml:  <GBSeq_organism>Gracilibacter thermotolerans JW/YJL-S1</GBSeq_organism>
+./L09177.xml:  <GBSeq_organism>[Clostridium] cellulosi</GBSeq_organism>
+./L76603.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./AB186360.xml:  <GBSeq_organism>Lutispora thermophila DSM 19022</GBSeq_organism>
+./L09165.xml:  <GBSeq_organism>Thermoanaerobacter brockii</GBSeq_organism>
+./M59121.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./X75788.xml:  <GBSeq_organism>Caloramator indicus</GBSeq_organism>
+./L09174.xml:  <GBSeq_organism>[Clostridium] stercorarium</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./U59278.xml:  <GBSeq_organism>Clostridium septicum</GBSeq_organism>

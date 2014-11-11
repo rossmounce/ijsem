@@ -1,0 +1,12 @@
+./AJ879697.xml:  <GBSeq_organism>Trueperella bonasi</GBSeq_organism>
+./AJ439453.xml:  <GBSeq_organism>Actinobaculum urinale</GBSeq_organism>
+./AJ300767.xml:  <GBSeq_organism>Arcanobacterium hippocoleae</GBSeq_organism>
+./X97049.xml:  <GBSeq_organism>Arcanobacterium phocae</GBSeq_organism>
+./AJ234059.xml:  <GBSeq_organism>Arcanobacterium haemolyticum DSM 20595</GBSeq_organism>
+./AB305159.xml:  <GBSeq_organism>Trueperella abortisuis</GBSeq_organism>
+./AF487679.xml:  <GBSeq_organism>Actinobaculum massiliense</GBSeq_organism>
+./M29552.xml:  <GBSeq_organism>Trueperella pyogenes</GBSeq_organism>
+./AJ277385.xml:  <GBSeq_organism>Actinomyces suimastitidis</GBSeq_organism>
+./AJ879696.xml:  <GBSeq_organism>Trueperella bialowiezensis</GBSeq_organism>
+./AJ250959.xml:  <GBSeq_organism>Arcanobacterium pluranimalium</GBSeq_organism>
+./X79224.xml:  <GBSeq_organism>Trueperella bernardiae</GBSeq_organism>

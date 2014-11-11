@@ -1,0 +1,5 @@
+./X98372.xml:  <GBSeq_organism>Rubrobacter radiotolerans DSM 5868</GBSeq_organism>
+./AJ871306.xml:  <GBSeq_organism>Patulibacter americanus</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./EU332825.xml:  <GBSeq_organism>Solirubrobacter ginsenosidimutans</GBSeq_organism>
+./AJ440237.xml:  <GBSeq_organism>Conexibacter woesei DSM 14684</GBSeq_organism>

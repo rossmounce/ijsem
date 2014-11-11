@@ -1,0 +1,16 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./EF407880.xml:  <GBSeq_organism>Flavobacterium cheniae</GBSeq_organism>
+./EF660761.xml:  <GBSeq_organism>Joostella marina DSM 19592</GBSeq_organism>
+./U87101.xml:  <GBSeq_organism>Ornithobacterium rhinotracheale DSM 15997</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AB206954.xml:  <GBSeq_organism>Nonlabens sediminis</GBSeq_organism>
+./M58791.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./M62422.xml:  <GBSeq_organism>Marinilabilia salmonicolor</GBSeq_organism>
+./FJ424814.xml:  <GBSeq_organism>Wandonia haliotis NBRC 105642</GBSeq_organism>
+./AF493694.xml:  <GBSeq_organism>Fluviicola taffensis DSM 16823</GBSeq_organism>
+./AJ278780.xml:  <GBSeq_organism>Leeuwenhoekiella aequorea</GBSeq_organism>
+./M58766.xml:  <GBSeq_organism>Cytophaga fermentans</GBSeq_organism>
+./X73964.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./AJ418048.xml:  <GBSeq_organism>Anaerophaga thermohalophila DSM 12881</GBSeq_organism>

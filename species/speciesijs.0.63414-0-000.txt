@@ -1,0 +1,10 @@
+./AY158025.xml:  <GBSeq_organism>Agromyces fucosus</GBSeq_organism>
+./AF389342.xml:  <GBSeq_organism>Agromyces aurantiacus</GBSeq_organism>
+./AY618217.xml:  <GBSeq_organism>Agromyces lapidis</GBSeq_organism>
+./AY507128.xml:  <GBSeq_organism>Agromyces neolithicus</GBSeq_organism>
+./AY277619.xml:  <GBSeq_organism>Agromyces cerinus subsp. nitratus</GBSeq_organism>
+./AY618216.xml:  <GBSeq_organism>Agromyces humatus</GBSeq_organism>
+./AF503917.xml:  <GBSeq_organism>Agromyces albus</GBSeq_organism>
+./AY427830.xml:  <GBSeq_organism>Agromyces ulmi</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./AY507129.xml:  <GBSeq_organism>Agromyces salentinus</GBSeq_organism>

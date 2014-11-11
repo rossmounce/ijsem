@@ -1,0 +1,6 @@
+./AJ242581.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AM114402.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./DQ365922.xml:  <GBSeq_organism>Ochrobactrum pseudintermedium</GBSeq_organism>
+./AM114398.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>

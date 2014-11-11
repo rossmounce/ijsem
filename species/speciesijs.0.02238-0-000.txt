@@ -1,0 +1,18 @@
+./AB072877.xml:  <GBSeq_organism>Streptomyces rectiverticillatus</GBSeq_organism>
+./AB072853.xml:  <GBSeq_organism>Streptomyces hachijoensis</GBSeq_organism>
+./AB072886.xml:  <GBSeq_organism>Streptomyces takataensis</GBSeq_organism>
+./AB072859.xml:  <GBSeq_organism>Streptomyces lavenduligriseus</GBSeq_organism>
+./AB072884.xml:  <GBSeq_organism>Streptomyces stramineus</GBSeq_organism>
+./AB072885.xml:  <GBSeq_organism>Streptomyces syringium</GBSeq_organism>
+./AB072867.xml:  <GBSeq_organism>Streptomyces morookaense</GBSeq_organism>
+./AB072839.xml:  <GBSeq_organism>Streptomyces caespitosus</GBSeq_organism>
+./AB072879.xml:  <GBSeq_organism>Streptomyces salmonis</GBSeq_organism>
+./AB072865.xml:  <GBSeq_organism>Streptomyces sp. IFO 13202</GBSeq_organism>
+./AB072837.xml:  <GBSeq_organism>Streptomyces roseoverticillatus</GBSeq_organism>
+./AB072830.xml:  <GBSeq_organism>Streptomyces albireticuli</GBSeq_organism>
+./AB072846.xml:  <GBSeq_organism>Streptomyces ehimensis</GBSeq_organism>
+./AB072852.xml:  <GBSeq_organism>Streptomyces griseoverticillatus</GBSeq_organism>
+./AB072873.xml:  <GBSeq_organism>Streptomyces orinoci</GBSeq_organism>
+./AB072876.xml:  <GBSeq_organism>Streptomyces paucisporogenes</GBSeq_organism>
+./AB072863.xml:  <GBSeq_organism>Streptomyces luteoverticillatus</GBSeq_organism>
+./AB072872.xml:  <GBSeq_organism>Streptomyces olivoverticillatus</GBSeq_organism>

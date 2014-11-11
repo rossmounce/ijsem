@@ -1,0 +1,25 @@
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./AJ783958.xml:  <GBSeq_organism>Sanguibacter marinus</GBSeq_organism>
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./EF547937.xml:  <GBSeq_organism>Sanguibacter soli</GBSeq_organism>
+./X83800.xml:  <GBSeq_organism>Cellulomonas gelida</GBSeq_organism>
+./X83806.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./X79455.xml:  <GBSeq_organism>Cellulosimicrobium cellulans</GBSeq_organism>
+./X79451.xml:  <GBSeq_organism>Sanguibacter inulinus</GBSeq_organism>
+./AF064702.xml:  <GBSeq_organism>Cellulomonas iranensis</GBSeq_organism>
+./AB056127.xml:  <GBSeq_organism>Rarobacter faecitabidus</GBSeq_organism>
+./X83801.xml:  <GBSeq_organism>Cellulomonas uda</GBSeq_organism>
+./X83807.xml:  <GBSeq_organism>Oerskovia enterophila</GBSeq_organism>
+./X82449.xml:  <GBSeq_organism>Cellulomonas humilata</GBSeq_organism>
+./X83802.xml:  <GBSeq_organism>Cellulomonas biazotea</GBSeq_organism>
+./X83805.xml:  <GBSeq_organism>Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AY303668.xml:  <GBSeq_organism>Cellulomonas xylanilytica</GBSeq_organism>
+./AJ314848.xml:  <GBSeq_organism>Oerskovia jenensis</GBSeq_organism>
+./AF064701.xml:  <GBSeq_organism>Cellulomonas persica</GBSeq_organism>
+./AY944176.xml:  <GBSeq_organism>Terrabacter terrae</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>
+./X79460.xml:  <GBSeq_organism>Cellulomonas fimi ATCC 484</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

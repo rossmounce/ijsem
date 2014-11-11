@@ -1,0 +1,30 @@
+./AB039001.xml:  <GBSeq_organism>Geminocystis herdmanii PCC 6308</GBSeq_organism>
+./AF139299.xml:  <GBSeq_organism>Microcystis aeruginosa PCC 7806</GBSeq_organism>
+./AJ000708.xml:  <GBSeq_organism>Halothece sp. PCC 7418</GBSeq_organism>
+./X78680.xml:  <GBSeq_organism>Gloeothece membranacea PCC 6501</GBSeq_organism>
+./AB245143.xml:  <GBSeq_organism>Leptolyngbya boryana IAM M-101</GBSeq_organism>
+./AY423710.xml:  <GBSeq_organism>Geitlerinema carotinosum AICB 37</GBSeq_organism>
+./AJ000715.xml:  <GBSeq_organism>Cyanothece sp. PCC 7424</GBSeq_organism>
+./AF296873.xml:  <GBSeq_organism>Cyanothece sp. PCC 8801</GBSeq_organism>
+./AF218371.xml:  <GBSeq_organism>Pseudanabaena tremula UTCC 471</GBSeq_organism>
+./AB003168.xml:  <GBSeq_organism>Oscillatoria neglecta IAM M-82</GBSeq_organism>
+./AJ000710.xml:  <GBSeq_organism>Euhalothece sp. &apos;MPI 95AH13&apos;</GBSeq_organism>
+./AF132782.xml:  <GBSeq_organism>Cyanobacterium stanieri PCC 7202</GBSeq_organism>
+./AJ000724.xml:  <GBSeq_organism>Halothece sp. MPI 96P605</GBSeq_organism>
+./AB039016.xml:  <GBSeq_organism>Pseudanabaena sp. PCC 6802</GBSeq_organism>
+./AB041938.xml:  <GBSeq_organism>Synechocystis sp. PCC 6805</GBSeq_organism>
+./AJ000712.xml:  <GBSeq_organism>Euhalothece sp. &apos;MPI N303&apos;</GBSeq_organism>
+./AF001477.xml:  <GBSeq_organism>Cyanobium gracile PCC 6307</GBSeq_organism>
+./AY170472.xml:  <GBSeq_organism>Chamaesiphon subglobosus PCC 7430</GBSeq_organism>
+./X63141.xml:  <GBSeq_organism>Prochloron sp.</GBSeq_organism>
+./AB039020.xml:  <GBSeq_organism>Pseudanabaena catenata PCC 7408</GBSeq_organism>
+./AF132784.xml:  <GBSeq_organism>Gloeocapsa sp. PCC 73106</GBSeq_organism>
+./AF445707.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./AF132783.xml:  <GBSeq_organism>Xenococcus sp. PCC 7305</GBSeq_organism>
+./AJ000713.xml:  <GBSeq_organism>Euhalothece sp. &apos;MPI 96N304&apos;</GBSeq_organism>
+./AF445678.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./AJ000711.xml:  <GBSeq_organism>Dactylococcopsis salina PCC 8305</GBSeq_organism>
+./AJ000709.xml:  <GBSeq_organism>Euhalothece sp. &apos;MPI 95AH10&apos;</GBSeq_organism>
+./AP008231.xml:  <GBSeq_organism>Synechococcus elongatus PCC 6301</GBSeq_organism>
+./EF126149.xml:  <GBSeq_organism>Rubidibacter lacunae KORDI 51-2</GBSeq_organism>
+./AF132790.xml:  <GBSeq_organism>Gloeobacter violaceus PCC 7421</GBSeq_organism>

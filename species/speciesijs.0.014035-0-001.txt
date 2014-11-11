@@ -1,0 +1,6 @@
+./AF328147.xml:  <GBSeq_organism>Simonsiella muelleri ATCC 29453</GBSeq_organism>
+./AM295491.xml:  <GBSeq_organism>Gulbenkiania mobilis</GBSeq_organism>
+./AJ586614.xml:  <GBSeq_organism>Uruburuella suis</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./AB194302.xml:  <GBSeq_organism>Silvimonas terrae</GBSeq_organism>
+./AF487710.xml:  <GBSeq_organism>Alysiella filiformis</GBSeq_organism>

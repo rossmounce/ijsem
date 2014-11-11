@@ -1,0 +1,6 @@
+./HM439607.xml:  <GBSeq_organism>Mannheimia caviae</GBSeq_organism>
+./AF060699.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./AF053889.xml:  <GBSeq_organism>Mannheimia glucosida</GBSeq_organism>
+./AF053892.xml:  <GBSeq_organism>Mannheimia glucosida</GBSeq_organism>
+./AF053902.xml:  <GBSeq_organism>Mannheimia granulomatis</GBSeq_organism>
+./AF053893.xml:  <GBSeq_organism>Mannheimia varigena</GBSeq_organism>

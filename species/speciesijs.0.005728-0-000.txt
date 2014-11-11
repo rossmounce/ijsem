@@ -1,0 +1,34 @@
+./D12798.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AY601515.xml:  <GBSeq_organism>Mesorhizobium opportunistum WSM2075</GBSeq_organism>
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./U31074.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. trifolii</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./U35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AY601513.xml:  <GBSeq_organism>Mesorhizobium ciceri biovar biserrulae</GBSeq_organism>
+./X66024.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./AY601514.xml:  <GBSeq_organism>Mesorhizobium sp. WSM2074</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./D12796.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./X67226.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./X68387.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./U29386.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AF178962.xml:  <GBSeq_organism>Biserrula isolate</GBSeq_organism>
+./AF178963.xml:  <GBSeq_organism>Biserrula isolate</GBSeq_organism>
+./U29388.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. phaseoli</GBSeq_organism>
+./AY601517.xml:  <GBSeq_organism>Mesorhizobium sp. WSM2076</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./D12797.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./U89817.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AF041447.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./AF178964.xml:  <GBSeq_organism>Biserrula isolate</GBSeq_organism>
+./AY601516.xml:  <GBSeq_organism>Mesorhizobium australicum WSM2073</GBSeq_organism>
+./DQ100066.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./U71078.xml:  <GBSeq_organism>Rhizobium hainanense</GBSeq_organism>

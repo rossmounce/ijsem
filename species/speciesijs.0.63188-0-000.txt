@@ -1,0 +1,13 @@
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./X67037.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./X67039.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./AF215704.xml:  <GBSeq_organism>Burkholderia caledonica</GBSeq_organism>
+./AB024310.xml:  <GBSeq_organism>Burkholderia kururiensis</GBSeq_organism>
+./AY277698.xml:  <GBSeq_organism>Candidatus Burkholderia nigropunctata</GBSeq_organism>
+./AB025790.xml:  <GBSeq_organism>Burkholderia sp. NF100</GBSeq_organism>
+./Y17052.xml:  <GBSeq_organism>Burkholderia glathei</GBSeq_organism>
+./AY277697.xml:  <GBSeq_organism>Candidatus Burkholderia calva</GBSeq_organism>
+./AF215705.xml:  <GBSeq_organism>Burkholderia fungorum</GBSeq_organism>
+./U96931.xml:  <GBSeq_organism>Burkholderia glumae LMG 2196</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./AF475063.xml:  <GBSeq_organism>Candidatus Burkholderia kirkii</GBSeq_organism>

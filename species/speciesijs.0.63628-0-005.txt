@@ -1,0 +1,15 @@
+./AJ233947.xml:  <GBSeq_organism>Nannocystis exedens</GBSeq_organism>
+./AJ233945.xml:  <GBSeq_organism>Nannocystis aggregans</GBSeq_organism>
+./AJ233946.xml:  <GBSeq_organism>Nannocystis exedens</GBSeq_organism>
+./AJ233943.xml:  <GBSeq_organism>Polyangium thaxteri</GBSeq_organism>
+./M94282.xml:  <GBSeq_organism>Sorangium cellulosum</GBSeq_organism>
+./M94274.xml:  <GBSeq_organism>Chondromyces apiculatus</GBSeq_organism>
+./M94275.xml:  <GBSeq_organism>Chondromyces crocatus</GBSeq_organism>
+./M25963.xml:  <GBSeq_organism>Gallus gallus</GBSeq_organism>
+./AJ233940.xml:  <GBSeq_organism>Chondromyces pediculatus</GBSeq_organism>
+./AJ233939.xml:  <GBSeq_organism>Chondromyces lanuginosus</GBSeq_organism>
+./AJ233944.xml:  <GBSeq_organism>Kofleria flava</GBSeq_organism>
+./AJ233941.xml:  <GBSeq_organism>Chondromyces robustus</GBSeq_organism>
+./AJ233942.xml:  <GBSeq_organism>Chondromyces robustus</GBSeq_organism>
+./AJ233948.xml:  <GBSeq_organism>Phaselicystis flava</GBSeq_organism>
+./AJ233938.xml:  <GBSeq_organism>Chondromyces apiculatus</GBSeq_organism>

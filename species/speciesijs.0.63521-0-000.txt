@@ -1,0 +1,6 @@
+./AJ295715.xml:  <GBSeq_organism>Alteromonas stellipolaris</GBSeq_organism>
+./AF529060.xml:  <GBSeq_organism>Alteromonas marina</GBSeq_organism>
+./X85175.xml:  <GBSeq_organism>Alteromonas infernus</GBSeq_organism>
+./AY428573.xml:  <GBSeq_organism>Alteromonas litorea</GBSeq_organism>
+./AY682202.xml:  <GBSeq_organism>Alteromonas addita</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>

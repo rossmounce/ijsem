@@ -1,0 +1,33 @@
+./AY212991.xml:  <GBSeq_organism>Camptobasidium hydrophilum</GBSeq_organism>
+./AM235743.xml:  <GBSeq_organism>Rhodotorula sp. Rup1A</GBSeq_organism>
+./EF151256.xml:  <GBSeq_organism>Rhodotorula psychrophenolica</GBSeq_organism>
+./AY731807.xml:  <GBSeq_organism>Rhodotorula sp. SDY 147</GBSeq_organism>
+./EF151255.xml:  <GBSeq_organism>Rhodotorula psychrophenolica</GBSeq_organism>
+./AF189971.xml:  <GBSeq_organism>Rhodotorula yarrowii</GBSeq_organism>
+./EF151252.xml:  <GBSeq_organism>Rhodotorula psychrophila</GBSeq_organism>
+./EF151258.xml:  <GBSeq_organism>Rhodotorula glacialis</GBSeq_organism>
+./AY213002.xml:  <GBSeq_organism>Microbotryum cordae</GBSeq_organism>
+./AF189922.xml:  <GBSeq_organism>Rhodotorula auriculariae</GBSeq_organism>
+./AY033640.xml:  <GBSeq_organism>Glaciozyma martinii</GBSeq_organism>
+./EF151262.xml:  <GBSeq_organism>Rhodotorula glacialis</GBSeq_organism>
+./AF131062.xml:  <GBSeq_organism>Occultifur externus</GBSeq_organism>
+./AF189905.xml:  <GBSeq_organism>Kriegeria eriophori</GBSeq_organism>
+./AF189945.xml:  <GBSeq_organism>Rhodotorula minuta</GBSeq_organism>
+./AF189923.xml:  <GBSeq_organism>Rhodotorula bogoriensis</GBSeq_organism>
+./AM235745.xml:  <GBSeq_organism>Rhodotorula sp. Rup3A</GBSeq_organism>
+./EF151261.xml:  <GBSeq_organism>Rhodotorula glacialis</GBSeq_organism>
+./AF189896.xml:  <GBSeq_organism>Bensingtonia yamatoana</GBSeq_organism>
+./AM235744.xml:  <GBSeq_organism>Rhodotorula sp. Rup1B</GBSeq_organism>
+./EF151253.xml:  <GBSeq_organism>Rhodotorula psychrophila</GBSeq_organism>
+./AF363653.xml:  <GBSeq_organism>Rhodotorula ferulica</GBSeq_organism>
+./AF189986.xml:  <GBSeq_organism>Sporobolomyces griseoflavus</GBSeq_organism>
+./AM235747.xml:  <GBSeq_organism>Rhodotorula sp. Rup4B</GBSeq_organism>
+./AB176591.xml:  <GBSeq_organism>Sporobolomyces fushanensis</GBSeq_organism>
+./AF189943.xml:  <GBSeq_organism>Rhodotorula lignophila</GBSeq_organism>
+./AF189963.xml:  <GBSeq_organism>Rhodotorula pilatii</GBSeq_organism>
+./EF151254.xml:  <GBSeq_organism>Rhodotorula psychrophila</GBSeq_organism>
+./EF151259.xml:  <GBSeq_organism>Rhodotorula glacialis</GBSeq_organism>
+./AF189906.xml:  <GBSeq_organism>Glaciozyma antarctica</GBSeq_organism>
+./AY213000.xml:  <GBSeq_organism>Leucosporidium scottii</GBSeq_organism>
+./EF151257.xml:  <GBSeq_organism>Rhodotorula psychrophenolica</GBSeq_organism>
+./EF151260.xml:  <GBSeq_organism>Rhodotorula glacialis</GBSeq_organism>

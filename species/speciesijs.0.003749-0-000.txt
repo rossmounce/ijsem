@@ -1,0 +1,12 @@
+./L14624.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./AJ607391.xml:  <GBSeq_organism>Arcobacter cibarius</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./DQ464343.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./AY314755.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./AJ607392.xml:  <GBSeq_organism>Arcobacter cibarius</GBSeq_organism>
+./L14625.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>
+./EU669906.xml:  <GBSeq_organism>Arcobacter mytili</GBSeq_organism>
+./L04314.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./AF513455.xml:  <GBSeq_organism>Arcobacter halophilus</GBSeq_organism>
+./FJ156092.xml:  <GBSeq_organism>Arcobacter mytili</GBSeq_organism>
+./EU106661.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>

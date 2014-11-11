@@ -1,0 +1,67 @@
+./AJ621686.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. mesenteroides</GBSeq_organism>
+./AJ286122.xml:  <GBSeq_organism>Lactobacillus casei ATCC 334</GBSeq_organism>
+./AJ621655.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AM087716.xml:  <GBSeq_organism>Lactobacillus rhamnosus</GBSeq_organism>
+./AF429667.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AM087853.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AM711294.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. mesenteroides</GBSeq_organism>
+./AM899852.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>
+./AJ521668.xml:  <GBSeq_organism>Arabidopsis thaliana</GBSeq_organism>
+./AM087682.xml:  <GBSeq_organism>Lactobacillus casei</GBSeq_organism>
+./AJ621672.xml:  <GBSeq_organism>Lactobacillus reuteri</GBSeq_organism>
+./AM899821.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./AM087693.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AF405389.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AF405400.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./AJ621894.xml:  <GBSeq_organism>Aedes aegypti</GBSeq_organism>
+./AF245673.xml:  <GBSeq_organism>Lactococcus lactis</GBSeq_organism>
+./AM711197.xml:  <GBSeq_organism>Leuconostoc pseudomesenteroides KCTC 3652</GBSeq_organism>
+./AM899822.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./AM899827.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>
+./AY835627.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AM694185.xml:  <GBSeq_organism>Lactobacillus plantarum subsp. argentoratensis</GBSeq_organism>
+./AM087688.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. bulgaricus</GBSeq_organism>
+./AF429697.xml:  <GBSeq_organism>Lactobacillus sakei</GBSeq_organism>
+./AF405387.xml:  <GBSeq_organism>Lactobacillus casei ATCC 334</GBSeq_organism>
+./AM899891.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./AJ621871.xml:  <GBSeq_organism>Medicago truncatula</GBSeq_organism>
+./AJ621633.xml:  <GBSeq_organism>Lactobacillus curvatus</GBSeq_organism>
+./AY424345.xml:  <GBSeq_organism>Lactobacillus curvatus</GBSeq_organism>
+./AM899832.xml:  <GBSeq_organism>Pediococcus claussenii</GBSeq_organism>
+./AJ586870.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. lactis DSM 20072</GBSeq_organism>
+./AM899855.xml:  <GBSeq_organism>Pediococcus parvulus</GBSeq_organism>
+./AM087841.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AJ621599.xml:  <GBSeq_organism>Haliaeetus leucocephalus</GBSeq_organism>
+./AF429680.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AM899829.xml:  <GBSeq_organism>Pediococcus parvulus</GBSeq_organism>
+./AM711182.xml:  <GBSeq_organism>Weissella viridescens</GBSeq_organism>
+./AM087677.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AM899868.xml:  <GBSeq_organism>Pediococcus acidilactici</GBSeq_organism>
+./AM087815.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AM711320.xml:  <GBSeq_organism>Weissella viridescens</GBSeq_organism>
+./AM087718.xml:  <GBSeq_organism>Lactobacillus sakei subsp. carnosus</GBSeq_organism>
+./AJ621626.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AM599851.xml:  <GBSeq_organism>Paracentrotus lividus</GBSeq_organism>
+./AM087746.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AM899818.xml:  <GBSeq_organism>Pediococcus acidilactici</GBSeq_organism>
+./AJ621695.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>
+./AF429593.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AJ621698.xml:  <GBSeq_organism>Pediococcus parvulus</GBSeq_organism>
+./AM899848.xml:  <GBSeq_organism>Pediococcus ethanolidurans</GBSeq_organism>
+./AM899820.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./AM087788.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. lactis</GBSeq_organism>
+./AM899857.xml:  <GBSeq_organism>Pediococcus cellicola</GBSeq_organism>
+./AF429688.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./AF405420.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./AF405404.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./AF429659.xml:  <GBSeq_organism>Lactobacillus rhamnosus</GBSeq_organism>
+./AM263508.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./AJ521650.xml:  <GBSeq_organism>Arabidopsis thaliana</GBSeq_organism>
+./AM087827.xml:  <GBSeq_organism>Lactobacillus sakei subsp. sakei</GBSeq_organism>
+./AF405395.xml:  <GBSeq_organism>Pediococcus claussenii</GBSeq_organism>
+./AM087808.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AM087810.xml:  <GBSeq_organism>Lactobacillus reuteri</GBSeq_organism>
+./AJ621674.xml:  <GBSeq_organism>Lactobacillus sakei subsp. sakei</GBSeq_organism>
+./AV123707.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AJ621697.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./AM087779.xml:  <GBSeq_organism>Lactobacillus casei</GBSeq_organism>

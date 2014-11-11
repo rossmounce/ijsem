@@ -1,0 +1,13 @@
+./AB107233.xml:  <GBSeq_organism>Actinocatenispora thailandica</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./D21343.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./AY040619.xml:  <GBSeq_organism>Salinispora arenicola ATCC BAA-917</GBSeq_organism>
+./AY650268.xml:  <GBSeq_organism>Stackebrandtia nassauensis DSM 44728</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X93189.xml:  <GBSeq_organism>Pilimelia anulata</GBSeq_organism>
+./AB193261.xml:  <GBSeq_organism>Patulibacter minatonensis DSM 18081</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

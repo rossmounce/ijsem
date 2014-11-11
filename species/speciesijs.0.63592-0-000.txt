@@ -1,0 +1,10 @@
+./AY787208.xml:  <GBSeq_organism>Pseudomonas panacis</GBSeq_organism>
+./AF064459.xml:  <GBSeq_organism>Pseudomonas rhodesiae</GBSeq_organism>
+./AF064461.xml:  <GBSeq_organism>Pseudomonas cedrina</GBSeq_organism>
+./D84009.xml:  <GBSeq_organism>Pseudomonas azotoformans</GBSeq_organism>
+./AF064457.xml:  <GBSeq_organism>Pseudomonas orientalis</GBSeq_organism>
+./AF074384.xml:  <GBSeq_organism>Pseudomonas gessardii</GBSeq_organism>
+./AF064460.xml:  <GBSeq_organism>Pseudomonas veronii</GBSeq_organism>
+./AF074383.xml:  <GBSeq_organism>Pseudomonas migulae</GBSeq_organism>
+./D84013.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./D84028.xml:  <GBSeq_organism>Pseudomonas tolaasii</GBSeq_organism>

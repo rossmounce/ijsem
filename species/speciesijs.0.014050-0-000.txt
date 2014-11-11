@@ -1,0 +1,13 @@
+./U44825.xml:  <GBSeq_organism>Metschnikowia reukaufii</GBSeq_organism>
+./U45733.xml:  <GBSeq_organism>Metschnikowia lunata</GBSeq_organism>
+./AF313363.xml:  <GBSeq_organism>Metschnikowia orientalis</GBSeq_organism>
+./U44822.xml:  <GBSeq_organism>Metschnikowia bicuspidata</GBSeq_organism>
+./U45737.xml:  <GBSeq_organism>Metschnikowia gruessii</GBSeq_organism>
+./AF313348.xml:  <GBSeq_organism>Metschnikowia arizonensis</GBSeq_organism>
+./DQ404455.xml:  <GBSeq_organism>Metschnikowia sp. ST-96</GBSeq_organism>
+./U84243.xml:  <GBSeq_organism>Metschnikowia agaves</GBSeq_organism>
+./AY225503.xml:  <GBSeq_organism>Metschnikowia cf. lunata MAL-2003</GBSeq_organism>
+./AF514294.xml:  <GBSeq_organism>Candida kipukae</GBSeq_organism>
+./AF279303.xml:  <GBSeq_organism>Metschnikowia drosophilae</GBSeq_organism>
+./AF034128.xml:  <GBSeq_organism>Metschnikowia hibisci</GBSeq_organism>
+./U45736.xml:  <GBSeq_organism>Metschnikowia pulcherrima</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AB081768.xml:  <GBSeq_organism>Shewanella sairae</GBSeq_organism>
+./FJ589041.xml:  <GBSeq_organism>Shewanella basaltis</GBSeq_organism>
+./FJ589036.xml:  <GBSeq_organism>Shewanella profunda</GBSeq_organism>
+./AB266200.xml:  <GBSeq_organism>Shewanella glacialipiscicola</GBSeq_organism>
+./AJ609572.xml:  <GBSeq_organism>Shewanella decolorationis S12</GBSeq_organism>
+./AB231331.xml:  <GBSeq_organism>Shewanella baltica</GBSeq_organism>
+./FJ589040.xml:  <GBSeq_organism>Shewanella xiamenensis</GBSeq_organism>
+./AB208056.xml:  <GBSeq_organism>Shewanella hafniensis</GBSeq_organism>
+./AB208062.xml:  <GBSeq_organism>Shewanella morhuae</GBSeq_organism>
+./AF005694.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AF014947.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AF440437.xml:  <GBSeq_organism>Veillonella parvula</GBSeq_organism>
+./AY514999.xml:  <GBSeq_organism>Veillonella parvula ATCC 17745</GBSeq_organism>
+./AY353716.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AY514997.xml:  <GBSeq_organism>Veillonella rodentium</GBSeq_organism>
+./AF440435.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./AY353713.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./AY353717.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AY353714.xml:  <GBSeq_organism>Veillonella caviae</GBSeq_organism>
+./AY514998.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./AF440436.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./AY353715.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>

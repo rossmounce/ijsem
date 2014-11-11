@@ -1,0 +1,12 @@
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./AB021193.xml:  <GBSeq_organism>Pullulanibacillus naganoensis</GBSeq_organism>
+./AB087828.xml:  <GBSeq_organism>Paraliobacillus ryukyuensis</GBSeq_organism>
+./L09227.xml:  <GBSeq_organism>Saccharococcus thermophilus</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./AJ634661.xml:  <GBSeq_organism>Sporolactobacillus kofuensis</GBSeq_organism>
+./D16283.xml:  <GBSeq_organism>Sporolactobacillus inulinus</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AJ698860.xml:  <GBSeq_organism>Sporolactobacillus nakayamae</GBSeq_organism>
+./AJ634662.xml:  <GBSeq_organism>Sporolactobacillus terrae</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

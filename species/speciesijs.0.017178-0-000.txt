@@ -1,0 +1,25 @@
+./AM176541.xml:  <GBSeq_organism>Arthrobacter phenanthrenivorans Sphe3</GBSeq_organism>
+./X80748.xml:  <GBSeq_organism>Arthrobacter agilis</GBSeq_organism>
+./X83410.xml:  <GBSeq_organism>Arthrobacter uratoxydans</GBSeq_organism>
+./X83408.xml:  <GBSeq_organism>Arthrobacter oxydans</GBSeq_organism>
+./AJ639830.xml:  <GBSeq_organism>Arthrobacter parietis</GBSeq_organism>
+./AJ316140.xml:  <GBSeq_organism>Arthrobacter gandavensis</GBSeq_organism>
+./AJ243421.xml:  <GBSeq_organism>Arthrobacter albus</GBSeq_organism>
+./AJ639829.xml:  <GBSeq_organism>Arthrobacter tecti</GBSeq_organism>
+./AJ639826.xml:  <GBSeq_organism>Arthrobacter castelli</GBSeq_organism>
+./AF102267.xml:  <GBSeq_organism>Arthrobacter chlorophenolicus</GBSeq_organism>
+./AF134179.xml:  <GBSeq_organism>Arthrobacter psychrolactophilus</GBSeq_organism>
+./AB279890.xml:  <GBSeq_organism>Arthrobacter humicola</GBSeq_organism>
+./AJ639827.xml:  <GBSeq_organism>Arthrobacter pigmenti</GBSeq_organism>
+./X80738.xml:  <GBSeq_organism>Arthrobacter crystallopoietes</GBSeq_organism>
+./AM409361.xml:  <GBSeq_organism>Arthrobacter defluvii</GBSeq_organism>
+./AJ278870.xml:  <GBSeq_organism>Arthrobacter roseus</GBSeq_organism>
+./AF235091.xml:  <GBSeq_organism>Arthrobacter sulfonivorans</GBSeq_organism>
+./X80741.xml:  <GBSeq_organism>Arthrobacter polychromogenes</GBSeq_organism>
+./X93354.xml:  <GBSeq_organism>Arthrobacter cumminsii</GBSeq_organism>
+./EF660748.xml:  <GBSeq_organism>Arthrobacter soli</GBSeq_organism>
+./X83409.xml:  <GBSeq_organism>Arthrobacter sulfureus</GBSeq_organism>
+./Z78212.xml:  <GBSeq_organism>Pimelobacter simplex</GBSeq_organism>
+./AJ616763.xml:  <GBSeq_organism>Arthrobacter psychrophenolicus</GBSeq_organism>
+./AJ609630.xml:  <GBSeq_organism>Arthrobacter bergerei</GBSeq_organism>
+./AF330692.xml:  <GBSeq_organism>Arthrobacter scleromae</GBSeq_organism>

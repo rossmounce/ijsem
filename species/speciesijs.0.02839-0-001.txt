@@ -1,0 +1,13 @@
+./AJ558233.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AJ558218.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./AJ558216.xml:  <GBSeq_organism>Helicobacter cinaedi CCUG 18818</GBSeq_organism>
+./AJ558215.xml:  <GBSeq_organism>Helicobacter pametensis</GBSeq_organism>
+./AJ558219.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AJ558200.xml:  <GBSeq_organism>Helicobacter muridarum</GBSeq_organism>
+./AJ558214.xml:  <GBSeq_organism>Helicobacter cholecystus</GBSeq_organism>
+./AJ558220.xml:  <GBSeq_organism>Helicobacter acinonychis</GBSeq_organism>
+./AJ558199.xml:  <GBSeq_organism>Helicobacter pullorum</GBSeq_organism>
+./AY044098.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./AJ558227.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AJ558205.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira str. FL56&apos;</GBSeq_organism>
+./AJ558217.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>

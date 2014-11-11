@@ -1,0 +1,53 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AY139868.xml:  <GBSeq_organism>Peanut witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY197655.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AF498309.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AY725234.xml:  <GBSeq_organism>Candidatus Phytoplasma caricae</GBSeq_organism>
+./AL009126.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>
+./L33733.xml:  <GBSeq_organism>Canadian peach X phytoplasma</GBSeq_organism>
+./U96616.xml:  <GBSeq_organism>Phytoplasma sp. STRAWB2</GBSeq_organism>
+./L76865.xml:  <GBSeq_organism>Candidatus Phytoplasma australiense</GBSeq_organism>
+./Y10097.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AJ632155.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./EU344884.xml:  <GBSeq_organism>Russia potato purple top phytoplasma Rus-PPT92</GBSeq_organism>
+./AJ539180.xml:  <GBSeq_organism>Sugarcane phytoplasma (uncharacterized)</GBSeq_organism>
+./HO225627.xml:  <GBSeq_organism>Phaseolus acutifolius</GBSeq_organism>
+./AF190227.xml:  <GBSeq_organism>Walnut witches&apos;-broom phytoplasma</GBSeq_organism>
+./EF193353.xml:  <GBSeq_organism>Soybean phyllody phytoplasma</GBSeq_organism>
+./Y16393.xml:  <GBSeq_organism>&apos;Picris echioides&apos; phyllody phytoplasma</GBSeq_organism>
+./AF086621.xml:  <GBSeq_organism>Loofah witches&apos;-broom phytoplasma</GBSeq_organism>
+./L33734.xml:  <GBSeq_organism>Acholeplasma palmae J233</GBSeq_organism>
+./FJ432664.xml:  <GBSeq_organism>Candidatus Phytoplasma tamaricis</GBSeq_organism>
+./HO225632.xml:  <GBSeq_organism>Phaseolus acutifolius</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./AF248960.xml:  <GBSeq_organism>Mexican periwinkle virescence phytoplasma</GBSeq_organism>
+./EF666051.xml:  <GBSeq_organism>Candidatus Phytoplasma omanense</GBSeq_organism>
+./AY083605.xml:  <GBSeq_organism>Buckland Valley grapevine yellows phytoplasma</GBSeq_organism>
+./U43569.xml:  <GBSeq_organism>Phormium yellow leaf phytoplasma</GBSeq_organism>
+./AY135523.xml:  <GBSeq_organism>Candidatus Phytoplasma allocasuarinae</GBSeq_organism>
+./X76427.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AY500817.xml:  <GBSeq_organism>Vinca virescence phytoplasma</GBSeq_organism>
+./AF515636.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./AF509322.xml:  <GBSeq_organism>Sorghum bunchy shoot phytoplasma</GBSeq_organism>
+./AY744945.xml:  <GBSeq_organism>Derbid phytoplasma</GBSeq_organism>
+./U15442.xml:  <GBSeq_organism>Candidatus Phytoplasma aurantifolia</GBSeq_organism>
+./EF199549.xml:  <GBSeq_organism>Candidatus Phytoplasma lycopersici</GBSeq_organism>
+./AY197644.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./FJ376629.xml:  <GBSeq_organism>Alaska potato purple top phytoplasma</GBSeq_organism>
+./EF186827.xml:  <GBSeq_organism>Cotton phyllody phytoplasma</GBSeq_organism>
+./AF173558.xml:  <GBSeq_organism>Clover yellow edge phytoplasma</GBSeq_organism>
+./AF495882.xml:  <GBSeq_organism>Chinaberry yellows phytoplasma</GBSeq_organism>
+./FJ226072.xml:  <GBSeq_organism>Sweet pepper purple vein phytoplasma</GBSeq_organism>
+./AF222065.xml:  <GBSeq_organism>Clover phyllody phytoplasma</GBSeq_organism>
+./FJ226071.xml:  <GBSeq_organism>Sweet pepper purple vein phytoplasma</GBSeq_organism>
+./AY725228.xml:  <GBSeq_organism>Candidatus Phytoplasma graminis</GBSeq_organism>
+./AF510724.xml:  <GBSeq_organism>Milkweed yellows phytoplasma</GBSeq_organism>
+./AF521672.xml:  <GBSeq_organism>Weeping tea tree witches&apos;-broom phytoplasma</GBSeq_organism>
+./AF147708.xml:  <GBSeq_organism>Candidatus Phytoplasma brasiliense</GBSeq_organism>
+./AY500130.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./AY197648.xml:  <GBSeq_organism>Rubus stunt phytoplasma</GBSeq_organism>
+./AY197661.xml:  <GBSeq_organism>Jujube witches&apos;-broom phytoplasma</GBSeq_organism>

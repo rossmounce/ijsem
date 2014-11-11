@@ -1,0 +1,21 @@
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./L16485.xml:  <GBSeq_organism>Bacteroides eggerthii</GBSeq_organism>
+./AY136666.xml:  <GBSeq_organism>Pseudoflavonifractor capillosus ATCC 29799</GBSeq_organism>
+./AY549431.xml:  <GBSeq_organism>Bacteroides denticanum</GBSeq_organism>
+./L16484.xml:  <GBSeq_organism>Bacteroides ovatus</GBSeq_organism>
+./X83953.xml:  <GBSeq_organism>Bacteroides stercoris ATCC 43183</GBSeq_organism>
+./AY126616.xml:  <GBSeq_organism>Bacteroides massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223</GBSeq_organism>
+./M86695.xml:  <GBSeq_organism>Parabacteroides distasonis</GBSeq_organism>
+./L16486.xml:  <GBSeq_organism>Bacteroides uniformis</GBSeq_organism>
+./AY608696.xml:  <GBSeq_organism>Bacteroides salyersiae</GBSeq_organism>
+./AY608697.xml:  <GBSeq_organism>Bacteroides nordii</GBSeq_organism>
+./AB200217.xml:  <GBSeq_organism>Bacteroides plebeius DSM 17135</GBSeq_organism>
+./M11656.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AF319778.xml:  <GBSeq_organism>Bacteroides coprosuis DSM 18011</GBSeq_organism>
+./M58762.xml:  <GBSeq_organism>Bacteroides vulgatus</GBSeq_organism>
+./AB200228.xml:  <GBSeq_organism>Bacteroides pyogenes</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./L16489.xml:  <GBSeq_organism>Bacteroides thetaiotaomicron</GBSeq_organism>
+./AB200224.xml:  <GBSeq_organism>Bacteroides coprocola DSM 17136</GBSeq_organism>
+./L35517.xml:  <GBSeq_organism>Pseudobacteroides cellulosolvens</GBSeq_organism>
+./X83954.xml:  <GBSeq_organism>Parabacteroides merdae ATCC 43184</GBSeq_organism>

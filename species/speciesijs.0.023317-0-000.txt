@@ -1,0 +1,17 @@
+./U45755.xml:  <GBSeq_organism>Candida viswanathii</GBSeq_organism>
+./U45741.xml:  <GBSeq_organism>Scheffersomyces stipitis</GBSeq_organism>
+./U45763.xml:  <GBSeq_organism>Lodderomyces elongisporus</GBSeq_organism>
+./U44822.xml:  <GBSeq_organism>Metschnikowia bicuspidata</GBSeq_organism>
+./AF245404.xml:  <GBSeq_organism>Candida neerlandica</GBSeq_organism>
+./AB534917.xml:  <GBSeq_organism>Candida saraburiensis</GBSeq_organism>
+./U45749.xml:  <GBSeq_organism>Candida tropicalis</GBSeq_organism>
+./U45752.xml:  <GBSeq_organism>Candida viswanathii</GBSeq_organism>
+./EF120596.xml:  <GBSeq_organism>Candida frijolesensis</GBSeq_organism>
+./DQ655687.xml:  <GBSeq_organism>Candida labiduridarum</GBSeq_organism>
+./U71070.xml:  <GBSeq_organism>Candida sojae</GBSeq_organism>
+./GU142862.xml:  <GBSeq_organism>Candida aquae-textoris</GBSeq_organism>
+./AB439258.xml:  <GBSeq_organism>Candida prachuapensis</GBSeq_organism>
+./U45776.xml:  <GBSeq_organism>Candida albicans</GBSeq_organism>
+./EF120599.xml:  <GBSeq_organism>Candida tetrigidarum</GBSeq_organism>
+./U45712.xml:  <GBSeq_organism>Hyphopichia burtonii</GBSeq_organism>
+./AY520415.xml:  <GBSeq_organism>Candida jeffriesii</GBSeq_organism>

@@ -1,0 +1,24 @@
+./X53195.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./X54286.xml:  <GBSeq_organism>Saccharomonospora viridis DSM 43017</GBSeq_organism>
+./Z38003.xml:  <GBSeq_organism>Saccharomonospora glauca K62</GBSeq_organism>
+./AY426714.xml:  <GBSeq_organism>Actinoalloteichus spitiensis RMV-1378</GBSeq_organism>
+./X79183.xml:  <GBSeq_organism>Thermocrispum agreste DSM 44070</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./DQ144222.xml:  <GBSeq_organism>Actinoalloteichus hymeniacidonis</GBSeq_organism>
+./X76962.xml:  <GBSeq_organism>Saccharopolyspora gregorii</GBSeq_organism>
+./AF051343.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./AJ512464.xml:  <GBSeq_organism>Kibdelosporangium philippinense</GBSeq_organism>
+./X54288.xml:  <GBSeq_organism>Pseudonocardia autotrophica</GBSeq_organism>
+./X53198.xml:  <GBSeq_organism>Saccharopolyspora erythraea NRRL 2338</GBSeq_organism>
+./X53196.xml:  <GBSeq_organism>Saccharopolyspora hirsuta</GBSeq_organism>
+./X76955.xml:  <GBSeq_organism>Pseudonocardia hydrocarbonoxydans</GBSeq_organism>
+./Z38018.xml:  <GBSeq_organism>Saccharomonospora cyanea</GBSeq_organism>
+./X53200.xml:  <GBSeq_organism>Actinokineospora fastidiosa</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AF114806.xml:  <GBSeq_organism>Crossiella cryophila</GBSeq_organism>
+./X76958.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./AB006178.xml:  <GBSeq_organism>Actinoalloteichus cyanogriseus</GBSeq_organism>
+./AF114801.xml:  <GBSeq_organism>Kutzneria kofuensis</GBSeq_organism>
+./AF245017.xml:  <GBSeq_organism>Crossiella equi</GBSeq_organism>
+./X79184.xml:  <GBSeq_organism>Thermocrispum municipale DSM 44069</GBSeq_organism>
+./AJ311174.xml:  <GBSeq_organism>Kibdelosporangium aridum</GBSeq_organism>

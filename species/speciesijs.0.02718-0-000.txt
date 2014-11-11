@@ -1,0 +1,9 @@
+./AJ009930.xml:  <GBSeq_organism>Erwinia pyrifoliae Ep1/96</GBSeq_organism>
+./U80205.xml:  <GBSeq_organism>Erwinia persicina</GBSeq_organism>
+./U80195.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AJ283417.xml:  <GBSeq_organism>Anopheles gambiae</GBSeq_organism>
+./U80201.xml:  <GBSeq_organism>Pantoea cypripedii</GBSeq_organism>
+./Y13250.xml:  <GBSeq_organism>Erwinia tracheiphila</GBSeq_organism>
+./AF130967.xml:  <GBSeq_organism>Pantoea oleae</GBSeq_organism>
+./AY131237.xml:  <GBSeq_organism>Erwinia papayae</GBSeq_organism>
+./AJ233414.xml:  <GBSeq_organism>Erwinia mallotivora</GBSeq_organism>

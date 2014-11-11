@@ -1,0 +1,39 @@
+./D85716.xml:  <GBSeq_organism>Chlamydia pecorum</GBSeq_organism>
+./U76710.xml:  <GBSeq_organism>Chlamydophila abortus</GBSeq_organism>
+./AE001273.xml:  <GBSeq_organism>Chlamydia trachomatis D/UW-3/CX</GBSeq_organism>
+./AJ131088.xml:  <GBSeq_organism>Chlamydia trachomatis</GBSeq_organism>
+./BX119912.xml:  <GBSeq_organism>Rhodopirellula baltica SH 1</GBSeq_organism>
+./AE002160.xml:  <GBSeq_organism>Chlamydia muridarum str. Nigg</GBSeq_organism>
+./AY462244.xml:  <GBSeq_organism>Candidatus Piscichlamydia salmonis</GBSeq_organism>
+./Y07555.xml:  <GBSeq_organism>Parachlamydia acanthamoebae</GBSeq_organism>
+./U68451.xml:  <GBSeq_organism>Chlamydophila caviae</GBSeq_organism>
+./U73108.xml:  <GBSeq_organism>Chlamydophila psittaci</GBSeq_organism>
+./U76711.xml:  <GBSeq_organism>Chlamydia pneumoniae</GBSeq_organism>
+./AF177275.xml:  <GBSeq_organism>Neochlamydia hartmannellae</GBSeq_organism>
+./D85708.xml:  <GBSeq_organism>Chlamydophila caviae</GBSeq_organism>
+./AY140910.xml:  <GBSeq_organism>Candidatus Fritschea bemisiae</GBSeq_organism>
+./U68434.xml:  <GBSeq_organism>Chlamydia pecorum</GBSeq_organism>
+./AJ012178.xml:  <GBSeq_organism>Simkania negevensis</GBSeq_organism>
+./AF042496.xml:  <GBSeq_organism>Waddlia chondrophila WSU 86-1044</GBSeq_organism>
+./AJ012171.xml:  <GBSeq_organism>Chlamydophila felis</GBSeq_organism>
+./U68436.xml:  <GBSeq_organism>Chlamydia muridarum</GBSeq_organism>
+./U68443.xml:  <GBSeq_organism>Chlamydia trachomatis</GBSeq_organism>
+./U68457.xml:  <GBSeq_organism>Chlamydophila felis</GBSeq_organism>
+./U68447.xml:  <GBSeq_organism>Chlamydia psittaci 6BC</GBSeq_organism>
+./AJ748539.xml:  <GBSeq_organism>Candidatus Protochlamydia amoebophila</GBSeq_organism>
+./BX908798.xml:  <GBSeq_organism>Candidatus Protochlamydia amoebophila UWE25</GBSeq_organism>
+./U73109.xml:  <GBSeq_organism>Chlamydia suis</GBSeq_organism>
+./AY223862.xml:  <GBSeq_organism>Candidatus Rhabdochlamydia porcellionis</GBSeq_organism>
+./AY140911.xml:  <GBSeq_organism>Candidatus Fritschea eriococci</GBSeq_organism>
+./AE002161.xml:  <GBSeq_organism>Chlamydophila pneumoniae AR39</GBSeq_organism>
+./AJ012170.xml:  <GBSeq_organism>Chlamydophila abortus</GBSeq_organism>
+./AJ012174.xml:  <GBSeq_organism>Chlamydia pneumoniae</GBSeq_organism>
+./AJ012173.xml:  <GBSeq_organism>Chlamydia pecorum</GBSeq_organism>
+./M59178.xml:  <GBSeq_organism>Chlamydia trachomatis</GBSeq_organism>
+./L27666.xml:  <GBSeq_organism>Simkania negevensis</GBSeq_organism>
+./AJ012172.xml:  <GBSeq_organism>Chlamydophila caviae</GBSeq_organism>
+./D85718.xml:  <GBSeq_organism>Chlamydia muridarum</GBSeq_organism>
+./U68420.xml:  <GBSeq_organism>Chlamydia suis</GBSeq_organism>
+./D85701.xml:  <GBSeq_organism>Chlamydophila felis</GBSeq_organism>
+./U68460.xml:  <GBSeq_organism>Simkania negevensis</GBSeq_organism>
+./AJ012177.xml:  <GBSeq_organism>Chlamydia muridarum</GBSeq_organism>

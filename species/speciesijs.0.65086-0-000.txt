@@ -1,0 +1,17 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AB091194.xml:  <GBSeq_organism>Frateuria aurantia DSM 6220</GBSeq_organism>
+./AM087226.xml:  <GBSeq_organism>Rhodanobacter spathiphylli B39</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./Y10756.xml:  <GBSeq_organism>Xanthomonas melonis</GBSeq_organism>
+./AB100608.xml:  <GBSeq_organism>Rhodanobacter fulvus Jip2</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./AB286179.xml:  <GBSeq_organism>Rhodanobacter thiooxydans LCS2</GBSeq_organism>
+./Y10766.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./AB110498.xml:  <GBSeq_organism>Dyella japonica</GBSeq_organism>
+./AY884571.xml:  <GBSeq_organism>Dyella koreensis</GBSeq_organism>
+./AB019582.xml:  <GBSeq_organism>Lysobacter antibioticus</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

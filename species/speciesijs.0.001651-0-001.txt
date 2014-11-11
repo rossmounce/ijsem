@@ -1,0 +1,47 @@
+./AB178433.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./AY186195.xml:  <GBSeq_organism>Thalassospira profundimaris WP0211</GBSeq_organism>
+./AF544015.xml:  <GBSeq_organism>Parvularcula bermudensis HTCC2503</GBSeq_organism>
+./AY682384.xml:  <GBSeq_organism>Kordiimonas gwangyangensis</GBSeq_organism>
+./AY189753.xml:  <GBSeq_organism>Thalassospira xiamenensis M-5 = DSM 17429</GBSeq_organism>
+./AJ316199.xml:  <GBSeq_organism>Vibrio chagasii</GBSeq_organism>
+./AY785323.xml:  <GBSeq_organism>Phyllobacterium leguminum</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./X53855.xml:  <GBSeq_organism>Rhodobacter sphaeroides</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AF281031.xml:  <GBSeq_organism>Zymomonas mobilis subsp. mobilis ATCC 10988</GBSeq_organism>
+./AM231587.xml:  <GBSeq_organism>Roseomonas aquatica</GBSeq_organism>
+./D88523.xml:  <GBSeq_organism>Thalassobius gelatinovorus</GBSeq_organism>
+./AM294944.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./AY486423.xml:  <GBSeq_organism>Pseudovibrio denitrificans</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AM283537.xml:  <GBSeq_organism>Roseospira goensis</GBSeq_organism>
+./AF072542.xml:  <GBSeq_organism>Pseudaminobacter salicylatoxidans</GBSeq_organism>
+./M21789.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./AJ001276.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./CP000230.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AF144036.xml:  <GBSeq_organism>Pseudoalteromonas maricaloris</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./M59064.xml:  <GBSeq_organism>Brevundimonas diminuta</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./M59072.xml:  <GBSeq_organism>Rhodovibrio sodomensis</GBSeq_organism>
+./AB006768.xml:  <GBSeq_organism>Terasakiella pusilla</GBSeq_organism>
+./DQ167245.xml:  <GBSeq_organism>Kopriimonas byunsanensis</GBSeq_organism>
+./Y10677.xml:  <GBSeq_organism>Sphingomonas ursincola</GBSeq_organism>
+./AB175663.xml:  <GBSeq_organism>Pseudovibrio ascidiaceicola</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./X68388.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./AM749667.xml:  <GBSeq_organism>Kiloniella laminariae</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./AB159513.xml:  <GBSeq_organism>Photobacterium indicum</GBSeq_organism>
+./AP009048.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. W3110</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./AF513441.xml:  <GBSeq_organism>Nesiotobacter exalbescens</GBSeq_organism>
+./U23709.xml:  <GBSeq_organism>Wolbachia pipientis</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

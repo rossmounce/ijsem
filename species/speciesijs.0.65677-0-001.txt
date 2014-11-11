@@ -1,0 +1,21 @@
+./AM087824.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AM087825.xml:  <GBSeq_organism>Lactobacillus paraplantarum</GBSeq_organism>
+./AM087851.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>
+./AM087861.xml:  <GBSeq_organism>Lactobacillus fructivorans KCTC 3543 = DSM 20203</GBSeq_organism>
+./AB359074.xml:  <GBSeq_organism>Lactobacillus senmaizukei DSM 21775 = NBRC 103853</GBSeq_organism>
+./AM087848.xml:  <GBSeq_organism>Lactobacillus homohiochii</GBSeq_organism>
+./AM087797.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./AM087792.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AM087821.xml:  <GBSeq_organism>Lactobacillus versmoldensis</GBSeq_organism>
+./AM087867.xml:  <GBSeq_organism>Lactobacillus farciminis KCTC 3681 = DSM 20184</GBSeq_organism>
+./AM087817.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>
+./AM087816.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./AM263515.xml:  <GBSeq_organism>Lactobacillus paracollinoides</GBSeq_organism>
+./AM263516.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./AB359076.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./AM087777.xml:  <GBSeq_organism>Lactobacillus brevis</GBSeq_organism>
+./AM694188.xml:  <GBSeq_organism>Carnobacterium maltaromaticum</GBSeq_organism>
+./AM087808.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AM087826.xml:  <GBSeq_organism>Lactobacillus pentosus</GBSeq_organism>
+./AM087800.xml:  <GBSeq_organism>Lactobacillus mindensis</GBSeq_organism>
+./AM263512.xml:  <GBSeq_organism>Lactobacillus hammesii</GBSeq_organism>

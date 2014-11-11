@@ -1,0 +1,14 @@
+./M37200.xml:  <GBSeq_organism>Aeromicrobium erythreum</GBSeq_organism>
+./X53218.xml:  <GBSeq_organism>Propionibacterium acnes</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./X53217.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./Z78207.xml:  <GBSeq_organism>Microlunatus phosphovorus</GBSeq_organism>
+./D82046.xml:  <GBSeq_organism>Propionibacterium cyclohexanicum</GBSeq_organism>
+./Y10819.xml:  <GBSeq_organism>Propionibacterium freudenreichii</GBSeq_organism>
+./X53219.xml:  <GBSeq_organism>Propionibacterium jensenii</GBSeq_organism>
+./AF062535.xml:  <GBSeq_organism>Friedmanniella spumicola</GBSeq_organism>
+./X53221.xml:  <GBSeq_organism>Propionibacterium acidipropionici ATCC 4875</GBSeq_organism>
+./AF227165.xml:  <GBSeq_organism>Propioniferax innocua</GBSeq_organism>
+./X53220.xml:  <GBSeq_organism>Propionibacterium thoenii</GBSeq_organism>
+./AJ132334.xml:  <GBSeq_organism>Luteococcus peritonei</GBSeq_organism>
+./AJ416758.xml:  <GBSeq_organism>Luteococcus sanguinis</GBSeq_organism>

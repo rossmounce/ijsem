@@ -1,0 +1,21 @@
+./AB294169.xml:  <GBSeq_organism>Alkalibacterium putridalgicola</GBSeq_organism>
+./AB294170.xml:  <GBSeq_organism>Alkalibacterium putridalgicola</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./AB294178.xml:  <GBSeq_organism>Marinilactibacillus piezotolerans</GBSeq_organism>
+./AF445248.xml:  <GBSeq_organism>Atopostipes suicloacalis</GBSeq_organism>
+./AB294177.xml:  <GBSeq_organism>Alkalibacterium iburiense</GBSeq_organism>
+./X54258.xml:  <GBSeq_organism>Vagococcus fluvialis</GBSeq_organism>
+./X87150.xml:  <GBSeq_organism>Trichococcus pasteurii</GBSeq_organism>
+./AB167070.xml:  <GBSeq_organism>Alkalibacterium sp. ARD M12</GBSeq_organism>
+./L08623.xml:  <GBSeq_organism>Carnobacterium alterfunditum</GBSeq_organism>
+./Y17300.xml:  <GBSeq_organism>Desemzia incerta</GBSeq_organism>
+./AB294171.xml:  <GBSeq_organism>Alkalibacterium kapii</GBSeq_organism>
+./AB294168.xml:  <GBSeq_organism>Alkalibacterium putridalgicola</GBSeq_organism>
+./X75751.xml:  <GBSeq_organism>Melissococcus plutonius ATCC 35311</GBSeq_organism>
+./AB167074.xml:  <GBSeq_organism>Alkalibacterium sp. ARD M22</GBSeq_organism>
+./D88668.xml:  <GBSeq_organism>Tetragenococcus halophilus subsp. halophilus</GBSeq_organism>
+./AJ634917.xml:  <GBSeq_organism>Atopococcus tabaci</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./AJ410303.xml:  <GBSeq_organism>Allofustis seminis</GBSeq_organism>
+./Y18293.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>

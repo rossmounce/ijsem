@@ -1,0 +1,5 @@
+./AB362219.xml:  <GBSeq_organism>Acidocella aluminiidurans</GBSeq_organism>
+./D30771.xml:  <GBSeq_organism>Acidocella aminolytica</GBSeq_organism>
+./D30774.xml:  <GBSeq_organism>Acidocella facilis</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./D80778.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

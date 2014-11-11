@@ -1,0 +1,11 @@
+./AJ305320.xml:  <GBSeq_organism>Pediococcus acidilactici DSM 20284</GBSeq_organism>
+./AJ318414.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./AJ973157.xml:  <GBSeq_organism>Pediococcus stilesii</GBSeq_organism>
+./AJ271383.xml:  <GBSeq_organism>Pediococcus inopinatus</GBSeq_organism>
+./AB258357.xml:  <GBSeq_organism>Pediococcus siamensis</GBSeq_organism>
+./AY956789.xml:  <GBSeq_organism>Pediococcus ethanolidurans</GBSeq_organism>
+./AJ305321.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./M38018.xml:  <GBSeq_organism>Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456</GBSeq_organism>
+./D87679.xml:  <GBSeq_organism>Lactobacillus dextrinicus</GBSeq_organism>
+./AJ621555.xml:  <GBSeq_organism>Pediococcus claussenii</GBSeq_organism>
+./AY956788.xml:  <GBSeq_organism>Pediococcus cellicola</GBSeq_organism>

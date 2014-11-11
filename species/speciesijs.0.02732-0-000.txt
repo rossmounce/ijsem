@@ -1,0 +1,13 @@
+./AF280830.xml:  <GBSeq_organism>uncultured bacterium tbr4-10</GBSeq_organism>
+./Y17601.xml:  <GBSeq_organism>Propionivibrio dicarboxylicus</GBSeq_organism>
+./AF011345.xml:  <GBSeq_organism>Azoarcus indigens</GBSeq_organism>
+./AF280827.xml:  <GBSeq_organism>uncultured bacterium tbr4-2</GBSeq_organism>
+./L33692.xml:  <GBSeq_organism>Azoarcus toluvorans</GBSeq_organism>
+./AJ005817.xml:  <GBSeq_organism>Thauera terpenica 58Eu</GBSeq_organism>
+./X74913.xml:  <GBSeq_organism>Zoogloea ramigera</GBSeq_organism>
+./AF280835.xml:  <GBSeq_organism>uncultured bacterium tbr4-67</GBSeq_organism>
+./AF170348.xml:  <GBSeq_organism>Dechlorosoma suillum PS</GBSeq_organism>
+./X77118.xml:  <GBSeq_organism>Thauera aromatica</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AY294281.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>

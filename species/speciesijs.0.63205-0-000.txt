@@ -1,0 +1,23 @@
+./AJ301832.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./AJ301839.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./AJ276354.xml:  <GBSeq_organism>Enterococcus durans</GBSeq_organism>
+./AJ301827.xml:  <GBSeq_organism>Enterococcus cecorum DSM 20682 = ATCC 43198</GBSeq_organism>
+./AJ301829.xml:  <GBSeq_organism>Enterococcus dispar ATCC 51266</GBSeq_organism>
+./AF286832.xml:  <GBSeq_organism>Enterococcus haemoperoxidus</GBSeq_organism>
+./AJ301840.xml:  <GBSeq_organism>Tetragenococcus solitarius</GBSeq_organism>
+./AJ301828.xml:  <GBSeq_organism>Enterococcus columbae DSM 7374 = ATCC 51263</GBSeq_organism>
+./AJ301843.xml:  <GBSeq_organism>Tetragenococcus halophilus subsp. halophilus DSM 20339</GBSeq_organism>
+./AJ301833.xml:  <GBSeq_organism>Enterococcus gallinarum</GBSeq_organism>
+./D88824.xml:  <GBSeq_organism>Tetragenococcus muriaticus</GBSeq_organism>
+./AJ301826.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ301835.xml:  <GBSeq_organism>Enterococcus malodoratus</GBSeq_organism>
+./AJ301825.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AF286831.xml:  <GBSeq_organism>Enterococcus moraviensis</GBSeq_organism>
+./Y18296.xml:  <GBSeq_organism>Enterococcus raffinosus</GBSeq_organism>
+./AJ301831.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AJ301830.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AJ301837.xml:  <GBSeq_organism>Enterococcus pseudoavium</GBSeq_organism>
+./AJ271329.xml:  <GBSeq_organism>Enterococcus villorum</GBSeq_organism>
+./AJ301841.xml:  <GBSeq_organism>Enterococcus sulfureus ATCC 49903</GBSeq_organism>
+./AJ301834.xml:  <GBSeq_organism>Enterococcus hirae</GBSeq_organism>

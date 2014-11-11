@@ -1,0 +1,14 @@
+./AF064459.xml:  <GBSeq_organism>Pseudomonas rhodesiae</GBSeq_organism>
+./AF063219.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF268029.xml:  <GBSeq_organism>Pseudomonas grimontii</GBSeq_organism>
+./AJ289160.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./AF005184.xml:  <GBSeq_organism>Moraxella equi</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AF509827.xml:  <GBSeq_organism>Acinetobacter bouvetii</GBSeq_organism>
+./AY576769.xml:  <GBSeq_organism>Haliea salexigens DSM 19537</GBSeq_organism>
+./AF500006.xml:  <GBSeq_organism>Microbulbifer elongatus</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AJ584833.xml:  <GBSeq_organism>Psychrobacter aquaticus CMS 56</GBSeq_organism>
+./AF328766.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>

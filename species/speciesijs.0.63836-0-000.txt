@@ -1,0 +1,15 @@
+./AY442263.xml:  <GBSeq_organism>Kitasatospora nipponensis</GBSeq_organism>
+./AY189976.xml:  <GBSeq_organism>Kitasatospora putterlickiae</GBSeq_organism>
+./AY442265.xml:  <GBSeq_organism>Kitasatospora gansuensis</GBSeq_organism>
+./AY442268.xml:  <GBSeq_organism>Kitasatospora paranensis</GBSeq_organism>
+./AF050493.xml:  <GBSeq_organism>Kitasatospora cheerisanensis</GBSeq_organism>
+./U93320.xml:  <GBSeq_organism>Kitasatospora griseola</GBSeq_organism>
+./AY613990.xml:  <GBSeq_organism>Kitasatospora viridis</GBSeq_organism>
+./U93318.xml:  <GBSeq_organism>Kitasatospora cystarginea</GBSeq_organism>
+./U93324.xml:  <GBSeq_organism>Kitasatospora mediocidica</GBSeq_organism>
+./U93330.xml:  <GBSeq_organism>Kitasatospora phosalacinea</GBSeq_organism>
+./U93312.xml:  <GBSeq_organism>Kitasatospora azatica</GBSeq_organism>
+./AY442266.xml:  <GBSeq_organism>Kitasatospora terrestris</GBSeq_organism>
+./AY260161.xml:  <GBSeq_organism>Echinosophora koreensis</GBSeq_organism>
+./AY442267.xml:  <GBSeq_organism>Kitasatospora arboriphila</GBSeq_organism>
+./AB022874.xml:  <GBSeq_organism>Kitasatospora kifunensis</GBSeq_organism>

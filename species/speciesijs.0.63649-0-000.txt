@@ -1,0 +1,38 @@
+./AB043849.xml:  <GBSeq_organism>Bacillus sp. D6</GBSeq_organism>
+./AB043857.xml:  <GBSeq_organism>Bacillus sp. 2b-2</GBSeq_organism>
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./AY376312.xml:  <GBSeq_organism>Bacillus bogoriensis</GBSeq_organism>
+./AB043843.xml:  <GBSeq_organism>Bacillus sp. 17-1</GBSeq_organism>
+./AB043855.xml:  <GBSeq_organism>Bacillus sp. IC</GBSeq_organism>
+./AY258614.xml:  <GBSeq_organism>Bacillus patagoniensis</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./AJ493660.xml:  <GBSeq_organism>Bacillus saliphilus</GBSeq_organism>
+./AB043847.xml:  <GBSeq_organism>Bacillus sp. C-3</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./X76441.xml:  <GBSeq_organism>Bacillus sp.</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AB042063.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AB043844.xml:  <GBSeq_organism>Bacillus sp. 202-1</GBSeq_organism>
+./AB021189.xml:  <GBSeq_organism>Bacillus lentus</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AB086897.xml:  <GBSeq_organism>Bacillus krulwichiae</GBSeq_organism>
+./D87035.xml:  <GBSeq_organism>Bacillus horti</GBSeq_organism>
+./X76444.xml:  <GBSeq_organism>[Bacillus] clarkii</GBSeq_organism>
+./AB043862.xml:  <GBSeq_organism>Bacillus sp. KX6</GBSeq_organism>
+./AB043842.xml:  <GBSeq_organism>Bacillus sp. 8-1</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AB043865.xml:  <GBSeq_organism>Bacillus horikoshii DSM 8719</GBSeq_organism>
+./AB021187.xml:  <GBSeq_organism>Bacillus halodurans</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./AB043864.xml:  <GBSeq_organism>Bacillus mannanilyticus</GBSeq_organism>
+./AB043846.xml:  <GBSeq_organism>Bacillus hemicellulosilyticus</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./AB043852.xml:  <GBSeq_organism>Bacillus cellulosilyticus DSM 2522</GBSeq_organism>
+./D78312.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AB047684.xml:  <GBSeq_organism>Bacillus okuhidensis</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AB043860.xml:  <GBSeq_organism>Bacillus sp. S2</GBSeq_organism>
+./AB043859.xml:  <GBSeq_organism>Bacillus sp. H167</GBSeq_organism>
+./X76445.xml:  <GBSeq_organism>[Bacillus] agaradhaerens</GBSeq_organism>
+./AB188090.xml:  <GBSeq_organism>Bacillus oshimensis</GBSeq_organism>

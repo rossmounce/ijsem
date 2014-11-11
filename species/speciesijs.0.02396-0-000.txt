@@ -1,0 +1,8 @@
+./U96183.xml:  <GBSeq_organism>Leifsonia xyli subsp. xyli</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./AJ438585.xml:  <GBSeq_organism>Leifsonia rubra</GBSeq_organism>
+./AJ438586.xml:  <GBSeq_organism>Rhodoglobus aureus</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./AF116342.xml:  <GBSeq_organism>Leifsonia poae</GBSeq_organism>

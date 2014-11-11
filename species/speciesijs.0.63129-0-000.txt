@@ -1,0 +1,12 @@
+./AJ297437.xml:  <GBSeq_organism>Exiguobacterium antarcticum</GBSeq_organism>
+./AF234858.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./X70320.xml:  <GBSeq_organism>Kurthia gibsonii</GBSeq_organism>
+./AJ237708.xml:  <GBSeq_organism>Jeotgalibacillus marinus</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X70313.xml:  <GBSeq_organism>Exiguobacterium acetylicum</GBSeq_organism>
+./AJ344151.xml:  <GBSeq_organism>Exiguobacterium undae</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./X60640.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AF202057.xml:  <GBSeq_organism>Sporosarcina ureae</GBSeq_organism>
+./AJ133631.xml:  <GBSeq_organism>Alicyclobacillus acidoterrestris</GBSeq_organism>
+./AB105164.xml:  <GBSeq_organism>Exiguobacterium oxidotolerans</GBSeq_organism>

@@ -1,0 +1,54 @@
+./AJ315481.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY049713.xml:  <GBSeq_organism>Victivallis vadensis ATCC BAA-548</GBSeq_organism>
+./AF513965.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302114.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302120.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302111.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./U60012.xml:  <GBSeq_organism>Prosthecobacter dejongeii</GBSeq_organism>
+./AF001775.xml:  <GBSeq_organism>unidentified rumen bacterium RFP12</GBSeq_organism>
+./AY388649.xml:  <GBSeq_organism>Chthoniobacter flavus Ellin428</GBSeq_organism>
+./AY211073.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302119.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY326520.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./DQ302104.xml:  <GBSeq_organism>Rubritalea marina</GBSeq_organism>
+./AJ441222.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302112.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY271254.xml:  <GBSeq_organism>Akkermansia muciniphila ATCC BAA-835</GBSeq_organism>
+./X99392.xml:  <GBSeq_organism>Opitutus sp. VeSm13</GBSeq_organism>
+./AY234519.xml:  <GBSeq_organism>bacterium Ellin5102</GBSeq_organism>
+./DQ302105.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AF027005.xml:  <GBSeq_organism>unidentified Verrucomicrobium group OPB35</GBSeq_organism>
+./X90515.xml:  <GBSeq_organism>Verrucomicrobium spinosum DSM 4136 = JCM 18804</GBSeq_organism>
+./AF050559.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-25</GBSeq_organism>
+./AF234133.xml:  <GBSeq_organism>uncultured bacterium #0319-6L10</GBSeq_organism>
+./AY028220.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AY345492.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY028221.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AF075271.xml:  <GBSeq_organism>Alterococcus agarolyticus</GBSeq_organism>
+./AY326523.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AF217462.xml:  <GBSeq_organism>Candidatus Xiphinematobacter brevicolli</GBSeq_organism>
+./AJ441243.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ441223.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ289992.xml:  <GBSeq_organism>uncultured bacterium FukuN18</GBSeq_organism>
+./AJ229235.xml:  <GBSeq_organism>Opitutus terrae PB90-1</GBSeq_organism>
+./AJ401132.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV114</GBSeq_organism>
+./DQ302117.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302116.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AB154319.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY752115.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY212657.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF050560.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-41</GBSeq_organism>
+./AY770729.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AF234711.xml:  <GBSeq_organism>uncultured sludge bacterium H2</GBSeq_organism>
+./AJ401130.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV179</GBSeq_organism>
+./Y19169.xml:  <GBSeq_organism>Epixenosomes of Euplotidium arenarium</GBSeq_organism>
+./AF316731.xml:  <GBSeq_organism>uncultured Crater Lake bacterium CL500-85</GBSeq_organism>
+./AY033323.xml:  <GBSeq_organism>uncultured verrucomicrobium MB11C04</GBSeq_organism>
+./AJ401105.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV005</GBSeq_organism>
+./AY135670.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ302115.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./AJ401104.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV003</GBSeq_organism>
+./AJ401115.xml:  <GBSeq_organism>uncultured verrucomicrobium DEV008</GBSeq_organism>
+./AF009974.xml:  <GBSeq_organism>unidentified eubacterium LD19</GBSeq_organism>
+./DQ302107.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>
+./DQ302110.xml:  <GBSeq_organism>uncultured Verrucomicrobia bacterium</GBSeq_organism>

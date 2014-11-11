@@ -1,0 +1,14 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./GU902979.xml:  <GBSeq_organism>Nonlabens ulvanivorans</GBSeq_organism>
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./EU135715.xml:  <GBSeq_organism>Psychroflexus sediminis</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./M58772.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./EF520007.xml:  <GBSeq_organism>Salinimicrobium xinjiangense</GBSeq_organism>
+./AB206955.xml:  <GBSeq_organism>Nonlabens sediminis</GBSeq_organism>
+./AM230490.xml:  <GBSeq_organism>Flavobacterium pectinovorum</GBSeq_organism>
+./AY883939.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EF108219.xml:  <GBSeq_organism>Gaetbulibacter marinus</GBSeq_organism>
+./GU902980.xml:  <GBSeq_organism>Nonlabens xylanidelens</GBSeq_organism>

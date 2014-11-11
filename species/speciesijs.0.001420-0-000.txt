@@ -1,0 +1,6 @@
+./AB009457.xml:  <GBSeq_organism>Pseudomonas plecoglossicida</GBSeq_organism>
+./AB021380.xml:  <GBSeq_organism>Pseudomonas pertucinogena</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./EU286805.xml:  <GBSeq_organism>Pseudomonas xinjiangensis</GBSeq_organism>
+./D84024.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>

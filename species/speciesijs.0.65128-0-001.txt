@@ -1,0 +1,20 @@
+./AF358664.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./X67221.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./DQ393891.xml:  <GBSeq_organism>Azospirillum canadense</GBSeq_organism>
+./M59061.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./AY150050.xml:  <GBSeq_organism>Roseomonas genomospecies 6</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./X79739.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./AY150047.xml:  <GBSeq_organism>Roseomonas cervicalis</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AF538712.xml:  <GBSeq_organism>Roseomonas mucosa</GBSeq_organism>
+./AJ238567.xml:  <GBSeq_organism>Azospirillum doebereinerae</GBSeq_organism>
+./X79731.xml:  <GBSeq_organism>Azospirillum halopraeferens</GBSeq_organism>
+./X90759.xml:  <GBSeq_organism>Azospirillum largimobile</GBSeq_organism>
+./DQ682470.xml:  <GBSeq_organism>Azospirillum zeae</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

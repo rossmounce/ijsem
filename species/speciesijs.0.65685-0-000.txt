@@ -1,0 +1,10 @@
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./AF005184.xml:  <GBSeq_organism>Moraxella equi</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AJ888984.xml:  <GBSeq_organism>Acinetobacter calcoaceticus</GBSeq_organism>
+./AY576769.xml:  <GBSeq_organism>Haliea salexigens DSM 19537</GBSeq_organism>
+./AF500006.xml:  <GBSeq_organism>Microbulbifer elongatus</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AJ309942.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AY576729.xml:  <GBSeq_organism>Melitea salexigens</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

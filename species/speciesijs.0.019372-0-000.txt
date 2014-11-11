@@ -1,0 +1,27 @@
+./X95919.xml:  <GBSeq_organism>Xanthomonas axonopodis</GBSeq_organism>
+./AF192343.xml:  <GBSeq_organism>Xylella fastidiosa</GBSeq_organism>
+./AF273082.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./AB166685.xml:  <GBSeq_organism>Gallus varius</GBSeq_organism>
+./AJ252143.xml:  <GBSeq_organism>Ignatzschineria larvae DSM 13226</GBSeq_organism>
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./X99299.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./X95920.xml:  <GBSeq_organism>Xanthomonas fragariae</GBSeq_organism>
+./FJ748683.xml:  <GBSeq_organism>Stenotrophomonas pavanii</GBSeq_organism>
+./AF542054.xml:  <GBSeq_organism>Thermomonas hydrothermalis</GBSeq_organism>
+./AM403587.xml:  <GBSeq_organism>Stenotrophomonas humi</GBSeq_organism>
+./X95922.xml:  <GBSeq_organism>Xanthomonas populi</GBSeq_organism>
+./Y10756.xml:  <GBSeq_organism>Xanthomonas melonis</GBSeq_organism>
+./AF039167.xml:  <GBSeq_organism>Rhodanobacter lindaniclasticus</GBSeq_organism>
+./X95921.xml:  <GBSeq_organism>Xanthomonas oryzae</GBSeq_organism>
+./AB021406.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AM403589.xml:  <GBSeq_organism>Stenotrophomonas terrae</GBSeq_organism>
+./Y10766.xml:  <GBSeq_organism>Xanthomonas sacchari</GBSeq_organism>
+./AB021391.xml:  <GBSeq_organism>[Pseudomonas] boreopolis</GBSeq_organism>
+./AB021392.xml:  <GBSeq_organism>[Pseudomonas] pictorum</GBSeq_organism>
+./AF506987.xml:  <GBSeq_organism>Cardiobacterium valvarum</GBSeq_organism>
+./AB021405.xml:  <GBSeq_organism>Pseudomonas hibiscicola</GBSeq_organism>
+./X95918.xml:  <GBSeq_organism>Xanthomonas albilineans</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

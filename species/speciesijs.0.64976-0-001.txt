@@ -1,0 +1,35 @@
+./AJ252826.xml:  <GBSeq_organism>Pseudonocardia hydrocarbonoxydans</GBSeq_organism>
+./U58523.xml:  <GBSeq_organism>Thermobispora bispora DSM 43833</GBSeq_organism>
+./AF454510.xml:  <GBSeq_organism>Pseudonocardia chloroethenivorans</GBSeq_organism>
+./AY340622.xml:  <GBSeq_organism>Pseudonocardia dioxanivorans CB1190</GBSeq_organism>
+./AJ249206.xml:  <GBSeq_organism>Pseudonocardia spinosispora</GBSeq_organism>
+./D85472.xml:  <GBSeq_organism>Pseudonocardia yunnanensis</GBSeq_organism>
+./U58530.xml:  <GBSeq_organism>Kutzneria viridogrisea</GBSeq_organism>
+./X54287.xml:  <GBSeq_organism>Actinopolyspora halophila</GBSeq_organism>
+./X79185.xml:  <GBSeq_organism>Thermocrispum municipale</GBSeq_organism>
+./AJ252824.xml:  <GBSeq_organism>Pseudonocardia autotrophica</GBSeq_organism>
+./AF325725.xml:  <GBSeq_organism>Pseudonocardia zijingensis</GBSeq_organism>
+./AJ512464.xml:  <GBSeq_organism>Kibdelosporangium philippinense</GBSeq_organism>
+./AJ249200.xml:  <GBSeq_organism>Pseudonocardia tetrahydrofuranoxydans</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./AJ512463.xml:  <GBSeq_organism>Kibdelosporangium aridum subsp. largum</GBSeq_organism>
+./D85497.xml:  <GBSeq_organism>Streptoalloteichus hindustanus</GBSeq_organism>
+./D86935.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./AF325726.xml:  <GBSeq_organism>Pseudonocardia alaniniphila</GBSeq_organism>
+./AF325727.xml:  <GBSeq_organism>Pseudonocardia aurantiaca</GBSeq_organism>
+./AJ252828.xml:  <GBSeq_organism>Pseudonocardia petroleophila</GBSeq_organism>
+./AJ556156.xml:  <GBSeq_organism>Pseudonocardia benzenivorans</GBSeq_organism>
+./AY500143.xml:  <GBSeq_organism>Pseudonocardia ammonioxydans</GBSeq_organism>
+./Y08536.xml:  <GBSeq_organism>Pseudonocardia asaccharolytica</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./AJ576010.xml:  <GBSeq_organism>Pseudonocardia antarctica</GBSeq_organism>
+./AJ252833.xml:  <GBSeq_organism>Pseudonocardia kongjuensis</GBSeq_organism>
+./Y08534.xml:  <GBSeq_organism>Pseudonocardia halophobica</GBSeq_organism>
+./DQ343154.xml:  <GBSeq_organism>Pseudonocardia oroxyli</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./Y08535.xml:  <GBSeq_organism>Pseudonocardia alni</GBSeq_organism>
+./AJ252825.xml:  <GBSeq_organism>Pseudonocardia compacta</GBSeq_organism>
+./Y08537.xml:  <GBSeq_organism>Pseudonocardia sulfidoxydans</GBSeq_organism>
+./AF245017.xml:  <GBSeq_organism>Crossiella equi</GBSeq_organism>
+./AJ252829.xml:  <GBSeq_organism>Pseudonocardia saturnea</GBSeq_organism>
+./AF325728.xml:  <GBSeq_organism>Pseudonocardia xinjiangensis</GBSeq_organism>

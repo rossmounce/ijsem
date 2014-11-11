@@ -1,0 +1,15 @@
+./AF143794.xml:  <GBSeq_organism>Burkholderia pyrrocinia</GBSeq_organism>
+./AF143775.xml:  <GBSeq_organism>Burkholderia multivorans ATCC 17616</GBSeq_organism>
+./AF456029.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AF143793.xml:  <GBSeq_organism>Burkholderia vietnamiensis</GBSeq_organism>
+./AF143779.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AY324808.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AF143786.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AF143784.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF143790.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF456033.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AF323971.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AF456030.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AY324807.xml:  <GBSeq_organism>Burkholderia dolosa</GBSeq_organism>
+./AF456060.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF323985.xml:  <GBSeq_organism>Burkholderia ambifaria</GBSeq_organism>

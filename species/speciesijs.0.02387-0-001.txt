@@ -1,0 +1,11 @@
+./AJ313530.xml:  <GBSeq_organism>Lactobacillus mindensis</GBSeq_organism>
+./M58821.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AJ270951.xml:  <GBSeq_organism>Lactobacillus curvatus</GBSeq_organism>
+./AJ417500.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./M58817.xml:  <GBSeq_organism>Lactobacillus farciminis</GBSeq_organism>
+./D79212.xml:  <GBSeq_organism>Lactobacillus paracasei subsp. paracasei</GBSeq_organism>
+./AJ496791.xml:  <GBSeq_organism>Lactobacillus versmoldensis</GBSeq_organism>
+./M58829.xml:  <GBSeq_organism>Lactobacillus sakei</GBSeq_organism>
+./AF183558.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

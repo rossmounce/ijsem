@@ -1,0 +1,18 @@
+./AM905330.xml:  <GBSeq_organism>Ruegeria scottomollicae</GBSeq_organism>
+./EF192392.xml:  <GBSeq_organism>Pelagicola litoralis</GBSeq_organism>
+./AM904562.xml:  <GBSeq_organism>Nautella italica</GBSeq_organism>
+./AY180103.xml:  <GBSeq_organism>Sulfitobacter delicatus</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AY962292.xml:  <GBSeq_organism>Shimia marina</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AY442178.xml:  <GBSeq_organism>Thalassobius aestuarii</GBSeq_organism>
+./FJ265707.xml:  <GBSeq_organism>Salinihabitans flavidus</GBSeq_organism>
+./AB193438.xml:  <GBSeq_organism>Tateyamaria omphalii</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./AM943630.xml:  <GBSeq_organism>Leisingera caerulea</GBSeq_organism>
+./EU156066.xml:  <GBSeq_organism>Roseovarius aestuarii</GBSeq_organism>
+./EF202613.xml:  <GBSeq_organism>Loktanella maricola</GBSeq_organism>
+./AY180102.xml:  <GBSeq_organism>Sulfitobacter dubius</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./L01784.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>

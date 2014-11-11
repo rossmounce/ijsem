@@ -1,0 +1,9 @@
+./AB021373.xml:  <GBSeq_organism>Pseudomonas resinovorans</GBSeq_organism>
+./U26418.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AY770691.xml:  <GBSeq_organism>Pseudomonas segetis</GBSeq_organism>
+./D84006.xml:  <GBSeq_organism>Pseudomonas alcaligenes</GBSeq_organism>
+./Z76651.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>
+./M59154.xml:  <GBSeq_organism>Pseudomonas mendocina</GBSeq_organism>

@@ -1,0 +1,29 @@
+./AJ508240.xml:  <GBSeq_organism>Amycolatopsis vancoresmycina</GBSeq_organism>
+./AJ400710.xml:  <GBSeq_organism>Actinokineospora fastidiosa</GBSeq_organism>
+./AY262825.xml:  <GBSeq_organism>Amycolatopsis plumensis</GBSeq_organism>
+./AJ400711.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./AJ278496.xml:  <GBSeq_organism>Amycolatopsis keratiniphila</GBSeq_organism>
+./AJ577997.xml:  <GBSeq_organism>Amycolatopsis lurida</GBSeq_organism>
+./AJ000285.xml:  <GBSeq_organism>Amycolatopsis sp.</GBSeq_organism>
+./AY183356.xml:  <GBSeq_organism>Amycolatopsis pretoriensis</GBSeq_organism>
+./AF051343.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./AJ252832.xml:  <GBSeq_organism>Amycolatopsis albidoflavus</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AJ508237.xml:  <GBSeq_organism>Amycolatopsis decaplanina DSM 44594</GBSeq_organism>
+./AF223354.xml:  <GBSeq_organism>Amycolatopsis sacchari</GBSeq_organism>
+./AJ508238.xml:  <GBSeq_organism>Amycolatopsis keratiniphila subsp. nogabecina</GBSeq_organism>
+./AJ508239.xml:  <GBSeq_organism>Amycolatopsis balhimycina</GBSeq_organism>
+./AJ400709.xml:  <GBSeq_organism>Amycolatopsis azurea</GBSeq_organism>
+./AY183357.xml:  <GBSeq_organism>Amycolatopsis kentuckyensis</GBSeq_organism>
+./AF051341.xml:  <GBSeq_organism>Amycolatopsis coloradensis</GBSeq_organism>
+./AY183358.xml:  <GBSeq_organism>Amycolatopsis lexingtonensis</GBSeq_organism>
+./AF052390.xml:  <GBSeq_organism>Amycolatopsis thermoflava N1165</GBSeq_organism>
+./AY083603.xml:  <GBSeq_organism>Amycolatopsis rifamycinica</GBSeq_organism>
+./AF051340.xml:  <GBSeq_organism>Amycolatopsis alba DSM 44262</GBSeq_organism>
+./X77959.xml:  <GBSeq_organism>Amycolatopsis sp.</GBSeq_organism>
+./DQ160215.xml:  <GBSeq_organism>Amycolatopsis taiwanensis</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>
+./AY184424.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./AJ508241.xml:  <GBSeq_organism>Amycolatopsis tolypomycina</GBSeq_organism>
+./AF222022.xml:  <GBSeq_organism>Amycolatopsis rubida</GBSeq_organism>
+./AJ243301.xml:  <GBSeq_organism>Amycolatopsis lactamdurans</GBSeq_organism>

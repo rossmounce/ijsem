@@ -1,0 +1,17 @@
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./U82327.xml:  <GBSeq_organism>Moorella glycerini</GBSeq_organism>
+./X58352.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./X71854.xml:  <GBSeq_organism>[Clostridium] termitidis</GBSeq_organism>
+./X92513.xml:  <GBSeq_organism>Thermoanaerobacter wiegelii Rt8.B1</GBSeq_organism>
+./AF130258.xml:  <GBSeq_organism>Caldicellulosiruptor saccharolyticus</GBSeq_organism>
+./L09165.xml:  <GBSeq_organism>Thermoanaerobacter brockii</GBSeq_organism>
+./AY331143.xml:  <GBSeq_organism>Mahella australiensis 50-1 BON</GBSeq_organism>
+./L09172.xml:  <GBSeq_organism>Thermoanaerobacterium xylanolyticum</GBSeq_organism>
+./L09161.xml:  <GBSeq_organism>Thermoanaerobacter thermohydrosulfuricus</GBSeq_organism>
+./X93359.xml:  <GBSeq_organism>Thermoanaerobacterium aotearoense</GBSeq_organism>
+./U80596.xml:  <GBSeq_organism>Caldicellulosiruptor owensensis OL</GBSeq_organism>
+./L09162.xml:  <GBSeq_organism>Thermoanaerobacter ethanolicus</GBSeq_organism>
+./AY216597.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./U75993.xml:  <GBSeq_organism>Caldanaerobius zeae</GBSeq_organism>

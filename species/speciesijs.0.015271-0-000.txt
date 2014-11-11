@@ -1,0 +1,11 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./DQ338443.xml:  <GBSeq_organism>Paenibacillus forsythiae</GBSeq_organism>
+./AJ633647.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./AJ223987.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./EF079062.xml:  <GBSeq_organism>Paenibacillus donghaensis</GBSeq_organism>
+./DQ471303.xml:  <GBSeq_organism>Paenibacillus zanthoxyli</GBSeq_organism>
+./AJ316013.xml:  <GBSeq_organism>Paenibacillus stellifer</GBSeq_organism>
+./EU815300.xml:  <GBSeq_organism>Paenibacillus glacialis</GBSeq_organism>
+./AJ223990.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./AJ605292.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>

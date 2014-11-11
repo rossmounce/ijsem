@@ -1,0 +1,33 @@
+./D86189.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./D89332.xml:  <GBSeq_organism>Scardovia inopinata JCM 12537</GBSeq_organism>
+./D89331.xml:  <GBSeq_organism>Parascardovia denticolens DSM 10105 = JCM 12538</GBSeq_organism>
+./D86184.xml:  <GBSeq_organism>Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088</GBSeq_organism>
+./FJ858737.xml:  <GBSeq_organism>Bifidobacterium bohemicum</GBSeq_organism>
+./D86185.xml:  <GBSeq_organism>Bifidobacterium animalis</GBSeq_organism>
+./M58732.xml:  <GBSeq_organism>Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043</GBSeq_organism>
+./M58735.xml:  <GBSeq_organism>Bifidobacterium dentium</GBSeq_organism>
+./AB438223.xml:  <GBSeq_organism>Bifidobacterium cuniculi</GBSeq_organism>
+./AB437361.xml:  <GBSeq_organism>Bifidobacterium thermacidophilum subsp. porcinum</GBSeq_organism>
+./D86186.xml:  <GBSeq_organism>Bifidobacterium choerinum</GBSeq_organism>
+./M58739.xml:  <GBSeq_organism>Bifidobacterium longum</GBSeq_organism>
+./M58733.xml:  <GBSeq_organism>Bifidobacterium coryneforme</GBSeq_organism>
+./AJ307005.xml:  <GBSeq_organism>Bifidobacterium scardovii JCM 12489 = DSM 13734</GBSeq_organism>
+./D86194.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./M58744.xml:  <GBSeq_organism>Gardnerella vaginalis ATCC 14018 = JCM 11026</GBSeq_organism>
+./D86182.xml:  <GBSeq_organism>Bifidobacterium angulatum DSM 20098 = JCM 7096</GBSeq_organism>
+./AB437355.xml:  <GBSeq_organism>Bifidobacterium asteroides</GBSeq_organism>
+./D86188.xml:  <GBSeq_organism>Bifidobacterium indicum</GBSeq_organism>
+./D86196.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./AB437360.xml:  <GBSeq_organism>Bifidobacterium longum subsp. suis</GBSeq_organism>
+./X70972.xml:  <GBSeq_organism>Bifidobacterium breve</GBSeq_organism>
+./AB437362.xml:  <GBSeq_organism>Bifidobacterium thermacidophilum subsp. thermacidophilum</GBSeq_organism>
+./AB437350.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>
+./D86190.xml:  <GBSeq_organism>Bifidobacterium boum</GBSeq_organism>
+./D89328.xml:  <GBSeq_organism>Bifidobacterium saeculare DSM 6531 = LMG 14934</GBSeq_organism>
+./D86192.xml:  <GBSeq_organism>Bifidobacterium merycicum</GBSeq_organism>
+./AY174104.xml:  <GBSeq_organism>Aeriscardovia aeriphila</GBSeq_organism>
+./D86193.xml:  <GBSeq_organism>Bifidobacterium magnum</GBSeq_organism>
+./FJ858731.xml:  <GBSeq_organism>Bifidobacterium actinocoloniiforme DSM 22766</GBSeq_organism>
+./M38018.xml:  <GBSeq_organism>Bifidobacterium bifidum ATCC 29521 = JCM 1255 = DSM 20456</GBSeq_organism>
+./D89378.xml:  <GBSeq_organism>Bifidobacterium subtile</GBSeq_organism>
+./D86191.xml:  <GBSeq_organism>Bifidobacterium gallinarum</GBSeq_organism>

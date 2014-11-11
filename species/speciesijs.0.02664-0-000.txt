@@ -1,0 +1,4 @@
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./AJ310412.xml:  <GBSeq_organism>Agreia pratensis</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>

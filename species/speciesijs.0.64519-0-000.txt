@@ -1,0 +1,16 @@
+./DQ349126.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./DQ349129.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AY098588.xml:  <GBSeq_organism>Burkholderia kururiensis</GBSeq_organism>
+./X51500.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./Z54207.xml:  <GBSeq_organism>Herbaspirillum seropedicae SmR1</GBSeq_organism>
+./AF484676.xml:  <GBSeq_organism>Methylobacter vinelandii</GBSeq_organism>
+./DQ349127.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AJ867247.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./AJ223993.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AJ223992.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./DQ349128.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./DQ349125.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AJ457918.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ223994.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./AJ297529.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AY786992.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>

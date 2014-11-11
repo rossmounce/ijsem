@@ -1,0 +1,17 @@
+./AJ305320.xml:  <GBSeq_organism>Pediococcus acidilactici DSM 20284</GBSeq_organism>
+./AB023243.xml:  <GBSeq_organism>Leuconostoc mesenteroides subsp. mesenteroides</GBSeq_organism>
+./AJ970317.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./D16552.xml:  <GBSeq_organism>Lactobacillus rhamnosus</GBSeq_organism>
+./M58813.xml:  <GBSeq_organism>Lactobacillus coryniformis</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AM113777.xml:  <GBSeq_organism>Lactobacillus curvatus</GBSeq_organism>
+./M59054.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./AB154519.xml:  <GBSeq_organism>Lactobacillus satsumensis</GBSeq_organism>
+./X76328.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./M58819.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./M58809.xml:  <GBSeq_organism>Lactobacillus bifermentans</GBSeq_organism>
+./AJ305321.xml:  <GBSeq_organism>Pediococcus pentosaceus</GBSeq_organism>
+./D86516.xml:  <GBSeq_organism>Lactobacillus zeae</GBSeq_organism>
+./D86517.xml:  <GBSeq_organism>Lactobacillus casei ATCC 334</GBSeq_organism>
+./AJ621555.xml:  <GBSeq_organism>Pediococcus claussenii</GBSeq_organism>
+./M58804.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>

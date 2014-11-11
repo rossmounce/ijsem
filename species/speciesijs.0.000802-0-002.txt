@@ -1,0 +1,9 @@
+./L09187.xml:  <GBSeq_organism>Caloramator fervidus</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X99238.xml:  <GBSeq_organism>Thermobrachium celere DSM 8682</GBSeq_organism>
+./AF104215.xml:  <GBSeq_organism>Caloramator coolhaasii</GBSeq_organism>
+./AF181848.xml:  <GBSeq_organism>Caloramator viterbiensis</GBSeq_organism>
+./X90488.xml:  <GBSeq_organism>Caloramator proteoclasticus</GBSeq_organism>
+./X75788.xml:  <GBSeq_organism>Caloramator indicus</GBSeq_organism>
+./EU409943.xml:  <GBSeq_organism>Caloramator australicus RC3</GBSeq_organism>
+./AF489534.xml:  <GBSeq_organism>Caloramator uzoniensis</GBSeq_organism>

@@ -1,0 +1,3 @@
+./FM957541.xml:  <GBSeq_organism>Micromonospora pattaloongensis</GBSeq_organism>
+./EU434806.xml:  <GBSeq_organism>Micromonospora tulbaghiae</GBSeq_organism>
+./FM957540.xml:  <GBSeq_organism>Micromonospora pisi</GBSeq_organism>

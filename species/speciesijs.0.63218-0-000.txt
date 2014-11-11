@@ -1,0 +1,21 @@
+./D16144.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AY554010.xml:  <GBSeq_organism>Sphingopyxis flavimaris</GBSeq_organism>
+./X87161.xml:  <GBSeq_organism>Sphingobium chlorophenolicum</GBSeq_organism>
+./D13727.xml:  <GBSeq_organism>Sphingopyxis terrae</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./AJ416410.xml:  <GBSeq_organism>Sphingopyxis witflariensis</GBSeq_organism>
+./X73043.xml:  <GBSeq_organism>Blastomonas natatoria</GBSeq_organism>
+./U20773.xml:  <GBSeq_organism>Novosphingobium subterraneum</GBSeq_organism>
+./AF367204.xml:  <GBSeq_organism>Sphingopyxis chilensis</GBSeq_organism>
+./L01786.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./AF118020.xml:  <GBSeq_organism>Erythrobacter citreus</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AJ012461.xml:  <GBSeq_organism>Sphingomonas echinoides ATCC 14820</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./AF131296.xml:  <GBSeq_organism>Sphingomonas koreensis</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./AF131297.xml:  <GBSeq_organism>Sphingopyxis taejonensis</GBSeq_organism>

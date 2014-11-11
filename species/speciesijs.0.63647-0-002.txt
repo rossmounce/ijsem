@@ -1,0 +1,8 @@
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AY567473.xml:  <GBSeq_organism>Nitrincola lacisaponensis</GBSeq_organism>
+./Y18006.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AJ609270.xml:  <GBSeq_organism>Marinobacter sediminum</GBSeq_organism>
+./AF447394.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AY776275.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AY563030.xml:  <GBSeq_organism>Marinobacterium halophilum</GBSeq_organism>
+./AB021383.xml:  <GBSeq_organism>Pseudomonas halophila</GBSeq_organism>

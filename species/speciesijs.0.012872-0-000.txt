@@ -1,0 +1,20 @@
+./AJ888906.xml:  <GBSeq_organism>Enterococcus canintestini</GBSeq_organism>
+./AF335596.xml:  <GBSeq_organism>Enterococcus villorum</GBSeq_organism>
+./AF061009.xml:  <GBSeq_organism>Enterococcus cecorum DSM 20682 = ATCC 43198</GBSeq_organism>
+./AF061013.xml:  <GBSeq_organism>Enterococcus mundtii</GBSeq_organism>
+./X54272.xml:  <GBSeq_organism>Vagococcus salmoninarum</GBSeq_organism>
+./FJ360897.xml:  <GBSeq_organism>Vagococcus penaei</GBSeq_organism>
+./AJ276355.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AJ276356.xml:  <GBSeq_organism>Enterococcus hirae</GBSeq_organism>
+./X55133.xml:  <GBSeq_organism>Enterococcus sulfureus ATCC 49903</GBSeq_organism>
+./AJ420801.xml:  <GBSeq_organism>Enterococcus durans</GBSeq_organism>
+./AM039968.xml:  <GBSeq_organism>Enterococcus termitis</GBSeq_organism>
+./AY028437.xml:  <GBSeq_organism>Enterococcus phoeniculicola</GBSeq_organism>
+./AJ626902.xml:  <GBSeq_organism>Enterococcus italicus</GBSeq_organism>
+./AM039966.xml:  <GBSeq_organism>Enterococcus silesiacus</GBSeq_organism>
+./AF286831.xml:  <GBSeq_organism>Enterococcus moraviensis</GBSeq_organism>
+./AJ243326.xml:  <GBSeq_organism>Vagococcus fessus</GBSeq_organism>
+./Y17152.xml:  <GBSeq_organism>Vagococcus lutrae</GBSeq_organism>
+./AF445297.xml:  <GBSeq_organism>Vagococcus elongatus</GBSeq_organism>
+./AJ877015.xml:  <GBSeq_organism>Enterococcus aquimarinus</GBSeq_organism>
+./AY943820.xml:  <GBSeq_organism>Enterococcus caccae</GBSeq_organism>

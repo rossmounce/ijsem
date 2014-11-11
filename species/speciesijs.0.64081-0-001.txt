@@ -1,0 +1,18 @@
+./AB107233.xml:  <GBSeq_organism>Actinocatenispora thailandica</GBSeq_organism>
+./L40614.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./AB159211.xml:  <GBSeq_organism>Actinocatenispora thailandica</GBSeq_organism>
+./D85489.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./AJ007290.xml:  <GBSeq_organism>Acidothermus cellulolyticus 11B</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./AY040619.xml:  <GBSeq_organism>Salinispora arenicola ATCC BAA-917</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./X72377.xml:  <GBSeq_organism>Sporichthya polymorpha</GBSeq_organism>
+./L40620.xml:  <GBSeq_organism>Geodermatophilus obscurus</GBSeq_organism>
+./L40610.xml:  <GBSeq_organism>Frankia sp.</GBSeq_organism>
+./D86946.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

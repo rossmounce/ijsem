@@ -1,0 +1,18 @@
+./AF148527.xml:  <GBSeq_organism>uncultured methanotroph &apos;Rold 5&apos;</GBSeq_organism>
+./AJ581836.xml:  <GBSeq_organism>Methylohalobius crimeensis 10Ki</GBSeq_organism>
+./AJ431386.xml:  <GBSeq_organism>Methylocystis sp. SC2</GBSeq_organism>
+./FN433470.xml:  <GBSeq_organism>Methylocapsa aurea</GBSeq_organism>
+./U89301.xml:  <GBSeq_organism>Methylocaldum gracile</GBSeq_organism>
+./EU223859.xml:  <GBSeq_organism>Methylacidiphilum infernorum V4</GBSeq_organism>
+./U31653.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./AY550736.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ868259.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ458994.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ544101.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AF358043.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ431387.xml:  <GBSeq_organism>Methylocystis sp. SC2</GBSeq_organism>
+./AM283546.xml:  <GBSeq_organism>Methylocystis heyeri</GBSeq_organism>
+./AF307139.xml:  <GBSeq_organism>Methylomicrobium buryatense</GBSeq_organism>
+./EU223862.xml:  <GBSeq_organism>Methylacidiphilum infernorum V4</GBSeq_organism>
+./AJ278727.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./AY945762.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>

@@ -1,0 +1,16 @@
+./DQ442515.xml:  <GBSeq_organism>Streptomyces lavenduligriseus</GBSeq_organism>
+./AJ494865.xml:  <GBSeq_organism>Streptomyces albogriseolus</GBSeq_organism>
+./AJ781371.xml:  <GBSeq_organism>Streptomyces variegatus</GBSeq_organism>
+./AY079156.xml:  <GBSeq_organism>Streptomyces koyangensis</GBSeq_organism>
+./X99942.xml:  <GBSeq_organism>Streptomyces vellosus</GBSeq_organism>
+./AY999920.xml:  <GBSeq_organism>Streptomyces kasugaensis</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./AJ781349.xml:  <GBSeq_organism>Streptomyces morookaense</GBSeq_organism>
+./AJ781376.xml:  <GBSeq_organism>Streptomyces spinoverrucosus</GBSeq_organism>
+./AY822606.xml:  <GBSeq_organism>Streptomyces cheonanensis</GBSeq_organism>
+./DQ442494.xml:  <GBSeq_organism>Streptomyces carpaticus</GBSeq_organism>
+./DQ026642.xml:  <GBSeq_organism>Streptomyces champavatii</GBSeq_organism>
+./AY236339.xml:  <GBSeq_organism>Streptomyces sodiiphilus</GBSeq_organism>
+./AY999917.xml:  <GBSeq_organism>Streptomyces fragilis</GBSeq_organism>
+./EF620361.xml:  <GBSeq_organism>Streptomyces albidoflavus</GBSeq_organism>
+./D63871.xml:  <GBSeq_organism>Streptomyces sampsonii</GBSeq_organism>

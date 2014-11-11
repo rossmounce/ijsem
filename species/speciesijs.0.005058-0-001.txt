@@ -1,0 +1,22 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./AB167073.xml:  <GBSeq_organism>Salinisphaera sp. ARD M17</GBSeq_organism>
+./EU740716.xml:  <GBSeq_organism>Praomys rostratus</GBSeq_organism>
+./AM404264.xml:  <GBSeq_organism>Aquisalimonas asiatica</GBSeq_organism>
+./EF437150.xml:  <GBSeq_organism>Thalassospira sp. TN1</GBSeq_organism>
+./AY360060.xml:  <GBSeq_organism>Thioalkalivibrio thiocyanodenitrificans ARhD 1</GBSeq_organism>
+./EU740418.xml:  <GBSeq_organism>Salinisphaera sp. EPR71</GBSeq_organism>
+./EF988634.xml:  <GBSeq_organism>Salinisphaera dokdonensis CL-ES53</GBSeq_organism>
+./EU375041.xml:  <GBSeq_organism>uncultured Salinisphaera sp.</GBSeq_organism>
+./EU740417.xml:  <GBSeq_organism>Salinisphaera sp. EPR72</GBSeq_organism>
+./AF126545.xml:  <GBSeq_organism>Thioalkalivibrio denitrificans</GBSeq_organism>
+./EU375042.xml:  <GBSeq_organism>uncultured Salinisphaera sp.</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./DQ768649.xml:  <GBSeq_organism>Alcanivorax borkumensis</GBSeq_organism>
+./M90662.xml:  <GBSeq_organism>Halothiobacillus hydrothermalis</GBSeq_organism>
+./D32238.xml:  <GBSeq_organism>Paracoccus alcaliphilus</GBSeq_organism>
+./X74703.xml:  <GBSeq_organism>Vibrio fluvialis</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./AF064545.xml:  <GBSeq_organism>Thiomicrospira crunogena XCL-2</GBSeq_organism>
+./AY656719.xml:  <GBSeq_organism>Thioclava pacifica DSM 10166</GBSeq_organism>
+./AJ421425.xml:  <GBSeq_organism>Salinisphaera shabanensis E1L3A</GBSeq_organism>

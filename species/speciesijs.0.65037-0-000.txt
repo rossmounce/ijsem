@@ -1,0 +1,34 @@
+./AB184784.xml:  <GBSeq_organism>Streptomyces cellulosae</GBSeq_organism>
+./AB184251.xml:  <GBSeq_organism>Streptomyces roseiscleroticus</GBSeq_organism>
+./AJ399477.xml:  <GBSeq_organism>Streptomyces violarus</GBSeq_organism>
+./X79854.xml:  <GBSeq_organism>Streptomyces lincolnensis</GBSeq_organism>
+./AJ494865.xml:  <GBSeq_organism>Streptomyces albogriseolus</GBSeq_organism>
+./AB184849.xml:  <GBSeq_organism>Streptomyces bellus</GBSeq_organism>
+./X79324.xml:  <GBSeq_organism>Streptomyces bluensis</GBSeq_organism>
+./AB184861.xml:  <GBSeq_organism>Streptomyces alboflavus</GBSeq_organism>
+./AJ621602.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./AF503501.xml:  <GBSeq_organism>Streptomyces rubrogriseus</GBSeq_organism>
+./AB184082.xml:  <GBSeq_organism>Streptomyces flaveus</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./AB184574.xml:  <GBSeq_organism>Streptomyces carpinensis</GBSeq_organism>
+./DQ028984.xml:  <GBSeq_organism>Streptomyces cyaneus</GBSeq_organism>
+./AB184437.xml:  <GBSeq_organism>Streptomyces poonensis</GBSeq_organism>
+./AB184842.xml:  <GBSeq_organism>Streptomyces flavoviridis</GBSeq_organism>
+./AB184398.xml:  <GBSeq_organism>Streptomyces pactum</GBSeq_organism>
+./AB184774.xml:  <GBSeq_organism>Streptomyces ochraceiscleroticus</GBSeq_organism>
+./AB184236.xml:  <GBSeq_organism>Streptomyces rimosus subsp. rimosus</GBSeq_organism>
+./AY314782.xml:  <GBSeq_organism>Streptomyces glauciniger</GBSeq_organism>
+./D63865.xml:  <GBSeq_organism>Streptomyces acidiscabies</GBSeq_organism>
+./AF452714.xml:  <GBSeq_organism>Streptomyces speibonae</GBSeq_organism>
+./AB184081.xml:  <GBSeq_organism>Streptomyces lavendulae subsp. lavendulae</GBSeq_organism>
+./AB184604.xml:  <GBSeq_organism>Streptomyces ruber</GBSeq_organism>
+./AB184659.xml:  <GBSeq_organism>Streptomyces fimbriatus</GBSeq_organism>
+./AY277529.xml:  <GBSeq_organism>Streptomyces hebeiensis</GBSeq_organism>
+./AB184241.xml:  <GBSeq_organism>Streptomyces rubiginosus</GBSeq_organism>
+./EF121313.xml:  <GBSeq_organism>Streptomyces synnematoformans</GBSeq_organism>
+./AB184102.xml:  <GBSeq_organism>Streptomyces armeniacus</GBSeq_organism>
+./AB184840.xml:  <GBSeq_organism>Streptomyces coeruleofuscus</GBSeq_organism>
+./U94489.xml:  <GBSeq_organism>Streptomyces thermocarboxydovorans</GBSeq_organism>
+./AY533137.xml:  <GBSeq_organism>Streptomyces xinjiangensis</GBSeq_organism>
+./AY282826.xml:  <GBSeq_organism>Shigella flexneri</GBSeq_organism>

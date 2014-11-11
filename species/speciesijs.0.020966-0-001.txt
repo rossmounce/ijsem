@@ -1,0 +1,20 @@
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AJ488505.xml:  <GBSeq_organism>Roseomonas rosea</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./AY150046.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AF465832.xml:  <GBSeq_organism>Rubritepida flocculans</GBSeq_organism>
+./AM231587.xml:  <GBSeq_organism>Roseomonas aquatica</GBSeq_organism>
+./EF661571.xml:  <GBSeq_organism>Roseomonas aerilata DSM 19363</GBSeq_organism>
+./EF363716.xml:  <GBSeq_organism>Roseomonas terrae</GBSeq_organism>
+./EF368368.xml:  <GBSeq_organism>Roseomonas vinacea</GBSeq_organism>
+./GU168019.xml:  <GBSeq_organism>Roseomonas pecuniae</GBSeq_organism>
+./D14432.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AY150049.xml:  <GBSeq_organism>Roseomonas genomospecies 5</GBSeq_organism>
+./AY220740.xml:  <GBSeq_organism>Roseomonas gilardii subsp. rosea</GBSeq_organism>
+./AY150047.xml:  <GBSeq_organism>Roseomonas cervicalis</GBSeq_organism>
+./AJ786000.xml:  <GBSeq_organism>Roseomonas lacus</GBSeq_organism>
+./AF538712.xml:  <GBSeq_organism>Roseomonas mucosa</GBSeq_organism>
+./AJ488504.xml:  <GBSeq_organism>Roseomonas ludipueritiae</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

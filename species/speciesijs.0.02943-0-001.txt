@@ -1,0 +1,7 @@
+./AJ301667.xml:  <GBSeq_organism>Maricaulis virginensis</GBSeq_organism>
+./AJ227813.xml:  <GBSeq_organism>Hyphomonas polymorpha</GBSeq_organism>
+./AJ227804.xml:  <GBSeq_organism>Maricaulis washingtonensis</GBSeq_organism>
+./AJ578476.xml:  <GBSeq_organism>Woodsholea maritima</GBSeq_organism>
+./AJ227806.xml:  <GBSeq_organism>Maricaulis salignorans</GBSeq_organism>
+./AJ309862.xml:  <GBSeq_organism>Oceanicaulis alexandrii</GBSeq_organism>
+./AJ227802.xml:  <GBSeq_organism>Maricaulis maris</GBSeq_organism>

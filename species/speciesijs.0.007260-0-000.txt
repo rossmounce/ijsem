@@ -1,0 +1,10 @@
+./EF076757.xml:  <GBSeq_organism>Rheinheimera aquimaris</GBSeq_organism>
+./AF025367.xml:  <GBSeq_organism>Citrobacter gillenii</GBSeq_organism>
+./EU817498.xml:  <GBSeq_organism>Alishewanella jeotgali KCTC 22429</GBSeq_organism>
+./AM183347.xml:  <GBSeq_organism>Rheinheimera perlucida</GBSeq_organism>
+./EF660759.xml:  <GBSeq_organism>Alishewanella aestuarii B11</GBSeq_organism>
+./AJ441080.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./X92130.xml:  <GBSeq_organism>Alkalimonas delamerensis</GBSeq_organism>
+./AY701891.xml:  <GBSeq_organism>Rheinheimera texasensis</GBSeq_organism>
+./AF250323.xml:  <GBSeq_organism>Alkalimonas amylolytica</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>

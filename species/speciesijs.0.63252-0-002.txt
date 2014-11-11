@@ -1,0 +1,28 @@
+./AB110421.xml:  <GBSeq_organism>Saccharibacter floricola</GBSeq_organism>
+./AJ251110.xml:  <GBSeq_organism>Gluconacetobacter entanii</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AY180961.xml:  <GBSeq_organism>Komagataeibacter rhaeticus</GBSeq_organism>
+./AF062475.xml:  <GBSeq_organism>Gluconacetobacter sp. ITDI2.1</GBSeq_organism>
+./AF192761.xml:  <GBSeq_organism>Gluconacetobacter azotocaptans</GBSeq_organism>
+./AB166743.xml:  <GBSeq_organism>Komagataeibacter nataicola</GBSeq_organism>
+./AB166735.xml:  <GBSeq_organism>Komagataeibacter hansenii</GBSeq_organism>
+./AF127407.xml:  <GBSeq_organism>Gluconacetobacter sacchari</GBSeq_organism>
+./AB166738.xml:  <GBSeq_organism>Komagataeibacter intermedius</GBSeq_organism>
+./AB110702.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AB166736.xml:  <GBSeq_organism>Komagataeibacter hansenii</GBSeq_organism>
+./AF459454.xml:  <GBSeq_organism>Swaminathania salitolerans</GBSeq_organism>
+./AB166734.xml:  <GBSeq_organism>Gluconacetobacter hansenii ATCC 23769</GBSeq_organism>
+./AB166741.xml:  <GBSeq_organism>Komagataeibacter saccharivorans</GBSeq_organism>
+./AB166737.xml:  <GBSeq_organism>Komagataeibacter intermedius</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./Y14694.xml:  <GBSeq_organism>Komagataeibacter intermedius</GBSeq_organism>
+./AB166742.xml:  <GBSeq_organism>Komagataeibacter europaeus</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./AB166739.xml:  <GBSeq_organism>Komagataeibacter intermedius</GBSeq_organism>
+./AB166744.xml:  <GBSeq_organism>Gluconacetobacter maltiaceti</GBSeq_organism>
+./Y15289.xml:  <GBSeq_organism>Komagataeibacter europaeus</GBSeq_organism>
+./AY180960.xml:  <GBSeq_organism>Komagataeibacter swingsii</GBSeq_organism>
+./AB166740.xml:  <GBSeq_organism>Komagataeibacter saccharivorans</GBSeq_organism>
+./AF111841.xml:  <GBSeq_organism>Gluconacetobacter johannae</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AJ419844.xml:  <GBSeq_organism>Acetobacter malorum</GBSeq_organism>
+./AB032352.xml:  <GBSeq_organism>Acetobacter peroxydans</GBSeq_organism>
+./AB052710.xml:  <GBSeq_organism>Acetobacter cibinongensis</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./AJ001632.xml:  <GBSeq_organism>Acetobacter pomorum</GBSeq_organism>
+./AF459454.xml:  <GBSeq_organism>Swaminathania salitolerans</GBSeq_organism>
+./AB056321.xml:  <GBSeq_organism>Kozakia baliensis</GBSeq_organism>
+./X71863.xml:  <GBSeq_organism>Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471</GBSeq_organism>
+./X77468.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./AB032349.xml:  <GBSeq_organism>Acetobacter estunensis</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./AJ419843.xml:  <GBSeq_organism>Acetobacter cerevisiae</GBSeq_organism>
+./AY829472.xml:  <GBSeq_organism>Acetobacter oeni</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>

@@ -1,0 +1,9 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./L09187.xml:  <GBSeq_organism>Caloramator fervidus</GBSeq_organism>
+./X99238.xml:  <GBSeq_organism>Thermobrachium celere DSM 8682</GBSeq_organism>
+./FJ481102.xml:  <GBSeq_organism>Fervidicella metallireducens AeB</GBSeq_organism>
+./AF181848.xml:  <GBSeq_organism>Caloramator viterbiensis</GBSeq_organism>
+./X90488.xml:  <GBSeq_organism>Caloramator proteoclasticus</GBSeq_organism>
+./EU409943.xml:  <GBSeq_organism>Caloramator australicus RC3</GBSeq_organism>
+./X76649.xml:  <GBSeq_organism>Sarcina ventriculi</GBSeq_organism>
+./AF489534.xml:  <GBSeq_organism>Caloramator uzoniensis</GBSeq_organism>

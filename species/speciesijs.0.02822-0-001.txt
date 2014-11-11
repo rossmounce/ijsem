@@ -1,0 +1,8 @@
+./AB073188.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./AJ272249.xml:  <GBSeq_organism>Paenibacillus azoreducens</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY257868.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AY257870.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AY257869.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AY257871.xml:  <GBSeq_organism>Paenibacillus sp. MB 2039</GBSeq_organism>
+./AF395029.xml:  <GBSeq_organism>Paenibacillus sp. SB45-2B</GBSeq_organism>

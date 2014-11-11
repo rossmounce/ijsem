@@ -1,0 +1,11 @@
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./AY787820.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./DQ680836.xml:  <GBSeq_organism>Parapedobacter koreensis</GBSeq_organism>
+./AB330392.xml:  <GBSeq_organism>Mucilaginibacter kameinonensis</GBSeq_organism>
+./AB264126.xml:  <GBSeq_organism>Nubsella zeaxanthinifaciens</GBSeq_organism>
+./EU747841.xml:  <GBSeq_organism>Mucilaginibacter rigui</GBSeq_organism>
+./AM407725.xml:  <GBSeq_organism>Pseudosphingobacterium domesticum</GBSeq_organism>
+./EF151805.xml:  <GBSeq_organism>Parapedobacter soli</GBSeq_organism>

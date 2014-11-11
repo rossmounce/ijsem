@@ -1,0 +1,17 @@
+./AB370250.xml:  <GBSeq_organism>Parasutterella excrementihominis YIT 11859</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./AJ408960.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ420326.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AJ566849.xml:  <GBSeq_organism>Sutterella stercoricanis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AY695828.xml:  <GBSeq_organism>Pusillimonas noertemannii</GBSeq_organism>
+./AY986364.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L37785.xml:  <GBSeq_organism>Sutterella wadsworthensis</GBSeq_organism>
+./AF227163.xml:  <GBSeq_organism>Oligella urethralis</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AB089482.xml:  <GBSeq_organism>Derxia gummosa</GBSeq_organism>
+./AB300989.xml:  <GBSeq_organism>Sutterella parvirubra YIT 11816</GBSeq_organism>
+./AM944734.xml:  <GBSeq_organism>Advenella incenata</GBSeq_organism>
+./AJ277742.xml:  <GBSeq_organism>Brackiella oedipodis</GBSeq_organism>
+./AY916355.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

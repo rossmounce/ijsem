@@ -1,0 +1,39 @@
+./AB193766.xml:  <GBSeq_organism>Ferrimonas sp. A3B-64-2</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF005669.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AB193757.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./AB193755.xml:  <GBSeq_organism>Ferrimonas sp. A3B-58</GBSeq_organism>
+./AE015906.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AB193751.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AB193753.xml:  <GBSeq_organism>Ferrimonas balearica</GBSeq_organism>
+./AB193762.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AF417622.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AB193763.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AB193761.xml:  <GBSeq_organism>Ferrimonas sp. A3B-57-2</GBSeq_organism>
+./AE015452.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AB193752.xml:  <GBSeq_organism>Ferrimonas balearica</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AB193764.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AB193750.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./X60405.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./X81622.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AB193756.xml:  <GBSeq_organism>Ferrimonas sp. A3B-57-2</GBSeq_organism>
+./X82131.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>
+./AB193760.xml:  <GBSeq_organism>Ferrimonas sp. A3B-58</GBSeq_organism>
+./AY341437.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AB193748.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./U85907.xml:  <GBSeq_organism>Shewanella gelidimarina</GBSeq_organism>
+./X74677.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./AB193758.xml:  <GBSeq_organism>Ferrimonas balearica</GBSeq_organism>
+./AF007279.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis subsp. haloplanktis</GBSeq_organism>
+./AB193759.xml:  <GBSeq_organism>Ferrimonas balearica</GBSeq_organism>
+./AF005693.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AB193765.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AB193754.xml:  <GBSeq_organism>Ferrimonas sp. A3B-64-2</GBSeq_organism>
+./AB193749.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./X74688.xml:  <GBSeq_organism>Plesiomonas shigelloides</GBSeq_organism>
+./X82132.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./U85903.xml:  <GBSeq_organism>Shewanella frigidimarina</GBSeq_organism>

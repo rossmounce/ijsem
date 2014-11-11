@@ -1,0 +1,25 @@
+./AJ868422.xml:  <GBSeq_organism>Methylocystis sp. L6</GBSeq_organism>
+./AY007196.xml:  <GBSeq_organism>Methylocystis sp. WRS</GBSeq_organism>
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AY328591.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ458502.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ458466.xml:  <GBSeq_organism>Methylocystis sp. 62/12</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ414656.xml:  <GBSeq_organism>Methylocystis rosea SV97</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./M59060.xml:  <GBSeq_organism>Beijerinckia indica</GBSeq_organism>
+./AJ458501.xml:  <GBSeq_organism>Methylocystis sp. 39</GBSeq_organism>
+./AF358021.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ431384.xml:  <GBSeq_organism>Methylocystis sp. SC2</GBSeq_organism>
+./AJ458507.xml:  <GBSeq_organism>Methylocystis sp. 82</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ458484.xml:  <GBSeq_organism>Methylocystis sp. 50/42a</GBSeq_organism>
+./AF177299.xml:  <GBSeq_organism>type II methanotroph AML-A6</GBSeq_organism>
+./AJ458506.xml:  <GBSeq_organism>Methylocystis sp. KS33</GBSeq_organism>
+./Y18442.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>
+./DQ496232.xml:  <GBSeq_organism>Methylocystis sp. B3</GBSeq_organism>
+./AJ868423.xml:  <GBSeq_organism>Methylocystis sp. DWT</GBSeq_organism>
+./AJ458510.xml:  <GBSeq_organism>Methylocystis sp. 50/54</GBSeq_organism>
+./AJ458467.xml:  <GBSeq_organism>Methylocystis sp. 495/4</GBSeq_organism>
+./AJ458471.xml:  <GBSeq_organism>Methylocystis sp. IMET 10486</GBSeq_organism>

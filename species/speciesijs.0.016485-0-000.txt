@@ -1,0 +1,11 @@
+./AJ278726.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./AF084495.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./FJ594057.xml:  <GBSeq_organism>Agaricicola taiwanensis</GBSeq_organism>
+./AJ400704.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ582083.xml:  <GBSeq_organism>Labrenzia alexandrii DFL-11</GBSeq_organism>
+./D30792.xml:  <GBSeq_organism>Rhodobium orientis</GBSeq_organism>
+./D85832.xml:  <GBSeq_organism>Roseibium denhamense</GBSeq_organism>
+./AF513441.xml:  <GBSeq_organism>Nesiotobacter exalbescens</GBSeq_organism>

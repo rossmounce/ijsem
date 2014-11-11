@@ -1,0 +1,12 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AY163576.xml:  <GBSeq_organism>Croceibacter atlanticus HTCC2559</GBSeq_organism>
+./AY445073.xml:  <GBSeq_organism>Muricauda flavescens</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./EU443206.xml:  <GBSeq_organism>Muriicola jejuensis</GBSeq_organism>
+./AJ005972.xml:  <GBSeq_organism>Cellulophaga baltica</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./AY424899.xml:  <GBSeq_organism>Robiginitalea biformata HTCC2501</GBSeq_organism>

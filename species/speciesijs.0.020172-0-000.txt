@@ -1,0 +1,16 @@
+./Y13244.xml:  <GBSeq_organism>Phaeobacter gallaeciensis DSM 26640</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AJ505788.xml:  <GBSeq_organism>Pontibaca methylaminivorans</GBSeq_organism>
+./AY962292.xml:  <GBSeq_organism>Shimia marina</GBSeq_organism>
+./D88525.xml:  <GBSeq_organism>Stappia stellulata</GBSeq_organism>
+./AJ877265.xml:  <GBSeq_organism>Yangia pacifica</GBSeq_organism>
+./AJ550939.xml:  <GBSeq_organism>Oceanibulbus indolifex HEL-45</GBSeq_organism>
+./EF192892.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY962295.xml:  <GBSeq_organism>Citreimonas salinaria</GBSeq_organism>
+./AB193438.xml:  <GBSeq_organism>Tateyamaria omphalii</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./X78315.xml:  <GBSeq_organism>Marinovum algicola</GBSeq_organism>
+./AB255399.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AJ505787.xml:  <GBSeq_organism>Pontibaca methylaminivorans</GBSeq_organism>
+./AY926462.xml:  <GBSeq_organism>Palleronia marisminoris</GBSeq_organism>
+./AJ748748.xml:  <GBSeq_organism>Nereida ignava</GBSeq_organism>

@@ -1,0 +1,7 @@
+./AY179977.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AY179975.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AF372779.xml:  <GBSeq_organism>uncultured alveolate</GBSeq_organism>
+./AF372786.xml:  <GBSeq_organism>uncultured alveolate</GBSeq_organism>
+./AY179988.xml:  <GBSeq_organism>uncultured alveolate</GBSeq_organism>
+./AY179976.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>
+./AB191437.xml:  <GBSeq_organism>uncultured eukaryote</GBSeq_organism>

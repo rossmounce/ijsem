@@ -1,0 +1,5 @@
+./AY455809.xml:  <GBSeq_organism>Thiomonas intermedia</GBSeq_organism>
+./U27839.xml:  <GBSeq_organism>Thiomonas thermosulfata</GBSeq_organism>
+./Y14908.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AY455808.xml:  <GBSeq_organism>Thiomonas perometabolis</GBSeq_organism>

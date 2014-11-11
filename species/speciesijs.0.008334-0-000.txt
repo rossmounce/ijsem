@@ -1,0 +1,13 @@
+./AY187688.xml:  <GBSeq_organism>Formosa agariphila KMM 3901</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./U64013.xml:  <GBSeq_organism>Winogradskyella rapida</GBSeq_organism>
+./AY682382.xml:  <GBSeq_organism>Yeosuana aromativorans</GBSeq_organism>
+./EU221275.xml:  <GBSeq_organism>Tamlana agarivorans</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./EF108219.xml:  <GBSeq_organism>Gaetbulibacter marinus</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AJ628046.xml:  <GBSeq_organism>Mariniflexile fucanivorans</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>

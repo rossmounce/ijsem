@@ -1,0 +1,17 @@
+./D85491.xml:  <GBSeq_organism>Nonomuraea pusilla</GBSeq_organism>
+./U48987.xml:  <GBSeq_organism>Microbispora rosea subsp. aerata</GBSeq_organism>
+./D85494.xml:  <GBSeq_organism>Planobispora longispora</GBSeq_organism>
+./FJ199993.xml:  <GBSeq_organism>Microbispora siamensis</GBSeq_organism>
+./U48985.xml:  <GBSeq_organism>Microbispora rosea subsp. rosea</GBSeq_organism>
+./AY445647.xml:  <GBSeq_organism>Microbispora rosea subsp. rosea</GBSeq_organism>
+./U48984.xml:  <GBSeq_organism>Microbispora rosea subsp. aerata</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./U48996.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./U48986.xml:  <GBSeq_organism>Microbispora rosea subsp. aerata</GBSeq_organism>
+./U48988.xml:  <GBSeq_organism>Microbispora amethystogenes</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./AY039253.xml:  <GBSeq_organism>Thermopolyspora flexuosa</GBSeq_organism>
+./U48974.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./U48990.xml:  <GBSeq_organism>Microbispora rosea subsp. rosea</GBSeq_organism>
+./U48989.xml:  <GBSeq_organism>Microbispora rosea subsp. rosea</GBSeq_organism>
+./D85495.xml:  <GBSeq_organism>Planomonospora parontospora</GBSeq_organism>

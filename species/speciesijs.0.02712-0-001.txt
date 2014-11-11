@@ -1,0 +1,19 @@
+./AF075484.xml:  <GBSeq_organism>Cryptococcus neoformans var. neoformans</GBSeq_organism>
+./AF363660.xml:  <GBSeq_organism>Hannaella coprosmae</GBSeq_organism>
+./AF459689.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17073</GBSeq_organism>
+./AF189857.xml:  <GBSeq_organism>Hannaella sinensis</GBSeq_organism>
+./AF459688.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17072</GBSeq_organism>
+./AB109558.xml:  <GBSeq_organism>Hannaella kunmingensis</GBSeq_organism>
+./AF459690.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17074</GBSeq_organism>
+./AF459691.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17075</GBSeq_organism>
+./AB100440.xml:  <GBSeq_organism>Hannaella surugaensis</GBSeq_organism>
+./AF444703.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8367</GBSeq_organism>
+./AF189884.xml:  <GBSeq_organism>Hannaella sinensis</GBSeq_organism>
+./AF075482.xml:  <GBSeq_organism>Hannaella luteola</GBSeq_organism>
+./AF363648.xml:  <GBSeq_organism>Hannaella sinensis var. lactis</GBSeq_organism>
+./AF459692.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17076</GBSeq_organism>
+./AF075511.xml:  <GBSeq_organism>Hannaella oryzae</GBSeq_organism>
+./AF459687.xml:  <GBSeq_organism>Cryptococcus sp. KCTC 17071</GBSeq_organism>
+./AF444697.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8356</GBSeq_organism>
+./AF444705.xml:  <GBSeq_organism>Cryptococcus sp. CBS 8369</GBSeq_organism>
+./AF459658.xml:  <GBSeq_organism>Hannaella sinensis</GBSeq_organism>

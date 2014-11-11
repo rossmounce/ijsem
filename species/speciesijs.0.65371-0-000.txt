@@ -1,0 +1,12 @@
+./AF448515.xml:  <GBSeq_organism>Cellvibrio mixtus subsp. mixtus</GBSeq_organism>
+./EF617350.xml:  <GBSeq_organism>Simiduia agarivorans SA1 = DSM 21679</GBSeq_organism>
+./AJ510266.xml:  <GBSeq_organism>Microbulbifer arenaceous</GBSeq_organism>
+./AY691188.xml:  <GBSeq_organism>Pseudomonas argentinensis</GBSeq_organism>
+./AJ608704.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AJ308320.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./AF448514.xml:  <GBSeq_organism>Cellvibrio fulvus</GBSeq_organism>
+./AY180101.xml:  <GBSeq_organism>Marinobacter excellens</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>

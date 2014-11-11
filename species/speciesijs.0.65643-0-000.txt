@@ -1,0 +1,8 @@
+./AB193751.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AM183347.xml:  <GBSeq_organism>Rheinheimera perlucida</GBSeq_organism>
+./EF660759.xml:  <GBSeq_organism>Alishewanella aestuarii B11</GBSeq_organism>
+./AJ441080.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./X92130.xml:  <GBSeq_organism>Alkalimonas delamerensis</GBSeq_organism>
+./AB073132.xml:  <GBSeq_organism>Rheinheimera pacifica</GBSeq_organism>
+./AF250323.xml:  <GBSeq_organism>Alkalimonas amylolytica</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>

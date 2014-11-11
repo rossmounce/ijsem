@@ -1,0 +1,18 @@
+./EU581829.xml:  <GBSeq_organism>Stakelama pacifica</GBSeq_organism>
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./D13725.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D13727.xml:  <GBSeq_organism>Sphingopyxis terrae</GBSeq_organism>
+./D13723.xml:  <GBSeq_organism>Sphingopyxis macrogoltabida</GBSeq_organism>
+./AJ416410.xml:  <GBSeq_organism>Sphingopyxis witflariensis</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./EF424403.xml:  <GBSeq_organism>Novosphingobium mathurense</GBSeq_organism>
+./FJ442859.xml:  <GBSeq_organism>Sphingosinicella vermicomposti</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AY902680.xml:  <GBSeq_organism>Sandarakinorhabdus limnophila</GBSeq_organism>
+./Y10678.xml:  <GBSeq_organism>Sandaracinobacter sibiricus</GBSeq_organism>
+./D13724.xml:  <GBSeq_organism>Sphingomonas parapaucimobilis</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./D16146.xml:  <GBSeq_organism>Sphingomonas adhaesiva</GBSeq_organism>
+./EF424402.xml:  <GBSeq_organism>Novosphingobium panipatense</GBSeq_organism>
+./AY950663.xml:  <GBSeq_organism>Sphingosinicella xenopeptidilytica</GBSeq_organism>

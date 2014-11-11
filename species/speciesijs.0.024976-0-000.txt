@@ -1,0 +1,9 @@
+./AB477980.xml:  <GBSeq_organism>Halosarcina pallida JCM 14848</GBSeq_organism>
+./EU887283.xml:  <GBSeq_organism>Halogranum rubrum</GBSeq_organism>
+./GO282623.xml:  <GBSeq_organism>Teleopsis dalmanni</GBSeq_organism>
+./AY498641.xml:  <GBSeq_organism>Halonotius pteroides</GBSeq_organism>
+./GO282624.xml:  <GBSeq_organism>Teleopsis dalmanni</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AY676200.xml:  <GBSeq_organism>Haloquadratum walsbyi C23</GBSeq_organism>
+./EU887284.xml:  <GBSeq_organism>Halopelagius inordinatus</GBSeq_organism>
+./AB477975.xml:  <GBSeq_organism>Haloplanus natans</GBSeq_organism>

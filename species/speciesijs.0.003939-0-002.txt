@@ -1,0 +1,30 @@
+./AF075484.xml:  <GBSeq_organism>Cryptococcus neoformans var. neoformans</GBSeq_organism>
+./AF009855.xml:  <GBSeq_organism>Erratomyces patelii</GBSeq_organism>
+./DQ823438.xml:  <GBSeq_organism>Quambalaria pitereka</GBSeq_organism>
+./AF352053.xml:  <GBSeq_organism>Volvocisporium triumfetticola</GBSeq_organism>
+./AF133578.xml:  <GBSeq_organism>Nannfeldtiomyces sparganii</GBSeq_organism>
+./DQ663687.xml:  <GBSeq_organism>Entyloma calendulae</GBSeq_organism>
+./DQ025485.xml:  <GBSeq_organism>Ustilago maydis</GBSeq_organism>
+./AM931016.xml:  <GBSeq_organism>Sympodiomycopsis sp. S6A</GBSeq_organism>
+./AM160640.xml:  <GBSeq_organism>Tilletiopsis washingtonensis</GBSeq_organism>
+./AJ235290.xml:  <GBSeq_organism>Tilletiopsis albescens</GBSeq_organism>
+./AF190003.xml:  <GBSeq_organism>Rhodotorula hinnulea</GBSeq_organism>
+./EU587489.xml:  <GBSeq_organism>Jaminaea angkorensis</GBSeq_organism>
+./AF352052.xml:  <GBSeq_organism>Microstroma album</GBSeq_organism>
+./AF007524.xml:  <GBSeq_organism>Doassansia hygrophilae</GBSeq_organism>
+./AF352054.xml:  <GBSeq_organism>Sympodiomycopsis paphiopedili</GBSeq_organism>
+./AB178241.xml:  <GBSeq_organism>Exobasidium sawadae</GBSeq_organism>
+./DQ831032.xml:  <GBSeq_organism>Rhamphospora nymphaeae</GBSeq_organism>
+./DQ317619.xml:  <GBSeq_organism>Quambalaria eucalypti</GBSeq_organism>
+./AF190002.xml:  <GBSeq_organism>Rhodotorula bacarum</GBSeq_organism>
+./AY818988.xml:  <GBSeq_organism>Tilletia iowensis</GBSeq_organism>
+./AF190004.xml:  <GBSeq_organism>Rhodotorula phylloplana</GBSeq_organism>
+./DQ990016.xml:  <GBSeq_organism>Sympodiomycopsis sp. LM418</GBSeq_organism>
+./AY745726.xml:  <GBSeq_organism>Cintractia sorghi-vulgaris</GBSeq_organism>
+./AY081013.xml:  <GBSeq_organism>Entyloma ficariae</GBSeq_organism>
+./DQ631906.xml:  <GBSeq_organism>Cintractia axicola</GBSeq_organism>
+./EU069497.xml:  <GBSeq_organism>Microstroma juglandis</GBSeq_organism>
+./AJ235329.xml:  <GBSeq_organism>Tilletiopsis pallescens</GBSeq_organism>
+./AF009848.xml:  <GBSeq_organism>Conidiosporomyces ayresii</GBSeq_organism>
+./AY818999.xml:  <GBSeq_organism>Tilletia goloskokovii</GBSeq_organism>
+./AJ406400.xml:  <GBSeq_organism>Exobasidium vaccinii</GBSeq_organism>

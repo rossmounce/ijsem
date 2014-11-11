@@ -1,0 +1,12 @@
+./AM295057.xml:  <GBSeq_organism>Lactobacillus mucosae</GBSeq_organism>
+./AM295061.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AM295062.xml:  <GBSeq_organism>Lactobacillus pontis</GBSeq_organism>
+./AJ418938.xml:  <GBSeq_organism>Lactobacillus fermentum</GBSeq_organism>
+./AM295063.xml:  <GBSeq_organism>Lactobacillus frumenti</GBSeq_organism>
+./AM295065.xml:  <GBSeq_organism>Lactobacillus oris</GBSeq_organism>
+./AJ418925.xml:  <GBSeq_organism>Lactobacillus reuteri</GBSeq_organism>
+./AJ418921.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AM295060.xml:  <GBSeq_organism>Lactobacillus ingluviei</GBSeq_organism>
+./AM295064.xml:  <GBSeq_organism>Lactobacillus panis</GBSeq_organism>
+./AM295059.xml:  <GBSeq_organism>Lactobacillus secaliphilus</GBSeq_organism>
+./AM295058.xml:  <GBSeq_organism>Lactobacillus coleohominis</GBSeq_organism>

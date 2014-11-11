@@ -1,0 +1,11 @@
+./X52933.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./M29567.xml:  <GBSeq_organism>Mycobacterium senegalense</GBSeq_organism>
+./X82235.xml:  <GBSeq_organism>Mycobacterium abscessus ATCC 19977</GBSeq_organism>
+./X82236.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./X80771.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./AF480599.xml:  <GBSeq_organism>Mycobacterium diernhoferi</GBSeq_organism>
+./AF283280.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./AJ276274.xml:  <GBSeq_organism>Mycobacterium frederiksbergense</GBSeq_organism>
+./AY255478.xml:  <GBSeq_organism>Mycobacterium canariasense</GBSeq_organism>
+./AF480593.xml:  <GBSeq_organism>Mycobacterium neoaurum ATCC 25795</GBSeq_organism>
+./AJ011771.xml:  <GBSeq_organism>Mycobacterium immunogenum</GBSeq_organism>

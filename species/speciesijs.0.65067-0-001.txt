@@ -1,0 +1,29 @@
+./AJ237607.xml:  <GBSeq_organism>Desulfobacterium indolicum</GBSeq_organism>
+./EF207158.xml:  <GBSeq_organism>Desulfotignum toluenicum</GBSeq_organism>
+./DQ303457.xml:  <GBSeq_organism>Desulfoglaeba alkanexedens ALDC</GBSeq_organism>
+./AF141328.xml:  <GBSeq_organism>sulfate-reducing bacterium AK-01</GBSeq_organism>
+./AF468969.xml:  <GBSeq_organism>delta proteobacterium S2552</GBSeq_organism>
+./AY493562.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./AF148141.xml:  <GBSeq_organism>delta proteobacterium S2550</GBSeq_organism>
+./AF418175.xml:  <GBSeq_organism>Desulfobacter curvatus</GBSeq_organism>
+./Y17501.xml:  <GBSeq_organism>delta proteobacterium Pnd3</GBSeq_organism>
+./AF418176.xml:  <GBSeq_organism>Desulfotignum balticum</GBSeq_organism>
+./EF207159.xml:  <GBSeq_organism>Desulfotignum toluenicum</GBSeq_organism>
+./M34407.xml:  <GBSeq_organism>Desulfosarcina variabilis</GBSeq_organism>
+./AF420289.xml:  <GBSeq_organism>Desulfotignum phosphitoxidans</GBSeq_organism>
+./AE014075.xml:  <GBSeq_organism>Escherichia coli CFT073</GBSeq_organism>
+./AJ237606.xml:  <GBSeq_organism>Desulfobacula phenolica</GBSeq_organism>
+./X70953.xml:  <GBSeq_organism>Desulfobacula toluolica Tol2</GBSeq_organism>
+./AF420288.xml:  <GBSeq_organism>Desulfotignum phosphitoxidans DSM 13687</GBSeq_organism>
+./AF029042.xml:  <GBSeq_organism>benzene mineralizing consortium clone SB-9</GBSeq_organism>
+./AY184360.xml:  <GBSeq_organism>Desulfatibacillum aliphaticivorans</GBSeq_organism>
+./DQ303458.xml:  <GBSeq_organism>Desulfoglaeba sp. Lake</GBSeq_organism>
+./AY493563.xml:  <GBSeq_organism>sulfate-reducing bacterium PF2802</GBSeq_organism>
+./AF177428.xml:  <GBSeq_organism>delta proteobacterium S2551</GBSeq_organism>
+./X99637.xml:  <GBSeq_organism>Desulfospira joergensenii</GBSeq_organism>
+./AF418180.xml:  <GBSeq_organism>Desulfobacter postgatei 2ac9</GBSeq_organism>
+./U12253.xml:  <GBSeq_organism>Desulfobulbus rhabdoformis</GBSeq_organism>
+./EF207157.xml:  <GBSeq_organism>Desulfotignum toluenicum</GBSeq_organism>
+./AF328857.xml:  <GBSeq_organism>Olavius algarvensis sulfate-reducing endosymbiont</GBSeq_organism>
+./Y14745.xml:  <GBSeq_organism>Desulfobacter halotolerans</GBSeq_organism>
+./AF141881.xml:  <GBSeq_organism>Desulfococcus oleovorans Hxd3</GBSeq_organism>

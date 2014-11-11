@@ -1,0 +1,15 @@
+./AJ001631.xml:  <GBSeq_organism>Komagataeibacter oboediens</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./X75619.xml:  <GBSeq_organism>Komagataeibacter xylinus</GBSeq_organism>
+./AF192761.xml:  <GBSeq_organism>Gluconacetobacter azotocaptans</GBSeq_organism>
+./AF127407.xml:  <GBSeq_organism>Gluconacetobacter sacchari</GBSeq_organism>
+./X75620.xml:  <GBSeq_organism>Komagataeibacter hansenii</GBSeq_organism>
+./Y14694.xml:  <GBSeq_organism>Komagataeibacter intermedius</GBSeq_organism>
+./X77468.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./AJ007698.xml:  <GBSeq_organism>Komagataeibacter sucrofermentans</GBSeq_organism>
+./AY180960.xml:  <GBSeq_organism>Komagataeibacter swingsii</GBSeq_organism>
+./AF111841.xml:  <GBSeq_organism>Gluconacetobacter johannae</GBSeq_organism>
+./AB025928.xml:  <GBSeq_organism>Asaia bogorensis NBRC 16594</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./X75618.xml:  <GBSeq_organism>Gluconacetobacter diazotrophicus PA1 5</GBSeq_organism>

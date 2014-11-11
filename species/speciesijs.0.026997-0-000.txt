@@ -1,0 +1,18 @@
+./AJ514916.xml:  <GBSeq_organism>Vibrio fortis</GBSeq_organism>
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X56575.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./AJ316199.xml:  <GBSeq_organism>Vibrio chagasii</GBSeq_organism>
+./GU929924.xml:  <GBSeq_organism>Vibrio variabilis</GBSeq_organism>
+./X56576.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./AJ310647.xml:  <GBSeq_organism>Vibrio agarivorans</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X74710.xml:  <GBSeq_organism>Vibrio mediterranei</GBSeq_organism>
+./AJ316171.xml:  <GBSeq_organism>Vibrio neptunius</GBSeq_organism>
+./AJ316181.xml:  <GBSeq_organism>Vibrio xuii</GBSeq_organism>
+./AJ293802.xml:  <GBSeq_organism>Vibrio pelagius</GBSeq_organism>
+./X74717.xml:  <GBSeq_organism>Vibrio nigripulchritudo ATCC 27043</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./AJ440005.xml:  <GBSeq_organism>Vibrio coralliilyticus ATCC BAA-450</GBSeq_organism>
+./GU929925.xml:  <GBSeq_organism>Vibrio maritimus</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>

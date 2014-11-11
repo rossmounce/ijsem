@@ -1,0 +1,11 @@
+./AY486133.xml:  <GBSeq_organism>Methylovorus glucosotrophus</GBSeq_organism>
+./AY772089.xml:  <GBSeq_organism>Methylophilus quaylei</GBSeq_organism>
+./L15475.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./M95652.xml:  <GBSeq_organism>Methylobacillus glycogenes</GBSeq_organism>
+./M95651.xml:  <GBSeq_organism>Methylobacillus flagellatus</GBSeq_organism>
+./AF250333.xml:  <GBSeq_organism>Methylophilus leisingeri</GBSeq_organism>
+./FJ872108.xml:  <GBSeq_organism>Methylophilus flavus</GBSeq_organism>
+./AY298905.xml:  <GBSeq_organism>Methylobacillus pratensis</GBSeq_organism>
+./AY486132.xml:  <GBSeq_organism>Methylovorus mays</GBSeq_organism>
+./FJ872109.xml:  <GBSeq_organism>Methylophilus luteus</GBSeq_organism>
+./AY513502.xml:  <GBSeq_organism>Escherichia coli O157:H7</GBSeq_organism>

@@ -1,0 +1,41 @@
+./D86189.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./AF529063.xml:  <GBSeq_organism>Nocardioides aquiterrae</GBSeq_organism>
+./AY082063.xml:  <GBSeq_organism>Kribbella antibiotica</GBSeq_organism>
+./AJ003055.xml:  <GBSeq_organism>Propionibacterium avidum ATCC 25577</GBSeq_organism>
+./DQ218275.xml:  <GBSeq_organism>Nocardioides kongjuensis</GBSeq_organism>
+./AF237815.xml:  <GBSeq_organism>Actinopolymorpha singaporensis</GBSeq_organism>
+./AF234623.xml:  <GBSeq_organism>Propionibacterium microaerophilum</GBSeq_organism>
+./X53218.xml:  <GBSeq_organism>Propionibacterium acnes</GBSeq_organism>
+./Z78209.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./AY082062.xml:  <GBSeq_organism>Kribbella alba</GBSeq_organism>
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./AM422451.xml:  <GBSeq_organism>Jiangella alkaliphila</GBSeq_organism>
+./AF005020.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./Z78207.xml:  <GBSeq_organism>Microlunatus phosphovorus</GBSeq_organism>
+./FJ969846.xml:  <GBSeq_organism>Haloactinopolyspora alba</GBSeq_organism>
+./AY566575.xml:  <GBSeq_organism>Granulicoccus phenolivorans</GBSeq_organism>
+./D82046.xml:  <GBSeq_organism>Propionibacterium cyclohexanicum</GBSeq_organism>
+./Z78208.xml:  <GBSeq_organism>Luteococcus japonicus</GBSeq_organism>
+./FJ157186.xml:  <GBSeq_organism>Jiangella alba</GBSeq_organism>
+./AY835924.xml:  <GBSeq_organism>Nocardioides kribbensis</GBSeq_organism>
+./Z78206.xml:  <GBSeq_organism>Friedmanniella antarctica</GBSeq_organism>
+./AJ003058.xml:  <GBSeq_organism>Propionibacterium propionicum</GBSeq_organism>
+./AY633969.xml:  <GBSeq_organism>Nocardioides alkalitolerans</GBSeq_organism>
+./AJ003057.xml:  <GBSeq_organism>Propionibacterium granulosum DSM 20700</GBSeq_organism>
+./AF084529.xml:  <GBSeq_organism>Friedmanniella capsulata</GBSeq_organism>
+./AF225962.xml:  <GBSeq_organism>Propionibacterium australiense</GBSeq_organism>
+./AY423718.xml:  <GBSeq_organism>Nocardioides ganghwensis</GBSeq_organism>
+./AY995147.xml:  <GBSeq_organism>Kribbella swartbergensis</GBSeq_organism>
+./AF005024.xml:  <GBSeq_organism>Nocardioides nitrophenolicus</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AF062535.xml:  <GBSeq_organism>Friedmanniella spumicola</GBSeq_organism>
+./AY995146.xml:  <GBSeq_organism>Kribbella karoonensis</GBSeq_organism>
+./AY928902.xml:  <GBSeq_organism>Nocardioides dubius</GBSeq_organism>
+./AY822044.xml:  <GBSeq_organism>Aeromicrobium alkaliterrae</GBSeq_organism>
+./AY082061.xml:  <GBSeq_organism>Kribbella yunnanensis</GBSeq_organism>
+./AY253862.xml:  <GBSeq_organism>Kribbella solani</GBSeq_organism>
+./DQ196625.xml:  <GBSeq_organism>Brooklawnia cerclae</GBSeq_organism>
+./DQ176646.xml:  <GBSeq_organism>Propionicicella superfundia</GBSeq_organism>
+./AJ416758.xml:  <GBSeq_organism>Luteococcus sanguinis</GBSeq_organism>
+./AY253866.xml:  <GBSeq_organism>Kribbella jejuensis</GBSeq_organism>

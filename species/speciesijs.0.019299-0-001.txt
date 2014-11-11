@@ -1,0 +1,25 @@
+./GO438841.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./GO438831.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./GO438829.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./AY313009.xml:  <GBSeq_organism>Bullera sp. TY-248</GBSeq_organism>
+./AF544247.xml:  <GBSeq_organism>Bullera pseudovariabilis</GBSeq_organism>
+./AY312993.xml:  <GBSeq_organism>Bullera sp. TY-137</GBSeq_organism>
+./GO438843.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./GO438839.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./AY188388.xml:  <GBSeq_organism>Bullera siamensis</GBSeq_organism>
+./AY313005.xml:  <GBSeq_organism>Bullera sp. TY-238</GBSeq_organism>
+./GO438834.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./AF189855.xml:  <GBSeq_organism>Bullera variabilis</GBSeq_organism>
+./GO438838.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./DQ404464.xml:  <GBSeq_organism>Bullera sp. ST-144</GBSeq_organism>
+./GO438835.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./GO438842.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./AY313004.xml:  <GBSeq_organism>Bullera sp. TY-221</GBSeq_organism>
+./AF075500.xml:  <GBSeq_organism>Bulleromyces albus</GBSeq_organism>
+./GO438828.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./GO438840.xml:  <GBSeq_organism>Peregrinus maidis</GBSeq_organism>
+./AY313016.xml:  <GBSeq_organism>Bullera sp. TY-297</GBSeq_organism>
+./AY313003.xml:  <GBSeq_organism>Bullera sp. TY-199</GBSeq_organism>
+./AF416646.xml:  <GBSeq_organism>Bulleribasidium oberjochense</GBSeq_organism>
+./DQ404472.xml:  <GBSeq_organism>Bullera sp. ST-186</GBSeq_organism>
+./AY312999.xml:  <GBSeq_organism>Bullera sp. TY-154</GBSeq_organism>

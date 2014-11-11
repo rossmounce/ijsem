@@ -1,0 +1,19 @@
+./AF137381.xml:  <GBSeq_organism>Runella zeae</GBSeq_organism>
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./AJ535729.xml:  <GBSeq_organism>Arcicella aquatica</GBSeq_organism>
+./AB058919.xml:  <GBSeq_organism>Reichenbachiella agariperforans</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./D12658.xml:  <GBSeq_organism>Cytophaga aurantiaca</GBSeq_organism>
+./AJ276901.xml:  <GBSeq_organism>Hymenobacter aerophilus</GBSeq_organism>
+./AY739663.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AY258133.xml:  <GBSeq_organism>bacterium DG1129</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AY753206.xml:  <GBSeq_organism>Roseivirga echinicomitans</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./AY548770.xml:  <GBSeq_organism>Bacteroidetes bacterium PM13</GBSeq_organism>
+./M62786.xml:  <GBSeq_organism>Runella slithyformis</GBSeq_organism>
+./AB078048.xml:  <GBSeq_organism>Flexibacter elegans</GBSeq_organism>
+./D12663.xml:  <GBSeq_organism>Cytophaga hutchinsonii ATCC 33406</GBSeq_organism>
+./Y17356.xml:  <GBSeq_organism>Hymenobacter actinosclerus</GBSeq_organism>
+./AF513434.xml:  <GBSeq_organism>Psychroflexus tropicus</GBSeq_organism>
+./AF137029.xml:  <GBSeq_organism>Dyadobacter fermentans DSM 18053</GBSeq_organism>

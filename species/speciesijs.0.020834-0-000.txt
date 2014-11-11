@@ -1,0 +1,7 @@
+./FJ438370.xml:  <GBSeq_organism>Anoxybacillus tengchongensis</GBSeq_organism>
+./AJ879076.xml:  <GBSeq_organism>Anoxybacillus rupiensis</GBSeq_organism>
+./AJ618979.xml:  <GBSeq_organism>Anoxybacillus amylolyticus</GBSeq_organism>
+./Z26932.xml:  <GBSeq_organism>Anoxybacillus flavithermus subsp. flavithermus</GBSeq_organism>
+./AY122325.xml:  <GBSeq_organism>Anoxybacillus gonensis</GBSeq_organism>
+./AF510985.xml:  <GBSeq_organism>Anoxybacillus kamchatkensis</GBSeq_organism>
+./AF001963.xml:  <GBSeq_organism>Anoxybacillus ayderensis</GBSeq_organism>

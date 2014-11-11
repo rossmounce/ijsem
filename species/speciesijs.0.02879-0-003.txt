@@ -1,0 +1,17 @@
+./AY321306.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AY128103.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./AJ302311.xml:  <GBSeq_organism>Burkholderia tuberum STM678</GBSeq_organism>
+./AJ302312.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./AF312213.xml:  <GBSeq_organism>Burkholderia sp. BM273</GBSeq_organism>
+./AB024310.xml:  <GBSeq_organism>Burkholderia kururiensis</GBSeq_organism>
+./AF164045.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./Y17009.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./AY128104.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AF215705.xml:  <GBSeq_organism>Burkholderia fungorum</GBSeq_organism>
+./AF139171.xml:  <GBSeq_organism>Pandoraea norimbergensis</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./AJ420332.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AF312214.xml:  <GBSeq_organism>Burkholderia sp. BM16</GBSeq_organism>
+./AF263278.xml:  <GBSeq_organism>Burkholderia sacchari</GBSeq_organism>
+./AY128105.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>

@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY976330.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./Y18530.xml:  <GBSeq_organism>Dysgonomonas gadei ATCC BAA-286</GBSeq_organism>
+./L16469.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./DQ807438.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY742226.xml:  <GBSeq_organism>Proteiniphilum acetatigenes</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AB267809.xml:  <GBSeq_organism>Barnesiella viscericola DSM 18177</GBSeq_organism>
+./EF405511.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ905844.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF071205.xml:  <GBSeq_organism>uncultured Bacteroidetes bacterium</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./L16495.xml:  <GBSeq_organism>Tannerella forsythia</GBSeq_organism>
+./AB370251.xml:  <GBSeq_organism>Barnesiella intestinihominis YIT 11860</GBSeq_organism>

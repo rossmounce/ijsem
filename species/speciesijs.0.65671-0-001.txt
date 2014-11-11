@@ -1,0 +1,9 @@
+./DQ659898.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./D85466.xml:  <GBSeq_organism>Cryptosporangium japonicum</GBSeq_organism>
+./AB003931.xml:  <GBSeq_organism>Kineosporia aurantiaca JCM 3230</GBSeq_organism>
+./D85465.xml:  <GBSeq_organism>Cryptosporangium arvum DSM 44712</GBSeq_organism>
+./AF247813.xml:  <GBSeq_organism>Kineococcus radiotolerans SRS30216 = ATCC BAA-149</GBSeq_organism>
+./X77958.xml:  <GBSeq_organism>Kineococcus aurantiacus</GBSeq_organism>
+./AB037007.xml:  <GBSeq_organism>Cryptosporangium minutisporangium</GBSeq_organism>
+./DQ200982.xml:  <GBSeq_organism>Pseudokineococcus marinus</GBSeq_organism>
+./EF667339.xml:  <GBSeq_organism>Kineococcus gynurae</GBSeq_organism>

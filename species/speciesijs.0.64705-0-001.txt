@@ -1,0 +1,27 @@
+./AF399956.xml:  <GBSeq_organism>Shuttleworthia satelles DSM 14600</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./X89981.xml:  <GBSeq_organism>Butyrivibrio crossotus</GBSeq_organism>
+./Y18191.xml:  <GBSeq_organism>Syntrophococcus sucromutans</GBSeq_organism>
+./X53218.xml:  <GBSeq_organism>Propionibacterium acnes</GBSeq_organism>
+./DQ377946.xml:  <GBSeq_organism>Moryella indoligenes</GBSeq_organism>
+./AF481221.xml:  <GBSeq_organism>Lachnospiraceae oral clone MCE9_173</GBSeq_organism>
+./AJ006962.xml:  <GBSeq_organism>Filifactor alocis</GBSeq_organism>
+./X87151.xml:  <GBSeq_organism>Catonella morbi ATCC 51271</GBSeq_organism>
+./AF287770.xml:  <GBSeq_organism>Firmicutes sp. oral strain FTB41</GBSeq_organism>
+./U13038.xml:  <GBSeq_organism>Eubacterium brachy</GBSeq_organism>
+./AF527773.xml:  <GBSeq_organism>Moryella indoligenes</GBSeq_organism>
+./U41172.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AF481218.xml:  <GBSeq_organism>Lachnospiraceae oral clone MCE7_60</GBSeq_organism>
+./DQ377947.xml:  <GBSeq_organism>Moryella indoligenes</GBSeq_organism>
+./L14719.xml:  <GBSeq_organism>Lachnospira multipara ATCC 19207</GBSeq_organism>
+./M59089.xml:  <GBSeq_organism>[Clostridium] clostridioforme</GBSeq_organism>
+./AJ508452.xml:  <GBSeq_organism>[Clostridium] bolteae</GBSeq_organism>
+./AJ318527.xml:  <GBSeq_organism>Marvinbryantia formatexigens DSM 14469</GBSeq_organism>
+./AJ582080.xml:  <GBSeq_organism>[Clostridium asparagiforme] DSM 15981</GBSeq_organism>
+./AF481222.xml:  <GBSeq_organism>Lachnospiraceae oral clone MCE10_236</GBSeq_organism>
+./L14675.xml:  <GBSeq_organism>Lachnospira pectinoschiza</GBSeq_organism>
+./AF481220.xml:  <GBSeq_organism>Lachnospiraceae oral clone MCE9_31</GBSeq_organism>
+./AY323228.xml:  <GBSeq_organism>Oribacterium sinus</GBSeq_organism>
+./L04168.xml:  <GBSeq_organism>Peptostreptococcus anaerobius</GBSeq_organism>
+./AY349377.xml:  <GBSeq_organism>Eubacterium sp. oral clone JN088</GBSeq_organism>
+./U65987.xml:  <GBSeq_organism>Eubacterium saphenum ATCC 49989</GBSeq_organism>

@@ -1,0 +1,53 @@
+./AM711534.xml:  <GBSeq_organism>Nostoc sp. De1</GBSeq_organism>
+./AY742452.xml:  <GBSeq_organism>Nostoc sp. PCC 9231</GBSeq_organism>
+./AJ630450.xml:  <GBSeq_organism>Nostoc ellipsosporum V</GBSeq_organism>
+./AM711537.xml:  <GBSeq_organism>Nostoc sp. PCC 8112</GBSeq_organism>
+./AF067819.xml:  <GBSeq_organism>Cylindrospermopsis raciborskii</GBSeq_organism>
+./AY742453.xml:  <GBSeq_organism>Nostoc sp. PCC 9305</GBSeq_organism>
+./AJ630456.xml:  <GBSeq_organism>Trichormus variabilis str. &apos;HINDAK 2001/4&apos;</GBSeq_organism>
+./AM711543.xml:  <GBSeq_organism>Nostoc sp. Cam2S01</GBSeq_organism>
+./AM711535.xml:  <GBSeq_organism>Nostoc sp. Ev1</GBSeq_organism>
+./AY742451.xml:  <GBSeq_organism>Nostoc sp. PCC 9229</GBSeq_organism>
+./AM711532.xml:  <GBSeq_organism>Nostoc sp. Cc2</GBSeq_organism>
+./AM711539.xml:  <GBSeq_organism>Nostoc sp. 8901:1</GBSeq_organism>
+./AM711553.xml:  <GBSeq_organism>Nodularia sp. Lukesova 1/91</GBSeq_organism>
+./AM711544.xml:  <GBSeq_organism>Nostoc sp. Mau15</GBSeq_organism>
+./AM711552.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./AM711548.xml:  <GBSeq_organism>Nostoc elgonense TH3S05</GBSeq_organism>
+./AM711527.xml:  <GBSeq_organism>Nostoc sp. 0GU36S02</GBSeq_organism>
+./AM711522.xml:  <GBSeq_organism>Nostoc sp. Al1</GBSeq_organism>
+./AM711524.xml:  <GBSeq_organism>Desmonostoc muscorum</GBSeq_organism>
+./AJ630414.xml:  <GBSeq_organism>Anabaena cf. cylindrica XP6B</GBSeq_organism>
+./AY742454.xml:  <GBSeq_organism>Nostoc sp. 8938</GBSeq_organism>
+./AJ630454.xml:  <GBSeq_organism>Trichormus azollae str. &apos;Kom BAI./1983&apos;</GBSeq_organism>
+./AJ630451.xml:  <GBSeq_organism>Nostoc muscorum I</GBSeq_organism>
+./AY742450.xml:  <GBSeq_organism>Nostoc sp. &apos;Azolla cyanobiont&apos;</GBSeq_organism>
+./AM711554.xml:  <GBSeq_organism>Nodularia harveyana</GBSeq_organism>
+./AM711529.xml:  <GBSeq_organism>Nostoc calcicola</GBSeq_organism>
+./AM711525.xml:  <GBSeq_organism>Nostoc sp. PCC 8976</GBSeq_organism>
+./AM711533.xml:  <GBSeq_organism>Nostoc sp. Cr4</GBSeq_organism>
+./AM711542.xml:  <GBSeq_organism>Nostoc sp. 9104</GBSeq_organism>
+./AY742447.xml:  <GBSeq_organism>Nostoc sp. 8916</GBSeq_organism>
+./AM711541.xml:  <GBSeq_organism>Nostoc sp. 8964:3</GBSeq_organism>
+./AM711528.xml:  <GBSeq_organism>Nostoc sp. Lukesova 40/93</GBSeq_organism>
+./AJ293110.xml:  <GBSeq_organism>Anabaena cf. cylindrica 133</GBSeq_organism>
+./AM711549.xml:  <GBSeq_organism>Nostoc sp. TO1S01</GBSeq_organism>
+./AF027655.xml:  <GBSeq_organism>Nostoc punctiforme PCC 73102</GBSeq_organism>
+./AM711547.xml:  <GBSeq_organism>Nostoc sp. TH1S01</GBSeq_organism>
+./AJ630458.xml:  <GBSeq_organism>Anabaena augstumalis str. &apos;SCHMIDKE JAHNKE/4a&apos;</GBSeq_organism>
+./AM711550.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./AM711536.xml:  <GBSeq_organism>Nostoc sp. Gm</GBSeq_organism>
+./AY218827.xml:  <GBSeq_organism>Nostoc muscorum CENA18</GBSeq_organism>
+./AM711523.xml:  <GBSeq_organism>Desmonostoc muscorum</GBSeq_organism>
+./AJ630428.xml:  <GBSeq_organism>Anabaena oscillarioides str. &apos;BO HINDAK 1984/43&apos;</GBSeq_organism>
+./AJ630447.xml:  <GBSeq_organism>Nostoc calcicola III</GBSeq_organism>
+./AJ630427.xml:  <GBSeq_organism>Anabaena oscillarioides BECID32</GBSeq_organism>
+./AM711546.xml:  <GBSeq_organism>Nostoc sp. Lukesova 5/96</GBSeq_organism>
+./AM711530.xml:  <GBSeq_organism>Nostoc sp. 996</GBSeq_organism>
+./AM711545.xml:  <GBSeq_organism>Nostoc sp. Lukesova 1/86</GBSeq_organism>
+./AY742449.xml:  <GBSeq_organism>Nostoc sp. 8963</GBSeq_organism>
+./AM711551.xml:  <GBSeq_organism>uncultured cyanobacterium</GBSeq_organism>
+./AF092504.xml:  <GBSeq_organism>Cylindrospermopsis raciborskii AWT205</GBSeq_organism>
+./AJ630433.xml:  <GBSeq_organism>Anabaena planctonica 1tu36s8</GBSeq_organism>
+./AJ630453.xml:  <GBSeq_organism>Nostoc sp. 1tu14s8</GBSeq_organism>
+./AM711526.xml:  <GBSeq_organism>Nostoc sp. 0GU36S01</GBSeq_organism>

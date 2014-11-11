@@ -1,0 +1,3 @@
+./X88909.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./X88910.xml:  <GBSeq_organism>Mycobacterium sp.</GBSeq_organism>
+./M15467.xml:  <GBSeq_organism>Mycobacterium tuberculosis str. Erdman = ATCC 35801</GBSeq_organism>

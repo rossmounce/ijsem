@@ -1,0 +1,21 @@
+./X80595.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./X81920.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./AB010909.xml:  <GBSeq_organism>Williamsia maris</GBSeq_organism>
+./Z35435.xml:  <GBSeq_organism>Skermania piniformis</GBSeq_organism>
+./AY643401.xml:  <GBSeq_organism>Dietzia papillomatosis</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X84857.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AM406674.xml:  <GBSeq_organism>Gordonia malaquae</GBSeq_organism>
+./FJ882017.xml:  <GBSeq_organism>Amycolicicoccus subflavus</GBSeq_organism>
+./EF564379.xml:  <GBSeq_organism>Amycolicicoccus subflavus DQS3-9A1</GBSeq_organism>
+./X80635.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./X81922.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./DQ883812.xml:  <GBSeq_organism>Actinopolyspora mortivallis DSM 44261</GBSeq_organism>
+./X81911.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AB128981.xml:  <GBSeq_organism>Corynebacterium resistens DSM 45100</GBSeq_organism>
+./X84850.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./X85955.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>
+./AY534742.xml:  <GBSeq_organism>Millisia brevis</GBSeq_organism>

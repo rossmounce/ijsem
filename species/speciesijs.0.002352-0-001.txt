@@ -1,0 +1,9 @@
+./AY090110.xml:  <GBSeq_organism>Paenibacillus elgii</GBSeq_organism>
+./EU391155.xml:  <GBSeq_organism>Paenibacillus pueri</GBSeq_organism>
+./AJ320493.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./DQ309072.xml:  <GBSeq_organism>Paenibacillus soli</GBSeq_organism>
+./EF452662.xml:  <GBSeq_organism>Paenibacillus ginsengihumi DSM 21568</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./AY116665.xml:  <GBSeq_organism>Paenibacillus ehimensis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>

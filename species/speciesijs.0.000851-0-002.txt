@@ -1,0 +1,12 @@
+./AF550632.xml:  <GBSeq_organism>Campylobacter peloridis</GBSeq_organism>
+./AM922330.xml:  <GBSeq_organism>Campylobacter lari subsp. concheus</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./L14630.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AF550633.xml:  <GBSeq_organism>Campylobacter lari subsp. concheus</GBSeq_organism>
+./L14628.xml:  <GBSeq_organism>Campylobacter upsaliensis</GBSeq_organism>
+./AJ620504.xml:  <GBSeq_organism>Campylobacter insulaenigrae NCTC 12927</GBSeq_organism>
+./AM922331.xml:  <GBSeq_organism>Campylobacter peloridis</GBSeq_organism>
+./M59073.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./U03022.xml:  <GBSeq_organism>Campylobacter helveticus</GBSeq_organism>
+./M59298.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>

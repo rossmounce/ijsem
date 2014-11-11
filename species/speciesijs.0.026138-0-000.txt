@@ -1,0 +1,14 @@
+./AB469785.xml:  <GBSeq_organism>Pandoraea oxalativorans</GBSeq_organism>
+./AY268174.xml:  <GBSeq_organism>Pandoraea norimbergensis</GBSeq_organism>
+./AY268173.xml:  <GBSeq_organism>Pandoraea pulmonicola</GBSeq_organism>
+./AF247698.xml:  <GBSeq_organism>Pandoraea sp. H652</GBSeq_organism>
+./AF247693.xml:  <GBSeq_organism>Pandoraea sp. G5084</GBSeq_organism>
+./AB469784.xml:  <GBSeq_organism>Pandoraea oxalativorans</GBSeq_organism>
+./FJ446486.xml:  <GBSeq_organism>Pandoraea oxalativorans</GBSeq_organism>
+./AF139176.xml:  <GBSeq_organism>Pandoraea sputorum</GBSeq_organism>
+./AY268171.xml:  <GBSeq_organism>Pandoraea genomosp. 1</GBSeq_organism>
+./AY268170.xml:  <GBSeq_organism>Pandoraea pnomenusa</GBSeq_organism>
+./AF512826.xml:  <GBSeq_organism>Burkholderia sordidicola</GBSeq_organism>
+./EF397578.xml:  <GBSeq_organism>Pandoraea thiooxydans</GBSeq_organism>
+./AY268172.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AF247697.xml:  <GBSeq_organism>Pandoraea sp. G9805</GBSeq_organism>

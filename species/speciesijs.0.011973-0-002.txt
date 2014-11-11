@@ -1,0 +1,10 @@
+./DQ364788.xml:  <GBSeq_organism>Paenibacillus zanthoxyli</GBSeq_organism>
+./DQ787334.xml:  <GBSeq_organism>Azospirillum lipoferum</GBSeq_organism>
+./FJ560947.xml:  <GBSeq_organism>Paenibacillus riograndensis SBR5</GBSeq_organism>
+./EU294254.xml:  <GBSeq_organism>Paenibacillus borealis</GBSeq_organism>
+./AJ867247.xml:  <GBSeq_organism>Paenibacillus wynnii</GBSeq_organism>
+./DQ407295.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ223992.xml:  <GBSeq_organism>Paenibacillus odorifer</GBSeq_organism>
+./DQ349125.xml:  <GBSeq_organism>Paenibacillus sabinae</GBSeq_organism>
+./AJ223994.xml:  <GBSeq_organism>Paenibacillus graminis</GBSeq_organism>
+./U23649.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>

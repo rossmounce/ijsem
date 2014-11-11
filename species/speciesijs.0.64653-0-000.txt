@@ -1,0 +1,13 @@
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X56575.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./AY426980.xml:  <GBSeq_organism>Vibrio ezurae</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./AJ437616.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./X74686.xml:  <GBSeq_organism>Photobacterium leiognathi subsp. leiognathi</GBSeq_organism>
+./AJ316172.xml:  <GBSeq_organism>Vibrio brasiliensis LMG 20546</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./X74685.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./X95527.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

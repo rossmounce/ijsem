@@ -1,0 +1,12 @@
+./Z76743.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. laumondii</GBSeq_organism>
+./X82249.xml:  <GBSeq_organism>Photorhabdus temperata subsp. temperata</GBSeq_organism>
+./AY280572.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AJ007405.xml:  <GBSeq_organism>Photorhabdus temperata</GBSeq_organism>
+./AY280574.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY280573.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./X82250.xml:  <GBSeq_organism>Photorhabdus luminescens</GBSeq_organism>
+./AY217761.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY216500.xml:  <GBSeq_organism>Photorhabdus sp. Q614</GBSeq_organism>
+./AJ007404.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. laumondii</GBSeq_organism>
+./Y17605.xml:  <GBSeq_organism>Photorhabdus luminescens</GBSeq_organism>
+./X82248.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. luminescens</GBSeq_organism>

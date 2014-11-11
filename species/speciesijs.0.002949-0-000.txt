@@ -1,0 +1,17 @@
+./D88005.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./AJ566849.xml:  <GBSeq_organism>Sutterella stercoricanis</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./AY170848.xml:  <GBSeq_organism>Achromobacter spanius</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./Y11890.xml:  <GBSeq_organism>Pelistega europaea</GBSeq_organism>
+./U82826.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./AF282916.xml:  <GBSeq_organism>Pigmentiphaga kullae</GBSeq_organism>
+./AY170847.xml:  <GBSeq_organism>Achromobacter insolitus</GBSeq_organism>
+./AJ277798.xml:  <GBSeq_organism>Bordetella trematum</GBSeq_organism>
+./AF508102.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./EF100696.xml:  <GBSeq_organism>Pigmentiphaga daeguensis</GBSeq_organism>
+./EU583723.xml:  <GBSeq_organism>Pigmentiphaga litoralis</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>

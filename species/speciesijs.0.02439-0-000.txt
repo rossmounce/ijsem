@@ -1,0 +1,9 @@
+./AJ243891.xml:  <GBSeq_organism>Actinomyces canis</GBSeq_organism>
+./X78720.xml:  <GBSeq_organism>Actinomyces turicensis</GBSeq_organism>
+./AJ234040.xml:  <GBSeq_organism>Actinomyces odontolyticus</GBSeq_organism>
+./X69616.xml:  <GBSeq_organism>Actinomyces hyovaginalis</GBSeq_organism>
+./X78719.xml:  <GBSeq_organism>Actinomyces radingae</GBSeq_organism>
+./AJ234039.xml:  <GBSeq_organism>Actinomyces bowdenii</GBSeq_organism>
+./AJ277385.xml:  <GBSeq_organism>Actinomyces suimastitidis</GBSeq_organism>
+./AJ243791.xml:  <GBSeq_organism>Actinomyces urogenitalis</GBSeq_organism>
+./X80413.xml:  <GBSeq_organism>Actinomyces georgiae</GBSeq_organism>

@@ -1,0 +1,25 @@
+./AF376017.xml:  <GBSeq_organism>Acidithiobacillus sp. KSC1</GBSeq_organism>
+./AJ278723.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./M79413.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF359940.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans</GBSeq_organism>
+./AF376020.xml:  <GBSeq_organism>Acidithiobacillus ferrivorans</GBSeq_organism>
+./X75266.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./M79401.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans</GBSeq_organism>
+./AJ243934.xml:  <GBSeq_organism>Acidithiobacillus cuprithermicus</GBSeq_organism>
+./AF376018.xml:  <GBSeq_organism>Acidithiobacillus sp. NO-8</GBSeq_organism>
+./AF137369.xml:  <GBSeq_organism>Acidithiobacillus caldus</GBSeq_organism>
+./AF465605.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF465604.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./X75269.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans</GBSeq_organism>
+./X75267.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./X98210.xml:  <GBSeq_organism>Thiobacillus sp.</GBSeq_organism>
+./M79410.xml:  <GBSeq_organism>Acidithiobacillus caldus</GBSeq_organism>
+./X72851.xml:  <GBSeq_organism>Acidithiobacillus caldus</GBSeq_organism>
+./AF376019.xml:  <GBSeq_organism>Acidithiobacillus sp. NO-25</GBSeq_organism>
+./X75268.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AJ278722.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF465606.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF465608.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AJ275721.xml:  <GBSeq_organism>Vipera nikolskii</GBSeq_organism>
+./AF362022.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./AF465607.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>

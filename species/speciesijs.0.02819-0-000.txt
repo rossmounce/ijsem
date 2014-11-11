@@ -1,0 +1,24 @@
+./AF206305.xml:  <GBSeq_organism>Leptotrichia trevisanii</GBSeq_organism>
+./AY029802.xml:  <GBSeq_organism>Leptotrichia wadei</GBSeq_organism>
+./L37788.xml:  <GBSeq_organism>Leptotrichia buccalis</GBSeq_organism>
+./AY029803.xml:  <GBSeq_organism>Leptotrichia hofstadii</GBSeq_organism>
+./AF287807.xml:  <GBSeq_organism>Leptotrichia-like sp. oral clone BB002</GBSeq_organism>
+./AJ133496.xml:  <GBSeq_organism>Fusobacterium nucleatum subsp. nucleatum ATCC 25586</GBSeq_organism>
+./AF366272.xml:  <GBSeq_organism>uncultured Leptotrichia sp.</GBSeq_organism>
+./M58684.xml:  <GBSeq_organism>Fusobacterium perfoetens</GBSeq_organism>
+./AF385571.xml:  <GBSeq_organism>Leptotrichia sp. oral clone EI013</GBSeq_organism>
+./AF385572.xml:  <GBSeq_organism>Leptotrichia sp. oral clone EI022</GBSeq_organism>
+./AF366268.xml:  <GBSeq_organism>uncultured Leptotrichia sp.</GBSeq_organism>
+./AF366276.xml:  <GBSeq_organism>uncultured Leptotrichia sp.</GBSeq_organism>
+./AY029805.xml:  <GBSeq_organism>Leptotrichia trevisanii</GBSeq_organism>
+./L37789.xml:  <GBSeq_organism>Sneathia sanguinegens</GBSeq_organism>
+./AY029801.xml:  <GBSeq_organism>Leptotrichia trevisanii</GBSeq_organism>
+./AF287816.xml:  <GBSeq_organism>Leptotrichia sp. oral isolate A39FD</GBSeq_organism>
+./AF287811.xml:  <GBSeq_organism>Leptotrichia sp. oral clone DA069</GBSeq_organism>
+./AF287814.xml:  <GBSeq_organism>Leptotrichia sp. oral clone F138</GBSeq_organism>
+./M58678.xml:  <GBSeq_organism>Sebaldella termitidis ATCC 33386</GBSeq_organism>
+./AY078425.xml:  <GBSeq_organism>[Leptotrichia] amnionii</GBSeq_organism>
+./AY029807.xml:  <GBSeq_organism>Leptotrichia goodfellowii DSM 19756</GBSeq_organism>
+./AY029806.xml:  <GBSeq_organism>Leptotrichia shahii</GBSeq_organism>
+./AF385518.xml:  <GBSeq_organism>Leptotrichia sp. oral clone DR011</GBSeq_organism>
+./AF287813.xml:  <GBSeq_organism>Leptotrichia sp. oral strain FAC5</GBSeq_organism>

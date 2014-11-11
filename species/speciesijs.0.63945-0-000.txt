@@ -1,0 +1,12 @@
+./AJ698726.xml:  <GBSeq_organism>Microbacterium hydrocarbonoxydans</GBSeq_organism>
+./AY376165.xml:  <GBSeq_organism>Microbacterium halotolerans</GBSeq_organism>
+./AB007414.xml:  <GBSeq_organism>Microbacterium imperiale</GBSeq_organism>
+./Y14699.xml:  <GBSeq_organism>Microbacterium resistens</GBSeq_organism>
+./AY062021.xml:  <GBSeq_organism>Microbacterium ulmi</GBSeq_organism>
+./AB007421.xml:  <GBSeq_organism>Microbacterium arborescens</GBSeq_organism>
+./AJ277840.xml:  <GBSeq_organism>Microbacterium phyllosphaerae</GBSeq_organism>
+./AJ491806.xml:  <GBSeq_organism>Microbacterium paraoxydans</GBSeq_organism>
+./AF263563.xml:  <GBSeq_organism>Microbacterium gubbeenense</GBSeq_organism>
+./AJ853909.xml:  <GBSeq_organism>Microbacterium paludicola</GBSeq_organism>
+./AY566291.xml:  <GBSeq_organism>Microbacterium natoriense</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>

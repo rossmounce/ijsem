@@ -1,0 +1,19 @@
+./X77437.xml:  <GBSeq_organism>Curtobacterium luteum</GBSeq_organism>
+./M60935.xml:  <GBSeq_organism>Leifsonia xyli</GBSeq_organism>
+./D45058.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AF224742.xml:  <GBSeq_organism>Ovis aries</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./X77449.xml:  <GBSeq_organism>Agromyces mediolanus</GBSeq_organism>
+./D17751.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./AJ277840.xml:  <GBSeq_organism>Microbacterium phyllosphaerae</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./X77440.xml:  <GBSeq_organism>Pseudoclavibacter helvolus</GBSeq_organism>
+./AJ310417.xml:  <GBSeq_organism>Plantibacter flavus</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./AF116342.xml:  <GBSeq_organism>Leifsonia poae</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>
+./X77447.xml:  <GBSeq_organism>Agromyces ramosus</GBSeq_organism>
+./X79463.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./U09762.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>

@@ -1,0 +1,15 @@
+./X80595.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./AF154129.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AB187521.xml:  <GBSeq_organism>Nocardia exalbida</GBSeq_organism>
+./AJ508748.xml:  <GBSeq_organism>Nocardia puris</GBSeq_organism>
+./AB108781.xml:  <GBSeq_organism>Nocardia arthritidis</GBSeq_organism>
+./AB092566.xml:  <GBSeq_organism>Nocardia asiatica NBRC 100129</GBSeq_organism>
+./AF430047.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AB108780.xml:  <GBSeq_organism>Nocardia pneumoniae</GBSeq_organism>
+./AB108778.xml:  <GBSeq_organism>Nocardia higoensis NBRC 100133</GBSeq_organism>
+./X80591.xml:  <GBSeq_organism>Nocardia brasiliensis NBRC 14402</GBSeq_organism>
+./AJ556157.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./AB187522.xml:  <GBSeq_organism>Nocardia exalbida</GBSeq_organism>
+./AY505492.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AB108779.xml:  <GBSeq_organism>Nocardia araoensis NBRC 100135</GBSeq_organism>
+./AB158277.xml:  <GBSeq_organism>Nocardia takedensis</GBSeq_organism>

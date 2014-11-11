@@ -1,0 +1,17 @@
+./AF313349.xml:  <GBSeq_organism>Candida cf. floricola UWO(PS)95-408.3</GBSeq_organism>
+./AF313353.xml:  <GBSeq_organism>Candida cf. etchellsii UWO(PS)00-226.2</GBSeq_organism>
+./U45705.xml:  <GBSeq_organism>Starmerella bombicola</GBSeq_organism>
+./AF313352.xml:  <GBSeq_organism>Candida cf. etchellsii UWO(PS)00-102.2</GBSeq_organism>
+./U45710.xml:  <GBSeq_organism>Candida floricola</GBSeq_organism>
+./U45703.xml:  <GBSeq_organism>Candida apicola</GBSeq_organism>
+./AF313360.xml:  <GBSeq_organism>Candida cf. bombi UWOPS 95-821.4</GBSeq_organism>
+./U45730.xml:  <GBSeq_organism>Candida stellata</GBSeq_organism>
+./U45708.xml:  <GBSeq_organism>Candida vaccinii</GBSeq_organism>
+./AF251554.xml:  <GBSeq_organism>Candida powellii</GBSeq_organism>
+./AF072843.xml:  <GBSeq_organism>Candida batistae</GBSeq_organism>
+./U45724.xml:  <GBSeq_organism>Candida lactis-condensi</GBSeq_organism>
+./U45706.xml:  <GBSeq_organism>Candida bombi</GBSeq_organism>
+./AF313355.xml:  <GBSeq_organism>Candida cf. powellii UWO(PS)00-195.2</GBSeq_organism>
+./AF313357.xml:  <GBSeq_organism>Candida cf. bombi UWOPS 00-107.2</GBSeq_organism>
+./AF313354.xml:  <GBSeq_organism>Starmerella meliponinorum</GBSeq_organism>
+./U45723.xml:  <GBSeq_organism>Candida etchellsii</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AF251109.xml:  <GBSeq_organism>Gerris odontogaster</GBSeq_organism>
+./AF002261.xml:  <GBSeq_organism>Thermomonospora chromogena</GBSeq_organism>
+./AF360733.xml:  <GBSeq_organism>Nocardiopsis composta</GBSeq_organism>
+./AY036000.xml:  <GBSeq_organism>Nocardiopsis exhalans</GBSeq_organism>
+./AF002264.xml:  <GBSeq_organism>Thermobifida fusca</GBSeq_organism>
+./X97883.xml:  <GBSeq_organism>Nocardiopsis alba DSM 43377</GBSeq_organism>
+./AY036001.xml:  <GBSeq_organism>Nocardiopsis umidischolae</GBSeq_organism>
+./X97886.xml:  <GBSeq_organism>Nocardiopsis dassonvillei subsp. dassonvillei DSM 43111</GBSeq_organism>
+./AJ421018.xml:  <GBSeq_organism>Nocardiopsis halophila DSM 44494</GBSeq_organism>
+./AJ420135.xml:  <GBSeq_organism>Actinomadura echinospora</GBSeq_organism>
+./AF178988.xml:  <GBSeq_organism>Streptomonospora salina</GBSeq_organism>
+./AF002260.xml:  <GBSeq_organism>Thermobifida alba</GBSeq_organism>
+./AF105971.xml:  <GBSeq_organism>Nocardiopsis tropica</GBSeq_organism>
+./X97888.xml:  <GBSeq_organism>Nocardiopsis lucentensis DSM 44048</GBSeq_organism>
+./AF105972.xml:  <GBSeq_organism>Nocardiopsis trehalosi</GBSeq_organism>
+./Z68100.xml:  <GBSeq_organism>Streptomyces megasporus</GBSeq_organism>
+./X97884.xml:  <GBSeq_organism>Nocardiopsis prasina</GBSeq_organism>
+./AJ290448.xml:  <GBSeq_organism>Nocardiopsis halotolerans</GBSeq_organism>
+./X97887.xml:  <GBSeq_organism>Nocardiopsis listeri</GBSeq_organism>

@@ -1,0 +1,19 @@
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./AJ292762.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./X82064.xml:  <GBSeq_organism>Corynebacterium minutissimum</GBSeq_organism>
+./X81914.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./X82052.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./X84680.xml:  <GBSeq_organism>Corynebacterium vitaeruminis DSM 20294</GBSeq_organism>
+./AY684044.xml:  <GBSeq_organism>Corynebacterium hansenii</GBSeq_organism>
+./EU998655.xml:  <GBSeq_organism>Corynebacterium doosanense CAU 212 = DSM 45436</GBSeq_organism>
+./X82053.xml:  <GBSeq_organism>Corynebacterium callunae</GBSeq_organism>
+./Y10999.xml:  <GBSeq_organism>Corynebacterium singulare</GBSeq_organism>
+./X84256.xml:  <GBSeq_organism>Corynebacterium ulcerans</GBSeq_organism>
+./X81908.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./X84441.xml:  <GBSeq_organism>Corynebacterium flavescens</GBSeq_organism>
+./AJ012837.xml:  <GBSeq_organism>Corynebacterium simulans</GBSeq_organism>
+./Z97069.xml:  <GBSeq_organism>Corynebacterium durum</GBSeq_organism>
+./AJ295841.xml:  <GBSeq_organism>Corynebacterium testudinoris</GBSeq_organism>
+./D38579.xml:  <GBSeq_organism>Corynebacterium pseudotuberculosis</GBSeq_organism>
+./AY226509.xml:  <GBSeq_organism>Corynebacterium halotolerans YIM 70093 = DSM 44683</GBSeq_organism>
+./Y10077.xml:  <GBSeq_organism>Corynebacterium kroppenstedtii DSM 44385</GBSeq_organism>

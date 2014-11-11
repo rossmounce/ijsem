@@ -1,0 +1,33 @@
+./X80628.xml:  <GBSeq_organism>Tsukamurella paurometabola DSM 20162</GBSeq_organism>
+./X84442.xml:  <GBSeq_organism>Corynebacterium striatum</GBSeq_organism>
+./AJ920290.xml:  <GBSeq_organism>Williamsia deligens</GBSeq_organism>
+./X52933.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./X80627.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>
+./X79286.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./Y15886.xml:  <GBSeq_organism>Corynebacterium confusum</GBSeq_organism>
+./Z35435.xml:  <GBSeq_organism>Skermania piniformis</GBSeq_organism>
+./X80632.xml:  <GBSeq_organism>Gordonia rubripertincta</GBSeq_organism>
+./X80614.xml:  <GBSeq_organism>Rhodococcus hoagii</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X80500.xml:  <GBSeq_organism>Corynebacterium accolens</GBSeq_organism>
+./X84250.xml:  <GBSeq_organism>Corynebacterium jeikeium</GBSeq_organism>
+./AF277198.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./X92981.xml:  <GBSeq_organism>Tsukamurella pulmonis</GBSeq_organism>
+./AY608920.xml:  <GBSeq_organism>Segniliparus rugosus</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AB159036.xml:  <GBSeq_organism>Dietzia psychralcaliphila</GBSeq_organism>
+./AY608918.xml:  <GBSeq_organism>Segniliparus rotundus DSM 44985</GBSeq_organism>
+./X67096.xml:  <GBSeq_organism>Mycobacterium hiberniae</GBSeq_organism>
+./X58890.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./X80621.xml:  <GBSeq_organism>Rhodococcus rhodnii</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./Z36930.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AF179865.xml:  <GBSeq_organism>Nocardia paucivorans</GBSeq_organism>
+./Y12247.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./X84244.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./AF283283.xml:  <GBSeq_organism>Tsukamurella strandjordii</GBSeq_organism>
+./X80615.xml:  <GBSeq_organism>Rhodococcus corynebacterioides</GBSeq_organism>
+./L08169.xml:  <GBSeq_organism>Mycobacterium celatum</GBSeq_organism>
+./Z37150.xml:  <GBSeq_organism>Tsukamurella spumae</GBSeq_organism>
+./X85955.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>

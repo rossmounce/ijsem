@@ -1,0 +1,10 @@
+./AJ307983.xml:  <GBSeq_organism>Propionivibrio limicola</GBSeq_organism>
+./AY007722.xml:  <GBSeq_organism>Quatrionicoccus australiensis</GBSeq_organism>
+./Y17601.xml:  <GBSeq_organism>Propionivibrio dicarboxylicus</GBSeq_organism>
+./AF016690.xml:  <GBSeq_organism>Propionivibrio pelophilus</GBSeq_organism>
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./AB166882.xml:  <GBSeq_organism>Azonexus caeni</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AF011347.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>

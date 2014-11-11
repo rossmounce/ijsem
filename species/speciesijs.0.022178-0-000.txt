@@ -1,0 +1,17 @@
+./EF029110.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./D12699.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AJ416411.xml:  <GBSeq_organism>Novosphingobium hassiacum</GBSeq_organism>
+./AF502400.xml:  <GBSeq_organism>Novosphingobium pentaromativorans US6-1</GBSeq_organism>
+./U20775.xml:  <GBSeq_organism>Novosphingobium stygium</GBSeq_organism>
+./EU336977.xml:  <GBSeq_organism>Novosphingobium acidiphilum</GBSeq_organism>
+./U20773.xml:  <GBSeq_organism>Novosphingobium subterraneum</GBSeq_organism>
+./EF549586.xml:  <GBSeq_organism>Novosphingobium indicum</GBSeq_organism>
+./EF424403.xml:  <GBSeq_organism>Novosphingobium mathurense</GBSeq_organism>
+./U20756.xml:  <GBSeq_organism>Novosphingobium aromaticivorans</GBSeq_organism>
+./FJ425737.xml:  <GBSeq_organism>Novosphingobium soli</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY500142.xml:  <GBSeq_organism>Novosphingobium taihuense</GBSeq_organism>
+./X94102.xml:  <GBSeq_organism>Novosphingobium resinovorum</GBSeq_organism>
+./DQ448852.xml:  <GBSeq_organism>Novosphingobium nitrogenifigens DSM 19370</GBSeq_organism>
+./D13945.xml:  <GBSeq_organism>Novosphingobium rosa</GBSeq_organism>
+./EF424402.xml:  <GBSeq_organism>Novosphingobium panipatense</GBSeq_organism>

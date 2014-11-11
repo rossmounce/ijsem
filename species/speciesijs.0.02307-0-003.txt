@@ -1,0 +1,36 @@
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./AF124055.xml:  <GBSeq_organism>Vibrio aerogenes CECT 7868</GBSeq_organism>
+./X70643.xml:  <GBSeq_organism>Aliivibrio salmonicida</GBSeq_organism>
+./X74693.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./X74724.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./X74701.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./X56583.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./X74712.xml:  <GBSeq_organism>Vibrio metschnikovii</GBSeq_organism>
+./X74690.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X74710.xml:  <GBSeq_organism>Vibrio mediterranei</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./X76335.xml:  <GBSeq_organism>Vibrio fluvialis</GBSeq_organism>
+./AJ293802.xml:  <GBSeq_organism>Vibrio pelagius</GBSeq_organism>
+./X74704.xml:  <GBSeq_organism>Vibrio furnissii</GBSeq_organism>
+./X74705.xml:  <GBSeq_organism>Vibrio gazogenes</GBSeq_organism>
+./Y13830.xml:  <GBSeq_organism>Vibrio pectenicida</GBSeq_organism>
+./U46579.xml:  <GBSeq_organism>Vibrio scophthalmi LMG 19158</GBSeq_organism>
+./X74692.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./X74708.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./AF462458.xml:  <GBSeq_organism>Vibrio ruber</GBSeq_organism>
+./X74714.xml:  <GBSeq_organism>Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759</GBSeq_organism>
+./AJ132227.xml:  <GBSeq_organism>Aliivibrio wodanis</GBSeq_organism>
+./X74718.xml:  <GBSeq_organism>Vibrio ordalii ATCC 33509</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./X74698.xml:  <GBSeq_organism>Vibrio cincinnatiensis</GBSeq_organism>
+./X74689.xml:  <GBSeq_organism>Vibrio aestuarianus</GBSeq_organism>
+./X76333.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./X74715.xml:  <GBSeq_organism>Vibrio navarrensis</GBSeq_organism>
+./X74713.xml:  <GBSeq_organism>Vibrio mimicus</GBSeq_organism>
+./X74723.xml:  <GBSeq_organism>Vibrio proteolyticus</GBSeq_organism>
+./M98446.xml:  <GBSeq_organism>Vibrio aspartigenicus</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

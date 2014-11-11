@@ -1,0 +1,10 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./AB500096.xml:  <GBSeq_organism>Arenicella xantha</GBSeq_organism>
+./AY520560.xml:  <GBSeq_organism>Kangiella koreensis DSM 16069</GBSeq_organism>
+./AY520561.xml:  <GBSeq_organism>Kangiella aquimarina</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./Y12373.xml:  <GBSeq_organism>Thiococcus pfennigii</GBSeq_organism>
+./AF152597.xml:  <GBSeq_organism>Methylobacter psychrophilus</GBSeq_organism>
+./AF304195.xml:  <GBSeq_organism>Methylobacter luteus</GBSeq_organism>
+./X72770.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>

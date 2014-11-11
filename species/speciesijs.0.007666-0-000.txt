@@ -1,0 +1,42 @@
+./AF105422.xml:  <GBSeq_organism>Xylanimicrobium pachnodae</GBSeq_organism>
+./X79452.xml:  <GBSeq_organism>Sanguibacter suarezii</GBSeq_organism>
+./AB268586.xml:  <GBSeq_organism>Cellulomonas chitinilytica JCM 16927</GBSeq_organism>
+./DQ203185.xml:  <GBSeq_organism>Georgenia ruanii</GBSeq_organism>
+./AJ400627.xml:  <GBSeq_organism>Salana multivorans</GBSeq_organism>
+./X82598.xml:  <GBSeq_organism>Cellulomonas hominis</GBSeq_organism>
+./AB455495.xml:  <GBSeq_organism>Georgenia muralis</GBSeq_organism>
+./X79454.xml:  <GBSeq_organism>Oerskovia turbata NBRC 15015</GBSeq_organism>
+./EF547937.xml:  <GBSeq_organism>Sanguibacter soli</GBSeq_organism>
+./X83800.xml:  <GBSeq_organism>Cellulomonas gelida</GBSeq_organism>
+./AJ298873.xml:  <GBSeq_organism>Isoptericola variabilis</GBSeq_organism>
+./AY354285.xml:  <GBSeq_organism>Myceligenerans xiligouense</GBSeq_organism>
+./Y18378.xml:  <GBSeq_organism>Beutenbergia cavernae DSM 12333</GBSeq_organism>
+./AF403541.xml:  <GBSeq_organism>Xylanimonas cellulosilytica DSM 15894</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./AY884570.xml:  <GBSeq_organism>Cellulomonas terrae</GBSeq_organism>
+./AJ487302.xml:  <GBSeq_organism>Promicromonospora vindobonensis</GBSeq_organism>
+./X83799.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./AB445007.xml:  <GBSeq_organism>Paraoerskovia marina</GBSeq_organism>
+./X79458.xml:  <GBSeq_organism>Actinotalea fermentans ATCC 43279 = JCM 9966 = DSM 3133</GBSeq_organism>
+./X79451.xml:  <GBSeq_organism>Sanguibacter inulinus</GBSeq_organism>
+./AF064702.xml:  <GBSeq_organism>Cellulomonas iranensis</GBSeq_organism>
+./AY501362.xml:  <GBSeq_organism>Cellulomonas denverensis</GBSeq_organism>
+./AJ272024.xml:  <GBSeq_organism>Promicromonospora sukumoe</GBSeq_organism>
+./AJ854061.xml:  <GBSeq_organism>Isoptericola hypogeus</GBSeq_organism>
+./AM709608.xml:  <GBSeq_organism>Promicromonospora kroppenstedtii DSM 19349</GBSeq_organism>
+./X83801.xml:  <GBSeq_organism>Cellulomonas uda</GBSeq_organism>
+./X83807.xml:  <GBSeq_organism>Oerskovia enterophila</GBSeq_organism>
+./X82449.xml:  <GBSeq_organism>Cellulomonas humilata</GBSeq_organism>
+./X83802.xml:  <GBSeq_organism>Cellulomonas biazotea</GBSeq_organism>
+./AY303668.xml:  <GBSeq_organism>Cellulomonas xylanilytica</GBSeq_organism>
+./AJ314848.xml:  <GBSeq_organism>Oerskovia jenensis</GBSeq_organism>
+./AY789835.xml:  <GBSeq_organism>Isoptericola halotolerans</GBSeq_organism>
+./AY501364.xml:  <GBSeq_organism>Cellulosimicrobium funkei</GBSeq_organism>
+./X83808.xml:  <GBSeq_organism>Promicromonospora citrea</GBSeq_organism>
+./AB166887.xml:  <GBSeq_organism>Cellulomonas composti</GBSeq_organism>
+./AF064701.xml:  <GBSeq_organism>Cellulomonas persica</GBSeq_organism>
+./X92152.xml:  <GBSeq_organism>Cellulomonas bogoriensis</GBSeq_organism>
+./AJ314851.xml:  <GBSeq_organism>Oerskovia paurometabola</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>
+./X79460.xml:  <GBSeq_organism>Cellulomonas fimi ATCC 484</GBSeq_organism>
+./X79450.xml:  <GBSeq_organism>Sanguibacter keddieii DSM 10542</GBSeq_organism>

@@ -1,0 +1,34 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB189298.xml:  <GBSeq_organism>Halobacillus profundi</GBSeq_organism>
+./X60625.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./AY530294.xml:  <GBSeq_organism>Paenibacillus larvae subsp. larvae</GBSeq_organism>
+./AJ486874.xml:  <GBSeq_organism>Halobacillus karajensis</GBSeq_organism>
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./D78320.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./D16273.xml:  <GBSeq_organism>Bacillus megaterium</GBSeq_organism>
+./AF237682.xml:  <GBSeq_organism>Paenibacillus granivorans</GBSeq_organism>
+./D85396.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ628743.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./FJ039528.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./AY571332.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./X77846.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./AY646227.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./AF021924.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./D85395.xml:  <GBSeq_organism>Paenibacillus chibensis</GBSeq_organism>
+./AF164345.xml:  <GBSeq_organism>Paenibacillus chinjuensis</GBSeq_organism>
+./X60624.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./EF452662.xml:  <GBSeq_organism>Paenibacillus ginsengihumi DSM 21568</GBSeq_organism>
+./AF006076.xml:  <GBSeq_organism>Paenibacillus edaphicus</GBSeq_organism>
+./AF137502.xml:  <GBSeq_organism>Alicyclobacillus tolerans</GBSeq_organism>
+./EU143690.xml:  <GBSeq_organism>Amphibacillus diazotrophicus</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./D78470.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>
+./EF031270.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./AY646228.xml:  <GBSeq_organism>Paenibacillus mucilaginosus KNP414</GBSeq_organism>
+./X60609.xml:  <GBSeq_organism>Bacillus azotoformans LMG 9581</GBSeq_organism>
+./AY116665.xml:  <GBSeq_organism>Paenibacillus ehimensis</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./AY724690.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./AF418603.xml:  <GBSeq_organism>Amphibacillus fermentum</GBSeq_organism>

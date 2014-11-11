@@ -1,0 +1,5 @@
+./AB007414.xml:  <GBSeq_organism>Microbacterium imperiale</GBSeq_organism>
+./AY062021.xml:  <GBSeq_organism>Microbacterium ulmi</GBSeq_organism>
+./AF263563.xml:  <GBSeq_organism>Microbacterium gubbeenense</GBSeq_organism>
+./Y17870.xml:  <GBSeq_organism>Rarobacter faecitabidus</GBSeq_organism>
+./X77446.xml:  <GBSeq_organism>Microbacterium barkeri</GBSeq_organism>

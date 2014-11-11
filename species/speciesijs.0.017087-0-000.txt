@@ -1,0 +1,9 @@
+./AJ843077.xml:  <GBSeq_organism>Marinomonas aquimarina</GBSeq_organism>
+./AY839869.xml:  <GBSeq_organism>Marinimicrobium koreense</GBSeq_organism>
+./AY520560.xml:  <GBSeq_organism>Kangiella koreensis DSM 16069</GBSeq_organism>
+./AF063027.xml:  <GBSeq_organism>Marinomonas mediterranea MMB-1</GBSeq_organism>
+./AY520561.xml:  <GBSeq_organism>Kangiella aquimarina</GBSeq_organism>
+./AY567473.xml:  <GBSeq_organism>Nitrincola lacisaponensis</GBSeq_organism>
+./AY028398.xml:  <GBSeq_organism>Teredinibacter turnerae</GBSeq_organism>
+./X72770.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./AY839870.xml:  <GBSeq_organism>Marinimicrobium agarilyticum</GBSeq_organism>

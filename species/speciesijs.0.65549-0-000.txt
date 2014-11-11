@@ -1,0 +1,8 @@
+./AY271626.xml:  <GBSeq_organism>Maribacter ulvicola</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY771762.xml:  <GBSeq_organism>Maribacter arcticus</GBSeq_organism>
+./AY271625.xml:  <GBSeq_organism>Maribacter aquivivus</GBSeq_organism>
+./AY576654.xml:  <GBSeq_organism>Pibocella ponti</GBSeq_organism>
+./AY960749.xml:  <GBSeq_organism>Maribacter dokdonensis</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./AY271624.xml:  <GBSeq_organism>Maribacter orientalis</GBSeq_organism>

@@ -1,0 +1,21 @@
+./X80994.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./D12655.xml:  <GBSeq_organism>Flammeovirga aprica JL-4</GBSeq_organism>
+./M58786.xml:  <GBSeq_organism>Flexibacter polymorphus</GBSeq_organism>
+./AB125062.xml:  <GBSeq_organism>Owenweeksia hongkongensis</GBSeq_organism>
+./GU143096.xml:  <GBSeq_organism>Reichenbachiella faecimaris</GBSeq_organism>
+./FM883672.xml:  <GBSeq_organism>Indibacter alkaliphilus LW1</GBSeq_organism>
+./AB255370.xml:  <GBSeq_organism>Sediminitomix flava</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./D12658.xml:  <GBSeq_organism>Cytophaga aurantiaca</GBSeq_organism>
+./M58784.xml:  <GBSeq_organism>Flexibacter litoralis</GBSeq_organism>
+./CP000383.xml:  <GBSeq_organism>Cytophaga hutchinsonii ATCC 33406</GBSeq_organism>
+./AB078072.xml:  <GBSeq_organism>Marivirga tractuosa DSM 4126</GBSeq_organism>
+./GU143095.xml:  <GBSeq_organism>Reichenbachiella faecimaris</GBSeq_organism>
+./M58793.xml:  <GBSeq_organism>Microscilla marina</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./M62794.xml:  <GBSeq_organism>Flexibacter flexilis DSM 6793</GBSeq_organism>
+./M62787.xml:  <GBSeq_organism>Flectobacillus major</GBSeq_organism>
+./M64628.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./AM406795.xml:  <GBSeq_organism>Echinicola vietnamensis</GBSeq_organism>
+./D12660.xml:  <GBSeq_organism>Persicobacter diffluens</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>

@@ -1,0 +1,12 @@
+./AJ420326.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AJ429330.xml:  <GBSeq_organism>Peltanthera floribunda</GBSeq_organism>
+./AJ420324.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./AJ420329.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AJ418042.xml:  <GBSeq_organism>Alicycliphilus denitrificans K601</GBSeq_organism>
+./AF019037.xml:  <GBSeq_organism>Hydrogenophaga intermedia</GBSeq_organism>
+./X59168.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AF019073.xml:  <GBSeq_organism>Hydrogenophaga palleronii</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./AF078768.xml:  <GBSeq_organism>Hydrogenophaga taeniospiralis CCUG 15921</GBSeq_organism>
+./AF078755.xml:  <GBSeq_organism>Simplicispira psychrophila</GBSeq_organism>

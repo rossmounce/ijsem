@@ -1,0 +1,18 @@
+./M93354.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./AB006766.xml:  <GBSeq_organism>Pseudospirillum japonicum</GBSeq_organism>
+./Y13299.xml:  <GBSeq_organism>Carnimonas nigrificans</GBSeq_organism>
+./D14555.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AY520560.xml:  <GBSeq_organism>Kangiella koreensis DSM 16069</GBSeq_organism>
+./AJ295154.xml:  <GBSeq_organism>Oleiphilus messinensis</GBSeq_organism>
+./AY130994.xml:  <GBSeq_organism>Zooshikella ganghwensis</GBSeq_organism>
+./AJ315983.xml:  <GBSeq_organism>Saccharospirillum impatiens</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./X87219.xml:  <GBSeq_organism>Chromohalobacter marismortui</GBSeq_organism>
+./AY676463.xml:  <GBSeq_organism>Hahella ganghwensis</GBSeq_organism>
+./Y17112.xml:  <GBSeq_organism>Balneatrix alpica</GBSeq_organism>
+./AF448514.xml:  <GBSeq_organism>Cellvibrio fulvus</GBSeq_organism>
+./EF495227.xml:  <GBSeq_organism>Hahella antarctica</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

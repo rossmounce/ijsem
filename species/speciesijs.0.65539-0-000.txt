@@ -1,0 +1,16 @@
+./U14586.xml:  <GBSeq_organism>Polaribacter franzmannii ATCC 700399</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AB032506.xml:  <GBSeq_organism>Tenacibaculum ovolyticum</GBSeq_organism>
+./AY661691.xml:  <GBSeq_organism>Tenacibaculum lutimaris</GBSeq_organism>
+./M58775.xml:  <GBSeq_organism>Polaribacter glomeratus</GBSeq_organism>
+./D14023.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AM746477.xml:  <GBSeq_organism>Tenacibaculum gallaicum</GBSeq_organism>
+./AY962294.xml:  <GBSeq_organism>Tenacibaculum litoreum</GBSeq_organism>
+./AM411030.xml:  <GBSeq_organism>Tenacibaculum discolor</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AF469612.xml:  <GBSeq_organism>Tenacibaculum skagerrakense</GBSeq_organism>
+./DQ822567.xml:  <GBSeq_organism>Tenacibaculum litopenaei</GBSeq_organism>
+./D12670.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AB032501.xml:  <GBSeq_organism>Tenacibaculum mesophilum</GBSeq_organism>

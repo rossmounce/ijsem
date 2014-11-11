@@ -1,0 +1,7 @@
+./AY536889.xml:  <GBSeq_organism>Syntrophomonas erecta</GBSeq_organism>
+./AF022248.xml:  <GBSeq_organism>Syntrophomonas wolfei</GBSeq_organism>
+./X99980.xml:  <GBSeq_organism>Thermosyntropha lipolytica</GBSeq_organism>
+./M26491.xml:  <GBSeq_organism>Syntrophomonas bryantii</GBSeq_organism>
+./AY290767.xml:  <GBSeq_organism>Syntrophomonas curvata</GBSeq_organism>
+./AF022249.xml:  <GBSeq_organism>Syntrophomonas sapovorans</GBSeq_organism>
+./AJ251214.xml:  <GBSeq_organism>Pelospora glutarica</GBSeq_organism>

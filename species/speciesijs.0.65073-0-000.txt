@@ -1,0 +1,26 @@
+./DQ185611.xml:  <GBSeq_organism>Echinicola pacifica</GBSeq_organism>
+./AJ575265.xml:  <GBSeq_organism>Algoriphagus chordae</GBSeq_organism>
+./DQ112660.xml:  <GBSeq_organism>Rhodonellum psychrophilum</GBSeq_organism>
+./AY835922.xml:  <GBSeq_organism>Algoriphagus locisalis</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AJ717393.xml:  <GBSeq_organism>Algoriphagus alkaliphilus</GBSeq_organism>
+./DQ534063.xml:  <GBSeq_organism>Cyclobacterium lianum</GBSeq_organism>
+./AY699794.xml:  <GBSeq_organism>Algoriphagus yeomjeoni</GBSeq_organism>
+./AY533663.xml:  <GBSeq_organism>Algoriphagus marincola</GBSeq_organism>
+./AJ575264.xml:  <GBSeq_organism>Algoriphagus aquimarinus</GBSeq_organism>
+./EF392675.xml:  <GBSeq_organism>Algoriphagus vanfongensis</GBSeq_organism>
+./DQ178979.xml:  <GBSeq_organism>Algoriphagus terrigena</GBSeq_organism>
+./AY608410.xml:  <GBSeq_organism>Roseivirga ehrenbergii</GBSeq_organism>
+./AY264838.xml:  <GBSeq_organism>Algoriphagus mannitolivorans</GBSeq_organism>
+./AY264840.xml:  <GBSeq_organism>Algoriphagus ornithinivorans</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./AJ575263.xml:  <GBSeq_organism>Algoriphagus winogradskyi</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./AB197852.xml:  <GBSeq_organism>Algoriphagus boritolerans</GBSeq_organism>
+./AM406795.xml:  <GBSeq_organism>Echinicola vietnamensis</GBSeq_organism>
+./AJ577141.xml:  <GBSeq_organism>Algoriphagus antarcticus</GBSeq_organism>
+./AJ564643.xml:  <GBSeq_organism>Belliella baltica DSM 15883</GBSeq_organism>
+./AY960985.xml:  <GBSeq_organism>Cyclobacterium amurskyense</GBSeq_organism>
+./AJ821885.xml:  <GBSeq_organism>Dyadobacter crusticola</GBSeq_organism>
+./AY264839.xml:  <GBSeq_organism>Algoriphagus halophilus</GBSeq_organism>
+./AJ575266.xml:  <GBSeq_organism>Cyclobacterium marinum DSM 745</GBSeq_organism>

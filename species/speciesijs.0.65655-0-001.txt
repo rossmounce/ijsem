@@ -1,0 +1,26 @@
+./X76446.xml:  <GBSeq_organism>Bacillus gibsonii</GBSeq_organism>
+./AY376312.xml:  <GBSeq_organism>Bacillus bogoriensis</GBSeq_organism>
+./AJ880003.xml:  <GBSeq_organism>Bacillus plakortidis</GBSeq_organism>
+./AY258614.xml:  <GBSeq_organism>Bacillus patagoniensis</GBSeq_organism>
+./X76439.xml:  <GBSeq_organism>Bacillus pseudofirmus</GBSeq_organism>
+./EU204960.xml:  <GBSeq_organism>Anaerobacillus arseniciselenatis</GBSeq_organism>
+./AJ302709.xml:  <GBSeq_organism>Bacillus halodurans</GBSeq_organism>
+./AJ315075.xml:  <GBSeq_organism>Bacillus decolorationis</GBSeq_organism>
+./AJ515294.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./AY912109.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./AB086897.xml:  <GBSeq_organism>Bacillus krulwichiae</GBSeq_organism>
+./AY221828.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./EU204959.xml:  <GBSeq_organism>Anaerobacillus alkalidiazotrophicus</GBSeq_organism>
+./AJ316316.xml:  <GBSeq_organism>Bacillus murimartini</GBSeq_organism>
+./X76436.xml:  <GBSeq_organism>Bacillus alcalophilus ATCC 27647</GBSeq_organism>
+./AB043858.xml:  <GBSeq_organism>Bacillus akibai</GBSeq_organism>
+./AF064705.xml:  <GBSeq_organism>Anaerobacillus arseniciselenatis</GBSeq_organism>
+./X76449.xml:  <GBSeq_organism>Bacillus pseudalcaliphilus</GBSeq_organism>
+./AB043846.xml:  <GBSeq_organism>Bacillus hemicellulosilyticus</GBSeq_organism>
+./AY228462.xml:  <GBSeq_organism>Bacillus algicola</GBSeq_organism>
+./U59414.xml:  <GBSeq_organism>[Clostridium] cellobioparum DSM 1351 = ATCC 15832</GBSeq_organism>
+./AF541966.xml:  <GBSeq_organism>Bacillus hwajinpoensis</GBSeq_organism>
+./EU143680.xml:  <GBSeq_organism>Anaerobacillus alkalidiazotrophicus</GBSeq_organism>
+./X76440.xml:  <GBSeq_organism>Bacillus clausii</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AB188090.xml:  <GBSeq_organism>Bacillus oshimensis</GBSeq_organism>

@@ -1,0 +1,8 @@
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./AB021379.xml:  <GBSeq_organism>Pseudomonas pseudoalcaligenes</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./AY344056.xml:  <GBSeq_organism>Chromobacterium subtsugae</GBSeq_organism>
+./AY905607.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF310555.xml:  <GBSeq_organism>Neisseria meningitidis</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./J01859.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>

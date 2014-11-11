@@ -1,0 +1,8 @@
+./AF084947.xml:  <GBSeq_organism>Rhodoferax antarcticus ANT.BR</GBSeq_organism>
+./EU030285.xml:  <GBSeq_organism>Polaromonas jejuensis NBRC 106434</GBSeq_organism>
+./AM039830.xml:  <GBSeq_organism>Polaromonas aquatica</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./AY166684.xml:  <GBSeq_organism>Polaromonas naphthalenivorans CJ2</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>

@@ -1,0 +1,15 @@
+./EF117329.xml:  <GBSeq_organism>Flavobacterium terrae</GBSeq_organism>
+./EF126993.xml:  <GBSeq_organism>Flavobacterium cucumis</GBSeq_organism>
+./M59051.xml:  <GBSeq_organism>Flavobacterium johnsoniae</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./U85887.xml:  <GBSeq_organism>Flavobacterium tegetincola</GBSeq_organism>
+./M58767.xml:  <GBSeq_organism>Flavobacterium flevense</GBSeq_organism>
+./DQ178976.xml:  <GBSeq_organism>Flavobacterium soli</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AJ318907.xml:  <GBSeq_organism>Flavobacterium denitrificans</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY581115.xml:  <GBSeq_organism>Flavobacterium segetis</GBSeq_organism>
+./DQ372982.xml:  <GBSeq_organism>Flavobacterium croceum</GBSeq_organism>
+./AF090991.xml:  <GBSeq_organism>Flavobacterium psychrophilum</GBSeq_organism>
+./EF424395.xml:  <GBSeq_organism>Flavobacterium lindanitolerans CIP 109890</GBSeq_organism>
+./AY581114.xml:  <GBSeq_organism>Flavobacterium weaverense</GBSeq_organism>

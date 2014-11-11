@@ -1,0 +1,14 @@
+./EU672804.xml:  <GBSeq_organism>Mucilaginibacter gossypii</GBSeq_organism>
+./FN400860.xml:  <GBSeq_organism>Mucilaginibacter frigoritolerans</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./GU139697.xml:  <GBSeq_organism>Mucilaginibacter dorajii</GBSeq_organism>
+./EU672805.xml:  <GBSeq_organism>Mucilaginibacter gossypiicola</GBSeq_organism>
+./FN400859.xml:  <GBSeq_organism>Mucilaginibacter mallensis</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./EU109722.xml:  <GBSeq_organism>Mucilaginibacter oryzae</GBSeq_organism>
+./AB264126.xml:  <GBSeq_organism>Nubsella zeaxanthinifaciens</GBSeq_organism>
+./EU747841.xml:  <GBSeq_organism>Mucilaginibacter rigui</GBSeq_organism>
+./EU729366.xml:  <GBSeq_organism>Mucilaginibacter ximonensis</GBSeq_organism>
+./AM407725.xml:  <GBSeq_organism>Pseudosphingobacterium domesticum</GBSeq_organism>

@@ -1,0 +1,13 @@
+./EU370956.xml:  <GBSeq_organism>Spirosoma panaciterrae</GBSeq_organism>
+./AJ575265.xml:  <GBSeq_organism>Algoriphagus chordae</GBSeq_organism>
+./EF635010.xml:  <GBSeq_organism>Rudanella lutea</GBSeq_organism>
+./AF217494.xml:  <GBSeq_organism>Rhodothermus marinus DSM 4252</GBSeq_organism>
+./AM000022.xml:  <GBSeq_organism>Larkinella insperata</GBSeq_organism>
+./EF507900.xml:  <GBSeq_organism>Spirosoma rigui</GBSeq_organism>
+./AJ608641.xml:  <GBSeq_organism>Algoriphagus ratkowskyi</GBSeq_organism>
+./AJ575264.xml:  <GBSeq_organism>Algoriphagus aquimarinus</GBSeq_organism>
+./AY699795.xml:  <GBSeq_organism>Algoriphagus yeomjeoni</GBSeq_organism>
+./AJ744861.xml:  <GBSeq_organism>Aquiflexum balticum</GBSeq_organism>
+./AJ575263.xml:  <GBSeq_organism>Algoriphagus winogradskyi</GBSeq_organism>
+./EF451726.xml:  <GBSeq_organism>Spirosoma luteum</GBSeq_organism>
+./AY835923.xml:  <GBSeq_organism>Algoriphagus locisalis</GBSeq_organism>

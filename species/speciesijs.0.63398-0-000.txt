@@ -1,0 +1,16 @@
+./AJ421528.xml:  <GBSeq_organism>Psychrobacter faecalis</GBSeq_organism>
+./U46145.xml:  <GBSeq_organism>Psychrobacter glacincola</GBSeq_organism>
+./U46141.xml:  <GBSeq_organism>Psychrobacter urativorans</GBSeq_organism>
+./AJ430827.xml:  <GBSeq_organism>Psychrobacter fozii</GBSeq_organism>
+./U46143.xml:  <GBSeq_organism>Psychrobacter frigidicola</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AJ609273.xml:  <GBSeq_organism>Psychrobacter arenosus</GBSeq_organism>
+./AY639871.xml:  <GBSeq_organism>Psychrobacter cibarius</GBSeq_organism>
+./AJ272303.xml:  <GBSeq_organism>Psychrobacter proteolyticus</GBSeq_organism>
+./AJ430828.xml:  <GBSeq_organism>Psychrobacter luti</GBSeq_organism>
+./U46144.xml:  <GBSeq_organism>Psychrobacter phenylpyruvicus</GBSeq_organism>
+./AJ609272.xml:  <GBSeq_organism>Psychrobacter maritimus</GBSeq_organism>
+./AJ437696.xml:  <GBSeq_organism>Psychrobacter pulmonis</GBSeq_organism>
+./AY639872.xml:  <GBSeq_organism>Psychrobacter cibarius</GBSeq_organism>
+./AJ309940.xml:  <GBSeq_organism>Psychrobacter submarinus</GBSeq_organism>
+./AJ309941.xml:  <GBSeq_organism>Psychrobacter marincola</GBSeq_organism>

@@ -1,0 +1,18 @@
+./X90822.xml:  <GBSeq_organism>Nitrosospira multiformis ATCC 25196</GBSeq_organism>
+./AF016982.xml:  <GBSeq_organism>Methylobacter sp. BB5.1</GBSeq_organism>
+./U89304.xml:  <GBSeq_organism>Methylocaldum tepidum</GBSeq_organism>
+./U31653.xml:  <GBSeq_organism>Methylomonas methanica</GBSeq_organism>
+./AJ459023.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./L40804.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./U89303.xml:  <GBSeq_organism>Methylocaldum szegediense</GBSeq_organism>
+./U31652.xml:  <GBSeq_organism>Methylomicrobium pelagicum</GBSeq_organism>
+./AF307139.xml:  <GBSeq_organism>Methylomicrobium buryatense</GBSeq_organism>
+./U31651.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AF047705.xml:  <GBSeq_organism>Nitrosococcus oceani ATCC 19707</GBSeq_organism>
+./L08050.xml:  <GBSeq_organism>Nitrosomonas europaea</GBSeq_organism>
+./AJ459000.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AF150797.xml:  <GBSeq_organism>Methylomonas sp. LW16</GBSeq_organism>
+./AJ278727.xml:  <GBSeq_organism>Methylocapsa acidiphila B2</GBSeq_organism>
+./AY007285.xml:  <GBSeq_organism>Methylobacter sp. LW12</GBSeq_organism>
+./U89302.xml:  <GBSeq_organism>thermophilic methanotroph HB</GBSeq_organism>
+./U31654.xml:  <GBSeq_organism>Methylomicrobium album BG8</GBSeq_organism>

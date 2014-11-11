@@ -1,0 +1,17 @@
+./X58301.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./X59029.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AJ420199.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./AF432856.xml:  <GBSeq_organism>Streptococcus sinensis</GBSeq_organism>
+./Y18026.xml:  <GBSeq_organism>Streptococcus pluranimalium</GBSeq_organism>
+./AJ634751.xml:  <GBSeq_organism>Streptococcus marimammalium</GBSeq_organism>
+./X58321.xml:  <GBSeq_organism>Streptococcus vestibularis ATCC 49124</GBSeq_organism>
+./AF335572.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./AF176103.xml:  <GBSeq_organism>Streptococcus didelphis</GBSeq_organism>
+./AY232832.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./AB002483.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>
+./Y09007.xml:  <GBSeq_organism>Streptococcus thoraltensis</GBSeq_organism>
+./Y17358.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./AJ409287.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>
+./AF235052.xml:  <GBSeq_organism>Streptococcus phocae</GBSeq_organism>
+./AB008313.xml:  <GBSeq_organism>Streptococcus cristatus ATCC 51100</GBSeq_organism>
+./AB002479.xml:  <GBSeq_organism>Streptococcus agalactiae ATCC 13813</GBSeq_organism>

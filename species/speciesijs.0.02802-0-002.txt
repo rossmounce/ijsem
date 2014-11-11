@@ -1,0 +1,29 @@
+./U97547.xml:  <GBSeq_organism>Rickettsiella grylli</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./Y07556.xml:  <GBSeq_organism>Parachlamydia acanthamoebae</GBSeq_organism>
+./M59157.xml:  <GBSeq_organism>Legionella pneumophila</GBSeq_organism>
+./M83548.xml:  <GBSeq_organism>Aquifex pyrophilus</GBSeq_organism>
+./AF083616.xml:  <GBSeq_organism>endosymbiont of Acanthamoeba sp. UWC22</GBSeq_organism>
+./D85708.xml:  <GBSeq_organism>Chlamydophila caviae</GBSeq_organism>
+./AY140910.xml:  <GBSeq_organism>Candidatus Fritschea bemisiae</GBSeq_organism>
+./AF042496.xml:  <GBSeq_organism>Waddlia chondrophila WSU 86-1044</GBSeq_organism>
+./L36222.xml:  <GBSeq_organism>Orientia tsutsugamushi</GBSeq_organism>
+./AF448722.xml:  <GBSeq_organism>uncultured Chlamydiales bacterium</GBSeq_organism>
+./M21291.xml:  <GBSeq_organism>Coxiella burnetii</GBSeq_organism>
+./AF448723.xml:  <GBSeq_organism>uncultured Chlamydiales bacterium</GBSeq_organism>
+./u73110.xml:  <GBSeq_organism>Chlamydia suis</GBSeq_organism>
+./AF098330.xml:  <GBSeq_organism>endosymbiont of Acanthamoeba sp. TUME1</GBSeq_organism>
+./M21789.xml:  <GBSeq_organism>Rickettsia prowazekii</GBSeq_organism>
+./U68447.xml:  <GBSeq_organism>Chlamydia psittaci 6BC</GBSeq_organism>
+./X13695.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AY223862.xml:  <GBSeq_organism>Candidatus Rhabdochlamydia porcellionis</GBSeq_organism>
+./X60042.xml:  <GBSeq_organism>Bartonella bacilliformis</GBSeq_organism>
+./AF083614.xml:  <GBSeq_organism>endosymbiont of Acanthamoeba sp. UWE1</GBSeq_organism>
+./D38317.xml:  <GBSeq_organism>Leiothrix lutea</GBSeq_organism>
+./AF364568.xml:  <GBSeq_organism>uncultured Chlamydiales bacterium</GBSeq_organism>
+./AF083615.xml:  <GBSeq_organism>Candidatus Protochlamydia amoebophila UWE25</GBSeq_organism>
+./D89067.xml:  <GBSeq_organism>Chlamydia trachomatis</GBSeq_organism>
+./D85718.xml:  <GBSeq_organism>Chlamydia muridarum</GBSeq_organism>
+./AF308693.xml:  <GBSeq_organism>uncultured bacterium corvenA4</GBSeq_organism>
+./M21292.xml:  <GBSeq_organism>Wolbachia persica</GBSeq_organism>
+./U68460.xml:  <GBSeq_organism>Simkania negevensis</GBSeq_organism>

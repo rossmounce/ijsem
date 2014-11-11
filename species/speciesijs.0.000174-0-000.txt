@@ -1,0 +1,7 @@
+./M34128.xml:  <GBSeq_organism>Rhodoblastus acidophilus</GBSeq_organism>
+./AB087718.xml:  <GBSeq_organism>Rhodoplanes cryptolactis</GBSeq_organism>
+./AB087717.xml:  <GBSeq_organism>Rhodoplanes serenus</GBSeq_organism>
+./D25314.xml:  <GBSeq_organism>Blastochloris viridis</GBSeq_organism>
+./D86514.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./D25313.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>

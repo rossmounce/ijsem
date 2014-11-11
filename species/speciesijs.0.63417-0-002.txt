@@ -1,0 +1,23 @@
+./AA894437.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AY549996.xml:  <GBSeq_organism>Geobacter sulfurreducens PCA</GBSeq_organism>
+./AY187307.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./AY187305.xml:  <GBSeq_organism>Desulfuromonas acetoxidans</GBSeq_organism>
+./Y17712.xml:  <GBSeq_organism>Malonomonas rubra</GBSeq_organism>
+./AY186944.xml:  <GBSeq_organism>Geobacter bemidjiensis Bem</GBSeq_organism>
+./U90726.xml:  <GBSeq_organism>Desulfovibrio profundus</GBSeq_organism>
+./AY653548.xml:  <GBSeq_organism>Geobacter psychrophilus</GBSeq_organism>
+./M34407.xml:  <GBSeq_organism>Desulfosarcina variabilis</GBSeq_organism>
+./U41561.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./U96917.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./AY795909.xml:  <GBSeq_organism>Geobacter psychrophilus</GBSeq_organism>
+./X72768.xml:  <GBSeq_organism>Desulfurella acetivorans A63</GBSeq_organism>
+./AY549994.xml:  <GBSeq_organism>Geobacter bremensis</GBSeq_organism>
+./AY186953.xml:  <GBSeq_organism>Geobacter chapellei</GBSeq_organism>
+./AY187306.xml:  <GBSeq_organism>Geobacter humireducens</GBSeq_organism>
+./U28173.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./AY186945.xml:  <GBSeq_organism>Desulfuromonas acetoxidans DSM 684</GBSeq_organism>
+./AY186955.xml:  <GBSeq_organism>Geobacter hydrogenophilus</GBSeq_organism>
+./M34413.xml:  <GBSeq_organism>Desulfobacter curvatus</GBSeq_organism>
+./P00464.xml:  <GBSeq_organism>Nostoc sp. PCC 7120</GBSeq_organism>
+./AY549997.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./U85477.xml:  <GBSeq_organism>Desulfoarculus sp. BG74</GBSeq_organism>

@@ -1,0 +1,31 @@
+./AM232832.xml:  <GBSeq_organism>Planosporangium flavigriseum</GBSeq_organism>
+./L40614.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./AJ294717.xml:  <GBSeq_organism>Catenuloplanes indicus JCM 9534</GBSeq_organism>
+./FM208262.xml:  <GBSeq_organism>Rugosimonospora africana</GBSeq_organism>
+./AB223089.xml:  <GBSeq_organism>Polymorphospora rubra</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./D85474.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./AB200231.xml:  <GBSeq_organism>Catellatospora chokoriensis</GBSeq_organism>
+./FJ214343.xml:  <GBSeq_organism>Plantactinospora mayteni</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./EU870859.xml:  <GBSeq_organism>Verrucosispora sediminis</GBSeq_organism>
+./AB490769.xml:  <GBSeq_organism>Phytohabitans suffuscus</GBSeq_organism>
+./AB495209.xml:  <GBSeq_organism>Dactylosporangium maewongense</GBSeq_organism>
+./GU367156.xml:  <GBSeq_organism>Phytomonospora endophytica</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./AJ294715.xml:  <GBSeq_organism>Asanoa ishikariensis</GBSeq_organism>
+./FN386736.xml:  <GBSeq_organism>Allocatelliglobosispora scoriae</GBSeq_organism>
+./AB263096.xml:  <GBSeq_organism>Actinocatenispora sera</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./D85477.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./AY040619.xml:  <GBSeq_organism>Salinispora arenicola ATCC BAA-917</GBSeq_organism>
+./EU560726.xml:  <GBSeq_organism>Jishengella endophytica</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X93189.xml:  <GBSeq_organism>Pilimelia anulata</GBSeq_organism>
+./AB236957.xml:  <GBSeq_organism>Luedemannella helvata</GBSeq_organism>
+./AB196710.xml:  <GBSeq_organism>Micromonospora chaiyaphumensis</GBSeq_organism>
+./AB454379.xml:  <GBSeq_organism>Plantactinospora siamensis</GBSeq_organism>
+./D86946.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>
+./FM208261.xml:  <GBSeq_organism>Rugosimonospora acidiphila</GBSeq_organism>

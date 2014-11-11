@@ -1,0 +1,56 @@
+./AF327318.xml:  <GBSeq_organism>uncultured phenanthrene mineralizing bacterium</GBSeq_organism>
+./AF327313.xml:  <GBSeq_organism>uncultured napthalene mineralizing bacterium</GBSeq_organism>
+./AY953409.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./DQ903913.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AY953404.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AY354078.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY626031.xml:  <GBSeq_organism>Desulfonema limicola str. Jadebusen</GBSeq_organism>
+./AF327320.xml:  <GBSeq_organism>uncultured phenanthrene mineralizing bacterium</GBSeq_organism>
+./AY015494.xml:  <GBSeq_organism>Desulfotomaculum luciae</GBSeq_organism>
+./AF510674.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF334596.xml:  <GBSeq_organism>Thermodesulfobacterium commune DSM 2178</GBSeq_organism>
+./AY741575.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF074396.xml:  <GBSeq_organism>Desulfotomaculum thermocisternum</GBSeq_organism>
+./AF510683.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY096059.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./U58122.xml:  <GBSeq_organism>Thermodesulfovibrio yellowstonii</GBSeq_organism>
+./AF273030.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./AB124901.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AY096049.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF327312.xml:  <GBSeq_organism>uncultured napthalene mineralizing bacterium</GBSeq_organism>
+./AY096042.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AY096055.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AB124937.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF334593.xml:  <GBSeq_organism>Desulfofaba gelida</GBSeq_organism>
+./AF510689.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ249777.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./AF327315.xml:  <GBSeq_organism>uncultured phenanthrene mineralizing bacterium</GBSeq_organism>
+./AF271770.xml:  <GBSeq_organism>Desulfotomaculum thermoacetoxidans</GBSeq_organism>
+./AF334599.xml:  <GBSeq_organism>Thermodesulfovibrio islandicus</GBSeq_organism>
+./AB124897.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF191907.xml:  <GBSeq_organism>Desulfosarcina variabilis str. Montpellier</GBSeq_organism>
+./AY015556.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium UMTRAdsr648-20</GBSeq_organism>
+./AF418191.xml:  <GBSeq_organism>Desulfofustis glycolicus</GBSeq_organism>
+./AY096046.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF334594.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./AF510685.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF334595.xml:  <GBSeq_organism>Desulfomonile tiedjei DSM 6799</GBSeq_organism>
+./AF271772.xml:  <GBSeq_organism>Desulfovibrio africanus</GBSeq_organism>
+./AF218452.xml:  <GBSeq_organism>Desulfobulbus propionicus</GBSeq_organism>
+./AF510692.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY354076.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB124921.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AY167475.xml:  <GBSeq_organism>uncultured prokaryote</GBSeq_organism>
+./AY354079.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF510672.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF334600.xml:  <GBSeq_organism>Desulfarculus baarsii DSM 2075</GBSeq_organism>
+./AY725429.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AY741576.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF334598.xml:  <GBSeq_organism>Thermodesulfobacterium thermophilum</GBSeq_organism>
+./AY101579.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB124924.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./M95624.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>
+./AF327316.xml:  <GBSeq_organism>uncultured phenanthrene mineralizing bacterium</GBSeq_organism>
+./AY354080.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AY953406.xml:  <GBSeq_organism>uncultured sulfate-reducing bacterium</GBSeq_organism>
+./AF510676.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

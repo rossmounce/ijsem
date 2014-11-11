@@ -1,0 +1,25 @@
+./EF551161.xml:  <GBSeq_organism>Synergistes sp. NML05A017</GBSeq_organism>
+./AF161069.xml:  <GBSeq_organism>Thermanaerovibrio velox</GBSeq_organism>
+./EF436500.xml:  <GBSeq_organism>Jonquetella anthropi DSM 22815</GBSeq_organism>
+./EF436503.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./EF436502.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./EF468688.xml:  <GBSeq_organism>bacterium ADV746</GBSeq_organism>
+./U52817.xml:  <GBSeq_organism>Dethiosulfovibrio peptidovorans DSM 11002</GBSeq_organism>
+./EF551160.xml:  <GBSeq_organism>Synergistes sp. NML96A088</GBSeq_organism>
+./U50711.xml:  <GBSeq_organism>Anaerobaculum thermoterrenum</GBSeq_organism>
+./CU463952.xml:  <GBSeq_organism>Cloacibacillus evryensis DSM 19522</GBSeq_organism>
+./EF468685.xml:  <GBSeq_organism>bacterium ADV70</GBSeq_organism>
+./AF069287.xml:  <GBSeq_organism>Aminobacterium colombiense DSM 12261</GBSeq_organism>
+./AF073521.xml:  <GBSeq_organism>Aminobacterium mobile</GBSeq_organism>
+./EF551162.xml:  <GBSeq_organism>Synergistes sp. NML060450</GBSeq_organism>
+./EF468686.xml:  <GBSeq_organism>bacterium ADV244</GBSeq_organism>
+./DQ412722.xml:  <GBSeq_organism>Synergistes sp. RMA 14551</GBSeq_organism>
+./EF436501.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./DQ412718.xml:  <GBSeq_organism>Synergistes sp. RMA 16088</GBSeq_organism>
+./EF468684.xml:  <GBSeq_organism>bacterium ADV66</GBSeq_organism>
+./DQ412717.xml:  <GBSeq_organism>Synergistes sp. RMA 14605</GBSeq_organism>
+./EF436499.xml:  <GBSeq_organism>Jonquetella anthropi</GBSeq_organism>
+./DQ412721.xml:  <GBSeq_organism>Synergistes sp. RMA 16290</GBSeq_organism>
+./DQ412723.xml:  <GBSeq_organism>Synergistes sp. RMA 10849</GBSeq_organism>
+./L08066.xml:  <GBSeq_organism>Synergistes jonesii</GBSeq_organism>
+./EF468687.xml:  <GBSeq_organism>bacterium ADV403</GBSeq_organism>

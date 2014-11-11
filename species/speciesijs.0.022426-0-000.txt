@@ -1,0 +1,20 @@
+./M22517.xml:  <GBSeq_organism>Kingella kingae ATCC 23330</GBSeq_organism>
+./M22515.xml:  <GBSeq_organism>Eikenella corrodens</GBSeq_organism>
+./FJ654662.xml:  <GBSeq_organism>Neisseria wadsworthii 9715</GBSeq_organism>
+./FJ654663.xml:  <GBSeq_organism>Neisseria wadsworthii</GBSeq_organism>
+./AF328147.xml:  <GBSeq_organism>Simonsiella muelleri ATCC 29453</GBSeq_organism>
+./FJ654664.xml:  <GBSeq_organism>Neisseria shayeganii 871</GBSeq_organism>
+./AJ239289.xml:  <GBSeq_organism>Neisseria polysaccharea</GBSeq_organism>
+./AF227164.xml:  <GBSeq_organism>Oligella ureolytica DSM 18253</GBSeq_organism>
+./M22516.xml:  <GBSeq_organism>Kingella denitrificans ATCC 33394</GBSeq_organism>
+./AJ586614.xml:  <GBSeq_organism>Uruburuella suis</GBSeq_organism>
+./AJ239286.xml:  <GBSeq_organism>Neisseria lactamica</GBSeq_organism>
+./AJ239282.xml:  <GBSeq_organism>Neisseria mucosa</GBSeq_organism>
+./L06164.xml:  <GBSeq_organism>Kingella oralis</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./L10738.xml:  <GBSeq_organism>Neisseria weaveri</GBSeq_organism>
+./AJ629192.xml:  <GBSeq_organism>Kingella potus</GBSeq_organism>
+./AF328154.xml:  <GBSeq_organism>Conchiformibius steedae</GBSeq_organism>
+./AF328144.xml:  <GBSeq_organism>Alysiella crassa</GBSeq_organism>
+./AF487710.xml:  <GBSeq_organism>Alysiella filiformis</GBSeq_organism>
+./L06169.xml:  <GBSeq_organism>Neisseria macacae ATCC 33926</GBSeq_organism>

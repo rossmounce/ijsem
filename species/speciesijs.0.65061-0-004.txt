@@ -1,0 +1,30 @@
+./EF621906.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EF621908.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY044099.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AY628394.xml:  <GBSeq_organism>Campylobacter helveticus</GBSeq_organism>
+./DQ059465.xml:  <GBSeq_organism>Campylobacter concisus</GBSeq_organism>
+./AY628390.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./EF621912.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EF621911.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY628397.xml:  <GBSeq_organism>Campylobacter hyointestinalis subsp. hyointestinalis</GBSeq_organism>
+./DQ059457.xml:  <GBSeq_organism>Campylobacter curvus</GBSeq_organism>
+./EF621913.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY628391.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./AY628408.xml:  <GBSeq_organism>Campylobacter sputorum biovar sputorum</GBSeq_organism>
+./EF621907.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./EF621909.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY628409.xml:  <GBSeq_organism>Campylobacter upsaliensis</GBSeq_organism>
+./EF621910.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY628398.xml:  <GBSeq_organism>Campylobacter hyointestinalis subsp. lawsonii</GBSeq_organism>
+./DQ059427.xml:  <GBSeq_organism>Campylobacter rectus</GBSeq_organism>
+./AY628396.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./DQ059474.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>
+./AY922366.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./AY628406.xml:  <GBSeq_organism>Campylobacter mucosalis</GBSeq_organism>
+./EF621915.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY628407.xml:  <GBSeq_organism>Campylobacter sputorum subsp. bubulus</GBSeq_organism>
+./EF621914.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./AY628402.xml:  <GBSeq_organism>Campylobacter lanienae NCTC 13004</GBSeq_organism>
+./AF461064.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AY787944.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./DQ059443.xml:  <GBSeq_organism>Campylobacter fetus subsp. venerealis NCTC 10354</GBSeq_organism>

@@ -1,0 +1,11 @@
+./FJ483519.xml:  <GBSeq_organism>Pseudomonas fuscovaginae</GBSeq_organism>
+./U25431.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AJ493583.xml:  <GBSeq_organism>Cellvibrio ostraviensis</GBSeq_organism>
+./AF064458.xml:  <GBSeq_organism>Pseudomonas monteilii</GBSeq_organism>
+./D84004.xml:  <GBSeq_organism>Pseudomonas oryzihabitans</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./U01916.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./AF072688.xml:  <GBSeq_organism>Pseudomonas mosselii</GBSeq_organism>
+./D84020.xml:  <GBSeq_organism>Pseudomonas putida</GBSeq_organism>
+./AB453701.xml:  <GBSeq_organism>Pseudomonas toyotomiensis</GBSeq_organism>
+./AB060137.xml:  <GBSeq_organism>Pseudomonas cremoricolorata</GBSeq_organism>

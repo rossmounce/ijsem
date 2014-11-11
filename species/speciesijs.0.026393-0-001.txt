@@ -1,0 +1,25 @@
+./AJ575430.xml:  <GBSeq_organism>Cloacibacterium normanense</GBSeq_organism>
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./AM232806.xml:  <GBSeq_organism>Chryseobacterium ureilyticum</GBSeq_organism>
+./AM159183.xml:  <GBSeq_organism>Chryseobacterium hispanicum</GBSeq_organism>
+./D14022.xml:  <GBSeq_organism>Empedobacter brevis</GBSeq_organism>
+./AY883415.xml:  <GBSeq_organism>Chryseobacterium soldanellicola</GBSeq_organism>
+./AJ704540.xml:  <GBSeq_organism>Elizabethkingia meningoseptica</GBSeq_organism>
+./AJ271009.xml:  <GBSeq_organism>Chryseobacterium scophthalmum</GBSeq_organism>
+./FN554975.xml:  <GBSeq_organism>Chryseobacterium culicis</GBSeq_organism>
+./AM232809.xml:  <GBSeq_organism>Chryseobacterium pallidum</GBSeq_organism>
+./AM261868.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./AJ534853.xml:  <GBSeq_organism>Chryseobacterium molle</GBSeq_organism>
+./FN398101.xml:  <GBSeq_organism>Chryseobacterium arthrosphaerae</GBSeq_organism>
+./M58791.xml:  <GBSeq_organism>Flexithrix dorotheae</GBSeq_organism>
+./M58773.xml:  <GBSeq_organism>Chryseobacterium indologenes</GBSeq_organism>
+./M93152.xml:  <GBSeq_organism>Weeksella virosa</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>
+./EF426434.xml:  <GBSeq_organism>Elizabethkingia anophelis</GBSeq_organism>
+./AM232812.xml:  <GBSeq_organism>Chryseobacterium gleum</GBSeq_organism>
+./AM773820.xml:  <GBSeq_organism>Chryseobacterium gregarium DSM 19109</GBSeq_organism>
+./EF204450.xml:  <GBSeq_organism>Chryseobacterium haifense</GBSeq_organism>
+./AF493696.xml:  <GBSeq_organism>Epilithonimonas tenax</GBSeq_organism>
+./EF204460.xml:  <GBSeq_organism>Epilithonimonas lactis</GBSeq_organism>
+./AY315443.xml:  <GBSeq_organism>Chryseobacterium formosense</GBSeq_organism>
+./EF591303.xml:  <GBSeq_organism>Chryseobacterium jejuense</GBSeq_organism>

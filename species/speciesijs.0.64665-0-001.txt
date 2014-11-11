@@ -1,0 +1,5 @@
+./AY492241.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./AY492237.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./AY492230.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./AY684044.xml:  <GBSeq_organism>Corynebacterium hansenii</GBSeq_organism>
+./AY492233.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>

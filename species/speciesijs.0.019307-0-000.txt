@@ -1,0 +1,17 @@
+./AB512775.xml:  <GBSeq_organism>Lactobacillus similis</GBSeq_organism>
+./AB429370.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AJ534844.xml:  <GBSeq_organism>Lactobacillus spicheri</GBSeq_organism>
+./AB429389.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./AB008203.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./AJ575743.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./EF187239.xml:  <GBSeq_organism>Lactobacillus kunkeei</GBSeq_organism>
+./M58818.xml:  <GBSeq_organism>Lactobacillus fructivorans</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./AM113780.xml:  <GBSeq_organism>Lactobacillus homohiochii</GBSeq_organism>
+./AB429368.xml:  <GBSeq_organism>Lactobacillus buchneri</GBSeq_organism>
+./AB429373.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>
+./AB512780.xml:  <GBSeq_organism>Lactobacillus paracollinoides</GBSeq_organism>
+./AB429371.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./X76327.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./AB429372.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AB512778.xml:  <GBSeq_organism>Lactobacillus lindneri</GBSeq_organism>

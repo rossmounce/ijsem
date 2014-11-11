@@ -1,0 +1,22 @@
+./AY271626.xml:  <GBSeq_organism>Maribacter ulvicola</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY771762.xml:  <GBSeq_organism>Maribacter arcticus</GBSeq_organism>
+./DQ191180.xml:  <GBSeq_organism>Flagellimonas eckloniae</GBSeq_organism>
+./AB121974.xml:  <GBSeq_organism>Zobellia amurskyensis</GBSeq_organism>
+./AM712900.xml:  <GBSeq_organism>Maribacter forsetii</GBSeq_organism>
+./AY271625.xml:  <GBSeq_organism>Maribacter aquivivus</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./DQ167246.xml:  <GBSeq_organism>Costertonia aggregata</GBSeq_organism>
+./AB121975.xml:  <GBSeq_organism>Zobellia laminariae</GBSeq_organism>
+./AY445073.xml:  <GBSeq_organism>Muricauda flavescens</GBSeq_organism>
+./AY960749.xml:  <GBSeq_organism>Maribacter dokdonensis</GBSeq_organism>
+./AM497875.xml:  <GBSeq_organism>Maribacter polysiphoniae</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./AY445075.xml:  <GBSeq_organism>Muricauda aquimarina</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY271624.xml:  <GBSeq_organism>Maribacter orientalis</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AB121976.xml:  <GBSeq_organism>Zobellia russellii</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./AB084261.xml:  <GBSeq_organism>Pseudozobellia thermophila</GBSeq_organism>
+./AY424899.xml:  <GBSeq_organism>Robiginitalea biformata HTCC2501</GBSeq_organism>

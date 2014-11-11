@@ -1,0 +1,16 @@
+./AF287786.xml:  <GBSeq_organism>Dialister sp. oral clone BS016</GBSeq_organism>
+./AF287787.xml:  <GBSeq_organism>Dialister sp. oral clone BS095</GBSeq_organism>
+./X84006.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./L37040.xml:  <GBSeq_organism>Megasphaera cerevisiae</GBSeq_organism>
+./AF287788.xml:  <GBSeq_organism>Dialister sp. GBA27</GBSeq_organism>
+./AF481210.xml:  <GBSeq_organism>Dialister sp. oral clone MCE7_134</GBSeq_organism>
+./AY162469.xml:  <GBSeq_organism>Dialister invisus DSM 15470</GBSeq_organism>
+./AF338413.xml:  <GBSeq_organism>Anaeroglobus geminatus</GBSeq_organism>
+./AF385566.xml:  <GBSeq_organism>Candidatus Megasphaera micronuciformis</GBSeq_organism>
+./X84007.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./AF186071.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./AF473837.xml:  <GBSeq_organism>Dialister micraerophilus DSM 19965</GBSeq_organism>
+./X82500.xml:  <GBSeq_organism>Dialister pneumosintes</GBSeq_organism>
+./AF186072.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./U95027.xml:  <GBSeq_organism>Megasphaera elsdenii DSM 20460</GBSeq_organism>
+./AF473834.xml:  <GBSeq_organism>Megasphaera micronuciformis</GBSeq_organism>

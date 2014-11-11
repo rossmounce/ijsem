@@ -1,0 +1,12 @@
+./Y17361.xml:  <GBSeq_organism>Lactobacillus amylolyticus DSM 11664</GBSeq_organism>
+./AB107638.xml:  <GBSeq_organism>Lactobacillus kitasatonis</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./M58801.xml:  <GBSeq_organism>Lactobacillus acetotolerans</GBSeq_organism>
+./M58802.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./M58806.xml:  <GBSeq_organism>Lactobacillus amylophilus</GBSeq_organism>
+./M58820.xml:  <GBSeq_organism>Lactobacillus gasseri</GBSeq_organism>
+./AY700063.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>
+./X61141.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AJ242968.xml:  <GBSeq_organism>Lactobacillus gallinarum</GBSeq_organism>
+./M58805.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>
+./AF243176.xml:  <GBSeq_organism>Lactobacillus jensenii</GBSeq_organism>

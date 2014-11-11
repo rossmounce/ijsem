@@ -1,0 +1,9 @@
+./AY125964.xml:  <GBSeq_organism>Petrotoga mexicana</GBSeq_organism>
+./AF434670.xml:  <GBSeq_organism>Fervidobacterium islandicum</GBSeq_organism>
+./AY800102.xml:  <GBSeq_organism>Petrotoga halophila</GBSeq_organism>
+./AJ311703.xml:  <GBSeq_organism>Petrotoga olearia</GBSeq_organism>
+./L10659.xml:  <GBSeq_organism>Geotoga subterranea</GBSeq_organism>
+./Y15479.xml:  <GBSeq_organism>Petrotoga mobilis SJ95</GBSeq_organism>
+./L10657.xml:  <GBSeq_organism>Petrotoga miotherma</GBSeq_organism>
+./L10658.xml:  <GBSeq_organism>Geotoga petraea</GBSeq_organism>
+./U22664.xml:  <GBSeq_organism>Thermotoga subterranea</GBSeq_organism>

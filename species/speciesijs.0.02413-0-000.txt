@@ -1,0 +1,9 @@
+./AJ417490.xml:  <GBSeq_organism>Moraxella lincolnii</GBSeq_organism>
+./U46143.xml:  <GBSeq_organism>Psychrobacter frigidicola</GBSeq_organism>
+./AF005188.xml:  <GBSeq_organism>Moraxella cuniculi</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AJ437696.xml:  <GBSeq_organism>Psychrobacter pulmonis</GBSeq_organism>
+./X95304.xml:  <GBSeq_organism>Moraxella osloensis</GBSeq_organism>
+./AJ312213.xml:  <GBSeq_organism>Psychrobacter glacincola</GBSeq_organism>
+./U10876.xml:  <GBSeq_organism>Moraxella catarrhalis</GBSeq_organism>
+./AF005186.xml:  <GBSeq_organism>Moraxella ovis</GBSeq_organism>

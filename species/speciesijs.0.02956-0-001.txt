@@ -1,0 +1,18 @@
+./AF384373.xml:  <GBSeq_organism>Methylophaga alcalica</GBSeq_organism>
+./AY027801.xml:  <GBSeq_organism>Aminomonas aminovorus</GBSeq_organism>
+./AY128533.xml:  <GBSeq_organism>Methylophaga natronica</GBSeq_organism>
+./L15475.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./M95652.xml:  <GBSeq_organism>Methylobacillus glycogenes</GBSeq_organism>
+./M95651.xml:  <GBSeq_organism>Methylobacillus flagellatus</GBSeq_organism>
+./M95661.xml:  <GBSeq_organism>Methylomonas methylovora</GBSeq_organism>
+./M95660.xml:  <GBSeq_organism>Methylomonas methanolica</GBSeq_organism>
+./AF250333.xml:  <GBSeq_organism>Methylophilus leisingeri</GBSeq_organism>
+./X95461.xml:  <GBSeq_organism>Methylophaga sulfidovorans</GBSeq_organism>
+./X87338.xml:  <GBSeq_organism>Methylophaga marina</GBSeq_organism>
+./AJ517772.xml:  <GBSeq_organism>Methylophilus freyburgensis</GBSeq_organism>
+./AY298905.xml:  <GBSeq_organism>Methylobacillus pratensis</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./M34131.xml:  <GBSeq_organism>Spirillum volutans</GBSeq_organism>
+./X87339.xml:  <GBSeq_organism>Methylophaga thalassica</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AB062506.xml:  <GBSeq_organism>Methylobacillus sp. 12S</GBSeq_organism>

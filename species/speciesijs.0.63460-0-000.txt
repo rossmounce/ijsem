@@ -1,0 +1,18 @@
+./AF503497.xml:  <GBSeq_organism>Streptomyces violaceolatus</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AF503496.xml:  <GBSeq_organism>Streptomyces coelescens</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./X79323.xml:  <GBSeq_organism>Streptomyces mashuensis</GBSeq_organism>
+./AF503492.xml:  <GBSeq_organism>Streptomyces violaceoruber</GBSeq_organism>
+./AF184081.xml:  <GBSeq_organism>Streptomyces scopiformis</GBSeq_organism>
+./AJ276570.xml:  <GBSeq_organism>Streptomyces paradoxus</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./X80825.xml:  <GBSeq_organism>Streptomyces subrutilus</GBSeq_organism>
+./AY450561.xml:  <GBSeq_organism>Streptomyces griseoaurantiacus</GBSeq_organism>
+./AB045886.xml:  <GBSeq_organism>Streptomyces nogalater</GBSeq_organism>
+./AL939124.xml:  <GBSeq_organism>Streptomyces coelicolor A3(2)</GBSeq_organism>
+./AY314783.xml:  <GBSeq_organism>Streptomyces jietaisiensis</GBSeq_organism>
+./AJ391820.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./D85116.xml:  <GBSeq_organism>Streptomyces lavendulae</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AJ306623.xml:  <GBSeq_organism>Streptomyces collinus</GBSeq_organism>

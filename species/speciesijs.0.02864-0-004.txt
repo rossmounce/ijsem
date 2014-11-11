@@ -1,0 +1,28 @@
+./X98232.xml:  <GBSeq_organism>Borrelia burgdorferi</GBSeq_organism>
+./L40596.xml:  <GBSeq_organism>Borrelia sp.</GBSeq_organism>
+./D67018.xml:  <GBSeq_organism>Borrelia garinii</GBSeq_organism>
+./AF307100.xml:  <GBSeq_organism>Borrelia parkeri</GBSeq_organism>
+./U42292.xml:  <GBSeq_organism>Borrelia hermsii</GBSeq_organism>
+./D67022.xml:  <GBSeq_organism>Borrelia turdi</GBSeq_organism>
+./U28502.xml:  <GBSeq_organism>Borrelia sp.</GBSeq_organism>
+./AY024345.xml:  <GBSeq_organism>Borrelia sp. LB-2001</GBSeq_organism>
+./U03396.xml:  <GBSeq_organism>Borrelia burgdorferi</GBSeq_organism>
+./U42299.xml:  <GBSeq_organism>Borrelia turicatae</GBSeq_organism>
+./U42284.xml:  <GBSeq_organism>Borrelia anserina</GBSeq_organism>
+./AJ224138.xml:  <GBSeq_organism>Borrelia burgdorferi</GBSeq_organism>
+./U23211.xml:  <GBSeq_organism>Borrelia lonestari</GBSeq_organism>
+./U42286.xml:  <GBSeq_organism>Borrelia coriaceae</GBSeq_organism>
+./D45192.xml:  <GBSeq_organism>Borrelia miyamotoi</GBSeq_organism>
+./X98228.xml:  <GBSeq_organism>Borrelia burgdorferi</GBSeq_organism>
+./X85190.xml:  <GBSeq_organism>Borrelia afzelii</GBSeq_organism>
+./L40597.xml:  <GBSeq_organism>Borrelia japonica</GBSeq_organism>
+./L37837.xml:  <GBSeq_organism>Borrelia sp.</GBSeq_organism>
+./AB022145.xml:  <GBSeq_organism>Borrelia sinica</GBSeq_organism>
+./AF107366.xml:  <GBSeq_organism>Borrelia duttonii</GBSeq_organism>
+./U42302.xml:  <GBSeq_organism>Borrelia crocidurae</GBSeq_organism>
+./D67023.xml:  <GBSeq_organism>Borrelia tanukii</GBSeq_organism>
+./U42297.xml:  <GBSeq_organism>Borrelia persica</GBSeq_organism>
+./AF467976.xml:  <GBSeq_organism>Candidatus Borrelia texasensis</GBSeq_organism>
+./AF107350.xml:  <GBSeq_organism>Loxosporopsis corallifera</GBSeq_organism>
+./U42294.xml:  <GBSeq_organism>Borrelia hispanica</GBSeq_organism>
+./L46701.xml:  <GBSeq_organism>Borrelia andersonii</GBSeq_organism>

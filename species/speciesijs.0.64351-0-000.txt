@@ -1,0 +1,27 @@
+./Av185593.xml:  <GBSeq_organism>Caenorhabditis elegans</GBSeq_organism>
+./AY169325.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AV127862.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY249197.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AV169324.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY169335.xml:  <GBSeq_organism>Aeromonas cf. bestiarum/salmonicida</GBSeq_organism>
+./AV169328.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./Av169327.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AV155583.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY249198.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./AV169333.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./Av169348.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./DQ411510.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY245195.xml:  <GBSeq_organism>Vibrio vulnificus</GBSeq_organism>
+./AV159349.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./DQ411520.xml:  <GBSeq_organism>Aeromonas sp. MDC 364</GBSeq_organism>
+./AY169337.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./DQ411502.xml:  <GBSeq_organism>Aeromonas allosaccharophila</GBSeq_organism>
+./AV159332.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY159351.xml:  <GBSeq_organism>Centruroides sculpturatus</GBSeq_organism>
+./AY245193.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./AV249199.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY169340.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./Av169326.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AV185535.xml:  <GBSeq_organism>Caenorhabditis elegans</GBSeq_organism>
+./AY159329.xml:  <GBSeq_organism>Nicotiana alata</GBSeq_organism>
+./AY159347.xml:  <GBSeq_organism>Centruroides sculpturatus</GBSeq_organism>

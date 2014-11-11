@@ -1,0 +1,7 @@
+./AJ862839.xml:  <GBSeq_organism>Methanoculleus thermophilus</GBSeq_organism>
+./AF095270.xml:  <GBSeq_organism>Methanoculleus bourgensis</GBSeq_organism>
+./AY196679.xml:  <GBSeq_organism>Methanomicrobium mobile</GBSeq_organism>
+./M59134.xml:  <GBSeq_organism>Methanoculleus marisnigri</GBSeq_organism>
+./Y16382.xml:  <GBSeq_organism>Methanoculleus palmolei</GBSeq_organism>
+./M59130.xml:  <GBSeq_organism>Methanogenium cariaci</GBSeq_organism>
+./FJ977567.xml:  <GBSeq_organism>Methanoculleus hydrogenitrophicus</GBSeq_organism>

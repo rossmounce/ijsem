@@ -1,0 +1,11 @@
+./AF363288.xml:  <GBSeq_organism>Nitrobacter winogradskyi</GBSeq_organism>
+./AF338176.xml:  <GBSeq_organism>Bradyrhizobium denitrificans</GBSeq_organism>
+./AB099660.xml:  <GBSeq_organism>Oligotropha carboxidovorans</GBSeq_organism>
+./U35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./AF123087.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./AP005940.xml:  <GBSeq_organism>Bradyrhizobium japonicum USDA 110</GBSeq_organism>
+./AJ250796.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./AF193818.xml:  <GBSeq_organism>Bradyrhizobium yuanmingense</GBSeq_organism>
+./D78366.xml:  <GBSeq_organism>Bradyrhizobium oligotrophicum S58</GBSeq_organism>
+./AY372184.xml:  <GBSeq_organism>Bradyrhizobium betae</GBSeq_organism>
+./AF288310.xml:  <GBSeq_organism>Afipia felis</GBSeq_organism>

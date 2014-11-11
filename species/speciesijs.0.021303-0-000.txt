@@ -1,0 +1,7 @@
+./AM040493.xml:  <GBSeq_organism>Leucobacter iarius</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AM940158.xml:  <GBSeq_organism>Leucobacter tardus</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AM072820.xml:  <GBSeq_organism>Leucobacter alluvii</GBSeq_organism>
+./AJ781046.xml:  <GBSeq_organism>Leucobacter chromiireducens subsp. chromiireducens</GBSeq_organism>
+./FN597581.xml:  <GBSeq_organism>Leucobacter aerolatus</GBSeq_organism>

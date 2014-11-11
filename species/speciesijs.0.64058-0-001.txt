@@ -1,0 +1,14 @@
+./AJ294431.xml:  <GBSeq_organism>Desulfotomaculum gibsoniae DSM 7213</GBSeq_organism>
+./AF168365.xml:  <GBSeq_organism>Desulfotomaculum sapomandens</GBSeq_organism>
+./U88891.xml:  <GBSeq_organism>Desulfotomaculum halophilum</GBSeq_organism>
+./Y11567.xml:  <GBSeq_organism>Desulfotomaculum geothermicum</GBSeq_organism>
+./X98407.xml:  <GBSeq_organism>Desulfotomaculum aeronauticum</GBSeq_organism>
+./X62176.xml:  <GBSeq_organism>Desulfotomaculum nigrificans DSM 574</GBSeq_organism>
+./Y11572.xml:  <GBSeq_organism>Desulfotomaculum ruminis DSM 2154</GBSeq_organism>
+./U33455.xml:  <GBSeq_organism>Desulfotomaculum thermocisternum</GBSeq_organism>
+./AF053929.xml:  <GBSeq_organism>Desulfotomaculum putei</GBSeq_organism>
+./DQ148942.xml:  <GBSeq_organism>Desulfotomaculum arcticum</GBSeq_organism>
+./AF069293.xml:  <GBSeq_organism>Desulfotomaculum luciae</GBSeq_organism>
+./M96665.xml:  <GBSeq_organism>Desulfotomaculum australicum</GBSeq_organism>
+./Y11575.xml:  <GBSeq_organism>Desulfotomaculum thermosapovorans</GBSeq_organism>
+./Y11571.xml:  <GBSeq_organism>Desulfosporosinus hippei DSM 8344</GBSeq_organism>

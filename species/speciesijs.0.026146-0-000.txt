@@ -1,0 +1,19 @@
+./AF003375.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./EF141340.xml:  <GBSeq_organism>Rhizobium phaseoli</GBSeq_organism>
+./AF008130.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./AY341343.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./EU056823.xml:  <GBSeq_organism>Rhizobium oryzae</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./Y10170.xml:  <GBSeq_organism>Rhizobium sullae</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./Y17047.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./AY738130.xml:  <GBSeq_organism>Rhizobium lusitanum</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./EU056822.xml:  <GBSeq_organism>Rhizobium oryzae</GBSeq_organism>
+./X67225.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./AY395697.xml:  <GBSeq_organism>Rhizobium mesosinicum</GBSeq_organism>
+./AY509899.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./AM931436.xml:  <GBSeq_organism>Rhizobium alamii</GBSeq_organism>
+./AY034027.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./EF035074.xml:  <GBSeq_organism>Rhizobium multihospitium</GBSeq_organism>
+./DQ424123.xml:  <GBSeq_organism>uncultured alpha proteobacterium</GBSeq_organism>

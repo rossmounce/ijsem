@@ -1,0 +1,8 @@
+./AJ279802.xml:  <GBSeq_organism>Propionispora vibrioides</GBSeq_organism>
+./AF479674.xml:  <GBSeq_organism>Mitsuokella jalaludinii</GBSeq_organism>
+./AF071415.xml:  <GBSeq_organism>Anaeromusa acidaminophila</GBSeq_organism>
+./AJ010961.xml:  <GBSeq_organism>Anaeroarcus burkinensis</GBSeq_organism>
+./AF186072.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./AJ508927.xml:  <GBSeq_organism>Propionispora hippei</GBSeq_organism>
+./X72865.xml:  <GBSeq_organism>Phascolarctobacterium faecium</GBSeq_organism>
+./AJ420107.xml:  <GBSeq_organism>Megamonas hypermegale</GBSeq_organism>

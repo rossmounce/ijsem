@@ -1,0 +1,11 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AB124836.xml:  <GBSeq_organism>Microbulbifer thermotolerans</GBSeq_organism>
+./AY377986.xml:  <GBSeq_organism>Microbulbifer maritimus</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AF500006.xml:  <GBSeq_organism>Microbulbifer elongatus</GBSeq_organism>
+./EU365694.xml:  <GBSeq_organism>Microbulbifer donghaiensis</GBSeq_organism>
+./AF479688.xml:  <GBSeq_organism>Microbulbifer salipaludis</GBSeq_organism>
+./AB158515.xml:  <GBSeq_organism>Microbulbifer agarilyticus</GBSeq_organism>
+./EF486352.xml:  <GBSeq_organism>Microbulbifer celer</GBSeq_organism>
+./DQ458821.xml:  <GBSeq_organism>Marinobacter pelagius</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>

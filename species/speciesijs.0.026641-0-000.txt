@@ -1,0 +1,16 @@
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./AB267715.xml:  <GBSeq_organism>Olivibacter soli</GBSeq_organism>
+./EF090267.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AB267714.xml:  <GBSeq_organism>Olivibacter terrae</GBSeq_organism>
+./AB100738.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./AB267716.xml:  <GBSeq_organism>Olivibacter ginsengisoli</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./AB330392.xml:  <GBSeq_organism>Mucilaginibacter kameinonensis</GBSeq_organism>
+./EF100697.xml:  <GBSeq_organism>Pedobacter insulae</GBSeq_organism>
+./AM407725.xml:  <GBSeq_organism>Pseudosphingobacterium domesticum</GBSeq_organism>
+./AB361248.xml:  <GBSeq_organism>Sphingobacterium kitahiroshimense</GBSeq_organism>
+./HM021726.xml:  <GBSeq_organism>Olivibacter oleidegradans</GBSeq_organism>
+./AB245371.xml:  <GBSeq_organism>Pedobacter ginsengisoli</GBSeq_organism>
+./EF151805.xml:  <GBSeq_organism>Parapedobacter soli</GBSeq_organism>

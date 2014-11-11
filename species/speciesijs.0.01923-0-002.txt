@@ -1,0 +1,11 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AB005655.xml:  <GBSeq_organism>gamma proteobacterium ST1</GBSeq_organism>
+./AF235122.xml:  <GBSeq_organism>gamma proteobacterium KT0221</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./AF328761.xml:  <GBSeq_organism>Alcanivorax venustensis</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./D84018.xml:  <GBSeq_organism>Pseudomonas oleovorans</GBSeq_organism>
+./AF328762.xml:  <GBSeq_organism>Alcanivorax venustensis ISO4</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./Y12579.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>

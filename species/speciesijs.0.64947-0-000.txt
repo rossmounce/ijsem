@@ -1,0 +1,19 @@
+./AY631888.xml:  <GBSeq_organism>Leptospira terpstrae serovar Hualin</GBSeq_organism>
+./AY631886.xml:  <GBSeq_organism>Leptospira noguchii serovar Panama</GBSeq_organism>
+./AY996803.xml:  <GBSeq_organism>Leptospira alexanderi serovar Manzhuang</GBSeq_organism>
+./AY631896.xml:  <GBSeq_organism>Leptospira inadai serovar Lyme</GBSeq_organism>
+./AY631879.xml:  <GBSeq_organism>Leptospira wolbachii serovar Codice</GBSeq_organism>
+./AY631881.xml:  <GBSeq_organism>Leptospira alstonii serovar Sichuan</GBSeq_organism>
+./AY631897.xml:  <GBSeq_organism>Leptospira vanthielii serovar Holland</GBSeq_organism>
+./AY631883.xml:  <GBSeq_organism>Leptospira santarosai serovar Shermani str. LT 821</GBSeq_organism>
+./AY631884.xml:  <GBSeq_organism>Leptospira borgpetersenii serovar Ballum</GBSeq_organism>
+./AY996806.xml:  <GBSeq_organism>Leptonema illini serovar Habaki</GBSeq_organism>
+./AY631876.xml:  <GBSeq_organism>Leptospira biflexa serovar Patoc strain &apos;Patoc 1 (Paris)&apos;</GBSeq_organism>
+./EF025496.xml:  <GBSeq_organism>Leptospira wolffii serovar Khorat</GBSeq_organism>
+./AY631877.xml:  <GBSeq_organism>Leptospira weilii serovar Celledoni</GBSeq_organism>
+./AY631882.xml:  <GBSeq_organism>Leptospira yanagawae serovar Saopaulo</GBSeq_organism>
+./AY796065.xml:  <GBSeq_organism>Leptospira broomii</GBSeq_organism>
+./AY631878.xml:  <GBSeq_organism>Leptospira meyeri serovar Ranarum</GBSeq_organism>
+./AY631885.xml:  <GBSeq_organism>Leptospira fainei serovar Hurstbridge str. BUT 6</GBSeq_organism>
+./AY631895.xml:  <GBSeq_organism>Leptospira kirschneri serovar Cynopteri</GBSeq_organism>
+./AY631894.xml:  <GBSeq_organism>Leptospira interrogans serovar Icterohaemorrhagiae</GBSeq_organism>

@@ -1,0 +1,23 @@
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./X74726.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./AB428897.xml:  <GBSeq_organism>Vibrio azureus</GBSeq_organism>
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./X74690.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./AJ316181.xml:  <GBSeq_organism>Vibrio xuii</GBSeq_organism>
+./AJ345063.xml:  <GBSeq_organism>Vibrio hepatarius</GBSeq_organism>
+./AJ316193.xml:  <GBSeq_organism>Vibrio kanaloae</GBSeq_organism>
+./EF032499.xml:  <GBSeq_organism>Vibrio albensis</GBSeq_organism>
+./AJ316172.xml:  <GBSeq_organism>Vibrio brasiliensis LMG 20546</GBSeq_organism>
+./X74692.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./AM235737.xml:  <GBSeq_organism>Vibrio anguillarum</GBSeq_organism>
+./AJ316187.xml:  <GBSeq_organism>Vibrio rotiferianus CAIM 577 = LMG 21460</GBSeq_organism>
+./X74714.xml:  <GBSeq_organism>Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759</GBSeq_organism>
+./X74700.xml:  <GBSeq_organism>Photobacterium damselae subsp. damselae</GBSeq_organism>
+./AJ440009.xml:  <GBSeq_organism>Vibrio gallicus</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./FJ009624.xml:  <GBSeq_organism>Vibrio atypicus</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

@@ -1,0 +1,20 @@
+./M62788.xml:  <GBSeq_organism>Cyclobacterium marinum</GBSeq_organism>
+./AJ438173.xml:  <GBSeq_organism>Pedobacter saltans DSM 12145</GBSeq_organism>
+./AJ310654.xml:  <GBSeq_organism>Sporocytophaga myxococcoides</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./EF446146.xml:  <GBSeq_organism>Pedobacter lentus</GBSeq_organism>
+./AJ438177.xml:  <GBSeq_organism>Sphingobacterium thalpophilum</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./AJ564642.xml:  <GBSeq_organism>Belliella baltica</GBSeq_organism>
+./EF446147.xml:  <GBSeq_organism>Pedobacter terricola</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./DQ680836.xml:  <GBSeq_organism>Parapedobacter koreensis</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./EF100697.xml:  <GBSeq_organism>Pedobacter insulae</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./DQ112353.xml:  <GBSeq_organism>Pedobacter roseus</GBSeq_organism>
+./M58796.xml:  <GBSeq_organism>Sphingobacterium mizutaii</GBSeq_organism>
+./AB032513.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./M58768.xml:  <GBSeq_organism>Cytophaga hutchinsonii</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>

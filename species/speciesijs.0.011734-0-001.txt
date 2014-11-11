@@ -1,0 +1,18 @@
+./X53197.xml:  <GBSeq_organism>Saccharopolyspora hordei</GBSeq_organism>
+./FJ214364.xml:  <GBSeq_organism>Saccharopolyspora tripterygii</GBSeq_organism>
+./EF693956.xml:  <GBSeq_organism>Saccharopolyspora antimicrobica</GBSeq_organism>
+./EF687715.xml:  <GBSeq_organism>Saccharopolyspora qijiaojingensis</GBSeq_organism>
+./X76962.xml:  <GBSeq_organism>Saccharopolyspora gregorii</GBSeq_organism>
+./AF154128.xml:  <GBSeq_organism>Saccharopolyspora flava</GBSeq_organism>
+./EU814512.xml:  <GBSeq_organism>Saccharopolyspora endophytica</GBSeq_organism>
+./EU267029.xml:  <GBSeq_organism>Saccharopolyspora hirsuta subsp. kobensis</GBSeq_organism>
+./X53194.xml:  <GBSeq_organism>Saccharopolyspora rectivirgula</GBSeq_organism>
+./AM992060.xml:  <GBSeq_organism>Saccharopolyspora rosea</GBSeq_organism>
+./X53198.xml:  <GBSeq_organism>Saccharopolyspora erythraea NRRL 2338</GBSeq_organism>
+./AF002819.xml:  <GBSeq_organism>Saccharopolyspora taberi</GBSeq_organism>
+./X53196.xml:  <GBSeq_organism>Saccharopolyspora hirsuta</GBSeq_organism>
+./AF002818.xml:  <GBSeq_organism>Saccharopolyspora spinosa NRRL 18395</GBSeq_organism>
+./EF030715.xml:  <GBSeq_organism>Saccharopolyspora cebuensis</GBSeq_organism>
+./EF143926.xml:  <GBSeq_organism>Saccharopolyspora jiangxiensis</GBSeq_organism>
+./AF127526.xml:  <GBSeq_organism>Saccharopolyspora thermophila</GBSeq_organism>
+./Y09571.xml:  <GBSeq_organism>Saccharopolyspora spinosporotrichia</GBSeq_organism>

@@ -1,0 +1,17 @@
+./U48244.xml:  <GBSeq_organism>Desulfohalobium retbaense DSM 5692</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./Y17764.xml:  <GBSeq_organism>Desulfovibrio sulfodismutans</GBSeq_organism>
+./X99505.xml:  <GBSeq_organism>Desulfomicrobium sp.</GBSeq_organism>
+./U32578.xml:  <GBSeq_organism>Desulfovibrio acrylicus</GBSeq_organism>
+./M34400.xml:  <GBSeq_organism>Desulfovibrio gigas</GBSeq_organism>
+./Y14594.xml:  <GBSeq_organism>Desulfonatronum lacustre DSM 10312</GBSeq_organism>
+./Y11984.xml:  <GBSeq_organism>Desulfovibrio alaskensis</GBSeq_organism>
+./M34399.xml:  <GBSeq_organism>Desulfovibrio vulgaris str. Hildenborough</GBSeq_organism>
+./U53465.xml:  <GBSeq_organism>Desulfovibrio caledoniensis</GBSeq_organism>
+./M34113.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774</GBSeq_organism>
+./U31080.xml:  <GBSeq_organism>Desulfovibrio gabonensis</GBSeq_organism>
+./X93994.xml:  <GBSeq_organism>Desulfovibrio vietnamensis</GBSeq_organism>
+./L07834.xml:  <GBSeq_organism>Geobacter metallireducens</GBSeq_organism>
+./X99234.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>
+./Y09504.xml:  <GBSeq_organism>Desulfovibrio indonesiensis</GBSeq_organism>
+./M37311.xml:  <GBSeq_organism>Desulfomicrobium baculatum</GBSeq_organism>

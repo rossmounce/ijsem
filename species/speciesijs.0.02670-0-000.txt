@@ -1,0 +1,10 @@
+./X99762.xml:  <GBSeq_organism>Vibrio diabolicus</GBSeq_organism>
+./AJ316194.xml:  <GBSeq_organism>Vibrio pacinii</GBSeq_organism>
+./X74719.xml:  <GBSeq_organism>Vibrio orientalis CIP 102891 = ATCC 33934</GBSeq_organism>
+./X74704.xml:  <GBSeq_organism>Vibrio furnissii</GBSeq_organism>
+./AJ316193.xml:  <GBSeq_organism>Vibrio kanaloae</GBSeq_organism>
+./AJ491290.xml:  <GBSeq_organism>Vibrio pomeroyi</GBSeq_organism>
+./X74711.xml:  <GBSeq_organism>Vibrio metschnikovii</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./X74689.xml:  <GBSeq_organism>Vibrio aestuarianus</GBSeq_organism>
+./Y08430.xml:  <GBSeq_organism>Vibrio tapetis</GBSeq_organism>

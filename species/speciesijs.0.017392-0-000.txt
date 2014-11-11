@@ -1,0 +1,18 @@
+./AB184536.xml:  <GBSeq_organism>Streptomyces viridochromogenes subsp. komabensis</GBSeq_organism>
+./AB184580.xml:  <GBSeq_organism>Streptomyces longwoodensis</GBSeq_organism>
+./AB184845.xml:  <GBSeq_organism>Streptomyces lanatus</GBSeq_organism>
+./AB184666.xml:  <GBSeq_organism>Streptomyces gobitricini</GBSeq_organism>
+./AB184696.xml:  <GBSeq_organism>Streptomyces bungoensis</GBSeq_organism>
+./AB184233.xml:  <GBSeq_organism>Streptomyces pseudovenezuelae</GBSeq_organism>
+./AJ310923.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./AB184839.xml:  <GBSeq_organism>Streptomyces chartreusis</GBSeq_organism>
+./X79852.xml:  <GBSeq_organism>Streptomyces galbus</GBSeq_organism>
+./AY999775.xml:  <GBSeq_organism>Streptomyces canus</GBSeq_organism>
+./AF346475.xml:  <GBSeq_organism>Streptomyces cyaneus</GBSeq_organism>
+./AB184208.xml:  <GBSeq_organism>Streptomyces ciscaucasicus</GBSeq_organism>
+./AY999844.xml:  <GBSeq_organism>Streptomyces fimbriatus</GBSeq_organism>
+./AJ399475.xml:  <GBSeq_organism>Streptomyces longisporus</GBSeq_organism>
+./AJ310926.xml:  <GBSeq_organism>Streptomyces resistomycificus</GBSeq_organism>
+./AJ781336.xml:  <GBSeq_organism>Streptomyces lavendofoliae</GBSeq_organism>
+./AB184288.xml:  <GBSeq_organism>Streptomyces olivaceoviridis</GBSeq_organism>
+./AB184279.xml:  <GBSeq_organism>Streptomyces lincolnensis</GBSeq_organism>

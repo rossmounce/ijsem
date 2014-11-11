@@ -1,0 +1,11 @@
+./DQ234507.xml:  <GBSeq_organism>Mucilaginibacter sp. RA1BR4</GBSeq_organism>
+./FN400860.xml:  <GBSeq_organism>Mucilaginibacter frigoritolerans</GBSeq_organism>
+./FN400858.xml:  <GBSeq_organism>Mucilaginibacter sp. MP6.01</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./FN400859.xml:  <GBSeq_organism>Mucilaginibacter mallensis</GBSeq_organism>
+./M58778.xml:  <GBSeq_organism>Sphingobacterium spiritivorum</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./AB264126.xml:  <GBSeq_organism>Nubsella zeaxanthinifaciens</GBSeq_organism>
+./EU747841.xml:  <GBSeq_organism>Mucilaginibacter rigui</GBSeq_organism>
+./DQ234446.xml:  <GBSeq_organism>Mucilaginibacter lappiensis</GBSeq_organism>
+./AB183888.xml:  <GBSeq_organism>Flavobacterium frigidimaris</GBSeq_organism>

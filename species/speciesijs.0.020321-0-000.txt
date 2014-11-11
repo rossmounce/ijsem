@@ -1,0 +1,12 @@
+./AF101416.xml:  <GBSeq_organism>Gordonia desulfuricans</GBSeq_organism>
+./Y18054.xml:  <GBSeq_organism>Gordonia alkanivorans</GBSeq_organism>
+./X80632.xml:  <GBSeq_organism>Gordonia rubripertincta</GBSeq_organism>
+./AM406674.xml:  <GBSeq_organism>Gordonia malaquae</GBSeq_organism>
+./EU244645.xml:  <GBSeq_organism>Gordonia cholesterolivorans</GBSeq_organism>
+./AJ416151.xml:  <GBSeq_organism>Gordonia sihwensis</GBSeq_organism>
+./AJ251724.xml:  <GBSeq_organism>Gordonia spumae</GBSeq_organism>
+./X93485.xml:  <GBSeq_organism>Gordonia hirsuta DSM 44140 = NBRC 16056</GBSeq_organism>
+./AF432348.xml:  <GBSeq_organism>Gordonia paraffinivorans</GBSeq_organism>
+./X87340.xml:  <GBSeq_organism>Gordonia hydrophobica</GBSeq_organism>
+./AF380930.xml:  <GBSeq_organism>Gordonia namibiensis NBRC 108229</GBSeq_organism>
+./AF101418.xml:  <GBSeq_organism>Gordonia amicalis</GBSeq_organism>

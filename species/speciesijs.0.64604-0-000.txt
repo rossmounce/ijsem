@@ -1,0 +1,22 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X71849.xml:  <GBSeq_organism>Clostridium cellulovorans 743B</GBSeq_organism>
+./M59096.xml:  <GBSeq_organism>Clostridium limosum</GBSeq_organism>
+./X68189.xml:  <GBSeq_organism>Clostridium sporogenes</GBSeq_organism>
+./AM261414.xml:  <GBSeq_organism>Clostridium nitrophenolicum</GBSeq_organism>
+./X77676.xml:  <GBSeq_organism>Clostridium algidicarnis</GBSeq_organism>
+./L37594.xml:  <GBSeq_organism>Clostridium novyi</GBSeq_organism>
+./X73445.xml:  <GBSeq_organism>Clostridium paraputrificum</GBSeq_organism>
+./M59094.xml:  <GBSeq_organism>Clostridium histolyticum</GBSeq_organism>
+./X77835.xml:  <GBSeq_organism>Clostridium magnum</GBSeq_organism>
+./Y18813.xml:  <GBSeq_organism>Clostridium drakei</GBSeq_organism>
+./AY170379.xml:  <GBSeq_organism>Clostridium carboxidivorans P7</GBSeq_organism>
+./M59104.xml:  <GBSeq_organism>Clostridium scatologenes</GBSeq_organism>
+./M59102.xml:  <GBSeq_organism>Clostridium baratii</GBSeq_organism>
+./M59097.xml:  <GBSeq_organism>Clostridium ljungdahlii DSM 13528</GBSeq_organism>
+./DQ114945.xml:  <GBSeq_organism>Clostridium aciditolerans</GBSeq_organism>
+./M23930.xml:  <GBSeq_organism>Clostridium pasteurianum</GBSeq_organism>
+./X96736.xml:  <GBSeq_organism>Clostridium pascui</GBSeq_organism>
+./M59113.xml:  <GBSeq_organism>Clostridium tyrobutyricum</GBSeq_organism>
+./X68184.xml:  <GBSeq_organism>Clostridium tetanomorphum DSM 665</GBSeq_organism>
+./AY682207.xml:  <GBSeq_organism>Sporacetigenium mesophilum</GBSeq_organism>

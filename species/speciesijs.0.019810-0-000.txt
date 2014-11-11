@@ -1,0 +1,13 @@
+./AF052740.xml:  <GBSeq_organism>Idiomarina abyssalis</GBSeq_organism>
+./DQ212914.xml:  <GBSeq_organism>Thalassotalea agarivorans</GBSeq_organism>
+./AJ294748.xml:  <GBSeq_organism>Thalassomonas viridans</GBSeq_organism>
+./U85853.xml:  <GBSeq_organism>Glaciecola punicea</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./AB184196.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./X67024.xml:  <GBSeq_organism>Pseudoalteromonas haloplanktis</GBSeq_organism>
+./FJ167390.xml:  <GBSeq_organism>Aliagarivorans marinus</GBSeq_organism>
+./X81623.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./Y18228.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./DQ784575.xml:  <GBSeq_organism>Glaciecola agarilytica</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AY839870.xml:  <GBSeq_organism>Marinimicrobium agarilyticum</GBSeq_organism>

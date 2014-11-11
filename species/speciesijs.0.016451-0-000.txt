@@ -1,0 +1,10 @@
+./X92630.xml:  <GBSeq_organism>Dactylosporangium thailandense</GBSeq_organism>
+./FJ973607.xml:  <GBSeq_organism>Dactylosporangium salmoneum</GBSeq_organism>
+./X93193.xml:  <GBSeq_organism>Dactylosporangium matsuzakiense</GBSeq_organism>
+./U58531.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X93192.xml:  <GBSeq_organism>Dactylosporangium fulvum</GBSeq_organism>
+./FJ973605.xml:  <GBSeq_organism>Dactylosporangium luridum</GBSeq_organism>
+./X93194.xml:  <GBSeq_organism>Dactylosporangium roseum</GBSeq_organism>
+./X93196.xml:  <GBSeq_organism>Dactylosporangium vinaceum</GBSeq_organism>
+./FJ973606.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./FJ973604.xml:  <GBSeq_organism>Dactylosporangium luteum</GBSeq_organism>

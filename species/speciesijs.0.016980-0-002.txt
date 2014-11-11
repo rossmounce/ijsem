@@ -1,0 +1,16 @@
+./EF641922.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./EF641923.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./EF641903.xml:  <GBSeq_organism>Chlorobium limicola</GBSeq_organism>
+./EF641912.xml:  <GBSeq_organism>Thiocystis violacea</GBSeq_organism>
+./EF641919.xml:  <GBSeq_organism>Thiothrix nivea DSM 5205</GBSeq_organism>
+./EF641921.xml:  <GBSeq_organism>Thiodictyon sp. f4</GBSeq_organism>
+./EF641918.xml:  <GBSeq_organism>Thiothrix sp. 12730</GBSeq_organism>
+./EF641907.xml:  <GBSeq_organism>Thiocapsa roseopersicina</GBSeq_organism>
+./EF641913.xml:  <GBSeq_organism>Thiorhodococcus minor</GBSeq_organism>
+./EF641924.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./EF841915.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./EF641920.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./EF641909.xml:  <GBSeq_organism>Lamprocystis purpurea DSM 4197</GBSeq_organism>
+./EF641916.xml:  <GBSeq_organism>Thiobacillus aquaesulis</GBSeq_organism>
+./EF641911.xml:  <GBSeq_organism>Thiocystis gelatinosa</GBSeq_organism>
+./EF641914.xml:  <GBSeq_organism>Thiocapsa pendens</GBSeq_organism>

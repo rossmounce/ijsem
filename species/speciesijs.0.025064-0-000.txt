@@ -1,0 +1,8 @@
+./EF645691.xml:  <GBSeq_organism>Halomicrobium mukohataei DSM 12286</GBSeq_organism>
+./EF645688.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./AB454051.xml:  <GBSeq_organism>Salarchaeum japonicum</GBSeq_organism>
+./AB477983.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./EF645690.xml:  <GBSeq_organism>Halomicrobium mukohataei DSM 12286</GBSeq_organism>
+./AB477982.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./EF645687.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>

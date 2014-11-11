@@ -1,0 +1,9 @@
+./AF401092.xml:  <GBSeq_organism>Ehrlichia ruminantium</GBSeq_organism>
+./AF389473.xml:  <GBSeq_organism>Ehrlichia chaffeensis</GBSeq_organism>
+./AF401091.xml:  <GBSeq_organism>Ehrlichia canis</GBSeq_organism>
+./AF237414.xml:  <GBSeq_organism>Anaplasma phagocytophilum</GBSeq_organism>
+./AF401089.xml:  <GBSeq_organism>Neorickettsia risticii</GBSeq_organism>
+./AF401088.xml:  <GBSeq_organism>Neorickettsia sennetsu</GBSeq_organism>
+./AF401090.xml:  <GBSeq_organism>Wolbachia pipientis</GBSeq_organism>
+./AF389472.xml:  <GBSeq_organism>Anaplasma marginale</GBSeq_organism>
+./AF401093.xml:  <GBSeq_organism>Ehrlichia muris</GBSeq_organism>

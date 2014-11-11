@@ -1,0 +1,3 @@
+./HM357632.xml:  <GBSeq_organism>Solimonas flava</GBSeq_organism>
+./HM357683.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./HM357631.xml:  <GBSeq_organism>Solimonas aquatica</GBSeq_organism>

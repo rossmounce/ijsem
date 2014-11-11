@@ -1,0 +1,18 @@
+./AB239529.xml:  <GBSeq_organism>Mechercharimyces mesophilus</GBSeq_organism>
+./DQ119659.xml:  <GBSeq_organism>Planifilum yunnanense</GBSeq_organism>
+./AF138736.xml:  <GBSeq_organism>Laceyella putida</GBSeq_organism>
+./AF138733.xml:  <GBSeq_organism>Thermoflavimicrobium dichotomicum</GBSeq_organism>
+./X94194.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus ATCC 12856</GBSeq_organism>
+./AF138739.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./X70316.xml:  <GBSeq_organism>Exiguobacterium aurantiacum</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./M58838.xml:  <GBSeq_organism>Sporolactobacillus inulinus</GBSeq_organism>
+./D78457.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AJ133631.xml:  <GBSeq_organism>Alicyclobacillus acidoterrestris</GBSeq_organism>
+./AM940019.xml:  <GBSeq_organism>Desmospora activa</GBSeq_organism>
+./AB239532.xml:  <GBSeq_organism>Mechercharimyces asporophorigenens</GBSeq_organism>
+./AJ251777.xml:  <GBSeq_organism>Laceyella sacchari</GBSeq_organism>
+./AF138735.xml:  <GBSeq_organism>Seinonella peptonophila</GBSeq_organism>
+./AJ251775.xml:  <GBSeq_organism>Thermoactinomyces intermedius</GBSeq_organism>

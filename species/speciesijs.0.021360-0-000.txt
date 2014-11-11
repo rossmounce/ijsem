@@ -1,0 +1,3 @@
+./AM940158.xml:  <GBSeq_organism>Leucobacter tardus</GBSeq_organism>
+./AM072820.xml:  <GBSeq_organism>Leucobacter alluvii</GBSeq_organism>
+./AJ781047.xml:  <GBSeq_organism>Leucobacter aridicollis</GBSeq_organism>

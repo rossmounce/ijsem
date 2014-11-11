@@ -1,0 +1,8 @@
+./D87677.xml:  <GBSeq_organism>Aerococcus urinaeequi</GBSeq_organism>
+./M77819.xml:  <GBSeq_organism>Aerococcus urinae</GBSeq_organism>
+./AM230658.xml:  <GBSeq_organism>Aerococcus suis</GBSeq_organism>
+./Y17005.xml:  <GBSeq_organism>Aerococcus christensenii</GBSeq_organism>
+./M58797.xml:  <GBSeq_organism>Aerococcus viridans ATCC 11563</GBSeq_organism>
+./AJ276512.xml:  <GBSeq_organism>Aerococcus sanguinicola</GBSeq_organism>
+./AJ278341.xml:  <GBSeq_organism>Aerococcus urinaehominis</GBSeq_organism>
+./D50541.xml:  <GBSeq_organism>Abiotrophia defectiva ATCC 49176</GBSeq_organism>

@@ -1,0 +1,12 @@
+./AJ292528.xml:  <GBSeq_organism>Marinobacter sp. Trimyema-2</GBSeq_organism>
+./AF482686.xml:  <GBSeq_organism>Marinobacter sp. SBS</GBSeq_organism>
+./AJ292527.xml:  <GBSeq_organism>Marinobacter sp. Trimyema-1</GBSeq_organism>
+./AY147906.xml:  <GBSeq_organism>Marinobacter lipolyticus</GBSeq_organism>
+./AF237685.xml:  <GBSeq_organism>Marinobacter sp.</GBSeq_organism>
+./AF479689.xml:  <GBSeq_organism>Marinobacter litoralis</GBSeq_organism>
+./AJ302707.xml:  <GBSeq_organism>Marinobacter sp. ME108</GBSeq_organism>
+./AF238495.xml:  <GBSeq_organism>Marinobacter sp.</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./Y16735.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus</GBSeq_organism>
+./AJ000726.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus VT8</GBSeq_organism>
+./AF173969.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus</GBSeq_organism>

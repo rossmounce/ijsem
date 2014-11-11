@@ -1,0 +1,10 @@
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./GO241320.xml:  <GBSeq_organism>Cicer microphyllum</GBSeq_organism>
+./AJ300185.xml:  <GBSeq_organism>Thermomonas haemolytica</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AJ298291.xml:  <GBSeq_organism>Lysobacter enzymogenes</GBSeq_organism>
+./AM403587.xml:  <GBSeq_organism>Stenotrophomonas humi</GBSeq_organism>
+./AM403589.xml:  <GBSeq_organism>Stenotrophomonas terrae</GBSeq_organism>
+./DQ109037.xml:  <GBSeq_organism>Stenotrophomonas daejeonensis</GBSeq_organism>
+./AF192843.xml:  <GBSeq_organism>Pristipomoides multidens</GBSeq_organism>

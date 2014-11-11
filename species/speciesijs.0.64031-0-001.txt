@@ -1,0 +1,15 @@
+./DQ150550.xml:  <GBSeq_organism>Comamonas testosteroni ATCC 11996</GBSeq_organism>
+./DQ150557.xml:  <GBSeq_organism>Herbaspirillum chlorophenolicum</GBSeq_organism>
+./DQ150562.xml:  <GBSeq_organism>Herbaspirillum autotrophicum</GBSeq_organism>
+./DQ314863.xml:  <GBSeq_organism>Collimonas fungivorans</GBSeq_organism>
+./DQ150558.xml:  <GBSeq_organism>Herbaspirillum frisingense GSF30</GBSeq_organism>
+./DQ150553.xml:  <GBSeq_organism>Herbaspirillum hiltneri</GBSeq_organism>
+./DQ150551.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./DQ150560.xml:  <GBSeq_organism>Herbaspirillum huttiense subsp. putei</GBSeq_organism>
+./DQ150556.xml:  <GBSeq_organism>Herbaspirillum seropedicae</GBSeq_organism>
+./DQ150559.xml:  <GBSeq_organism>Herbaspirillum rubrisubalbicans</GBSeq_organism>
+./X68323.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./DQ150561.xml:  <GBSeq_organism>Herbaspirillum huttiense</GBSeq_organism>
+./DQ150554.xml:  <GBSeq_organism>Herbaspirillum hiltneri</GBSeq_organism>
+./DQ150555.xml:  <GBSeq_organism>Herbaspirillum lusitanum P6-12</GBSeq_organism>
+./DQ150552.xml:  <GBSeq_organism>Herbaspirillum hiltneri N3</GBSeq_organism>

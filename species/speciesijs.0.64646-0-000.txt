@@ -1,0 +1,8 @@
+./DQ119659.xml:  <GBSeq_organism>Planifilum yunnanense</GBSeq_organism>
+./AF138736.xml:  <GBSeq_organism>Laceyella putida</GBSeq_organism>
+./AF138733.xml:  <GBSeq_organism>Thermoflavimicrobium dichotomicum</GBSeq_organism>
+./AF138739.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./AF138738.xml:  <GBSeq_organism>Laceyella sacchari</GBSeq_organism>
+./AF138735.xml:  <GBSeq_organism>Seinonella peptonophila</GBSeq_organism>
+./AJ251775.xml:  <GBSeq_organism>Thermoactinomyces intermedius</GBSeq_organism>
+./AB088364.xml:  <GBSeq_organism>Planifilum fimeticola</GBSeq_organism>

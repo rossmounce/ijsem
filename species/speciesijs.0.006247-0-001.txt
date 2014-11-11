@@ -1,0 +1,24 @@
+./AY722379.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis DSM 10140</GBSeq_organism>
+./DQ206821.xml:  <GBSeq_organism>Bifidobacterium bifidum</GBSeq_organism>
+./AB433859.xml:  <GBSeq_organism>Bifidobacterium mongoliense</GBSeq_organism>
+./DQ248875.xml:  <GBSeq_organism>Bifidobacterium gallicum DSM 20093 = LMG 11596</GBSeq_organism>
+./DQ238023.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./AB437352.xml:  <GBSeq_organism>Bifidobacterium breve</GBSeq_organism>
+./DQ238019.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. globosum</GBSeq_organism>
+./DQ238028.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./DQ238016.xml:  <GBSeq_organism>Bifidobacterium adolescentis</GBSeq_organism>
+./DQ238022.xml:  <GBSeq_organism>Bifidobacterium angulatum DSM 20098 = JCM 7096</GBSeq_organism>
+./AY722387.xml:  <GBSeq_organism>Bifidobacterium dentium JCM 1195 = DSM 20436</GBSeq_organism>
+./DQ238034.xml:  <GBSeq_organism>Bifidobacterium pseudolongum subsp. pseudolongum</GBSeq_organism>
+./DQ238027.xml:  <GBSeq_organism>Bifidobacterium gallinarum</GBSeq_organism>
+./DQ238013.xml:  <GBSeq_organism>Bifidobacterium subtile</GBSeq_organism>
+./AB433861.xml:  <GBSeq_organism>Bifidobacterium psychraerophilum</GBSeq_organism>
+./AB433860.xml:  <GBSeq_organism>Bifidobacterium minimum</GBSeq_organism>
+./AY722388.xml:  <GBSeq_organism>Bifidobacterium longum subsp. suis</GBSeq_organism>
+./AB437353.xml:  <GBSeq_organism>Bifidobacterium longum subsp. longum</GBSeq_organism>
+./DQ238020.xml:  <GBSeq_organism>Bifidobacterium cuniculi</GBSeq_organism>
+./AY722381.xml:  <GBSeq_organism>Bifidobacterium longum subsp. infantis ATCC 15697 = JCM 1222 = DSM 20088</GBSeq_organism>
+./DQ238017.xml:  <GBSeq_organism>Bifidobacterium catenulatum DSM 16992 = JCM 1194 = LMG 11043</GBSeq_organism>
+./AB433858.xml:  <GBSeq_organism>Bifidobacterium mongoliense</GBSeq_organism>
+./AY722380.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis ATCC 25527</GBSeq_organism>
+./X75930.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis str. 168</GBSeq_organism>

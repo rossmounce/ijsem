@@ -1,0 +1,12 @@
+./AF445264.xml:  <GBSeq_organism>Hespellia stercorisuis</GBSeq_organism>
+./AY534872.xml:  <GBSeq_organism>Anaerosporobacter mobilis</GBSeq_organism>
+./L76604.xml:  <GBSeq_organism>Ruminococcus torques ATCC 27756</GBSeq_organism>
+./X71853.xml:  <GBSeq_organism>[Clostridium] populeti</GBSeq_organism>
+./L34628.xml:  <GBSeq_organism>Eubacterium xylanophilum</GBSeq_organism>
+./AF020431.xml:  <GBSeq_organism>Lachnoclostridium phytofermentans ISDg</GBSeq_organism>
+./L14676.xml:  <GBSeq_organism>Roseburia cecicola</GBSeq_organism>
+./X77839.xml:  <GBSeq_organism>[Clostridium] polysaccharolyticum</GBSeq_organism>
+./L34615.xml:  <GBSeq_organism>[Eubacterium] contortum</GBSeq_organism>
+./L34418.xml:  <GBSeq_organism>[Clostridium] herbivorans</GBSeq_organism>
+./AJ272036.xml:  <GBSeq_organism>Parasporobacterium paucivorans</GBSeq_organism>
+./L76597.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>

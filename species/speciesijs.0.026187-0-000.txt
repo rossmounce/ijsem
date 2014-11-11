@@ -1,0 +1,15 @@
+./X58301.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./AM774228.xml:  <GBSeq_organism>Streptococcus plurextorum</GBSeq_organism>
+./AJ606046.xml:  <GBSeq_organism>Streptococcus halichoeri</GBSeq_organism>
+./AJ606047.xml:  <GBSeq_organism>Streptococcus castoreus</GBSeq_organism>
+./AJ307888.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./AJ634751.xml:  <GBSeq_organism>Streptococcus marimammalium</GBSeq_organism>
+./EF364097.xml:  <GBSeq_organism>Streptococcus henryi</GBSeq_organism>
+./AM396401.xml:  <GBSeq_organism>Streptococcus merionis</GBSeq_organism>
+./AF176103.xml:  <GBSeq_organism>Streptococcus didelphis</GBSeq_organism>
+./AY232832.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./FN813250.xml:  <GBSeq_organism>Streptococcus rupicaprae</GBSeq_organism>
+./AB002523.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./EF364098.xml:  <GBSeq_organism>Streptococcus caballi</GBSeq_organism>
+./AJ409287.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>
+./AJ131965.xml:  <GBSeq_organism>Streptococcus sp.</GBSeq_organism>

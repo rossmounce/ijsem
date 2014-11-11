@@ -1,0 +1,9 @@
+./AF418187.xml:  <GBSeq_organism>Desulfovibrio fructosivorans JJ</GBSeq_organism>
+./AF418185.xml:  <GBSeq_organism>Desulfovibrio termitidis HI1</GBSeq_organism>
+./AJ249777.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans</GBSeq_organism>
+./AF334595.xml:  <GBSeq_organism>Desulfomonile tiedjei DSM 6799</GBSeq_organism>
+./AF271772.xml:  <GBSeq_organism>Desulfovibrio africanus</GBSeq_organism>
+./AY626026.xml:  <GBSeq_organism>Desulfovibrio carbinolicus</GBSeq_organism>
+./AB061543.xml:  <GBSeq_organism>Desulfovibrio oxamicus</GBSeq_organism>
+./AF418184.xml:  <GBSeq_organism>Desulfovibrio piger ATCC 29098</GBSeq_organism>
+./EU716165.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. uniflagellum</GBSeq_organism>

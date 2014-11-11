@@ -1,0 +1,41 @@
+./AB074522.xml:  <GBSeq_organism>Giesbergeria giesbergeri</GBSeq_organism>
+./AF144383.xml:  <GBSeq_organism>Ramlibacter tataouinensis TTB310</GBSeq_organism>
+./AB064317.xml:  <GBSeq_organism>Diaphorobacter nitroreducens</GBSeq_organism>
+./D88006.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AJ420326.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AJ007013.xml:  <GBSeq_organism>Acidovorax anthurii</GBSeq_organism>
+./AF078756.xml:  <GBSeq_organism>Curvibacter delicatus</GBSeq_organism>
+./AF084947.xml:  <GBSeq_organism>Rhodoferax antarcticus ANT.BR</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./AB021421.xml:  <GBSeq_organism>Acidovorax avenae subsp. avenae</GBSeq_organism>
+./AJ420330.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./Y18618.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./AF078764.xml:  <GBSeq_organism>Acidovorax delafieldii</GBSeq_organism>
+./AY291120.xml:  <GBSeq_organism>Lampropedia hyalina</GBSeq_organism>
+./D16211.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./AJ537466.xml:  <GBSeq_organism>Ottowia thiooxydans</GBSeq_organism>
+./AY780905.xml:  <GBSeq_organism>Giesbergeria voronezhensis</GBSeq_organism>
+./AF078774.xml:  <GBSeq_organism>Delftia acidovorans</GBSeq_organism>
+./AJ431731.xml:  <GBSeq_organism>Acidovorax valerianellae</GBSeq_organism>
+./AJ418042.xml:  <GBSeq_organism>Alicycliphilus denitrificans K601</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./AF019037.xml:  <GBSeq_organism>Hydrogenophaga intermedia</GBSeq_organism>
+./AY780904.xml:  <GBSeq_organism>Simplicispira metamorpha</GBSeq_organism>
+./M11224.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./AF233877.xml:  <GBSeq_organism>Comamonas denitrificans</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./AF078760.xml:  <GBSeq_organism>Acidovorax konjaci</GBSeq_organism>
+./AJ251577.xml:  <GBSeq_organism>Comamonas nitrativorans</GBSeq_organism>
+./AF078769.xml:  <GBSeq_organism>Hydrogenophaga palleronii</GBSeq_organism>
+./AF275377.xml:  <GBSeq_organism>Comamonas koreensis</GBSeq_organism>
+./AF078768.xml:  <GBSeq_organism>Hydrogenophaga taeniospiralis CCUG 15921</GBSeq_organism>
+./AF078755.xml:  <GBSeq_organism>Simplicispira psychrophila</GBSeq_organism>
+./AF078766.xml:  <GBSeq_organism>Acidovorax temperans</GBSeq_organism>
+./EF469609.xml:  <GBSeq_organism>Pseudacidovorax intermedius</GBSeq_organism>
+./AF439400.xml:  <GBSeq_organism>Ramlibacter henchirensis</GBSeq_organism>
+./AY780906.xml:  <GBSeq_organism>Giesbergeria voronezhensis</GBSeq_organism>
+./AY780907.xml:  <GBSeq_organism>Giesbergeria kuznetsovii</GBSeq_organism>
+./AF078753.xml:  <GBSeq_organism>Hylemonella gracilis ATCC 19624</GBSeq_organism>
+./AF078077.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

@@ -1,0 +1,31 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./AF001366.xml:  <GBSeq_organism>Cellulophaga algicola DSM 14237</GBSeq_organism>
+./AM491809.xml:  <GBSeq_organism>Algibacter mikhailovii</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./M92278.xml:  <GBSeq_organism>Psychroflexus gondwanensis</GBSeq_organism>
+./EF660466.xml:  <GBSeq_organism>Olleya marilimosa CAM030</GBSeq_organism>
+./AY693999.xml:  <GBSeq_organism>Subsaxibacter broadyi</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./EF660761.xml:  <GBSeq_organism>Joostella marina DSM 19592</GBSeq_organism>
+./AY682382.xml:  <GBSeq_organism>Yeosuana aromativorans</GBSeq_organism>
+./AY987349.xml:  <GBSeq_organism>Nonlabens tegetincola</GBSeq_organism>
+./AB206954.xml:  <GBSeq_organism>Nonlabens sediminis</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./AB071382.xml:  <GBSeq_organism>Vitellibacter vladivostokensis</GBSeq_organism>
+./AB198089.xml:  <GBSeq_organism>Dokdonia diaphoros</GBSeq_organism>
+./AY693998.xml:  <GBSeq_organism>Subsaximicrobium saxinquilinus</GBSeq_organism>
+./AB206957.xml:  <GBSeq_organism>Sediminicola luteus</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AY694009.xml:  <GBSeq_organism>Gelidibacter salicanalis</GBSeq_organism>
+./HM475134.xml:  <GBSeq_organism>Algibacter pectinivorans</GBSeq_organism>
+./AB438962.xml:  <GBSeq_organism>Winogradskyella arenosi</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY694003.xml:  <GBSeq_organism>Bizionia algoritergicola</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EU443204.xml:  <GBSeq_organism>Jejuia pallidilutea</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./EF554865.xml:  <GBSeq_organism>Adineta ricciae</GBSeq_organism>
+./EF108219.xml:  <GBSeq_organism>Gaetbulibacter marinus</GBSeq_organism>
+./FJ360684.xml:  <GBSeq_organism>Meridianimaribacter flavus</GBSeq_organism>
+./AF052742.xml:  <GBSeq_organism>Arenibacter latericius</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>

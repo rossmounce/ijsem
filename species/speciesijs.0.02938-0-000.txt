@@ -1,0 +1,10 @@
+./X55592.xml:  <GBSeq_organism>Mycobacterium farcinogenes</GBSeq_organism>
+./X79286.xml:  <GBSeq_organism>Gordonia terrae</GBSeq_organism>
+./X55599.xml:  <GBSeq_organism>Mycobacterium gilvum</GBSeq_organism>
+./M29567.xml:  <GBSeq_organism>Mycobacterium senegalense</GBSeq_organism>
+./X55596.xml:  <GBSeq_organism>Mycobacterium chubuense</GBSeq_organism>
+./AJ534886.xml:  <GBSeq_organism>Mycobacterium psychrotolerans</GBSeq_organism>
+./X55598.xml:  <GBSeq_organism>Mycobacterium aichiense</GBSeq_organism>
+./X55597.xml:  <GBSeq_organism>Mycobacterium obuense</GBSeq_organism>
+./X55590.xml:  <GBSeq_organism>Mycobacterium sphagni</GBSeq_organism>
+./X79094.xml:  <GBSeq_organism>Mycobacterium chlorophenolicum</GBSeq_organism>

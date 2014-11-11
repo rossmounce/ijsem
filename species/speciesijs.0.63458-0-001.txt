@@ -1,0 +1,3 @@
+./Q51827.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./P13793.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./AY573801.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AF313802.xml:  <GBSeq_organism>Methanosaeta concilii GP6</GBSeq_organism>
+./U22252.xml:  <GBSeq_organism>Methanosalsum zhilinae</GBSeq_organism>
+./U22235.xml:  <GBSeq_organism>Methanococcoides methylutens</GBSeq_organism>
+./AY260442.xml:  <GBSeq_organism>Methanomethylovorans hollandica</GBSeq_organism>
+./U22244.xml:  <GBSeq_organism>Methanolobus tindarius</GBSeq_organism>
+./AY970348.xml:  <GBSeq_organism>Methanosaeta harundinacea 8Ac</GBSeq_organism>
+./Y00158.xml:  <GBSeq_organism>Methanosarcina barkeri</GBSeq_organism>
+./U22236.xml:  <GBSeq_organism>Methanohalobium evestigatum</GBSeq_organism>
+./U22237.xml:  <GBSeq_organism>Methanohalophilus mahii</GBSeq_organism>
+./EF026570.xml:  <GBSeq_organism>Methermicoccus shengliensis</GBSeq_organism>

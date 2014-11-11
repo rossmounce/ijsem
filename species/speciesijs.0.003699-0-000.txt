@@ -1,0 +1,24 @@
+./EU621360.xml:  <GBSeq_organism>Anoxybacillus sp. DR02</GBSeq_organism>
+./Z26930.xml:  <GBSeq_organism>Aeribacillus pallidus</GBSeq_organism>
+./X60618.xml:  <GBSeq_organism>Geobacillus kaustophilus</GBSeq_organism>
+./AF276306.xml:  <GBSeq_organism>Geobacillus subterraneus</GBSeq_organism>
+./AJ010478.xml:  <GBSeq_organism>Bacillus sp.</GBSeq_organism>
+./EU621359.xml:  <GBSeq_organism>Anoxybacillus sp. DR01</GBSeq_organism>
+./AF326278.xml:  <GBSeq_organism>Geobacillus toebii</GBSeq_organism>
+./AY563003.xml:  <GBSeq_organism>Anoxybacillus tepidamans</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ564616.xml:  <GBSeq_organism>Caldibacillus debilis</GBSeq_organism>
+./EU621362.xml:  <GBSeq_organism>Anoxybacillus sp. DR04</GBSeq_organism>
+./EU621361.xml:  <GBSeq_organism>Aeribacillus pallidus</GBSeq_organism>
+./AJ879076.xml:  <GBSeq_organism>Anoxybacillus rupiensis</GBSeq_organism>
+./AJ618979.xml:  <GBSeq_organism>Anoxybacillus amylolyticus</GBSeq_organism>
+./AY193888.xml:  <GBSeq_organism>Geobacillus gargensis</GBSeq_organism>
+./AY166603.xml:  <GBSeq_organism>Geobacillus zalihae</GBSeq_organism>
+./Z26932.xml:  <GBSeq_organism>Anoxybacillus flavithermus subsp. flavithermus</GBSeq_organism>
+./AF067651.xml:  <GBSeq_organism>Geobacillus caldoxylosilyticus</GBSeq_organism>
+./X60840.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./X60641.xml:  <GBSeq_organism>Geobacillus thermoglucosidasius</GBSeq_organism>
+./M77488.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AF276304.xml:  <GBSeq_organism>Geobacillus uzenensis</GBSeq_organism>
+./AF510985.xml:  <GBSeq_organism>Anoxybacillus kamchatkensis</GBSeq_organism>
+./Z26928.xml:  <GBSeq_organism>Geobacillus thermodenitrificans subsp. thermodenitrificans DSM 465</GBSeq_organism>

@@ -1,0 +1,13 @@
+./U01959.xml:  <GBSeq_organism>Rickettsia prowazekii str. Madrid E</GBSeq_organism>
+./AM118082.xml:  <GBSeq_organism>Pseudochrobactrum saccharolyticum</GBSeq_organism>
+./AM263421.xml:  <GBSeq_organism>Ochrobactrum oryzae</GBSeq_organism>
+./AM113730.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AM422962.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AM087899.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./AM263419.xml:  <GBSeq_organism>Pseudochrobactrum kiredjianiae</GBSeq_organism>
+./AM087913.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./BX897699.xml:  <GBSeq_organism>Bartonella henselae str. Houston-1</GBSeq_organism>
+./AM422877.xml:  <GBSeq_organism>Ochrobactrum pseudogrignonense</GBSeq_organism>
+./AB369865.xml:  <GBSeq_organism>Paenochrobactrum glaciei</GBSeq_organism>
+./AM422960.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AM118081.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

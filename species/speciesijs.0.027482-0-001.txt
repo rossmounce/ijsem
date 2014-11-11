@@ -1,0 +1,19 @@
+./D85487.xml:  <GBSeq_organism>Luteococcus japonicus</GBSeq_organism>
+./AJ003055.xml:  <GBSeq_organism>Propionibacterium avidum ATCC 25577</GBSeq_organism>
+./AB271051.xml:  <GBSeq_organism>Microlunatus panaciterrae</GBSeq_organism>
+./X53218.xml:  <GBSeq_organism>Propionibacterium acnes</GBSeq_organism>
+./AF038504.xml:  <GBSeq_organism>Tessaracoccus bendigoensis</GBSeq_organism>
+./X80633.xml:  <GBSeq_organism>Gordonia aichiensis</GBSeq_organism>
+./AY426714.xml:  <GBSeq_organism>Actinoalloteichus spitiensis RMV-1378</GBSeq_organism>
+./AB271053.xml:  <GBSeq_organism>Nocardioides panacihumi</GBSeq_organism>
+./EF363712.xml:  <GBSeq_organism>Nocardioides terrigena</GBSeq_organism>
+./Z78207.xml:  <GBSeq_organism>Microlunatus phosphovorus</GBSeq_organism>
+./EF601828.xml:  <GBSeq_organism>Microlunatus aurantiacus</GBSeq_organism>
+./X80634.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>
+./AB298730.xml:  <GBSeq_organism>Propioniciclava tarda</GBSeq_organism>
+./AF084529.xml:  <GBSeq_organism>Friedmanniella capsulata</GBSeq_organism>
+./AJ315953.xml:  <GBSeq_organism>Propionibacterium propionicum</GBSeq_organism>
+./AF062535.xml:  <GBSeq_organism>Friedmanniella spumicola</GBSeq_organism>
+./U75647.xml:  <GBSeq_organism>Acidimicrobium ferrooxidans DSM 10331</GBSeq_organism>
+./AB245389.xml:  <GBSeq_organism>Microlunatus ginsengisoli</GBSeq_organism>
+./AB298731.xml:  <GBSeq_organism>Propioniciclava tarda</GBSeq_organism>

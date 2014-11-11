@@ -1,0 +1,10 @@
+./EF644827.xml:  <GBSeq_organism>Nautilia sp. MT3</GBSeq_organism>
+./FJ532475.xml:  <GBSeq_organism>Nautilia nitratireducens MB-1</GBSeq_organism>
+./AY691430.xml:  <GBSeq_organism>Caminibacter mediatlanticus TB-2</GBSeq_organism>
+./AM937002.xml:  <GBSeq_organism>Nautilia abyssi</GBSeq_organism>
+./AJ535664.xml:  <GBSeq_organism>Caminibacter profundus</GBSeq_organism>
+./AJ575809.xml:  <GBSeq_organism>Nautilia sp. T4-KAB-str1</GBSeq_organism>
+./EF644828.xml:  <GBSeq_organism>Nautilia sp. MT4</GBSeq_organism>
+./AF357196.xml:  <GBSeq_organism>epsilon proteobacterium 18.2</GBSeq_organism>
+./EF644829.xml:  <GBSeq_organism>Nautilia sp. MT5</GBSeq_organism>
+./AY691429.xml:  <GBSeq_organism>Caminibacter sp. TB-1</GBSeq_organism>

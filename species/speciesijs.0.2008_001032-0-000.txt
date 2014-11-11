@@ -1,0 +1,13 @@
+./AY355140.xml:  <GBSeq_organism>Veillonella caviae</GBSeq_organism>
+./AY995767.xml:  <GBSeq_organism>Veillonella parvula DSM 2008</GBSeq_organism>
+./EF108443.xml:  <GBSeq_organism>Veillonella rogosae</GBSeq_organism>
+./AF439641.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./EF185167.xml:  <GBSeq_organism>Veillonella denticariosi</GBSeq_organism>
+./EU096495.xml:  <GBSeq_organism>Veillonella magna</GBSeq_organism>
+./AF473836.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AY514996.xml:  <GBSeq_organism>Veillonella rodentium</GBSeq_organism>
+./AF186071.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./AY995770.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./AY995769.xml:  <GBSeq_organism>Veillonella parvula ATCC 17745</GBSeq_organism>
+./AF186072.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./X65935.xml:  <GBSeq_organism>Acidaminococcus fermentans DSM 20731</GBSeq_organism>

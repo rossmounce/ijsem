@@ -1,0 +1,23 @@
+./L33974.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./X72724.xml:  <GBSeq_organism>Ideonella dechloratans</GBSeq_organism>
+./D88007.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>
+./AM501431.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./AM501440.xml:  <GBSeq_organism>Pelomonas puraquae</GBSeq_organism>
+./AM501439.xml:  <GBSeq_organism>Pelomonas puraquae</GBSeq_organism>
+./AM501437.xml:  <GBSeq_organism>Pelomonas aquatica</GBSeq_organism>
+./AM501429.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./U27839.xml:  <GBSeq_organism>Thiomonas thermosulfata</GBSeq_organism>
+./AM501432.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./AM501434.xml:  <GBSeq_organism>Pelomonas aquatica</GBSeq_organism>
+./AM501441.xml:  <GBSeq_organism>Pelomonas puraquae</GBSeq_organism>
+./AM501443.xml:  <GBSeq_organism>Roseateles depolymerans</GBSeq_organism>
+./AM501442.xml:  <GBSeq_organism>Mitsuaria chitosanitabida</GBSeq_organism>
+./AF396932.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>
+./AM501433.xml:  <GBSeq_organism>Pelomonas aquatica</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./AM501428.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./AM501438.xml:  <GBSeq_organism>Pelomonas puraquae</GBSeq_organism>
+./AM501430.xml:  <GBSeq_organism>Pelomonas saccharophila</GBSeq_organism>
+./AY856841.xml:  <GBSeq_organism>Mitsuaria chitosanitabida</GBSeq_organism>
+./AF035050.xml:  <GBSeq_organism>Aquabacterium citratiphilum</GBSeq_organism>

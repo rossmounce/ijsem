@@ -1,0 +1,11 @@
+./X53197.xml:  <GBSeq_organism>Saccharopolyspora hordei</GBSeq_organism>
+./X76962.xml:  <GBSeq_organism>Saccharopolyspora gregorii</GBSeq_organism>
+./AF154128.xml:  <GBSeq_organism>Saccharopolyspora flava</GBSeq_organism>
+./X53194.xml:  <GBSeq_organism>Saccharopolyspora rectivirgula</GBSeq_organism>
+./AF002819.xml:  <GBSeq_organism>Saccharopolyspora taberi</GBSeq_organism>
+./X53196.xml:  <GBSeq_organism>Saccharopolyspora hirsuta</GBSeq_organism>
+./AF002818.xml:  <GBSeq_organism>Saccharopolyspora spinosa NRRL 18395</GBSeq_organism>
+./AF127526.xml:  <GBSeq_organism>Saccharopolyspora thermophila</GBSeq_organism>
+./EF104116.xml:  <GBSeq_organism>Saccharopolyspora shandongensis</GBSeq_organism>
+./x53198.xml:  <GBSeq_organism>Saccharopolyspora erythraea NRRL 2338</GBSeq_organism>
+./Y09571.xml:  <GBSeq_organism>Saccharopolyspora spinosporotrichia</GBSeq_organism>

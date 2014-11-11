@@ -1,0 +1,20 @@
+./AB184524.xml:  <GBSeq_organism>Streptomyces propurpuratus</GBSeq_organism>
+./X80607.xml:  <GBSeq_organism>Nocardia carnea NBRC 14403</GBSeq_organism>
+./AY999901.xml:  <GBSeq_organism>Streptomyces albiaxialis</GBSeq_organism>
+./AB184819.xml:  <GBSeq_organism>Streptomyces lilacinus</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./AJ621603.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./AB184866.xml:  <GBSeq_organism>Streptomyces orinoci</GBSeq_organism>
+./AJ007399.xml:  <GBSeq_organism>Streptomyces somaliensis</GBSeq_organism>
+./EF577247.xml:  <GBSeq_organism>Streptomyces xinghaiensis S187</GBSeq_organism>
+./AY999802.xml:  <GBSeq_organism>Streptomyces blastmyceticus</GBSeq_organism>
+./DQ445793.xml:  <GBSeq_organism>Streptomyces javensis</GBSeq_organism>
+./AB184236.xml:  <GBSeq_organism>Streptomyces rimosus subsp. rimosus</GBSeq_organism>
+./AJ560629.xml:  <GBSeq_organism>Streptomyces cebimarensis</GBSeq_organism>
+./AY262826.xml:  <GBSeq_organism>Streptomyces ferralitis</GBSeq_organism>
+./AJ621613.xml:  <GBSeq_organism>Streptomyces catenulae</GBSeq_organism>
+./AB184361.xml:  <GBSeq_organism>Streptomyces viridis</GBSeq_organism>
+./AB184225.xml:  <GBSeq_organism>Streptomyces nigrescens</GBSeq_organism>
+./EF178675.xml:  <GBSeq_organism>Actinoalloteichus cyanogriseus</GBSeq_organism>
+./AB184480.xml:  <GBSeq_organism>Streptomyces lividus</GBSeq_organism>
+./AB184531.xml:  <GBSeq_organism>Streptomyces kasugaspinus</GBSeq_organism>

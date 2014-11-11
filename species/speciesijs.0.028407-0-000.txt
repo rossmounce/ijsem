@@ -1,0 +1,30 @@
+./AF003375.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./EF141340.xml:  <GBSeq_organism>Rhizobium phaseoli</GBSeq_organism>
+./U07934.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AY341343.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./U89832.xml:  <GBSeq_organism>Rhizobium tropici CIAT 899</GBSeq_organism>
+./DQ100063.xml:  <GBSeq_organism>Rhizobium mesosinicum</GBSeq_organism>
+./X73041.xml:  <GBSeq_organism>Rhizobium aggregatum</GBSeq_organism>
+./U86344.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./Z30542.xml:  <GBSeq_organism>Agrobacterium larrymoorei</GBSeq_organism>
+./EF363715.xml:  <GBSeq_organism>Rhizobium soli</GBSeq_organism>
+./D14502.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./AY738130.xml:  <GBSeq_organism>Rhizobium lusitanum</GBSeq_organism>
+./X67233.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AY509900.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./U28916.xml:  <GBSeq_organism>Rhizobium etli CFN 42</GBSeq_organism>
+./AF025852.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D14500.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D14503.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AY509899.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./FJ969841.xml:  <GBSeq_organism>Rhizobium pusense</GBSeq_organism>
+./AM931436.xml:  <GBSeq_organism>Rhizobium alamii</GBSeq_organism>
+./AY945955.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./EF035074.xml:  <GBSeq_organism>Rhizobium multihospitium</GBSeq_organism>
+./AF364069.xml:  <GBSeq_organism>Rhizobium loessense</GBSeq_organism>
+./U86343.xml:  <GBSeq_organism>Rhizobium gallicum</GBSeq_organism>
+./AF364068.xml:  <GBSeq_organism>Rhizobium indigoferae</GBSeq_organism>
+./EF440185.xml:  <GBSeq_organism>Rhizobium selenitireducens</GBSeq_organism>
+./D14501.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>

@@ -1,0 +1,5 @@
+./GU057916.xml:  <GBSeq_organism>Ruegeria faecimaris</GBSeq_organism>
+./EU977135.xml:  <GBSeq_organism>Ruegeria mobilis</GBSeq_organism>
+./DQ915673.xml:  <GBSeq_organism>Sulfitobacter dubius</GBSeq_organism>
+./EF010916.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./EF010915.xml:  <GBSeq_organism>Pseudoruegeria aquimaris</GBSeq_organism>

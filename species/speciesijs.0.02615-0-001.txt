@@ -1,0 +1,15 @@
+./AF114783.xml:  <GBSeq_organism>Alkalispirillum mobile</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./AF302081.xml:  <GBSeq_organism>Thioalkalivibrio thiocyanoxidans ARh2</GBSeq_organism>
+./AJ278688.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./AF126545.xml:  <GBSeq_organism>Thioalkalivibrio denitrificans</GBSeq_organism>
+./M26631.xml:  <GBSeq_organism>Arhodomonas aquaeolei</GBSeq_organism>
+./AF329083.xml:  <GBSeq_organism>Thioalkalivibrio jannaschii</GBSeq_organism>
+./AY079010.xml:  <GBSeq_organism>Thioalkalivibrio nitratireducens DSM 14787</GBSeq_organism>
+./M59152.xml:  <GBSeq_organism>Halorhodospira halochloris</GBSeq_organism>
+./AF126547.xml:  <GBSeq_organism>Thioalkalivibrio nitratis</GBSeq_organism>
+./X93477.xml:  <GBSeq_organism>Halorhodospira abdelmalekii</GBSeq_organism>
+./X93479.xml:  <GBSeq_organism>Ectothiorhodospira haloalkaliphila ATCC 51935</GBSeq_organism>
+./AF126546.xml:  <GBSeq_organism>Thioalkalivibrio versutus AL 2</GBSeq_organism>
+./AF151432.xml:  <GBSeq_organism>Thioalkalivibrio paradoxus ARh 1</GBSeq_organism>

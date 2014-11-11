@@ -1,0 +1,9 @@
+./Z76680.xml:  <GBSeq_organism>Streptomyces sampsonii</GBSeq_organism>
+./Z76684.xml:  <GBSeq_organism>Streptomyces canescens</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./Z76678.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AB026221.xml:  <GBSeq_organism>Streptomyces turgidiscabies</GBSeq_organism>
+./AJ391820.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./M23411.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./Z76681.xml:  <GBSeq_organism>Streptomyces felleus</GBSeq_organism>

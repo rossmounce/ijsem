@@ -1,0 +1,19 @@
+./HM997087.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./AF506513.xml:  <GBSeq_organism>Ensifer americanum</GBSeq_organism>
+./AF250354.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./AY260149.xml:  <GBSeq_organism>Sinorhizobium fredii</GBSeq_organism>
+./AF364067.xml:  <GBSeq_organism>Sinorhizobium kummerowiae</GBSeq_organism>
+./GU593058.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./X68390.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AF191739.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./EU286550.xml:  <GBSeq_organism>Sinorhizobium chiapanecum</GBSeq_organism>
+./DQ411930.xml:  <GBSeq_organism>Ensifer mexicanus</GBSeq_organism>
+./GU593059.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./X68387.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./GU593060.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>
+./AY500255.xml:  <GBSeq_organism>Ensifer garamanticus</GBSeq_organism>
+./AY500254.xml:  <GBSeq_organism>Ensifer numidicus</GBSeq_organism>
+./X67222.xml:  <GBSeq_organism>Sinorhizobium meliloti</GBSeq_organism>
+./GU593061.xml:  <GBSeq_organism>Ensifer sojae CCBAU 05684</GBSeq_organism>
+./AY024335.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./GU593062.xml:  <GBSeq_organism>Ensifer sojae</GBSeq_organism>

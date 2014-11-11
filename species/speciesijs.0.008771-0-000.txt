@@ -1,0 +1,14 @@
+./EF126993.xml:  <GBSeq_organism>Flavobacterium cucumis</GBSeq_organism>
+./AM934651.xml:  <GBSeq_organism>Flavobacterium swingsii</GBSeq_organism>
+./AY904351.xml:  <GBSeq_organism>Flavobacterium indicum GPTSA100-9 = DSM 17447</GBSeq_organism>
+./AJ585428.xml:  <GBSeq_organism>Flavobacterium psychrolimnae</GBSeq_organism>
+./AJ811961.xml:  <GBSeq_organism>Flavobacterium fryxellicola</GBSeq_organism>
+./AM934666.xml:  <GBSeq_organism>Flavobacterium subsaxonicum</GBSeq_organism>
+./AM292800.xml:  <GBSeq_organism>Flavobacterium ceti</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AM934661.xml:  <GBSeq_organism>Flavobacterium rivuli</GBSeq_organism>
+./AF162266.xml:  <GBSeq_organism>Flavobacterium frigidarium</GBSeq_organism>
+./L39067.xml:  <GBSeq_organism>Flavobacterium hibernum</GBSeq_organism>
+./EF424395.xml:  <GBSeq_organism>Flavobacterium lindanitolerans CIP 109890</GBSeq_organism>
+./AF433174.xml:  <GBSeq_organism>Flavobacterium omnivorum</GBSeq_organism>
+./AM230492.xml:  <GBSeq_organism>Flavobacterium succinicans</GBSeq_organism>

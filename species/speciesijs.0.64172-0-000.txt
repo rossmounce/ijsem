@@ -1,0 +1,11 @@
+./AJ002797.xml:  <GBSeq_organism>Thiocapsa pendens</GBSeq_organism>
+./AJ441082.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./AM183347.xml:  <GBSeq_organism>Rheinheimera perlucida</GBSeq_organism>
+./AJ002006.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./AJ441080.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./X92130.xml:  <GBSeq_organism>Alkalimonas delamerensis</GBSeq_organism>
+./AY093457.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ233427.xml:  <GBSeq_organism>Serratia entomophila</GBSeq_organism>
+./AF250323.xml:  <GBSeq_organism>Alkalimonas amylolytica</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>
+./AJ002798.xml:  <GBSeq_organism>Thiocapsa rosea</GBSeq_organism>

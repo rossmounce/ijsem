@@ -1,0 +1,11 @@
+./EU543662.xml:  <GBSeq_organism>Kineococcus xinjiangensis</GBSeq_organism>
+./FM210338.xml:  <GBSeq_organism>Kineococcus rhizosphaerae</GBSeq_organism>
+./AB003931.xml:  <GBSeq_organism>Kineosporia aurantiaca JCM 3230</GBSeq_organism>
+./AY831385.xml:  <GBSeq_organism>Quadrisphaera granulorum</GBSeq_organism>
+./Y18646.xml:  <GBSeq_organism>Modestobacter multiseptatus</GBSeq_organism>
+./X92356.xml:  <GBSeq_organism>Geodermatophilus obscurus DSM 43160</GBSeq_organism>
+./FN824365.xml:  <GBSeq_organism>Pseudokineococcus lusitanus</GBSeq_organism>
+./D85465.xml:  <GBSeq_organism>Cryptosporangium arvum DSM 44712</GBSeq_organism>
+./Y08541.xml:  <GBSeq_organism>Nakamurella multipartita DSM 44233</GBSeq_organism>
+./AJ430193.xml:  <GBSeq_organism>Blastococcus aggregatus</GBSeq_organism>
+./EF667339.xml:  <GBSeq_organism>Kineococcus gynurae</GBSeq_organism>

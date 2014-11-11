@@ -1,0 +1,11 @@
+./AY848823.xml:  <GBSeq_organism>Winogradskyella poriferorum</GBSeq_organism>
+./U64013.xml:  <GBSeq_organism>Winogradskyella rapida</GBSeq_organism>
+./EU727254.xml:  <GBSeq_organism>Winogradskyella echinorum</GBSeq_organism>
+./AY521224.xml:  <GBSeq_organism>Winogradskyella epiphytica</GBSeq_organism>
+./DQ167239.xml:  <GBSeq_organism>Lacinutrix mariniflava</GBSeq_organism>
+./AB438962.xml:  <GBSeq_organism>Winogradskyella arenosi</GBSeq_organism>
+./DQ167238.xml:  <GBSeq_organism>Lacinutrix algicola</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>
+./AY521225.xml:  <GBSeq_organism>Winogradskyella eximia</GBSeq_organism>

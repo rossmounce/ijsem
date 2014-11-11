@@ -1,0 +1,14 @@
+./AM490632.xml:  <GBSeq_organism>Ochrobactrum rhizosphaerae</GBSeq_organism>
+./FR668303.xml:  <GBSeq_organism>Ochrobactrum pecoris</GBSeq_organism>
+./AM490617.xml:  <GBSeq_organism>Ochrobactrum thiophenivorans</GBSeq_organism>
+./AM490609.xml:  <GBSeq_organism>Ochrobactrum pituitosum</GBSeq_organism>
+./FR668302.xml:  <GBSeq_organism>Ochrobactrum pecoris</GBSeq_organism>
+./AY776289.xml:  <GBSeq_organism>Ochrobactrum cytisi</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AM490623.xml:  <GBSeq_organism>Ochrobactrum intermedium LMG 3301</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AM422370.xml:  <GBSeq_organism>Ochrobactrum haematophilum</GBSeq_organism>
+./AM041247.xml:  <GBSeq_organism>Ochrobactrum oryzae</GBSeq_organism>
+./AJ242584.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./AM490619.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AM422371.xml:  <GBSeq_organism>Ochrobactrum pseudogrignonense</GBSeq_organism>

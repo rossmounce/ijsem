@@ -1,0 +1,7 @@
+./DQ641240.xml:  <GBSeq_organism>Metschnikowia lochheadii</GBSeq_organism>
+./EU143316.xml:  <GBSeq_organism>Metschnikowia sp. MUCL45753</GBSeq_organism>
+./DQ641237.xml:  <GBSeq_organism>Metschnikowia cerradonensis</GBSeq_organism>
+./DQ641241.xml:  <GBSeq_organism>Metschnikowia sp. UWOPS00-154.1</GBSeq_organism>
+./DQ641238.xml:  <GBSeq_organism>Metschnikowia continentalis</GBSeq_organism>
+./DQ641239.xml:  <GBSeq_organism>Metschnikowia hawaiiensis</GBSeq_organism>
+./DQ641243.xml:  <GBSeq_organism>Metschnikowia borealis</GBSeq_organism>

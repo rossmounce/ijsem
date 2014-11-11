@@ -1,0 +1,14 @@
+./X91814.xml:  <GBSeq_organism>Sphingobacterium comitans</GBSeq_organism>
+./AF494539.xml:  <GBSeq_organism>benzo[a]pyrene-degrading bacterium BPC8</GBSeq_organism>
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./DQ195834.xml:  <GBSeq_organism>Bacteroidetes bacterium SM23</GBSeq_organism>
+./AB100738.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./AJ438176.xml:  <GBSeq_organism>Sphingobacterium faecium</GBSeq_organism>
+./AM114396.xml:  <GBSeq_organism>Pedobacter aquatilis</GBSeq_organism>
+./AJ438170.xml:  <GBSeq_organism>Pedobacter cryoconitis</GBSeq_organism>
+./AY838484.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AJ786798.xml:  <GBSeq_organism>Pedobacter caeni</GBSeq_organism>
+./M38174.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./DQ112353.xml:  <GBSeq_organism>Pedobacter roseus</GBSeq_organism>
+./AJ438171.xml:  <GBSeq_organism>Pedobacter africanus</GBSeq_organism>

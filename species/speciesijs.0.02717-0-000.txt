@@ -1,0 +1,27 @@
+./AF141328.xml:  <GBSeq_organism>sulfate-reducing bacterium AK-01</GBSeq_organism>
+./AF468969.xml:  <GBSeq_organism>delta proteobacterium S2552</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./Y17286.xml:  <GBSeq_organism>Desulfosarcina ovata</GBSeq_organism>
+./AF148141.xml:  <GBSeq_organism>delta proteobacterium S2550</GBSeq_organism>
+./Y17501.xml:  <GBSeq_organism>delta proteobacterium Pnd3</GBSeq_organism>
+./X83274.xml:  <GBSeq_organism>Desulforhabdus amnigena</GBSeq_organism>
+./X96726.xml:  <GBSeq_organism>Thermodesulfovibrio islandicus</GBSeq_organism>
+./U12254.xml:  <GBSeq_organism>Desulfobacter vibrioformis</GBSeq_organism>
+./X95180.xml:  <GBSeq_organism>Desulfobulbus elongatus</GBSeq_organism>
+./M34407.xml:  <GBSeq_organism>Desulfosarcina variabilis</GBSeq_organism>
+./Y17698.xml:  <GBSeq_organism>Desulfococcus oleovorans Hxd3</GBSeq_organism>
+./L42613.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./AF022936.xml:  <GBSeq_organism>Desulfocella halophila</GBSeq_organism>
+./AJ237605.xml:  <GBSeq_organism>Syntrophobacter sp.</GBSeq_organism>
+./AF418173.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AF230531.xml:  <GBSeq_organism>Desulfomonile limimaris</GBSeq_organism>
+./X70953.xml:  <GBSeq_organism>Desulfobacula toluolica Tol2</GBSeq_organism>
+./AF099063.xml:  <GBSeq_organism>Desulfofaba gelida</GBSeq_organism>
+./AY184360.xml:  <GBSeq_organism>Desulfatibacillum aliphaticivorans</GBSeq_organism>
+./AJ132804.xml:  <GBSeq_organism>delta proteobacterium NaphS2</GBSeq_organism>
+./AJ006853.xml:  <GBSeq_organism>sulfate-reducing bacterium mXyS1</GBSeq_organism>
+./U45990.xml:  <GBSeq_organism>Desulfonema limicola str. Jadebusen</GBSeq_organism>
+./AF177428.xml:  <GBSeq_organism>delta proteobacterium S2551</GBSeq_organism>
+./AF030438.xml:  <GBSeq_organism>Desulfomicrobium baculatum DSM 4028</GBSeq_organism>
+./X80922.xml:  <GBSeq_organism>Desulfothermus naphthae</GBSeq_organism>
+./X99234.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AF161069.xml:  <GBSeq_organism>Thermanaerovibrio velox</GBSeq_organism>
+./U52817.xml:  <GBSeq_organism>Dethiosulfovibrio peptidovorans DSM 11002</GBSeq_organism>
+./AF022248.xml:  <GBSeq_organism>Syntrophomonas wolfei</GBSeq_organism>
+./U50711.xml:  <GBSeq_organism>Anaerobaculum thermoterrenum</GBSeq_organism>
+./X99980.xml:  <GBSeq_organism>Thermosyntropha lipolytica</GBSeq_organism>
+./AY061974.xml:  <GBSeq_organism>Carboxydocella thermautotrophica</GBSeq_organism>
+./M26491.xml:  <GBSeq_organism>Syntrophomonas bryantii</GBSeq_organism>
+./AF069287.xml:  <GBSeq_organism>Aminobacterium colombiense DSM 12261</GBSeq_organism>
+./AF130258.xml:  <GBSeq_organism>Caldicellulosiruptor saccharolyticus</GBSeq_organism>
+./AJ251214.xml:  <GBSeq_organism>Pelospora glutarica</GBSeq_organism>
+./AF234544.xml:  <GBSeq_organism>Dethiosulfovibrio marinus</GBSeq_organism>
+./AF234542.xml:  <GBSeq_organism>Dethiosulfovibrio russensis</GBSeq_organism>
+./AJ243189.xml:  <GBSeq_organism>Anaerobaculum mobile DSM 13181</GBSeq_organism>
+./AF072581.xml:  <GBSeq_organism>Aminomonas paucivorans DSM 12260</GBSeq_organism>
+./AY005466.xml:  <GBSeq_organism>Dethiosulfovibrio acidaminovorans</GBSeq_organism>

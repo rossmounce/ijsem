@@ -1,0 +1,18 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY850119.xml:  <GBSeq_organism>Dialister propionicifaciens</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X81878.xml:  <GBSeq_organism>Mitsuokella multacida DSM 20544</GBSeq_organism>
+./AY162469.xml:  <GBSeq_organism>Dialister invisus DSM 15470</GBSeq_organism>
+./AF338413.xml:  <GBSeq_organism>Anaeroglobus geminatus</GBSeq_organism>
+./AF473837.xml:  <GBSeq_organism>Dialister micraerophilus DSM 19965</GBSeq_organism>
+./AF548373.xml:  <GBSeq_organism>Allisonella histaminiformans</GBSeq_organism>
+./DQ796597.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X82500.xml:  <GBSeq_organism>Dialister pneumosintes</GBSeq_organism>
+./M11212.xml:  <GBSeq_organism>Heliobacterium chlorum</GBSeq_organism>
+./X84005.xml:  <GBSeq_organism>Veillonella parvula DSM 2008</GBSeq_organism>
+./U95027.xml:  <GBSeq_organism>Megasphaera elsdenii DSM 20460</GBSeq_organism>
+./X65935.xml:  <GBSeq_organism>Acidaminococcus fermentans DSM 20731</GBSeq_organism>
+./AF373025.xml:  <GBSeq_organism>Zymophilus paucivorans</GBSeq_organism>
+./AB370249.xml:  <GBSeq_organism>Dialister succinatiphilus YIT 11850</GBSeq_organism>
+./X72865.xml:  <GBSeq_organism>Phascolarctobacterium faecium</GBSeq_organism>
+./EF405367.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

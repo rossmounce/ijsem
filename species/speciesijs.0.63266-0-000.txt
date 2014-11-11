@@ -1,0 +1,11 @@
+./AY369116.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AY445815.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AB107638.xml:  <GBSeq_organism>Lactobacillus kitasatonis</GBSeq_organism>
+./AF257097.xml:  <GBSeq_organism>Lactobacillus crispatus</GBSeq_organism>
+./M58802.xml:  <GBSeq_organism>Lactobacillus acidophilus</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./AF519171.xml:  <GBSeq_organism>Lactobacillus gasseri ATCC 33323 = JCM 1131</GBSeq_organism>
+./AJ242968.xml:  <GBSeq_organism>Lactobacillus gallinarum</GBSeq_organism>
+./AY644397.xml:  <GBSeq_organism>Lactobacillus helveticus</GBSeq_organism>
+./AY029223.xml:  <GBSeq_organism>Lactobacillus sp. Y10</GBSeq_organism>
+./M58805.xml:  <GBSeq_organism>Lactobacillus amylovorus</GBSeq_organism>

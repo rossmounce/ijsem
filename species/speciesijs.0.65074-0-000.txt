@@ -1,0 +1,9 @@
+./AB081768.xml:  <GBSeq_organism>Shewanella sairae</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB193757.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./AB193751.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AB245514.xml:  <GBSeq_organism>Ferrimonas kyonanensis</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./EF015634.xml:  <GBSeq_organism>Ferrimonas senticii</GBSeq_organism>
+./AB083953.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AB193765.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>

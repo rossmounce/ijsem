@@ -1,0 +1,20 @@
+./AF509829.xml:  <GBSeq_organism>Acinetobacter gerneri</GBSeq_organism>
+./AF509823.xml:  <GBSeq_organism>Acinetobacter towneri</GBSeq_organism>
+./Z93438.xml:  <GBSeq_organism>Acinetobacter junii</GBSeq_organism>
+./AF509826.xml:  <GBSeq_organism>Acinetobacter tjernbergiae</GBSeq_organism>
+./AJ275038.xml:  <GBSeq_organism>Acinetobacter ursingii DSM 16037 = CIP 107286</GBSeq_organism>
+./AF005160.xml:  <GBSeq_organism>Moraxella lacunata</GBSeq_organism>
+./U39399.xml:  <GBSeq_organism>Psychrobacter immobilis</GBSeq_organism>
+./AF509824.xml:  <GBSeq_organism>Acinetobacter towneri</GBSeq_organism>
+./X81661.xml:  <GBSeq_organism>Acinetobacter calcoaceticus DSM 30006 = CIP 81.8</GBSeq_organism>
+./AF509825.xml:  <GBSeq_organism>Acinetobacter tjernbergiae</GBSeq_organism>
+./AF509827.xml:  <GBSeq_organism>Acinetobacter bouvetii</GBSeq_organism>
+./AF509820.xml:  <GBSeq_organism>Acinetobacter baylyi DSM 14961 = CIP 107474</GBSeq_organism>
+./AF509821.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./AJ295007.xml:  <GBSeq_organism>Acinetobacter venetianus</GBSeq_organism>
+./AF509831.xml:  <GBSeq_organism>Acinetobacter johnsonii</GBSeq_organism>
+./AF509832.xml:  <GBSeq_organism>Acinetobacter guillouiae</GBSeq_organism>
+./AF509822.xml:  <GBSeq_organism>Acinetobacter baylyi</GBSeq_organism>
+./AF509828.xml:  <GBSeq_organism>Acinetobacter junii</GBSeq_organism>
+./AF509830.xml:  <GBSeq_organism>Acinetobacter tandoii</GBSeq_organism>
+./Z93441.xml:  <GBSeq_organism>Acinetobacter lwoffii</GBSeq_organism>

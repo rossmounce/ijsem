@@ -1,0 +1,6 @@
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./DQ129343.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X62172.xml:  <GBSeq_organism>Planococcus citreus</GBSeq_organism>
+./AM114102.xml:  <GBSeq_organism>Paucisalibacillus globulus</GBSeq_organism>
+./X76442.xml:  <GBSeq_organism>Bacillus sp.</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

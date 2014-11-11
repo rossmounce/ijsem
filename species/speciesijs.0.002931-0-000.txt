@@ -1,0 +1,16 @@
+./AB021186.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./EF675742.xml:  <GBSeq_organism>Virgibacillus arcticus</GBSeq_organism>
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./X60627.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./X94558.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AB197851.xml:  <GBSeq_organism>Virgibacillus salarius</GBSeq_organism>
+./AY822043.xml:  <GBSeq_organism>Virgibacillus dokdonensis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./EF101168.xml:  <GBSeq_organism>Virgibacillus chiguensis</GBSeq_organism>
+./AJ316302.xml:  <GBSeq_organism>Virgibacillus carmonensis</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ139839.xml:  <GBSeq_organism>Virgibacillus olivae</GBSeq_organism>
+./Y11603.xml:  <GBSeq_organism>Virgibacillus salexigens</GBSeq_organism>

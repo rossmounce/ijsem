@@ -1,0 +1,17 @@
+./L34626.xml:  <GBSeq_organism>Eubacterium uniforme</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./X53218.xml:  <GBSeq_organism>Propionibacterium acnes</GBSeq_organism>
+./M99574.xml:  <GBSeq_organism>Epulopiscium sp.</GBSeq_organism>
+./L76604.xml:  <GBSeq_organism>Ruminococcus torques ATCC 27756</GBSeq_organism>
+./AJ270487.xml:  <GBSeq_organism>Anaerostipes caccae</GBSeq_organism>
+./AF445285.xml:  <GBSeq_organism>Robinsoniella peoriensis</GBSeq_organism>
+./Y18185.xml:  <GBSeq_organism>[Clostridium] saccharolyticum WM1</GBSeq_organism>
+./AF020431.xml:  <GBSeq_organism>Lachnoclostridium phytofermentans ISDg</GBSeq_organism>
+./X77841.xml:  <GBSeq_organism>[Clostridium] propionicum DSM 1682</GBSeq_organism>
+./L14676.xml:  <GBSeq_organism>Roseburia cecicola</GBSeq_organism>
+./L14675.xml:  <GBSeq_organism>Lachnospira pectinoschiza</GBSeq_organism>
+./X76746.xml:  <GBSeq_organism>[Clostridium] neopropionicum</GBSeq_organism>
+./X71851.xml:  <GBSeq_organism>Clostridium lentocellum DSM 5427</GBSeq_organism>
+./L34418.xml:  <GBSeq_organism>[Clostridium] herbivorans</GBSeq_organism>
+./L76597.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>
+./EF382648.xml:  <GBSeq_organism>Cellulosilyticum ruminicola</GBSeq_organism>

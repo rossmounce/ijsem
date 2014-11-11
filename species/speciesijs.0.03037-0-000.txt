@@ -1,0 +1,21 @@
+./AF189928.xml:  <GBSeq_organism>Curvibasidium cygneicollum</GBSeq_organism>
+./AF444730.xml:  <GBSeq_organism>Rhodotorula sp. CBS 8446</GBSeq_organism>
+./AY212991.xml:  <GBSeq_organism>Camptobasidium hydrophilum</GBSeq_organism>
+./AF444736.xml:  <GBSeq_organism>Rhodotorula nothofagi</GBSeq_organism>
+./AF075485.xml:  <GBSeq_organism>Cryptococcus diffluens</GBSeq_organism>
+./AF189974.xml:  <GBSeq_organism>Sphacelotheca polygoni-persicariae</GBSeq_organism>
+./AF075471.xml:  <GBSeq_organism>Rhodotorula philyla</GBSeq_organism>
+./AF189905.xml:  <GBSeq_organism>Kriegeria eriophori</GBSeq_organism>
+./AF189934.xml:  <GBSeq_organism>Rhodotorula ingeniosa</GBSeq_organism>
+./AF444731.xml:  <GBSeq_organism>Rhodotorula sp. CBS 8447</GBSeq_organism>
+./AF070436.xml:  <GBSeq_organism>Sporidiobolus microsporus</GBSeq_organism>
+./AF459706.xml:  <GBSeq_organism>Rhodotorula ingeniosa</GBSeq_organism>
+./AF070425.xml:  <GBSeq_organism>Rhodosporidium sphaerocarpum</GBSeq_organism>
+./AF189925.xml:  <GBSeq_organism>Leucosporidiella creatinivora</GBSeq_organism>
+./AF207884.xml:  <GBSeq_organism>Rhodosporidium toruloides</GBSeq_organism>
+./AF070441.xml:  <GBSeq_organism>Sporobolomyces roseus</GBSeq_organism>
+./AY212993.xml:  <GBSeq_organism>Leucosporidium fasciculatum</GBSeq_organism>
+./AF189950.xml:  <GBSeq_organism>Rhodotorula nothofagi</GBSeq_organism>
+./AF485988.xml:  <GBSeq_organism>Rhodotorula nothofagi</GBSeq_organism>
+./AF189900.xml:  <GBSeq_organism>Hyalopycnis blepharistoma</GBSeq_organism>
+./AY383750.xml:  <GBSeq_organism>Rhodotorula ingeniosa</GBSeq_organism>

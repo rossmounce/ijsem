@@ -1,0 +1,10 @@
+./AM419466.xml:  <GBSeq_organism>Alloscardovia omnicolens</GBSeq_organism>
+./GU301684.xml:  <GBSeq_organism>Scardovia wiggsiae</GBSeq_organism>
+./AY339131.xml:  <GBSeq_organism>Aeriscardovia aeriphila</GBSeq_organism>
+./AF240565.xml:  <GBSeq_organism>Parascardovia denticolens DSM 10105 = JCM 12538</GBSeq_organism>
+./GU301685.xml:  <GBSeq_organism>Scardovia wiggsiae</GBSeq_organism>
+./GU301689.xml:  <GBSeq_organism>Scardovia wiggsiae</GBSeq_organism>
+./GU301688.xml:  <GBSeq_organism>Scardovia wiggsiae</GBSeq_organism>
+./GU301686.xml:  <GBSeq_organism>Scardovia wiggsiae</GBSeq_organism>
+./GU301687.xml:  <GBSeq_organism>Scardovia wiggsiae</GBSeq_organism>
+./AF240579.xml:  <GBSeq_organism>Gardnerella vaginalis ATCC 14018 = JCM 11026</GBSeq_organism>

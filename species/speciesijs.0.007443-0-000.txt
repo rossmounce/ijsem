@@ -1,0 +1,27 @@
+./D88005.xml:  <GBSeq_organism>Achromobacter xylosoxidans</GBSeq_organism>
+./U04950.xml:  <GBSeq_organism>Bordetella pertussis</GBSeq_organism>
+./AY569460.xml:  <GBSeq_organism>Advenella sp. R-20007</GBSeq_organism>
+./AJ251911.xml:  <GBSeq_organism>Oligella urethralis</GBSeq_organism>
+./AB188124.xml:  <GBSeq_organism>Azohydromonas australica</GBSeq_organism>
+./AF177666.xml:  <GBSeq_organism>Bordetella avium</GBSeq_organism>
+./X68645.xml:  <GBSeq_organism>Taylorella equigenitalis ATCC 35865</GBSeq_organism>
+./AB188125.xml:  <GBSeq_organism>Azohydromonas lata</GBSeq_organism>
+./AY131213.xml:  <GBSeq_organism>Kerstersia gyiorum</GBSeq_organism>
+./AJ249861.xml:  <GBSeq_organism>Bordetella petrii</GBSeq_organism>
+./L37785.xml:  <GBSeq_organism>Sutterella wadsworthensis</GBSeq_organism>
+./AJ864470.xml:  <GBSeq_organism>Advenella kashmirensis</GBSeq_organism>
+./AY569461.xml:  <GBSeq_organism>Advenella sp. R-20008</GBSeq_organism>
+./AJ005447.xml:  <GBSeq_organism>Castellaniella defragrans</GBSeq_organism>
+./D88008.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./U04948.xml:  <GBSeq_organism>Bordetella bronchiseptica</GBSeq_organism>
+./U82826.xml:  <GBSeq_organism>Castellaniella denitrificans</GBSeq_organism>
+./AY296718.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. phenolicus</GBSeq_organism>
+./AF282916.xml:  <GBSeq_organism>Pigmentiphaga kullae</GBSeq_organism>
+./AY569459.xml:  <GBSeq_organism>Advenella sp. R-18191</GBSeq_organism>
+./AJ242986.xml:  <GBSeq_organism>Alcaligenes faecalis subsp. parafaecalis</GBSeq_organism>
+./AF155147.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AB010841.xml:  <GBSeq_organism>Achromobacter piechaudii</GBSeq_organism>
+./AM944734.xml:  <GBSeq_organism>Advenella incenata</GBSeq_organism>
+./AY880023.xml:  <GBSeq_organism>Advenella mimigardefordensis DPN7</GBSeq_organism>
+./AJ278451.xml:  <GBSeq_organism>Achromobacter denitrificans</GBSeq_organism>
+./AF067729.xml:  <GBSeq_organism>Taylorella asinigenitalis</GBSeq_organism>

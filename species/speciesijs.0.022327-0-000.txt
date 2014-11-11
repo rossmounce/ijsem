@@ -1,0 +1,14 @@
+./AF454510.xml:  <GBSeq_organism>Pseudonocardia chloroethenivorans</GBSeq_organism>
+./AJ249206.xml:  <GBSeq_organism>Pseudonocardia spinosispora</GBSeq_organism>
+./D85472.xml:  <GBSeq_organism>Pseudonocardia yunnanensis</GBSeq_organism>
+./EU722519.xml:  <GBSeq_organism>Pseudonocardia alaniniphila</GBSeq_organism>
+./FJ805426.xml:  <GBSeq_organism>Pseudonocardia eucalypti</GBSeq_organism>
+./EU722520.xml:  <GBSeq_organism>Pseudonocardia xinjiangensis</GBSeq_organism>
+./AF325725.xml:  <GBSeq_organism>Pseudonocardia zijingensis</GBSeq_organism>
+./EU921261.xml:  <GBSeq_organism>Pseudonocardia acaciae DSM 45401</GBSeq_organism>
+./EF588218.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AF325727.xml:  <GBSeq_organism>Pseudonocardia aurantiaca</GBSeq_organism>
+./Y08536.xml:  <GBSeq_organism>Pseudonocardia asaccharolytica</GBSeq_organism>
+./X80596.xml:  <GBSeq_organism>Pseudonocardia petroleophila</GBSeq_organism>
+./AJ252829.xml:  <GBSeq_organism>Pseudonocardia saturnea</GBSeq_organism>
+./AY207604.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>

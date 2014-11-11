@@ -1,0 +1,35 @@
+./Y16388.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./X76426.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./L76865.xml:  <GBSeq_organism>Candidatus Phytoplasma australiense</GBSeq_organism>
+./Y10097.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AB052871.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AJ289192.xml:  <GBSeq_organism>Stylosanthes little leaf phytoplasma</GBSeq_organism>
+./AF361013.xml:  <GBSeq_organism>Branchiostoma floridae</GBSeq_organism>
+./AB054986.xml:  <GBSeq_organism>Candidatus Phytoplasma castaneae</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./U18747.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./Y15865.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF248956.xml:  <GBSeq_organism>Loofah witches&apos;-broom phytoplasma</GBSeq_organism>
+./AY083605.xml:  <GBSeq_organism>Buckland Valley grapevine yellows phytoplasma</GBSeq_organism>
+./AF248959.xml:  <GBSeq_organism>Candidatus Phytoplasma solani</GBSeq_organism>
+./X83438.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AF515636.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./AJ289195.xml:  <GBSeq_organism>Vigna little leaf phytoplasma</GBSeq_organism>
+./L04682.xml:  <GBSeq_organism>Western X phytoplasma</GBSeq_organism>
+./X76429.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./U15442.xml:  <GBSeq_organism>Candidatus Phytoplasma aurantifolia</GBSeq_organism>
+./AB509322.xml:  <GBSeq_organism>uncultured planctomycete</GBSeq_organism>
+./X76560.xml:  <GBSeq_organism>Mycoplasma sp.</GBSeq_organism>
+./L33761.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./U18763.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./Y16391.xml:  <GBSeq_organism>Bindweed yellows phytoplasma</GBSeq_organism>
+./AF495882.xml:  <GBSeq_organism>Chinaberry yellows phytoplasma</GBSeq_organism>
+./AF521672.xml:  <GBSeq_organism>Weeping tea tree witches&apos;-broom phytoplasma</GBSeq_organism>
+./Y13912.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF147708.xml:  <GBSeq_organism>Candidatus Phytoplasma brasiliense</GBSeq_organism>
+./X68373.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AF122910.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AY034608.xml:  <GBSeq_organism>Erigeron witches&apos;-broom phytoplasma</GBSeq_organism>

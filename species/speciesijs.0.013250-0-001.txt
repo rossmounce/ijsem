@@ -1,0 +1,12 @@
+./X77215.xml:  <GBSeq_organism>Holophaga foetida DSM 6591</GBSeq_organism>
+./AF498724.xml:  <GBSeq_organism>bacterium Ellin342</GBSeq_organism>
+./AM162405.xml:  <GBSeq_organism>Bryobacter aggregatus MPL3</GBSeq_organism>
+./U41563.xml:  <GBSeq_organism>Geothrix fermentans</GBSeq_organism>
+./AM887762.xml:  <GBSeq_organism>Bryobacter aggregatus</GBSeq_organism>
+./AY234418.xml:  <GBSeq_organism>bacterium Ellin5001</GBSeq_organism>
+./AM887761.xml:  <GBSeq_organism>Bryobacter aggregatus</GBSeq_organism>
+./AF498753.xml:  <GBSeq_organism>bacterium Ellin371</GBSeq_organism>
+./AF498719.xml:  <GBSeq_organism>bacterium Ellin337</GBSeq_organism>
+./AY587230.xml:  <GBSeq_organism>Acidobacteriaceae bacterium TAA166</GBSeq_organism>
+./CP000473.xml:  <GBSeq_organism>Candidatus Solibacter usitatus Ellin6076</GBSeq_organism>
+./AY234767.xml:  <GBSeq_organism>bacterium Ellin6115</GBSeq_organism>

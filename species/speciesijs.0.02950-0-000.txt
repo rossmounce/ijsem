@@ -1,0 +1,9 @@
+./Y09806.xml:  <GBSeq_organism>Corynebacterium mastitidis</GBSeq_organism>
+./X84249.xml:  <GBSeq_organism>Corynebacterium renale</GBSeq_organism>
+./X83955.xml:  <GBSeq_organism>Corynebacterium argentoratense</GBSeq_organism>
+./AJ566641.xml:  <GBSeq_organism>Corynebacterium caspium</GBSeq_organism>
+./AJ401282.xml:  <GBSeq_organism>Corynebacterium felinum</GBSeq_organism>
+./X84248.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X84443.xml:  <GBSeq_organism>Corynebacterium matruchotii</GBSeq_organism>
+./Y10077.xml:  <GBSeq_organism>Corynebacterium kroppenstedtii DSM 44385</GBSeq_organism>
+./X81871.xml:  <GBSeq_organism>Corynebacterium kutscheri</GBSeq_organism>

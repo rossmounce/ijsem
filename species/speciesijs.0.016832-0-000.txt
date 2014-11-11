@@ -1,0 +1,16 @@
+./AJ227785.xml:  <GBSeq_organism>Brevundimonas alba</GBSeq_organism>
+./AJ227799.xml:  <GBSeq_organism>Brevundimonas sp. MCS17</GBSeq_organism>
+./FN397631.xml:  <GBSeq_organism>Brevundimonas sp. CM 272</GBSeq_organism>
+./AJ227778.xml:  <GBSeq_organism>Brevundimonas diminuta ATCC 11568</GBSeq_organism>
+./AJ227782.xml:  <GBSeq_organism>Brevundimonas bacteroides</GBSeq_organism>
+./AJ227797.xml:  <GBSeq_organism>Brevundimonas poindexterae</GBSeq_organism>
+./FN397632.xml:  <GBSeq_organism>Brevundimonas sp. CM 282</GBSeq_organism>
+./M83810.xml:  <GBSeq_organism>Brevundimonas halotolerans</GBSeq_organism>
+./FN397633.xml:  <GBSeq_organism>Brevundimonas sp. MCS 35</GBSeq_organism>
+./EU143355.xml:  <GBSeq_organism>Brevundimonas basaltis</GBSeq_organism>
+./AJ227780.xml:  <GBSeq_organism>Brevundimonas vesicularis</GBSeq_organism>
+./AY971868.xml:  <GBSeq_organism>Gonatocerus annulicornis</GBSeq_organism>
+./AJ227783.xml:  <GBSeq_organism>Brevundimonas variabilis</GBSeq_organism>
+./AJ227798.xml:  <GBSeq_organism>Brevundimonas staleyi</GBSeq_organism>
+./EF363713.xml:  <GBSeq_organism>Brevundimonas lenta</GBSeq_organism>
+./FN397630.xml:  <GBSeq_organism>Brevundimonas sp. CM 260</GBSeq_organism>

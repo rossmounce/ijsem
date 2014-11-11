@@ -1,0 +1,13 @@
+./AY253863.xml:  <GBSeq_organism>Kribbella flavida</GBSeq_organism>
+./AY195147.xml:  <GBSeq_organism>Human immunodeficiency virus 1</GBSeq_organism>
+./AY253864.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AB245391.xml:  <GBSeq_organism>Kribbella ginsengisoli</GBSeq_organism>
+./EF126969.xml:  <GBSeq_organism>Kribbella aluminosa</GBSeq_organism>
+./AY253865.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./EF126968.xml:  <GBSeq_organism>Kribbella aluminosa</GBSeq_organism>
+./AJ811962.xml:  <GBSeq_organism>Kribbella lupini</GBSeq_organism>
+./EF126967.xml:  <GBSeq_organism>Kribbella aluminosa</GBSeq_organism>
+./AY995146.xml:  <GBSeq_organism>Kribbella karoonensis</GBSeq_organism>
+./AY082061.xml:  <GBSeq_organism>Kribbella yunnanensis</GBSeq_organism>
+./AY253862.xml:  <GBSeq_organism>Kribbella solani</GBSeq_organism>
+./AY253866.xml:  <GBSeq_organism>Kribbella jejuensis</GBSeq_organism>

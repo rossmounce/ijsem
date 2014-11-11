@@ -1,0 +1,24 @@
+./AF066862.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./EF204594.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./AF508017.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./EF204592.xml:  <GBSeq_organism>Helicobacter suis HS1</GBSeq_organism>
+./AF508007.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508010.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508003.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AF508005.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AY368261.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./EF070340.xml:  <GBSeq_organism>Helicobacter cynogastricus</GBSeq_organism>
+./AF507996.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./EF070343.xml:  <GBSeq_organism>Helicobacter baculiformis</GBSeq_organism>
+./AY368264.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AF508002.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AY368266.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./L33462.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AF508013.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508000.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508012.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508004.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./EF204593.xml:  <GBSeq_organism>Helicobacter suis</GBSeq_organism>
+./AY368262.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AF508011.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF507999.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>

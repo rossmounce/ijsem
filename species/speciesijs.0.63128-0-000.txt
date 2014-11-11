@@ -1,0 +1,14 @@
+./X73436.xml:  <GBSeq_organism>[Clostridium] aminovalericum</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./AY494606.xml:  <GBSeq_organism>[Clostridium] jejuense DSM 15929</GBSeq_organism>
+./X76163.xml:  <GBSeq_organism>[Clostridium] aerotolerans</GBSeq_organism>
+./X71853.xml:  <GBSeq_organism>[Clostridium] populeti</GBSeq_organism>
+./X73443.xml:  <GBSeq_organism>Tyzzerella nexilis DSM 1787</GBSeq_organism>
+./L34628.xml:  <GBSeq_organism>Eubacterium xylanophilum</GBSeq_organism>
+./AF116920.xml:  <GBSeq_organism>[Clostridium] xylanovorans</GBSeq_organism>
+./X73449.xml:  <GBSeq_organism>[Clostridium] sphenoides JCM 1415</GBSeq_organism>
+./Y18185.xml:  <GBSeq_organism>[Clostridium] saccharolyticum WM1</GBSeq_organism>
+./X71855.xml:  <GBSeq_organism>[Clostridium] xylanolyticum</GBSeq_organism>
+./M59109.xml:  <GBSeq_organism>[Clostridium] oroticum</GBSeq_organism>
+./X77839.xml:  <GBSeq_organism>[Clostridium] polysaccharolyticum</GBSeq_organism>
+./L34418.xml:  <GBSeq_organism>[Clostridium] herbivorans</GBSeq_organism>

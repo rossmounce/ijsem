@@ -1,0 +1,7 @@
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./AB045012.xml:  <GBSeq_organism>Halobiforma nitratireducens</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AM269467.xml:  <GBSeq_organism>Halovivax ruber XH-70</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./AM039978.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AF333760.xml:  <GBSeq_organism>Halobiforma haloterrestris</GBSeq_organism>

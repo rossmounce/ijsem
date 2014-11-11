@@ -1,0 +1,9 @@
+./AY455809.xml:  <GBSeq_organism>Thiomonas intermedia</GBSeq_organism>
+./AB009828.xml:  <GBSeq_organism>Hydrogenophilus thermoluteolus</GBSeq_organism>
+./M79426.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./AJ131694.xml:  <GBSeq_organism>Hydrogenophilus hirschii</GBSeq_organism>
+./U27839.xml:  <GBSeq_organism>Thiomonas thermosulfata</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./EU625664.xml:  <GBSeq_organism>Hydrogenophilus islandicus</GBSeq_organism>
+./AB070983.xml:  <GBSeq_organism>Nitrosomonas europaea</GBSeq_organism>
+./D16208.xml:  <GBSeq_organism>Rhodocyclus tenuis DSM 109</GBSeq_organism>

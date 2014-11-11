@@ -1,0 +1,12 @@
+./AJ536198.xml:  <GBSeq_organism>Micrococcus luteus</GBSeq_organism>
+./X80748.xml:  <GBSeq_organism>Arthrobacter agilis</GBSeq_organism>
+./AJ344143.xml:  <GBSeq_organism>Citricoccus muralis</GBSeq_organism>
+./X87754.xml:  <GBSeq_organism>Kocuria varians</GBSeq_organism>
+./EU305672.xml:  <GBSeq_organism>Citricoccus zhacaiensis</GBSeq_organism>
+./AY376164.xml:  <GBSeq_organism>Citricoccus alkalitolerans</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>

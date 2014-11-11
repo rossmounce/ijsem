@@ -1,0 +1,12 @@
+./AB081766.xml:  <GBSeq_organism>Shewanella schlegeliana</GBSeq_organism>
+./AB081768.xml:  <GBSeq_organism>Shewanella sairae</GBSeq_organism>
+./AF005669.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AF007283.xml:  <GBSeq_organism>Pseudoalteromonas tetraodonis</GBSeq_organism>
+./AF005257.xml:  <GBSeq_organism>Shewanella amazonensis SB2B</GBSeq_organism>
+./AY842130.xml:  <GBSeq_organism>Shewanella sediminis</GBSeq_organism>
+./AF005686.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AF014944.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./AF005693.xml:  <GBSeq_organism>Shewanella hanedai</GBSeq_organism>
+./AF005694.xml:  <GBSeq_organism>Shewanella oneidensis MR-1</GBSeq_organism>
+./AF014945.xml:  <GBSeq_organism>Shewanella pealeana</GBSeq_organism>
+./AF014949.xml:  <GBSeq_organism>Shewanella benthica</GBSeq_organism>

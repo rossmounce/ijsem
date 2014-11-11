@@ -1,0 +1,14 @@
+./X99553.xml:  <GBSeq_organism>Hyperthermus butylicus DSM 5456</GBSeq_organism>
+./X99560.xml:  <GBSeq_organism>Staphylothermus marinus F1</GBSeq_organism>
+./M32504.xml:  <GBSeq_organism>Sulfolobus shibatae B12</GBSeq_organism>
+./X99559.xml:  <GBSeq_organism>Pyrodictium abyssi DSM 6158</GBSeq_organism>
+./M36474.xml:  <GBSeq_organism>Desulfurococcus mobilis</GBSeq_organism>
+./AB008745.xml:  <GBSeq_organism>Aeropyrum pernix</GBSeq_organism>
+./M21089.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./X90478.xml:  <GBSeq_organism>Sulfolobus solfataricus</GBSeq_organism>
+./Y07784.xml:  <GBSeq_organism>Stetteria hydrogenophila</GBSeq_organism>
+./AB109559.xml:  <GBSeq_organism>Aeropyrum camini SY1 = JCM 12091</GBSeq_organism>
+./X99562.xml:  <GBSeq_organism>Ignicoccus islandicus DSM 13165</GBSeq_organism>
+./M59932.xml:  <GBSeq_organism>Methanopyrus kandleri</GBSeq_organism>
+./X99554.xml:  <GBSeq_organism>Thermodiscus maritimus</GBSeq_organism>
+./X99555.xml:  <GBSeq_organism>Pyrolobus fumarii 1A</GBSeq_organism>

@@ -1,0 +1,14 @@
+./AM085477.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./AB078055.xml:  <GBSeq_organism>Chitinophaga japonensis</GBSeq_organism>
+./D12657.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./AJ863367.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M58790.xml:  <GBSeq_organism>Haliscomenobacter hydrossis</GBSeq_organism>
+./DQ202140.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AF039294.xml:  <GBSeq_organism>Lewinella nigricans</GBSeq_organism>
+./AB078063.xml:  <GBSeq_organism>Flexibacter roseolus</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AJ971483.xml:  <GBSeq_organism>Cohnella thermotolerans</GBSeq_organism>
+./AB078065.xml:  <GBSeq_organism>Flexibacter ruber</GBSeq_organism>

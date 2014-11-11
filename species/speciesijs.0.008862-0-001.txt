@@ -1,0 +1,11 @@
+./EF178692.xml:  <GBSeq_organism>Streptomyces glomeroaurantiacus</GBSeq_organism>
+./EU812170.xml:  <GBSeq_organism>Streptomyces silaceus</GBSeq_organism>
+./AY999742.xml:  <GBSeq_organism>Streptomyces cellostaticus</GBSeq_organism>
+./AY999881.xml:  <GBSeq_organism>Streptomyces griseoaurantiacus</GBSeq_organism>
+./AJ310923.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./AF145223.xml:  <GBSeq_organism>Streptomyces avermitilis</GBSeq_organism>
+./AF346475.xml:  <GBSeq_organism>Streptomyces cyaneus</GBSeq_organism>
+./EU812169.xml:  <GBSeq_organism>Streptomyces atriruber</GBSeq_organism>
+./AY508512.xml:  <GBSeq_organism>Streptomyces ciscaucasicus</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./AY999776.xml:  <GBSeq_organism>Streptomyces antibioticus</GBSeq_organism>

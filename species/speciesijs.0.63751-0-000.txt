@@ -1,0 +1,43 @@
+./AJ440997.xml:  <GBSeq_organism>Loktanella salsilacus</GBSeq_organism>
+./AF452106.xml:  <GBSeq_organism>Haematobacter massiliensis</GBSeq_organism>
+./D32241.xml:  <GBSeq_organism>Paracoccus kocurii</GBSeq_organism>
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./D85831.xml:  <GBSeq_organism>Roseivivax halotolerans</GBSeq_organism>
+./U88041.xml:  <GBSeq_organism>Amaricoccus kaplicensis</GBSeq_organism>
+./AJ844281.xml:  <GBSeq_organism>Rubellimicrobium thermophilum</GBSeq_organism>
+./AJ315682.xml:  <GBSeq_organism>Roseicyclus mahoneyensis</GBSeq_organism>
+./AJ227814.xml:  <GBSeq_organism>Hyphomonas jannaschiana</GBSeq_organism>
+./U77644.xml:  <GBSeq_organism>Silicibacter lacuscaerulensis ITI-1157</GBSeq_organism>
+./AF136846.xml:  <GBSeq_organism>Ketogulonicigenium vulgare</GBSeq_organism>
+./AF248638.xml:  <GBSeq_organism>Rhodobaca bogoriensis DSM 18756</GBSeq_organism>
+./AF030437.xml:  <GBSeq_organism>Methylarcula terricola</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./AJ633644.xml:  <GBSeq_organism>Rhodovarius lipocyclicus</GBSeq_organism>
+./U14583.xml:  <GBSeq_organism>Octadecabacter antarcticus 307</GBSeq_organism>
+./AJ505840.xml:  <GBSeq_organism>Rubellimicrobium sp. A-col-R2A-4</GBSeq_organism>
+./AB193438.xml:  <GBSeq_organism>Tateyamaria omphalii</GBSeq_organism>
+./D70846.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./AJ400704.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./AY639887.xml:  <GBSeq_organism>Citreicella thiooxidans</GBSeq_organism>
+./AJ844283.xml:  <GBSeq_organism>Rubellimicrobium thermophilum</GBSeq_organism>
+./AJ878874.xml:  <GBSeq_organism>Thalassobius mediterraneus</GBSeq_organism>
+./U58356.xml:  <GBSeq_organism>Sagittula stellata</GBSeq_organism>
+./AJ489259.xml:  <GBSeq_organism>Turnip mosaic virus</GBSeq_organism>
+./AJ421782.xml:  <GBSeq_organism>Hirschia baltica ATCC 49814</GBSeq_organism>
+./AF465833.xml:  <GBSeq_organism>Albidovulum inexpectatum</GBSeq_organism>
+./Y11551.xml:  <GBSeq_organism>Roseovarius tolerans</GBSeq_organism>
+./AB101543.xml:  <GBSeq_organism>Gemmobacter nectariphilus</GBSeq_organism>
+./Y09610.xml:  <GBSeq_organism>Tetracoccus cechii</GBSeq_organism>
+./AJ844282.xml:  <GBSeq_organism>Rubellimicrobium thermophilum</GBSeq_organism>
+./AF249749.xml:  <GBSeq_organism>Roseinatronobacter thiooxidans</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AY926462.xml:  <GBSeq_organism>Palleronia marisminoris</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AJ748748.xml:  <GBSeq_organism>Nereida ignava</GBSeq_organism>
+./D88520.xml:  <GBSeq_organism>Labrenzia aggregata IAM 12614</GBSeq_organism>
+./AY424896.xml:  <GBSeq_organism>Oceanicola granulosus</GBSeq_organism>
+./AJ534211.xml:  <GBSeq_organism>Dinoroseobacter shibae DFL 12 = DSM 16493</GBSeq_organism>
+./AY527274.xml:  <GBSeq_organism>Salipiger mucosus DSM 16094</GBSeq_organism>
+./AJ227802.xml:  <GBSeq_organism>Maricaulis maris</GBSeq_organism>

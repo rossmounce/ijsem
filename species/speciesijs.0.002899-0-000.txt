@@ -1,0 +1,17 @@
+./AM422449.xml:  <GBSeq_organism>Nocardia speluncae</GBSeq_organism>
+./AF430019.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./AF430050.xml:  <GBSeq_organism>Nocardia salmonicida</GBSeq_organism>
+./AB192415.xml:  <GBSeq_organism>Nocardia testacea</GBSeq_organism>
+./AF430040.xml:  <GBSeq_organism>Nocardia brevicatena NBRC 12119</GBSeq_organism>
+./AF430052.xml:  <GBSeq_organism>Nocardia cummidelens</GBSeq_organism>
+./AF282889.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./AB121770.xml:  <GBSeq_organism>Nocardia sienata</GBSeq_organism>
+./AF430042.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./AB126874.xml:  <GBSeq_organism>Nocardia thailandica</GBSeq_organism>
+./AY222321.xml:  <GBSeq_organism>Nocardia alba</GBSeq_organism>
+./AF430051.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./DQ462650.xml:  <GBSeq_organism>Nocardia jinanensis</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./AY333115.xml:  <GBSeq_organism>Nocardia xishanensis</GBSeq_organism>
+./AF430035.xml:  <GBSeq_organism>Nocardia carnea NBRC 14403</GBSeq_organism>
+./AB162790.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>

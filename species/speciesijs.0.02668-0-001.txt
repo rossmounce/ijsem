@@ -1,0 +1,9 @@
+./X71848.xml:  <GBSeq_organism>[Clostridium] celerecrescens 18A</GBSeq_organism>
+./Y11568.xml:  <GBSeq_organism>[Desulfotomaculum] guttoideum</GBSeq_organism>
+./AF067965.xml:  <GBSeq_organism>[Clostridium] methoxybenzovorans SR3</GBSeq_organism>
+./X76163.xml:  <GBSeq_organism>[Clostridium] aerotolerans</GBSeq_organism>
+./AY353957.xml:  <GBSeq_organism>[Clostridium] amygdalinum</GBSeq_organism>
+./X73449.xml:  <GBSeq_organism>[Clostridium] sphenoides JCM 1415</GBSeq_organism>
+./Y18185.xml:  <GBSeq_organism>[Clostridium] saccharolyticum WM1</GBSeq_organism>
+./X71855.xml:  <GBSeq_organism>[Clostridium] xylanolyticum</GBSeq_organism>
+./Y18184.xml:  <GBSeq_organism>[Clostridium] indolis</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AY234332.xml:  <GBSeq_organism>Methanocalculus chunghsingensis</GBSeq_organism>
+./M59134.xml:  <GBSeq_organism>Methanoculleus marisnigri</GBSeq_organism>
+./AF347025.xml:  <GBSeq_organism>Methanocalculus chunghsingensis</GBSeq_organism>
+./M59147.xml:  <GBSeq_organism>Methanocorpusculum parvum</GBSeq_organism>
+./AF033672.xml:  <GBSeq_organism>Methanocalculus halotolerans</GBSeq_organism>
+./M59143.xml:  <GBSeq_organism>Methanoplanus limicola DSM 2279</GBSeq_organism>
+./M59142.xml:  <GBSeq_organism>Methanomicrobium mobile BP</GBSeq_organism>
+./M59130.xml:  <GBSeq_organism>Methanogenium cariaci</GBSeq_organism>
+./AF321115.xml:  <GBSeq_organism>Methanocalculus chunghsingensis</GBSeq_organism>
+./Y16428.xml:  <GBSeq_organism>Methanofollis liminatans DSM 4140</GBSeq_organism>

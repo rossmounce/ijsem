@@ -1,0 +1,41 @@
+./AB101464.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101471.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AB101463.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101473.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. equisimilis</GBSeq_organism>
+./AB101455.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AB175045.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AB175041.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101475.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./Z95915.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AB101476.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./AB101460.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./AJ544723.xml:  <GBSeq_organism>Streptococcus parauberis</GBSeq_organism>
+./AJ544590.xml:  <GBSeq_organism>Streptococcus uberis</GBSeq_organism>
+./AB175050.xml:  <GBSeq_organism>Streptococcus equi subsp. zooepidemicus</GBSeq_organism>
+./AB175053.xml:  <GBSeq_organism>Streptococcus uberis</GBSeq_organism>
+./AB101461.xml:  <GBSeq_organism>Streptococcus equi subsp. equi</GBSeq_organism>
+./AB175047.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae</GBSeq_organism>
+./AB175043.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101478.xml:  <GBSeq_organism>Streptococcus equi subsp. zooepidemicus</GBSeq_organism>
+./AB175038.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101472.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae</GBSeq_organism>
+./AB175044.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101457.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. equisimilis</GBSeq_organism>
+./AB101448.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101459.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./AB101458.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>
+./AB175046.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>
+./Z95901.xml:  <GBSeq_organism>Streptococcus equi</GBSeq_organism>
+./AB175051.xml:  <GBSeq_organism>Streptococcus iniae</GBSeq_organism>
+./AB175052.xml:  <GBSeq_organism>Streptococcus porcinus</GBSeq_organism>
+./AB101479.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB175040.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101477.xml:  <GBSeq_organism>Streptococcus equi subsp. equi</GBSeq_organism>
+./AB175039.xml:  <GBSeq_organism>Streptococcus agalactiae</GBSeq_organism>
+./AB101456.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. dysgalactiae</GBSeq_organism>
+./AB175042.xml:  <GBSeq_organism>Streptococcus agalactiae ATCC 13813</GBSeq_organism>
+./AB175048.xml:  <GBSeq_organism>Streptococcus dysgalactiae subsp. equisimilis</GBSeq_organism>
+./AB101474.xml:  <GBSeq_organism>Streptococcus canis</GBSeq_organism>
+./AB101462.xml:  <GBSeq_organism>Streptococcus equi subsp. zooepidemicus</GBSeq_organism>
+./AB175049.xml:  <GBSeq_organism>Streptococcus equi subsp. equi</GBSeq_organism>
+./AB175054.xml:  <GBSeq_organism>Streptococcus parauberis</GBSeq_organism>

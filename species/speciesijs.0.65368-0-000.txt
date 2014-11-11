@@ -1,0 +1,11 @@
+./AJ565938.xml:  <GBSeq_organism>Desulfitobacterium dichloroeliminans LMG P-21439</GBSeq_organism>
+./Y11570.xml:  <GBSeq_organism>Desulfosporosinus orientis DSM 765</GBSeq_organism>
+./AF297871.xml:  <GBSeq_organism>Desulfitobacterium metallireducens DSM 15288</GBSeq_organism>
+./AJ493051.xml:  <GBSeq_organism>Desulfosporosinus auripigmenti</GBSeq_organism>
+./L28946.xml:  <GBSeq_organism>Desulfitobacterium dehalogenans ATCC 51507</GBSeq_organism>
+./U84497.xml:  <GBSeq_organism>Dehalobacter restrictus DSM 9455</GBSeq_organism>
+./AJ582757.xml:  <GBSeq_organism>Desulfosporosinus lacus</GBSeq_organism>
+./AF076527.xml:  <GBSeq_organism>Desulfosporosinus meridiei DSM 13257</GBSeq_organism>
+./X99706.xml:  <GBSeq_organism>Syntrophobotulus glycolicus</GBSeq_organism>
+./X94975.xml:  <GBSeq_organism>Desulfitobacterium hafniense DCB-2</GBSeq_organism>
+./Y11571.xml:  <GBSeq_organism>Desulfosporosinus hippei DSM 8344</GBSeq_organism>

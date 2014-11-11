@@ -1,0 +1,44 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AF493682.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW268</GBSeq_organism>
+./M58770.xml:  <GBSeq_organism>Leeuwenhoekiella marinoflava</GBSeq_organism>
+./AF208293.xml:  <GBSeq_organism>Zobellia galactanivorans</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./AF493675.xml:  <GBSeq_organism>Polaribacter sp. SW019</GBSeq_organism>
+./AF493689.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW269</GBSeq_organism>
+./AF493683.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW058</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AF493677.xml:  <GBSeq_organism>Tenacibaculum sp. SW258</GBSeq_organism>
+./AF493680.xml:  <GBSeq_organism>Cellulophaga sp. SW265</GBSeq_organism>
+./AF218782.xml:  <GBSeq_organism>Muricauda ruestringensis DSM 13258</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AF493687.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW084</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AY243096.xml:  <GBSeq_organism>Ulvibacter litoralis</GBSeq_organism>
+./AY576654.xml:  <GBSeq_organism>Pibocella ponti</GBSeq_organism>
+./AJ278780.xml:  <GBSeq_organism>Leeuwenhoekiella aequorea</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./U73726.xml:  <GBSeq_organism>Polaribacter filamentus</GBSeq_organism>
+./AF493688.xml:  <GBSeq_organism>Nonlabens xylanidelens</GBSeq_organism>
+./AY271623.xml:  <GBSeq_organism>Maribacter sedimenticola</GBSeq_organism>
+./AF493679.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW072</GBSeq_organism>
+./AF493674.xml:  <GBSeq_organism>Polaribacter sp. SW007</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AF493686.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW334</GBSeq_organism>
+./AF493684.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW062</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./M62796.xml:  <GBSeq_organism>Cellulophaga lytica</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./U62914.xml:  <GBSeq_organism>Gelidibacter algens</GBSeq_organism>
+./AF493685.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW152</GBSeq_organism>
+./AF493681.xml:  <GBSeq_organism>Cellulophaga sp. SW285</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AF493690.xml:  <GBSeq_organism>Flavobacteriaceae bacterium SW325</GBSeq_organism>
+./M62799.xml:  <GBSeq_organism>Zobellia uliginosa</GBSeq_organism>
+./AF493676.xml:  <GBSeq_organism>Polaribacter sp. SW146</GBSeq_organism>
+./AJ005972.xml:  <GBSeq_organism>Cellulophaga baltica</GBSeq_organism>
+./AF493678.xml:  <GBSeq_organism>Tenacibaculum sp. SW274</GBSeq_organism>
+./M64629.xml:  <GBSeq_organism>Tenacibaculum maritimum</GBSeq_organism>
+./AY424899.xml:  <GBSeq_organism>Robiginitalea biformata HTCC2501</GBSeq_organism>
+./AY608408.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>

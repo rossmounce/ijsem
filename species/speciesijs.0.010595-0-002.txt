@@ -1,0 +1,8 @@
+./AM397067.xml:  <GBSeq_organism>Polynucleobacter necessarius subsp. necessarius</GBSeq_organism>
+./FM208180.xml:  <GBSeq_organism>Polynucleobacter acidiphobus</GBSeq_organism>
+./AM110084.xml:  <GBSeq_organism>Polynucleobacter cosmopolitanus</GBSeq_organism>
+./FM208181.xml:  <GBSeq_organism>Polynucleobacter difficilis</GBSeq_organism>
+./AJ879783.xml:  <GBSeq_organism>Polynucleobacter necessarius subsp. asymbioticus QLW-P1DMWA-1</GBSeq_organism>
+./FM208182.xml:  <GBSeq_organism>Polynucleobacter rarus</GBSeq_organism>
+./AJ550657.xml:  <GBSeq_organism>Polynucleobacter necessarius subsp. asymbioticus</GBSeq_organism>
+./AJ550666.xml:  <GBSeq_organism>Polynucleobacter necessarius subsp. asymbioticus</GBSeq_organism>

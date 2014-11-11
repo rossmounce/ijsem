@@ -1,0 +1,11 @@
+./AB021380.xml:  <GBSeq_organism>Pseudomonas pertucinogena</GBSeq_organism>
+./Y11150.xml:  <GBSeq_organism>Pseudomonas graminis</GBSeq_organism>
+./DQ339144.xml:  <GBSeq_organism>Pseudomonas pohangensis</GBSeq_organism>
+./EU143352.xml:  <GBSeq_organism>Pseudomonas sabulinigri</GBSeq_organism>
+./D84024.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF074383.xml:  <GBSeq_organism>Pseudomonas migulae</GBSeq_organism>
+./AB060132.xml:  <GBSeq_organism>Pseudomonas parafulva</GBSeq_organism>
+./AB030583.xml:  <GBSeq_organism>Pseudomonas alcaliphila</GBSeq_organism>
+./D84015.xml:  <GBSeq_organism>Pseudomonas fulva</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>

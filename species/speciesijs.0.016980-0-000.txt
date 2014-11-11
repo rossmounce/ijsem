@@ -1,0 +1,18 @@
+./AJ243144.xml:  <GBSeq_organism>Thiobacillus denitrificans</GBSeq_organism>
+./AB009828.xml:  <GBSeq_organism>Hydrogenophilus thermoluteolus</GBSeq_organism>
+./AY123807.xml:  <GBSeq_organism>Nitrosospira multiformis ATCC 25196</GBSeq_organism>
+./U58019.xml:  <GBSeq_organism>Thiobacillus aquaesulis</GBSeq_organism>
+./L15475.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./AJ316618.xml:  <GBSeq_organism>Thiobacillus plumbophilus</GBSeq_organism>
+./U49757.xml:  <GBSeq_organism>Oxalobacter formigenes</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./AF005628.xml:  <GBSeq_organism>Thiobacillus thioparus</GBSeq_organism>
+./AB021418.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./EU685841.xml:  <GBSeq_organism>Thiobacillus thiophilus</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./M34131.xml:  <GBSeq_organism>Spirillum volutans</GBSeq_organism>
+./AB180857.xml:  <GBSeq_organism>Amylomyces rouxii</GBSeq_organism>
+./U96927.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AY123808.xml:  <GBSeq_organism>Nitrosospira sp. Nsp1</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AB506456.xml:  <GBSeq_organism>Sulfuricella denitrificans skB26</GBSeq_organism>

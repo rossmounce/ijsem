@@ -1,0 +1,25 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB364967.xml:  <GBSeq_organism>Paramoritella alkaliphila</GBSeq_organism>
+./AB193751.xml:  <GBSeq_organism>Ferrimonas marina</GBSeq_organism>
+./AY170366.xml:  <GBSeq_organism>Shewanella waksmanii</GBSeq_organism>
+./AF420312.xml:  <GBSeq_organism>Shewanella fidelis</GBSeq_organism>
+./AF005249.xml:  <GBSeq_organism>Shewanella algae</GBSeq_organism>
+./AB252732.xml:  <GBSeq_organism>Paraferrimonas sedimenticola</GBSeq_organism>
+./AB038033.xml:  <GBSeq_organism>Moritella marina ATCC 15381</GBSeq_organism>
+./AJ310647.xml:  <GBSeq_organism>Vibrio agarivorans</GBSeq_organism>
+./AB245514.xml:  <GBSeq_organism>Ferrimonas kyonanensis</GBSeq_organism>
+./X82133.xml:  <GBSeq_organism>Shewanella putrefaciens</GBSeq_organism>
+./AY190533.xml:  <GBSeq_organism>Shewanella gaetbuli</GBSeq_organism>
+./AJ252022.xml:  <GBSeq_organism>Moritella abyssi</GBSeq_organism>
+./X93021.xml:  <GBSeq_organism>Ferrimonas balearica DSM 9799</GBSeq_organism>
+./AJ252023.xml:  <GBSeq_organism>Moritella profunda</GBSeq_organism>
+./EF192283.xml:  <GBSeq_organism>Moritella dasanensis ArB 0140</GBSeq_organism>
+./AB013297.xml:  <GBSeq_organism>Vibrio rumoiensis</GBSeq_organism>
+./AJ609571.xml:  <GBSeq_organism>Shewanella decolorationis S12</GBSeq_organism>
+./AJ000214.xml:  <GBSeq_organism>Shewanella baltica</GBSeq_organism>
+./DQ778094.xml:  <GBSeq_organism>Ferrimonas senticii</GBSeq_organism>
+./AF003549.xml:  <GBSeq_organism>Shewanella woodyi ATCC 51908</GBSeq_organism>
+./D21224.xml:  <GBSeq_organism>Moritella japonica</GBSeq_organism>
+./AB364966.xml:  <GBSeq_organism>Paramoritella alkaliphila</GBSeq_organism>
+./AB008797.xml:  <GBSeq_organism>Moritella yayanosii</GBSeq_organism>
+./Y17574.xml:  <GBSeq_organism>Moritella viscosa</GBSeq_organism>

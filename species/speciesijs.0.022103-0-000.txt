@@ -1,0 +1,23 @@
+./FJ457040.xml:  <GBSeq_organism>Niabella yanshanensis</GBSeq_organism>
+./AB267476.xml:  <GBSeq_organism>Flavisolibacter ginsengiterrae</GBSeq_organism>
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./EF988655.xml:  <GBSeq_organism>Gracilimonas tropica</GBSeq_organism>
+./EU521690.xml:  <GBSeq_organism>Lacibacter cauensis</GBSeq_organism>
+./AB278570.xml:  <GBSeq_organism>Chitinophaga terrae Kim and Jung 2007</GBSeq_organism>
+./EU877263.xml:  <GBSeq_organism>Parasegetibacter luojiensis</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./AB267477.xml:  <GBSeq_organism>Flavisolibacter ginsengisoli</GBSeq_organism>
+./AM230484.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./EU714259.xml:  <GBSeq_organism>Chitinophaga niabensis</GBSeq_organism>
+./EF407879.xml:  <GBSeq_organism>Sediminibacterium salmoneum</GBSeq_organism>
+./AB267478.xml:  <GBSeq_organism>Segetibacter koreensis</GBSeq_organism>
+./EU714260.xml:  <GBSeq_organism>Chitinophaga niastensis</GBSeq_organism>
+./DQ457019.xml:  <GBSeq_organism>Niabella aurantiaca</GBSeq_organism>
+./EU616816.xml:  <GBSeq_organism>Niabella ginsengisoli</GBSeq_organism>
+./DQ244076.xml:  <GBSeq_organism>Niastella yeongjuensis</GBSeq_organism>
+./FM865977.xml:  <GBSeq_organism>Chitinophaga rupis</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>
+./AY576749.xml:  <GBSeq_organism>Balneola vulgaris</GBSeq_organism>
+./GU291295.xml:  <GBSeq_organism>Niabella tibetensis</GBSeq_organism>
+./EU877262.xml:  <GBSeq_organism>Niastella populi</GBSeq_organism>
+./GO421847.xml:  <GBSeq_organism>Lernaeocera branchialis</GBSeq_organism>

@@ -1,0 +1,8 @@
+./D11106.xml:  <GBSeq_organism>Halococcus morrhuae DSM 1307</GBSeq_organism>
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./X72495.xml:  <GBSeq_organism>Natrialba magadii ATCC 43099</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AY277582.xml:  <GBSeq_organism>Halobiforma lacisalsi</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./AF333760.xml:  <GBSeq_organism>Halobiforma haloterrestris</GBSeq_organism>
+./D12123.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

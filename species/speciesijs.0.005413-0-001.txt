@@ -1,0 +1,8 @@
+./EU306836.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./EU306834.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./EU306842.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./EU306837.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./EU306803.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./EU306808.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./EU306835.xml:  <GBSeq_organism>Aeromonas diversa</GBSeq_organism>
+./EU306831.xml:  <GBSeq_organism>Aeromonas sharmana</GBSeq_organism>

@@ -1,0 +1,8 @@
+./D78310.xml:  <GBSeq_organism>Bacillus badius</GBSeq_organism>
+./D16272.xml:  <GBSeq_organism>Bacillus lentus</GBSeq_organism>
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./AB021185.xml:  <GBSeq_organism>Bacillus flexus</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AJ439078.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./D78312.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./Y11603.xml:  <GBSeq_organism>Virgibacillus salexigens</GBSeq_organism>

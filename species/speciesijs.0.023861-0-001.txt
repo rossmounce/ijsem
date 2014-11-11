@@ -1,0 +1,10 @@
+./AB182483.xml:  <GBSeq_organism>Prevotella multiformis DSM 16608</GBSeq_organism>
+./AY350613.xml:  <GBSeq_organism>Prevotella bergensis</GBSeq_organism>
+./EU126661.xml:  <GBSeq_organism>Prevotella histicola</GBSeq_organism>
+./FJ545434.xml:  <GBSeq_organism>Prevotella scopos</GBSeq_organism>
+./X81876.xml:  <GBSeq_organism>Prevotella dentalis DSM 3688</GBSeq_organism>
+./AY840553.xml:  <GBSeq_organism>Prevotella baroniae</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./AY323524.xml:  <GBSeq_organism>Prevotella denticola</GBSeq_organism>
+./L16477.xml:  <GBSeq_organism>Prevotella buccae ATCC 33574</GBSeq_organism>
+./AY836507.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>

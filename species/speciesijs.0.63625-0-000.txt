@@ -1,0 +1,49 @@
+./X92601.xml:  <GBSeq_organism>Micromonospora halophytica</GBSeq_organism>
+./AB036996.xml:  <GBSeq_organism>Actinoplanes consettensis</GBSeq_organism>
+./AF152106.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./AB089241.xml:  <GBSeq_organism>Longispora albida</GBSeq_organism>
+./AY040623.xml:  <GBSeq_organism>Salinispora arenicola</GBSeq_organism>
+./AF152109.xml:  <GBSeq_organism>Micromonospora matsumotoense</GBSeq_organism>
+./AJ245712.xml:  <GBSeq_organism>Micromonospora aurantiaca</GBSeq_organism>
+./AY040620.xml:  <GBSeq_organism>Salinispora arenicola</GBSeq_organism>
+./AF152107.xml:  <GBSeq_organism>Catellatospora methionotrophica</GBSeq_organism>
+./AB036998.xml:  <GBSeq_organism>Actinoplanes deccanensis</GBSeq_organism>
+./AB036997.xml:  <GBSeq_organism>Actinoplanes cyaneus</GBSeq_organism>
+./AB024701.xml:  <GBSeq_organism>Catenuloplanes crispus JCM 9312</GBSeq_organism>
+./D85489.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X92597.xml:  <GBSeq_organism>Micromonospora echinospora</GBSeq_organism>
+./D85480.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./AY040618.xml:  <GBSeq_organism>Salinispora tropica</GBSeq_organism>
+./D86940.xml:  <GBSeq_organism>Dactylosporangium matsuzakiense</GBSeq_organism>
+./AY040617.xml:  <GBSeq_organism>Salinispora tropica CNB-440</GBSeq_organism>
+./AB036999.xml:  <GBSeq_organism>Actinoplanes derwentensis</GBSeq_organism>
+./AF152110.xml:  <GBSeq_organism>Hamadaea tsunoensis</GBSeq_organism>
+./X92606.xml:  <GBSeq_organism>Micromonospora carbonacea</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./X92631.xml:  <GBSeq_organism>Micromonospora rosaria</GBSeq_organism>
+./AB037012.xml:  <GBSeq_organism>Actinoplanes utahensis</GBSeq_organism>
+./X92617.xml:  <GBSeq_organism>Micromonospora citrea</GBSeq_organism>
+./X92610.xml:  <GBSeq_organism>Micromonospora inositola</GBSeq_organism>
+./AB006169.xml:  <GBSeq_organism>Virgisporangium aurantiacum</GBSeq_organism>
+./AB037005.xml:  <GBSeq_organism>Actinoplanes italicus</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./AY040619.xml:  <GBSeq_organism>Salinispora arenicola ATCC BAA-917</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./AB037008.xml:  <GBSeq_organism>Actinoplanes missouriensis</GBSeq_organism>
+./AB047499.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./D86939.xml:  <GBSeq_organism>Dactylosporangium vinaceum</GBSeq_organism>
+./X92628.xml:  <GBSeq_organism>Micromonospora chersina</GBSeq_organism>
+./D86942.xml:  <GBSeq_organism>Dactylosporangium fulvum</GBSeq_organism>
+./X92598.xml:  <GBSeq_organism>Micromonospora coerulea</GBSeq_organism>
+./X92616.xml:  <GBSeq_organism>Micromonospora brunnescens</GBSeq_organism>
+./AB037011.xml:  <GBSeq_organism>Actinoplanes regularis</GBSeq_organism>
+./X93202.xml:  <GBSeq_organism>Couchioplanes caeruleus subsp. caeruleus</GBSeq_organism>
+./AB037004.xml:  <GBSeq_organism>Actinoplanes humidus</GBSeq_organism>
+./AB006167.xml:  <GBSeq_organism>Virgisporangium ochraceum</GBSeq_organism>
+./AB037000.xml:  <GBSeq_organism>Actinoplanes digitatis</GBSeq_organism>
+./AY040622.xml:  <GBSeq_organism>Salinispora tropica</GBSeq_organism>
+./X92600.xml:  <GBSeq_organism>Micromonospora globosa</GBSeq_organism>
+./D86946.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./D86941.xml:  <GBSeq_organism>Dactylosporangium roseum</GBSeq_organism>
+./AB037009.xml:  <GBSeq_organism>Actinoplanes palleronii</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

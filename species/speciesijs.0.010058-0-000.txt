@@ -1,0 +1,15 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AY829009.xml:  <GBSeq_organism>Methylothermus thermalis</GBSeq_organism>
+./AJ252143.xml:  <GBSeq_organism>Ignatzschineria larvae DSM 13226</GBSeq_organism>
+./EF988634.xml:  <GBSeq_organism>Salinisphaera dokdonensis CL-ES53</GBSeq_organism>
+./EF103128.xml:  <GBSeq_organism>Natronocella acetinitrilica</GBSeq_organism>
+./AY987368.xml:  <GBSeq_organism>Dokdonella koreensis</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./AY130994.xml:  <GBSeq_organism>Zooshikella ganghwensis</GBSeq_organism>
+./AB257720.xml:  <GBSeq_organism>Panacagrimonas perspica</GBSeq_organism>
+./X79740.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./M90662.xml:  <GBSeq_organism>Halothiobacillus hydrothermalis</GBSeq_organism>
+./X06684.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./AJ421425.xml:  <GBSeq_organism>Salinisphaera shabanensis E1L3A</GBSeq_organism>

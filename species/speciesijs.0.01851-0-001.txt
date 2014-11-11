@@ -1,0 +1,5 @@
+./AF346818.xml:  <GBSeq_organism>Streptomyces yunnanensis</GBSeq_organism>
+./AJ271887.xml:  <GBSeq_organism>Streptomyces melanosporofaciens</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./X79853.xml:  <GBSeq_organism>Streptomyces hygroscopicus subsp. limoneus</GBSeq_organism>

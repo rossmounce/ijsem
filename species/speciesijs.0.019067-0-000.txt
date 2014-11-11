@@ -1,0 +1,26 @@
+./AB262731.xml:  <GBSeq_organism>Lactobacillus farraginis</GBSeq_organism>
+./AF264701.xml:  <GBSeq_organism>Lactobacillus diolivorans</GBSeq_organism>
+./AM113784.xml:  <GBSeq_organism>Lactobacillus sakei</GBSeq_organism>
+./AJ621553.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./X76330.xml:  <GBSeq_organism>Lactobacillus fructivorans KCTC 3543 = DSM 20203</GBSeq_organism>
+./AM259118.xml:  <GBSeq_organism>Lactobacillus namurensis</GBSeq_organism>
+./AB498046.xml:  <GBSeq_organism>Lactobacillus florum</GBSeq_organism>
+./AB498045.xml:  <GBSeq_organism>Lactobacillus florum</GBSeq_organism>
+./AJ575743.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./M58821.xml:  <GBSeq_organism>Lactobacillus hilgardii</GBSeq_organism>
+./AJ970317.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AM158249.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./AB262734.xml:  <GBSeq_organism>Lactobacillus parafarraginis</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AJ632158.xml:  <GBSeq_organism>Lactobacillus acidifarinae</GBSeq_organism>
+./M58810.xml:  <GBSeq_organism>Lactobacillus brevis ATCC 14869 = DSM 20054</GBSeq_organism>
+./AM113780.xml:  <GBSeq_organism>Lactobacillus homohiochii</GBSeq_organism>
+./AB429373.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>
+./AB366386.xml:  <GBSeq_organism>Lactobacillus otakiensis</GBSeq_organism>
+./AB100803.xml:  <GBSeq_organism>Lactococcus lactis subsp. lactis</GBSeq_organism>
+./AB498047.xml:  <GBSeq_organism>Lactobacillus florum</GBSeq_organism>
+./X76327.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./X76328.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./Y11374.xml:  <GBSeq_organism>Lactobacillus kunkeei</GBSeq_organism>
+./AJ632157.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>
+./D86517.xml:  <GBSeq_organism>Lactobacillus casei ATCC 334</GBSeq_organism>

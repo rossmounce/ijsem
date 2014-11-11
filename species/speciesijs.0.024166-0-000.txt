@@ -1,0 +1,6 @@
+./AB514518.xml:  <GBSeq_organism>Actinomycetospora straminea</GBSeq_organism>
+./AB514514.xml:  <GBSeq_organism>Actinomycetospora succinea</GBSeq_organism>
+./EF588218.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AB514517.xml:  <GBSeq_organism>Actinomycetospora chibensis</GBSeq_organism>
+./AM398646.xml:  <GBSeq_organism>Actinomycetospora chiangmaiensis</GBSeq_organism>
+./AB514519.xml:  <GBSeq_organism>Actinomycetospora chlora</GBSeq_organism>

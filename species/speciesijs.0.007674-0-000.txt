@@ -1,0 +1,17 @@
+./L16496.xml:  <GBSeq_organism>Odoribacter splanchnicus</GBSeq_organism>
+./Y18530.xml:  <GBSeq_organism>Dysgonomonas gadei ATCC BAA-286</GBSeq_organism>
+./AY742226.xml:  <GBSeq_organism>Proteiniphilum acetatigenes</GBSeq_organism>
+./EF403748.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB238928.xml:  <GBSeq_organism>Parabacteroides merdae</GBSeq_organism>
+./L16497.xml:  <GBSeq_organism>Alistipes putredinis</GBSeq_organism>
+./L26102.xml:  <GBSeq_organism>Porphyromonas circumdentaria</GBSeq_organism>
+./L16492.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./L16495.xml:  <GBSeq_organism>Tannerella forsythia</GBSeq_organism>
+./AB443949.xml:  <GBSeq_organism>Butyricimonas virosa</GBSeq_organism>
+./AB443948.xml:  <GBSeq_organism>Butyricimonas synergistica</GBSeq_organism>
+./AY560020.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./AY974070.xml:  <GBSeq_organism>Parabacteroides goldsteinii</GBSeq_organism>
+./L16491.xml:  <GBSeq_organism>Porphyromonas endodontalis</GBSeq_organism>
+./U41855.xml:  <GBSeq_organism>Xenopus laevis</GBSeq_organism>
+./EF404496.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>

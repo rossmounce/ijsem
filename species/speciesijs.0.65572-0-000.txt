@@ -1,0 +1,11 @@
+./AF539697.xml:  <GBSeq_organism>Salinibacterium amurskyense</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./AJ438585.xml:  <GBSeq_organism>Leifsonia rubra</GBSeq_organism>
+./AB028941.xml:  <GBSeq_organism>Microbacteriaceae str. DB103</GBSeq_organism>
+./AM410675.xml:  <GBSeq_organism>Okibacterium fritillariae</GBSeq_organism>
+./AJ438586.xml:  <GBSeq_organism>Rhodoglobus aureus</GBSeq_organism>
+./EF466124.xml:  <GBSeq_organism>Leifsonia bigeumensis</GBSeq_organism>
+./AF116342.xml:  <GBSeq_organism>Leifsonia poae</GBSeq_organism>

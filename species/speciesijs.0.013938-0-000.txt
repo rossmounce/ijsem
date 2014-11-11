@@ -1,0 +1,13 @@
+./U58338.xml:  <GBSeq_organism>Microbulbifer hydrolyticus</GBSeq_organism>
+./AY386335.xml:  <GBSeq_organism>gamma proteobacterium HTCC2207</GBSeq_organism>
+./AY839869.xml:  <GBSeq_organism>Marinimicrobium koreense</GBSeq_organism>
+./AY532642.xml:  <GBSeq_organism>Candidatus Endobugula glebosa</GBSeq_organism>
+./EF182728.xml:  <GBSeq_organism>gamma proteobacterium HTCC2227</GBSeq_organism>
+./AY386339.xml:  <GBSeq_organism>marine gamma proteobacterium HTCC2080</GBSeq_organism>
+./AY375145.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./EF468719.xml:  <GBSeq_organism>Porticoccus litoralis</GBSeq_organism>
+./AF006608.xml:  <GBSeq_organism>Candidatus Endobugula sertula</GBSeq_organism>
+./AJ400355.xml:  <GBSeq_organism>uncultured marine bacterium ZD0424</GBSeq_organism>
+./AY386333.xml:  <GBSeq_organism>marine gamma proteobacterium HTCC2143</GBSeq_organism>
+./AF452103.xml:  <GBSeq_organism>Cellvibrio japonicus</GBSeq_organism>
+./AB158515.xml:  <GBSeq_organism>Microbulbifer agarilyticus</GBSeq_organism>

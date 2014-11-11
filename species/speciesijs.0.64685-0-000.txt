@@ -1,0 +1,55 @@
+./EF433405.xml:  <GBSeq_organism>Bacillus mojavensis</GBSeq_organism>
+./EF423602.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423597.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309294.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./DQ309317.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309322.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ993675.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./EF423599.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309325.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309320.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./DQ309323.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309295.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309297.xml:  <GBSeq_organism>Bacillus mojavensis</GBSeq_organism>
+./DQ309304.xml:  <GBSeq_organism>Bacillus sonorensis</GBSeq_organism>
+./EF423604.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./DQ309306.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423607.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./EF423593.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF433403.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./J01695.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./EF433402.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./DQ309302.xml:  <GBSeq_organism>Bacillus atrophaeus</GBSeq_organism>
+./DQ309321.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309324.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309318.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ993679.xml:  <GBSeq_organism>Bacillus sonorensis</GBSeq_organism>
+./EF423598.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423609.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309303.xml:  <GBSeq_organism>Bacillus mojavensis</GBSeq_organism>
+./DQ309315.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ993676.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309311.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./DQ309313.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309293.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis</GBSeq_organism>
+./EF433410.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./DQ309319.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423592.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis</GBSeq_organism>
+./EF423596.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309316.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF433404.xml:  <GBSeq_organism>Bacillus vallismortis</GBSeq_organism>
+./DQ309312.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X04341.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./EF423600.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423601.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF423595.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF433406.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./EF433411.xml:  <GBSeq_organism>Bacillus sonorensis</GBSeq_organism>
+./EF423594.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./DQ309299.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./EF423606.xml:  <GBSeq_organism>Bacillus amyloliquefaciens</GBSeq_organism>
+./DQ309314.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./EF433409.xml:  <GBSeq_organism>Bacillus atrophaeus</GBSeq_organism>
+./EF423608.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./EF423603.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

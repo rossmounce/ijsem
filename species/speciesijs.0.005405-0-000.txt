@@ -1,0 +1,10 @@
+./DQ235228.xml:  <GBSeq_organism>Pedobacter sandarakinus</GBSeq_organism>
+./AM490403.xml:  <GBSeq_organism>Mucilaginibacter gracilis</GBSeq_organism>
+./AY787820.xml:  <GBSeq_organism>Sphingobacterium multivorum</GBSeq_organism>
+./EF446147.xml:  <GBSeq_organism>Pedobacter terricola</GBSeq_organism>
+./AM490402.xml:  <GBSeq_organism>Mucilaginibacter paludis DSM 18603</GBSeq_organism>
+./DQ421387.xml:  <GBSeq_organism>Olivibacter sitiensis</GBSeq_organism>
+./AB330392.xml:  <GBSeq_organism>Mucilaginibacter kameinonensis</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>
+./EU729366.xml:  <GBSeq_organism>Mucilaginibacter ximonensis</GBSeq_organism>
+./EF151805.xml:  <GBSeq_organism>Parapedobacter soli</GBSeq_organism>

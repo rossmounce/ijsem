@@ -1,0 +1,11 @@
+./AJ131121.xml:  <GBSeq_organism>Rothia nasimurium</GBSeq_organism>
+./Y16263.xml:  <GBSeq_organism>Kocuria palustris</GBSeq_organism>
+./X87754.xml:  <GBSeq_organism>Kocuria varians</GBSeq_organism>
+./X87758.xml:  <GBSeq_organism>Rothia mucilaginosa</GBSeq_organism>
+./AY043359.xml:  <GBSeq_organism>Rothia amarae</GBSeq_organism>
+./M59055.xml:  <GBSeq_organism>Rothia dentocariosa ATCC 17931</GBSeq_organism>
+./X80750.xml:  <GBSeq_organism>Micrococcus lylae</GBSeq_organism>
+./X87755.xml:  <GBSeq_organism>Kytococcus sedentarius</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./X80742.xml:  <GBSeq_organism>Arthrobacter sp. DSM 20546</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>

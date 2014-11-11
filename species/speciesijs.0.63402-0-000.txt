@@ -1,0 +1,13 @@
+./AY206686.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AY260145.xml:  <GBSeq_organism>Sinorhizobium fredii HH103</GBSeq_organism>
+./AJ011759.xml:  <GBSeq_organism>Aminobacter aminovorans</GBSeq_organism>
+./AF250354.xml:  <GBSeq_organism>Sinorhizobium xinjiangense</GBSeq_organism>
+./AF526515.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./AY636000.xml:  <GBSeq_organism>Phyllobacterium catacumbae</GBSeq_organism>
+./AJ271899.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AF526521.xml:  <GBSeq_organism>Ochrobactrum anthropi</GBSeq_organism>
+./AJ011760.xml:  <GBSeq_organism>Aminobacter aganoensis</GBSeq_organism>
+./X67227.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AY635999.xml:  <GBSeq_organism>Phyllobacterium catacumbae</GBSeq_organism>
+./D12790.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>
+./D12789.xml:  <GBSeq_organism>Phyllobacterium myrsinacearum</GBSeq_organism>

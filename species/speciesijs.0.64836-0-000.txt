@@ -1,0 +1,18 @@
+./AM285028.xml:  <GBSeq_organism>Lactobacillus crustorum</GBSeq_organism>
+./AM087714.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AM285449.xml:  <GBSeq_organism>Lactobacillus crustorum</GBSeq_organism>
+./AM285027.xml:  <GBSeq_organism>Lactobacillus crustorum</GBSeq_organism>
+./AM087713.xml:  <GBSeq_organism>Lactobacillus pentosus</GBSeq_organism>
+./AM263509.xml:  <GBSeq_organism>Lactobacillus alimentarius</GBSeq_organism>
+./AM087764.xml:  <GBSeq_organism>Lactobacillus paracollinoides</GBSeq_organism>
+./AM087705.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>
+./AM087729.xml:  <GBSeq_organism>Lactobacillus farciminis KCTC 3681 = DSM 20184</GBSeq_organism>
+./AM087706.xml:  <GBSeq_organism>Lactobacillus mindensis</GBSeq_organism>
+./AM285024.xml:  <GBSeq_organism>Lactobacillus nantensis</GBSeq_organism>
+./AM087727.xml:  <GBSeq_organism>Lactobacillus paraplantarum</GBSeq_organism>
+./AM087754.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./AM263505.xml:  <GBSeq_organism>Lactobacillus malefermentans</GBSeq_organism>
+./AM087730.xml:  <GBSeq_organism>Lactobacillus collinoides</GBSeq_organism>
+./AM285025.xml:  <GBSeq_organism>Lactobacillus crustorum</GBSeq_organism>
+./AM087755.xml:  <GBSeq_organism>Lactobacillus versmoldensis</GBSeq_organism>
+./AM087712.xml:  <GBSeq_organism>Lactobacillus paralimentarius</GBSeq_organism>

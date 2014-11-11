@@ -1,0 +1,8 @@
+./M59231.xml:  <GBSeq_organism>Flexistipes sinusarabici DSM 4947</GBSeq_organism>
+./X81319.xml:  <GBSeq_organism>Chrysiogenes arsenatis DSM 11915</GBSeq_organism>
+./AJ515882.xml:  <GBSeq_organism>Deferribacter abyssi</GBSeq_organism>
+./X95744.xml:  <GBSeq_organism>Geovibrio ferrireducens</GBSeq_organism>
+./AJ299402.xml:  <GBSeq_organism>Geovibrio thiophilus</GBSeq_organism>
+./EU407777.xml:  <GBSeq_organism>Deferribacter autotrophicus</GBSeq_organism>
+./AJ401021.xml:  <GBSeq_organism>Thermotoga maritima</GBSeq_organism>
+./DQ991965.xml:  <GBSeq_organism>Desulfurispirillum indicum S5</GBSeq_organism>

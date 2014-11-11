@@ -1,0 +1,13 @@
+./FJ599671.xml:  <GBSeq_organism>Sphingopyxis soli</GBSeq_organism>
+./D13728.xml:  <GBSeq_organism>Sphingobium yanoikuyae</GBSeq_organism>
+./AB245353.xml:  <GBSeq_organism>Sphingopyxis panaciterrae</GBSeq_organism>
+./AY554010.xml:  <GBSeq_organism>Sphingopyxis flavimaris</GBSeq_organism>
+./AJ416410.xml:  <GBSeq_organism>Sphingopyxis witflariensis</GBSeq_organism>
+./AF367204.xml:  <GBSeq_organism>Sphingopyxis chilensis</GBSeq_organism>
+./AF465835.xml:  <GBSeq_organism>Erythrobacter longus</GBSeq_organism>
+./AM237364.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./D16147.xml:  <GBSeq_organism>Novosphingobium capsulatum</GBSeq_organism>
+./AY563034.xml:  <GBSeq_organism>Sphingopyxis granuli</GBSeq_organism>
+./AY608604.xml:  <GBSeq_organism>Sphingopyxis baekryungensis</GBSeq_organism>
+./AF378795.xml:  <GBSeq_organism>Sphingopyxis alaskensis RB2256</GBSeq_organism>
+./AF131297.xml:  <GBSeq_organism>Sphingopyxis taejonensis</GBSeq_organism>

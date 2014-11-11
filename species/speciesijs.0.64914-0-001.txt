@@ -1,0 +1,37 @@
+./L16468.xml:  <GBSeq_organism>Prevotella intermedia</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB182483.xml:  <GBSeq_organism>Prevotella multiformis DSM 16608</GBSeq_organism>
+./L16471.xml:  <GBSeq_organism>Prevotella nigrescens</GBSeq_organism>
+./AY350613.xml:  <GBSeq_organism>Prevotella bergensis</GBSeq_organism>
+./L16480.xml:  <GBSeq_organism>Prevotella oralis</GBSeq_organism>
+./L16472.xml:  <GBSeq_organism>Prevotella oulorum</GBSeq_organism>
+./AJ011682.xml:  <GBSeq_organism>Prevotella brevis</GBSeq_organism>
+./L16488.xml:  <GBSeq_organism>Bacteroides zoogleoformans</GBSeq_organism>
+./L16473.xml:  <GBSeq_organism>Prevotella veroralis</GBSeq_organism>
+./L16469.xml:  <GBSeq_organism>Prevotella melaninogenica</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./L16467.xml:  <GBSeq_organism>Prevotella denticola</GBSeq_organism>
+./AB244774.xml:  <GBSeq_organism>Prevotella stercorea DSM 18206</GBSeq_organism>
+./AJ006457.xml:  <GBSeq_organism>Prevotella bryantii B14</GBSeq_organism>
+./AJ005635.xml:  <GBSeq_organism>Prevotella enoeca</GBSeq_organism>
+./X81876.xml:  <GBSeq_organism>Prevotella dentalis DSM 3688</GBSeq_organism>
+./L16474.xml:  <GBSeq_organism>Prevotella oris</GBSeq_organism>
+./L16476.xml:  <GBSeq_organism>Prevotella buccalis ATCC 35310</GBSeq_organism>
+./Y13105.xml:  <GBSeq_organism>Prevotella pallens ATCC 700821</GBSeq_organism>
+./AB081578.xml:  <GBSeq_organism>Prevotella paludivivens</GBSeq_organism>
+./L16483.xml:  <GBSeq_organism>Prevotella disiens</GBSeq_organism>
+./AB064923.xml:  <GBSeq_organism>Prevotella copri DSM 18205</GBSeq_organism>
+./AJ005634.xml:  <GBSeq_organism>Prevotella tannerae ATCC 51259</GBSeq_organism>
+./AF481227.xml:  <GBSeq_organism>Prevotella marshii DSM 16973 = JCM 13450</GBSeq_organism>
+./AB108826.xml:  <GBSeq_organism>Prevotella salivae DSM 15606</GBSeq_organism>
+./L16475.xml:  <GBSeq_organism>Prevotella bivia</GBSeq_organism>
+./AY840553.xml:  <GBSeq_organism>Prevotella baroniae</GBSeq_organism>
+./L16482.xml:  <GBSeq_organism>Prevotella ruminicola</GBSeq_organism>
+./L16487.xml:  <GBSeq_organism>Bacteroides heparinolyticus ATCC 35895</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./L16481.xml:  <GBSeq_organism>Prevotella loescheii</GBSeq_organism>
+./AB108825.xml:  <GBSeq_organism>Prevotella shahii</GBSeq_organism>
+./L16465.xml:  <GBSeq_organism>Prevotella corporis</GBSeq_organism>
+./AB200414.xml:  <GBSeq_organism>Prevotella multisaccharivorax DSM 17128</GBSeq_organism>
+./L16477.xml:  <GBSeq_organism>Prevotella buccae ATCC 33574</GBSeq_organism>

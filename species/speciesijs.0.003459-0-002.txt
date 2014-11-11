@@ -1,0 +1,24 @@
+./AY457069.xml:  <GBSeq_organism>Mycobacterium peregrinum</GBSeq_organism>
+./DQ473310.xml:  <GBSeq_organism>Mycobacterium gadium</GBSeq_organism>
+./AJ429047.xml:  <GBSeq_organism>Mycobacterium rhodesiae</GBSeq_organism>
+./AY457074.xml:  <GBSeq_organism>Mycobacterium mucogenicum</GBSeq_organism>
+./AY457076.xml:  <GBSeq_organism>Mycobacterium mageritense</GBSeq_organism>
+./AY859682.xml:  <GBSeq_organism>Mycobacterium phocaicum</GBSeq_organism>
+./AY457077.xml:  <GBSeq_organism>Mycobacterium porcinum</GBSeq_organism>
+./AY457079.xml:  <GBSeq_organism>Mycobacterium goodii</GBSeq_organism>
+./X88924.xml:  <GBSeq_organism>Mycobacterium triviale</GBSeq_organism>
+./AY457070.xml:  <GBSeq_organism>Mycobacterium septicum</GBSeq_organism>
+./AF480597.xml:  <GBSeq_organism>Mycobacterium chubuense</GBSeq_organism>
+./AY457084.xml:  <GBSeq_organism>Mycobacterium farcinogenes</GBSeq_organism>
+./AJ534886.xml:  <GBSeq_organism>Mycobacterium psychrotolerans</GBSeq_organism>
+./AY457081.xml:  <GBSeq_organism>Mycobacterium senegalense</GBSeq_organism>
+./X55598.xml:  <GBSeq_organism>Mycobacterium aichiense</GBSeq_organism>
+./AY859684.xml:  <GBSeq_organism>Mycobacterium conceptionense</GBSeq_organism>
+./EU605695.xml:  <GBSeq_organism>Mycobacterium insubricum</GBSeq_organism>
+./AY859685.xml:  <GBSeq_organism>Mycobacterium barrassiae</GBSeq_organism>
+./AY457066.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./AF480600.xml:  <GBSeq_organism>Mycobacterium fallax</GBSeq_organism>
+./AF480576.xml:  <GBSeq_organism>Mycobacterium brumae</GBSeq_organism>
+./AY457083.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>
+./AF480589.xml:  <GBSeq_organism>Mycobacterium poriferae</GBSeq_organism>
+./X79094.xml:  <GBSeq_organism>Mycobacterium chlorophenolicum</GBSeq_organism>

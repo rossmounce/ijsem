@@ -1,0 +1,11 @@
+./AY078271.xml:  <GBSeq_organism>Azoarcus tolulyticus</GBSeq_organism>
+./AJ224912.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AY078269.xml:  <GBSeq_organism>Azoarcus evansii</GBSeq_organism>
+./X91394.xml:  <GBSeq_organism>Ralstonia eutropha H16</GBSeq_organism>
+./AE004488.xml:  <GBSeq_organism>Pseudomonas aeruginosa PAO1</GBSeq_organism>
+./U05002.xml:  <GBSeq_organism>Paracoccus denitrificans PD1222</GBSeq_organism>
+./X56813.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AF197466.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./AY078257.xml:  <GBSeq_organism>Thauera aromatica</GBSeq_organism>
+./AM492191.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./AM230898.xml:  <GBSeq_organism>Comamonas sp. R-25014</GBSeq_organism>

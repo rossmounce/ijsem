@@ -1,0 +1,29 @@
+./X92150.xml:  <GBSeq_organism>Halomonas magadiensis</GBSeq_organism>
+./AM941392.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./AM941390.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./AY245449.xml:  <GBSeq_organism>Halomonas boliviensis LC1</GBSeq_organism>
+./AM941389.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./AM941388.xml:  <GBSeq_organism>Halomonas stevensii S18214</GBSeq_organism>
+./AM941394.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./EF144147.xml:  <GBSeq_organism>Halomonas arcis</GBSeq_organism>
+./AM941393.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./EF144148.xml:  <GBSeq_organism>Halomonas subterranea</GBSeq_organism>
+./AF212204.xml:  <GBSeq_organism>Halomonas sulfidaeris Esulfide1</GBSeq_organism>
+./AJ306894.xml:  <GBSeq_organism>Halomonas venusta</GBSeq_organism>
+./AM941395.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./AM229315.xml:  <GBSeq_organism>Halomonas janggokensis</GBSeq_organism>
+./AJ306892.xml:  <GBSeq_organism>Halomonas subglaciescola</GBSeq_organism>
+./AM941399.xml:  <GBSeq_organism>Halomonas johnsoniae</GBSeq_organism>
+./AM941401.xml:  <GBSeq_organism>Halomonas johnsoniae</GBSeq_organism>
+./AF212202.xml:  <GBSeq_organism>Halomonas neptunia</GBSeq_organism>
+./AJ431369.xml:  <GBSeq_organism>Halomonas glaciei</GBSeq_organism>
+./AM941400.xml:  <GBSeq_organism>Halomonas johnsoniae</GBSeq_organism>
+./AM941397.xml:  <GBSeq_organism>Halomonas hamiltonii</GBSeq_organism>
+./AM941398.xml:  <GBSeq_organism>Halomonas hamiltonii</GBSeq_organism>
+./AM229314.xml:  <GBSeq_organism>Halomonas gomseomensis</GBSeq_organism>
+./AJ306888.xml:  <GBSeq_organism>Halomonas aquamarina</GBSeq_organism>
+./AJ306893.xml:  <GBSeq_organism>Halomonas variabilis</GBSeq_organism>
+./AJ640133.xml:  <GBSeq_organism>Halomonas alkaliphila</GBSeq_organism>
+./X67023.xml:  <GBSeq_organism>Halomonas elongata DSM 2581</GBSeq_organism>
+./AM941391.xml:  <GBSeq_organism>Halomonas stevensii</GBSeq_organism>
+./AM941396.xml:  <GBSeq_organism>Halomonas hamiltonii</GBSeq_organism>

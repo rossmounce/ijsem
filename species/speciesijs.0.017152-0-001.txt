@@ -1,0 +1,24 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./L04321.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./Y13671.xml:  <GBSeq_organism>Sulfurospirillum deleyianum</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./EF621894.xml:  <GBSeq_organism>Campylobacter canadensis</GBSeq_organism>
+./FN401327.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./M88157.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./M65010.xml:  <GBSeq_organism>Campylobacter hyointestinalis</GBSeq_organism>
+./EU623473.xml:  <GBSeq_organism>Campylobacter avium LMG 24591</GBSeq_organism>
+./FN401323.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./L14627.xml:  <GBSeq_organism>Arcobacter nitrofigilis</GBSeq_organism>
+./X67775.xml:  <GBSeq_organism>Campylobacter sputorum biovar sputorum</GBSeq_organism>
+./L04313.xml:  <GBSeq_organism>Campylobacter curvus</GBSeq_organism>
+./M88159.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ251584.xml:  <GBSeq_organism>Campylobacter hominis</GBSeq_organism>
+./FN401325.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./FN401324.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>
+./L04314.xml:  <GBSeq_organism>Campylobacter fetus</GBSeq_organism>
+./AJ620504.xml:  <GBSeq_organism>Campylobacter insulaenigrae NCTC 12927</GBSeq_organism>
+./AM922331.xml:  <GBSeq_organism>Campylobacter peloridis</GBSeq_organism>
+./L06974.xml:  <GBSeq_organism>Campylobacter showae</GBSeq_organism>
+./U03022.xml:  <GBSeq_organism>Campylobacter helveticus</GBSeq_organism>
+./L04315.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./FN401326.xml:  <GBSeq_organism>Campylobacter ureolyticus</GBSeq_organism>

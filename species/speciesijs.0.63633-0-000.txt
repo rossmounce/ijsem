@@ -1,0 +1,7 @@
+./AY226508.xml:  <GBSeq_organism>Nesterenkonia halotolerans</GBSeq_organism>
+./AJ290397.xml:  <GBSeq_organism>Nesterenkonia lacusekhoensis</GBSeq_organism>
+./X80747.xml:  <GBSeq_organism>Nesterenkonia halobia</GBSeq_organism>
+./AY574575.xml:  <GBSeq_organism>Nesterenkonia aethiopica</GBSeq_organism>
+./AY588278.xml:  <GBSeq_organism>Nesterenkonia lutea</GBSeq_organism>
+./AY226510.xml:  <GBSeq_organism>Nesterenkonia xinjiangensis</GBSeq_organism>
+./AY588277.xml:  <GBSeq_organism>Nesterenkonia sandarakina</GBSeq_organism>

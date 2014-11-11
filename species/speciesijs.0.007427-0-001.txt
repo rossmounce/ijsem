@@ -1,0 +1,31 @@
+./AY756526.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./AY756515.xml:  <GBSeq_organism>Nocardia beijingensis</GBSeq_organism>
+./AY903635.xml:  <GBSeq_organism>Nocardia shimofusensis</GBSeq_organism>
+./AY756528.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./DQ789014.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./DQ351152.xml:  <GBSeq_organism>Nocardia abscessus</GBSeq_organism>
+./AY903636.xml:  <GBSeq_organism>Nocardia pneumoniae</GBSeq_organism>
+./AY756519.xml:  <GBSeq_organism>Nocardia cerradoensis</GBSeq_organism>
+./AY756525.xml:  <GBSeq_organism>Nocardia fluminea</GBSeq_organism>
+./AY903631.xml:  <GBSeq_organism>Nocardia asiatica NBRC 100129</GBSeq_organism>
+./DQ789018.xml:  <GBSeq_organism>Nocardia brevicatena</GBSeq_organism>
+./AY903627.xml:  <GBSeq_organism>Nocardia tenerifensis</GBSeq_organism>
+./DQ789017.xml:  <GBSeq_organism>Nocardia carnea</GBSeq_organism>
+./EF375994.xml:  <GBSeq_organism>Nocardia alba</GBSeq_organism>
+./AY756534.xml:  <GBSeq_organism>Nocardia soli</GBSeq_organism>
+./AY903625.xml:  <GBSeq_organism>Nocardia inohanensis</GBSeq_organism>
+./AB292586.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AY756535.xml:  <GBSeq_organism>Nocardia transvalensis</GBSeq_organism>
+./AY756532.xml:  <GBSeq_organism>Nocardia salmonicida</GBSeq_organism>
+./AY903624.xml:  <GBSeq_organism>Nocardia mexicana</GBSeq_organism>
+./AY903630.xml:  <GBSeq_organism>Nocardia yamanashiensis</GBSeq_organism>
+./AY756521.xml:  <GBSeq_organism>Nocardia cummidelens</GBSeq_organism>
+./DQ789006.xml:  <GBSeq_organism>Nocardia thailandica</GBSeq_organism>
+./AY756513.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./DQ789013.xml:  <GBSeq_organism>Nocardia higoensis NBRC 100133</GBSeq_organism>
+./EF127507.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./AY903637.xml:  <GBSeq_organism>Nocardia araoensis NBRC 100135</GBSeq_organism>
+./AY756516.xml:  <GBSeq_organism>Nocardia brasiliensis NBRC 14402</GBSeq_organism>
+./AY903633.xml:  <GBSeq_organism>Nocardia arthritidis</GBSeq_organism>
+./AY756531.xml:  <GBSeq_organism>Nocardia pseudovaccinii</GBSeq_organism>
+./AY903632.xml:  <GBSeq_organism>Nocardia puris</GBSeq_organism>

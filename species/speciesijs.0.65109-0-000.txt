@@ -1,0 +1,20 @@
+./AJ276354.xml:  <GBSeq_organism>Enterococcus durans</GBSeq_organism>
+./AJ301827.xml:  <GBSeq_organism>Enterococcus cecorum DSM 20682 = ATCC 43198</GBSeq_organism>
+./EF154454.xml:  <GBSeq_organism>Enterococcus camelliae</GBSeq_organism>
+./AJ891167.xml:  <GBSeq_organism>Enterococcus devriesei</GBSeq_organism>
+./AJ301836.xml:  <GBSeq_organism>Enterococcus mundtii</GBSeq_organism>
+./AJ301833.xml:  <GBSeq_organism>Enterococcus gallinarum</GBSeq_organism>
+./Y18275.xml:  <GBSeq_organism>Enterococcus columbae DSM 7374 = ATCC 51263</GBSeq_organism>
+./AJ276356.xml:  <GBSeq_organism>Enterococcus hirae</GBSeq_organism>
+./DQ411816.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./DQ411815.xml:  <GBSeq_organism>Enterococcus sulfureus ATCC 49903</GBSeq_organism>
+./DQ411811.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AY028437.xml:  <GBSeq_organism>Enterococcus phoeniculicola</GBSeq_organism>
+./DQ411809.xml:  <GBSeq_organism>Enterococcus pseudoavium</GBSeq_organism>
+./Y18296.xml:  <GBSeq_organism>Enterococcus raffinosus</GBSeq_organism>
+./DQ411814.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AY321375.xml:  <GBSeq_organism>Enterococcus italicus</GBSeq_organism>
+./Y18161.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./AJ271329.xml:  <GBSeq_organism>Enterococcus villorum</GBSeq_organism>
+./AJ877015.xml:  <GBSeq_organism>Enterococcus aquimarinus</GBSeq_organism>
+./DQ411813.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>

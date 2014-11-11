@@ -1,0 +1,4 @@
+./X60640.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./AF067651.xml:  <GBSeq_organism>Geobacillus caldoxylosilyticus</GBSeq_organism>
+./X60641.xml:  <GBSeq_organism>Geobacillus thermoglucosidasius</GBSeq_organism>
+./AY122325.xml:  <GBSeq_organism>Anoxybacillus gonensis</GBSeq_organism>

@@ -1,0 +1,27 @@
+./X60415.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>
+./X60408.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./X60413.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>
+./X60416.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./X74680.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./X60414.xml:  <GBSeq_organism>Aeromonas veronii bv. veronii</GBSeq_organism>
+./U88663.xml:  <GBSeq_organism>Aeromonas diversa 2478-85</GBSeq_organism>
+./X60410.xml:  <GBSeq_organism>Aeromonas media</GBSeq_organism>
+./X60417.xml:  <GBSeq_organism>Aeromonas sp.</GBSeq_organism>
+./X60412.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./AY532692.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./X60405.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./X60407.xml:  <GBSeq_organism>Aeromonas salmonicida</GBSeq_organism>
+./X60411.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./AF170914.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY532690.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./AY532689.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./AJ508766.xml:  <GBSeq_organism>Aeromonas hydrophila subsp. ranae</GBSeq_organism>
+./AJ224309.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AF134065.xml:  <GBSeq_organism>Aeromonas salmonicida subsp. pectinolytica</GBSeq_organism>
+./X60404.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AJ224308.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AY532691.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./AJ536821.xml:  <GBSeq_organism>Aeromonas simiae</GBSeq_organism>
+./X60406.xml:  <GBSeq_organism>Aeromonas bestiarum</GBSeq_organism>
+./AJ508765.xml:  <GBSeq_organism>Aeromonas dhakensis</GBSeq_organism>
+./AY532688.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>

@@ -1,0 +1,13 @@
+./AY254040.xml:  <GBSeq_organism>Vibrio hispanicus</GBSeq_organism>
+./X74706.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./AY254042.xml:  <GBSeq_organism>Vibrio hispanicus</GBSeq_organism>
+./X74726.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./X74701.xml:  <GBSeq_organism>Vibrio diazotrophicus</GBSeq_organism>
+./X74690.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74717.xml:  <GBSeq_organism>Vibrio nigripulchritudo ATCC 27043</GBSeq_organism>
+./AY254039.xml:  <GBSeq_organism>Vibrio hispanicus</GBSeq_organism>
+./X74692.xml:  <GBSeq_organism>Vibrio campbellii CAIM 519 = NBRC 15631</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./X74714.xml:  <GBSeq_organism>Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759</GBSeq_organism>
+./AY254041.xml:  <GBSeq_organism>Vibrio hispanicus</GBSeq_organism>
+./X74723.xml:  <GBSeq_organism>Vibrio proteolyticus</GBSeq_organism>

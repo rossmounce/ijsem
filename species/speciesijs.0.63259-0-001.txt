@@ -1,0 +1,11 @@
+./U45720.xml:  <GBSeq_organism>Candida mesenterica</GBSeq_organism>
+./AF059667.xml:  <GBSeq_organism>Candida restingae</GBSeq_organism>
+./U45732.xml:  <GBSeq_organism>Candida suecica</GBSeq_organism>
+./AY313957.xml:  <GBSeq_organism>Candida fukazawae</GBSeq_organism>
+./U45702.xml:  <GBSeq_organism>Kodamaea ohmeri</GBSeq_organism>
+./AY449659.xml:  <GBSeq_organism>Candida leandrae</GBSeq_organism>
+./AF059668.xml:  <GBSeq_organism>Kodamaea anthophila</GBSeq_organism>
+./AY313959.xml:  <GBSeq_organism>Candida sagamina</GBSeq_organism>
+./AF059665.xml:  <GBSeq_organism>Kodamaea nitidulidarum</GBSeq_organism>
+./AF092279.xml:  <GBSeq_organism>Kodamaea kakaduensis</GBSeq_organism>
+./AY313958.xml:  <GBSeq_organism>Candida fungicola</GBSeq_organism>

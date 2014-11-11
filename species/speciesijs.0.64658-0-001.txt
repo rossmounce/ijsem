@@ -1,0 +1,10 @@
+./AY694008.xml:  <GBSeq_organism>Gillisia illustrilutea</GBSeq_organism>
+./AY576655.xml:  <GBSeq_organism>Gillisia mitskevichiae</GBSeq_organism>
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AJ440991.xml:  <GBSeq_organism>Gillisia limnaea DSM 15749</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./AY694006.xml:  <GBSeq_organism>Gillisia hiemivivida</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AB116148.xml:  <GBSeq_organism>Salegentibacter holothuriorum</GBSeq_organism>
+./DQ640642.xml:  <GBSeq_organism>Salinimicrobium catena</GBSeq_organism>
+./AY694007.xml:  <GBSeq_organism>Gillisia sandarakina</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AF360736.xml:  <GBSeq_organism>Fructobacillus ficulneus</GBSeq_organism>
+./AF360737.xml:  <GBSeq_organism>Fructobacillus fructosus KCTC 3544</GBSeq_organism>
+./AB498045.xml:  <GBSeq_organism>Lactobacillus florum</GBSeq_organism>
+./AJ780981.xml:  <GBSeq_organism>Fructobacillus durionis</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF173986.xml:  <GBSeq_organism>Leuconostoc kimchii</GBSeq_organism>
+./AM600682.xml:  <GBSeq_organism>Leuconostoc holzapfelii</GBSeq_organism>
+./AF231131.xml:  <GBSeq_organism>Leuconostoc gasicomitatum LMG 18811</GBSeq_organism>
+./AF439560.xml:  <GBSeq_organism>Leuconostoc inhae KCTC 3774</GBSeq_organism>
+./AB221475.xml:  <GBSeq_organism>Oenococcus kitaharae DSM 17330</GBSeq_organism>
+./X76328.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./AB542054.xml:  <GBSeq_organism>Fructobacillus tropaeoli</GBSeq_organism>
+./AF360738.xml:  <GBSeq_organism>Leuconostoc fallax KCTC 3537</GBSeq_organism>
+./D86517.xml:  <GBSeq_organism>Lactobacillus casei ATCC 334</GBSeq_organism>
+./AM940225.xml:  <GBSeq_organism>Leuconostoc palmae</GBSeq_organism>

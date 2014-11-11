@@ -1,0 +1,28 @@
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./AB271055.xml:  <GBSeq_organism>Caulobacter ginsengisoli</GBSeq_organism>
+./AJ227759.xml:  <GBSeq_organism>Caulobacter fusiformis</GBSeq_organism>
+./AY628697.xml:  <GBSeq_organism>Phenylobacterium zucineum HLK1</GBSeq_organism>
+./AY534887.xml:  <GBSeq_organism>Phenylobacterium lituiforme</GBSeq_organism>
+./AJ247194.xml:  <GBSeq_organism>Asticcacaulis excentricus CB 48</GBSeq_organism>
+./AJ227784.xml:  <GBSeq_organism>Brevundimonas subvibrioides ATCC 15264</GBSeq_organism>
+./AJ227767.xml:  <GBSeq_organism>Phenylobacterium conjunctum</GBSeq_organism>
+./AJ227785.xml:  <GBSeq_organism>Brevundimonas alba</GBSeq_organism>
+./AJ227801.xml:  <GBSeq_organism>Brevundimonas mediterranea</GBSeq_organism>
+./AJ227758.xml:  <GBSeq_organism>Caulobacter henricii</GBSeq_organism>
+./AB166881.xml:  <GBSeq_organism>Phenylobacterium koreense</GBSeq_organism>
+./DQ372984.xml:  <GBSeq_organism>Brevundimonas aveniformis</GBSeq_organism>
+./AJ227778.xml:  <GBSeq_organism>Brevundimonas diminuta ATCC 11568</GBSeq_organism>
+./AJ244650.xml:  <GBSeq_organism>Phenylobacterium haematophilum</GBSeq_organism>
+./AJ227782.xml:  <GBSeq_organism>Brevundimonas bacteroides</GBSeq_organism>
+./AJ227786.xml:  <GBSeq_organism>Brevundimonas intermedia</GBSeq_organism>
+./AY971368.xml:  <GBSeq_organism>Brevundimonas kwangchunensis</GBSeq_organism>
+./AJ247193.xml:  <GBSeq_organism>Asticcacaulis biprosthecium</GBSeq_organism>
+./AY500141.xml:  <GBSeq_organism>Asticcacaulis taihuensis</GBSeq_organism>
+./AJ717391.xml:  <GBSeq_organism>Phenylobacterium falsum</GBSeq_organism>
+./Y18216.xml:  <GBSeq_organism>Phenylobacterium immobile</GBSeq_organism>
+./AM087199.xml:  <GBSeq_organism>Asticcacaulis benevestitus</GBSeq_organism>
+./AJ227787.xml:  <GBSeq_organism>Brevundimonas aurantiaca</GBSeq_organism>
+./AJ227780.xml:  <GBSeq_organism>Brevundimonas vesicularis</GBSeq_organism>
+./AJ227774.xml:  <GBSeq_organism>Caulobacter mirabilis</GBSeq_organism>
+./AJ227783.xml:  <GBSeq_organism>Brevundimonas variabilis</GBSeq_organism>
+./EF363713.xml:  <GBSeq_organism>Brevundimonas lenta</GBSeq_organism>

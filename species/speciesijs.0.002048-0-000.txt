@@ -1,0 +1,7 @@
+./AB374516.xml:  <GBSeq_organism>Sporolactobacillus laevolacticus</GBSeq_organism>
+./AB374522.xml:  <GBSeq_organism>Sporolactobacillus putidus</GBSeq_organism>
+./AB374521.xml:  <GBSeq_organism>Sporolactobacillus inulinus</GBSeq_organism>
+./AB374518.xml:  <GBSeq_organism>Sporolactobacillus nakayamae subsp. nakayamae</GBSeq_organism>
+./EF581818.xml:  <GBSeq_organism>Sporolactobacillus vineae</GBSeq_organism>
+./AB374519.xml:  <GBSeq_organism>Sporolactobacillus nakayamae subsp. racemicus</GBSeq_organism>
+./EF581819.xml:  <GBSeq_organism>Sporolactobacillus vineae DSM 21990 = SL153</GBSeq_organism>

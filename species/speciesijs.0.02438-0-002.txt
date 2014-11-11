@@ -1,0 +1,16 @@
+./AF423245.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AF423269.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./AF234121.xml:  <GBSeq_organism>uncultured bacterium #0649-1N15</GBSeq_organism>
+./X92694.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./X98372.xml:  <GBSeq_organism>Rubrobacter radiotolerans DSM 5868</GBSeq_organism>
+./Y15502.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./X68459.xml:  <GBSeq_organism>Actinomycetales</GBSeq_organism>
+./AF234151.xml:  <GBSeq_organism>uncultured bacterium #0319-7H2</GBSeq_organism>
+./AF234119.xml:  <GBSeq_organism>uncultured bacterium #0649-1G9</GBSeq_organism>
+./AF234135.xml:  <GBSeq_organism>uncultured bacterium #0319-6M6</GBSeq_organism>
+./AF391982.xml:  <GBSeq_organism>uncultured thermal soil bacterium</GBSeq_organism>
+./AY039806.xml:  <GBSeq_organism>Solirubrobacter pauli</GBSeq_organism>
+./X92699.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AY048894.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X92707.xml:  <GBSeq_organism>uncultured Actinomycetales bacterium</GBSeq_organism>
+./AF391984.xml:  <GBSeq_organism>uncultured thermal soil bacterium</GBSeq_organism>

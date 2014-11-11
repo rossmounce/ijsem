@@ -1,0 +1,9 @@
+./AB210824.xml:  <GBSeq_organism>Sharpea azabuensis</GBSeq_organism>
+./AB031056.xml:  <GBSeq_organism>Solobacterium moorei</GBSeq_organism>
+./M23730.xml:  <GBSeq_organism>[Streptococcus] pleomorphus</GBSeq_organism>
+./AJ318414.xml:  <GBSeq_organism>Pediococcus damnosus</GBSeq_organism>
+./M59230.xml:  <GBSeq_organism>[Eubacterium] biforme DSM 3989</GBSeq_organism>
+./M58814.xml:  <GBSeq_organism>Lactobacillus delbrueckii</GBSeq_organism>
+./AF220064.xml:  <GBSeq_organism>Bulleidia extructa</GBSeq_organism>
+./AB210825.xml:  <GBSeq_organism>Kandleria vitulina</GBSeq_organism>
+./M23732.xml:  <GBSeq_organism>[Clostridium] innocuum</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AJ237607.xml:  <GBSeq_organism>Desulfobacterium indolicum</GBSeq_organism>
+./DQ303457.xml:  <GBSeq_organism>Desulfoglaeba alkanexedens ALDC</GBSeq_organism>
+./U45992.xml:  <GBSeq_organism>Desulfonema ishimotonii</GBSeq_organism>
+./AY493562.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./L27426.xml:  <GBSeq_organism>Desulfacinum infernum</GBSeq_organism>
+./X83274.xml:  <GBSeq_organism>Desulforhabdus amnigena</GBSeq_organism>
+./X70955.xml:  <GBSeq_organism>Pelobacter acetylenicus</GBSeq_organism>
+./AJ237603.xml:  <GBSeq_organism>Desulfosarcina cetonica</GBSeq_organism>
+./AJ237601.xml:  <GBSeq_organism>Desulfatiglans anilini</GBSeq_organism>
+./M34405.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./FJ491989.xml:  <GBSeq_organism>Desulfosoma caldarium</GBSeq_organism>
+./AJ237605.xml:  <GBSeq_organism>Syntrophobacter sp.</GBSeq_organism>
+./AF385080.xml:  <GBSeq_organism>Desulfacinum subterraneum</GBSeq_organism>
+./AF230531.xml:  <GBSeq_organism>Desulfomonile limimaris</GBSeq_organism>
+./X82875.xml:  <GBSeq_organism>Syntrophobacter pfennigii</GBSeq_organism>
+./X70905.xml:  <GBSeq_organism>Syntrophobacter wolinii</GBSeq_organism>
+./X82874.xml:  <GBSeq_organism>Syntrophobacter fumaroxidans MPOB</GBSeq_organism>
+./U25627.xml:  <GBSeq_organism>Thermodesulforhabdus norvegica</GBSeq_organism>
+./U41562.xml:  <GBSeq_organism>Pelobacter venetianus</GBSeq_organism>

@@ -1,0 +1,6 @@
+./U76535.xml:  <GBSeq_organism>Thermococcus barossii</GBSeq_organism>
+./M21529.xml:  <GBSeq_organism>Thermococcus celer</GBSeq_organism>
+./D38650.xml:  <GBSeq_organism>Thermococcus kodakarensis KOD1</GBSeq_organism>
+./AB055122.xml:  <GBSeq_organism>Thermococcus fumicolans</GBSeq_organism>
+./AB107767.xml:  <GBSeq_organism>Thermococcus coalescens</GBSeq_organism>
+./AF394925.xml:  <GBSeq_organism>Thermococcus thioreducens</GBSeq_organism>

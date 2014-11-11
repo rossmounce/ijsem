@@ -1,0 +1,15 @@
+./AM946639.xml:  <GBSeq_organism>Corynebacterium hansenii</GBSeq_organism>
+./AJ292762.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./X82057.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./X84444.xml:  <GBSeq_organism>Corynebacterium bovis DSM 20582= CIP 54.80</GBSeq_organism>
+./AM930556.xml:  <GBSeq_organism>Corynebacterium sputi DSM 45148</GBSeq_organism>
+./X84250.xml:  <GBSeq_organism>Corynebacterium jeikeium</GBSeq_organism>
+./CP001620.xml:  <GBSeq_organism>Corynebacterium kroppenstedtii DSM 44385</GBSeq_organism>
+./X84446.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./D38575.xml:  <GBSeq_organism>Corynebacterium bovis DSM 20582= CIP 54.80</GBSeq_organism>
+./AJ243819.xml:  <GBSeq_organism>Corynebacterium auriscanis</GBSeq_organism>
+./HM165487.xml:  <GBSeq_organism>Corynebacterium nuruki S6-4</GBSeq_organism>
+./Y13024.xml:  <GBSeq_organism>Corynebacterium falsenii</GBSeq_organism>
+./AM942444.xml:  <GBSeq_organism>Corynebacterium urealyticum DSM 7109</GBSeq_organism>
+./AY233201.xml:  <GBSeq_organism>Rhodococcus gordoniae</GBSeq_organism>
+./AJ222815.xml:  <GBSeq_organism>Corynebacterium variabile</GBSeq_organism>

@@ -1,0 +1,21 @@
+./AY186195.xml:  <GBSeq_organism>Thalassospira profundimaris WP0211</GBSeq_organism>
+./AY189753.xml:  <GBSeq_organism>Thalassospira xiamenensis M-5 = DSM 17429</GBSeq_organism>
+./AF358664.xml:  <GBSeq_organism>Thalassospira lucentensis MCCC 1A00383 = DSM 14000</GBSeq_organism>
+./EF612767.xml:  <GBSeq_organism>Insolitispirillum peregrinum subsp. peregrinum</GBSeq_organism>
+./EF100694.xml:  <GBSeq_organism>Caenispirillum bisanense</GBSeq_organism>
+./DQ393891.xml:  <GBSeq_organism>Azospirillum canadense</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AJ001276.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AY043374.xml:  <GBSeq_organism>Inquilinus limosus</GBSeq_organism>
+./D14433.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./EF612768.xml:  <GBSeq_organism>Insolitispirillum peregrinum subsp. integrum</GBSeq_organism>
+./AB185396.xml:  <GBSeq_organism>Azospirillum oryzae</GBSeq_organism>
+./AF179678.xml:  <GBSeq_organism>Defluviicoccus vanus</GBSeq_organism>
+./DQ672568.xml:  <GBSeq_organism>Skermanella aerolata KACC 11604</GBSeq_organism>
+./EF612766.xml:  <GBSeq_organism>Novispirillum itersonii subsp. nipponicum</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>
+./EU642410.xml:  <GBSeq_organism>Marispirillum indicum</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>
+./EF612765.xml:  <GBSeq_organism>Novispirillum itersonii subsp. itersonii</GBSeq_organism>
+./DQ234645.xml:  <GBSeq_organism>uncultured proteobacterium</GBSeq_organism>

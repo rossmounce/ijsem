@@ -1,0 +1,7 @@
+./EU272024.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./EU272026.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./EU272028.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./EU272025.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./DQ309293.xml:  <GBSeq_organism>Bacillus subtilis subsp. subtilis</GBSeq_organism>
+./EU272027.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./EU272029.xml:  <GBSeq_organism>Paenibacillus taichungensis</GBSeq_organism>

@@ -1,0 +1,34 @@
+./AF539697.xml:  <GBSeq_organism>Salinibacterium amurskyense</GBSeq_organism>
+./X77439.xml:  <GBSeq_organism>Rathayibacter rathayi</GBSeq_organism>
+./AF224722.xml:  <GBSeq_organism>Subtercola boreus</GBSeq_organism>
+./AF224723.xml:  <GBSeq_organism>Subtercola frigoramans</GBSeq_organism>
+./X77450.xml:  <GBSeq_organism>Leifsonia aquatica</GBSeq_organism>
+./AM939567.xml:  <GBSeq_organism>Candidatus Flaviluna lacus</GBSeq_organism>
+./AJ746337.xml:  <GBSeq_organism>Leucobacter komagatae</GBSeq_organism>
+./D84127.xml:  <GBSeq_organism>Rathayibacter toxicus</GBSeq_organism>
+./AJ717385.xml:  <GBSeq_organism>Microcella alkaliphila</GBSeq_organism>
+./AJ565416.xml:  <GBSeq_organism>Candidatus Aquiluna rubra</GBSeq_organism>
+./AF159363.xml:  <GBSeq_organism>Agreia bicolorata</GBSeq_organism>
+./AJ438585.xml:  <GBSeq_organism>Leifsonia rubra</GBSeq_organism>
+./Y17237.xml:  <GBSeq_organism>Microbacterium schleiferi</GBSeq_organism>
+./AM939566.xml:  <GBSeq_organism>Candidatus Planktoluna difficilis</GBSeq_organism>
+./AJ565417.xml:  <GBSeq_organism>Candidatus Rhodoluna limnophila</GBSeq_organism>
+./AJ544063.xml:  <GBSeq_organism>Cryobacterium psychrophilum</GBSeq_organism>
+./X77444.xml:  <GBSeq_organism>Microbacterium liquefaciens</GBSeq_organism>
+./X77436.xml:  <GBSeq_organism>Curtobacterium citreum</GBSeq_organism>
+./AM943659.xml:  <GBSeq_organism>Candidatus Limnoluna rubra</GBSeq_organism>
+./AJ459101.xml:  <GBSeq_organism>Rhodoglobus vestalii</GBSeq_organism>
+./AB012648.xml:  <GBSeq_organism>Mycetocola lacteus</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./X77440.xml:  <GBSeq_organism>Pseudoclavibacter helvolus</GBSeq_organism>
+./X77438.xml:  <GBSeq_organism>Rathayibacter tritici</GBSeq_organism>
+./AJ310417.xml:  <GBSeq_organism>Plantibacter flavus</GBSeq_organism>
+./X92492.xml:  <GBSeq_organism>Agrococcus jenensis</GBSeq_organism>
+./AF116342.xml:  <GBSeq_organism>Leifsonia poae</GBSeq_organism>
+./Y18807.xml:  <GBSeq_organism>Frigoribacterium faeni</GBSeq_organism>
+./AJ717388.xml:  <GBSeq_organism>Microcella putealis</GBSeq_organism>
+./X79463.xml:  <GBSeq_organism>Cellulomonas flavigena DSM 20109</GBSeq_organism>
+./AJ565415.xml:  <GBSeq_organism>Candidatus Rhodoluna planktonica</GBSeq_organism>
+./AJ310416.xml:  <GBSeq_organism>Clavibacter michiganensis</GBSeq_organism>
+./X83804.xml:  <GBSeq_organism>Cellulomonas cellasea DSM 20118</GBSeq_organism>
+./AM182889.xml:  <GBSeq_organism>Candidatus Rhodoluna lacicola</GBSeq_organism>

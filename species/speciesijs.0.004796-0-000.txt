@@ -1,0 +1,11 @@
+./Y18833.xml:  <GBSeq_organism>Hymenobacter roseosalivarius DSM 11622</GBSeq_organism>
+./EU682684.xml:  <GBSeq_organism>Adhaeribacter terreus</GBSeq_organism>
+./AJ626894.xml:  <GBSeq_organism>Adhaeribacter aquaticus</GBSeq_organism>
+./AB251884.xml:  <GBSeq_organism>Hymenobacter soli</GBSeq_organism>
+./EU155008.xml:  <GBSeq_organism>Hymenobacter aerophilus</GBSeq_organism>
+./Y18836.xml:  <GBSeq_organism>Hymenobacter gelipurpurascens</GBSeq_organism>
+./Y18837.xml:  <GBSeq_organism>Hymenobacter chitinivorans</GBSeq_organism>
+./M62797.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./AY989908.xml:  <GBSeq_organism>Pontibacter actiniarum DSM 19842</GBSeq_organism>
+./Y18835.xml:  <GBSeq_organism>Hymenobacter ocellatus</GBSeq_organism>
+./Y17356.xml:  <GBSeq_organism>Hymenobacter actinosclerus</GBSeq_organism>

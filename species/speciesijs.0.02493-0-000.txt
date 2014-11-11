@@ -1,0 +1,17 @@
+./AF003930.xml:  <GBSeq_organism>Streptococcus pneumoniae</GBSeq_organism>
+./X58320.xml:  <GBSeq_organism>Streptococcus salivarius</GBSeq_organism>
+./AF432856.xml:  <GBSeq_organism>Streptococcus sinensis</GBSeq_organism>
+./AF003933.xml:  <GBSeq_organism>Streptococcus parasanguinis ATCC 15912</GBSeq_organism>
+./AF184974.xml:  <GBSeq_organism>Streptococcus australis ATCC 700641</GBSeq_organism>
+./AF003929.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./X58321.xml:  <GBSeq_organism>Streptococcus vestibularis ATCC 49124</GBSeq_organism>
+./X58303.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./AF003932.xml:  <GBSeq_organism>Streptococcus oralis ATCC 35037</GBSeq_organism>
+./X58309.xml:  <GBSeq_organism>Streptococcus anginosus</GBSeq_organism>
+./AY099095.xml:  <GBSeq_organism>Streptococcus oligofermentans</GBSeq_organism>
+./AF003928.xml:  <GBSeq_organism>Streptococcus sanguinis SK1</GBSeq_organism>
+./X68418.xml:  <GBSeq_organism>Streptococcus thermophilus</GBSeq_organism>
+./X58311.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>
+./AF003931.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./AF104676.xml:  <GBSeq_organism>Streptococcus constellatus</GBSeq_organism>

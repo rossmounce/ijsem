@@ -1,0 +1,13 @@
+./AB282887.xml:  <GBSeq_organism>Intrasporangium oryzae NRRL B-24470</GBSeq_organism>
+./AF125092.xml:  <GBSeq_organism>Tetrasphaera japonica</GBSeq_organism>
+./Y17869.xml:  <GBSeq_organism>Ornithinicoccus hortensis</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./EF212039.xml:  <GBSeq_organism>Terrabacter aerolatus</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./FJ423552.xml:  <GBSeq_organism>Terrabacter terrigena</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AM690744.xml:  <GBSeq_organism>Terrabacter lapilli</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./AY944176.xml:  <GBSeq_organism>Terrabacter terrae</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>

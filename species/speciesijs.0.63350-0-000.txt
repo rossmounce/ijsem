@@ -1,0 +1,11 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X83951.xml:  <GBSeq_organism>Bacteroides caccae</GBSeq_organism>
+./AB021164.xml:  <GBSeq_organism>Bacteroides acidifaciens</GBSeq_organism>
+./L16484.xml:  <GBSeq_organism>Bacteroides ovatus</GBSeq_organism>
+./X83953.xml:  <GBSeq_organism>Bacteroides stercoris ATCC 43183</GBSeq_organism>
+./AY126616.xml:  <GBSeq_organism>Bacteroides massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223</GBSeq_organism>
+./L16488.xml:  <GBSeq_organism>Bacteroides zoogleoformans</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58762.xml:  <GBSeq_organism>Bacteroides vulgatus</GBSeq_organism>
+./L16487.xml:  <GBSeq_organism>Bacteroides heparinolyticus ATCC 35895</GBSeq_organism>
+./L16489.xml:  <GBSeq_organism>Bacteroides thetaiotaomicron</GBSeq_organism>

@@ -1,0 +1,25 @@
+./AF143511.xml:  <GBSeq_organism>Alkalibacterium olivapovliticus</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./X54271.xml:  <GBSeq_organism>Carnobacterium mobile</GBSeq_organism>
+./AB023575.xml:  <GBSeq_organism>Streptococcus pyogenes</GBSeq_organism>
+./AF450136.xml:  <GBSeq_organism>Carnobacterium pleistocenium FTR1</GBSeq_organism>
+./L76599.xml:  <GBSeq_organism>Trichococcus pasteurii</GBSeq_organism>
+./X54269.xml:  <GBSeq_organism>Carnobacterium gallinarum</GBSeq_organism>
+./AF425608.xml:  <GBSeq_organism>Carnobacterium viridans</GBSeq_organism>
+./M58825.xml:  <GBSeq_organism>Carnobacterium maltaromaticum</GBSeq_organism>
+./AF445248.xml:  <GBSeq_organism>Atopostipes suicloacalis</GBSeq_organism>
+./AJ306612.xml:  <GBSeq_organism>Trichococcus collinsii</GBSeq_organism>
+./Y17301.xml:  <GBSeq_organism>Trichococcus flocculiformis</GBSeq_organism>
+./AJ296179.xml:  <GBSeq_organism>Trichococcus palustris</GBSeq_organism>
+./AY485792.xml:  <GBSeq_organism>Marinilactibacillus piezotolerans</GBSeq_organism>
+./AF394926.xml:  <GBSeq_organism>Trichococcus patagoniensis</GBSeq_organism>
+./AJ302648.xml:  <GBSeq_organism>Isobaculum melis</GBSeq_organism>
+./L08623.xml:  <GBSeq_organism>Carnobacterium alterfunditum</GBSeq_organism>
+./Y17300.xml:  <GBSeq_organism>Desemzia incerta</GBSeq_organism>
+./AB125938.xml:  <GBSeq_organism>Alkalibacterium psychrotolerans</GBSeq_organism>
+./AJ634917.xml:  <GBSeq_organism>Atopococcus tabaci</GBSeq_organism>
+./AB188091.xml:  <GBSeq_organism>Alkalibacterium iburiense</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>
+./AB430339.xml:  <GBSeq_organism>Lacticigenium naphtae</GBSeq_organism>
+./X54270.xml:  <GBSeq_organism>Carnobacterium divergens</GBSeq_organism>
+./AJ410303.xml:  <GBSeq_organism>Allofustis seminis</GBSeq_organism>

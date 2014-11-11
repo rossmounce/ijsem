@@ -1,0 +1,14 @@
+./AJ276808.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./DQ346552.xml:  <GBSeq_organism>uncultured compost bacterium</GBSeq_organism>
+./AJ315060.xml:  <GBSeq_organism>Oceanobacillus picturae</GBSeq_organism>
+./AB188089.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi</GBSeq_organism>
+./AB010863.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./AY543169.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./AJ640134.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi subsp. incaldanensis</GBSeq_organism>
+./D16275.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./DQ346602.xml:  <GBSeq_organism>uncultured compost bacterium</GBSeq_organism>
+./AJ316302.xml:  <GBSeq_organism>Virgibacillus carmonensis</GBSeq_organism>
+./AJ315056.xml:  <GBSeq_organism>Virgibacillus necropolis</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./Y11603.xml:  <GBSeq_organism>Virgibacillus salexigens</GBSeq_organism>
+./DQ346627.xml:  <GBSeq_organism>uncultured compost bacterium</GBSeq_organism>

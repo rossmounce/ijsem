@@ -1,0 +1,30 @@
+./AJ508240.xml:  <GBSeq_organism>Amycolatopsis vancoresmycina</GBSeq_organism>
+./AB184568.xml:  <GBSeq_organism>Streptomyces piloviolofuscus</GBSeq_organism>
+./AY957506.xml:  <GBSeq_organism>Amycolatopsis benzoatilytica</GBSeq_organism>
+./AY262825.xml:  <GBSeq_organism>Amycolatopsis plumensis</GBSeq_organism>
+./AJ400711.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./AJ278496.xml:  <GBSeq_organism>Amycolatopsis keratiniphila</GBSeq_organism>
+./AJ293754.xml:  <GBSeq_organism>Amycolatopsis mediterranei</GBSeq_organism>
+./AJ293753.xml:  <GBSeq_organism>Amycolatopsis coloradensis</GBSeq_organism>
+./AY183356.xml:  <GBSeq_organism>Amycolatopsis pretoriensis</GBSeq_organism>
+./AJ293757.xml:  <GBSeq_organism>Amycolatopsis tolypomycina</GBSeq_organism>
+./AJ293755.xml:  <GBSeq_organism>Amycolatopsis orientalis</GBSeq_organism>
+./DQ792500.xml:  <GBSeq_organism>Amycolatopsis saalfeldensis</GBSeq_organism>
+./AJ249135.xml:  <GBSeq_organism>Amycolatopsis methanolica 239</GBSeq_organism>
+./AF051342.xml:  <GBSeq_organism>Prauserella rugosa</GBSeq_organism>
+./AJ508236.xml:  <GBSeq_organism>Amycolatopsis japonica</GBSeq_organism>
+./AF223354.xml:  <GBSeq_organism>Amycolatopsis sacchari</GBSeq_organism>
+./AJ508238.xml:  <GBSeq_organism>Amycolatopsis keratiniphila subsp. nogabecina</GBSeq_organism>
+./FJ606836.xml:  <GBSeq_organism>Amycolatopsis halophila YIM 93223</GBSeq_organism>
+./AJ400709.xml:  <GBSeq_organism>Amycolatopsis azurea</GBSeq_organism>
+./AY183357.xml:  <GBSeq_organism>Amycolatopsis kentuckyensis</GBSeq_organism>
+./DQ486888.xml:  <GBSeq_organism>Amycolatopsis nigrescens CSC17Ta-90</GBSeq_organism>
+./AY183358.xml:  <GBSeq_organism>Amycolatopsis lexingtonensis</GBSeq_organism>
+./AF052390.xml:  <GBSeq_organism>Amycolatopsis thermoflava N1165</GBSeq_organism>
+./AY083603.xml:  <GBSeq_organism>Amycolatopsis rifamycinica</GBSeq_organism>
+./AF051340.xml:  <GBSeq_organism>Amycolatopsis alba DSM 44262</GBSeq_organism>
+./DQ160215.xml:  <GBSeq_organism>Amycolatopsis taiwanensis</GBSeq_organism>
+./AF479268.xml:  <GBSeq_organism>Amycolatopsis palatopharyngis</GBSeq_organism>
+./AJ293756.xml:  <GBSeq_organism>Amycolatopsis sulphurea</GBSeq_organism>
+./EU329845.xml:  <GBSeq_organism>Amycolatopsis marina</GBSeq_organism>
+./AF222022.xml:  <GBSeq_organism>Amycolatopsis rubida</GBSeq_organism>

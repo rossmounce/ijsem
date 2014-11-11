@@ -1,0 +1,20 @@
+./L16496.xml:  <GBSeq_organism>Odoribacter splanchnicus</GBSeq_organism>
+./Y18530.xml:  <GBSeq_organism>Dysgonomonas gadei ATCC BAA-286</GBSeq_organism>
+./L16486.xml:  <GBSeq_organism>Bacteroides uniformis</GBSeq_organism>
+./AY742226.xml:  <GBSeq_organism>Proteiniphilum acetatigenes</GBSeq_organism>
+./AF414821.xml:  <GBSeq_organism>Prevotella intermedia ATCC 25611 = DSM 20706</GBSeq_organism>
+./M11656.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./M58762.xml:  <GBSeq_organism>Bacteroides vulgatus</GBSeq_organism>
+./L16497.xml:  <GBSeq_organism>Alistipes putredinis</GBSeq_organism>
+./L26102.xml:  <GBSeq_organism>Porphyromonas circumdentaria</GBSeq_organism>
+./L16492.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./AY323525.xml:  <GBSeq_organism>Prevotella melaninogenica ATCC 25845</GBSeq_organism>
+./L16490.xml:  <GBSeq_organism>Porphyromonas asaccharolytica DSM 20707</GBSeq_organism>
+./U41355.xml:  <GBSeq_organism>Dysgonomonas capnocytophagoides</GBSeq_organism>
+./L16489.xml:  <GBSeq_organism>Bacteroides thetaiotaomicron</GBSeq_organism>
+./L16495.xml:  <GBSeq_organism>Tannerella forsythia</GBSeq_organism>
+./AF414833.xml:  <GBSeq_organism>Prevotella nigrescens ATCC 33563</GBSeq_organism>
+./L35517.xml:  <GBSeq_organism>Pseudobacteroides cellulosolvens</GBSeq_organism>
+./AJ319867.xml:  <GBSeq_organism>Dysgonomonas mossii DSM 22836</GBSeq_organism>
+./AY974070.xml:  <GBSeq_organism>Parabacteroides goldsteinii</GBSeq_organism>
+./L16491.xml:  <GBSeq_organism>Porphyromonas endodontalis</GBSeq_organism>

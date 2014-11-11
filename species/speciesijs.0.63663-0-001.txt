@@ -1,0 +1,39 @@
+./AJ488505.xml:  <GBSeq_organism>Roseomonas rosea</GBSeq_organism>
+./X58198.xml:  <GBSeq_organism>Holospora obtusa</GBSeq_organism>
+./X99469.xml:  <GBSeq_organism>Xanthobacter tagetidis</GBSeq_organism>
+./X72908.xml:  <GBSeq_organism>Roseococcus thiosulfatophilus</GBSeq_organism>
+./D85828.xml:  <GBSeq_organism>Craurococcus roseus</GBSeq_organism>
+./AF465832.xml:  <GBSeq_organism>Rubritepida flocculans</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./L35502.xml:  <GBSeq_organism>Nitrobacter hamburgensis X14</GBSeq_organism>
+./M34127.xml:  <GBSeq_organism>Rhodomicrobium vannielii</GBSeq_organism>
+./AF062074.xml:  <GBSeq_organism>Orientia tsutsugamushi</GBSeq_organism>
+./X75620.xml:  <GBSeq_organism>Komagataeibacter hansenii</GBSeq_organism>
+./M60313.xml:  <GBSeq_organism>Anaplasma marginale</GBSeq_organism>
+./AJ535707.xml:  <GBSeq_organism>Labrys monachus</GBSeq_organism>
+./AJ001632.xml:  <GBSeq_organism>Acetobacter pomorum</GBSeq_organism>
+./D85836.xml:  <GBSeq_organism>Roseibium hamelinense</GBSeq_organism>
+./Y14305.xml:  <GBSeq_organism>Hyphomicrobium zavarzinii</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./D30790.xml:  <GBSeq_organism>Afifella marina</GBSeq_organism>
+./D30771.xml:  <GBSeq_organism>Acidocella aminolytica</GBSeq_organism>
+./AJ400704.xml:  <GBSeq_organism>Pannonibacter phragmitetus</GBSeq_organism>
+./AJ294349.xml:  <GBSeq_organism>Chelatococcus asaccharovorans</GBSeq_organism>
+./AJ007698.xml:  <GBSeq_organism>Komagataeibacter sucrofermentans</GBSeq_organism>
+./AF069496.xml:  <GBSeq_organism>Candidatus Odyssella thessalonicensis L13</GBSeq_organism>
+./D86512.xml:  <GBSeq_organism>Acidisphaera rubrifaciens</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./D25312.xml:  <GBSeq_organism>Rhodopseudomonas palustris</GBSeq_organism>
+./D30774.xml:  <GBSeq_organism>Acidocella facilis</GBSeq_organism>
+./AF133090.xml:  <GBSeq_organism>Candidatus Xenohaliotis californiensis</GBSeq_organism>
+./X71837.xml:  <GBSeq_organism>Caedibacter caryophilus</GBSeq_organism>
+./AF179630.xml:  <GBSeq_organism>Wolbachia pipientis</GBSeq_organism>
+./AJ488504.xml:  <GBSeq_organism>Roseomonas ludipueritiae</GBSeq_organism>
+./D88025.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./Y14313.xml:  <GBSeq_organism>Filomicrobium fusiforme</GBSeq_organism>
+./D85827.xml:  <GBSeq_organism>Paracraurococcus ruber</GBSeq_organism>
+./L36214.xml:  <GBSeq_organism>Rickettsia massiliae</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>
+./D30775.xml:  <GBSeq_organism>Acidiphilium organovorum</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>

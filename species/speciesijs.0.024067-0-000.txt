@@ -1,0 +1,6 @@
+./M58777.xml:  <GBSeq_organism>Myroides odoratus DSM 2801</GBSeq_organism>
+./AJ854059.xml:  <GBSeq_organism>Myroides odoratimimus</GBSeq_organism>
+./U41347.xml:  <GBSeq_organism>Capnocytophaga granulosa ATCC 51502</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./EU204978.xml:  <GBSeq_organism>Myroides profundi</GBSeq_organism>
+./AJ557887.xml:  <GBSeq_organism>Flavobacterium frigoris</GBSeq_organism>

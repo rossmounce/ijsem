@@ -1,0 +1,25 @@
+./AM232832.xml:  <GBSeq_organism>Planosporangium flavigriseum</GBSeq_organism>
+./AF152106.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./X80606.xml:  <GBSeq_organism>Nocardia asteroides NBRC 15531</GBSeq_organism>
+./X93191.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./FM208262.xml:  <GBSeq_organism>Rugosimonospora africana</GBSeq_organism>
+./AF152107.xml:  <GBSeq_organism>Catellatospora methionotrophica</GBSeq_organism>
+./AB223089.xml:  <GBSeq_organism>Polymorphospora rubra</GBSeq_organism>
+./AB200231.xml:  <GBSeq_organism>Catellatospora chokoriensis</GBSeq_organism>
+./AF152110.xml:  <GBSeq_organism>Hamadaea tsunoensis</GBSeq_organism>
+./FJ214343.xml:  <GBSeq_organism>Plantactinospora mayteni</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./FN386736.xml:  <GBSeq_organism>Allocatelliglobosispora scoriae</GBSeq_organism>
+./AB200233.xml:  <GBSeq_organism>Catellatospora bangladeshensis</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./AB236956.xml:  <GBSeq_organism>Krasilnikovia cinnamomea</GBSeq_organism>
+./AY040619.xml:  <GBSeq_organism>Salinispora arenicola ATCC BAA-917</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./AB236957.xml:  <GBSeq_organism>Luedemannella helvata</GBSeq_organism>
+./AB200232.xml:  <GBSeq_organism>Catellatospora coxensis</GBSeq_organism>
+./AB454379.xml:  <GBSeq_organism>Plantactinospora siamensis</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>
+./FM208261.xml:  <GBSeq_organism>Rugosimonospora acidiphila</GBSeq_organism>

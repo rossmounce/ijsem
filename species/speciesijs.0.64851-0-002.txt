@@ -1,0 +1,40 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AY568302.xml:  <GBSeq_organism>Triticum aestivum</GBSeq_organism>
+./AY725234.xml:  <GBSeq_organism>Candidatus Phytoplasma caricae</GBSeq_organism>
+./X76428.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./L76865.xml:  <GBSeq_organism>Candidatus Phytoplasma australiense</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AY265211.xml:  <GBSeq_organism>Aster yellows phytoplasma</GBSeq_organism>
+./AY725211.xml:  <GBSeq_organism>Bolivia alfalfa phytoplasma</GBSeq_organism>
+./L33734.xml:  <GBSeq_organism>Acholeplasma palmae J233</GBSeq_organism>
+./U18747.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./AY725210.xml:  <GBSeq_organism>Serjania little leaf phytoplasma</GBSeq_organism>
+./L33764.xml:  <GBSeq_organism>Loofah witches&apos;-broom phytoplasma</GBSeq_organism>
+./AF248959.xml:  <GBSeq_organism>Candidatus Phytoplasma solani</GBSeq_organism>
+./AY135523.xml:  <GBSeq_organism>Candidatus Phytoplasma allocasuarinae</GBSeq_organism>
+./AF515636.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./AF176319.xml:  <GBSeq_organism>Candidatus Phytoplasma vitis</GBSeq_organism>
+./AY072722.xml:  <GBSeq_organism>Candidatus Phytoplasma ziziphi</GBSeq_organism>
+./L04682.xml:  <GBSeq_organism>Western X phytoplasma</GBSeq_organism>
+./X76432.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./DQ174122.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./AY787136.xml:  <GBSeq_organism>Candidatus Phytoplasma lycopersici</GBSeq_organism>
+./EF199549.xml:  <GBSeq_organism>Candidatus Phytoplasma lycopersici</GBSeq_organism>
+./AJ543541.xml:  <GBSeq_organism>Fusarium culmorum</GBSeq_organism>
+./U18763.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AY390261.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./X76430.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./AJ542544.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./AY734453.xml:  <GBSeq_organism>Barley deformation phytoplasma</GBSeq_organism>
+./AY725209.xml:  <GBSeq_organism>Potato Brotes big bud phytoplasma</GBSeq_organism>
+./X80117.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AY725228.xml:  <GBSeq_organism>Candidatus Phytoplasma graminis</GBSeq_organism>
+./D12581.xml:  <GBSeq_organism>Candidatus Phytoplasma oryzae</GBSeq_organism>
+./AJ310849.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./L33765.xml:  <GBSeq_organism>Peanut witches&apos;-broom phytoplasma</GBSeq_organism>
+./X68373.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AJ542543.xml:  <GBSeq_organism>Candidatus Phytoplasma pyri</GBSeq_organism>
+./AF122910.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>

@@ -1,0 +1,14 @@
+./M94278.xml:  <GBSeq_organism>Corallococcus coralloides</GBSeq_organism>
+./M34125.xml:  <GBSeq_organism>Bacteriovorax stolpii</GBSeq_organism>
+./M94281.xml:  <GBSeq_organism>Stigmatella aurantiaca</GBSeq_organism>
+./M26632.xml:  <GBSeq_organism>Desulfosarcina variabilis</GBSeq_organism>
+./M94282.xml:  <GBSeq_organism>Sorangium cellulosum</GBSeq_organism>
+./M94274.xml:  <GBSeq_organism>Chondromyces apiculatus</GBSeq_organism>
+./M94275.xml:  <GBSeq_organism>Chondromyces crocatus</GBSeq_organism>
+./M94374.xml:  <GBSeq_organism>Angiococcus disciformis</GBSeq_organism>
+./M94276.xml:  <GBSeq_organism>Cystobacter fuscus</GBSeq_organism>
+./AJ233944.xml:  <GBSeq_organism>Kofleria flava</GBSeq_organism>
+./M94280.xml:  <GBSeq_organism>Polyangium sp.</GBSeq_organism>
+./M94273.xml:  <GBSeq_organism>Archangium gephyra</GBSeq_organism>
+./M34114.xml:  <GBSeq_organism>Myxococcus xanthus</GBSeq_organism>
+./M94277.xml:  <GBSeq_organism>Melittangium lichenicola</GBSeq_organism>

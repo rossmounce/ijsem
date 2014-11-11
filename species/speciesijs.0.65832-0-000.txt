@@ -1,0 +1,17 @@
+./AB004730.xml:  <GBSeq_organism>Corynebacterium terpenotabidum Y-11</GBSeq_organism>
+./X84439.xml:  <GBSeq_organism>Corynebacterium urealyticum DSM 7109</GBSeq_organism>
+./AM946639.xml:  <GBSeq_organism>Corynebacterium hansenii</GBSeq_organism>
+./AJ292762.xml:  <GBSeq_organism>Corynebacterium freneyi</GBSeq_organism>
+./X84250.xml:  <GBSeq_organism>Corynebacterium jeikeium</GBSeq_organism>
+./AM922112.xml:  <GBSeq_organism>Corynebacterium ulceribovis</GBSeq_organism>
+./X84446.xml:  <GBSeq_organism>Corynebacterium xerosis</GBSeq_organism>
+./AJ504424.xml:  <GBSeq_organism>Corynebacterium suicordis</GBSeq_organism>
+./AJ243820.xml:  <GBSeq_organism>Corynebacterium auriscanis</GBSeq_organism>
+./AF267148.xml:  <GBSeq_organism>Corynebacterium variabile DSM 44702</GBSeq_organism>
+./AJ440964.xml:  <GBSeq_organism>Corynebacterium sphenisci</GBSeq_organism>
+./D38575.xml:  <GBSeq_organism>Corynebacterium bovis DSM 20582= CIP 54.80</GBSeq_organism>
+./Y13024.xml:  <GBSeq_organism>Corynebacterium falsenii</GBSeq_organism>
+./X84244.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./AY226509.xml:  <GBSeq_organism>Corynebacterium halotolerans YIM 70093 = DSM 44683</GBSeq_organism>
+./X53185.xml:  <GBSeq_organism>Corynebacterium variabile</GBSeq_organism>
+./AB128981.xml:  <GBSeq_organism>Corynebacterium resistens DSM 45100</GBSeq_organism>

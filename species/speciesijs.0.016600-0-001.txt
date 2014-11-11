@@ -1,0 +1,8 @@
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./AB501360.xml:  <GBSeq_organism>Natronoarchaeum mannanilyticum</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AB501361.xml:  <GBSeq_organism>Natronoarchaeum mannanilyticum</GBSeq_organism>
+./AM039978.xml:  <GBSeq_organism>Halovivax asiaticus</GBSeq_organism>
+./AB477981.xml:  <GBSeq_organism>Natronococcus occultus SP4</GBSeq_organism>

@@ -1,0 +1,16 @@
+./AB262735.xml:  <GBSeq_organism>Lactobacillus parafarraginis</GBSeq_organism>
+./AJ535844.xml:  <GBSeq_organism>Photobacterium damselae subsp. damselae</GBSeq_organism>
+./X76330.xml:  <GBSeq_organism>Lactobacillus fructivorans KCTC 3543 = DSM 20203</GBSeq_organism>
+./AJ970317.xml:  <GBSeq_organism>Lactobacillus parabuchneri</GBSeq_organism>
+./AM158249.xml:  <GBSeq_organism>Lactobacillus parabrevis</GBSeq_organism>
+./X52653.xml:  <GBSeq_organism>Lactobacillus plantarum</GBSeq_organism>
+./AF264071.xml:  <GBSeq_organism>Scaptomyza pallida</GBSeq_organism>
+./AJ632158.xml:  <GBSeq_organism>Lactobacillus acidifarinae</GBSeq_organism>
+./x95421.xml:  <GBSeq_organism>Lactobacillus lindneri</GBSeq_organism>
+./M59054.xml:  <GBSeq_organism>Lactobacillus salivarius</GBSeq_organism>
+./X76327.xml:  <GBSeq_organism>Lactobacillus sanfranciscensis</GBSeq_organism>
+./X76328.xml:  <GBSeq_organism>Lactobacillus reuteri DSM 20016</GBSeq_organism>
+./AB024300.xml:  <GBSeq_organism>Lactobacillus kefiri</GBSeq_organism>
+./Y11374.xml:  <GBSeq_organism>Lactobacillus kunkeei</GBSeq_organism>
+./AJ632157.xml:  <GBSeq_organism>Lactobacillus zymae</GBSeq_organism>
+./AY026750.xml:  <GBSeq_organism>Lactobacillus parakefiri</GBSeq_organism>

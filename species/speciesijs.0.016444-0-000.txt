@@ -1,0 +1,5 @@
+./AB282887.xml:  <GBSeq_organism>Intrasporangium oryzae NRRL B-24470</GBSeq_organism>
+./AB282888.xml:  <GBSeq_organism>Humibacillus xanthopallidus</GBSeq_organism>
+./AM690744.xml:  <GBSeq_organism>Terrabacter lapilli</GBSeq_organism>
+./EU573947.xml:  <GBSeq_organism>Terrabacter aeriphilus</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>

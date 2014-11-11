@@ -1,0 +1,12 @@
+./AF326376.xml:  <GBSeq_organism>Pseudomonas sp. ISO1</GBSeq_organism>
+./AY548769.xml:  <GBSeq_organism>gamma proteobacterium PM10</GBSeq_organism>
+./DQ395870.xml:  <GBSeq_organism>uncultured organism</GBSeq_organism>
+./AF053734.xml:  <GBSeq_organism>Neptunomonas naphthovorans</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./AM117932.xml:  <GBSeq_organism>Spongiibacter marinus</GBSeq_organism>
+./AB266613.xml:  <GBSeq_organism>Pseudomonas fluorescens</GBSeq_organism>
+./DQ906761.xml:  <GBSeq_organism>uncultured Antarctic sea ice bacterium</GBSeq_organism>
+./AY136133.xml:  <GBSeq_organism>gamma proteobacterium RED77</GBSeq_organism>
+./AF488306.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./AY576729.xml:  <GBSeq_organism>Melitea salexigens</GBSeq_organism>
+./AY050495.xml:  <GBSeq_organism>Pseudomonas corrugata</GBSeq_organism>

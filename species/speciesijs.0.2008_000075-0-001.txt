@@ -1,0 +1,22 @@
+./AJ542509.xml:  <GBSeq_organism>Bacillus vireti LMG 21834</GBSeq_organism>
+./AB198719.xml:  <GBSeq_organism>Bacillus boroniphilus</GBSeq_organism>
+./AJ542513.xml:  <GBSeq_organism>Bacillus soli</GBSeq_organism>
+./D78478.xml:  <GBSeq_organism>Bacillus simplex</GBSeq_organism>
+./D16272.xml:  <GBSeq_organism>Bacillus lentus</GBSeq_organism>
+./D78311.xml:  <GBSeq_organism>Bacillus benzoevorans</GBSeq_organism>
+./AB021185.xml:  <GBSeq_organism>Bacillus flexus</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./AJ542506.xml:  <GBSeq_organism>Bacillus drentensis</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AJ542512.xml:  <GBSeq_organism>Bacillus novalis</GBSeq_organism>
+./D16268.xml:  <GBSeq_organism>Bacillus firmus</GBSeq_organism>
+./AF547209.xml:  <GBSeq_organism>Bacillus acidicola</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./AF221061.xml:  <GBSeq_organism>Bacillus jeotgali</GBSeq_organism>
+./EU364818.xml:  <GBSeq_organism>Falsibacillus pallidus</GBSeq_organism>
+./AF234863.xml:  <GBSeq_organism>Bacillus nealsonii</GBSeq_organism>
+./D78312.xml:  <GBSeq_organism>Bacillus circulans</GBSeq_organism>
+./AJ542508.xml:  <GBSeq_organism>Bacillus bataviensis LMG 21833</GBSeq_organism>
+./AY904032.xml:  <GBSeq_organism>Bacillus infantis</GBSeq_organism>
+./AJ250056.xml:  <GBSeq_organism>Bacillus fumarioli</GBSeq_organism>

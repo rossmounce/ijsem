@@ -1,0 +1,4 @@
+./AJ441082.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./AJ441080.xml:  <GBSeq_organism>Rheinheimera baltica</GBSeq_organism>
+./AJ233419.xml:  <GBSeq_organism>Brenneria salicis ATCC 15712</GBSeq_organism>
+./AF144407.xml:  <GBSeq_organism>Alishewanella fetalis</GBSeq_organism>

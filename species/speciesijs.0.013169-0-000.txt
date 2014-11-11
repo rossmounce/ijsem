@@ -1,0 +1,28 @@
+./DQ196621.xml:  <GBSeq_organism>Clostridium cavendishii DSM 21758</GBSeq_organism>
+./X71850.xml:  <GBSeq_organism>Clostridium chartatabidum</GBSeq_organism>
+./X73438.xml:  <GBSeq_organism>Clostridium cellulovorans 743B</GBSeq_organism>
+./X77676.xml:  <GBSeq_organism>Clostridium algidicarnis</GBSeq_organism>
+./Y18176.xml:  <GBSeq_organism>Clostridium disporicum</GBSeq_organism>
+./X76650.xml:  <GBSeq_organism>Sarcina maxima</GBSeq_organism>
+./U16147.xml:  <GBSeq_organism>Clostridium saccharobutylicum</GBSeq_organism>
+./L37595.xml:  <GBSeq_organism>Clostridium subterminale</GBSeq_organism>
+./X76740.xml:  <GBSeq_organism>Clostridium intestinale</GBSeq_organism>
+./M59091.xml:  <GBSeq_organism>Clostridium carnis</GBSeq_organism>
+./DQ196623.xml:  <GBSeq_organism>Clostridium hydrogeniformans DSM 21757</GBSeq_organism>
+./AY858804.xml:  <GBSeq_organism>Clostridium lundense</GBSeq_organism>
+./M59094.xml:  <GBSeq_organism>Clostridium histolyticum</GBSeq_organism>
+./X74770.xml:  <GBSeq_organism>Clostridium tetani</GBSeq_organism>
+./AF069742.xml:  <GBSeq_organism>Clostridium frigidicarnis</GBSeq_organism>
+./Y18189.xml:  <GBSeq_organism>Anaerobacter polyendosporus</GBSeq_organism>
+./AJ237756.xml:  <GBSeq_organism>Clostridium acidisoli</GBSeq_organism>
+./X77844.xml:  <GBSeq_organism>Clostridium celatum</GBSeq_organism>
+./Y18174.xml:  <GBSeq_organism>Clostridium tertium</GBSeq_organism>
+./X79862.xml:  <GBSeq_organism>Clostridium acetireducens</GBSeq_organism>
+./Y18177.xml:  <GBSeq_organism>Clostridium putrefaciens</GBSeq_organism>
+./U51843.xml:  <GBSeq_organism>Clostridium chauvoei</GBSeq_organism>
+./M59086.xml:  <GBSeq_organism>Clostridium cadaveris</GBSeq_organism>
+./AJ506117.xml:  <GBSeq_organism>Clostridium frigoris</GBSeq_organism>
+./L37585.xml:  <GBSeq_organism>Clostridium botulinum A</GBSeq_organism>
+./M59103.xml:  <GBSeq_organism>Clostridium perfringens</GBSeq_organism>
+./U59278.xml:  <GBSeq_organism>Clostridium septicum</GBSeq_organism>
+./X71857.xml:  <GBSeq_organism>Clostridium puniceum</GBSeq_organism>

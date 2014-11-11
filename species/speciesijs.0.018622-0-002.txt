@@ -1,0 +1,22 @@
+./HM162937.xml:  <GBSeq_organism>Wohlfahrtiimonas chitiniclastica DSM 18708</GBSeq_organism>
+./AJ306873.xml:  <GBSeq_organism>Chromohalobacter salexigens DSM 3043</GBSeq_organism>
+./X87281.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AM286690.xml:  <GBSeq_organism>Alcanivorax borkumensis SK2</GBSeq_organism>
+./FN296150.xml:  <GBSeq_organism>Salinicola halophilus</GBSeq_organism>
+./AJ306881.xml:  <GBSeq_organism>Halomonas meridiana</GBSeq_organism>
+./HM162936.xml:  <GBSeq_organism>Ignatzschineria larvae DSM 13226</GBSeq_organism>
+./AM941758.xml:  <GBSeq_organism>Zymobacter palmae</GBSeq_organism>
+./AJ306871.xml:  <GBSeq_organism>Chromohalobacter israelensis</GBSeq_organism>
+./Y00432.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./X87285.xml:  <GBSeq_organism>Leucothrix mucor DSM 2157</GBSeq_organism>
+./FN296149.xml:  <GBSeq_organism>Salinicola salarius</GBSeq_organism>
+./X87284.xml:  <GBSeq_organism>Klebsiella pneumoniae</GBSeq_organism>
+./FN296151.xml:  <GBSeq_organism>Salinicola socius</GBSeq_organism>
+./AJ306880.xml:  <GBSeq_organism>Cobetia marina</GBSeq_organism>
+./HM162934.xml:  <GBSeq_organism>Ignatzschineria indica</GBSeq_organism>
+./FN257756.xml:  <GBSeq_organism>Modicisalibacter tunisiensis</GBSeq_organism>
+./HM162935.xml:  <GBSeq_organism>Ignatzschineria ureiclastica</GBSeq_organism>
+./FN257754.xml:  <GBSeq_organism>Halomonas boliviensis LC1</GBSeq_organism>
+./U77925.xml:  <GBSeq_organism>Yersinia enterocolitica</GBSeq_organism>
+./AJ278710.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ306874.xml:  <GBSeq_organism>Halomonas aquamarina</GBSeq_organism>

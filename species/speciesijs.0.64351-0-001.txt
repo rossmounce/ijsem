@@ -1,0 +1,42 @@
+./AY101808.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AY101812.xml:  <GBSeq_organism>Aeromonas allosaccharophila</GBSeq_organism>
+./AV101822.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AY101809.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AY299320.xml:  <GBSeq_organism>Aeromonas veronii bv. sobria</GBSeq_organism>
+./DQ411484.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY101791.xml:  <GBSeq_organism>Aeromonas veronii bv. sobria</GBSeq_organism>
+./AY237584.xml:  <GBSeq_organism>Aeromonas popoffii</GBSeq_organism>
+./AY101796.xml:  <GBSeq_organism>Aeromonas jandaei</GBSeq_organism>
+./DQ411489.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AY101775.xml:  <GBSeq_organism>Aeromonas veronii bv. sobria</GBSeq_organism>
+./AV101786.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./DQ411483.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY101318.xml:  <GBSeq_organism>Acis fabrei</GBSeq_organism>
+./DQ411472.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./AY101804.xml:  <GBSeq_organism>Aeromonas encheleia</GBSeq_organism>
+./AY101792.xml:  <GBSeq_organism>Aeromonas veronii bv. sobria</GBSeq_organism>
+./DQ411501.xml:  <GBSeq_organism>Aeromonas sp. MDC 364</GBSeq_organism>
+./DQ565688.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AV101785.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./DQ411485.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY101807.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./AY101732.xml:  <GBSeq_organism>Chelonoidis denticulatus</GBSeq_organism>
+./DQ411492.xml:  <GBSeq_organism>Aeromonas sp. MDC 70</GBSeq_organism>
+./AY101810.xml:  <GBSeq_organism>Aeromonas salmonicida subsp. pectinolytica</GBSeq_organism>
+./AV101300.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./DQ411495.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./DQ411494.xml:  <GBSeq_organism>Aeromonas molluscorum</GBSeq_organism>
+./AY237553.xml:  <GBSeq_organism>GB virus C</GBSeq_organism>
+./AY237562.xml:  <GBSeq_organism>Aeromonas sp. 874</GBSeq_organism>
+./DQ411473.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./DQ411482.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./DQ411500.xml:  <GBSeq_organism>Aeromonas sp. MDC 285</GBSeq_organism>
+./AY101795.xml:  <GBSeq_organism>Aeromonas veronii</GBSeq_organism>
+./AY237565.xml:  <GBSeq_organism>Aeromonas sp. 117P</GBSeq_organism>
+./AY101820.xml:  <GBSeq_organism>Aeromonas eucrenophila</GBSeq_organism>
+./AY101778.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./DQ411493.xml:  <GBSeq_organism>Aeromonas sp. MDC 71</GBSeq_organism>
+./AY101783.xml:  <GBSeq_organism>Aeromonas caviae</GBSeq_organism>
+./AY101781.xml:  <GBSeq_organism>Aeromonas sobria</GBSeq_organism>
+./AY101806.xml:  <GBSeq_organism>Aeromonas schubertii</GBSeq_organism>
+./AY101805.xml:  <GBSeq_organism>Aeromonas enteropelogenes</GBSeq_organism>

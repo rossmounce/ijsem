@@ -1,0 +1,15 @@
+./L35509.xml:  <GBSeq_organism>Nitrosospira multiformis</GBSeq_organism>
+./AF016690.xml:  <GBSeq_organism>Propionivibrio pelophilus</GBSeq_organism>
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./AJ504663.xml:  <GBSeq_organism>Tepidiphilus margaritifer</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./AF011345.xml:  <GBSeq_organism>Azoarcus indigens</GBSeq_organism>
+./AF078765.xml:  <GBSeq_organism>Acidovorax facilis</GBSeq_organism>
+./M22508.xml:  <GBSeq_organism>Alcaligenes faecalis</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./Y17591.xml:  <GBSeq_organism>Thauera selenatis AX</GBSeq_organism>
+./X87339.xml:  <GBSeq_organism>Methylophaga thalassica</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AJ315676.xml:  <GBSeq_organism>Azoarcus buckelii</GBSeq_organism>
+./AF011347.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>

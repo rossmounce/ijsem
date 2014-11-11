@@ -1,0 +1,9 @@
+./L33974.xml:  <GBSeq_organism>Leptothrix discophora</GBSeq_organism>
+./X97071.xml:  <GBSeq_organism>Leptothrix mobilis</GBSeq_organism>
+./AF336312.xml:  <GBSeq_organism>Comamonas testosteroni</GBSeq_organism>
+./D87999.xml:  <GBSeq_organism>Cupriavidus metallidurans</GBSeq_organism>
+./AF385534.xml:  <GBSeq_organism>Leptothrix sp. oral clone AW043</GBSeq_organism>
+./Y18617.xml:  <GBSeq_organism>Acidovorax sp. BSB421</GBSeq_organism>
+./D16213.xml:  <GBSeq_organism>Rubrivivax gelatinosus</GBSeq_organism>
+./AF125876.xml:  <GBSeq_organism>dehydroabietic acid-degrading bacterium DhA-71</GBSeq_organism>
+./AY152824.xml:  <GBSeq_organism>Schlegelella thermodepolymerans</GBSeq_organism>

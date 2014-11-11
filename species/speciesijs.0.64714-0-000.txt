@@ -1,0 +1,11 @@
+./AJ242581.xml:  <GBSeq_organism>Ochrobactrum grignonense</GBSeq_organism>
+./AY457038.xml:  <GBSeq_organism>Ochrobactrum lupini</GBSeq_organism>
+./AM263420.xml:  <GBSeq_organism>Pseudochrobactrum kiredjianiae</GBSeq_organism>
+./AJ519939.xml:  <GBSeq_organism>Ochrobactrum gallinifaecis</GBSeq_organism>
+./AM114402.xml:  <GBSeq_organism>Ochrobactrum tritici</GBSeq_organism>
+./DQ645426.xml:  <GBSeq_organism>Bartonella henselae</GBSeq_organism>
+./AM180484.xml:  <GBSeq_organism>Pseudochrobactrum saccharolyticum</GBSeq_organism>
+./AM114411.xml:  <GBSeq_organism>Ochrobactrum intermedium</GBSeq_organism>
+./AM158979.xml:  <GBSeq_organism>Brucella abortus</GBSeq_organism>
+./AM114398.xml:  <GBSeq_organism>Ochrobactrum anthropi ATCC 49188</GBSeq_organism>
+./AM180485.xml:  <GBSeq_organism>Pseudochrobactrum asaccharolyticum</GBSeq_organism>

@@ -1,0 +1,6 @@
+./AJ400627.xml:  <GBSeq_organism>Salana multivorans</GBSeq_organism>
+./X94155.xml:  <GBSeq_organism>Georgenia muralis</GBSeq_organism>
+./Y18378.xml:  <GBSeq_organism>Beutenbergia cavernae DSM 12333</GBSeq_organism>
+./Y09911.xml:  <GBSeq_organism>Bogoriella caseilytica</GBSeq_organism>
+./DQ343153.xml:  <GBSeq_organism>Ruania albidiflava</GBSeq_organism>
+./AF114803.xml:  <GBSeq_organism>Saccharothrix australiensis</GBSeq_organism>

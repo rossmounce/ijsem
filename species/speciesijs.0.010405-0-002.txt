@@ -1,0 +1,7 @@
+./AY544930.xml:  <GBSeq_organism>Mycobacterium intracellulare</GBSeq_organism>
+./AY943187.xml:  <GBSeq_organism>Mycobacterium chimaera</GBSeq_organism>
+./FJ426337.xml:  <GBSeq_organism>Mycobacterium mantenii</GBSeq_organism>
+./AY544887.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium</GBSeq_organism>
+./AY943192.xml:  <GBSeq_organism>Mycobacterium saskatchewanense</GBSeq_organism>
+./AF057482.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>
+./U12205.xml:  <GBSeq_organism>Mycobacterium tuberculosis H37Rv</GBSeq_organism>

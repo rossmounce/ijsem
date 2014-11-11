@@ -1,0 +1,27 @@
+./AB307754.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AF090330.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./AB307748.xml:  <GBSeq_organism>Halobacillus litoralis</GBSeq_organism>
+./FJ009520.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./EU272024.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./DQ309304.xml:  <GBSeq_organism>Bacillus sonorensis</GBSeq_organism>
+./FJ009515.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./FJ039525.xml:  <GBSeq_organism>Paenibacillus mucilaginosus KNP414</GBSeq_organism>
+./FJ039526.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./CR954253.xml:  <GBSeq_organism>Lactobacillus delbrueckii subsp. bulgaricus ATCC 11842 = JCM 1002</GBSeq_organism>
+./FJ009516.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./AB264032.xml:  <GBSeq_organism>Alicyclobacillus shizuokensis</GBSeq_organism>
+./FJ009514.xml:  <GBSeq_organism>Bacillus azotoformans</GBSeq_organism>
+./EU272025.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./AB222248.xml:  <GBSeq_organism>Alicyclobacillus sendaiensis</GBSeq_organism>
+./AF090332.xml:  <GBSeq_organism>Bacillus mycoides</GBSeq_organism>
+./AB243406.xml:  <GBSeq_organism>Halobacillus faecis</GBSeq_organism>
+./FJ009518.xml:  <GBSeq_organism>Paenibacillus mucilaginosus</GBSeq_organism>
+./AF136390.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./AB307745.xml:  <GBSeq_organism>Halobacillus halophilus DSM 2266</GBSeq_organism>
+./EU272027.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./EU272029.xml:  <GBSeq_organism>Paenibacillus taichungensis</GBSeq_organism>
+./FJ009519.xml:  <GBSeq_organism>Paenibacillus edaphicus</GBSeq_organism>
+./AB083821.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AB222268.xml:  <GBSeq_organism>Alicyclobacillus vulcanalis</GBSeq_organism>
+./AB264034.xml:  <GBSeq_organism>Alicyclobacillus contaminans</GBSeq_organism>
+./FJ009513.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>

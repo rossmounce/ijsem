@@ -1,0 +1,22 @@
+./FJ429317.xml:  <GBSeq_organism>Haloarcula salaria</GBSeq_organism>
+./EF645686.xml:  <GBSeq_organism>Haloarcula japonica</GBSeq_organism>
+./NC006397.xml:  <GBSeq_organism>Haloarcula marismortui ATCC 43049</GBSeq_organism>
+./EF645689.xml:  <GBSeq_organism>Haloarcula quadrata</GBSeq_organism>
+./EF645691.xml:  <GBSeq_organism>Halomicrobium mukohataei DSM 12286</GBSeq_organism>
+./EF645680.xml:  <GBSeq_organism>Haloarcula argentinensis DSM 12282</GBSeq_organism>
+./EF645688.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./FJ429314.xml:  <GBSeq_organism>Haloarcula tradensis</GBSeq_organism>
+./EF645681.xml:  <GBSeq_organism>Haloarcula argentinensis DSM 12282</GBSeq_organism>
+./U17593.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./AB355986.xml:  <GBSeq_organism>Haloarcula japonica</GBSeq_organism>
+./FJ429316.xml:  <GBSeq_organism>Haloarcula tradensis</GBSeq_organism>
+./EF645690.xml:  <GBSeq_organism>Halomicrobium mukohataei DSM 12286</GBSeq_organism>
+./U68541.xml:  <GBSeq_organism>Haloarcula hispanica ATCC 33960</GBSeq_organism>
+./FJ429313.xml:  <GBSeq_organism>Haloarcula tradensis</GBSeq_organism>
+./EF645684.xml:  <GBSeq_organism>Haloarcula japonica</GBSeq_organism>
+./EF645694.xml:  <GBSeq_organism>Haloarcula quadrata</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./EF645682.xml:  <GBSeq_organism>Haloarcula hispanica</GBSeq_organism>
+./FJ429318.xml:  <GBSeq_organism>Haloarcula salaria</GBSeq_organism>
+./EF645685.xml:  <GBSeq_organism>Haloarcula japonica</GBSeq_organism>
+./EF645687.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>

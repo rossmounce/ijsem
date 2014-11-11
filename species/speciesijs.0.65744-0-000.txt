@@ -1,0 +1,9 @@
+./AJ416756.xml:  <GBSeq_organism>Psychromonas profunda</GBSeq_organism>
+./AB094413.xml:  <GBSeq_organism>Psychromonas hadalis</GBSeq_organism>
+./U73721.xml:  <GBSeq_organism>Psychromonas ingrahamii 37</GBSeq_organism>
+./AF374385.xml:  <GBSeq_organism>Psychromonas arctica</GBSeq_organism>
+./Y14697.xml:  <GBSeq_organism>Psychromonas antarctica</GBSeq_organism>
+./AB304805.xml:  <GBSeq_organism>Psychromonas aquimarina</GBSeq_organism>
+./AB304808.xml:  <GBSeq_organism>Psychromonas ossibalaenae</GBSeq_organism>
+./AB304804.xml:  <GBSeq_organism>Psychromonas japonica</GBSeq_organism>
+./AB304807.xml:  <GBSeq_organism>Psychromonas macrocephali</GBSeq_organism>

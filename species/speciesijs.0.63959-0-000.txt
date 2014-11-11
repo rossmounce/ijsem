@@ -1,0 +1,30 @@
+./AJ621607.xml:  <GBSeq_organism>Streptomyces niger</GBSeq_organism>
+./AJ391835.xml:  <GBSeq_organism>Streptomyces indonesiensis</GBSeq_organism>
+./AJ391831.xml:  <GBSeq_organism>Streptomyces cangkringensis</GBSeq_organism>
+./AJ391833.xml:  <GBSeq_organism>Streptomyces javensis</GBSeq_organism>
+./AY882020.xml:  <GBSeq_organism>Streptomyces yanglinensis</GBSeq_organism>
+./AJ621603.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./AY882019.xml:  <GBSeq_organism>Streptomyces yanglinensis</GBSeq_organism>
+./AJ391837.xml:  <GBSeq_organism>Streptomyces melanosporofaciens</GBSeq_organism>
+./AF441168.xml:  <GBSeq_organism>Streptomyces mexicanus</GBSeq_organism>
+./AJ621612.xml:  <GBSeq_organism>Streptomyces tubercidicus</GBSeq_organism>
+./AY876942.xml:  <GBSeq_organism>Streptomyces guanduensis</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AY876943.xml:  <GBSeq_organism>Streptomyces paucisporeus</GBSeq_organism>
+./AY262826.xml:  <GBSeq_organism>Streptomyces ferralitis</GBSeq_organism>
+./AJ621609.xml:  <GBSeq_organism>Streptomyces chrestomyceticus JCM 4735</GBSeq_organism>
+./AY508511.xml:  <GBSeq_organism>Streptomyces castelarensis</GBSeq_organism>
+./AJ391820.xml:  <GBSeq_organism>Streptomyces hygroscopicus</GBSeq_organism>
+./AF114036.xml:  <GBSeq_organism>Streptomyces nodosus</GBSeq_organism>
+./AB024441.xml:  <GBSeq_organism>Streptomyces kasugaensis</GBSeq_organism>
+./AJ399472.xml:  <GBSeq_organism>Streptomyces resistomycificus</GBSeq_organism>
+./AJ007402.xml:  <GBSeq_organism>Streptomyces thermocoprophilus</GBSeq_organism>
+./AJ621613.xml:  <GBSeq_organism>Streptomyces catenulae</GBSeq_organism>
+./AF336800.xml:  <GBSeq_organism>Streptomyces yatensis</GBSeq_organism>
+./Y15507.xml:  <GBSeq_organism>Streptomyces lydicus</GBSeq_organism>
+./AJ306623.xml:  <GBSeq_organism>Streptomyces collinus</GBSeq_organism>
+./AY589505.xml:  <GBSeq_organism>Streptomyces cuspidosporus</GBSeq_organism>
+./AY876941.xml:  <GBSeq_organism>Streptomyces rubidus</GBSeq_organism>
+./AJ007403.xml:  <GBSeq_organism>Streptomyces somaliensis DSM 40738</GBSeq_organism>
+./AJ621608.xml:  <GBSeq_organism>Streptomyces sclerotialus</GBSeq_organism>
+./AJ621611.xml:  <GBSeq_organism>Streptomyces chattanoogensis</GBSeq_organism>

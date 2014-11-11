@@ -1,0 +1,25 @@
+./AY550263.xml:  <GBSeq_organism>Pseudoxanthomonas koreensis</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./EF424397.xml:  <GBSeq_organism>Pseudoxanthomonas indica</GBSeq_organism>
+./AY686710.xml:  <GBSeq_organism>Pseudoxanthomonas kalamensis</GBSeq_organism>
+./AF273082.xml:  <GBSeq_organism>Pseudoxanthomonas mexicana</GBSeq_organism>
+./Y10757.xml:  <GBSeq_organism>Xanthomonas arboricola pv. juglandis</GBSeq_organism>
+./AY650027.xml:  <GBSeq_organism>Pseudoxanthomonas kaohsiungensis</GBSeq_organism>
+./AY550264.xml:  <GBSeq_organism>Pseudoxanthomonas daejeonensis</GBSeq_organism>
+./AJ012228.xml:  <GBSeq_organism>Luteimonas mephitis</GBSeq_organism>
+./AJ012231.xml:  <GBSeq_organism>Pseudoxanthomonas broegbernensis</GBSeq_organism>
+./DQ438977.xml:  <GBSeq_organism>Pseudoxanthomonas yeongjuensis</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./Y10758.xml:  <GBSeq_organism>Xanthomonas pisi</GBSeq_organism>
+./AM418384.xml:  <GBSeq_organism>Pseudoxanthomonas spadix</GBSeq_organism>
+./AF208315.xml:  <GBSeq_organism>Xanthomonas cynarae</GBSeq_organism>
+./X95922.xml:  <GBSeq_organism>Xanthomonas populi</GBSeq_organism>
+./AF427039.xml:  <GBSeq_organism>Pseudoxanthomonas taiwanensis</GBSeq_organism>
+./X95921.xml:  <GBSeq_organism>Xanthomonas oryzae</GBSeq_organism>
+./Y10755.xml:  <GBSeq_organism>Xanthomonas vasicola</GBSeq_organism>
+./AB008507.xml:  <GBSeq_organism>Pseudoxanthomonas japonensis</GBSeq_organism>
+./EF575564.xml:  <GBSeq_organism>Pseudoxanthomonas sacheonensis</GBSeq_organism>
+./Y10762.xml:  <GBSeq_organism>Xanthomonas cassavae CFBP 4642</GBSeq_organism>
+./Y10759.xml:  <GBSeq_organism>Xanthomonas hortorum</GBSeq_organism>
+./AY927994.xml:  <GBSeq_organism>Pseudoxanthomonas suwonensis</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

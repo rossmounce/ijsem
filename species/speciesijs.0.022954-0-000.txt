@@ -1,0 +1,11 @@
+./AB266102.xml:  <GBSeq_organism>Asaccharobacter celatus DSM 18785</GBSeq_organism>
+./FN178462.xml:  <GBSeq_organism>Olsenella umbonata</GBSeq_organism>
+./FN178461.xml:  <GBSeq_organism>Olsenella umbonata</GBSeq_organism>
+./X67148.xml:  <GBSeq_organism>Atopobium minutum</GBSeq_organism>
+./AF292373.xml:  <GBSeq_organism>Olsenella uli DSM 7084</GBSeq_organism>
+./FN178463.xml:  <GBSeq_organism>Olsenella umbonata</GBSeq_organism>
+./FN178467.xml:  <GBSeq_organism>Olsenella profusa</GBSeq_organism>
+./AJ251324.xml:  <GBSeq_organism>Olsenella umbonata</GBSeq_organism>
+./FN178466.xml:  <GBSeq_organism>Olsenella profusa DSM 13989</GBSeq_organism>
+./AF292374.xml:  <GBSeq_organism>Olsenella profusa DSM 13989</GBSeq_organism>
+./U43492.xml:  <GBSeq_organism>Denitrobacterium detoxificans</GBSeq_organism>

@@ -1,0 +1,12 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./DQ925472.xml:  <GBSeq_organism>Howardella ureilytica</GBSeq_organism>
+./L34621.xml:  <GBSeq_organism>[Eubacterium] hallii</GBSeq_organism>
+./X76163.xml:  <GBSeq_organism>[Clostridium] aerotolerans</GBSeq_organism>
+./X87151.xml:  <GBSeq_organism>Catonella morbi ATCC 51271</GBSeq_organism>
+./AF287777.xml:  <GBSeq_organism>Lachnoanaerobaculum cf. saburreum oral strain C27KA</GBSeq_organism>
+./M59109.xml:  <GBSeq_organism>[Clostridium] oroticum</GBSeq_organism>
+./X87152.xml:  <GBSeq_organism>Johnsonella ignava ATCC 51276</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./M59083.xml:  <GBSeq_organism>Acetitomaculum ruminis</GBSeq_organism>
+./X77839.xml:  <GBSeq_organism>[Clostridium] polysaccharolyticum</GBSeq_organism>
+./X73440.xml:  <GBSeq_organism>Erysipelatoclostridium ramosum DSM 1402</GBSeq_organism>

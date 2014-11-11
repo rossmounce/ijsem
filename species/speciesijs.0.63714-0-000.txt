@@ -1,0 +1,5 @@
+./AY779531.xml:  <GBSeq_organism>Devosia sp. I-Z5</GBSeq_organism>
+./AJ548825.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AJ549086.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./AJ548823.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>

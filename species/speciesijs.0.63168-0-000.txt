@@ -1,0 +1,17 @@
+./AJ399477.xml:  <GBSeq_organism>Streptomyces violarus</GBSeq_organism>
+./AJ399489.xml:  <GBSeq_organism>Streptomyces iakyrus</GBSeq_organism>
+./AJ007400.xml:  <GBSeq_organism>Streptomyces somaliensis</GBSeq_organism>
+./AY079156.xml:  <GBSeq_organism>Streptomyces koyangensis</GBSeq_organism>
+./AJ399491.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./X79322.xml:  <GBSeq_organism>Streptomyces glaucescens</GBSeq_organism>
+./AJ399476.xml:  <GBSeq_organism>Streptomyces bellus</GBSeq_organism>
+./AJ399466.xml:  <GBSeq_organism>Streptomyces hawaiiensis</GBSeq_organism>
+./AJ399462.xml:  <GBSeq_organism>Streptomyces coerulescens</GBSeq_organism>
+./AJ399478.xml:  <GBSeq_organism>Streptomyces janthinus</GBSeq_organism>
+./AJ399463.xml:  <GBSeq_organism>Streptomyces fumanus</GBSeq_organism>
+./AJ399472.xml:  <GBSeq_organism>Streptomyces resistomycificus</GBSeq_organism>
+./AJ399473.xml:  <GBSeq_organism>Streptomyces coeruleofuscus</GBSeq_organism>
+./U94490.xml:  <GBSeq_organism>Streptomyces thermocarboxydus</GBSeq_organism>
+./AJ399480.xml:  <GBSeq_organism>Streptomyces violaceus</GBSeq_organism>
+./D63871.xml:  <GBSeq_organism>Streptomyces sampsonii</GBSeq_organism>
+./AJ306622.xml:  <GBSeq_organism>Streptomyces coeruleorubidus</GBSeq_organism>

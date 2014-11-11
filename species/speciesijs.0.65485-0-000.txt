@@ -1,0 +1,12 @@
+./X73448.xml:  <GBSeq_organism>Clostridium proteolyticum</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X68189.xml:  <GBSeq_organism>Clostridium sporogenes</GBSeq_organism>
+./AY858804.xml:  <GBSeq_organism>Clostridium lundense</GBSeq_organism>
+./X73442.xml:  <GBSeq_organism>Clostridium botulinum</GBSeq_organism>
+./X74770.xml:  <GBSeq_organism>Clostridium tetani</GBSeq_organism>
+./AF156796.xml:  <GBSeq_organism>Clostridium peptidivorans</GBSeq_organism>
+./Y18189.xml:  <GBSeq_organism>Anaerobacter polyendosporus</GBSeq_organism>
+./X73439.xml:  <GBSeq_organism>Clostridium collagenovorans</GBSeq_organism>
+./X96736.xml:  <GBSeq_organism>Clostridium pascui</GBSeq_organism>
+./EF197795.xml:  <GBSeq_organism>Clostridium tepidiprofundi DSM 19306</GBSeq_organism>
+./AJ506120.xml:  <GBSeq_organism>Clostridium bowmanii</GBSeq_organism>

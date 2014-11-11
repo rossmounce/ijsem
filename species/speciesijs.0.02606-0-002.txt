@@ -1,0 +1,10 @@
+./AF011350.xml:  <GBSeq_organism>Azonexus fungiphilus</GBSeq_organism>
+./AF011346.xml:  <GBSeq_organism>Azovibrio restrictus</GBSeq_organism>
+./AF170356.xml:  <GBSeq_organism>Dechloromonas sp. SIUL</GBSeq_organism>
+./AF011351.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>
+./AF047462.xml:  <GBSeq_organism>Dechloromonas agitata</GBSeq_organism>
+./AF170354.xml:  <GBSeq_organism>Dechloromonas sp. CL</GBSeq_organism>
+./D16209.xml:  <GBSeq_organism>Rhodocyclus tenuis</GBSeq_organism>
+./Y17060.xml:  <GBSeq_organism>Ferribacterium limneticum</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AF011347.xml:  <GBSeq_organism>Azospira oryzae</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AY751366.xml:  <GBSeq_organism>Vibrio tasmaniensis</GBSeq_organism>
+./AY751364.xml:  <GBSeq_organism>Vibrio kanaloae</GBSeq_organism>
+./AY751361.xml:  <GBSeq_organism>Vibrio gigantis</GBSeq_organism>
+./AY309011.xml:  <GBSeq_organism>Vibrio harveyi</GBSeq_organism>
+./AY751368.xml:  <GBSeq_organism>Vibrio chagasii</GBSeq_organism>
+./AY751365.xml:  <GBSeq_organism>Vibrio pomeroyi</GBSeq_organism>
+./AY751367.xml:  <GBSeq_organism>Vibrio splendidus</GBSeq_organism>
+./AY751369.xml:  <GBSeq_organism>Vibrio cyclitrophicus</GBSeq_organism>
+./AY751362.xml:  <GBSeq_organism>Vibrio gigantis</GBSeq_organism>
+./AY751363.xml:  <GBSeq_organism>Vibrio crassostreae</GBSeq_organism>
+./AY751360.xml:  <GBSeq_organism>Vibrio gigantis</GBSeq_organism>

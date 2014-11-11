@@ -1,0 +1,8 @@
+./AF346818.xml:  <GBSeq_organism>Streptomyces yunnanensis</GBSeq_organism>
+./AJ621607.xml:  <GBSeq_organism>Streptomyces niger</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./AJ621603.xml:  <GBSeq_organism>Streptomyces erumpens</GBSeq_organism>
+./AJ849545.xml:  <GBSeq_organism>Streptomyces sparsus</GBSeq_organism>
+./AB184530.xml:  <GBSeq_organism>Streptomyces kasugaensis</GBSeq_organism>
+./AJ621606.xml:  <GBSeq_organism>Streptomyces olivaceiscleroticus</GBSeq_organism>
+./AJ007403.xml:  <GBSeq_organism>Streptomyces somaliensis DSM 40738</GBSeq_organism>

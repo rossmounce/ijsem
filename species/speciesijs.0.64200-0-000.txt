@@ -1,0 +1,3 @@
+./AY553124.xml:  <GBSeq_organism>Pseudomonas sp. GSP66</GBSeq_organism>
+./AY553126.xml:  <GBSeq_organism>Pseudomonas sp. GSP65</GBSeq_organism>
+./DQ087259.xml:  <GBSeq_organism>Salicola marasensis</GBSeq_organism>

@@ -1,0 +1,14 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./D78320.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./X57304.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./AB021183.xml:  <GBSeq_organism>Paenibacillus chitinolyticus</GBSeq_organism>
+./X60645.xml:  <GBSeq_organism>Aneurinibacillus aneurinilyticus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./D16276.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AF130254.xml:  <GBSeq_organism>Paenibacillus koreensis</GBSeq_organism>
+./X60612.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./AY116665.xml:  <GBSeq_organism>Paenibacillus ehimensis</GBSeq_organism>
+./AF290916.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./AF353681.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>

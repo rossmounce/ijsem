@@ -1,0 +1,5 @@
+./D53684.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./X58559.xml:  <GBSeq_organism>Mycoplasma hominis ATCC 23114</GBSeq_organism>
+./AB031587.xml:  <GBSeq_organism>Mycoplasma mycoides subsp. mycoides SC</GBSeq_organism>
+./X58552.xml:  <GBSeq_organism>Mycoplasma neurolyticum</GBSeq_organism>
+./AF132740.xml:  <GBSeq_organism>Mycoplasma pneumoniae FH</GBSeq_organism>

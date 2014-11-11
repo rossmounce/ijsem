@@ -1,0 +1,13 @@
+./GO496123.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496116.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496086.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496128.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496126.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496102.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./GO496087.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./EU484384.xml:  <GBSeq_organism>Nocardia mikamii</GBSeq_organism>
+./EU484385.xml:  <GBSeq_organism>Nocardia mikamii</GBSeq_organism>
+./AB450793.xml:  <GBSeq_organism>Nocardia kruczakiae</GBSeq_organism>
+./EU484382.xml:  <GBSeq_organism>Nocardia mikamii NBRC 108933</GBSeq_organism>
+./GO496119.xml:  <GBSeq_organism>Apostichopus japonicus</GBSeq_organism>
+./EU484383.xml:  <GBSeq_organism>Nocardia mikamii</GBSeq_organism>

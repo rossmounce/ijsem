@@ -1,0 +1,6 @@
+./AF025822.xml:  <GBSeq_organism>Methanocaldococcus infernus</GBSeq_organism>
+./L77117.xml:  <GBSeq_organism>Methanocaldococcus jannaschii DSM 2661</GBSeq_organism>
+./U20163.xml:  <GBSeq_organism>Pyrococcus furiosus</GBSeq_organism>
+./AF547621.xml:  <GBSeq_organism>Methanocaldococcus indicus</GBSeq_organism>
+./FJ766848.xml:  <GBSeq_organism>Methanocaldococcus villosus KIN24-T80</GBSeq_organism>
+./AF051404.xml:  <GBSeq_organism>Methanocaldococcus vulcanius M7</GBSeq_organism>

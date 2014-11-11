@@ -1,0 +1,10 @@
+./AJ558025.xml:  <GBSeq_organism>Bradyrhizobium canariense</GBSeq_organism>
+./u35000.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./GU433471.xml:  <GBSeq_organism>Bradyrhizobium lablabi</GBSeq_organism>
+./GU433456.xml:  <GBSeq_organism>Bradyrhizobium lablabi</GBSeq_organism>
+./AY624135.xml:  <GBSeq_organism>Bradyrhizobium pachyrhizi</GBSeq_organism>
+./X66025.xml:  <GBSeq_organism>Bradyrhizobium denitrificans</GBSeq_organism>
+./AF208513.xml:  <GBSeq_organism>Bradyrhizobium liaoningense</GBSeq_organism>
+./AY624134.xml:  <GBSeq_organism>Bradyrhizobium jicamae</GBSeq_organism>
+./GU433448.xml:  <GBSeq_organism>Bradyrhizobium lablabi</GBSeq_organism>
+./AY372184.xml:  <GBSeq_organism>Bradyrhizobium betae</GBSeq_organism>

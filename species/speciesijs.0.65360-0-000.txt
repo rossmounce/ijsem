@@ -1,0 +1,6 @@
+./D14128.xml:  <GBSeq_organism>Haloferax denitrificans ATCC 35960</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./AB258305.xml:  <GBSeq_organism>Haloferax prahovense</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AY838278.xml:  <GBSeq_organism>Haloferax larsenii</GBSeq_organism>
+./AY458601.xml:  <GBSeq_organism>Haloferax sulfurifontis ATCC BAA-897</GBSeq_organism>

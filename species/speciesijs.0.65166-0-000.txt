@@ -1,0 +1,16 @@
+./AJ438174.xml:  <GBSeq_organism>Pedobacter piscium</GBSeq_organism>
+./AJ438173.xml:  <GBSeq_organism>Pedobacter saltans DSM 12145</GBSeq_organism>
+./AM491369.xml:  <GBSeq_organism>Pedobacter westerhofensis</GBSeq_organism>
+./AM491371.xml:  <GBSeq_organism>Pedobacter hartonius</GBSeq_organism>
+./AB245368.xml:  <GBSeq_organism>Pedobacter panaciterrae</GBSeq_organism>
+./AM114396.xml:  <GBSeq_organism>Pedobacter aquatilis</GBSeq_organism>
+./AJ438170.xml:  <GBSeq_organism>Pedobacter cryoconitis</GBSeq_organism>
+./AJ786798.xml:  <GBSeq_organism>Pedobacter caeni</GBSeq_organism>
+./AJ438172.xml:  <GBSeq_organism>Pedobacter heparinus DSM 2366</GBSeq_organism>
+./AM491370.xml:  <GBSeq_organism>Pedobacter metabolipauper</GBSeq_organism>
+./AM491372.xml:  <GBSeq_organism>Pedobacter steynii</GBSeq_organism>
+./DQ112353.xml:  <GBSeq_organism>Pedobacter roseus</GBSeq_organism>
+./AJ583425.xml:  <GBSeq_organism>Pedobacter himalayensis</GBSeq_organism>
+./AM491368.xml:  <GBSeq_organism>Pedobacter duraquae</GBSeq_organism>
+./DQ097274.xml:  <GBSeq_organism>Pedobacter suwonensis</GBSeq_organism>
+./AJ438171.xml:  <GBSeq_organism>Pedobacter africanus</GBSeq_organism>

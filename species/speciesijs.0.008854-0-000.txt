@@ -1,0 +1,9 @@
+./AJ536036.xml:  <GBSeq_organism>Mycobacterium intracellulare</GBSeq_organism>
+./AJ548480.xml:  <GBSeq_organism>Mycobacterium chimaera</GBSeq_organism>
+./EU834055.xml:  <GBSeq_organism>Mycobacterium vulneris</GBSeq_organism>
+./EU815938.xml:  <GBSeq_organism>Mycobacterium avium complex</GBSeq_organism>
+./AM062764.xml:  <GBSeq_organism>Mycobacterium colombiense CECT 3035</GBSeq_organism>
+./X52917.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./EF521895.xml:  <GBSeq_organism>Mycobacterium avium subsp. avium ATCC 25291</GBSeq_organism>
+./X52934.xml:  <GBSeq_organism>Mycobacterium avium subsp. paratuberculosis</GBSeq_organism>
+./AJ536034.xml:  <GBSeq_organism>Mycobacterium scrofulaceum</GBSeq_organism>

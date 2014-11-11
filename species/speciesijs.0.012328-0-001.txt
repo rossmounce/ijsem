@@ -1,0 +1,5 @@
+./EF195126.xml:  <GBSeq_organism>Caldanaerobacter uzonensis</GBSeq_organism>
+./AF212925.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. yonseiensis</GBSeq_organism>
+./AF195797.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./AY278483.xml:  <GBSeq_organism>Thermoanaerobacter keratinophilus</GBSeq_organism>
+./AF209708.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. tengcongensis</GBSeq_organism>

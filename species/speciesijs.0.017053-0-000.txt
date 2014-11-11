@@ -1,0 +1,20 @@
+./X92630.xml:  <GBSeq_organism>Dactylosporangium thailandense</GBSeq_organism>
+./AB089241.xml:  <GBSeq_organism>Longispora albida</GBSeq_organism>
+./AF152107.xml:  <GBSeq_organism>Catellatospora methionotrophica</GBSeq_organism>
+./AB223089.xml:  <GBSeq_organism>Polymorphospora rubra</GBSeq_organism>
+./X93200.xml:  <GBSeq_organism>Hamadaea tsunoensis DSM 44101</GBSeq_organism>
+./AJ865470.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./EU870859.xml:  <GBSeq_organism>Verrucosispora sediminis</GBSeq_organism>
+./X92631.xml:  <GBSeq_organism>Micromonospora rosaria</GBSeq_organism>
+./X92610.xml:  <GBSeq_organism>Micromonospora inositola</GBSeq_organism>
+./X93194.xml:  <GBSeq_organism>Dactylosporangium roseum</GBSeq_organism>
+./X92604.xml:  <GBSeq_organism>Micromonospora aurantiaca</GBSeq_organism>
+./AJ294715.xml:  <GBSeq_organism>Asanoa ishikariensis</GBSeq_organism>
+./X93199.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./D63912.xml:  <GBSeq_organism>Spirilliplanes yamanashiensis</GBSeq_organism>
+./U58526.xml:  <GBSeq_organism>Actinoplanes auranticolor</GBSeq_organism>
+./AY040619.xml:  <GBSeq_organism>Salinispora arenicola ATCC BAA-917</GBSeq_organism>
+./X92625.xml:  <GBSeq_organism>Micromonospora echinofusca</GBSeq_organism>
+./X93189.xml:  <GBSeq_organism>Pilimelia anulata</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

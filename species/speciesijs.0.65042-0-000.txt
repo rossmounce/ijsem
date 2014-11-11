@@ -1,0 +1,6 @@
+./AB286022.xml:  <GBSeq_organism>Humibacillus xanthopallidus</GBSeq_organism>
+./D85486.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./X83812.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./AY944176.xml:  <GBSeq_organism>Terrabacter terrae</GBSeq_organism>
+./Y11928.xml:  <GBSeq_organism>Terracoccus luteus</GBSeq_organism>

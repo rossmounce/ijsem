@@ -1,0 +1,10 @@
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./AF247003.xml:  <GBSeq_organism>Thermoanaerobacterium thermosaccharolyticum</GBSeq_organism>
+./EF507903.xml:  <GBSeq_organism>Caldanaerobius fijiensis</GBSeq_organism>
+./U40229.xml:  <GBSeq_organism>Caldanaerobius polysaccharolyticus DSM 13641</GBSeq_organism>
+./AY656675.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./L09172.xml:  <GBSeq_organism>Thermoanaerobacterium xylanolyticum</GBSeq_organism>
+./AF195797.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./X93359.xml:  <GBSeq_organism>Thermoanaerobacterium aotearoense</GBSeq_organism>
+./L09162.xml:  <GBSeq_organism>Thermoanaerobacter ethanolicus</GBSeq_organism>
+./U75993.xml:  <GBSeq_organism>Caldanaerobius zeae</GBSeq_organism>

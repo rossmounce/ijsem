@@ -1,0 +1,16 @@
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AF409070.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./X83431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./L33763.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./M23932.xml:  <GBSeq_organism>Acholeplasma laidlawii</GBSeq_organism>
+./AF409069.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./AF105317.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AF268895.xml:  <GBSeq_organism>Elm phytoplasma &apos;Arlington Heights&apos;</GBSeq_organism>
+./AF036354.xml:  <GBSeq_organism>&apos;Fragaria multicipita&apos; phytoplasma</GBSeq_organism>
+./AF189215.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AF122911.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./X76560.xml:  <GBSeq_organism>Mycoplasma sp.</GBSeq_organism>
+./AF189214.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>
+./AF105315.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AF122912.xml:  <GBSeq_organism>Flavescence doree phytoplasma HD1</GBSeq_organism>
+./X68339.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>

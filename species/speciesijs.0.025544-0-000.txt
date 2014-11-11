@@ -1,0 +1,21 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AJ401208.xml:  <GBSeq_organism>Roseospira thiosulfatophila</GBSeq_organism>
+./X99671.xml:  <GBSeq_organism>Rhodospira trueperi</GBSeq_organism>
+./M59067.xml:  <GBSeq_organism>Phaeospirillum molischianum</GBSeq_organism>
+./AM283537.xml:  <GBSeq_organism>Roseospira goensis</GBSeq_organism>
+./D12701.xml:  <GBSeq_organism>Rhodospirillum centenum</GBSeq_organism>
+./AM282560.xml:  <GBSeq_organism>Roseospira visakhapatnamensis</GBSeq_organism>
+./M59069.xml:  <GBSeq_organism>Rhodovibrio salinarum</GBSeq_organism>
+./AJ298880.xml:  <GBSeq_organism>Roseospira navarrensis</GBSeq_organism>
+./AM710622.xml:  <GBSeq_organism>Rhodospirillum sulfurexigens</GBSeq_organism>
+./M59072.xml:  <GBSeq_organism>Rhodovibrio sodomensis</GBSeq_organism>
+./Y10109.xml:  <GBSeq_organism>Magnetospirillum gryphiswaldense MSR-1</GBSeq_organism>
+./M59065.xml:  <GBSeq_organism>Phaeospirillum fulvum</GBSeq_organism>
+./FN813496.xml:  <GBSeq_organism>Phaeospirillum oryzae</GBSeq_organism>
+./AM779061.xml:  <GBSeq_organism>Phaeospirillum chandramohanii</GBSeq_organism>
+./AM901294.xml:  <GBSeq_organism>Phaeospirillum cystidoformans</GBSeq_organism>
+./AJ298879.xml:  <GBSeq_organism>Roseospira marina</GBSeq_organism>
+./AF523824.xml:  <GBSeq_organism>Rhodocista pekingensis</GBSeq_organism>
+./AJ222662.xml:  <GBSeq_organism>Rhodospirillum photometricum DSM 122</GBSeq_organism>
+./AJ000989.xml:  <GBSeq_organism>Roseospira mediosalina</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>

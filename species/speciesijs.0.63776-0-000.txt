@@ -1,0 +1,60 @@
+./U17364.xml:  <GBSeq_organism>Halorubrum saccharovorum</GBSeq_organism>
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./X82168.xml:  <GBSeq_organism>Halorubrum trapanicum</GBSeq_organism>
+./AY196676.xml:  <GBSeq_organism>Methanocorpusculum bavaricum</GBSeq_organism>
+./AJ496185.xml:  <GBSeq_organism>Halobacterium salinarum</GBSeq_organism>
+./D43628.xml:  <GBSeq_organism>Natronococcus amylolyticus</GBSeq_organism>
+./AY510708.xml:  <GBSeq_organism>Halorubrum alkaliphilum</GBSeq_organism>
+./AF071880.xml:  <GBSeq_organism>Halorhabdus utahensis DSM 12940</GBSeq_organism>
+./AY196680.xml:  <GBSeq_organism>Methanimicrococcus blatticola</GBSeq_organism>
+./AY149598.xml:  <GBSeq_organism>Halorubrum tibetense</GBSeq_organism>
+./AY196681.xml:  <GBSeq_organism>Methanoplanus petrolearius</GBSeq_organism>
+./D14128.xml:  <GBSeq_organism>Haloferax denitrificans ATCC 35960</GBSeq_organism>
+./AB108677.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./AY196669.xml:  <GBSeq_organism>Methanobrevibacter smithii ATCC 35061</GBSeq_organism>
+./D14123.xml:  <GBSeq_organism>Natrialba asiatica</GBSeq_organism>
+./D13378.xml:  <GBSeq_organism>Haloferax gibbonsii</GBSeq_organism>
+./D63572.xml:  <GBSeq_organism>Halorubrum distributum</GBSeq_organism>
+./AJ276887.xml:  <GBSeq_organism>Halorubrum tebenquichense</GBSeq_organism>
+./D13379.xml:  <GBSeq_organism>Halorubrum sodomense</GBSeq_organism>
+./AJ002949.xml:  <GBSeq_organism>Natrinema pallidum</GBSeq_organism>
+./AY196675.xml:  <GBSeq_organism>Methanococcus vannielii</GBSeq_organism>
+./U20154.xml:  <GBSeq_organism>Methanolobus taylorii</GBSeq_organism>
+./D28872.xml:  <GBSeq_organism>Haloarcula japonica</GBSeq_organism>
+./AY196679.xml:  <GBSeq_organism>Methanomicrobium mobile</GBSeq_organism>
+./L37444.xml:  <GBSeq_organism>Halobaculum gomorrense</GBSeq_organism>
+./AF320480.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./X72495.xml:  <GBSeq_organism>Natrialba magadii ATCC 43099</GBSeq_organism>
+./AF251941.xml:  <GBSeq_organism>Natrialba aegyptia</GBSeq_organism>
+./U17593.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./D87970.xml:  <GBSeq_organism>Natronobacterium gregoryi SP2</GBSeq_organism>
+./AY196659.xml:  <GBSeq_organism>Methanobacterium formicicum</GBSeq_organism>
+./AB108676.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./AF002984.xml:  <GBSeq_organism>Halogeometricum borinquense DSM 11551</GBSeq_organism>
+./AF320478.xml:  <GBSeq_organism>Halosimplex carlsbadense 2-9-1</GBSeq_organism>
+./D50850.xml:  <GBSeq_organism>Halomicrobium mukohataei</GBSeq_organism>
+./AY425724.xml:  <GBSeq_organism>Haloferax volcanii</GBSeq_organism>
+./D14124.xml:  <GBSeq_organism>Natrialba taiwanensis DSM 12281</GBSeq_organism>
+./AB023426.xml:  <GBSeq_organism>Natrinema versiforme</GBSeq_organism>
+./AY196684.xml:  <GBSeq_organism>Methanosphaera stadtmanae DSM 3091</GBSeq_organism>
+./AJ420376.xml:  <GBSeq_organism>Halococcus dombrowskii</GBSeq_organism>
+./AJ002947.xml:  <GBSeq_organism>Natrinema pellirubrum DSM 15624</GBSeq_organism>
+./D87972.xml:  <GBSeq_organism>Halorubrum vacuolatum</GBSeq_organism>
+./X82170.xml:  <GBSeq_organism>Halorubrum lacusprofundi ATCC 49239</GBSeq_organism>
+./U68541.xml:  <GBSeq_organism>Haloarcula hispanica ATCC 33960</GBSeq_organism>
+./AJ004806.xml:  <GBSeq_organism>Natrialba chahannaoensis</GBSeq_organism>
+./X00662.xml:  <GBSeq_organism>Halococcus morrhuae</GBSeq_organism>
+./AB090168.xml:  <GBSeq_organism>Haloarcula hispanica ATCC 33960</GBSeq_organism>
+./AY196682.xml:  <GBSeq_organism>Methanosarcina barkeri</GBSeq_organism>
+./AY196683.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./D50849.xml:  <GBSeq_organism>Haloarcula argentinensis</GBSeq_organism>
+./AF262026.xml:  <GBSeq_organism>Natrialba hulunbeirensis</GBSeq_organism>
+./AY196674.xml:  <GBSeq_organism>Methanoculleus bourgensis MS2</GBSeq_organism>
+./AF339746.xml:  <GBSeq_organism>Thermoplasma volcanium</GBSeq_organism>
+./AF115478.xml:  <GBSeq_organism>Haloterrigena thermotolerans</GBSeq_organism>
+./AY510707.xml:  <GBSeq_organism>Halorubrum xinjiangense</GBSeq_organism>
+./AY458601.xml:  <GBSeq_organism>Haloferax sulfurifontis ATCC BAA-897</GBSeq_organism>
+./M38637.xml:  <GBSeq_organism>Thermoplasma acidophilum</GBSeq_organism>
+./Y14028.xml:  <GBSeq_organism>Natronorubrum bangense</GBSeq_organism>
+./AF333760.xml:  <GBSeq_organism>Halobiforma haloterrestris</GBSeq_organism>

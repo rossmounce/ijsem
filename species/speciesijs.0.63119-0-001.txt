@@ -1,0 +1,54 @@
+./AY431033.xml:  <GBSeq_organism>[Pasteurella] mairii</GBSeq_organism>
+./AY465366.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AF060699.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./AF224289.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AY465368.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./M75047.xml:  <GBSeq_organism>Actinobacillus seminis</GBSeq_organism>
+./AF487723.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./AY431032.xml:  <GBSeq_organism>[Pasteurella] mairii</GBSeq_organism>
+./AY465365.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AF224290.xml:  <GBSeq_organism>Pasteurella aerogenes MCCM 01551</GBSeq_organism>
+./AF139587.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./U66491.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./M75059.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./AY465364.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AF025839.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AY465373.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AF024528.xml:  <GBSeq_organism>Bisgaard Taxon 10</GBSeq_organism>
+./M75068.xml:  <GBSeq_organism>Actinobacillus lignieresii</GBSeq_organism>
+./AF024523.xml:  <GBSeq_organism>Crassostrea virginica</GBSeq_organism>
+./AY465362.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AF294410.xml:  <GBSeq_organism>Pasteurella multocida subsp. multocida</GBSeq_organism>
+./AF139578.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465370.xml:  <GBSeq_organism>Mannheimia sp. BA597/9</GBSeq_organism>
+./AF139582.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465358.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AF228001.xml:  <GBSeq_organism>Gallibacterium anatis DSM 16844 = F 149</GBSeq_organism>
+./AF139579.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465359.xml:  <GBSeq_organism>Actinobacillus equuli</GBSeq_organism>
+./AF224288.xml:  <GBSeq_organism>Pasteurella aerogenes MCCM 01550</GBSeq_organism>
+./AF139580.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./U65583.xml:  <GBSeq_organism>Actinobacillus porcinus</GBSeq_organism>
+./AF139581.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465372.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465367.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./L06081.xml:  <GBSeq_organism>Bisgaard Taxon 6</GBSeq_organism>
+./AF139577.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465371.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./Y17189.xml:  <GBSeq_organism>Lonepinella koalarum</GBSeq_organism>
+./AY465357.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY431030.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AF549387.xml:  <GBSeq_organism>Histophilus somni</GBSeq_organism>
+./AF139585.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AF139583.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465363.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AF139584.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465374.xml:  <GBSeq_organism>Bisgaard Taxon 10</GBSeq_organism>
+./AF139586.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465361.xml:  <GBSeq_organism>Bisgaard Taxon 10</GBSeq_organism>
+./U66492.xml:  <GBSeq_organism>[Pasteurella] aerogenes</GBSeq_organism>
+./AY465360.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./X89379.xml:  <GBSeq_organism>Phocoenobacter uteri</GBSeq_organism>
+./AF024525.xml:  <GBSeq_organism>Actinobacillus succinogenes</GBSeq_organism>
+./AY431031.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>
+./AY465369.xml:  <GBSeq_organism>[Actinobacillus] rossii</GBSeq_organism>

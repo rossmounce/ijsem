@@ -1,0 +1,27 @@
+./AY278515.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. akhurstii</GBSeq_organism>
+./AY278499.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. akhurstii</GBSeq_organism>
+./AY278497.xml:  <GBSeq_organism>Photorhabdus temperata subsp. khanii NC19</GBSeq_organism>
+./AY278505.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. luminescens</GBSeq_organism>
+./AY278517.xml:  <GBSeq_organism>Photorhabdus temperata subsp. temperata</GBSeq_organism>
+./AY278493.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278507.xml:  <GBSeq_organism>Photorhabdus temperata</GBSeq_organism>
+./AY278504.xml:  <GBSeq_organism>Photorhabdus temperata</GBSeq_organism>
+./AY278513.xml:  <GBSeq_organism>Photorhabdus temperata subsp. tasmaniensis</GBSeq_organism>
+./AY278509.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. laumondii</GBSeq_organism>
+./AY278496.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278501.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. luminescens</GBSeq_organism>
+./AY278494.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278503.xml:  <GBSeq_organism>Photorhabdus temperata subsp. khanii</GBSeq_organism>
+./AY278516.xml:  <GBSeq_organism>Photorhabdus temperata</GBSeq_organism>
+./AY278502.xml:  <GBSeq_organism>Photorhabdus temperata</GBSeq_organism>
+./AY278508.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. laumondii</GBSeq_organism>
+./AY278500.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278514.xml:  <GBSeq_organism>Photorhabdus sp. Q614</GBSeq_organism>
+./AY278495.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278492.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278511.xml:  <GBSeq_organism>Photorhabdus asymbiotica subsp. australis</GBSeq_organism>
+./AY278512.xml:  <GBSeq_organism>Photorhabdus temperata subsp. khanii</GBSeq_organism>
+./AY322432.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. kayaii</GBSeq_organism>
+./AY278506.xml:  <GBSeq_organism>Photorhabdus luminescens</GBSeq_organism>
+./AY278510.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. akhurstii</GBSeq_organism>
+./AY278498.xml:  <GBSeq_organism>Photorhabdus luminescens subsp. hainanensis</GBSeq_organism>

@@ -1,0 +1,8 @@
+./D87971.xml:  <GBSeq_organism>Natronomonas pharaonis DSM 2160</GBSeq_organism>
+./U17593.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./M60880.xml:  <GBSeq_organism>Methanospirillum hungatei</GBSeq_organism>
+./D50850.xml:  <GBSeq_organism>Halomicrobium mukohataei</GBSeq_organism>
+./AB090168.xml:  <GBSeq_organism>Haloarcula hispanica ATCC 33960</GBSeq_organism>
+./D50851.xml:  <GBSeq_organism>Haloarcula vallismortis</GBSeq_organism>
+./DQ854818.xml:  <GBSeq_organism>Haloarcula amylolytica</GBSeq_organism>
+./D50849.xml:  <GBSeq_organism>Haloarcula argentinensis</GBSeq_organism>

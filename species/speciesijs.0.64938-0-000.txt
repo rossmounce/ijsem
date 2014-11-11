@@ -1,0 +1,29 @@
+./AJ227754.xml:  <GBSeq_organism>Caulobacter vibrioides</GBSeq_organism>
+./X95917.xml:  <GBSeq_organism>Xanthomonas campestris</GBSeq_organism>
+./M59157.xml:  <GBSeq_organism>Legionella pneumophila</GBSeq_organism>
+./AF094713.xml:  <GBSeq_organism>Pseudomonas aeruginosa</GBSeq_organism>
+./Y12376.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./AB009828.xml:  <GBSeq_organism>Hydrogenophilus thermoluteolus</GBSeq_organism>
+./AB193724.xml:  <GBSeq_organism>Methylophilus methylotrophus</GBSeq_organism>
+./M79401.xml:  <GBSeq_organism>Acidithiobacillus thiooxidans</GBSeq_organism>
+./M22365.xml:  <GBSeq_organism>Oceanospirillum linum</GBSeq_organism>
+./D30778.xml:  <GBSeq_organism>Rhodospirillum rubrum ATCC 11170</GBSeq_organism>
+./AB070982.xml:  <GBSeq_organism>Nitrosomonas europaea</GBSeq_organism>
+./M35014.xml:  <GBSeq_organism>Cardiobacterium hominis</GBSeq_organism>
+./AJ563935.xml:  <GBSeq_organism>Methylococcus capsulatus str. Texas = ATCC 19069</GBSeq_organism>
+./AJ001010.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./L40993.xml:  <GBSeq_organism>Thiothrix nivea DSM 5205</GBSeq_organism>
+./X07714.xml:  <GBSeq_organism>Neisseria gonorrhoeae</GBSeq_organism>
+./EF067861.xml:  <GBSeq_organism>Solimonas soli</GBSeq_organism>
+./M35018.xml:  <GBSeq_organism>Pasteurella multocida</GBSeq_organism>
+./AJ251469.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./X60404.xml:  <GBSeq_organism>Aeromonas hydrophila</GBSeq_organism>
+./AY363244.xml:  <GBSeq_organism>Hydrocarboniphaga effusa</GBSeq_organism>
+./X82145.xml:  <GBSeq_organism>Alteromonas macleodii</GBSeq_organism>
+./D16427.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AY363245.xml:  <GBSeq_organism>Hydrocarboniphaga effusa AP103</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF097530.xml:  <GBSeq_organism>Burkholderia cepacia ATCC 25416</GBSeq_organism>
+./AJ001011.xml:  <GBSeq_organism>Nevskia ramosa</GBSeq_organism>
+./U37337.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>

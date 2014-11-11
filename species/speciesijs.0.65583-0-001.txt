@@ -1,0 +1,11 @@
+./AB302922.xml:  <GBSeq_organism>Methylobacterium brachiatum</GBSeq_organism>
+./AB302911.xml:  <GBSeq_organism>Methylobacterium rhodesianum</GBSeq_organism>
+./AB302915.xml:  <GBSeq_organism>Methylobacterium zatmanii</GBSeq_organism>
+./AB302907.xml:  <GBSeq_organism>Methylobacterium mesophilicum</GBSeq_organism>
+./AB302923.xml:  <GBSeq_organism>Methylobacterium tardum</GBSeq_organism>
+./AB302904.xml:  <GBSeq_organism>Methylobacterium fujisawaense</GBSeq_organism>
+./AB302917.xml:  <GBSeq_organism>Methylobacterium komagatae DSM 19563</GBSeq_organism>
+./AB302909.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AB302900.xml:  <GBSeq_organism>Methylobacterium aquaticum</GBSeq_organism>
+./AB302916.xml:  <GBSeq_organism>Methylobacterium gregans</GBSeq_organism>
+./AB302924.xml:  <GBSeq_organism>Methylobacterium gregans</GBSeq_organism>

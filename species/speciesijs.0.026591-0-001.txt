@@ -1,0 +1,16 @@
+./X90481.xml:  <GBSeq_organism>Metallosphaera sedula DSM 5348</GBSeq_organism>
+./X90477.xml:  <GBSeq_organism>Acidianus brierleyi</GBSeq_organism>
+./AF226987.xml:  <GBSeq_organism>Acidianus tengchongensis</GBSeq_organism>
+./M32504.xml:  <GBSeq_organism>Sulfolobus shibatae B12</GBSeq_organism>
+./FN796482.xml:  <GBSeq_organism>Metallosphaera cuprina Ar-4</GBSeq_organism>
+./D86414.xml:  <GBSeq_organism>Metallosphaera hakonensis</GBSeq_organism>
+./X90484.xml:  <GBSeq_organism>Acidianus ambivalens</GBSeq_organism>
+./AY907891.xml:  <GBSeq_organism>Acidianus sulfidivorans JP7</GBSeq_organism>
+./D14876.xml:  <GBSeq_organism>Sulfolobus acidocaldarius</GBSeq_organism>
+./X90478.xml:  <GBSeq_organism>Sulfolobus solfataricus</GBSeq_organism>
+./X90482.xml:  <GBSeq_organism>Metallosphaera prunae</GBSeq_organism>
+./AB182498.xml:  <GBSeq_organism>Acidianus manzaensis</GBSeq_organism>
+./D85505.xml:  <GBSeq_organism>Acidianus infernus</GBSeq_organism>
+./D85520.xml:  <GBSeq_organism>Stygiolobus azoricus</GBSeq_organism>
+./D85519.xml:  <GBSeq_organism>Sulfolobus metallicus DSM 6482 = JCM 9184</GBSeq_organism>
+./M21087.xml:  <GBSeq_organism>Pyrodictium occultum</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AY216596.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./AF212925.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. yonseiensis</GBSeq_organism>
+./L09167.xml:  <GBSeq_organism>Thermoanaerobacter thermocopriae JCM 7501</GBSeq_organism>
+./X92513.xml:  <GBSeq_organism>Thermoanaerobacter wiegelii Rt8.B1</GBSeq_organism>
+./L09160.xml:  <GBSeq_organism>Thermoanaerobacter kivui</GBSeq_organism>
+./L09165.xml:  <GBSeq_organism>Thermoanaerobacter brockii</GBSeq_organism>
+./AF174484.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. pacificus DSM 12653</GBSeq_organism>
+./AF195797.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./AF209708.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. tengcongensis</GBSeq_organism>
+./AY216597.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>

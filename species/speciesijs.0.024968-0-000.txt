@@ -1,0 +1,10 @@
+./FJ810586.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./EF219370.xml:  <GBSeq_organism>Georgfuchsia toluolica</GBSeq_organism>
+./AY879297.xml:  <GBSeq_organism>Denitratisoma oestradiolicum</GBSeq_organism>
+./FM207921.xml:  <GBSeq_organism>uncultured Rhodocyclaceae bacterium</GBSeq_organism>
+./AY032610.xml:  <GBSeq_organism>Dechloromonas aromatica RCB</GBSeq_organism>
+./AJ306683.xml:  <GBSeq_organism>Sterolibacterium denitrificans</GBSeq_organism>
+./AF204250.xml:  <GBSeq_organism>uncultured beta proteobacterium</GBSeq_organism>
+./FM207981.xml:  <GBSeq_organism>Macaca mulatta</GBSeq_organism>
+./M34132.xml:  <GBSeq_organism>Rhodocyclus purpureus</GBSeq_organism>

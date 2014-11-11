@@ -1,0 +1,30 @@
+./AJ550984.xml:  <GBSeq_organism>Candidatus Phytoplasma cynodontis</GBSeq_organism>
+./AF092209.xml:  <GBSeq_organism>Candidatus Phytoplasma fraxini</GBSeq_organism>
+./AY725234.xml:  <GBSeq_organism>Candidatus Phytoplasma caricae</GBSeq_organism>
+./L76865.xml:  <GBSeq_organism>Candidatus Phytoplasma australiense</GBSeq_organism>
+./X76431.xml:  <GBSeq_organism>unidentified mollicute</GBSeq_organism>
+./X92869.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./M30790.xml:  <GBSeq_organism>Oenothera phytoplasma 86-7</GBSeq_organism>
+./AF305240.xml:  <GBSeq_organism>Candidatus Phytoplasma ziziphi</GBSeq_organism>
+./AF086621.xml:  <GBSeq_organism>Loofah witches&apos;-broom phytoplasma</GBSeq_organism>
+./U18747.xml:  <GBSeq_organism>Coconut lethal yellowing phytoplasma</GBSeq_organism>
+./EF666051.xml:  <GBSeq_organism>Candidatus Phytoplasma omanense</GBSeq_organism>
+./AF248959.xml:  <GBSeq_organism>Candidatus Phytoplasma solani</GBSeq_organism>
+./AY135523.xml:  <GBSeq_organism>Candidatus Phytoplasma allocasuarinae</GBSeq_organism>
+./L04682.xml:  <GBSeq_organism>Western X phytoplasma</GBSeq_organism>
+./U15442.xml:  <GBSeq_organism>Candidatus Phytoplasma aurantifolia</GBSeq_organism>
+./Y14175.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./DQ174122.xml:  <GBSeq_organism>Candidatus Phytoplasma americanum</GBSeq_organism>
+./X76560.xml:  <GBSeq_organism>Mycoplasma sp.</GBSeq_organism>
+./AY390261.xml:  <GBSeq_organism>Candidatus Phytoplasma trifolii</GBSeq_organism>
+./AJ542544.xml:  <GBSeq_organism>Candidatus Phytoplasma prunorum</GBSeq_organism>
+./DQ086423.xml:  <GBSeq_organism>Candidatus Phytoplasma fragariae</GBSeq_organism>
+./X80117.xml:  <GBSeq_organism>Phytoplasma sp.</GBSeq_organism>
+./AY725228.xml:  <GBSeq_organism>Candidatus Phytoplasma graminis</GBSeq_organism>
+./D12581.xml:  <GBSeq_organism>Candidatus Phytoplasma oryzae</GBSeq_organism>
+./AF147708.xml:  <GBSeq_organism>Candidatus Phytoplasma brasiliense</GBSeq_organism>
+./AJ542541.xml:  <GBSeq_organism>Candidatus Phytoplasma mali</GBSeq_organism>
+./AJ310849.xml:  <GBSeq_organism>Candidatus Phytoplasma pini</GBSeq_organism>
+./AF515637.xml:  <GBSeq_organism>Candidatus Phytoplasma phoenicium</GBSeq_organism>
+./AJ542543.xml:  <GBSeq_organism>Candidatus Phytoplasma pyri</GBSeq_organism>
+./AF122910.xml:  <GBSeq_organism>Candidatus Phytoplasma ulmi</GBSeq_organism>

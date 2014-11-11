@@ -1,0 +1,16 @@
+./DQ423479.xml:  <GBSeq_organism>Zhouia amylolytica</GBSeq_organism>
+./AY643084.xml:  <GBSeq_organism>Alistipes finegoldii DSM 17242</GBSeq_organism>
+./FJ394546.xml:  <GBSeq_organism>Marinifilum fragile CECT 7942</GBSeq_organism>
+./Y18530.xml:  <GBSeq_organism>Dysgonomonas gadei ATCC BAA-286</GBSeq_organism>
+./EF670651.xml:  <GBSeq_organism>Actibacter sediminis</GBSeq_organism>
+./M58763.xml:  <GBSeq_organism>Bacteroides thetaiotaomicron</GBSeq_organism>
+./AY027802.xml:  <GBSeq_organism>Aequorivita antarctica</GBSeq_organism>
+./L16497.xml:  <GBSeq_organism>Alistipes putredinis</GBSeq_organism>
+./D12661.xml:  <GBSeq_organism>Cytophaga fermentans DSM 9555 = JCM 21142</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./U41355.xml:  <GBSeq_organism>Dysgonomonas capnocytophagoides</GBSeq_organism>
+./AY547271.xml:  <GBSeq_organism>Alistipes massiliensis</GBSeq_organism>
+./AJ418048.xml:  <GBSeq_organism>Anaerophaga thermohalophila DSM 12881</GBSeq_organism>
+./AJ784993.xml:  <GBSeq_organism>Alkaliflexus imshenetskii DSM 15055</GBSeq_organism>
+./AJ319867.xml:  <GBSeq_organism>Dysgonomonas mossii DSM 22836</GBSeq_organism>
+./AY918928.xml:  <GBSeq_organism>Prolixibacter bellariivorans</GBSeq_organism>

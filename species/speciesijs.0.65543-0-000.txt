@@ -1,0 +1,18 @@
+./L37788.xml:  <GBSeq_organism>Leptotrichia buccalis</GBSeq_organism>
+./M23730.xml:  <GBSeq_organism>[Streptococcus] pleomorphus</GBSeq_organism>
+./AB360600.xml:  <GBSeq_organism>Sharpea azabuensis</GBSeq_organism>
+./AJ133496.xml:  <GBSeq_organism>Fusobacterium nucleatum subsp. nucleatum ATCC 25586</GBSeq_organism>
+./X77850.xml:  <GBSeq_organism>[Clostridium] rectum</GBSeq_organism>
+./X54275.xml:  <GBSeq_organism>Propionigenium modestum</GBSeq_organism>
+./M59120.xml:  <GBSeq_organism>Eubacterium limosum</GBSeq_organism>
+./M59230.xml:  <GBSeq_organism>[Eubacterium] biforme DSM 3989</GBSeq_organism>
+./AB210825.xml:  <GBSeq_organism>Kandleria vitulina</GBSeq_organism>
+./AF028350.xml:  <GBSeq_organism>[Clostridium] cocleatum</GBSeq_organism>
+./L34617.xml:  <GBSeq_organism>[Eubacterium] cylindroides ATCC 27803</GBSeq_organism>
+./M23731.xml:  <GBSeq_organism>Erysipelatoclostridium ramosum</GBSeq_organism>
+./L34683.xml:  <GBSeq_organism>[Eubacterium] tortuosum</GBSeq_organism>
+./X73441.xml:  <GBSeq_organism>[Clostridium] spiroforme DSM 1552</GBSeq_organism>
+./AB360601.xml:  <GBSeq_organism>Sharpea azabuensis</GBSeq_organism>
+./M23729.xml:  <GBSeq_organism>Eggerthia catenaformis</GBSeq_organism>
+./AB360599.xml:  <GBSeq_organism>Sharpea azabuensis</GBSeq_organism>
+./L34682.xml:  <GBSeq_organism>[Eubacterium] dolichum DSM 3991</GBSeq_organism>

@@ -1,0 +1,14 @@
+./X92599.xml:  <GBSeq_organism>Micromonospora carbonacea</GBSeq_organism>
+./X92601.xml:  <GBSeq_organism>Micromonospora halophytica</GBSeq_organism>
+./AF152106.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./AF152109.xml:  <GBSeq_organism>Micromonospora matsumotoense</GBSeq_organism>
+./AJ783996.xml:  <GBSeq_organism>Micromonospora lupini</GBSeq_organism>
+./AB241455.xml:  <GBSeq_organism>Micromonospora coxensis</GBSeq_organism>
+./X92604.xml:  <GBSeq_organism>Micromonospora aurantiaca</GBSeq_organism>
+./X92613.xml:  <GBSeq_organism>Micromonospora olivasterospora</GBSeq_organism>
+./AJ783993.xml:  <GBSeq_organism>Micromonospora saelicesensis</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./AJ626950.xml:  <GBSeq_organism>Micromonospora mirobrigensis</GBSeq_organism>
+./AB241454.xml:  <GBSeq_organism>Micromonospora chokoriensis</GBSeq_organism>
+./AM944497.xml:  <GBSeq_organism>Micromonospora pisi</GBSeq_organism>
+./AB193565.xml:  <GBSeq_organism>Micromonospora siamensis</GBSeq_organism>

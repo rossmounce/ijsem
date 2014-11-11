@@ -1,0 +1,11 @@
+./AF025822.xml:  <GBSeq_organism>Methanocaldococcus infernus</GBSeq_organism>
+./M59126.xml:  <GBSeq_organism>Methanocaldococcus jannaschii</GBSeq_organism>
+./AF056938.xml:  <GBSeq_organism>Methanocaldococcus fervens AG86</GBSeq_organism>
+./M59125.xml:  <GBSeq_organism>Methanotorris igneus</GBSeq_organism>
+./U39016.xml:  <GBSeq_organism>Methanococcus aeolicus</GBSeq_organism>
+./M36507.xml:  <GBSeq_organism>Methanococcus vannielii</GBSeq_organism>
+./AB100884.xml:  <GBSeq_organism>Methanotorris formicicus Mc-S-70</GBSeq_organism>
+./M59290.xml:  <GBSeq_organism>Methanococcus voltae</GBSeq_organism>
+./M59932.xml:  <GBSeq_organism>Methanopyrus kandleri</GBSeq_organism>
+./M59128.xml:  <GBSeq_organism>Methanothermococcus thermolithotrophicus DSM 2095</GBSeq_organism>
+./AF051404.xml:  <GBSeq_organism>Methanocaldococcus vulcanius M7</GBSeq_organism>

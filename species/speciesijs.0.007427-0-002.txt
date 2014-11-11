@@ -1,0 +1,21 @@
+./DQ360269.xml:  <GBSeq_organism>Nocardia brasiliensis NBRC 14402</GBSeq_organism>
+./DQ360278.xml:  <GBSeq_organism>Nocardia niigatensis</GBSeq_organism>
+./EU178745.xml:  <GBSeq_organism>Nocardia araoensis NBRC 100135</GBSeq_organism>
+./DQ360290.xml:  <GBSeq_organism>Nocardia yamanashiensis</GBSeq_organism>
+./EU178744.xml:  <GBSeq_organism>Nocardia aobensis NBRC 100429</GBSeq_organism>
+./DQ360289.xml:  <GBSeq_organism>Nocardia vinacea</GBSeq_organism>
+./DQ360261.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./DQ360288.xml:  <GBSeq_organism>Nocardia veterana</GBSeq_organism>
+./EU178747.xml:  <GBSeq_organism>Nocardia higoensis NBRC 100133</GBSeq_organism>
+./EU650382.xml:  <GBSeq_organism>Nocardia iowensis</GBSeq_organism>
+./EU178753.xml:  <GBSeq_organism>Nocardia vermiculata</GBSeq_organism>
+./DQ360276.xml:  <GBSeq_organism>Nocardia inohanensis</GBSeq_organism>
+./EU178743.xml:  <GBSeq_organism>Nocardia anaemiae</GBSeq_organism>
+./EU178748.xml:  <GBSeq_organism>Nocardia ignorata</GBSeq_organism>
+./EU178750.xml:  <GBSeq_organism>Nocardia puris</GBSeq_organism>
+./DQ360262.xml:  <GBSeq_organism>Nocardia arthritidis</GBSeq_organism>
+./DQ360265.xml:  <GBSeq_organism>Nocardia wallacei</GBSeq_organism>
+./DQ360274.xml:  <GBSeq_organism>Nocardia farcinica</GBSeq_organism>
+./EU178746.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>
+./EU178751.xml:  <GBSeq_organism>Nocardia shimofusensis</GBSeq_organism>
+./EU178749.xml:  <GBSeq_organism>Nocardia pneumoniae</GBSeq_organism>

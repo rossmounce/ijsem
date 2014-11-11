@@ -1,0 +1,10 @@
+./FN650334.xml:  <GBSeq_organism>Arcobacter trophiarum LMG 25534</GBSeq_organism>
+./FN600700.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./FN650335.xml:  <GBSeq_organism>Arcobacter trophiarum</GBSeq_organism>
+./FN600701.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./FN600704.xml:  <GBSeq_organism>Arcobacter cibarius</GBSeq_organism>
+./FN600705.xml:  <GBSeq_organism>Arcobacter mytili LMG 24559</GBSeq_organism>
+./FN600702.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./FN600699.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./FN600703.xml:  <GBSeq_organism>Arcobacter skirrowii CCUG 10374</GBSeq_organism>
+./FN600698.xml:  <GBSeq_organism>Arcobacter butzleri</GBSeq_organism>

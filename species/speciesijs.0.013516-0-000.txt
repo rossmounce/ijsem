@@ -1,0 +1,19 @@
+./X93472.xml:  <GBSeq_organism>Halochromatium glycolicum</GBSeq_organism>
+./AM283535.xml:  <GBSeq_organism>Halochromatium roseum</GBSeq_organism>
+./AM180952.xml:  <GBSeq_organism>Marichromatium bheemlicum</GBSeq_organism>
+./X98597.xml:  <GBSeq_organism>Halochromatium salexigens</GBSeq_organism>
+./AM404263.xml:  <GBSeq_organism>Aquisalimonas asiatica</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./DQ789390.xml:  <GBSeq_organism>Methylonatrum kenyense</GBSeq_organism>
+./AJ006063.xml:  <GBSeq_organism>Lamprocystis roseopersicina</GBSeq_organism>
+./FJ535355.xml:  <GBSeq_organism>Granulosicoccus coccoides</GBSeq_organism>
+./AF329083.xml:  <GBSeq_organism>Thioalkalivibrio jannaschii</GBSeq_organism>
+./DQ836238.xml:  <GBSeq_organism>Thiohalomonas nitratireducens</GBSeq_organism>
+./AJ404006.xml:  <GBSeq_organism>Thiobaca trueperi</GBSeq_organism>
+./EF495228.xml:  <GBSeq_organism>Granulosicoccus antarcticus IMCC3135</GBSeq_organism>
+./AY346464.xml:  <GBSeq_organism>Thioalkalivibrio halophilus</GBSeq_organism>
+./Y12369.xml:  <GBSeq_organism>Allochromatium minutissimum</GBSeq_organism>
+./X93473.xml:  <GBSeq_organism>Marichromatium gracile</GBSeq_organism>
+./AF406554.xml:  <GBSeq_organism>Alkalilimnicola ehrlichii MLHE-1</GBSeq_organism>
+./AJ543328.xml:  <GBSeq_organism>Marichromatium indicum</GBSeq_organism>
+./AF151432.xml:  <GBSeq_organism>Thioalkalivibrio paradoxus ARh 1</GBSeq_organism>

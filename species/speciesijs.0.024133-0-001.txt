@@ -1,0 +1,19 @@
+./AY620432.xml:  <GBSeq_organism>secondary symbiont type-R of Cinara cedri</GBSeq_organism>
+./EU348314.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./AY136157.xml:  <GBSeq_organism>secondary symbiont type-R of Periphyllus bulgaricus</GBSeq_organism>
+./AY136159.xml:  <GBSeq_organism>secondary symbiont type-R of Smynthurodes betae</GBSeq_organism>
+./AF293624.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./EU348323.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./EU348320.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./AY136137.xml:  <GBSeq_organism>secondary symbiont type-R of Aphis craccivora</GBSeq_organism>
+./EU348315.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./EU348312.xml:  <GBSeq_organism>secondary symbiont of Maculolachnus submacula</GBSeq_organism>
+./EU348326.xml:  <GBSeq_organism>secondary symbiont of Stomaphis cupressi</GBSeq_organism>
+./GU394001.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./AY136151.xml:  <GBSeq_organism>secondary symbiont type-R of Macrosiphoniella helichrysi</GBSeq_organism>
+./AY136155.xml:  <GBSeq_organism>secondary symbiont type-R of Pterochloroides persicae</GBSeq_organism>
+./EU348321.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./EU348316.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./AY136139.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./EU348318.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>
+./EU348319.xml:  <GBSeq_organism>Serratia symbiotica</GBSeq_organism>

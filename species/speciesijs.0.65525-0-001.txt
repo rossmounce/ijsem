@@ -1,0 +1,13 @@
+./D63870.xml:  <GBSeq_organism>Streptomyces eurythermus</GBSeq_organism>
+./D63863.xml:  <GBSeq_organism>Streptomyces scabiei</GBSeq_organism>
+./Z76678.xml:  <GBSeq_organism>Streptomyces coelicolor</GBSeq_organism>
+./D63865.xml:  <GBSeq_organism>Streptomyces acidiscabies</GBSeq_organism>
+./D63872.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./EF219459.xml:  <GBSeq_organism>Streptomyces deccanensis</GBSeq_organism>
+./D63862.xml:  <GBSeq_organism>Streptomyces scabiei</GBSeq_organism>
+./AJ007429.xml:  <GBSeq_organism>Streptomyces stelliscabiei</GBSeq_organism>
+./X61478.xml:  <GBSeq_organism>Unknown.</GBSeq_organism>
+./AJ007428.xml:  <GBSeq_organism>Streptomyces reticuliscabiei</GBSeq_organism>
+./D63869.xml:  <GBSeq_organism>Streptomyces neyagawaensis</GBSeq_organism>
+./D63868.xml:  <GBSeq_organism>Streptomyces bottropensis ATCC 25435</GBSeq_organism>
+./AJ007423.xml:  <GBSeq_organism>Streptomyces europaeiscabiei</GBSeq_organism>

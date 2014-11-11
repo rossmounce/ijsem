@@ -1,0 +1,15 @@
+./AY351395.xml:  <GBSeq_organism>Halobacillus dabanensis</GBSeq_organism>
+./X82436.xml:  <GBSeq_organism>Gracilibacillus dipsosauri</GBSeq_organism>
+./DQ989634.xml:  <GBSeq_organism>Sediminibacillus albus</GBSeq_organism>
+./D82065.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AJ310149.xml:  <GBSeq_organism>Halobacillus trueperi</GBSeq_organism>
+./AY190534.xml:  <GBSeq_organism>Halobacillus locisalis</GBSeq_organism>
+./X60627.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY543169.xml:  <GBSeq_organism>Virgibacillus halodenitrificans</GBSeq_organism>
+./AM905297.xml:  <GBSeq_organism>Sediminibacillus halophilus</GBSeq_organism>
+./AJ717299.xml:  <GBSeq_organism>Thalassobacillus devorans</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>
+./AY616012.xml:  <GBSeq_organism>Virgibacillus koreensis</GBSeq_organism>
+./Y11603.xml:  <GBSeq_organism>Virgibacillus salexigens</GBSeq_organism>

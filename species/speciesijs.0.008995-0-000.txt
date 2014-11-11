@@ -1,0 +1,14 @@
+./AY453855.xml:  <GBSeq_organism>Sphingomonas phyllosphaerae</GBSeq_organism>
+./AM229669.xml:  <GBSeq_organism>Sphingomonas mucosissima</GBSeq_organism>
+./AY151393.xml:  <GBSeq_organism>Sphingobium cloacae</GBSeq_organism>
+./AJ243751.xml:  <GBSeq_organism>Sphingomonas pituitosa</GBSeq_organism>
+./X97776.xml:  <GBSeq_organism>Sphingomonas trueperi</GBSeq_organism>
+./Y09638.xml:  <GBSeq_organism>Sphingomonas mali</GBSeq_organism>
+./Y09639.xml:  <GBSeq_organism>Sphingomonas asaccharolytica</GBSeq_organism>
+./X87274.xml:  <GBSeq_organism>Brevundimonas diminuta</GBSeq_organism>
+./AF131295.xml:  <GBSeq_organism>Sphingomonas aquatilis</GBSeq_organism>
+./D13726.xml:  <GBSeq_organism>Sphingomonas sanguinis</GBSeq_organism>
+./AY894691.xml:  <GBSeq_organism>Sphingomonas yunnanensis</GBSeq_organism>
+./EF530202.xml:  <GBSeq_organism>Sphingomonas histidinilytica</GBSeq_organism>
+./U20776.xml:  <GBSeq_organism>Sphingomonas paucimobilis</GBSeq_organism>
+./AJ009706.xml:  <GBSeq_organism>Sphingomonas fennica</GBSeq_organism>

@@ -1,0 +1,20 @@
+./FJ457040.xml:  <GBSeq_organism>Niabella yanshanensis</GBSeq_organism>
+./DQ244077.xml:  <GBSeq_organism>Niastella koreensis GR20-10</GBSeq_organism>
+./AB192292.xml:  <GBSeq_organism>Terrimonas lutea</GBSeq_organism>
+./EU521690.xml:  <GBSeq_organism>Lacibacter cauensis</GBSeq_organism>
+./AB264798.xml:  <GBSeq_organism>Chitinophaga ginsengisegetis</GBSeq_organism>
+./D12657.xml:  <GBSeq_organism>Chitinophaga arvensicola</GBSeq_organism>
+./M62798.xml:  <GBSeq_organism>Terrimonas ferruginea</GBSeq_organism>
+./FJ177532.xml:  <GBSeq_organism>Ferruginibacter lapsinanis</GBSeq_organism>
+./FJ177530.xml:  <GBSeq_organism>Ferruginibacter alkalilentus</GBSeq_organism>
+./AB267478.xml:  <GBSeq_organism>Segetibacter koreensis</GBSeq_organism>
+./DQ457019.xml:  <GBSeq_organism>Niabella aurantiaca</GBSeq_organism>
+./EU616816.xml:  <GBSeq_organism>Niabella ginsengisoli</GBSeq_organism>
+./AB362776.xml:  <GBSeq_organism>Filimonas lacunae</GBSeq_organism>
+./AF078775.xml:  <GBSeq_organism>Chitinophaga pinensis DSM 2588</GBSeq_organism>
+./AB245374.xml:  <GBSeq_organism>Chitinophaga ginsengisoli</GBSeq_organism>
+./DQ244076.xml:  <GBSeq_organism>Niastella yeongjuensis</GBSeq_organism>
+./EF592608.xml:  <GBSeq_organism>Niabella soli DSM 19437</GBSeq_organism>
+./FJ347757.xml:  <GBSeq_organism>Terrimonas aquatica</GBSeq_organism>
+./AM230485.xml:  <GBSeq_organism>Flavobacterium aquatile</GBSeq_organism>
+./M62795.xml:  <GBSeq_organism>Chitinophaga sancti</GBSeq_organism>

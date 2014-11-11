@@ -1,0 +1,19 @@
+./AM055587.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AY219003.xml:  <GBSeq_organism>Pantoea stewartii</GBSeq_organism>
+./AY217064.xml:  <GBSeq_organism>Erwinia mallotivora</GBSeq_organism>
+./AM055588.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AM292086.xml:  <GBSeq_organism>Erwinia billingiae Eb661</GBSeq_organism>
+./AY219006.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./AF165004.xml:  <GBSeq_organism>Erwinia psidii</GBSeq_organism>
+./AF165028.xml:  <GBSeq_organism>Erwinia persicina</GBSeq_organism>
+./AM292084.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AY217065.xml:  <GBSeq_organism>Erwinia psidii</GBSeq_organism>
+./AY217072.xml:  <GBSeq_organism>Erwinia pyrifoliae DSM 12163</GBSeq_organism>
+./AF165029.xml:  <GBSeq_organism>Erwinia rhapontici</GBSeq_organism>
+./AM055712.xml:  <GBSeq_organism>Erwinia pyrifoliae Ep1/96</GBSeq_organism>
+./AY217068.xml:  <GBSeq_organism>Erwinia amylovora</GBSeq_organism>
+./AF165027.xml:  <GBSeq_organism>Pantoea cypripedii</GBSeq_organism>
+./AM055718.xml:  <GBSeq_organism>Erwinia tasmaniensis Et1/99</GBSeq_organism>
+./AF165007.xml:  <GBSeq_organism>Erwinia tracheiphila</GBSeq_organism>
+./AY264799.xml:  <GBSeq_organism>Pectobacterium carotovorum subsp. carotovorum</GBSeq_organism>
+./AM055717.xml:  <GBSeq_organism>Erwinia tasmaniensis Et1/99</GBSeq_organism>

@@ -1,0 +1,19 @@
+./AM418787.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./AY907878.xml:  <GBSeq_organism>uncultured Alteromonas sp.</GBSeq_organism>
+./GU559880.xml:  <GBSeq_organism>Rhizobium daejeonense</GBSeq_organism>
+./AM286426.xml:  <GBSeq_organism>Rhizobium cellulosilyticum</GBSeq_organism>
+./EF113149.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./EU532139.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./GU559878.xml:  <GBSeq_organism>Rhizobium rosettiformans W3</GBSeq_organism>
+./GU559882.xml:  <GBSeq_organism>Rhizobium selenitireducens</GBSeq_organism>
+./GU559881.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AY907872.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./GU559879.xml:  <GBSeq_organism>Rhizobium aggregatum</GBSeq_organism>
+./AJ294405.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./AJ294388.xml:  <GBSeq_organism>Bradyrhizobium japonicum</GBSeq_organism>
+./EU288668.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AJ294397.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./AY688589.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./AJ294406.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AY907371.xml:  <GBSeq_organism>Rhizobium gallicum bv. gallicum</GBSeq_organism>
+./AJ294407.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>

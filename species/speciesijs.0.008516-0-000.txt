@@ -1,0 +1,12 @@
+./AY253863.xml:  <GBSeq_organism>Kribbella flavida</GBSeq_organism>
+./AY082063.xml:  <GBSeq_organism>Kribbella antibiotica</GBSeq_organism>
+./AB245391.xml:  <GBSeq_organism>Kribbella ginsengisoli</GBSeq_organism>
+./AY166703.xml:  <GBSeq_organism>Aeromicrobium marinum DSM 15272</GBSeq_organism>
+./AF005020.xml:  <GBSeq_organism>Kribbella sandramycini</GBSeq_organism>
+./AY995147.xml:  <GBSeq_organism>Kribbella swartbergensis</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AY995146.xml:  <GBSeq_organism>Kribbella karoonensis</GBSeq_organism>
+./EF472955.xml:  <GBSeq_organism>Kribbella hippodromi</GBSeq_organism>
+./AY082061.xml:  <GBSeq_organism>Kribbella yunnanensis</GBSeq_organism>
+./AY253862.xml:  <GBSeq_organism>Kribbella solani</GBSeq_organism>
+./AY253866.xml:  <GBSeq_organism>Kribbella jejuensis</GBSeq_organism>

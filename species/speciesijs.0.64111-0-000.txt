@@ -1,0 +1,12 @@
+./AJ238041.xml:  <GBSeq_organism>Alkalibacillus haloalkaliphilus</GBSeq_organism>
+./AJ238042.xml:  <GBSeq_organism>Filobacillus milosensis</GBSeq_organism>
+./X90835.xml:  <GBSeq_organism>Marinococcus halophilus</GBSeq_organism>
+./AY817493.xml:  <GBSeq_organism>Marinococcus halotolerans</GBSeq_organism>
+./AY319933.xml:  <GBSeq_organism>Tenuibacillus multivorans</GBSeq_organism>
+./D16283.xml:  <GBSeq_organism>Sporolactobacillus inulinus</GBSeq_organism>
+./DQ168584.xml:  <GBSeq_organism>Sinobaca qinghaiensis</GBSeq_organism>
+./X62174.xml:  <GBSeq_organism>Halobacillus halophilus</GBSeq_organism>
+./AY667493.xml:  <GBSeq_organism>Lentibacillus salarius</GBSeq_organism>
+./AJ243920.xml:  <GBSeq_organism>Salimicrobium halophilum</GBSeq_organism>
+./AJ009793.xml:  <GBSeq_organism>Virgibacillus marismortui</GBSeq_organism>
+./AF036922.xml:  <GBSeq_organism>Gracilibacillus halotolerans</GBSeq_organism>

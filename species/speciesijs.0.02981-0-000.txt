@@ -1,0 +1,16 @@
+./X89947.xml:  <GBSeq_organism>Streptosporangium roseum DSM 43021</GBSeq_organism>
+./AB062381.xml:  <GBSeq_organism>Planomonospora alba</GBSeq_organism>
+./D85491.xml:  <GBSeq_organism>Nonomuraea pusilla</GBSeq_organism>
+./D85494.xml:  <GBSeq_organism>Planobispora longispora</GBSeq_organism>
+./AB025318.xml:  <GBSeq_organism>Acrocarpospora macrocephala</GBSeq_organism>
+./AB112082.xml:  <GBSeq_organism>Planotetraspora silvatica</GBSeq_organism>
+./X97891.xml:  <GBSeq_organism>Microtetraspora glauca</GBSeq_organism>
+./D85485.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>
+./AB188150.xml:  <GBSeq_organism>Acrocarpospora corrugata</GBSeq_organism>
+./AB062382.xml:  <GBSeq_organism>Planomonospora sphaerica</GBSeq_organism>
+./D85496.xml:  <GBSeq_organism>Planotetraspora mira</GBSeq_organism>
+./D86936.xml:  <GBSeq_organism>Microbispora rosea</GBSeq_organism>
+./X89951.xml:  <GBSeq_organism>Streptosporangium violaceochromogenes</GBSeq_organism>
+./U48989.xml:  <GBSeq_organism>Microbispora rosea subsp. rosea</GBSeq_organism>
+./U48973.xml:  <GBSeq_organism>Microtetraspora fusca</GBSeq_organism>
+./X89940.xml:  <GBSeq_organism>Herbidospora cretacea</GBSeq_organism>

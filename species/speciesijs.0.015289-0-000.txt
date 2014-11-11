@@ -1,0 +1,24 @@
+./L34626.xml:  <GBSeq_organism>Eubacterium uniforme</GBSeq_organism>
+./M59090.xml:  <GBSeq_organism>Blautia coccoides</GBSeq_organism>
+./DQ794058.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./X89981.xml:  <GBSeq_organism>Butyrivibrio crossotus</GBSeq_organism>
+./L34621.xml:  <GBSeq_organism>[Eubacterium] hallii</GBSeq_organism>
+./AB243985.xml:  <GBSeq_organism>Anaerostipes caccae</GBSeq_organism>
+./EF036467.xml:  <GBSeq_organism>Blautia wexlerae DSM 19850</GBSeq_organism>
+./AY305320.xml:  <GBSeq_organism>butyrate-producing bacterium SSC/2</GBSeq_organism>
+./AJ270487.xml:  <GBSeq_organism>Anaerostipes caccae</GBSeq_organism>
+./X89970.xml:  <GBSeq_organism>Butyrivibrio fibrisolvens</GBSeq_organism>
+./AY305319.xml:  <GBSeq_organism>butyrate-producing bacterium SS2/1</GBSeq_organism>
+./X85101.xml:  <GBSeq_organism>[Ruminococcus] obeum</GBSeq_organism>
+./FJ947528.xml:  <GBSeq_organism>Anaerostipes butyraticus</GBSeq_organism>
+./X94967.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>
+./L34627.xml:  <GBSeq_organism>Eubacterium rectale</GBSeq_organism>
+./X73443.xml:  <GBSeq_organism>Tyzzerella nexilis DSM 1787</GBSeq_organism>
+./AY833660.xml:  <GBSeq_organism>Anaerostipes sp. AIP 183.04</GBSeq_organism>
+./M59089.xml:  <GBSeq_organism>[Clostridium] clostridioforme</GBSeq_organism>
+./AY960568.xml:  <GBSeq_organism>Anaerostipes sp. IE4</GBSeq_organism>
+./X94964.xml:  <GBSeq_organism>Blautia schinkii</GBSeq_organism>
+./AB243986.xml:  <GBSeq_organism>Anaerostipes caccae</GBSeq_organism>
+./D14148.xml:  <GBSeq_organism>Coprococcus eutactus</GBSeq_organism>
+./L34418.xml:  <GBSeq_organism>[Clostridium] herbivorans</GBSeq_organism>
+./L76597.xml:  <GBSeq_organism>Ruminococcus gnavus ATCC 29149</GBSeq_organism>

@@ -1,0 +1,13 @@
+./EF532793.xml:  <GBSeq_organism>Hydrogenophaga bisanensis</GBSeq_organism>
+./AF078770.xml:  <GBSeq_organism>Hydrogenophaga pseudoflava</GBSeq_organism>
+./AF285414.xml:  <GBSeq_organism>Xenophilus azovorans</GBSeq_organism>
+./AF078771.xml:  <GBSeq_organism>Hydrogenophaga flava</GBSeq_organism>
+./AF078772.xml:  <GBSeq_organism>Comamonas terrigena</GBSeq_organism>
+./AJ585993.xml:  <GBSeq_organism>Hydrogenophaga defluvii</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./D14320.xml:  <GBSeq_organism>Brachymonas denitrificans</GBSeq_organism>
+./AJ585992.xml:  <GBSeq_organism>Hydrogenophaga atypica</GBSeq_organism>
+./AF078758.xml:  <GBSeq_organism>Xylophilus ampelinus</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AF078768.xml:  <GBSeq_organism>Hydrogenophaga taeniospiralis CCUG 15921</GBSeq_organism>

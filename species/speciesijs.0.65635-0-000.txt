@@ -1,0 +1,14 @@
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./X77676.xml:  <GBSeq_organism>Clostridium algidicarnis</GBSeq_organism>
+./EU037903.xml:  <GBSeq_organism>Clostridium amylolyticum</GBSeq_organism>
+./X76740.xml:  <GBSeq_organism>Clostridium intestinale</GBSeq_organism>
+./M59091.xml:  <GBSeq_organism>Clostridium carnis</GBSeq_organism>
+./M59094.xml:  <GBSeq_organism>Clostridium histolyticum</GBSeq_organism>
+./AF069742.xml:  <GBSeq_organism>Clostridium frigidicarnis</GBSeq_organism>
+./X68183.xml:  <GBSeq_organism>Clostridium aurantibutyricum</GBSeq_organism>
+./M59088.xml:  <GBSeq_organism>Clostridium fallax</GBSeq_organism>
+./U51843.xml:  <GBSeq_organism>Clostridium chauvoei</GBSeq_organism>
+./X76649.xml:  <GBSeq_organism>Sarcina ventriculi</GBSeq_organism>
+./M59086.xml:  <GBSeq_organism>Clostridium cadaveris</GBSeq_organism>
+./M59103.xml:  <GBSeq_organism>Clostridium perfringens</GBSeq_organism>
+./U59278.xml:  <GBSeq_organism>Clostridium septicum</GBSeq_organism>

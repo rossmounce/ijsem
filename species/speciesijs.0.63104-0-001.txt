@@ -1,0 +1,12 @@
+./AF327301.xml:  <GBSeq_organism>sulfate-reducing bacterium AK-01</GBSeq_organism>
+./AF418197.xml:  <GBSeq_organism>Desulfonatronovibrio hydrogenovorans</GBSeq_organism>
+./AY504426.xml:  <GBSeq_organism>Desulfatibacillum alkenivorans</GBSeq_organism>
+./AF334593.xml:  <GBSeq_organism>Desulfofaba gelida</GBSeq_organism>
+./AJ250472.xml:  <GBSeq_organism>Desulfobacter vibrioformis</GBSeq_organism>
+./U58126.xml:  <GBSeq_organism>Desulfococcus multivorans</GBSeq_organism>
+./AB061530.xml:  <GBSeq_organism>Desulfomicrobium baculatum DSM 4028</GBSeq_organism>
+./AF191907.xml:  <GBSeq_organism>Desulfosarcina variabilis str. Montpellier</GBSeq_organism>
+./AF334594.xml:  <GBSeq_organism>Desulforhopalus vacuolatus</GBSeq_organism>
+./AF271772.xml:  <GBSeq_organism>Desulfovibrio africanus</GBSeq_organism>
+./AF334598.xml:  <GBSeq_organism>Thermodesulfobacterium thermophilum</GBSeq_organism>
+./M95624.xml:  <GBSeq_organism>Archaeoglobus fulgidus</GBSeq_organism>

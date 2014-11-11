@@ -1,0 +1,18 @@
+./X93593.xml:  <GBSeq_organism>Brevibacterium otitidis</GBSeq_organism>
+./AY228463.xml:  <GBSeq_organism>Brevibacterium celere</GBSeq_organism>
+./AM421807.xml:  <GBSeq_organism>Brevibacterium marinum</GBSeq_organism>
+./X82057.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./AM158906.xml:  <GBSeq_organism>Brevibacterium oceani</GBSeq_organism>
+./EF158852.xml:  <GBSeq_organism>Brevibacterium album DSM 18261</GBSeq_organism>
+./X77451.xml:  <GBSeq_organism>Brevibacterium linens</GBSeq_organism>
+./X93594.xml:  <GBSeq_organism>Brevibacterium mcbrellneri ATCC 49030</GBSeq_organism>
+./EU868814.xml:  <GBSeq_organism>Brevibacterium massiliense 5401308</GBSeq_organism>
+./AJ251418.xml:  <GBSeq_organism>Brevibacterium casei</GBSeq_organism>
+./X76566.xml:  <GBSeq_organism>Brevibacterium aurantiacum</GBSeq_organism>
+./AJ564859.xml:  <GBSeq_organism>Brevibacterium sanguinis</GBSeq_organism>
+./X83813.xml:  <GBSeq_organism>Brevibacterium iodinum</GBSeq_organism>
+./X76565.xml:  <GBSeq_organism>Brevibacterium epidermidis</GBSeq_organism>
+./AJ488509.xml:  <GBSeq_organism>Brevibacterium luteolum</GBSeq_organism>
+./AY243344.xml:  <GBSeq_organism>Brevibacterium antiquum</GBSeq_organism>
+./AY243343.xml:  <GBSeq_organism>Brevibacterium permense</GBSeq_organism>
+./AJ620364.xml:  <GBSeq_organism>Brevibacterium picturae</GBSeq_organism>

@@ -1,0 +1,3 @@
+./EF536816.xml:  <GBSeq_organism>Bacteriovorax sp. T9</GBSeq_organism>
+./EF536813.xml:  <GBSeq_organism>Bacteriovorax sp. ISRE</GBSeq_organism>
+./EF536786.xml:  <GBSeq_organism>Bacteriovorax sp. OC3</GBSeq_organism>

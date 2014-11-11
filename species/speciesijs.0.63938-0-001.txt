@@ -1,0 +1,9 @@
+./AY150048.xml:  <GBSeq_organism>Roseomonas genomospecies 4</GBSeq_organism>
+./AY150046.xml:  <GBSeq_organism>Azospirillum brasilense</GBSeq_organism>
+./AJ635304.xml:  <GBSeq_organism>Methylobacterium hispanicum</GBSeq_organism>
+./AY150049.xml:  <GBSeq_organism>Roseomonas genomospecies 5</GBSeq_organism>
+./AY220740.xml:  <GBSeq_organism>Roseomonas gilardii subsp. rosea</GBSeq_organism>
+./AY150047.xml:  <GBSeq_organism>Roseomonas cervicalis</GBSeq_organism>
+./AJ786000.xml:  <GBSeq_organism>Roseomonas lacus</GBSeq_organism>
+./AF538712.xml:  <GBSeq_organism>Roseomonas mucosa</GBSeq_organism>
+./AY150045.xml:  <GBSeq_organism>Roseomonas gilardii</GBSeq_organism>

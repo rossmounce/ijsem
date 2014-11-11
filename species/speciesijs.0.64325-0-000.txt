@@ -1,0 +1,13 @@
+./AJ302311.xml:  <GBSeq_organism>Burkholderia tuberum STM678</GBSeq_organism>
+./AY752956.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY752958.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY773196.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY752954.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY533860.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY752955.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY752957.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY752953.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AY533859.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AJ420332.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AY221956.xml:  <GBSeq_organism>Burkholderia unamae MTI-641</GBSeq_organism>
+./AF263278.xml:  <GBSeq_organism>Burkholderia sacchari</GBSeq_organism>

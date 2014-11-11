@@ -1,0 +1,31 @@
+./AF114783.xml:  <GBSeq_organism>Alkalispirillum mobile</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./DQ469577.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./M26629.xml:  <GBSeq_organism>Allochromatium vinosum</GBSeq_organism>
+./DQ469584.xml:  <GBSeq_organism>Thiohalophilus thiocyanatoxydans</GBSeq_organism>
+./AJ278688.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./EU368842.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./EU368850.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./EU169227.xml:  <GBSeq_organism>Thiohalospira alkaliphila</GBSeq_organism>
+./EF117909.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./AM404263.xml:  <GBSeq_organism>Aquisalimonas asiatica</GBSeq_organism>
+./AF126545.xml:  <GBSeq_organism>Thioalkalivibrio denitrificans</GBSeq_organism>
+./EU368847.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./U58020.xml:  <GBSeq_organism>Halothiobacillus halophilus</GBSeq_organism>
+./DQ836238.xml:  <GBSeq_organism>Thiohalomonas nitratireducens</GBSeq_organism>
+./EU368849.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./AF465604.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./DQ469578.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./EU368846.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./DQ469576.xml:  <GBSeq_organism>Thiohalospira halophila DSM 15071</GBSeq_organism>
+./EU368848.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./EU368843.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./EU368845.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./EU368844.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./X93479.xml:  <GBSeq_organism>Ectothiorhodospira haloalkaliphila ATCC 51935</GBSeq_organism>
+./AF126546.xml:  <GBSeq_organism>Thioalkalivibrio versutus AL 2</GBSeq_organism>
+./DQ469579.xml:  <GBSeq_organism>Thiohalospira halophila</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./AF481118.xml:  <GBSeq_organism>Thioalkalispira microaerophila</GBSeq_organism>

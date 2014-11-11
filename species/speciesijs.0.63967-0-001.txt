@@ -1,0 +1,22 @@
+./AJ294378.xml:  <GBSeq_organism>Neorhizobium galegae</GBSeq_organism>
+./AJ505598.xml:  <GBSeq_organism>Ensifer adhaerens</GBSeq_organism>
+./AJ294383.xml:  <GBSeq_organism>Sinorhizobium terangae</GBSeq_organism>
+./L39882.xml:  <GBSeq_organism>Sinorhizobium sp.</GBSeq_organism>
+./AJ294385.xml:  <GBSeq_organism>Mycoplana dimorpha</GBSeq_organism>
+./AY494813.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./AY494816.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AJ294363.xml:  <GBSeq_organism>Azorhizobium caulinodans</GBSeq_organism>
+./AY688605.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./AJ294377.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AY653748.xml:  <GBSeq_organism>Bradyrhizobium canariense</GBSeq_organism>
+./AJ294371.xml:  <GBSeq_organism>Mesorhizobium loti USDA 3471</GBSeq_organism>
+./AJ294370.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./AJ294367.xml:  <GBSeq_organism>Mesorhizobium ciceri</GBSeq_organism>
+./AJ294374.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./AY494814.xml:  <GBSeq_organism>Mesorhizobium sp. ICMP 11722</GBSeq_organism>
+./AJ294380.xml:  <GBSeq_organism>Sinorhizobium saheli</GBSeq_organism>
+./AM040610.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./AJ294368.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AY494825.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AJ294375.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./AJ294369.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>

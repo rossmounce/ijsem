@@ -1,0 +1,28 @@
+./AM418787.xml:  <GBSeq_organism>Agrobacterium rubi</GBSeq_organism>
+./EF490023.xml:  <GBSeq_organism>Rhizobium multihospitium</GBSeq_organism>
+./AM418780.xml:  <GBSeq_organism>Rhizobium giardinii</GBSeq_organism>
+./AY907372.xml:  <GBSeq_organism>Rhizobium mongolense USDA 1844</GBSeq_organism>
+./AM418782.xml:  <GBSeq_organism>Neorhizobium huautlense</GBSeq_organism>
+./AM286426.xml:  <GBSeq_organism>Rhizobium cellulosilyticum</GBSeq_organism>
+./AM418789.xml:  <GBSeq_organism>Rhizobium tropici</GBSeq_organism>
+./EF113149.xml:  <GBSeq_organism>Rhizobium pisi</GBSeq_organism>
+./GU128889.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./EU672461.xml:  <GBSeq_organism>Neorhizobium alkalisoli</GBSeq_organism>
+./GU128888.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./AM418784.xml:  <GBSeq_organism>Rhizobium undicola</GBSeq_organism>
+./EF579929.xml:  <GBSeq_organism>Rhizobium fabae</GBSeq_organism>
+./GU128893.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./AJ294404.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./GU128890.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./GU128892.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./GU128894.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./AY907373.xml:  <GBSeq_organism>Rhizobium yanglingense</GBSeq_organism>
+./DQ431671.xml:  <GBSeq_organism>Rhizobium lusitanum</GBSeq_organism>
+./AJ294405.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./EU288668.xml:  <GBSeq_organism>Rhizobium etli</GBSeq_organism>
+./GU128891.xml:  <GBSeq_organism>Rhizobium vignae</GBSeq_organism>
+./AM418788.xml:  <GBSeq_organism>Agrobacterium vitis</GBSeq_organism>
+./AM418786.xml:  <GBSeq_organism>Agrobacterium rhizogenes</GBSeq_organism>
+./AJ294396.xml:  <GBSeq_organism>Rhizobium leucaenae USDA 9039</GBSeq_organism>
+./AM418785.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./AY907371.xml:  <GBSeq_organism>Rhizobium gallicum bv. gallicum</GBSeq_organism>

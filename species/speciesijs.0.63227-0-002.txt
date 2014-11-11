@@ -1,0 +1,19 @@
+./AJ551330.xml:  <GBSeq_organism>Anoxybacillus contaminans</GBSeq_organism>
+./Z26930.xml:  <GBSeq_organism>Aeribacillus pallidus</GBSeq_organism>
+./X60618.xml:  <GBSeq_organism>Geobacillus kaustophilus</GBSeq_organism>
+./AF276306.xml:  <GBSeq_organism>Geobacillus subterraneus</GBSeq_organism>
+./Z26926.xml:  <GBSeq_organism>Geobacillus thermocatenulatus</GBSeq_organism>
+./AF326278.xml:  <GBSeq_organism>Geobacillus toebii</GBSeq_organism>
+./AY563003.xml:  <GBSeq_organism>Anoxybacillus tepidamans</GBSeq_organism>
+./Z26923.xml:  <GBSeq_organism>Geobacillus thermoleovorans</GBSeq_organism>
+./AJ294817.xml:  <GBSeq_organism>Geobacillus stearothermophilus</GBSeq_organism>
+./Z26932.xml:  <GBSeq_organism>Anoxybacillus flavithermus subsp. flavithermus</GBSeq_organism>
+./X60612.xml:  <GBSeq_organism>Brevibacillus brevis</GBSeq_organism>
+./X90640.xml:  <GBSeq_organism>Ureibacillus thermosphaericus</GBSeq_organism>
+./X60641.xml:  <GBSeq_organism>Geobacillus thermoglucosidasius</GBSeq_organism>
+./AF391974.xml:  <GBSeq_organism>thermal soil bacterium YNP 10</GBSeq_organism>
+./AY122325.xml:  <GBSeq_organism>Anoxybacillus gonensis</GBSeq_organism>
+./AJ496807.xml:  <GBSeq_organism>Amphibacillus xylanus NBRC 15112</GBSeq_organism>
+./AF276304.xml:  <GBSeq_organism>Geobacillus uzenensis</GBSeq_organism>
+./X70430.xml:  <GBSeq_organism>Saccharococcus thermophilus</GBSeq_organism>
+./Z26928.xml:  <GBSeq_organism>Geobacillus thermodenitrificans subsp. thermodenitrificans DSM 465</GBSeq_organism>

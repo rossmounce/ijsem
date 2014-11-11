@@ -1,0 +1,13 @@
+./AF418179.xml:  <GBSeq_organism>Desulfovibrio vulgaris</GBSeq_organism>
+./X99236.xml:  <GBSeq_organism>Desulfovibrio africanus subsp. africanus DSM 2603</GBSeq_organism>
+./Y17764.xml:  <GBSeq_organism>Desulfovibrio sulfodismutans</GBSeq_organism>
+./AF050100.xml:  <GBSeq_organism>Desulfovibrio senezii</GBSeq_organism>
+./DQ365925.xml:  <GBSeq_organism>Desulfovibrio marinus</GBSeq_organism>
+./AY359867.xml:  <GBSeq_organism>Desulfovibrio longus</GBSeq_organism>
+./U53464.xml:  <GBSeq_organism>Desulfovibrio gracilis</GBSeq_organism>
+./AF053752.xml:  <GBSeq_organism>Desulfovibrio burkinensis</GBSeq_organism>
+./U31080.xml:  <GBSeq_organism>Desulfovibrio gabonensis</GBSeq_organism>
+./X93994.xml:  <GBSeq_organism>Desulfovibrio vietnamensis</GBSeq_organism>
+./DQ365924.xml:  <GBSeq_organism>Desulfovibrio marinus</GBSeq_organism>
+./AF418170.xml:  <GBSeq_organism>Desulfovibrio giganteus</GBSeq_organism>
+./Y09504.xml:  <GBSeq_organism>Desulfovibrio indonesiensis</GBSeq_organism>

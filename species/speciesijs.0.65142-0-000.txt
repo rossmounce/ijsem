@@ -1,0 +1,35 @@
+./U96936.xml:  <GBSeq_organism>Burkholderia phenazinium</GBSeq_organism>
+./AY040365.xml:  <GBSeq_organism>Burkholderia hospita</GBSeq_organism>
+./AY949200.xml:  <GBSeq_organism>Burkholderia sp. LMG 22946</GBSeq_organism>
+./AJ302311.xml:  <GBSeq_organism>Burkholderia tuberum STM678</GBSeq_organism>
+./U86373.xml:  <GBSeq_organism>Burkholderia xenovorans LB400</GBSeq_organism>
+./X67037.xml:  <GBSeq_organism>Burkholderia andropogonis</GBSeq_organism>
+./DQ514537.xml:  <GBSeq_organism>Burkholderia ferrariae</GBSeq_organism>
+./AM489502.xml:  <GBSeq_organism>Burkholderia megapolitana</GBSeq_organism>
+./X67039.xml:  <GBSeq_organism>Burkholderia caryophylli</GBSeq_organism>
+./AY497470.xml:  <GBSeq_organism>Burkholderia phytofirmans PsJN</GBSeq_organism>
+./AY752958.xml:  <GBSeq_organism>Burkholderia mimosarum</GBSeq_organism>
+./AJ302312.xml:  <GBSeq_organism>Burkholderia phymatum STM815</GBSeq_organism>
+./DQ465451.xml:  <GBSeq_organism>Burkholderia soli</GBSeq_organism>
+./AF215704.xml:  <GBSeq_organism>Burkholderia caledonica</GBSeq_organism>
+./Y17009.xml:  <GBSeq_organism>Burkholderia caribensis</GBSeq_organism>
+./Y17052.xml:  <GBSeq_organism>Burkholderia glathei</GBSeq_organism>
+./AM489499.xml:  <GBSeq_organism>Burkholderia bryophila</GBSeq_organism>
+./AB201285.xml:  <GBSeq_organism>Burkholderia terrae</GBSeq_organism>
+./AJ300692.xml:  <GBSeq_organism>Burkholderia sp. RW36</GBSeq_organism>
+./AF512826.xml:  <GBSeq_organism>Burkholderia sordidicola</GBSeq_organism>
+./AM489501.xml:  <GBSeq_organism>Burkholderia bryophila</GBSeq_organism>
+./AF215705.xml:  <GBSeq_organism>Burkholderia fungorum</GBSeq_organism>
+./AJ971350.xml:  <GBSeq_organism>Burkholderia sp. Y</GBSeq_organism>
+./AY268172.xml:  <GBSeq_organism>Pandoraea apista</GBSeq_organism>
+./AM489500.xml:  <GBSeq_organism>Burkholderia bryophila</GBSeq_organism>
+./DQ108388.xml:  <GBSeq_organism>Burkholderia oklahomensis C6786</GBSeq_organism>
+./M22518.xml:  <GBSeq_organism>Burkholderia cepacia</GBSeq_organism>
+./AY965240.xml:  <GBSeq_organism>Burkholderia silvatlantica SRMrh-20</GBSeq_organism>
+./U96939.xml:  <GBSeq_organism>Burkholderia graminis C4D1M</GBSeq_organism>
+./AJ420332.xml:  <GBSeq_organism>Burkholderia tropica</GBSeq_organism>
+./AY435213.xml:  <GBSeq_organism>Burkholderia phenoliruptrix</GBSeq_organism>
+./AJ300688.xml:  <GBSeq_organism>Burkholderia sp. S512</GBSeq_organism>
+./AY221956.xml:  <GBSeq_organism>Burkholderia unamae MTI-641</GBSeq_organism>
+./AJ300693.xml:  <GBSeq_organism>Burkholderia sp. WR19X</GBSeq_organism>
+./AF263278.xml:  <GBSeq_organism>Burkholderia sacchari</GBSeq_organism>

@@ -1,0 +1,27 @@
+./AY457069.xml:  <GBSeq_organism>Mycobacterium peregrinum</GBSeq_organism>
+./AY457067.xml:  <GBSeq_organism>Mycobacterium houstonense</GBSeq_organism>
+./AJ746070.xml:  <GBSeq_organism>Mycobacterium llatzerense</GBSeq_organism>
+./AF023664.xml:  <GBSeq_organism>Mycobacterium alvei</GBSeq_organism>
+./AY457076.xml:  <GBSeq_organism>Mycobacterium mageritense</GBSeq_organism>
+./AY457080.xml:  <GBSeq_organism>Mycobacterium immunogenum</GBSeq_organism>
+./AY859682.xml:  <GBSeq_organism>Mycobacterium phocaicum</GBSeq_organism>
+./AY457077.xml:  <GBSeq_organism>Mycobacterium porcinum</GBSeq_organism>
+./AJ746072.xml:  <GBSeq_organism>Mycobacterium llatzerense</GBSeq_organism>
+./AY457079.xml:  <GBSeq_organism>Mycobacterium goodii</GBSeq_organism>
+./AY859683.xml:  <GBSeq_organism>Mycobacterium aubagnense</GBSeq_organism>
+./AY457070.xml:  <GBSeq_organism>Mycobacterium septicum</GBSeq_organism>
+./AY457072.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./AJ746075.xml:  <GBSeq_organism>Mycobacterium llatzerense</GBSeq_organism>
+./AY457084.xml:  <GBSeq_organism>Mycobacterium farcinogenes</GBSeq_organism>
+./AJ746069.xml:  <GBSeq_organism>Mycobacterium llatzerense</GBSeq_organism>
+./AM902750.xml:  <GBSeq_organism>Mycobacterium mucogenicum</GBSeq_organism>
+./AJ746071.xml:  <GBSeq_organism>Mycobacterium llatzerense</GBSeq_organism>
+./AY859681.xml:  <GBSeq_organism>Mycobacterium abscessus subsp. bolletii</GBSeq_organism>
+./AY593980.xml:  <GBSeq_organism>Mycobacterium abscessus subsp. bolletii</GBSeq_organism>
+./AY457078.xml:  <GBSeq_organism>Mycobacterium smegmatis</GBSeq_organism>
+./AY457081.xml:  <GBSeq_organism>Mycobacterium senegalense</GBSeq_organism>
+./AY457068.xml:  <GBSeq_organism>Mycobacterium neworleansense</GBSeq_organism>
+./AY859684.xml:  <GBSeq_organism>Mycobacterium conceptionense</GBSeq_organism>
+./AY457066.xml:  <GBSeq_organism>Mycobacterium fortuitum subsp. fortuitum DSM 46621</GBSeq_organism>
+./AY457071.xml:  <GBSeq_organism>Mycobacterium abscessus</GBSeq_organism>
+./AY457083.xml:  <GBSeq_organism>Mycobacterium wolinskyi</GBSeq_organism>

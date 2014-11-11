@@ -1,0 +1,23 @@
+./X53186.xml:  <GBSeq_organism>Mobiluncus curtisii subsp. curtisii ATCC 35241</GBSeq_organism>
+./AJ439453.xml:  <GBSeq_organism>Actinobaculum urinale</GBSeq_organism>
+./Y12329.xml:  <GBSeq_organism>Actinobaculum schaalii</GBSeq_organism>
+./AJ243891.xml:  <GBSeq_organism>Actinomyces canis</GBSeq_organism>
+./Y08828.xml:  <GBSeq_organism>Actinomyces europaeus</GBSeq_organism>
+./X81061.xml:  <GBSeq_organism>Actinomyces bovis</GBSeq_organism>
+./AJ404889.xml:  <GBSeq_organism>Actinomyces funkei</GBSeq_organism>
+./X78720.xml:  <GBSeq_organism>Actinomyces turicensis</GBSeq_organism>
+./X97049.xml:  <GBSeq_organism>Arcanobacterium phocae</GBSeq_organism>
+./AJ234040.xml:  <GBSeq_organism>Actinomyces odontolyticus</GBSeq_organism>
+./X69616.xml:  <GBSeq_organism>Actinomyces hyovaginalis</GBSeq_organism>
+./X71861.xml:  <GBSeq_organism>Actinomyces neuii subsp. neuii</GBSeq_organism>
+./X78719.xml:  <GBSeq_organism>Actinomyces radingae</GBSeq_organism>
+./AJ234059.xml:  <GBSeq_organism>Arcanobacterium haemolyticum DSM 20595</GBSeq_organism>
+./X80414.xml:  <GBSeq_organism>Actinomyces gerencseriae</GBSeq_organism>
+./AJ276405.xml:  <GBSeq_organism>Actinomyces marimammalium</GBSeq_organism>
+./X79225.xml:  <GBSeq_organism>Trueperella pyogenes</GBSeq_organism>
+./X80411.xml:  <GBSeq_organism>Actinomyces howellii</GBSeq_organism>
+./X71862.xml:  <GBSeq_organism>Actinomyces neuii subsp. anitratus</GBSeq_organism>
+./X80412.xml:  <GBSeq_organism>Actinomyces denticolens</GBSeq_organism>
+./X82450.xml:  <GBSeq_organism>Actinomyces israelii</GBSeq_organism>
+./X79224.xml:  <GBSeq_organism>Trueperella bernardiae</GBSeq_organism>
+./X80413.xml:  <GBSeq_organism>Actinomyces georgiae</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AB326352.xml:  <GBSeq_organism>Lactobacillus mali KCTC 3596 = DSM 20444</GBSeq_organism>
+./AB033209.xml:  <GBSeq_organism>Lactobacillus algidus</GBSeq_organism>
+./AB365976.xml:  <GBSeq_organism>Lactobacillus capillatus</GBSeq_organism>
+./AB162131.xml:  <GBSeq_organism>Lactobacillus nagelii</GBSeq_organism>
+./AB326350.xml:  <GBSeq_organism>Lactobacillus animalis KCTC 3501 = DSM 20602</GBSeq_organism>
+./AB154519.xml:  <GBSeq_organism>Lactobacillus satsumensis</GBSeq_organism>
+./AB365978.xml:  <GBSeq_organism>Lactobacillus capillatus</GBSeq_organism>
+./AB365977.xml:  <GBSeq_organism>Lactobacillus capillatus</GBSeq_organism>
+./M58803.xml:  <GBSeq_organism>Lactobacillus agilis</GBSeq_organism>
+./AJ576009.xml:  <GBSeq_organism>Lactobacillus vini DSM 20605</GBSeq_organism>
+./AB326356.xml:  <GBSeq_organism>Lactobacillus acidipiscis</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AJ007013.xml:  <GBSeq_organism>Acidovorax anthurii</GBSeq_organism>
+./Y18616.xml:  <GBSeq_organism>Acidovorax defluvii</GBSeq_organism>
+./AJ431731.xml:  <GBSeq_organism>Acidovorax valerianellae</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./AM084006.xml:  <GBSeq_organism>Acidovorax caeni</GBSeq_organism>
+./AM084007.xml:  <GBSeq_organism>Acidovorax caeni</GBSeq_organism>
+./AF078760.xml:  <GBSeq_organism>Acidovorax konjaci</GBSeq_organism>
+./AF078762.xml:  <GBSeq_organism>Acidovorax cattleyae</GBSeq_organism>
+./AM084008.xml:  <GBSeq_organism>Acidovorax caeni</GBSeq_organism>
+./AF078766.xml:  <GBSeq_organism>Acidovorax temperans</GBSeq_organism>
+./AM084011.xml:  <GBSeq_organism>Acidovorax caeni</GBSeq_organism>

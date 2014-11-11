@@ -1,0 +1,7 @@
+./AF273080.xml:  <GBSeq_organism>Stenotrophomonas acidaminiphila</GBSeq_organism>
+./AJ311653.xml:  <GBSeq_organism>Fulvimonas soli</GBSeq_organism>
+./AJ012229.xml:  <GBSeq_organism>Stenotrophomonas nitritireducens</GBSeq_organism>
+./AJ293463.xml:  <GBSeq_organism>Stenotrophomonas rhizophila</GBSeq_organism>
+./AB166885.xml:  <GBSeq_organism>Stenotrophomonas koreensis</GBSeq_organism>
+./U62646.xml:  <GBSeq_organism>Stenotrophomonas maltophilia MGB</GBSeq_organism>
+./X95923.xml:  <GBSeq_organism>Stenotrophomonas maltophilia</GBSeq_organism>

@@ -1,0 +1,11 @@
+./AJ938026.xml:  <GBSeq_organism>Limnohabitans curvus</GBSeq_organism>
+./D16212.xml:  <GBSeq_organism>Rhodoferax fermentans</GBSeq_organism>
+./D30793.xml:  <GBSeq_organism>Variovorax paradoxus</GBSeq_organism>
+./U14585.xml:  <GBSeq_organism>Polaromonas vacuolata</GBSeq_organism>
+./AJ606333.xml:  <GBSeq_organism>Pseudorhodoferax caeni</GBSeq_organism>
+./EU825700.xml:  <GBSeq_organism>Pseudorhodoferax soli</GBSeq_organism>
+./FM165535.xml:  <GBSeq_organism>Limnohabitans planktonicus II-D5</GBSeq_organism>
+./AB109889.xml:  <GBSeq_organism>Curvibacter gracilis</GBSeq_organism>
+./AF435948.xml:  <GBSeq_organism>Rhodoferax ferrireducens T118</GBSeq_organism>
+./FM165536.xml:  <GBSeq_organism>Limnohabitans parvus II-B4</GBSeq_organism>
+./AF084927.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>

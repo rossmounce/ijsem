@@ -1,0 +1,12 @@
+./L09163.xml:  <GBSeq_organism>Thermoanaerobacter acetoethylicus</GBSeq_organism>
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./L09167.xml:  <GBSeq_organism>Thermoanaerobacter thermocopriae JCM 7501</GBSeq_organism>
+./Y11279.xml:  <GBSeq_organism>Thermoanaerobacter mathranii subsp. mathranii str. A3</GBSeq_organism>
+./Y16940.xml:  <GBSeq_organism>Thermoanaerobacter sulfurophilus</GBSeq_organism>
+./L09160.xml:  <GBSeq_organism>Thermoanaerobacter kivui</GBSeq_organism>
+./L09165.xml:  <GBSeq_organism>Thermoanaerobacter brockii</GBSeq_organism>
+./AY656675.xml:  <GBSeq_organism>Moorella thermoacetica</GBSeq_organism>
+./AF195797.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./AJ250846.xml:  <GBSeq_organism>Thermoanaerobacter italicus Ab9</GBSeq_organism>
+./AF234164.xml:  <GBSeq_organism>Thermoanaerobacter sulfurigignens</GBSeq_organism>
+./L09162.xml:  <GBSeq_organism>Thermoanaerobacter ethanolicus</GBSeq_organism>

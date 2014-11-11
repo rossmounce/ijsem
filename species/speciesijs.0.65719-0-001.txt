@@ -1,0 +1,14 @@
+./AJ514916.xml:  <GBSeq_organism>Vibrio fortis</GBSeq_organism>
+./DQ451210.xml:  <GBSeq_organism>Vibrio sinaloensis</GBSeq_organism>
+./EU043381.xml:  <GBSeq_organism>Vibrio sinaloensis DSM 21326</GBSeq_organism>
+./DQ451211.xml:  <GBSeq_organism>Vibrio sinaloensis</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./AJ316181.xml:  <GBSeq_organism>Vibrio xuii</GBSeq_organism>
+./AJ345063.xml:  <GBSeq_organism>Vibrio hepatarius</GBSeq_organism>
+./AJ316172.xml:  <GBSeq_organism>Vibrio brasiliensis LMG 20546</GBSeq_organism>
+./X74725.xml:  <GBSeq_organism>Vibrio tubiashii ATCC 19109</GBSeq_organism>
+./EU043379.xml:  <GBSeq_organism>Vibrio sinaloensis</GBSeq_organism>
+./X74695.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./EU043382.xml:  <GBSeq_organism>Vibrio sinaloensis</GBSeq_organism>
+./X74722.xml:  <GBSeq_organism>Vibrio pelagius</GBSeq_organism>
+./EU043380.xml:  <GBSeq_organism>Vibrio sinaloensis</GBSeq_organism>

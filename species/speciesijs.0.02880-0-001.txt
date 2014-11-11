@@ -1,0 +1,20 @@
+./AB159558.xml:  <GBSeq_organism>Pelotomaculum sp. FP</GBSeq_organism>
+./AF022248.xml:  <GBSeq_organism>Syntrophomonas wolfei</GBSeq_organism>
+./AB035723.xml:  <GBSeq_organism>Pelotomaculum thermopropionicum SI</GBSeq_organism>
+./X99980.xml:  <GBSeq_organism>Thermosyntropha lipolytica</GBSeq_organism>
+./M26491.xml:  <GBSeq_organism>Syntrophomonas bryantii</GBSeq_organism>
+./AF202264.xml:  <GBSeq_organism>Syntrophococcus sucromutans</GBSeq_organism>
+./X91170.xml:  <GBSeq_organism>Pelotomaculum schinkii</GBSeq_organism>
+./X85131.xml:  <GBSeq_organism>Syntrophus buswellii</GBSeq_organism>
+./AB159557.xml:  <GBSeq_organism>Pelotomaculum sp. FP</GBSeq_organism>
+./AY327251.xml:  <GBSeq_organism>Cryptanaerobacter phenolicus</GBSeq_organism>
+./X82875.xml:  <GBSeq_organism>Syntrophobacter pfennigii</GBSeq_organism>
+./X99706.xml:  <GBSeq_organism>Syntrophobotulus glycolicus</GBSeq_organism>
+./X70905.xml:  <GBSeq_organism>Syntrophobacter wolinii</GBSeq_organism>
+./AF022249.xml:  <GBSeq_organism>Syntrophomonas sapovorans</GBSeq_organism>
+./AB021306.xml:  <GBSeq_organism>Syntrophomonas sp. MGB-C1</GBSeq_organism>
+./X82874.xml:  <GBSeq_organism>Syntrophobacter fumaroxidans MPOB</GBSeq_organism>
+./Y11574.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./X91169.xml:  <GBSeq_organism>Pelotomaculum schinkii</GBSeq_organism>
+./Y11575.xml:  <GBSeq_organism>Desulfotomaculum thermosapovorans</GBSeq_organism>
+./X85132.xml:  <GBSeq_organism>Syntrophus gentianae</GBSeq_organism>

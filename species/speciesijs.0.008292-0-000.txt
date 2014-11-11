@@ -1,0 +1,28 @@
+./AJ508302.xml:  <GBSeq_organism>Enterobacter hormaechei ATCC 49162</GBSeq_organism>
+./EF059845.xml:  <GBSeq_organism>Cronobacter muytjensii ATCC 51329</GBSeq_organism>
+./AB004744.xml:  <GBSeq_organism>Enterobacter asburiae</GBSeq_organism>
+./AF025369.xml:  <GBSeq_organism>Citrobacter murliniae</GBSeq_organism>
+./AJ233436.xml:  <GBSeq_organism>Serratia rubidaea</GBSeq_organism>
+./AY563134.xml:  <GBSeq_organism>Kosakonia radicincitans</GBSeq_organism>
+./AF025368.xml:  <GBSeq_organism>Citrobacter braakii</GBSeq_organism>
+./Y18251.xml:  <GBSeq_organism>Medicago truncatula</GBSeq_organism>
+./AJ233423.xml:  <GBSeq_organism>Pantoea agglomerans</GBSeq_organism>
+./AF025373.xml:  <GBSeq_organism>Citrobacter werkmanii</GBSeq_organism>
+./EF059838.xml:  <GBSeq_organism>Cronobacter dublinensis subsp. lactaridi LMG 23825</GBSeq_organism>
+./EF059892.xml:  <GBSeq_organism>Cronobacter dublinensis subsp. dublinensis LMG 23823</GBSeq_organism>
+./EF059881.xml:  <GBSeq_organism>Cronobacter malonaticus</GBSeq_organism>
+./AF025367.xml:  <GBSeq_organism>Citrobacter gillenii</GBSeq_organism>
+./EF059843.xml:  <GBSeq_organism>Cronobacter sakazakii</GBSeq_organism>
+./AB004754.xml:  <GBSeq_organism>Klebsiella oxytoca</GBSeq_organism>
+./AJ251467.xml:  <GBSeq_organism>Raoultella ornithinolytica</GBSeq_organism>
+./AF250285.xml:  <GBSeq_organism>Klebsiella singaporensis</GBSeq_organism>
+./EF059841.xml:  <GBSeq_organism>Cronobacter dublinensis subsp. lausannensis LMG 23824</GBSeq_organism>
+./AJ508301.xml:  <GBSeq_organism>Enterobacter kobei</GBSeq_organism>
+./AJ251469.xml:  <GBSeq_organism>Enterobacter cloacae</GBSeq_organism>
+./EF059877.xml:  <GBSeq_organism>Cronobacter universalis NCTC 9529</GBSeq_organism>
+./AF025371.xml:  <GBSeq_organism>Citrobacter farmeri</GBSeq_organism>
+./EF059891.xml:  <GBSeq_organism>Cronobacter turicensis z3032</GBSeq_organism>
+./X74688.xml:  <GBSeq_organism>Plesiomonas shigelloides</GBSeq_organism>
+./EF643377.xml:  <GBSeq_organism>Mangrovibacter plantisponsor</GBSeq_organism>
+./AJ251468.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./AJ233408.xml:  <GBSeq_organism>Citrobacter freundii ATCC 8090 = MTCC 1658</GBSeq_organism>

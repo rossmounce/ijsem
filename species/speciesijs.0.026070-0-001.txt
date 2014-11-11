@@ -1,0 +1,5 @@
+./EF565822.xml:  <GBSeq_organism>Fervidobacterium pennivorans</GBSeq_organism>
+./AE000512.xml:  <GBSeq_organism>Thermotoga maritima MSB8</GBSeq_organism>
+./M59176.xml:  <GBSeq_organism>Fervidobacterium islandicum</GBSeq_organism>
+./EU851047.xml:  <GBSeq_organism>Fervidobacterium riparium</GBSeq_organism>
+./AY878719.xml:  <GBSeq_organism>Fervidobacterium changbaicum</GBSeq_organism>

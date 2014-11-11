@@ -1,0 +1,30 @@
+./AJ843535.xml:  <GBSeq_organism>Enterococcus canintestini</GBSeq_organism>
+./AJ843504.xml:  <GBSeq_organism>Enterococcus asini</GBSeq_organism>
+./AJ843481.xml:  <GBSeq_organism>Enterococcus raffinosus</GBSeq_organism>
+./AJ843491.xml:  <GBSeq_organism>Enterococcus sulfureus ATCC 49903</GBSeq_organism>
+./AJ843493.xml:  <GBSeq_organism>Enterococcus dispar ATCC 51266</GBSeq_organism>
+./AJ843486.xml:  <GBSeq_organism>Enterococcus faecium</GBSeq_organism>
+./AJ843476.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./AJ843492.xml:  <GBSeq_organism>Enterococcus casseliflavus</GBSeq_organism>
+./AJ843500.xml:  <GBSeq_organism>Enterococcus moraviensis</GBSeq_organism>
+./AJ843518.xml:  <GBSeq_organism>Enterococcus avium ATCC 14025</GBSeq_organism>
+./AJ843509.xml:  <GBSeq_organism>Enterococcus canis</GBSeq_organism>
+./EF197993.xml:  <GBSeq_organism>Enterococcus camelliae</GBSeq_organism>
+./AJ843510.xml:  <GBSeq_organism>Enterococcus hermanniensis</GBSeq_organism>
+./AJ843569.xml:  <GBSeq_organism>Enterococcus phoeniculicola</GBSeq_organism>
+./AJ843511.xml:  <GBSeq_organism>Enterococcus pseudoavium</GBSeq_organism>
+./AJ843521.xml:  <GBSeq_organism>Enterococcus saccharolyticus ATCC 43076</GBSeq_organism>
+./AJ843571.xml:  <GBSeq_organism>Enterococcus mundtii</GBSeq_organism>
+./AJ843538.xml:  <GBSeq_organism>Enterococcus cecorum DSM 20682 = ATCC 43198</GBSeq_organism>
+./AJ843503.xml:  <GBSeq_organism>Enterococcus gilvus</GBSeq_organism>
+./AJ843490.xml:  <GBSeq_organism>Tetragenococcus solitarius</GBSeq_organism>
+./AJ843519.xml:  <GBSeq_organism>Enterococcus malodoratus</GBSeq_organism>
+./AJ843482.xml:  <GBSeq_organism>Enterococcus gallinarum</GBSeq_organism>
+./AJ843480.xml:  <GBSeq_organism>Enterococcus italicus DSM 15952</GBSeq_organism>
+./AJ843502.xml:  <GBSeq_organism>Enterococcus ratti</GBSeq_organism>
+./AJ843485.xml:  <GBSeq_organism>Enterococcus durans</GBSeq_organism>
+./AJ843540.xml:  <GBSeq_organism>Enterococcus columbae DSM 7374 = ATCC 51263</GBSeq_organism>
+./AJ843484.xml:  <GBSeq_organism>Enterococcus faecalis</GBSeq_organism>
+./AJ843483.xml:  <GBSeq_organism>Enterococcus hirae</GBSeq_organism>
+./AJ843487.xml:  <GBSeq_organism>Enterococcus villorum</GBSeq_organism>
+./AJ843479.xml:  <GBSeq_organism>Enterococcus italicus</GBSeq_organism>

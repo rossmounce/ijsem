@@ -1,0 +1,17 @@
+./D78475.xml:  <GBSeq_organism>Paenibacillus thiaminolyticus</GBSeq_organism>
+./X71858.xml:  <GBSeq_organism>[Clostridium] polysaccharolyticum</GBSeq_organism>
+./AF515699.xml:  <GBSeq_organism>Pasteuria goettingianae</GBSeq_organism>
+./AJ878853.xml:  <GBSeq_organism>Pasteuria hartismeri</GBSeq_organism>
+./AF254387.xml:  <GBSeq_organism>Candidatus Pasteuria usgae</GBSeq_organism>
+./AF134868.xml:  <GBSeq_organism>Pasteuria nishizawae</GBSeq_organism>
+./X60742.xml:  <GBSeq_organism>Alicyclobacillus acidocaldarius subsp. acidocaldarius DSM 446</GBSeq_organism>
+./M77491.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./M77490.xml:  <GBSeq_organism>Thermoactinomyces vulgaris</GBSeq_organism>
+./U34688.xml:  <GBSeq_organism>Daphnia endosymbiotic bacterium</GBSeq_organism>
+./X51928.xml:  <GBSeq_organism>Alicyclobacillus cycloheptanicus</GBSeq_organism>
+./AY652776.xml:  <GBSeq_organism>uncultured Pasteuria sp.</GBSeq_organism>
+./BX842576.xml:  <GBSeq_organism>Mycobacterium tuberculosis H37Rv</GBSeq_organism>
+./X73450.xml:  <GBSeq_organism>Peptoclostridium difficile</GBSeq_organism>
+./AF480937.xml:  <GBSeq_organism>Paenibacillus nematophilus</GBSeq_organism>
+./GU186440.xml:  <GBSeq_organism>Pasteuria sp. c1</GBSeq_organism>
+./X60743.xml:  <GBSeq_organism>Alicyclobacillus acidoterrestris</GBSeq_organism>

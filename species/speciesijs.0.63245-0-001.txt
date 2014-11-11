@@ -1,0 +1,25 @@
+./M36068.xml:  <GBSeq_organism>Enterobacter aerogenes</GBSeq_organism>
+./AF116549.xml:  <GBSeq_organism>Helicobacter bilis ATCC 43879</GBSeq_organism>
+./AY578103.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF116550.xml:  <GBSeq_organism>Flexispira rappini</GBSeq_organism>
+./AY578112.xml:  <GBSeq_organism>Helicobacter bilis ATCC 43879</GBSeq_organism>
+./AF508003.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AF508005.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AY578109.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF066864.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./AY578106.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578108.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578105.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF116551.xml:  <GBSeq_organism>Flexispira rappini</GBSeq_organism>
+./AE017145.xml:  <GBSeq_organism>Helicobacter hepaticus ATCC 51449</GBSeq_organism>
+./AF332656.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./AY578113.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./L33462.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AY578110.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AJ130884.xml:  <GBSeq_organism>Flexispira rappini</GBSeq_organism>
+./AY578107.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AY578111.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AF116579.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./AF508004.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./AY578102.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira str. FL56&apos;</GBSeq_organism>
+./AF066863.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>

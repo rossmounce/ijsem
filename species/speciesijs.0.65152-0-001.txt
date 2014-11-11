@@ -1,0 +1,16 @@
+./AF066862.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./AY578112.xml:  <GBSeq_organism>Helicobacter bilis ATCC 43879</GBSeq_organism>
+./AF508007.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508010.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508003.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AF508005.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./EF070340.xml:  <GBSeq_organism>Helicobacter cynogastricus</GBSeq_organism>
+./AY578106.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./EF070343.xml:  <GBSeq_organism>Helicobacter baculiformis</GBSeq_organism>
+./AY578105.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./L33462.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AF508013.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508012.xml:  <GBSeq_organism>Helicobacter heilmannii</GBSeq_organism>
+./AF508004.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./AY578102.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira str. FL56&apos;</GBSeq_organism>
+./AY368262.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>

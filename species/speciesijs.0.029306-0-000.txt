@@ -1,0 +1,15 @@
+./AY555577.xml:  <GBSeq_organism>Nocardia mexicana</GBSeq_organism>
+./AY639902.xml:  <GBSeq_organism>Nocardia jiangxiensis</GBSeq_organism>
+./FJ805428.xml:  <GBSeq_organism>Nocardia callitridis</GBSeq_organism>
+./M59056.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./AF430027.xml:  <GBSeq_organism>Nocardia cyriacigeorgica</GBSeq_organism>
+./AY779043.xml:  <GBSeq_organism>Nocardia lijiangensis</GBSeq_organism>
+./HM158801.xml:  <GBSeq_organism>Phoma sp. MJW-2010b</GBSeq_organism>
+./AY222321.xml:  <GBSeq_organism>Nocardia alba</GBSeq_organism>
+./AY639901.xml:  <GBSeq_organism>Nocardia miyunensis</GBSeq_organism>
+./AB187522.xml:  <GBSeq_organism>Nocardia exalbida</GBSeq_organism>
+./AY626158.xml:  <GBSeq_organism>Nocardia polyresistens</GBSeq_organism>
+./EU099860.xml:  <GBSeq_organism>Neosilurus hyrtlii</GBSeq_organism>
+./AB158277.xml:  <GBSeq_organism>Nocardia takedensis</GBSeq_organism>
+./GU367157.xml:  <GBSeq_organism>Nocardia artemisiae</GBSeq_organism>
+./AB126881.xml:  <GBSeq_organism>Nocardia concava</GBSeq_organism>

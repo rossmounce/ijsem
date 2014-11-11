@@ -1,0 +1,6 @@
+./EF016285.xml:  <GBSeq_organism>Methanobacterium veterum</GBSeq_organism>
+./AF169245.xml:  <GBSeq_organism>Methanobacterium formicicum</GBSeq_organism>
+./AF233586.xml:  <GBSeq_organism>Methanobacterium congolense</GBSeq_organism>
+./X99044.xml:  <GBSeq_organism>Methanobacterium subterraneum</GBSeq_organism>
+./AF093061.xml:  <GBSeq_organism>Methanobacterium palustre</GBSeq_organism>
+./M59124.xml:  <GBSeq_organism>Methanobacterium bryantii</GBSeq_organism>

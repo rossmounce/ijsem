@@ -1,0 +1,17 @@
+./AF287782.xml:  <GBSeq_organism>Veillonella sp. oral clone AA050</GBSeq_organism>
+./AY355140.xml:  <GBSeq_organism>Veillonella caviae</GBSeq_organism>
+./AF439640.xml:  <GBSeq_organism>Veillonella parvula</GBSeq_organism>
+./AF439641.xml:  <GBSeq_organism>Veillonella atypica KON</GBSeq_organism>
+./AY355142.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AF439639.xml:  <GBSeq_organism>Veillonella dispar</GBSeq_organism>
+./AY355141.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AY211542.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./AF473836.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AY514996.xml:  <GBSeq_organism>Veillonella rodentium</GBSeq_organism>
+./AF186071.xml:  <GBSeq_organism>Veillonella ratti</GBSeq_organism>
+./AY244769.xml:  <GBSeq_organism>Veillonella montpellierensis</GBSeq_organism>
+./AF287781.xml:  <GBSeq_organism>Veillonella sp. oral clone X042</GBSeq_organism>
+./X82500.xml:  <GBSeq_organism>Dialister pneumosintes</GBSeq_organism>
+./AF186072.xml:  <GBSeq_organism>Veillonella criceti</GBSeq_organism>
+./X84005.xml:  <GBSeq_organism>Veillonella parvula DSM 2008</GBSeq_organism>
+./AF366266.xml:  <GBSeq_organism>uncultured Veillonella sp.</GBSeq_organism>

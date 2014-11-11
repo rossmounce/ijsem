@@ -1,0 +1,23 @@
+./AJ399477.xml:  <GBSeq_organism>Streptomyces violarus</GBSeq_organism>
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./AJ781378.xml:  <GBSeq_organism>Streptomyces sapporonensis</GBSeq_organism>
+./AJ621602.xml:  <GBSeq_organism>Streptomyces albus subsp. albus</GBSeq_organism>
+./X99943.xml:  <GBSeq_organism>Streptomyces griseocarneus</GBSeq_organism>
+./DQ375786.xml:  <GBSeq_organism>Candidatus Streptomyces philanthi bv. crotoniphilus</GBSeq_organism>
+./AB024440.xml:  <GBSeq_organism>Streptomyces albulus</GBSeq_organism>
+./AJ310923.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./DQ375803.xml:  <GBSeq_organism>Candidatus Streptomyces philanthi bv. triangulum diadema</GBSeq_organism>
+./AF145223.xml:  <GBSeq_organism>Streptomyces avermitilis</GBSeq_organism>
+./Y15501.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AB045890.xml:  <GBSeq_organism>Streptomyces venezuelae</GBSeq_organism>
+./D63872.xml:  <GBSeq_organism>Streptomyces griseus</GBSeq_organism>
+./AF114036.xml:  <GBSeq_organism>Streptomyces nodosus</GBSeq_organism>
+./AB024441.xml:  <GBSeq_organism>Streptomyces kasugaensis</GBSeq_organism>
+./DQ375790.xml:  <GBSeq_organism>Candidatus Streptomyces philanthi bv. histrio</GBSeq_organism>
+./DQ375787.xml:  <GBSeq_organism>Candidatus Streptomyces philanthi bv. fuscipennis</GBSeq_organism>
+./M27245.xml:  <GBSeq_organism>Streptomyces ambofaciens</GBSeq_organism>
+./DQ375783.xml:  <GBSeq_organism>Candidatus Streptomyces philanthi bv. coarctatus</GBSeq_organism>
+./AJ399480.xml:  <GBSeq_organism>Streptomyces violaceus</GBSeq_organism>
+./Y15507.xml:  <GBSeq_organism>Streptomyces lydicus</GBSeq_organism>
+./AY289116.xml:  <GBSeq_organism>Streptomyces aureofaciens</GBSeq_organism>

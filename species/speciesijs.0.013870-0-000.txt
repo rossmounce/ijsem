@@ -1,0 +1,10 @@
+./M92279.xml:  <GBSeq_organism>Salegentibacter salegens</GBSeq_organism>
+./AB206954.xml:  <GBSeq_organism>Nonlabens sediminis</GBSeq_organism>
+./EF486353.xml:  <GBSeq_organism>Salegentibacter salarius</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./AY608409.xml:  <GBSeq_organism>Gramella echinicola</GBSeq_organism>
+./AY576653.xml:  <GBSeq_organism>Salegentibacter mishustinae</GBSeq_organism>
+./AF536383.xml:  <GBSeq_organism>Mesonia algae</GBSeq_organism>
+./AY753911.xml:  <GBSeq_organism>Gramella marina</GBSeq_organism>
+./U85881.xml:  <GBSeq_organism>Psychroflexus torquis ATCC 700755</GBSeq_organism>
+./AB261012.xml:  <GBSeq_organism>Marixanthomonas ophiurae</GBSeq_organism>

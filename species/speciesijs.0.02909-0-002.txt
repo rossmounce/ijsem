@@ -1,0 +1,17 @@
+./U76363.xml:  <GBSeq_organism>Carboxydothermus ferrireducens</GBSeq_organism>
+./X58354.xml:  <GBSeq_organism>Moorella thermoautotrophica</GBSeq_organism>
+./M59085.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./L11304.xml:  <GBSeq_organism>[Clostridium] thermoalcaliphilum</GBSeq_organism>
+./L09167.xml:  <GBSeq_organism>Thermoanaerobacter thermocopriae JCM 7501</GBSeq_organism>
+./AY064217.xml:  <GBSeq_organism>Anaerobranca californiensis</GBSeq_organism>
+./AF203703.xml:  <GBSeq_organism>Anaerobranca gottschalkii</GBSeq_organism>
+./M26491.xml:  <GBSeq_organism>Syntrophomonas bryantii</GBSeq_organism>
+./U21809.xml:  <GBSeq_organism>Anaerobranca horikoshii</GBSeq_organism>
+./X92513.xml:  <GBSeq_organism>Thermoanaerobacter wiegelii Rt8.B1</GBSeq_organism>
+./AF174484.xml:  <GBSeq_organism>Caldanaerobacter subterraneus subsp. pacificus DSM 12653</GBSeq_organism>
+./L06838.xml:  <GBSeq_organism>[Clostridium] paradoxum</GBSeq_organism>
+./L09161.xml:  <GBSeq_organism>Thermoanaerobacter thermohydrosulfuricus</GBSeq_organism>
+./U80596.xml:  <GBSeq_organism>Caldicellulosiruptor owensensis OL</GBSeq_organism>
+./AY064218.xml:  <GBSeq_organism>Anaerobranca californiensis</GBSeq_organism>
+./L15628.xml:  <GBSeq_organism>Desulfotomaculum thermobenzoicum</GBSeq_organism>
+./X71847.xml:  <GBSeq_organism>Clostridium cellulolyticum H10</GBSeq_organism>

@@ -1,0 +1,15 @@
+./AJ252826.xml:  <GBSeq_organism>Pseudonocardia hydrocarbonoxydans</GBSeq_organism>
+./AF454510.xml:  <GBSeq_organism>Pseudonocardia chloroethenivorans</GBSeq_organism>
+./AJ249206.xml:  <GBSeq_organism>Pseudonocardia spinosispora</GBSeq_organism>
+./AY500148.xml:  <GBSeq_organism>Pan troglodytes</GBSeq_organism>
+./AJ252824.xml:  <GBSeq_organism>Pseudonocardia autotrophica</GBSeq_organism>
+./AF325725.xml:  <GBSeq_organism>Pseudonocardia zijingensis</GBSeq_organism>
+./AJ252823.xml:  <GBSeq_organism>Pseudonocardia alni</GBSeq_organism>
+./AJ252828.xml:  <GBSeq_organism>Pseudonocardia petroleophila</GBSeq_organism>
+./Y08536.xml:  <GBSeq_organism>Pseudonocardia asaccharolytica</GBSeq_organism>
+./AJ576010.xml:  <GBSeq_organism>Pseudonocardia antarctica</GBSeq_organism>
+./AJ252833.xml:  <GBSeq_organism>Pseudonocardia kongjuensis</GBSeq_organism>
+./Y08534.xml:  <GBSeq_organism>Pseudonocardia halophobica</GBSeq_organism>
+./AJ252830.xml:  <GBSeq_organism>Pseudonocardia thermophila</GBSeq_organism>
+./AJ252825.xml:  <GBSeq_organism>Pseudonocardia compacta</GBSeq_organism>
+./AJ252829.xml:  <GBSeq_organism>Pseudonocardia saturnea</GBSeq_organism>

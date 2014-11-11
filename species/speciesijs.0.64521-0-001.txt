@@ -1,0 +1,17 @@
+./AF060699.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./AY508816.xml:  <GBSeq_organism>Nicoletella semolina</GBSeq_organism>
+./AY362927.xml:  <GBSeq_organism>Bibersteinia trehalosi</GBSeq_organism>
+./M75068.xml:  <GBSeq_organism>Actinobacillus lignieresii</GBSeq_organism>
+./AF294410.xml:  <GBSeq_organism>Pasteurella multocida subsp. multocida</GBSeq_organism>
+./AF228001.xml:  <GBSeq_organism>Gallibacterium anatis DSM 16844 = F 149</GBSeq_organism>
+./AY362921.xml:  <GBSeq_organism>Avibacterium gallinarum</GBSeq_organism>
+./AY216868.xml:  <GBSeq_organism>Volucribacter psittacicida</GBSeq_organism>
+./Y17189.xml:  <GBSeq_organism>Lonepinella koalarum</GBSeq_organism>
+./AF549387.xml:  <GBSeq_organism>Histophilus somni</GBSeq_organism>
+./U57074.xml:  <GBSeq_organism>Bibersteinia trehalosi</GBSeq_organism>
+./M75063.xml:  <GBSeq_organism>Mannheimia haemolytica</GBSeq_organism>
+./M75039.xml:  <GBSeq_organism>Aggregatibacter actinomycetemcomitans</GBSeq_organism>
+./U57075.xml:  <GBSeq_organism>Bibersteinia trehalosi</GBSeq_organism>
+./X89379.xml:  <GBSeq_organism>Phocoenobacter uteri</GBSeq_organism>
+./M35019.xml:  <GBSeq_organism>Haemophilus influenzae</GBSeq_organism>
+./U57073.xml:  <GBSeq_organism>Bibersteinia trehalosi</GBSeq_organism>

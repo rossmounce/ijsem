@@ -1,0 +1,15 @@
+./L09173.xml:  <GBSeq_organism>Ruminiclostridium thermocellum</GBSeq_organism>
+./X71849.xml:  <GBSeq_organism>Clostridium cellulovorans 743B</GBSeq_organism>
+./Y16716.xml:  <GBSeq_organism>Natronincola histidinovorans</GBSeq_organism>
+./Y15626.xml:  <GBSeq_organism>Tindallia magadiensis</GBSeq_organism>
+./X68189.xml:  <GBSeq_organism>Clostridium sporogenes</GBSeq_organism>
+./X77837.xml:  <GBSeq_organism>Clostridium halophilum</GBSeq_organism>
+./AY959944.xml:  <GBSeq_organism>[Clostridium] alkalicellulosi</GBSeq_organism>
+./AB201750.xml:  <GBSeq_organism>Anaerovirgula multivorans</GBSeq_organism>
+./AB075767.xml:  <GBSeq_organism>Clostridium perfringens ATCC 13124</GBSeq_organism>
+./X74770.xml:  <GBSeq_organism>Clostridium tetani</GBSeq_organism>
+./Y18183.xml:  <GBSeq_organism>Clostridium aceticum</GBSeq_organism>
+./X77836.xml:  <GBSeq_organism>Clostridium formicaceticum</GBSeq_organism>
+./AF458779.xml:  <GBSeq_organism>Clostridium caminithermale</GBSeq_organism>
+./AJ320233.xml:  <GBSeq_organism>Caminicella sporogenes</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

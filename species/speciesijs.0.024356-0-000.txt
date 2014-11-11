@@ -1,0 +1,31 @@
+./AF107722.xml:  <GBSeq_organism>Aminobacter lissarensis</GBSeq_organism>
+./AF508208.xml:  <GBSeq_organism>Mesorhizobium temperatum</GBSeq_organism>
+./EF457242.xml:  <GBSeq_organism>Chelativorans oligotrophicus</GBSeq_organism>
+./L26166.xml:  <GBSeq_organism>Brucella melitensis</GBSeq_organism>
+./U07984.xml:  <GBSeq_organism>Influenza A virus (A/swine/Beauce/218/91(H3N2))</GBSeq_organism>
+./Y15403.xml:  <GBSeq_organism>Aquamicrobium defluvii</GBSeq_organism>
+./Y14158.xml:  <GBSeq_organism>Mesorhizobium plurifarium</GBSeq_organism>
+./AF034798.xml:  <GBSeq_organism>Aminobacter ciceronei</GBSeq_organism>
+./AF041442.xml:  <GBSeq_organism>Mesorhizobium amorphae</GBSeq_organism>
+./AJ132378.xml:  <GBSeq_organism>Aquamicrobium lusatiense</GBSeq_organism>
+./AY786080.xml:  <GBSeq_organism>Phyllobacterium trifolii</GBSeq_organism>
+./AJ864462.xml:  <GBSeq_organism>Mesorhizobium thiogangeticum</GBSeq_organism>
+./AY636000.xml:  <GBSeq_organism>Phyllobacterium catacumbae</GBSeq_organism>
+./GU447302.xml:  <GBSeq_organism>Nitratireductor indicus C115</GBSeq_organism>
+./D14514.xml:  <GBSeq_organism>Mesorhizobium loti ATCC 33669</GBSeq_organism>
+./AM498744.xml:  <GBSeq_organism>Nitratireductor kimnyeongensis KY 101</GBSeq_organism>
+./AY785325.xml:  <GBSeq_organism>Phyllobacterium ifriqiyense</GBSeq_organism>
+./EF457243.xml:  <GBSeq_organism>Chelativorans multitrophicus</GBSeq_organism>
+./AJ786600.xml:  <GBSeq_organism>Hoeflea alexandrii</GBSeq_organism>
+./D13431.xml:  <GBSeq_organism>Mesorhizobium huakuii</GBSeq_organism>
+./U29386.xml:  <GBSeq_organism>Rhizobium leguminosarum bv. viciae USDA 2370</GBSeq_organism>
+./L38825.xml:  <GBSeq_organism>Mesorhizobium mediterraneum</GBSeq_organism>
+./AF534573.xml:  <GBSeq_organism>Nitratireductor aquibiodomus NL21 = JCM 21793</GBSeq_organism>
+./AY785320.xml:  <GBSeq_organism>Phyllobacterium bourgognense</GBSeq_organism>
+./U71079.xml:  <GBSeq_organism>Mesorhizobium tianshanense</GBSeq_organism>
+./AJ278249.xml:  <GBSeq_organism>Mesorhizobium chacoense</GBSeq_organism>
+./AF508207.xml:  <GBSeq_organism>Mesorhizobium septentrionale</GBSeq_organism>
+./D32248.xml:  <GBSeq_organism>Pseudaminobacter defluvii</GBSeq_organism>
+./AY785823.xml:  <GBSeq_organism>Hordeum vulgare subsp. vulgare</GBSeq_organism>
+./DQ100066.xml:  <GBSeq_organism>Mesorhizobium albiziae</GBSeq_organism>
+./AY785319.xml:  <GBSeq_organism>Phyllobacterium brassicacearum</GBSeq_organism>

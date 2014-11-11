@@ -1,0 +1,13 @@
+./AF278572.xml:  <GBSeq_organism>Nocardia veterana</GBSeq_organism>
+./Z36927.xml:  <GBSeq_organism>Nocardia vaccinii</GBSeq_organism>
+./AF060790.xml:  <GBSeq_organism>Nocardia cerradoensis</GBSeq_organism>
+./Z36925.xml:  <GBSeq_organism>Nocardia seriolae</GBSeq_organism>
+./Z46752.xml:  <GBSeq_organism>Nocardia uniformis</GBSeq_organism>
+./M59056.xml:  <GBSeq_organism>Nocardia otitidiscaviarum</GBSeq_organism>
+./X84857.xml:  <GBSeq_organism>Nocardia pseudobrasiliensis</GBSeq_organism>
+./X80634.xml:  <GBSeq_organism>Gordonia sputi</GBSeq_organism>
+./AF277198.xml:  <GBSeq_organism>Nocardia africana</GBSeq_organism>
+./Z37989.xml:  <GBSeq_organism>Nocardia crassostreae</GBSeq_organism>
+./Z36930.xml:  <GBSeq_organism>Nocardia nova</GBSeq_organism>
+./AB092565.xml:  <GBSeq_organism>Nocardia niigatensis</GBSeq_organism>
+./AB092560.xml:  <GBSeq_organism>Nocardia inohanensis</GBSeq_organism>

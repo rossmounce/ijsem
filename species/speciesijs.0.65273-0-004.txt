@@ -1,0 +1,43 @@
+./AM230665.xml:  <GBSeq_organism>Rivularia sp. XSP25A</GBSeq_organism>
+./AJ344555.xml:  <GBSeq_organism>Chroococcidiopsis sp. BB96.1</GBSeq_organism>
+./AJ133158.xml:  <GBSeq_organism>Anabaena lemmermannii var. minor NIVA-CYA 83/2</GBSeq_organism>
+./AJ133181.xml:  <GBSeq_organism>Nodularia sphaerocarpa PCC 7804</GBSeq_organism>
+./AF334693.xml:  <GBSeq_organism>Tolypothrix distorta</GBSeq_organism>
+./AJ344552.xml:  <GBSeq_organism>Chroococcidiopsis sp. BB79.2</GBSeq_organism>
+./AF334697.xml:  <GBSeq_organism>Calothrix parietina</GBSeq_organism>
+./AJ133152.xml:  <GBSeq_organism>Anabaena flos-aquae 14</GBSeq_organism>
+./AY147030.xml:  <GBSeq_organism>Calothrix sp. CCMEE 5085</GBSeq_organism>
+./AJ344563.xml:  <GBSeq_organism>Nostoc sp. DM103</GBSeq_organism>
+./AM230677.xml:  <GBSeq_organism>Rivularia sp. PCC 7116</GBSeq_organism>
+./AM230672.xml:  <GBSeq_organism>Rivularia sp. XP3A</GBSeq_organism>
+./AM230667.xml:  <GBSeq_organism>Rivularia sp. XP27A</GBSeq_organism>
+./AM230706.xml:  <GBSeq_organism>Tolypothrix sp. TOL328</GBSeq_organism>
+./AM230668.xml:  <GBSeq_organism>Tolypothrix sp. PCC 7415</GBSeq_organism>
+./AF527470.xml:  <GBSeq_organism>Calothrix membranacea</GBSeq_organism>
+./AM230666.xml:  <GBSeq_organism>Rivularia sp. BECID12</GBSeq_organism>
+./AY768393.xml:  <GBSeq_organism>Nostoc punctiforme PCC 73102</GBSeq_organism>
+./U00096.xml:  <GBSeq_organism>Escherichia coli str. K-12 substr. MG1655</GBSeq_organism>
+./AM230674.xml:  <GBSeq_organism>Rivularia atra BIR KRIV1</GBSeq_organism>
+./AY768401.xml:  <GBSeq_organism>Tolypothrix sp. PCC 7601</GBSeq_organism>
+./DQ380395.xml:  <GBSeq_organism>Calothrix sp. BC001</GBSeq_organism>
+./AF334695.xml:  <GBSeq_organism>Calothrix parietina</GBSeq_organism>
+./AY147029.xml:  <GBSeq_organism>Calothrix sp. CCMEE 5093</GBSeq_organism>
+./AM230676.xml:  <GBSeq_organism>Rivularia sp. XP16B</GBSeq_organism>
+./AJ133164.xml:  <GBSeq_organism>Calothrix sp. PCC 7714</GBSeq_organism>
+./X99213.xml:  <GBSeq_organism>Calothrix sp. DCC D253</GBSeq_organism>
+./AB074504.xml:  <GBSeq_organism>Calothrix brevissima IAM M-249</GBSeq_organism>
+./AJ133156.xml:  <GBSeq_organism>Anabaena sp. 90</GBSeq_organism>
+./AF132779.xml:  <GBSeq_organism>Calothrix desertica PCC 7102</GBSeq_organism>
+./AF268011.xml:  <GBSeq_organism>Nodularia spumigena</GBSeq_organism>
+./DQ072920.xml:  <GBSeq_organism>uncultured Calothrix sp.</GBSeq_organism>
+./AJ871989.xml:  <GBSeq_organism>Tolypothrix distorta</GBSeq_organism>
+./AF334696.xml:  <GBSeq_organism>Calothrix parietina</GBSeq_organism>
+./AM230673.xml:  <GBSeq_organism>Rivularia sp. BECID10</GBSeq_organism>
+./AF062638.xml:  <GBSeq_organism>Nostoc sp. ATCC 53789</GBSeq_organism>
+./AF334694.xml:  <GBSeq_organism>Tolypothrix distorta</GBSeq_organism>
+./AJ133154.xml:  <GBSeq_organism>Aphanizomenon flos-aquae PCC 7905</GBSeq_organism>
+./AM230675.xml:  <GBSeq_organism>Rivularia atra BIR MGR1</GBSeq_organism>
+./AF067818.xml:  <GBSeq_organism>Cylindrospermopsis raciborskii</GBSeq_organism>
+./AY768400.xml:  <GBSeq_organism>Oscillatoria sancta PCC 7515</GBSeq_organism>
+./AF092504.xml:  <GBSeq_organism>Cylindrospermopsis raciborskii AWT205</GBSeq_organism>
+./AJ224447.xml:  <GBSeq_organism>Nodularia sp. BCNOD9427</GBSeq_organism>

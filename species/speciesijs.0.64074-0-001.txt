@@ -1,0 +1,8 @@
+./AF418179.xml:  <GBSeq_organism>Desulfovibrio vulgaris</GBSeq_organism>
+./X87409.xml:  <GBSeq_organism>Desulfovibrio termitidis HI1</GBSeq_organism>
+./Y12254.xml:  <GBSeq_organism>Desulfovibrio intestinalis</GBSeq_organism>
+./X99504.xml:  <GBSeq_organism>Desulfovibrio litoralis</GBSeq_organism>
+./M34113.xml:  <GBSeq_organism>Desulfovibrio desulfuricans subsp. desulfuricans str. ATCC 27774</GBSeq_organism>
+./X99501.xml:  <GBSeq_organism>Desulfovibrio cuneatus</GBSeq_organism>
+./X99235.xml:  <GBSeq_organism>Desulfohalobium retbaense DSM 5692</GBSeq_organism>
+./DQ122124.xml:  <GBSeq_organism>Desulfovibrio oxamicus</GBSeq_organism>

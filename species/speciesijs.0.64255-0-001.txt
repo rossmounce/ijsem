@@ -1,0 +1,19 @@
+./AJ404370.xml:  <GBSeq_organism>Nautilia lithotrophica</GBSeq_organism>
+./AB167820.xml:  <GBSeq_organism>Lebetimonas acidiphila</GBSeq_organism>
+./L14624.xml:  <GBSeq_organism>Arcobacter cryaerophilus</GBSeq_organism>
+./AB175498.xml:  <GBSeq_organism>Thioreductor micantisoli BKB25Ts-Y</GBSeq_organism>
+./L40808.xml:  <GBSeq_organism>Sulfurimonas denitrificans DSM 1251</GBSeq_organism>
+./M92323.xml:  <GBSeq_organism>Thiovulum sp.</GBSeq_organism>
+./U41564.xml:  <GBSeq_organism>Sulfurospirillum barnesii SES-3</GBSeq_organism>
+./AJ535664.xml:  <GBSeq_organism>Caminibacter profundus</GBSeq_organism>
+./AB175499.xml:  <GBSeq_organism>Nitratiruptor tergarcus DSM 16512</GBSeq_organism>
+./L35520.xml:  <GBSeq_organism>Alvinella pompejana epibiont</GBSeq_organism>
+./M26636.xml:  <GBSeq_organism>Wolinella succinogenes</GBSeq_organism>
+./AJ309655.xml:  <GBSeq_organism>Caminibacter hydrogeniphilus</GBSeq_organism>
+./U01330.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./L14630.xml:  <GBSeq_organism>Campylobacter jejuni</GBSeq_organism>
+./AB189712.xml:  <GBSeq_organism>Alviniconcha sp. gill symbiont</GBSeq_organism>
+./X72768.xml:  <GBSeq_organism>Desulfurella acetivorans A63</GBSeq_organism>
+./AB105048.xml:  <GBSeq_organism>Hydrogenimonas thermophila</GBSeq_organism>
+./AF357199.xml:  <GBSeq_organism>Sulfurospirillum sp. 18.1</GBSeq_organism>
+./AB175500.xml:  <GBSeq_organism>Nitratifractor salsuginis DSM 16511</GBSeq_organism>

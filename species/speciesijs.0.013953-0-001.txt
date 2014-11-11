@@ -1,0 +1,14 @@
+./AM261414.xml:  <GBSeq_organism>Clostridium nitrophenolicum</GBSeq_organism>
+./AJ237755.xml:  <GBSeq_organism>Clostridium akagii</GBSeq_organism>
+./X68451.xml:  <GBSeq_organism>Clostridium subterminale</GBSeq_organism>
+./EU816420.xml:  <GBSeq_organism>Clostridium arbusti SL206</GBSeq_organism>
+./X73442.xml:  <GBSeq_organism>Clostridium botulinum</GBSeq_organism>
+./X74770.xml:  <GBSeq_organism>Clostridium tetani</GBSeq_organism>
+./X77835.xml:  <GBSeq_organism>Clostridium magnum</GBSeq_organism>
+./AF156796.xml:  <GBSeq_organism>Clostridium peptidivorans</GBSeq_organism>
+./AJ237756.xml:  <GBSeq_organism>Clostridium acidisoli</GBSeq_organism>
+./M23930.xml:  <GBSeq_organism>Clostridium pasteurianum</GBSeq_organism>
+./X96736.xml:  <GBSeq_organism>Clostridium pascui</GBSeq_organism>
+./X77834.xml:  <GBSeq_organism>Clostridium butyricum</GBSeq_organism>
+./AJ427628.xml:  <GBSeq_organism>Clostridium drakei</GBSeq_organism>
+./M59103.xml:  <GBSeq_organism>Clostridium perfringens</GBSeq_organism>

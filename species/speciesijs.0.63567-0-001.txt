@@ -1,0 +1,24 @@
+./X60605.xml:  <GBSeq_organism>Bacillus amyloliquefaciens DSM 7</GBSeq_organism>
+./AF302118.xml:  <GBSeq_organism>Bacillus sonorensis</GBSeq_organism>
+./X76437.xml:  <GBSeq_organism>Bacillus cohnii</GBSeq_organism>
+./X55061.xml:  <GBSeq_organism>Bacillus mycoides</GBSeq_organism>
+./AF074970.xml:  <GBSeq_organism>Bacillus subtilis subsp. spizizenii</GBSeq_organism>
+./AB021198.xml:  <GBSeq_organism>Bacillus vallismortis</GBSeq_organism>
+./X60643.xml:  <GBSeq_organism>Bacillus smithii</GBSeq_organism>
+./AF013121.xml:  <GBSeq_organism>Bacillus pseudomycoides</GBSeq_organism>
+./AY603657.xml:  <GBSeq_organism>Bacillus axarquiensis</GBSeq_organism>
+./AF483624.xml:  <GBSeq_organism>Bacillus marisflavi</GBSeq_organism>
+./AJ419629.xml:  <GBSeq_organism>Bacillus luciferensis</GBSeq_organism>
+./D16266.xml:  <GBSeq_organism>Bacillus cereus</GBSeq_organism>
+./AF483625.xml:  <GBSeq_organism>Bacillus aquimaris</GBSeq_organism>
+./AY603656.xml:  <GBSeq_organism>Bacillus malacitensis</GBSeq_organism>
+./AF290545.xml:  <GBSeq_organism>Bacillus thuringiensis</GBSeq_organism>
+./AB049195.xml:  <GBSeq_organism>Bacillus funiculus</GBSeq_organism>
+./X76447.xml:  <GBSeq_organism>Bacillus halmapalus</GBSeq_organism>
+./X60615.xml:  <GBSeq_organism>Bacillus fastidiosus</GBSeq_organism>
+./AF295302.xml:  <GBSeq_organism>Bacillus endophyticus</GBSeq_organism>
+./AB021182.xml:  <GBSeq_organism>Bacillus carboniphilus</GBSeq_organism>
+./X68416.xml:  <GBSeq_organism>Bacillus licheniformis</GBSeq_organism>
+./AJ504797.xml:  <GBSeq_organism>Bacillus aeolius</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AY456263.xml:  <GBSeq_organism>Bacillus pumilus</GBSeq_organism>

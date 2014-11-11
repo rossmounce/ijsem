@@ -1,0 +1,15 @@
+./AM295258.xml:  <GBSeq_organism>Nocardioides hwasunensis</GBSeq_organism>
+./FJ842646.xml:  <GBSeq_organism>Nocardioides daedukensis</GBSeq_organism>
+./EF626689.xml:  <GBSeq_organism>Nocardioides fonticola</GBSeq_organism>
+./AF005023.xml:  <GBSeq_organism>Terrabacter tumescens</GBSeq_organism>
+./AM981198.xml:  <GBSeq_organism>Nocardioides hungaricus</GBSeq_organism>
+./AY423718.xml:  <GBSeq_organism>Nocardioides ganghwensis</GBSeq_organism>
+./AF005024.xml:  <GBSeq_organism>Nocardioides nitrophenolicus</GBSeq_organism>
+./FJ666101.xml:  <GBSeq_organism>Nocardioides panacisoli</GBSeq_organism>
+./AF529083.xml:  <GBSeq_organism>Rattus norvegicus</GBSeq_organism>
+./AM981199.xml:  <GBSeq_organism>Nocardioides sp. RaM5-15</GBSeq_organism>
+./EF555584.xml:  <GBSeq_organism>Nocardioides hankookensis</GBSeq_organism>
+./AF005008.xml:  <GBSeq_organism>Nocardioides plantarum</GBSeq_organism>
+./AJ698724.xml:  <GBSeq_organism>Nocardioides oleivorans</GBSeq_organism>
+./AM981197.xml:  <GBSeq_organism>Nocardioides sp. RaM5-3</GBSeq_organism>
+./AF005009.xml:  <GBSeq_organism>Pimelobacter simplex</GBSeq_organism>

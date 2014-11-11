@@ -1,0 +1,12 @@
+./AM980986.xml:  <GBSeq_organism>Actinocatenispora rupis</GBSeq_organism>
+./AB107233.xml:  <GBSeq_organism>Actinocatenispora thailandica</GBSeq_organism>
+./AF152106.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./X93191.xml:  <GBSeq_organism>Dactylosporangium aurantiacum</GBSeq_organism>
+./AF152108.xml:  <GBSeq_organism>Asanoa ferruginea</GBSeq_organism>
+./X93190.xml:  <GBSeq_organism>Pilimelia terevasa</GBSeq_organism>
+./D85479.xml:  <GBSeq_organism>Couchioplanes caeruleus</GBSeq_organism>
+./D85476.xml:  <GBSeq_organism>Catenuloplanes japonicus JCM 9106</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./X93187.xml:  <GBSeq_organism>Actinoplanes philippinensis</GBSeq_organism>
+./AB236957.xml:  <GBSeq_organism>Luedemannella helvata</GBSeq_organism>
+./Y15523.xml:  <GBSeq_organism>Verrucosispora gifhornensis</GBSeq_organism>

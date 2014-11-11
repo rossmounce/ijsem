@@ -1,0 +1,7 @@
+./X84246.xml:  <GBSeq_organism>Corynebacterium pilosum</GBSeq_organism>
+./X84255.xml:  <GBSeq_organism>Corynebacterium pseudotuberculosis</GBSeq_organism>
+./X82057.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./X81918.xml:  <GBSeq_organism>Corynebacterium pseudodiphtheriticum</GBSeq_organism>
+./Y09655.xml:  <GBSeq_organism>Corynebacterium sundsvallense</GBSeq_organism>
+./X81917.xml:  <GBSeq_organism>Corynebacterium propinquum</GBSeq_organism>
+./AJ429234.xml:  <GBSeq_organism>Corynebacterium spheniscorum</GBSeq_organism>

@@ -1,0 +1,15 @@
+./DQ208689.xml:  <GBSeq_organism>Desulfovirgula thermocuniculi</GBSeq_organism>
+./L09171.xml:  <GBSeq_organism>Thermoanaerobacterium thermosulfurigenes</GBSeq_organism>
+./EF554597.xml:  <GBSeq_organism>Ammonifex thiophilus</GBSeq_organism>
+./EF195126.xml:  <GBSeq_organism>Caldanaerobacter uzonensis</GBSeq_organism>
+./X58347.xml:  <GBSeq_organism>Thermoanaerobacter ethanolicus JW 200</GBSeq_organism>
+./AB062280.xml:  <GBSeq_organism>Thermanaeromonas toyohensis ToBE</GBSeq_organism>
+./AY856675.xml:  <GBSeq_organism>Hepatitis B virus</GBSeq_organism>
+./AY033493.xml:  <GBSeq_organism>Thermovenabulum ferriorganovorum</GBSeq_organism>
+./U34975.xml:  <GBSeq_organism>Ammonifex degensii KC4</GBSeq_organism>
+./AY331143.xml:  <GBSeq_organism>Mahella australiensis 50-1 BON</GBSeq_organism>
+./X69335.xml:  <GBSeq_organism>Coprothermobacter proteolyticus</GBSeq_organism>
+./AY703479.xml:  <GBSeq_organism>Thermosediminibacter litoriperuensis</GBSeq_organism>
+./AF321086.xml:  <GBSeq_organism>Gelria glutamica</GBSeq_organism>
+./AY216597.xml:  <GBSeq_organism>Caldanaerobacter subterraneus</GBSeq_organism>
+./Y14845.xml:  <GBSeq_organism>Sporotomaculum hydroxybenzoicum</GBSeq_organism>

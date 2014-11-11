@@ -1,0 +1,15 @@
+./AY631071.xml:  <GBSeq_organism>Jiangella gansuensis DSM 44835</GBSeq_organism>
+./Z78209.xml:  <GBSeq_organism>Aeromicrobium fastidiosum</GBSeq_organism>
+./AY082062.xml:  <GBSeq_organism>Kribbella alba</GBSeq_organism>
+./AM422451.xml:  <GBSeq_organism>Jiangella alkaliphila</GBSeq_organism>
+./AJ391817.xml:  <GBSeq_organism>Streptomyces sparsogenes</GBSeq_organism>
+./EF601829.xml:  <GBSeq_organism>Actinopolymorpha rutila</GBSeq_organism>
+./FJ157186.xml:  <GBSeq_organism>Jiangella alba</GBSeq_organism>
+./AF084529.xml:  <GBSeq_organism>Friedmanniella capsulata</GBSeq_organism>
+./AY423718.xml:  <GBSeq_organism>Nocardioides ganghwensis</GBSeq_organism>
+./Y09159.xml:  <GBSeq_organism>Kribbella koreensis</GBSeq_organism>
+./AY995146.xml:  <GBSeq_organism>Kribbella karoonensis</GBSeq_organism>
+./Y18629.xml:  <GBSeq_organism>Marmoricola aurantiacus</GBSeq_organism>
+./EU438909.xml:  <GBSeq_organism>Actinopolymorpha cephalotaxi</GBSeq_organism>
+./EU706350.xml:  <GBSeq_organism>Actinopolymorpha alba</GBSeq_organism>
+./AB271058.xml:  <GBSeq_organism>Jiangella ginsengisoli</GBSeq_organism>

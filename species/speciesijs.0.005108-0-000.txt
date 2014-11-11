@@ -1,0 +1,7 @@
+./U26418.xml:  <GBSeq_organism>Pseudomonas balearica</GBSeq_organism>
+./U26262.xml:  <GBSeq_organism>Pseudomonas stutzeri</GBSeq_organism>
+./AJ289164.xml:  <GBSeq_organism>Cellvibrio fibrivorans</GBSeq_organism>
+./EU620679.xml:  <GBSeq_organism>Pseudomonas caeni DSM 24390</GBSeq_organism>
+./AJ493583.xml:  <GBSeq_organism>Cellvibrio ostraviensis</GBSeq_organism>
+./EU620680.xml:  <GBSeq_organism>Pseudomonas caeni</GBSeq_organism>
+./AJ537601.xml:  <GBSeq_organism>Pseudomonas antarctica</GBSeq_organism>

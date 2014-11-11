@@ -1,0 +1,14 @@
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./EF433461.xml:  <GBSeq_organism>Devosia crocina</GBSeq_organism>
+./AB583776.xml:  <GBSeq_organism>Maritalea porphyrae</GBSeq_organism>
+./GO221761.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./EF433462.xml:  <GBSeq_organism>Devosia chinhatensis</GBSeq_organism>
+./EF575560.xml:  <GBSeq_organism>Devosia geojensis</GBSeq_organism>
+./AM293857.xml:  <GBSeq_organism>Devosia subaequoris</GBSeq_organism>
+./FJ560749.xml:  <GBSeq_organism>Vasilyevaea mishustinii</GBSeq_organism>
+./AJ549086.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./EF988631.xml:  <GBSeq_organism>Maritalea myrionectae</GBSeq_organism>
+./EU255260.xml:  <GBSeq_organism>Maritalea mobilis</GBSeq_organism>
+./EF433460.xml:  <GBSeq_organism>Devosia albogilva</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./AJ786801.xml:  <GBSeq_organism>Devosia limi</GBSeq_organism>

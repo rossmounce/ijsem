@@ -1,0 +1,14 @@
+./AJ582736.xml:  <GBSeq_organism>Candida glabrata</GBSeq_organism>
+./AY198398.xml:  <GBSeq_organism>Candida glabrata</GBSeq_organism>
+./AY627307.xml:  <GBSeq_organism>Candida nivariensis</GBSeq_organism>
+./AY589572.xml:  <GBSeq_organism>Candida bracarensis</GBSeq_organism>
+./AY048167.xml:  <GBSeq_organism>Naumovozyma castellii</GBSeq_organism>
+./U94922.xml:  <GBSeq_organism>Kluyveromyces lactis</GBSeq_organism>
+./U69878.xml:  <GBSeq_organism>Candida humilis</GBSeq_organism>
+./U69876.xml:  <GBSeq_organism>Candida castellii</GBSeq_organism>
+./AF313362.xml:  <GBSeq_organism>Candida nivariensis</GBSeq_organism>
+./AY048164.xml:  <GBSeq_organism>Kazachstania barnettii</GBSeq_organism>
+./U68552.xml:  <GBSeq_organism>Lachancea kluyveri</GBSeq_organism>
+./AY198400.xml:  <GBSeq_organism>Nakaseomyces delphensis</GBSeq_organism>
+./AF121252.xml:  <GBSeq_organism>Kazachstania turicensis</GBSeq_organism>
+./U94924.xml:  <GBSeq_organism>Kluyveromyces marxianus</GBSeq_organism>

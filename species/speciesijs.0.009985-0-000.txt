@@ -1,0 +1,16 @@
+./AJ242633.xml:  <GBSeq_organism>Lentzea violacea</GBSeq_organism>
+./X76965.xml:  <GBSeq_organism>Saccharothrix mutabilis subsp. capreolus</GBSeq_organism>
+./AF114807.xml:  <GBSeq_organism>Saccharothrix espanaensis</GBSeq_organism>
+./AF114808.xml:  <GBSeq_organism>Lechevalieria flava</GBSeq_organism>
+./AF114814.xml:  <GBSeq_organism>Saccharothrix texasensis</GBSeq_organism>
+./EU551684.xml:  <GBSeq_organism>Lechevalieria atacamensis</GBSeq_organism>
+./EU551682.xml:  <GBSeq_organism>Lechevalieria deserti</GBSeq_organism>
+./AF174435.xml:  <GBSeq_organism>Lentzea californiensis</GBSeq_organism>
+./AB020031.xml:  <GBSeq_organism>Umezawaea tangerina</GBSeq_organism>
+./X84447.xml:  <GBSeq_organism>Actinosynnema mirum DSM 43827</GBSeq_organism>
+./X76966.xml:  <GBSeq_organism>Saccharothrix mutabilis</GBSeq_organism>
+./AY135693.xml:  <GBSeq_organism>Saccharothrix xinjiangensis</GBSeq_organism>
+./AF183957.xml:  <GBSeq_organism>Lentzea flaviverrucosa</GBSeq_organism>
+./X84321.xml:  <GBSeq_organism>Lentzea albidocapillata</GBSeq_organism>
+./EU551683.xml:  <GBSeq_organism>Lechevalieria roselyniae</GBSeq_organism>
+./AF114800.xml:  <GBSeq_organism>Actinosynnema pretiosum subsp. pretiosum</GBSeq_organism>

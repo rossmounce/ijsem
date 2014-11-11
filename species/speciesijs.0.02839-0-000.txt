@@ -1,0 +1,33 @@
+./AJ558207.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AJ558233.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AJ558218.xml:  <GBSeq_organism>Helicobacter canis</GBSeq_organism>
+./AJ558204.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./AJ558215.xml:  <GBSeq_organism>Helicobacter pametensis</GBSeq_organism>
+./AJ558223.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558219.xml:  <GBSeq_organism>Helicobacter mustelae</GBSeq_organism>
+./AJ558209.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>
+./AE000511.xml:  <GBSeq_organism>Helicobacter pylori 26695</GBSeq_organism>
+./AJ558226.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558211.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AJ558200.xml:  <GBSeq_organism>Helicobacter muridarum</GBSeq_organism>
+./AJ558225.xml:  <GBSeq_organism>Helicobacter salomonis</GBSeq_organism>
+./AJ558231.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AJ558230.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AJ558214.xml:  <GBSeq_organism>Helicobacter cholecystus</GBSeq_organism>
+./AJ558208.xml:  <GBSeq_organism>Helicobacter bilis ATCC 43879</GBSeq_organism>
+./AJ558220.xml:  <GBSeq_organism>Helicobacter acinonychis</GBSeq_organism>
+./AJ558232.xml:  <GBSeq_organism>Helicobacter bizzozeronii</GBSeq_organism>
+./AJ558221.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AJ558235.xml:  <GBSeq_organism>Helicobacter bizzozeronii CCUG 35545</GBSeq_organism>
+./AJ558228.xml:  <GBSeq_organism>Helicobacter felis ATCC 49179</GBSeq_organism>
+./AJ558206.xml:  <GBSeq_organism>Helicobacter bilis</GBSeq_organism>
+./AJ558212.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira str. FL56&apos;</GBSeq_organism>
+./AJ558213.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira str. FL56&apos;</GBSeq_organism>
+./AJ558229.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AY044098.xml:  <GBSeq_organism>Campylobacter coli</GBSeq_organism>
+./AJ558227.xml:  <GBSeq_organism>Helicobacter felis</GBSeq_organism>
+./AJ558210.xml:  <GBSeq_organism>Helicobacter sp. &apos;Flexispira str. FL56&apos;</GBSeq_organism>
+./AF479030.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AJ558217.xml:  <GBSeq_organism>Helicobacter hepaticus</GBSeq_organism>
+./X73840.xml:  <GBSeq_organism>Helicobacter pylori</GBSeq_organism>
+./AJ558201.xml:  <GBSeq_organism>Helicobacter trogontum</GBSeq_organism>

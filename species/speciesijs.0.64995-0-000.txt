@@ -1,0 +1,7 @@
+./AF143511.xml:  <GBSeq_organism>Alkalibacterium olivapovliticus</GBSeq_organism>
+./X70907.xml:  <GBSeq_organism>Dolosigranulum pigrum</GBSeq_organism>
+./AY485792.xml:  <GBSeq_organism>Marinilactibacillus piezotolerans</GBSeq_organism>
+./X98395.xml:  <GBSeq_organism>Clostridium sp.</GBSeq_organism>
+./AB125938.xml:  <GBSeq_organism>Alkalibacterium psychrotolerans</GBSeq_organism>
+./AB188091.xml:  <GBSeq_organism>Alkalibacterium iburiense</GBSeq_organism>
+./X59765.xml:  <GBSeq_organism>Alloiococcus otitis</GBSeq_organism>

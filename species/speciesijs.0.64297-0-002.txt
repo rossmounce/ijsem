@@ -1,0 +1,23 @@
+./Z29975.xml:  <GBSeq_organism>Acidithiobacillus caldus ATCC 51756</GBSeq_organism>
+./M59150.xml:  <GBSeq_organism>Thermochromatium tepidum ATCC 43061</GBSeq_organism>
+./AJ223234.xml:  <GBSeq_organism>Chromatium okenii</GBSeq_organism>
+./M59151.xml:  <GBSeq_organism>Ectothiorhodospira shaposhnikovii</GBSeq_organism>
+./X72771.xml:  <GBSeq_organism>Methylococcus capsulatus str. Bath</GBSeq_organism>
+./AJ242772.xml:  <GBSeq_organism>Thiocapsa litoralis</GBSeq_organism>
+./AY129113.xml:  <GBSeq_organism>endosymbiont of Lamellibrachia barhami</GBSeq_organism>
+./M96395.xml:  <GBSeq_organism>Nitrosococcus oceani</GBSeq_organism>
+./U62130.xml:  <GBSeq_organism>Solemya pusilla gill symbiont</GBSeq_organism>
+./L40810.xml:  <GBSeq_organism>Thiomicrospira crunogena</GBSeq_organism>
+./X72768.xml:  <GBSeq_organism>Desulfurella acetivorans A63</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./AY129120.xml:  <GBSeq_organism>endosymbiont of Ridgeia piscesae</GBSeq_organism>
+./L40993.xml:  <GBSeq_organism>Thiothrix nivea DSM 5205</GBSeq_organism>
+./L42543.xml:  <GBSeq_organism>Achromatium oxaliferum</GBSeq_organism>
+./AF126546.xml:  <GBSeq_organism>Thioalkalivibrio versutus AL 2</GBSeq_organism>
+./L40994.xml:  <GBSeq_organism>Beggiatoa alba</GBSeq_organism>
+./AB166731.xml:  <GBSeq_organism>Thiomicrospira thermophila</GBSeq_organism>
+./AF126548.xml:  <GBSeq_organism>Thioalkalimicrobium aerophilum AL3</GBSeq_organism>
+./L40998.xml:  <GBSeq_organism>Thioploca ingrica</GBSeq_organism>
+./AB214932.xml:  <GBSeq_organism>Alviniconcha hessleri gill endosymbiont</GBSeq_organism>
+./L79962.xml:  <GBSeq_organism>Thiothrix fructosivorans</GBSeq_organism>
+./M99451.xml:  <GBSeq_organism>Riftia pachyptila trophosome symbiont</GBSeq_organism>

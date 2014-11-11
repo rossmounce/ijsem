@@ -1,0 +1,11 @@
+./AF450136.xml:  <GBSeq_organism>Carnobacterium pleistocenium FTR1</GBSeq_organism>
+./X54269.xml:  <GBSeq_organism>Carnobacterium gallinarum</GBSeq_organism>
+./AF425608.xml:  <GBSeq_organism>Carnobacterium viridans</GBSeq_organism>
+./AJ306612.xml:  <GBSeq_organism>Trichococcus collinsii</GBSeq_organism>
+./X54420.xml:  <GBSeq_organism>Carnobacterium maltaromaticum</GBSeq_organism>
+./Y17301.xml:  <GBSeq_organism>Trichococcus flocculiformis</GBSeq_organism>
+./AJ296179.xml:  <GBSeq_organism>Trichococcus palustris</GBSeq_organism>
+./AF394926.xml:  <GBSeq_organism>Trichococcus patagoniensis</GBSeq_organism>
+./AJ302648.xml:  <GBSeq_organism>Isobaculum melis</GBSeq_organism>
+./X87150.xml:  <GBSeq_organism>Trichococcus pasteurii</GBSeq_organism>
+./L08623.xml:  <GBSeq_organism>Carnobacterium alterfunditum</GBSeq_organism>

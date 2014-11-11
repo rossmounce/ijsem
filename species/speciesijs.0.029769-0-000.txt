@@ -1,0 +1,29 @@
+./AM180953.xml:  <GBSeq_organism>Rhodovulum imhoffii</GBSeq_organism>
+./AM748926.xml:  <GBSeq_organism>Rhodobacter aestuarii</GBSeq_organism>
+./D88522.xml:  <GBSeq_organism>Pseudorhodobacter ferrugineus</GBSeq_organism>
+./D32241.xml:  <GBSeq_organism>Paracoccus kocurii</GBSeq_organism>
+./D16423.xml:  <GBSeq_organism>Rhodovulum sulfidophilum DSM 1374</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./D16419.xml:  <GBSeq_organism>Rhodovulum strictum</GBSeq_organism>
+./AM748927.xml:  <GBSeq_organism>Rhodovulum kholense</GBSeq_organism>
+./AM399030.xml:  <GBSeq_organism>Gemmobacter changlensis</GBSeq_organism>
+./AY005463.xml:  <GBSeq_organism>Leisingera methylohalidivorans DSM 14336</GBSeq_organism>
+./X58855.xml:  <GBSeq_organism>Homo sapiens</GBSeq_organism>
+./Y15012.xml:  <GBSeq_organism>Rhodovulum robiginosum</GBSeq_organism>
+./AF248638.xml:  <GBSeq_organism>Rhodobaca bogoriensis DSM 18756</GBSeq_organism>
+./EU741680.xml:  <GBSeq_organism>Rhodovulum steppense</GBSeq_organism>
+./D70846.xml:  <GBSeq_organism>Rhodobacter azotoformans</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./D16418.xml:  <GBSeq_organism>Rhodovulum adriaticum</GBSeq_organism>
+./D85829.xml:  <GBSeq_organism>Roseivivax halodurans</GBSeq_organism>
+./AM180707.xml:  <GBSeq_organism>Rhodovulum visakhapatnamense</GBSeq_organism>
+./GU086365.xml:  <GBSeq_organism>Pseudorhodobacter aquimaris</GBSeq_organism>
+./D16421.xml:  <GBSeq_organism>Rhodobacter veldkampii DSM 11550</GBSeq_organism>
+./AM690348.xml:  <GBSeq_organism>Rhodobacter ovatus</GBSeq_organism>
+./D16426.xml:  <GBSeq_organism>Rhodovulum euryhalinum</GBSeq_organism>
+./AF465833.xml:  <GBSeq_organism>Albidovulum inexpectatum</GBSeq_organism>
+./AJ428275.xml:  <GBSeq_organism>Paracoccus seriniphilus</GBSeq_organism>
+./AM421024.xml:  <GBSeq_organism>Rhodobacter megalophilus</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./D88526.xml:  <GBSeq_organism>Ruegeria atlantica</GBSeq_organism>
+./AJ891122.xml:  <GBSeq_organism>Rhodovulum marinum</GBSeq_organism>

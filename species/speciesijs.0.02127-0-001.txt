@@ -1,0 +1,7 @@
+./AF288306.xml:  <GBSeq_organism>Bosea vestrisii 34635</GBSeq_organism>
+./M65248.xml:  <GBSeq_organism>Afipia felis ATCC 53690</GBSeq_organism>
+./AF239846.xml:  <GBSeq_organism>Bradyrhizobium elkanii</GBSeq_organism>
+./M69186.xml:  <GBSeq_organism>Afipia clevelandensis ATCC 49720</GBSeq_organism>
+./AF204274.xml:  <GBSeq_organism>Bartonella birtlesii</GBSeq_organism>
+./AF508803.xml:  <GBSeq_organism>Bosea thiooxidans</GBSeq_organism>
+./X94200.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>

@@ -1,0 +1,18 @@
+./AJ227808.xml:  <GBSeq_organism>Maricaulis parjimensis</GBSeq_organism>
+./X80725.xml:  <GBSeq_organism>Escherichia coli DSM 30083 = JCM 1649 = ATCC 11775</GBSeq_organism>
+./AF082795.xml:  <GBSeq_organism>Hyphomonas rosenbergii</GBSeq_organism>
+./AJ227813.xml:  <GBSeq_organism>Hyphomonas polymorpha</GBSeq_organism>
+./AF082797.xml:  <GBSeq_organism>Hyphomonas oceanitis</GBSeq_organism>
+./X52909.xml:  <GBSeq_organism>Hirschia baltica ATCC 49814</GBSeq_organism>
+./AJ578476.xml:  <GBSeq_organism>Woodsholea maritima</GBSeq_organism>
+./AY576758.xml:  <GBSeq_organism>Hellea balneolensis</GBSeq_organism>
+./AJ227814.xml:  <GBSeq_organism>Hyphomonas jannaschiana</GBSeq_organism>
+./AF082794.xml:  <GBSeq_organism>Hyphomonas hirschiana</GBSeq_organism>
+./AJ227806.xml:  <GBSeq_organism>Maricaulis salignorans</GBSeq_organism>
+./EF660760.xml:  <GBSeq_organism>Henriciella marina</GBSeq_organism>
+./AJ309862.xml:  <GBSeq_organism>Oceanicaulis alexandrii</GBSeq_organism>
+./AF082790.xml:  <GBSeq_organism>Hyphomonas adhaerens</GBSeq_organism>
+./AF082791.xml:  <GBSeq_organism>Hyphomonas johnsonii</GBSeq_organism>
+./EU819081.xml:  <GBSeq_organism>Henriciella aquimarina</GBSeq_organism>
+./AF082798.xml:  <GBSeq_organism>Hyphomonas neptunium</GBSeq_organism>
+./EF495229.xml:  <GBSeq_organism>Robiginitomaculum antarcticum</GBSeq_organism>

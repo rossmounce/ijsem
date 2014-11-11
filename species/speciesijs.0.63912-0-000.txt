@@ -1,0 +1,28 @@
+./AY007196.xml:  <GBSeq_organism>Methylocystis sp. WRS</GBSeq_organism>
+./Y18946.xml:  <GBSeq_organism>Methylosinus sporium</GBSeq_organism>
+./AJ458472.xml:  <GBSeq_organism>Methylocystis sp. IMET 10489</GBSeq_organism>
+./AJ458470.xml:  <GBSeq_organism>Methylocystis sp. IMET 10484</GBSeq_organism>
+./AJ458475.xml:  <GBSeq_organism>Methylocystis sp. 51</GBSeq_organism>
+./AJ458479.xml:  <GBSeq_organism>Methylocystis sp. 42/22</GBSeq_organism>
+./AJ458466.xml:  <GBSeq_organism>Methylocystis sp. 62/12</GBSeq_organism>
+./AJ458473.xml:  <GBSeq_organism>Methylocystis echinoides</GBSeq_organism>
+./AJ458493.xml:  <GBSeq_organism>Methylocystis sp. KS8a</GBSeq_organism>
+./Y18945.xml:  <GBSeq_organism>Methylocystis parvus OBBP</GBSeq_organism>
+./AJ458501.xml:  <GBSeq_organism>Methylocystis sp. 39</GBSeq_organism>
+./U81595.xml:  <GBSeq_organism>Methylocystis sp. M</GBSeq_organism>
+./AJ458503.xml:  <GBSeq_organism>Methylocystis sp. M31</GBSeq_organism>
+./AF153281.xml:  <GBSeq_organism>Methylocystis sp. WI14</GBSeq_organism>
+./AF487378.xml:  <GBSeq_organism>type II methanotroph CSC-1</GBSeq_organism>
+./AJ431384.xml:  <GBSeq_organism>Methylocystis sp. SC2</GBSeq_organism>
+./AJ458507.xml:  <GBSeq_organism>Methylocystis sp. 82</GBSeq_organism>
+./Y18947.xml:  <GBSeq_organism>Methylosinus trichosporium OB3b</GBSeq_organism>
+./AJ458499.xml:  <GBSeq_organism>Methylocystis sp. M42/1</GBSeq_organism>
+./AJ458484.xml:  <GBSeq_organism>Methylocystis sp. 50/42a</GBSeq_organism>
+./AF150790.xml:  <GBSeq_organism>Methylocystis sp. LW5</GBSeq_organism>
+./AF177298.xml:  <GBSeq_organism>type II methanotroph AML-A3</GBSeq_organism>
+./AF177299.xml:  <GBSeq_organism>type II methanotroph AML-A6</GBSeq_organism>
+./AJ458506.xml:  <GBSeq_organism>Methylocystis sp. KS33</GBSeq_organism>
+./AJ458510.xml:  <GBSeq_organism>Methylocystis sp. 50/54</GBSeq_organism>
+./AJ458467.xml:  <GBSeq_organism>Methylocystis sp. 495/4</GBSeq_organism>
+./AJ458498.xml:  <GBSeq_organism>Methylocystis sp. KS7</GBSeq_organism>
+./AJ458471.xml:  <GBSeq_organism>Methylocystis sp. IMET 10486</GBSeq_organism>

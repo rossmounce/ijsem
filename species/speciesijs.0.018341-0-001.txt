@@ -1,0 +1,12 @@
+./FN597608.xml:  <GBSeq_organism>Cupriavidus basilensis</GBSeq_organism>
+./AB104447.xml:  <GBSeq_organism>Cupriavidus numazuensis</GBSeq_organism>
+./FN430567.xml:  <GBSeq_organism>Cupriavidus pampae</GBSeq_organism>
+./AF085226.xml:  <GBSeq_organism>Cupriavidus pauculus</GBSeq_organism>
+./X67036.xml:  <GBSeq_organism>Ralstonia solanacearum K60-1</GBSeq_organism>
+./Y10824.xml:  <GBSeq_organism>Cupriavidus metallidurans CH34</GBSeq_organism>
+./AF191737.xml:  <GBSeq_organism>Cupriavidus necator</GBSeq_organism>
+./FN597610.xml:  <GBSeq_organism>Cupriavidus oxalaticus</GBSeq_organism>
+./AF500583.xml:  <GBSeq_organism>Cupriavidus respiraculi</GBSeq_organism>
+./AY741342.xml:  <GBSeq_organism>Ralstonia pickettii</GBSeq_organism>
+./AF300324.xml:  <GBSeq_organism>Cupriavidus taiwanensis LMG 19424</GBSeq_organism>
+./FN597609.xml:  <GBSeq_organism>Cupriavidus laharis</GBSeq_organism>

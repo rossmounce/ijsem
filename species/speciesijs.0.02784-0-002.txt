@@ -1,0 +1,43 @@
+./AY227434.xml:  <GBSeq_organism>Xanthomonas vesicatoria</GBSeq_organism>
+./AY227401.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227421.xml:  <GBSeq_organism>Xanthomonas perforans</GBSeq_organism>
+./AY227407.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227414.xml:  <GBSeq_organism>Xanthomonas alfalfae subsp. citrumelonis</GBSeq_organism>
+./AY227419.xml:  <GBSeq_organism>Xanthomonas perforans</GBSeq_organism>
+./AY227394.xml:  <GBSeq_organism>Xanthomonas arboricola</GBSeq_organism>
+./AY227415.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. fici</GBSeq_organism>
+./AY227411.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227399.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. dieffenbachiae</GBSeq_organism>
+./AY227424.xml:  <GBSeq_organism>Xanthomonas campestris pv. campestris</GBSeq_organism>
+./AV227405.xml:  <GBSeq_organism>Mus musculus</GBSeq_organism>
+./AE012486.xml:  <GBSeq_organism>Xanthomonas campestris pv. campestris str. ATCC 33913</GBSeq_organism>
+./AY227402.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227430.xml:  <GBSeq_organism>Xanthomonas oryzae</GBSeq_organism>
+./AE004943.xml:  <GBSeq_organism>Pseudomonas aeruginosa PAO1</GBSeq_organism>
+./AY227428.xml:  <GBSeq_organism>Xanthomonas melonis</GBSeq_organism>
+./AY227404.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227413.xml:  <GBSeq_organism>Xanthomonas alfalfae subsp. citrumelonis</GBSeq_organism>
+./AY227435.xml:  <GBSeq_organism>Xanthomonas vesicatoria</GBSeq_organism>
+./AY227418.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. malvacearum</GBSeq_organism>
+./AY227429.xml:  <GBSeq_organism>Xanthomonas oryzae</GBSeq_organism>
+./AY227403.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227409.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227433.xml:  <GBSeq_organism>Xanthomonas vesicatoria</GBSeq_organism>
+./AL646061.xml:  <GBSeq_organism>Ralstonia solanacearum</GBSeq_organism>
+./AY227397.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. aurantifolii</GBSeq_organism>
+./AE012019.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. citri str. 306</GBSeq_organism>
+./AY227431.xml:  <GBSeq_organism>Xanthomonas pisi</GBSeq_organism>
+./AY227420.xml:  <GBSeq_organism>Xanthomonas perforans</GBSeq_organism>
+./AY227400.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. dieffenbachiae</GBSeq_organism>
+./AY227396.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. aurantifolii</GBSeq_organism>
+./AY227425.xml:  <GBSeq_organism>Xanthomonas cassavae CFBP 4642</GBSeq_organism>
+./AY227417.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. malvacearum</GBSeq_organism>
+./AY227412.xml:  <GBSeq_organism>Xanthomonas alfalfae subsp. citrumelonis</GBSeq_organism>
+./AY227427.xml:  <GBSeq_organism>Xanthomonas cucurbitae</GBSeq_organism>
+./AY227410.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227426.xml:  <GBSeq_organism>Xanthomonas codiaei</GBSeq_organism>
+./AY227406.xml:  <GBSeq_organism>Xanthomonas citri</GBSeq_organism>
+./AY227423.xml:  <GBSeq_organism>Xanthomonas bromi</GBSeq_organism>
+./AY227395.xml:  <GBSeq_organism>Xanthomonas axonopodis pv. aurantifolii</GBSeq_organism>
+./AY227432.xml:  <GBSeq_organism>Xanthomonas vesicatoria</GBSeq_organism>
+./AY227422.xml:  <GBSeq_organism>Xanthomonas perforans</GBSeq_organism>

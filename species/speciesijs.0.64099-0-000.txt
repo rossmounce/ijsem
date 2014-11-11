@@ -1,0 +1,35 @@
+./X16895.xml:  <GBSeq_organism>Vibrio anguillarum</GBSeq_organism>
+./D25310.xml:  <GBSeq_organism>Photobacterium phosphoreum</GBSeq_organism>
+./AY538749.xml:  <GBSeq_organism>Photobacterium frigidiphilum</GBSeq_organism>
+./X56582.xml:  <GBSeq_organism>Vibrio vulnificus NBRC 15645 = ATCC 27562</GBSeq_organism>
+./X74707.xml:  <GBSeq_organism>Grimontia hollisae</GBSeq_organism>
+./AJ310647.xml:  <GBSeq_organism>Vibrio agarivorans</GBSeq_organism>
+./X74690.xml:  <GBSeq_organism>Vibrio alginolyticus</GBSeq_organism>
+./X74716.xml:  <GBSeq_organism>Vibrio nereis</GBSeq_organism>
+./X74710.xml:  <GBSeq_organism>Vibrio mediterranei</GBSeq_organism>
+./X76337.xml:  <GBSeq_organism>Vibrio cholerae</GBSeq_organism>
+./AJ316171.xml:  <GBSeq_organism>Vibrio neptunius</GBSeq_organism>
+./D25309.xml:  <GBSeq_organism>Photobacterium leiognathi</GBSeq_organism>
+./AY960847.xml:  <GBSeq_organism>Photobacterium ganghwense</GBSeq_organism>
+./AY551089.xml:  <GBSeq_organism>Photobacterium halotolerans</GBSeq_organism>
+./AY781193.xml:  <GBSeq_organism>Photobacterium aplysiae</GBSeq_organism>
+./D25307.xml:  <GBSeq_organism>Photobacterium angustum</GBSeq_organism>
+./X74705.xml:  <GBSeq_organism>Vibrio gazogenes</GBSeq_organism>
+./AJ316208.xml:  <GBSeq_organism>Enterovibrio norvegicus</GBSeq_organism>
+./AY254039.xml:  <GBSeq_organism>Vibrio hispanicus</GBSeq_organism>
+./AY554009.xml:  <GBSeq_organism>Photobacterium lipolyticum</GBSeq_organism>
+./X74720.xml:  <GBSeq_organism>Vibrio parahaemolyticus</GBSeq_organism>
+./AM162657.xml:  <GBSeq_organism>Vibrio kanaloae</GBSeq_organism>
+./X74708.xml:  <GBSeq_organism>Aliivibrio logei</GBSeq_organism>
+./X78105.xml:  <GBSeq_organism>Photobacterium damselae</GBSeq_organism>
+./AJ440005.xml:  <GBSeq_organism>Vibrio coralliilyticus ATCC BAA-450</GBSeq_organism>
+./AJ842344.xml:  <GBSeq_organism>Photobacterium rosenbergii</GBSeq_organism>
+./AJ842343.xml:  <GBSeq_organism>Enterovibrio coralii</GBSeq_organism>
+./X99761.xml:  <GBSeq_organism>Vibrio mytili</GBSeq_organism>
+./X74689.xml:  <GBSeq_organism>Vibrio aestuarianus</GBSeq_organism>
+./D21226.xml:  <GBSeq_organism>Photobacterium profundum</GBSeq_organism>
+./X74722.xml:  <GBSeq_organism>Vibrio pelagius</GBSeq_organism>
+./X95527.xml:  <GBSeq_organism>Salinivibrio costicola</GBSeq_organism>
+./X74723.xml:  <GBSeq_organism>Vibrio proteolyticus</GBSeq_organism>
+./AF118021.xml:  <GBSeq_organism>Enterovibrio calviensis</GBSeq_organism>
+./X74702.xml:  <GBSeq_organism>Aliivibrio fischeri</GBSeq_organism>

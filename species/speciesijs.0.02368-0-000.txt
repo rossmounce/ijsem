@@ -1,0 +1,17 @@
+./AB025190.xml:  <GBSeq_organism>Paracoccus sp. MBIC4019</GBSeq_organism>
+./AF461158.xml:  <GBSeq_organism>Paracoccus zeaxanthinifaciens</GBSeq_organism>
+./D32241.xml:  <GBSeq_organism>Paracoccus kocurii</GBSeq_organism>
+./Y12703.xml:  <GBSeq_organism>Paracoccus marcusii</GBSeq_organism>
+./Y16927.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./D32239.xml:  <GBSeq_organism>Paracoccus aminophilus</GBSeq_organism>
+./D32240.xml:  <GBSeq_organism>Paracoccus aminovorans</GBSeq_organism>
+./Y13827.xml:  <GBSeq_organism>Paracoccus alkenifer</GBSeq_organism>
+./AF250332.xml:  <GBSeq_organism>Paracoccus kondratievae</GBSeq_organism>
+./Y16933.xml:  <GBSeq_organism>Paracoccus pantotrophus</GBSeq_organism>
+./AB025188.xml:  <GBSeq_organism>Paracoccus sp. MBIC4017</GBSeq_organism>
+./D32243.xml:  <GBSeq_organism>Paracoccus versutus</GBSeq_organism>
+./AB006899.xml:  <GBSeq_organism>Paracoccus carotinifaciens</GBSeq_organism>
+./D32238.xml:  <GBSeq_organism>Paracoccus alcaliphilus</GBSeq_organism>
+./AF250334.xml:  <GBSeq_organism>Paracoccus methylutens</GBSeq_organism>
+./AB025192.xml:  <GBSeq_organism>Paracoccus sp. MBIC4036</GBSeq_organism>
+./AF461159.xml:  <GBSeq_organism>Paracoccus zeaxanthinifaciens</GBSeq_organism>

@@ -1,0 +1,7 @@
+./Y16716.xml:  <GBSeq_organism>Natronincola histidinovorans</GBSeq_organism>
+./Y15626.xml:  <GBSeq_organism>Tindallia magadiensis</GBSeq_organism>
+./L11304.xml:  <GBSeq_organism>[Clostridium] thermoalcaliphilum</GBSeq_organism>
+./X60646.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>
+./AF467248.xml:  <GBSeq_organism>Alkaliphilus crotonatoxidans</GBSeq_organism>
+./Y18183.xml:  <GBSeq_organism>Clostridium aceticum</GBSeq_organism>
+./X77851.xml:  <GBSeq_organism>Clostridium felsineum</GBSeq_organism>

@@ -1,0 +1,21 @@
+./AF181534.xml:  <GBSeq_organism>Cryptococcus cylindricus</GBSeq_organism>
+./AY731792.xml:  <GBSeq_organism>Cryptococcus sp. SDY 169</GBSeq_organism>
+./EU002812.xml:  <GBSeq_organism>Filobasidium sp. CBS 10188</GBSeq_organism>
+./EU002814.xml:  <GBSeq_organism>Filobasidium sp. CBS 10190</GBSeq_organism>
+./EF621562.xml:  <GBSeq_organism>Cryptococcus keelungensis</GBSeq_organism>
+./EU002813.xml:  <GBSeq_organism>Filobasidium sp. CBS 10189</GBSeq_organism>
+./AF181503.xml:  <GBSeq_organism>Cryptococcus socialis</GBSeq_organism>
+./AF137601.xml:  <GBSeq_organism>Cryptococcus albidosimilis</GBSeq_organism>
+./AY731793.xml:  <GBSeq_organism>Cryptococcus sp. SDY 170</GBSeq_organism>
+./AF181515.xml:  <GBSeq_organism>Cryptococcus liquefaciens</GBSeq_organism>
+./AF181530.xml:  <GBSeq_organism>Cryptococcus chernovii</GBSeq_organism>
+./AF181541.xml:  <GBSeq_organism>Cryptococcus wieringae</GBSeq_organism>
+./AF181520.xml:  <GBSeq_organism>Cryptococcus terricola</GBSeq_organism>
+./AF181547.xml:  <GBSeq_organism>Cryptococcus gilvescens</GBSeq_organism>
+./AF181851.xml:  <GBSeq_organism>Cryptococcus magnus</GBSeq_organism>
+./AF137600.xml:  <GBSeq_organism>Cryptococcus gastricus</GBSeq_organism>
+./AF189831.xml:  <GBSeq_organism>Mrakia gelida</GBSeq_organism>
+./AF181519.xml:  <GBSeq_organism>Cryptococcus oeirensis</GBSeq_organism>
+./AF181502.xml:  <GBSeq_organism>Cryptococcus himalayensis</GBSeq_organism>
+./AY731794.xml:  <GBSeq_organism>Cryptococcus sp. SDY 235</GBSeq_organism>
+./AF181523.xml:  <GBSeq_organism>Cryptococcus phenolicus</GBSeq_organism>

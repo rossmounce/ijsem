@@ -1,0 +1,41 @@
+./AY728284.xml:  <GBSeq_organism>Paenibacillus glucanolyticus</GBSeq_organism>
+./AB468056.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./AB468057.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>
+./AB469018.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>
+./AY728283.xml:  <GBSeq_organism>Paenibacillus campinasensis</GBSeq_organism>
+./AF478099.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./EU272024.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./AB468054.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. defensor</GBSeq_organism>
+./AY728292.xml:  <GBSeq_organism>Paenibacillus amylolyticus</GBSeq_organism>
+./AB468953.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. defensor</GBSeq_organism>
+./FJ009515.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./AY728279.xml:  <GBSeq_organism>Paenibacillus validus</GBSeq_organism>
+./EU272026.xml:  <GBSeq_organism>Paenibacillus illinoisensis</GBSeq_organism>
+./AB468055.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. defensor</GBSeq_organism>
+./AB469015.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. defensor</GBSeq_organism>
+./AY728293.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./AY493867.xml:  <GBSeq_organism>Paenibacillus durus</GBSeq_organism>
+./AB469017.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./AY728280.xml:  <GBSeq_organism>Paenibacillus naphthalenovorans</GBSeq_organism>
+./AY728291.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./AY728282.xml:  <GBSeq_organism>Paenibacillus lactis</GBSeq_organism>
+./AF478098.xml:  <GBSeq_organism>Paenibacillus alvei DSM 29</GBSeq_organism>
+./EU272028.xml:  <GBSeq_organism>Paenibacillus xylanilyticus</GBSeq_organism>
+./AB468952.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. defensor</GBSeq_organism>
+./AB468955.xml:  <GBSeq_organism>Paenibacillus antarcticus</GBSeq_organism>
+./EU272025.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./AF478106.xml:  <GBSeq_organism>Paenibacillus larvae</GBSeq_organism>
+./AF478100.xml:  <GBSeq_organism>Paenibacillus lautus</GBSeq_organism>
+./AB469016.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. defensor</GBSeq_organism>
+./AY728278.xml:  <GBSeq_organism>Paenibacillus ehimensis</GBSeq_organism>
+./EU711069.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY728294.xml:  <GBSeq_organism>Paenibacillus massiliensis</GBSeq_organism>
+./EU272027.xml:  <GBSeq_organism>Paenibacillus barcinonensis</GBSeq_organism>
+./AF478102.xml:  <GBSeq_organism>Paenibacillus pabuli</GBSeq_organism>
+./AF478101.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./EU272029.xml:  <GBSeq_organism>Paenibacillus taichungensis</GBSeq_organism>
+./AB468954.xml:  <GBSeq_organism>Paenibacillus macquariensis subsp. macquariensis</GBSeq_organism>
+./AY493863.xml:  <GBSeq_organism>Paenibacillus macerans</GBSeq_organism>
+./AY493864.xml:  <GBSeq_organism>Paenibacillus polymyxa</GBSeq_organism>
+./AY728290.xml:  <GBSeq_organism>Paenibacillus curdlanolyticus YK9</GBSeq_organism>
+./FJ009513.xml:  <GBSeq_organism>Paenibacillus apiarius</GBSeq_organism>

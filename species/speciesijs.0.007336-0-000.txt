@@ -1,0 +1,7 @@
+./AJ493051.xml:  <GBSeq_organism>Desulfosporosinus auripigmenti</GBSeq_organism>
+./L28946.xml:  <GBSeq_organism>Desulfitobacterium dehalogenans ATCC 51507</GBSeq_organism>
+./U84497.xml:  <GBSeq_organism>Dehalobacter restrictus DSM 9455</GBSeq_organism>
+./AJ582757.xml:  <GBSeq_organism>Desulfosporosinus lacus</GBSeq_organism>
+./X94975.xml:  <GBSeq_organism>Desulfitobacterium hafniense DCB-2</GBSeq_organism>
+./DQ117470.xml:  <GBSeq_organism>Desulfosporosinus youngiae DSM 17734</GBSeq_organism>
+./AY233860.xml:  <GBSeq_organism>Desulfosporosinus sp. Y5</GBSeq_organism>

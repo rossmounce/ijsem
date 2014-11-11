@@ -1,0 +1,11 @@
+./D89332.xml:  <GBSeq_organism>Scardovia inopinata JCM 12537</GBSeq_organism>
+./U10151.xml:  <GBSeq_organism>Bifidobacterium thermophilum</GBSeq_organism>
+./D89331.xml:  <GBSeq_organism>Parascardovia denticolens DSM 10105 = JCM 12538</GBSeq_organism>
+./EF187235.xml:  <GBSeq_organism>Bifidobacterium asteroides</GBSeq_organism>
+./M58733.xml:  <GBSeq_organism>Bifidobacterium coryneforme</GBSeq_organism>
+./M84777.xml:  <GBSeq_organism>Bifidobacterium bifidum</GBSeq_organism>
+./M58744.xml:  <GBSeq_organism>Gardnerella vaginalis ATCC 14018 = JCM 11026</GBSeq_organism>
+./D86196.xml:  <GBSeq_organism>Bifidobacterium pullorum</GBSeq_organism>
+./AY148470.xml:  <GBSeq_organism>Bifidobacterium thermacidophilum subsp. porcinum</GBSeq_organism>
+./D86190.xml:  <GBSeq_organism>Bifidobacterium boum</GBSeq_organism>
+./D89328.xml:  <GBSeq_organism>Bifidobacterium saeculare DSM 6531 = LMG 14934</GBSeq_organism>

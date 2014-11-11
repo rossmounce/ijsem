@@ -1,0 +1,11 @@
+./AJ420198.xml:  <GBSeq_organism>Streptococcus criceti</GBSeq_organism>
+./AB501126.xml:  <GBSeq_organism>Streptococcus ursoris</GBSeq_organism>
+./AJ420201.xml:  <GBSeq_organism>Streptococcus ratti</GBSeq_organism>
+./EU003702.xml:  <GBSeq_organism>Streptococcus pasteurianus</GBSeq_organism>
+./AY769997.xml:  <GBSeq_organism>Streptococcus massiliensis</GBSeq_organism>
+./AB469560.xml:  <GBSeq_organism>Streptococcus dentapri</GBSeq_organism>
+./AY584479.xml:  <GBSeq_organism>Streptococcus ferus</GBSeq_organism>
+./AY188348.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./AY188351.xml:  <GBSeq_organism>Streptococcus macacae NCTC 11558</GBSeq_organism>
+./AB182324.xml:  <GBSeq_organism>Streptococcus orisuis</GBSeq_organism>
+./AJ564067.xml:  <GBSeq_organism>Streptococcus devriesei</GBSeq_organism>

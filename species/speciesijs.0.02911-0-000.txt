@@ -1,0 +1,9 @@
+./AB110421.xml:  <GBSeq_organism>Saccharibacter floricola</GBSeq_organism>
+./X73820.xml:  <GBSeq_organism>Gluconobacter oxydans</GBSeq_organism>
+./X82290.xml:  <GBSeq_organism>Gluconobacter frateurii</GBSeq_organism>
+./X71863.xml:  <GBSeq_organism>Acetobacter pasteurianus subsp. pasteurianus LMG 1262 = NBRC 106471</GBSeq_organism>
+./X77468.xml:  <GBSeq_organism>Acidomonas methanolica</GBSeq_organism>
+./X75617.xml:  <GBSeq_organism>Gluconacetobacter liquefaciens</GBSeq_organism>
+./X74066.xml:  <GBSeq_organism>Acetobacter aceti NBRC 14818</GBSeq_organism>
+./D86513.xml:  <GBSeq_organism>Rhodopila globiformis</GBSeq_organism>
+./X80775.xml:  <GBSeq_organism>Gluconobacter cerinus</GBSeq_organism>

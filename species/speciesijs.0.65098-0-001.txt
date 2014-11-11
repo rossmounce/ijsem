@@ -1,0 +1,33 @@
+./AJ249113.xml:  <GBSeq_organism>uncultured bacterium SHA-105</GBSeq_organism>
+./U20797.xml:  <GBSeq_organism>unidentified eubacterium clone SAR202</GBSeq_organism>
+./AJ009468.xml:  <GBSeq_organism>uncultured bacterium SJA-58</GBSeq_organism>
+./U81649.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF093427.xml:  <GBSeq_organism>Oscillochloris trichoides DG-6</GBSeq_organism>
+./AF027043.xml:  <GBSeq_organism>unidentified green non-sulfur bacterium OPB9</GBSeq_organism>
+./AJ249111.xml:  <GBSeq_organism>uncultured bacterium SHA-53</GBSeq_organism>
+./AF050566.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-62</GBSeq_organism>
+./AB109437.xml:  <GBSeq_organism>Anaerolinea thermolimosa</GBSeq_organism>
+./AF050562.xml:  <GBSeq_organism>uncultured eubacterium WCHB1-05</GBSeq_organism>
+./AJ009487.xml:  <GBSeq_organism>uncultured bacterium SJA-116</GBSeq_organism>
+./AJ009500.xml:  <GBSeq_organism>uncultured bacterium SJA-170</GBSeq_organism>
+./X53210.xml:  <GBSeq_organism>Sphaerobacter thermophilus DSM 20745</GBSeq_organism>
+./AF004928.xml:  <GBSeq_organism>Dehalococcoides mccartyi</GBSeq_organism>
+./AJ278173.xml:  <GBSeq_organism>uncultured bacterium SHD-299</GBSeq_organism>
+./AF316763.xml:  <GBSeq_organism>uncultured Crater Lake bacterium CL500-9</GBSeq_organism>
+./AF407200.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AB243673.xml:  <GBSeq_organism>Longilinea arvoryzae</GBSeq_organism>
+./M34117.xml:  <GBSeq_organism>Herpetosiphon aurantiacus</GBSeq_organism>
+./AJ249112.xml:  <GBSeq_organism>uncultured bacterium SHA-300</GBSeq_organism>
+./M34116.xml:  <GBSeq_organism>Chloroflexus aurantiacus</GBSeq_organism>
+./AY340828.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./AF186417.xml:  <GBSeq_organism>uncultured sponge symbiont PAWS52f</GBSeq_organism>
+./AB109439.xml:  <GBSeq_organism>Levilinea saccharolytica</GBSeq_organism>
+./AF391972.xml:  <GBSeq_organism>Thermobaculum terrenum ATCC BAA-798</GBSeq_organism>
+./AF507690.xml:  <GBSeq_organism>uncultured soil bacterium</GBSeq_organism>
+./M34115.xml:  <GBSeq_organism>Thermomicrobium roseum</GBSeq_organism>
+./AJ308499.xml:  <GBSeq_organism>Chloroflexus aggregans</GBSeq_organism>
+./AF005747.xml:  <GBSeq_organism>uncultured eubacterium H1.2.f</GBSeq_organism>
+./AF005746.xml:  <GBSeq_organism>uncultured eubacterium t0.8.f</GBSeq_organism>
+./AF027036.xml:  <GBSeq_organism>unidentified green non-sulfur bacterium OPB65</GBSeq_organism>
+./AJ296573.xml:  <GBSeq_organism>uncultured bacterium GR/GS-296.II.271</GBSeq_organism>
+./AB243672.xml:  <GBSeq_organism>Bellilinea caldifistulae</GBSeq_organism>

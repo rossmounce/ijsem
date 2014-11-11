@@ -1,0 +1,8 @@
+./AF181448.xml:  <GBSeq_organism>Riemerella columbina</GBSeq_organism>
+./AY553294.xml:  <GBSeq_organism>Chryseobacterium jeonii</GBSeq_organism>
+./EF591302.xml:  <GBSeq_organism>Chryseobacterium soli</GBSeq_organism>
+./AM232809.xml:  <GBSeq_organism>Chryseobacterium pallidum</GBSeq_organism>
+./AM261868.xml:  <GBSeq_organism>Chryseobacterium hominis</GBSeq_organism>
+./AM040439.xml:  <GBSeq_organism>Chryseobacterium piscium</GBSeq_organism>
+./EU581834.xml:  <GBSeq_organism>Cloacibacterium rupense</GBSeq_organism>
+./M93153.xml:  <GBSeq_organism>Bergeyella zoohelcum</GBSeq_organism>

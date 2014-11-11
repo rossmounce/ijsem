@@ -1,0 +1,6 @@
+./X80736.xml:  <GBSeq_organism>Arthrobacter globiformis</GBSeq_organism>
+./EU332824.xml:  <GBSeq_organism>Phycicoccus ginsenosidimutans</GBSeq_organism>
+./AJ566282.xml:  <GBSeq_organism>Intrasporangium calvum DSM 43043</GBSeq_organism>
+./AJ294412.xml:  <GBSeq_organism>Knoellia sinensis</GBSeq_organism>
+./Y08539.xml:  <GBSeq_organism>Janibacter limosus</GBSeq_organism>
+./EF555583.xml:  <GBSeq_organism>Phycicoccus dokdonensis</GBSeq_organism>

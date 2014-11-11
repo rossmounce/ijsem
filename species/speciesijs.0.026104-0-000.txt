@@ -1,0 +1,15 @@
+./EF673695.xml:  <GBSeq_organism>Pseudomonas pertucinogena</GBSeq_organism>
+./EU046271.xml:  <GBSeq_organism>Pseudomonas duriflava</GBSeq_organism>
+./EU143352.xml:  <GBSeq_organism>Pseudomonas sabulinigri</GBSeq_organism>
+./D84002.xml:  <GBSeq_organism>Pseudomonas luteola</GBSeq_organism>
+./EU286805.xml:  <GBSeq_organism>Pseudomonas xinjiangensis</GBSeq_organism>
+./AY691188.xml:  <GBSeq_organism>Pseudomonas argentinensis</GBSeq_organism>
+./EF424401.xml:  <GBSeq_organism>Pseudomonas panipatensis</GBSeq_organism>
+./AF094748.xml:  <GBSeq_organism>Pseudomonas stutzeri ATCC 17588 = LMG 11199</GBSeq_organism>
+./AF068259.xml:  <GBSeq_organism>Pseudomonas jessenii</GBSeq_organism>
+./AF064460.xml:  <GBSeq_organism>Pseudomonas veronii</GBSeq_organism>
+./U01916.xml:  <GBSeq_organism>Pseudomonas flavescens</GBSeq_organism>
+./AB125366.xml:  <GBSeq_organism>Pseudomonas pachastrellae</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>
+./D84021.xml:  <GBSeq_organism>Pseudomonas nitroreducens</GBSeq_organism>
+./D84023.xml:  <GBSeq_organism>Pseudomonas straminea</GBSeq_organism>

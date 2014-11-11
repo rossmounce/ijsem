@@ -1,0 +1,15 @@
+./M96746.xml:  <GBSeq_organism>Roseobacter denitrificans OCh 114</GBSeq_organism>
+./AY180103.xml:  <GBSeq_organism>Sulfitobacter delicatus</GBSeq_organism>
+./X78312.xml:  <GBSeq_organism>Roseobacter litoralis Och 149</GBSeq_organism>
+./AY145564.xml:  <GBSeq_organism>Rhodobacteraceae bacterium AP-27</GBSeq_organism>
+./AJ550939.xml:  <GBSeq_organism>Oceanibulbus indolifex HEL-45</GBSeq_organism>
+./Y16427.xml:  <GBSeq_organism>Sulfitobacter guttiformis</GBSeq_organism>
+./Y13155.xml:  <GBSeq_organism>Sulfitobacter pontiacus</GBSeq_organism>
+./AF107210.xml:  <GBSeq_organism>Roseobacter sp. (Prionitis decipiens symbiont)</GBSeq_organism>
+./AF107209.xml:  <GBSeq_organism>Roseobacter sp. (Prionitis filiformis symbiont)</GBSeq_organism>
+./Y17387.xml:  <GBSeq_organism>Sulfitobacter mediterraneus</GBSeq_organism>
+./U37762.xml:  <GBSeq_organism>Prionitis lanceolata gall symbiont</GBSeq_organism>
+./Y16425.xml:  <GBSeq_organism>Sulfitobacter brevis</GBSeq_organism>
+./AJ748748.xml:  <GBSeq_organism>Nereida ignava</GBSeq_organism>
+./AY180102.xml:  <GBSeq_organism>Sulfitobacter dubius</GBSeq_organism>
+./AF305498.xml:  <GBSeq_organism>Roseobacter sp. KT0202a</GBSeq_organism>

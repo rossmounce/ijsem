@@ -1,0 +1,8 @@
+./X58301.xml:  <GBSeq_organism>Streptococcus acidominimus</GBSeq_organism>
+./AM774228.xml:  <GBSeq_organism>Streptococcus plurextorum</GBSeq_organism>
+./Y18026.xml:  <GBSeq_organism>Streptococcus pluranimalium</GBSeq_organism>
+./AJ307888.xml:  <GBSeq_organism>Streptococcus gallinaceus</GBSeq_organism>
+./AY232832.xml:  <GBSeq_organism>Streptococcus minor</GBSeq_organism>
+./Y09007.xml:  <GBSeq_organism>Streptococcus thoraltensis</GBSeq_organism>
+./Y17358.xml:  <GBSeq_organism>Streptococcus ovis</GBSeq_organism>
+./AJ409287.xml:  <GBSeq_organism>Streptococcus entericus</GBSeq_organism>

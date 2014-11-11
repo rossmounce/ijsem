@@ -1,0 +1,26 @@
+./AB184453.xml:  <GBSeq_organism>Streptomyces castaneus</GBSeq_organism>
+./AF346818.xml:  <GBSeq_organism>Streptomyces yunnanensis</GBSeq_organism>
+./AY094371.xml:  <GBSeq_organism>Streptomyces griseus subsp. griseus</GBSeq_organism>
+./AB184384.xml:  <GBSeq_organism>Streptomyces albulus</GBSeq_organism>
+./AB184414.xml:  <GBSeq_organism>Streptomyces libani subsp. libani</GBSeq_organism>
+./AB184341.xml:  <GBSeq_organism>Streptomyces halstedii</GBSeq_organism>
+./AJ391837.xml:  <GBSeq_organism>Streptomyces melanosporofaciens</GBSeq_organism>
+./AJ621610.xml:  <GBSeq_organism>Streptomyces rimosus subsp. paromomycinus</GBSeq_organism>
+./AJ621612.xml:  <GBSeq_organism>Streptomyces tubercidicus</GBSeq_organism>
+./AB184678.xml:  <GBSeq_organism>Streptomyces noursei</GBSeq_organism>
+./AB184171.xml:  <GBSeq_organism>Streptomyces sioyaensis</GBSeq_organism>
+./AB184545.xml:  <GBSeq_organism>Streptomyces thermoviolaceus subsp. thermoviolaceus</GBSeq_organism>
+./AJ391823.xml:  <GBSeq_organism>Streptomyces violaceusniger</GBSeq_organism>
+./AJ621609.xml:  <GBSeq_organism>Streptomyces chrestomyceticus JCM 4735</GBSeq_organism>
+./AB184817.xml:  <GBSeq_organism>Streptomyces angustmyceticus</GBSeq_organism>
+./AB184513.xml:  <GBSeq_organism>Streptomyces roseocinereus</GBSeq_organism>
+./AB184128.xml:  <GBSeq_organism>Streptomyces fasiculatus</GBSeq_organism>
+./AB184184.xml:  <GBSeq_organism>Streptomyces antibioticus JCM 4620</GBSeq_organism>
+./Y15507.xml:  <GBSeq_organism>Streptomyces lydicus</GBSeq_organism>
+./AB184361.xml:  <GBSeq_organism>Streptomyces viridis</GBSeq_organism>
+./AB184225.xml:  <GBSeq_organism>Streptomyces nigrescens</GBSeq_organism>
+./AB184288.xml:  <GBSeq_organism>Streptomyces olivaceoviridis</GBSeq_organism>
+./AB184325.xml:  <GBSeq_organism>Streptomyces kurssanovii</GBSeq_organism>
+./AJ621611.xml:  <GBSeq_organism>Streptomyces chattanoogensis</GBSeq_organism>
+./AB184564.xml:  <GBSeq_organism>Streptomyces platensis</GBSeq_organism>
+./AY289116.xml:  <GBSeq_organism>Streptomyces aureofaciens</GBSeq_organism>

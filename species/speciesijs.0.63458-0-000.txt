@@ -1,0 +1,17 @@
+./L16468.xml:  <GBSeq_organism>Prevotella intermedia</GBSeq_organism>
+./L16496.xml:  <GBSeq_organism>Odoribacter splanchnicus</GBSeq_organism>
+./AY560030.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./X83935.xml:  <GBSeq_organism>Bacteroides fragilis</GBSeq_organism>
+./AY560027.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./L16497.xml:  <GBSeq_organism>Alistipes putredinis</GBSeq_organism>
+./AY134906.xml:  <GBSeq_organism>Bacteroidetes sp. oral clone FX069</GBSeq_organism>
+./AF530302.xml:  <GBSeq_organism>uncultured bacterium</GBSeq_organism>
+./L16492.xml:  <GBSeq_organism>Porphyromonas gingivalis</GBSeq_organism>
+./L16498.xml:  <GBSeq_organism>Rikenella microfusus</GBSeq_organism>
+./AB088919.xml:  <GBSeq_organism>uncultured Bacteroidaceae bacterium</GBSeq_organism>
+./AY560035.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./AB035460.xml:  <GBSeq_organism>Tannerella forsythia</GBSeq_organism>
+./AY560033.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./AY560020.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./AY560022.xml:  <GBSeq_organism>Odoribacter denticanis</GBSeq_organism>
+./AJ319867.xml:  <GBSeq_organism>Dysgonomonas mossii DSM 22836</GBSeq_organism>

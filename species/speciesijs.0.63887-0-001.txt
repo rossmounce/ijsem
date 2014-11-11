@@ -1,0 +1,11 @@
+./AY970347.xml:  <GBSeq_organism>Methanosaeta harundinacea 6Ac</GBSeq_organism>
+./M32222.xml:  <GBSeq_organism>Methanothermus fervidus</GBSeq_organism>
+./M59146.xml:  <GBSeq_organism>Methanosaeta concilii</GBSeq_organism>
+./M59144.xml:  <GBSeq_organism>Methanosarcina barkeri</GBSeq_organism>
+./M59137.xml:  <GBSeq_organism>Methanosarcina acetivorans</GBSeq_organism>
+./AY817738.xml:  <GBSeq_organism>Methanosaeta harundinacea 8Ac</GBSeq_organism>
+./U20153.xml:  <GBSeq_organism>Methanosarcina siciliae</GBSeq_organism>
+./M59135.xml:  <GBSeq_organism>Methanolobus tindarius</GBSeq_organism>
+./U20151.xml:  <GBSeq_organism>Methanosarcina mazei</GBSeq_organism>
+./M59140.xml:  <GBSeq_organism>Methanosarcina thermophila TM-1</GBSeq_organism>
+./X65537.xml:  <GBSeq_organism>Methanococcoides burtonii</GBSeq_organism>

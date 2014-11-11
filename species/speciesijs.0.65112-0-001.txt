@@ -1,0 +1,19 @@
+./AY544768.xml:  <GBSeq_organism>Aquimonas voraii</GBSeq_organism>
+./L35510.xml:  <GBSeq_organism>Nitrococcus mobilis</GBSeq_organism>
+./EF117910.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./EF455919.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./X93481.xml:  <GBSeq_organism>phototrophic bacterium</GBSeq_organism>
+./AY034139.xml:  <GBSeq_organism>Thiobacillus prosperus</GBSeq_organism>
+./EF117909.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./AJ404972.xml:  <GBSeq_organism>Alkalilimnicola halodurans</GBSeq_organism>
+./EF117912.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./M26631.xml:  <GBSeq_organism>Arhodomonas aquaeolei</GBSeq_organism>
+./U58020.xml:  <GBSeq_organism>Halothiobacillus halophilus</GBSeq_organism>
+./AF465604.xml:  <GBSeq_organism>Acidithiobacillus ferrooxidans</GBSeq_organism>
+./DQ469581.xml:  <GBSeq_organism>Thiohalomonas denitrificans</GBSeq_organism>
+./X67022.xml:  <GBSeq_organism>Marinobacter hydrocarbonoclasticus ATCC 49840</GBSeq_organism>
+./L40809.xml:  <GBSeq_organism>Thiomicrospira pelophila</GBSeq_organism>
+./M26630.xml:  <GBSeq_organism>Halorhodospira halophila</GBSeq_organism>
+./AY298904.xml:  <GBSeq_organism>Ectothiorhodosinus mongolicus</GBSeq_organism>
+./EF117918.xml:  <GBSeq_organism>Phytophthora ramorum</GBSeq_organism>
+./M93355.xml:  <GBSeq_organism>Halomonas elongata</GBSeq_organism>

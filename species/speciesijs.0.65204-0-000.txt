@@ -1,0 +1,13 @@
+./AB002482.xml:  <GBSeq_organism>Streptococcus equinus ATCC 33317</GBSeq_organism>
+./AF003930.xml:  <GBSeq_organism>Streptococcus pneumoniae</GBSeq_organism>
+./AB002518.xml:  <GBSeq_organism>Streptococcus hyointestinalis</GBSeq_organism>
+./AF104671.xml:  <GBSeq_organism>Streptococcus intermedius</GBSeq_organism>
+./AJ420200.xml:  <GBSeq_organism>Streptococcus downei MFe28</GBSeq_organism>
+./AF003929.xml:  <GBSeq_organism>Streptococcus mitis</GBSeq_organism>
+./AY188352.xml:  <GBSeq_organism>Streptococcus salivarius</GBSeq_organism>
+./AF201899.xml:  <GBSeq_organism>Streptococcus alactolyticus</GBSeq_organism>
+./AY485606.xml:  <GBSeq_organism>Streptococcus gordonii</GBSeq_organism>
+./AF104678.xml:  <GBSeq_organism>Streptococcus anginosus SK52 = DSM 20563</GBSeq_organism>
+./AY188349.xml:  <GBSeq_organism>Streptococcus sobrinus</GBSeq_organism>
+./AJ243965.xml:  <GBSeq_organism>Streptococcus mutans</GBSeq_organism>
+./AB002479.xml:  <GBSeq_organism>Streptococcus agalactiae ATCC 13813</GBSeq_organism>

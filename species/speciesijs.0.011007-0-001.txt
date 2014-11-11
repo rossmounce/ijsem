@@ -1,0 +1,15 @@
+./M22510.xml:  <GBSeq_organism>Chromobacterium violaceum</GBSeq_organism>
+./E05133.xml:  <GBSeq_organism>Escherichia coli</GBSeq_organism>
+./AY264287.xml:  <GBSeq_organism>Chitinibacter tainanensis</GBSeq_organism>
+./AJ487013.xml:  <GBSeq_organism>Microvirgula aerodenitrificans</GBSeq_organism>
+./AY344056.xml:  <GBSeq_organism>Chromobacterium subtsugae</GBSeq_organism>
+./AM295491.xml:  <GBSeq_organism>Gulbenkiania mobilis</GBSeq_organism>
+./Y17602.xml:  <GBSeq_organism>Formivibrio citricus</GBSeq_organism>
+./EU159476.xml:  <GBSeq_organism>uncultured Silvimonas sp.</GBSeq_organism>
+./AB326110.xml:  <GBSeq_organism>Silvimonas iriomotensis</GBSeq_organism>
+./EU109734.xml:  <GBSeq_organism>Chromobacterium aquaticum</GBSeq_organism>
+./AB194302.xml:  <GBSeq_organism>Silvimonas terrae</GBSeq_organism>
+./AY323827.xml:  <GBSeq_organism>Chitinimonas taiwanensis</GBSeq_organism>
+./AM397080.xml:  <GBSeq_organism>Deefgea rivuli</GBSeq_organism>
+./AF389085.xml:  <GBSeq_organism>Laribacter hongkongensis</GBSeq_organism>
+./AM396358.xml:  <GBSeq_organism>Paludibacterium yongneupense</GBSeq_organism>

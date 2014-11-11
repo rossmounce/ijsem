@@ -1,0 +1,22 @@
+./DQ303125.xml:  <GBSeq_organism>Devosia soli</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AJ535707.xml:  <GBSeq_organism>Labrys monachus</GBSeq_organism>
+./D49423.xml:  <GBSeq_organism>Devosia riboflavina</GBSeq_organism>
+./EF575560.xml:  <GBSeq_organism>Devosia geojensis</GBSeq_organism>
+./D86514.xml:  <GBSeq_organism>Blastochloris sulfoviridis</GBSeq_organism>
+./AJ548825.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./D11342.xml:  <GBSeq_organism>Azorhizobium caulinodans ORS 571</GBSeq_organism>
+./D14513.xml:  <GBSeq_organism>Rhizobium leguminosarum</GBSeq_organism>
+./X94201.xml:  <GBSeq_organism>Xanthobacter autotrophicus</GBSeq_organism>
+./X67229.xml:  <GBSeq_organism>Mesorhizobium loti</GBSeq_organism>
+./D14500.xml:  <GBSeq_organism>Agrobacterium tumefaciens</GBSeq_organism>
+./D32226.xml:  <GBSeq_organism>Methylobacterium organophilum</GBSeq_organism>
+./AM293857.xml:  <GBSeq_organism>Devosia subaequoris</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AJ548824.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./D25313.xml:  <GBSeq_organism>Rhodoplanes roseus</GBSeq_organism>
+./D16428.xml:  <GBSeq_organism>Rhodobacter capsulatus</GBSeq_organism>
+./AF469072.xml:  <GBSeq_organism>Devosia neptuniae</GBSeq_organism>
+./X69159.xml:  <GBSeq_organism>Paracoccus denitrificans</GBSeq_organism>
+./AJ548823.xml:  <GBSeq_organism>Candidatus Devosia euplotis</GBSeq_organism>
+./AJ786801.xml:  <GBSeq_organism>Devosia limi</GBSeq_organism>

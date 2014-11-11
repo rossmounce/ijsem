@@ -1,0 +1,9 @@
+./AB188089.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi</GBSeq_organism>
+./EU709018.xml:  <GBSeq_organism>Oceanobacillus neutriphilus</GBSeq_organism>
+./AB366005.xml:  <GBSeq_organism>Oceanobacillus kapialis</GBSeq_organism>
+./AJ640134.xml:  <GBSeq_organism>Oceanobacillus oncorhynchi subsp. incaldanensis</GBSeq_organism>
+./AY057394.xml:  <GBSeq_organism>Lentibacillus salicampi</GBSeq_organism>
+./BA000028.xml:  <GBSeq_organism>Oceanobacillus iheyensis HTE831</GBSeq_organism>
+./AJ133631.xml:  <GBSeq_organism>Alicyclobacillus acidoterrestris</GBSeq_organism>
+./D78477.xml:  <GBSeq_organism>Virgibacillus pantothenticus</GBSeq_organism>
+./AJ276351.xml:  <GBSeq_organism>Bacillus subtilis</GBSeq_organism>

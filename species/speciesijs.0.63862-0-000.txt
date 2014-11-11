@@ -1,0 +1,5 @@
+./AF152106.xml:  <GBSeq_organism>Catellatospora citrea subsp. citrea</GBSeq_organism>
+./AF152107.xml:  <GBSeq_organism>Catellatospora methionotrophica</GBSeq_organism>
+./AF171700.xml:  <GBSeq_organism>Catelliglobosispora koreensis DSM 44566</GBSeq_organism>
+./X92594.xml:  <GBSeq_organism>Micromonospora chalcea</GBSeq_organism>
+./AB200232.xml:  <GBSeq_organism>Catellatospora coxensis</GBSeq_organism>

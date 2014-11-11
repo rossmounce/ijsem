@@ -1,0 +1,6 @@
+./AJ293707.xml:  <GBSeq_organism>Actinocorallia longicatena</GBSeq_organism>
+./AJ293704.xml:  <GBSeq_organism>Actinocorallia glomerata</GBSeq_organism>
+./D85473.xml:  <GBSeq_organism>Actinocorallia herbida</GBSeq_organism>
+./AJ293701.xml:  <GBSeq_organism>Actinocorallia aurantiaca</GBSeq_organism>
+./U49007.xml:  <GBSeq_organism>Actinocorallia libanotica</GBSeq_organism>
+./AY966427.xml:  <GBSeq_organism>Actinocorallia cavernae</GBSeq_organism>

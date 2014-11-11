@@ -1,0 +1,12 @@
+./AY491984.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis</GBSeq_organism>
+./AY488179.xml:  <GBSeq_organism>Bifidobacterium animalis</GBSeq_organism>
+./AY488178.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis ATCC 25527</GBSeq_organism>
+./AY491987.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis</GBSeq_organism>
+./AY491983.xml:  <GBSeq_organism>Bifidobacterium animalis</GBSeq_organism>
+./AY488176.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis</GBSeq_organism>
+./AY488182.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis</GBSeq_organism>
+./AY488183.xml:  <GBSeq_organism>Bifidobacterium animalis</GBSeq_organism>
+./AY487153.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis DSM 10140</GBSeq_organism>
+./AY491985.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. lactis</GBSeq_organism>
+./AY491988.xml:  <GBSeq_organism>Bifidobacterium animalis</GBSeq_organism>
+./AY487152.xml:  <GBSeq_organism>Bifidobacterium animalis subsp. animalis ATCC 25527</GBSeq_organism>

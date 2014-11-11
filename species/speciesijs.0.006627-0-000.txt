@@ -1,0 +1,11 @@
+./EF602041.xml:  <GBSeq_organism>Kocuria flava</GBSeq_organism>
+./Y16263.xml:  <GBSeq_organism>Kocuria palustris</GBSeq_organism>
+./X87754.xml:  <GBSeq_organism>Kocuria varians</GBSeq_organism>
+./Y16264.xml:  <GBSeq_organism>Kocuria rhizophila</GBSeq_organism>
+./AJ622907.xml:  <GBSeq_organism>Kocuria carniphila</GBSeq_organism>
+./AJ278868.xml:  <GBSeq_organism>Kocuria polaris</GBSeq_organism>
+./AY987383.xml:  <GBSeq_organism>Kocuria himachalensis</GBSeq_organism>
+./X87756.xml:  <GBSeq_organism>Kocuria rosea</GBSeq_organism>
+./AY211385.xml:  <GBSeq_organism>Kocuria marina</GBSeq_organism>
+./AJ005932.xml:  <GBSeq_organism>Micrococcus antarcticus</GBSeq_organism>
+./X80749.xml:  <GBSeq_organism>Kocuria kristinae</GBSeq_organism>

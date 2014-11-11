@@ -1,0 +1,7 @@
+./AF004845.xml:  <GBSeq_organism>Methylorhabdus multivorans</GBSeq_organism>
+./AB166877.xml:  <GBSeq_organism>Starkeya koreensis</GBSeq_organism>
+./M62790.xml:  <GBSeq_organism>Ancylobacter aquaticus</GBSeq_organism>
+./AJ535708.xml:  <GBSeq_organism>Angulomicrobium tetraedrale</GBSeq_organism>
+./AJ535709.xml:  <GBSeq_organism>Angulomicrobium amanitiforme</GBSeq_organism>
+./AY056830.xml:  <GBSeq_organism>Ancylobacter rudongensis</GBSeq_organism>
+./D32247.xml:  <GBSeq_organism>Starkeya novella DSM 506</GBSeq_organism>

@@ -1,0 +1,10 @@
+./AJ698726.xml:  <GBSeq_organism>Microbacterium hydrocarbonoxydans</GBSeq_organism>
+./AM949677.xml:  <GBSeq_organism>Microbacterium invictum</GBSeq_organism>
+./AB234025.xml:  <GBSeq_organism>Microbacterium terricola</GBSeq_organism>
+./AB286029.xml:  <GBSeq_organism>Microbacterium flavum</GBSeq_organism>
+./AJ698725.xml:  <GBSeq_organism>Microbacterium oleivorans</GBSeq_organism>
+./AJ277840.xml:  <GBSeq_organism>Microbacterium phyllosphaerae</GBSeq_organism>
+./X77441.xml:  <GBSeq_organism>Microbacterium lacticum</GBSeq_organism>
+./AJ249780.xml:  <GBSeq_organism>Microbacterium foliorum</GBSeq_organism>
+./AY566291.xml:  <GBSeq_organism>Microbacterium natoriense</GBSeq_organism>
+./AY962574.xml:  <GBSeq_organism>Microbacterium koreense</GBSeq_organism>

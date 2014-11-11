@@ -1,0 +1,21 @@
+./X79851.xml:  <GBSeq_organism>Streptomyces bikiniensis</GBSeq_organism>
+./AJ781362.xml:  <GBSeq_organism>Streptomyces tanashiensis</GBSeq_organism>
+./AB184547.xml:  <GBSeq_organism>Streptomyces purpureus</GBSeq_organism>
+./AB184652.xml:  <GBSeq_organism>Streptomyces crystallinus</GBSeq_organism>
+./AB184346.xml:  <GBSeq_organism>Streptomyces zaomyceticus</GBSeq_organism>
+./AJ781330.xml:  <GBSeq_organism>Streptomyces globosus</GBSeq_organism>
+./AB184173.xml:  <GBSeq_organism>Streptomyces toxytricini</GBSeq_organism>
+./AB184387.xml:  <GBSeq_organism>Streptomyces griseochromogenes</GBSeq_organism>
+./AB184678.xml:  <GBSeq_organism>Streptomyces noursei</GBSeq_organism>
+./AB184192.xml:  <GBSeq_organism>Streptomyces cellostaticus</GBSeq_organism>
+./AB249931.xml:  <GBSeq_organism>Streptomyces flavovariabilis</GBSeq_organism>
+./AB184314.xml:  <GBSeq_organism>Streptomyces violaceorectus</GBSeq_organism>
+./EF157833.xml:  <GBSeq_organism>Streptomyces indicus</GBSeq_organism>
+./AB184411.xml:  <GBSeq_organism>Streptomyces omiyaensis</GBSeq_organism>
+./AB045890.xml:  <GBSeq_organism>Streptomyces venezuelae</GBSeq_organism>
+./AB184109.xml:  <GBSeq_organism>Streptomyces achromogenes subsp. achromogenes</GBSeq_organism>
+./AB184286.xml:  <GBSeq_organism>Streptomyces nashvillensis</GBSeq_organism>
+./AB184157.xml:  <GBSeq_organism>Streptomyces narbonensis</GBSeq_organism>
+./AM690742.xml:  <GBSeq_organism>Streptacidiphilus jeojiense</GBSeq_organism>
+./AB184349.xml:  <GBSeq_organism>Streptomyces xantholiticus</GBSeq_organism>
+./AB184175.xml:  <GBSeq_organism>Streptomyces virginiae</GBSeq_organism>

@@ -1,0 +1,12 @@
+./X85098.xml:  <GBSeq_organism>Ruminococcus albus</GBSeq_organism>
+./X98011.xml:  <GBSeq_organism>Anaerofilum agile</GBSeq_organism>
+./X66002.xml:  <GBSeq_organism>[Clostridium] sporosphaeroides</GBSeq_organism>
+./X85099.xml:  <GBSeq_organism>Ruminococcus bromii</GBSeq_organism>
+./AJ315980.xml:  <GBSeq_organism>Anaerotruncus colihominis DSM 17241</GBSeq_organism>
+./L09177.xml:  <GBSeq_organism>[Clostridium] cellulosi</GBSeq_organism>
+./X85097.xml:  <GBSeq_organism>Ruminococcus flavefaciens</GBSeq_organism>
+./X85100.xml:  <GBSeq_organism>Ruminococcus callidus</GBSeq_organism>
+./L34625.xml:  <GBSeq_organism>[Eubacterium] siraeum</GBSeq_organism>
+./X97852.xml:  <GBSeq_organism>Anaerofilum pentosovorans</GBSeq_organism>
+./AJ305238.xml:  <GBSeq_organism>[Clostridium] leptum DSM 753</GBSeq_organism>
+./M58682.xml:  <GBSeq_organism>Faecalibacterium prausnitzii</GBSeq_organism>

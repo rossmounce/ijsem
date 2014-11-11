@@ -1,0 +1,24 @@
+./X55592.xml:  <GBSeq_organism>Mycobacterium farcinogenes</GBSeq_organism>
+./AF101416.xml:  <GBSeq_organism>Gordonia desulfuricans</GBSeq_organism>
+./X73976.xml:  <GBSeq_organism>Turicella otitidis</GBSeq_organism>
+./X79287.xml:  <GBSeq_organism>Gordonia bronchialis DSM 43247</GBSeq_organism>
+./Y18054.xml:  <GBSeq_organism>Gordonia alkanivorans</GBSeq_organism>
+./Y12246.xml:  <GBSeq_organism>Tsukamurella tyrosinosolvens</GBSeq_organism>
+./X80633.xml:  <GBSeq_organism>Gordonia aichiensis</GBSeq_organism>
+./X82057.xml:  <GBSeq_organism>Corynebacterium amycolatum</GBSeq_organism>
+./Y17384.xml:  <GBSeq_organism>Williamsia muralis</GBSeq_organism>
+./X82059.xml:  <GBSeq_organism>Corynebacterium diphtheriae</GBSeq_organism>
+./X80635.xml:  <GBSeq_organism>Gordonia amarae</GBSeq_organism>
+./M29559.xml:  <GBSeq_organism>Mycobacterium chelonae</GBSeq_organism>
+./X79290.xml:  <GBSeq_organism>Dietzia maris</GBSeq_organism>
+./AF416566.xml:  <GBSeq_organism>Rhodococcus maanshanensis</GBSeq_organism>
+./X52917.xml:  <GBSeq_organism>Mycobacterium tuberculosis</GBSeq_organism>
+./AF218292.xml:  <GBSeq_organism>Nocardia abscessus NBRC 100374</GBSeq_organism>
+./X93485.xml:  <GBSeq_organism>Gordonia hirsuta DSM 44140 = NBRC 16056</GBSeq_organism>
+./AF124342.xml:  <GBSeq_organism>Rhodococcus koreensis</GBSeq_organism>
+./X55604.xml:  <GBSeq_organism>Mycobacterium asiaticum</GBSeq_organism>
+./X60070.xml:  <GBSeq_organism>Mycobacterium genavense</GBSeq_organism>
+./X92157.xml:  <GBSeq_organism>Dietzia natronolimnaea</GBSeq_organism>
+./X79288.xml:  <GBSeq_organism>Rhodococcus rhodochrous</GBSeq_organism>
+./X85955.xml:  <GBSeq_organism>Tsukamurella inchonensis</GBSeq_organism>
+./AF101418.xml:  <GBSeq_organism>Gordonia amicalis</GBSeq_organism>

@@ -1,0 +1,24 @@
+./U44825.xml:  <GBSeq_organism>Metschnikowia reukaufii</GBSeq_organism>
+./U45733.xml:  <GBSeq_organism>Metschnikowia lunata</GBSeq_organism>
+./U44817.xml:  <GBSeq_organism>Clavispora lusitaniae</GBSeq_organism>
+./U44822.xml:  <GBSeq_organism>Metschnikowia bicuspidata</GBSeq_organism>
+./U84238.xml:  <GBSeq_organism>Metschnikowia bicuspidata var. chathamia</GBSeq_organism>
+./U76526.xml:  <GBSeq_organism>Metschnikowia australis</GBSeq_organism>
+./AF279304.xml:  <GBSeq_organism>Metschnikowia lochheadii</GBSeq_organism>
+./U44818.xml:  <GBSeq_organism>Clavispora opuntiae</GBSeq_organism>
+./U45737.xml:  <GBSeq_organism>Metschnikowia gruessii</GBSeq_organism>
+./AF034127.xml:  <GBSeq_organism>Metschnikowia borealis</GBSeq_organism>
+./U84243.xml:  <GBSeq_organism>Metschnikowia agaves</GBSeq_organism>
+./U45734.xml:  <GBSeq_organism>Metschnikowia hawaiiensis</GBSeq_organism>
+./AF296438.xml:  <GBSeq_organism>Metschnikowia koreensis</GBSeq_organism>
+./U94944.xml:  <GBSeq_organism>Metschnikowia bicuspidata var. californica</GBSeq_organism>
+./AF050148.xml:  <GBSeq_organism>Candida ipomoeae</GBSeq_organism>
+./U45731.xml:  <GBSeq_organism>Candida torresii</GBSeq_organism>
+./AF279303.xml:  <GBSeq_organism>Metschnikowia drosophilae</GBSeq_organism>
+./AF034126.xml:  <GBSeq_organism>Metschnikowia continentalis</GBSeq_organism>
+./AF389527.xml:  <GBSeq_organism>Metschnikowia kunwiensis</GBSeq_organism>
+./AF034128.xml:  <GBSeq_organism>Metschnikowia hibisci</GBSeq_organism>
+./U44823.xml:  <GBSeq_organism>Metschnikowia zobellii</GBSeq_organism>
+./U44806.xml:  <GBSeq_organism>Saccharomyces cerevisiae</GBSeq_organism>
+./U45735.xml:  <GBSeq_organism>Metschnikowia krissii</GBSeq_organism>
+./U45736.xml:  <GBSeq_organism>Metschnikowia pulcherrima</GBSeq_organism>

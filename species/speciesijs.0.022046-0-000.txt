@@ -1,0 +1,19 @@
+./AB255368.xml:  <GBSeq_organism>Gilvibacter sediminis</GBSeq_organism>
+./AM491809.xml:  <GBSeq_organism>Algibacter mikhailovii</GBSeq_organism>
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY608406.xml:  <GBSeq_organism>Aquimarina muelleri</GBSeq_organism>
+./EF660761.xml:  <GBSeq_organism>Joostella marina DSM 19592</GBSeq_organism>
+./EU221275.xml:  <GBSeq_organism>Tamlana agarivorans</GBSeq_organism>
+./AM286230.xml:  <GBSeq_organism>Tamlana crocina</GBSeq_organism>
+./M58769.xml:  <GBSeq_organism>Aquimarina latercula</GBSeq_organism>
+./AB198089.xml:  <GBSeq_organism>Dokdonia diaphoros</GBSeq_organism>
+./AY883937.xml:  <GBSeq_organism>Gaetbulibacter saemankumensis</GBSeq_organism>
+./AY682200.xml:  <GBSeq_organism>Salegentibacter flavus</GBSeq_organism>
+./FJ348470.xml:  <GBSeq_organism>Aquimarina spongiae</GBSeq_organism>
+./AB265182.xml:  <GBSeq_organism>Antheraea yamamai</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AB198088.xml:  <GBSeq_organism>Dokdonia eikasta</GBSeq_organism>
+./AY195836.xml:  <GBSeq_organism>Kordia algicida OT-1</GBSeq_organism>
+./AB294107.xml:  <GBSeq_organism>Fulvibacter tottoriensis</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>
+./AY987367.xml:  <GBSeq_organism>Aquimarina brevivitae</GBSeq_organism>

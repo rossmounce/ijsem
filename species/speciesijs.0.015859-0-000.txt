@@ -1,0 +1,13 @@
+./DQ459874.xml:  <GBSeq_organism>Cohnella laeviribosi</GBSeq_organism>
+./EF368008.xml:  <GBSeq_organism>Cohnella yongneupensis</GBSeq_organism>
+./AY960748.xml:  <GBSeq_organism>Paenibacillus alkaliterrae</GBSeq_organism>
+./DQ291142.xml:  <GBSeq_organism>Paenibacillus sepulcri</GBSeq_organism>
+./AB245385.xml:  <GBSeq_organism>Paenibacillus panaciterrae</GBSeq_organism>
+./AB362828.xml:  <GBSeq_organism>Cohnella fontinalis</GBSeq_organism>
+./AM745265.xml:  <GBSeq_organism>Paenibacillus telluris</GBSeq_organism>
+./AJ971483.xml:  <GBSeq_organism>Cohnella thermotolerans</GBSeq_organism>
+./AF290916.xml:  <GBSeq_organism>Paenibacillus daejeonensis</GBSeq_organism>
+./AB265206.xml:  <GBSeq_organism>Paenibacillus nanensis</GBSeq_organism>
+./EF368010.xml:  <GBSeq_organism>Cohnella ginsengisoli</GBSeq_organism>
+./GO214052.xml:  <GBSeq_organism>Alvinella pompejana</GBSeq_organism>
+./AJ345023.xml:  <GBSeq_organism>Paenibacillus agaridevorans</GBSeq_organism>

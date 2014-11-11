@@ -1,0 +1,11 @@
+./AY187689.xml:  <GBSeq_organism>Algibacter lectus</GBSeq_organism>
+./AY651070.xml:  <GBSeq_organism>Bizionia paragorgiae</GBSeq_organism>
+./EU021217.xml:  <GBSeq_organism>Bizionia argentinensis JUB59</GBSeq_organism>
+./AY228461.xml:  <GBSeq_organism>Formosa algae</GBSeq_organism>
+./AY586527.xml:  <GBSeq_organism>Olleya marilimosa CAM030</GBSeq_organism>
+./AY694002.xml:  <GBSeq_organism>Bizionia myxarmorum</GBSeq_organism>
+./AY694003.xml:  <GBSeq_organism>Bizionia algoritergicola</GBSeq_organism>
+./U62913.xml:  <GBSeq_organism>Psychroserpens burtonensis</GBSeq_organism>
+./AY521223.xml:  <GBSeq_organism>Winogradskyella thalassocola</GBSeq_organism>
+./AY694005.xml:  <GBSeq_organism>Bizionia saleffrena</GBSeq_organism>
+./AY694001.xml:  <GBSeq_organism>Lacinutrix copepodicola</GBSeq_organism>
